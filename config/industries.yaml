@@ -1,0 +1,48 @@
+industrial_distributors_importers:
+  label_fa: توزیع کننده و واردکننده صنعتی
+  priority: 1
+  workflow_families: [rfq_quotation, sku_matching, order_intake, internal_knowledge]
+industrial_manufacturers:
+  label_fa: تولیدکننده صنعتی
+  priority: 2
+  workflow_families: [production_reporting, quality_documentation, maintenance_knowledge, procurement]
+food_fmcg:
+  label_fa: غذا و کالاهای تندمصرف
+  priority: 3
+  workflow_families: [order_intake, inventory_exceptions, demand_replenishment, branch_reporting]
+logistics_freight_customs:
+  label_fa: حمل‌ونقل، فورواردری و ترخیص
+  priority: 4
+  workflow_families: [shipment_documents, customer_service, management_reporting]
+printing_packaging_labeling:
+  label_fa: چاپ، بسته‌بندی و لیبل
+  priority: 5
+  workflow_families: [rfq_quotation, document_extraction, production_reporting]
+medical_equipment:
+  label_fa: تجهیزات پزشکی و آزمایشگاهی
+  priority: 6
+  workflow_families: [tender_processing, sku_matching, service_tickets, internal_knowledge]
+auto_parts:
+  label_fa: قطعات خودرو
+  priority: 7
+  workflow_families: [sku_matching, rfq_quotation, inventory_exceptions, returns]
+epc_engineering_contractors:
+  label_fa: EPC و پیمانکاری مهندسی
+  priority: 8
+  workflow_families: [tender_processing, boq_matching, contract_search, management_reporting]
+building_materials_mep:
+  label_fa: مصالح ساختمانی و تاسیسات
+  priority: 9
+  workflow_families: [boq_matching, rfq_quotation, document_extraction]
+industrial_maintenance_after_sales:
+  label_fa: نگهداری صنعتی و خدمات پس از فروش
+  priority: 10
+  workflow_families: [service_tickets, maintenance_knowledge, parts_lookup]
+pharma:
+  label_fa: دارویی
+  priority: 11
+  workflow_families: [regulatory_documents, internal_knowledge, inventory_exceptions]
+other:
+  label_fa: سایر
+  priority: 99
+  workflow_families: [management_reporting, internal_knowledge]

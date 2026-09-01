@@ -1,0 +1,32 @@
+# Secrets, credentials and browser state
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+cookies*
+storage-state*
+playwright/.auth/
+browser-profiles/
+tmp/
+
+# Reproducible runtime caches and local databases
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+*.sqlite
+*.sqlite3
+data/raw/http-cache/
+data/raw/browser-cache/
+outputs/
+
+# macOS metadata and editor files
+.DS_Store
+._*
+.AppleDouble
+.LSOverride
+
+# Logs are retained as small, structured artifacts; never commit secrets
+logs/*.log
+logs/*.tmp
