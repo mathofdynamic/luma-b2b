@@ -18,7 +18,7 @@ Run `python3 -m src.utilities.qa --input data/normalized/companies.jsonl` after 
 ## Final QA
 
 Status: **PASSED**
-Generated: 2026-09-01T09:38:12Z
+Generated: 2026-09-01T09:44:25Z
 
 | Check | Result |
 |---|---:|

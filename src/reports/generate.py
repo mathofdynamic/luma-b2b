@@ -107,10 +107,10 @@ def best_evidence(company: dict[str, Any], limit: int = 3) -> list[str]:
             continue
         snippet = evidence.get("quote_or_snippet")
         if snippet:
-            values.append(snippet)
+            values.append(str(snippet).strip())
     for source in company.get("source_records", []):
         if source.get("evidence_snippet"):
-            values.append(source["evidence_snippet"])
+            values.append(str(source["evidence_snippet"]).strip())
     return list(dict.fromkeys(values))[:limit]
 
 
@@ -230,6 +230,9 @@ def write_reports(companies: list[dict[str, Any]]) -> dict[str, int]:
     gallery = ["# Evidence Gallery", "", "Visual evidence was captured with isolated headless Playwright sessions through the direct proxy. Screenshots are public-page evidence, not synthetic images.", ""]
     gallery_dir = path_for("reports", "top_100_evidence")
     gallery_dir.mkdir(parents=True, exist_ok=True)
+    for old_file in gallery_dir.glob("*.md"):
+        if not old_file.name.startswith("._"):
+            old_file.unlink()
     for index, company in enumerate(top, 1):
         shots = screenshot_paths(company["company_id"])
         sources = source_urls(company)

@@ -1,6 +1,6 @@
 # LUMA B2B Tehran — Executive Summary
 
-Generated: 2026-09-01T09:38:12Z
+Generated: 2026-09-01T09:44:25Z
 
 The first production run contains **6,576 raw candidate rows**, **6,084 canonical company records**, **900 meaningfully enriched records**, and **6,084 scored records**.
 
