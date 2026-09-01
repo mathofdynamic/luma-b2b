@@ -8,6 +8,7 @@ cookies*
 storage-state*
 playwright/.auth/
 browser-profiles/
+.playwright-cli/
 tmp/
 
 # Reproducible runtime caches and local databases
@@ -15,11 +16,13 @@ __pycache__/
 *.pyc
 .pytest_cache/
 .venv/
+node_modules/
 *.sqlite
 *.sqlite3
 data/raw/http-cache/
 data/raw/browser-cache/
 outputs/
+*.inspect.ndjson
 
 # macOS metadata and editor files
 .DS_Store

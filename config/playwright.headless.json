@@ -1,0 +1,20 @@
+{
+  "browser": {
+    "launchOptions": {
+      "headless": true,
+      "proxy": {
+        "server": "http://127.0.0.1:1087"
+      }
+    },
+    "contextOptions": {
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "locale": "fa-IR",
+      "timezoneId": "Asia/Tehran",
+      "colorScheme": "light",
+      "ignoreHTTPSErrors": false
+    }
+  }
+}

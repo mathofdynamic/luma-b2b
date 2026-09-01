@@ -26,6 +26,21 @@ discovery:
       - https://rtcguild.ir/
       - https://etkfz.com/members
       - https://calendar.iranfair.com/en/home/index
+  - name: vic_industrial_estates
+    enabled: true
+    urls:
+      - name: شهرک صنعتی شمس آباد
+        url: https://vic.ir/company/zone?cp=364230000&cc=364230000009&cn=%D8%B4%D9%87%D8%B1%DA%A9%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D8%B4%D9%85%D8%B3%20%D8%A2%D8%A8%D8%A7%D8%AF&pn=%D8%AA%D9%87%D8%B1%D8%A7%D9%86
+      - name: شهرک صنعتی عباس آباد
+        url: https://vic.ir/company/zone?cp=364230000&cc=364230000010&cn=%D8%B4%D9%87%D8%B1%DA%A9%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D8%B9%D8%A8%D8%A7%D8%B3%20%D8%A2%D8%A8%D8%A7%D8%AF&pn=%D8%AA%D9%87%D8%B1%D8%A7%D9%86
+      - name: شهرک صنعتی پرند
+        url: https://vic.ir/company/zone?cp=364230000&cc=364230000002&cn=%D8%B4%D9%87%D8%B1%DA%A9%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D9%BE%D8%B1%D9%86%D8%AF&pn=%D8%AA%D9%87%D8%B1%D8%A7%D9%86
+      - name: شهرک صنعتی نصیرآباد
+        url: https://vic.ir/company/zone?cp=364230000&cc=364230000013&cn=%D8%B4%D9%87%D8%B1%DA%A9%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D9%86%D8%B5%DB%8C%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF&pn=%D8%B4%D9%87%D8%B1%DB%8C%D8%A7%D8%B1
+      - name: شهرک صنعتی قدس
+        url: https://vic.ir/company/zone?cp=364230000&cc=364230000024&cn=%D8%B4%D9%87%D8%B1%DA%A9%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D9%82%D8%AF%D8%B3&pn=%D8%AA%D9%87%D8%B1%D8%A7%D9%86
+      - name: شهرک صنعتی قرچک
+        url: https://vic.ir/company/zone?cp=364230000&cc=364230000012&cn=%D8%B4%D9%87%D8%B1%DA%A9%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D9%82%D8%B1%DA%86%DA%A9&pn=%D8%AA%D9%87%D8%B1%D8%A7%D9%86
 avval_categories:
   - تولید و پخش تجهیزات پزشکی
   - فروش تجهیزات آزمایشگاهی

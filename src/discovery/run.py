@@ -332,6 +332,71 @@ def parse_official_page(body: str, source_url: str) -> list[dict[str, Any]]:
     return rows
 
 
+def parse_vic_zone(body: str, source_url: str, zone_name: str) -> list[dict[str, Any]]:
+    """Parse public company/activity rows from the Tehran-province VIC zone index.
+
+    The page is a public industrial-estate index. It gives us an organization
+    name and a declared industrial activity, but not proof of revenue, staff or
+    current operating status. Those unknowns remain explicit in enrichment and
+    scoring.
+    """
+    title = extract_title(body)
+    rows: list[dict[str, Any]] = []
+    seen: set[str] = set()
+    item_pattern = re.compile(r'<a[^>]+class=["\']ComItem["\'][^>]*>(.*?)</a>', re.I | re.S)
+    for match in item_pattern.finditer(body or ""):
+        anchor = match.group(0)
+        name = clean_text(html_to_text(match.group(1), 300))
+        href_match = re.search(r'href=["\']([^"\']+)', anchor, re.I)
+        profile_url = canonical_url(href_match.group(1), source_url) if href_match else None
+        if not name or not profile_url:
+            continue
+        next_item = item_pattern.search(body, match.end())
+        tail = body[match.end(): next_item.start() if next_item else match.end() + 1600]
+        description_match = re.search(r'<a[^>]+class=["\']Description["\'][^>]*>(.*?)</a>', tail, re.I | re.S)
+        activity = clean_text(html_to_text(description_match.group(1), 1200)) if description_match else ""
+        key = profile_url or stable_hash(name, activity, zone_name)
+        if key in seen:
+            continue
+        seen.add(key)
+        industry, industry_fa = classify_industry(zone_name, name, activity)
+        rows.append({
+            "raw_candidate_id": stable_hash(source_url, profile_url, name),
+            "company_name_fa": name,
+            "brand_name_fa": name,
+            "company_name_en": name if re.search(r"[A-Za-z]", name) else None,
+            "aliases": [],
+            "website": None,
+            "domain": None,
+            "industry": industry,
+            "industry_fa": industry_fa,
+            "sub_industry": activity or zone_name,
+            "description": activity,
+            "hq_address": zone_name + ", استان تهران",
+            "city": "تهران",
+            "province": "استان تهران",
+            "tehran_area": zone_name,
+            "industrial_zone": zone_name,
+            "phones_public": [],
+            "emails_public": [],
+            "linkedin_company_url": None,
+            "social_profiles": [],
+            "latitude": None,
+            "longitude": None,
+            "source_url": source_url,
+            "source_title": title,
+            "source_type": "industrial_estate_registry",
+            "source_quality": "industrial_source",
+            "source_published_at": None,
+            "discovery_reason": f"Public VIC industrial-estate index: {zone_name}",
+            "evidence_class": "OBSERVED",
+            "evidence_snippet": activity or name,
+            "profile_url": profile_url,
+            "discovered_at": now_iso(),
+        })
+    return rows
+
+
 def run_preflight(proxy: str) -> bool:
     result = subprocess.run([sys.executable, "-m", "src.utilities.network_preflight", "--proxy", proxy], capture_output=True, text=True, check=False)
     print(result.stdout[-5000:])
@@ -408,6 +473,20 @@ def main() -> int:
             source_runs.append({"source": "official_and_associations", "url": url, "rows": len(parsed), "status": result.get("status"), "elapsed_ms": result.get("elapsed_ms")})
             if result.get("status") is None:
                 errors.append({"url": url, "error": result.get("error")})
+
+    vic_cfg = next((item for item in (config.get("discovery") or []) if item.get("name") == "vic_industrial_estates"), {})
+    vic_urls = vic_cfg.get("urls") or []
+    print(f"Starting VIC industrial-estate discovery: pages={len(vic_urls)}")
+    for entry in vic_urls:
+        zone_name = entry.get("name") if isinstance(entry, dict) else "Industrial estate"
+        url = entry.get("url") if isinstance(entry, dict) else entry
+        result = fetch_url(url, proxy=proxy, limiter=limiter, timeout=35.0, max_bytes=4_000_000)
+        parsed = parse_vic_zone(result.get("body", ""), url, zone_name) if result.get("body") else []
+        rows.extend(parsed)
+        source_runs.append({"source": "vic_industrial_estates", "zone": zone_name, "url": url, "rows": len(parsed), "status": result.get("status"), "elapsed_ms": result.get("elapsed_ms")})
+        if result.get("status") is None:
+            errors.append({"url": url, "error": result.get("error")})
+        print(f"VIC {zone_name}: {len(parsed)} rows")
 
     output = path_for("data", "raw", "candidates.jsonl")
     write_jsonl(output, rows)
