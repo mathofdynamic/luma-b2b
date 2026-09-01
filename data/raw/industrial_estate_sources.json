@@ -1,0 +1,55 @@
+{
+  "errors": [],
+  "generated_at": "2026-09-01T07:06:12Z",
+  "proxy": "http://127.0.0.1:1087",
+  "runs": [
+    {
+      "elapsed_ms": 1538.4,
+      "rows": 1913,
+      "source": "vic_industrial_estates",
+      "status": 200,
+      "url": "https://vic.ir/company/zone?cp=364230000&cc=364230000009&cn=%D8%B4%D9%87%D8%B1%DA%A9%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D8%B4%D9%85%D8%B3%20%D8%A2%D8%A8%D8%A7%D8%AF&pn=%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
+      "zone": "شهرک صنعتی شمس آباد"
+    },
+    {
+      "elapsed_ms": 1490.8,
+      "rows": 1688,
+      "source": "vic_industrial_estates",
+      "status": 200,
+      "url": "https://vic.ir/company/zone?cp=364230000&cc=364230000010&cn=%D8%B4%D9%87%D8%B1%DA%A9%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D8%B9%D8%A8%D8%A7%D8%B3%20%D8%A2%D8%A8%D8%A7%D8%AF&pn=%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
+      "zone": "شهرک صنعتی عباس آباد"
+    },
+    {
+      "elapsed_ms": 1490.0,
+      "rows": 323,
+      "source": "vic_industrial_estates",
+      "status": 200,
+      "url": "https://vic.ir/company/zone?cp=364230000&cc=364230000002&cn=%D8%B4%D9%87%D8%B1%DA%A9%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D9%BE%D8%B1%D9%86%D8%AF&pn=%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
+      "zone": "شهرک صنعتی پرند"
+    },
+    {
+      "elapsed_ms": 472.8,
+      "rows": 362,
+      "source": "vic_industrial_estates",
+      "status": 200,
+      "url": "https://vic.ir/company/zone?cp=364230000&cc=364230000013&cn=%D8%B4%D9%87%D8%B1%DA%A9%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D9%86%D8%B5%DB%8C%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF&pn=%D8%B4%D9%87%D8%B1%DB%8C%D8%A7%D8%B1",
+      "zone": "شهرک صنعتی نصیرآباد"
+    },
+    {
+      "elapsed_ms": 393.7,
+      "rows": 8,
+      "source": "vic_industrial_estates",
+      "status": 200,
+      "url": "https://vic.ir/company/zone?cp=364230000&cc=364230000024&cn=%D8%B4%D9%87%D8%B1%DA%A9%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D9%82%D8%AF%D8%B3&pn=%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
+      "zone": "شهرک صنعتی قدس"
+    },
+    {
+      "elapsed_ms": 597.6,
+      "rows": 167,
+      "source": "vic_industrial_estates",
+      "status": 200,
+      "url": "https://vic.ir/company/zone?cp=364230000&cc=364230000012&cn=%D8%B4%D9%87%D8%B1%DA%A9%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D9%82%D8%B1%DA%86%DA%A9&pn=%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
+      "zone": "شهرک صنعتی قرچک"
+    }
+  ]
+}

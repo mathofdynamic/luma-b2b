@@ -1,0 +1,30 @@
+{
+  "digital_maturity_formula": "exp(-((d-55)/24)^2)",
+  "notes": [
+    "Public evidence cannot prove internal volume, budget or decision authority.",
+    "Missing data lowers confidence and can incur a risk penalty.",
+    "Digital maturity is scored separately from digital-maturity fit and peaks in the fragmented middle."
+  ],
+  "score_version": "2026.09.evidence-first-v1",
+  "thresholds": {
+    "A": ">=80",
+    "B": "70-79",
+    "C": "60-69",
+    "D": "45-59",
+    "Reject": "<45 or hard disqualifier"
+  },
+  "weights": {
+    "ai_roi_score": 16,
+    "company_strength_score": 12,
+    "data_readiness_score": 10,
+    "digital_maturity_fit_score": 12,
+    "expected_project_value_score": 5,
+    "implementation_score": 4,
+    "operational_complexity_score": 12,
+    "outsourcing_fit_score": 8,
+    "regulatory_score": 2,
+    "sales_access_score": 6,
+    "sales_cycle_ease_score": 3,
+    "workflow_density_score": 10
+  }
+}
