@@ -1,0 +1,58 @@
+{
+  "company_id": "ir-teh-6a264f32a76cc810",
+  "errors": [],
+  "generated_at": "2026-09-01T08:29:22Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [
+    {
+      "bytes": 8130,
+      "captured_at": "2026-09-01T08:29:20Z",
+      "company_id": "ir-teh-6a264f32a76cc810",
+      "headless": true,
+      "page_title": "Error",
+      "path": "companies/ir-teh-6a264f32a76cc810/screenshots/homepage_candidate.png",
+      "reason_this_matters": "Public company-site candidate; capture verifies whether it is reachable.",
+      "screenshot_type": "homepage_candidate",
+      "source_url": "http://www.khcgroup.ir"
+    }
+  ],
+  "sources": [
+    {
+      "discovered_at": "2026-09-01T06:31:39Z",
+      "discovery_reason": "Book-e Avval category: تولید مواد اولیه دارو",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "شرکت خاکسار شیمی ایرانیان با بیش از دو دهه تجربه فعالیت در زمینه تامین و تولید مواد اولیه و محصولات مرتبط با صنایع شیمیایی، دارویی، غذایی، بهداشتی، آرایشی و ... آماده است",
+      "source_quality": "directory",
+      "source_title": "تولید مواد اولیه دارو در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%A7%D9%88%D9%84%DB%8C%D9%87%20%D8%AF%D8%A7%D8%B1%D9%88/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:31:39Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-e3ed3b37269902af",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "شرکت خاکسار شیمی ایرانیان با بیش از دو دهه تجربه فعالیت در زمینه تامین و تولید مواد اولیه و محصولات مرتبط با صنایع شیمیایی، دارویی، غذایی، بهداشتی، آرایشی و ... آماده است",
+      "source_quality": "directory",
+      "source_title": "تولید مواد اولیه دارو در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%A7%D9%88%D9%84%DB%8C%D9%87%20%D8%AF%D8%A7%D8%B1%D9%88/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:53Z",
+      "claim": "Directory profile lists شرکت خاکسار شیمی ایرانیان with a public Tehran business listing.",
+      "confidence": 0.82,
+      "evidence_id": "ev-01eac915f4e1bab4",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "شرکت خاکسار شیمی ایرانیان - تولید مواد اولیه دارو | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس شرکت خاکسار شیمی ایرانیان خاکسار شیمی ایرانیان تامین کننده و تولید کننده انواع مواد اولیه و محصولات شیمیایی، خوراکی، آرایشی و بهداشتی آماده ارایه خدمات به مشتریان است. تولید مواد اولیه دارو تولید مواد اولیه شیمیایی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل تولید مواد اولیه دارو تهران محله سنائی اطل",
+      "source_quality": "directory",
+      "source_title": "شرکت خاکسار شیمی ایرانیان - تولید مواد اولیه دارو | کتاب اول",
+      "source_url": "https://avval.ir/profile/73f3b/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%AE%D8%A7%DA%A9%D8%B3%D8%A7%D8%B1-%D8%B4%DB%8C%D9%85%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%D8%A7%D9%86"
+    }
+  ]
+}

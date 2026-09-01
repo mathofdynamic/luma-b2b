@@ -1,0 +1,68 @@
+{
+  "company_id": "ir-teh-230dd5dcdebeb072",
+  "errors": [],
+  "generated_at": "2026-09-01T07:29:30Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [
+    {
+      "bytes": 27735309,
+      "captured_at": "2026-09-01T07:29:28Z",
+      "company_id": "ir-teh-230dd5dcdebeb072",
+      "headless": true,
+      "page_title": "کارخانجات و واحدهای تولیدی شهرک صنعتی شمس آباد",
+      "path": "companies/ir-teh-230dd5dcdebeb072/screenshots/homepage_candidate.png",
+      "reason_this_matters": "Public company-site candidate; capture verifies whether it is reachable.",
+      "screenshot_type": "homepage_candidate",
+      "source_url": "https://vic.ir/company/zone?cp=364230000   &cc=364230000009&cn=شهرک صنعتی شمس آباد&pn=تهران"
+    }
+  ],
+  "sources": [
+    {
+      "discovered_at": "2026-09-01T06:32:24Z",
+      "discovery_reason": "DuckDuckGo Persian query: صنعتی شمس آباد تولید کننده تهران",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "فهرست شرکت ها و کارخانجات یستا مهر - پروتئین بافت دار سویا (TVP)- انواع فرآورده های جایگزین بر پایه سویا تهران شرکت تولیدی شهرک صنعتی شمس آباد شهرک صنعتی شمس آباد سعید هدایتی - انواع بلندگوی حرفه ای و تخصصی- پایه نگهدارنده ...",
+      "source_quality": "search_index",
+      "source_title": "کارخانجات و واحدهای تولیدی شهرک صنعتی شمس آباد",
+      "source_type": "search",
+      "source_url": "https://html.duckduckgo.com/html/?q=%D8%B5%D9%86%D8%B9%D8%AA%DB%8C+%D8%B4%D9%85%D8%B3+%D8%A2%D8%A8%D8%A7%D8%AF+%D8%AA%D9%88%D9%84%DB%8C%D8%AF+%DA%A9%D9%86%D9%86%D8%AF%D9%87+%D8%AA%D9%87%D8%B1%D8%A7%D9%86&s=0&kl=ir-fa"
+    },
+    {
+      "discovered_at": "2026-09-01T06:32:24Z",
+      "discovery_reason": "DuckDuckGo Persian query: صنعتی شمس آباد تولید کننده تهران",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "فهرست شرکت ها و کارخانجات یستا مهر - پروتئین بافت دار سویا (TVP)- انواع فرآورده های جایگزین بر پایه سویا تهران شرکت تولیدی شهرک صنعتی شمس آباد شهرک صنعتی شمس آباد سعید هدایتی - انواع بلندگوی حرفه ای و تخصصی- پایه نگهدارنده ...",
+      "source_quality": "search_index",
+      "source_title": "کارخانجات و واحدهای تولیدی شهرک صنعتی شمس آباد",
+      "source_type": "search",
+      "source_url": "https://html.duckduckgo.com/html/?q=%D8%B5%D9%86%D8%B9%D8%AA%DB%8C+%D8%B4%D9%85%D8%B3+%D8%A2%D8%A8%D8%A7%D8%AF+%D8%AA%D9%88%D9%84%DB%8C%D8%AF+%DA%A9%D9%86%D9%86%D8%AF%D9%87+%D8%AA%D9%87%D8%B1%D8%A7%D9%86&s=30&kl=ir-fa"
+    },
+    {
+      "captured_at": "2026-09-01T06:32:24Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-be6b8d04d340769c",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "فهرست شرکت ها و کارخانجات یستا مهر - پروتئین بافت دار سویا (TVP)- انواع فرآورده های جایگزین بر پایه سویا تهران شرکت تولیدی شهرک صنعتی شمس آباد شهرک صنعتی شمس آباد سعید هدایتی - انواع بلندگوی حرفه ای و تخصصی- پایه نگهدارنده ...",
+      "source_quality": "search_index",
+      "source_title": "کارخانجات و واحدهای تولیدی شهرک صنعتی شمس آباد",
+      "source_url": "https://html.duckduckgo.com/html/?q=%D8%B5%D9%86%D8%B9%D8%AA%DB%8C+%D8%B4%D9%85%D8%B3+%D8%A2%D8%A8%D8%A7%D8%AF+%D8%AA%D9%88%D9%84%DB%8C%D8%AF+%DA%A9%D9%86%D9%86%D8%AF%D9%87+%D8%AA%D9%87%D8%B1%D8%A7%D9%86&s=0&kl=ir-fa"
+    },
+    {
+      "captured_at": "2026-09-01T06:32:24Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-ebf940f7e8f7a587",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "فهرست شرکت ها و کارخانجات یستا مهر - پروتئین بافت دار سویا (TVP)- انواع فرآورده های جایگزین بر پایه سویا تهران شرکت تولیدی شهرک صنعتی شمس آباد شهرک صنعتی شمس آباد سعید هدایتی - انواع بلندگوی حرفه ای و تخصصی- پایه نگهدارنده ...",
+      "source_quality": "search_index",
+      "source_title": "کارخانجات و واحدهای تولیدی شهرک صنعتی شمس آباد",
+      "source_url": "https://html.duckduckgo.com/html/?q=%D8%B5%D9%86%D8%B9%D8%AA%DB%8C+%D8%B4%D9%85%D8%B3+%D8%A2%D8%A8%D8%A7%D8%AF+%D8%AA%D9%88%D9%84%DB%8C%D8%AF+%DA%A9%D9%86%D9%86%D8%AF%D9%87+%D8%AA%D9%87%D8%B1%D8%A7%D9%86&s=30&kl=ir-fa"
+    }
+  ]
+}

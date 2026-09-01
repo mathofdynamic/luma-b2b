@@ -1,0 +1,142 @@
+{
+  "company_id": "ir-teh-3fd9d0c220b495e3",
+  "errors": [],
+  "generated_at": "2026-09-01T08:12:52Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [
+    {
+      "bytes": 1836208,
+      "captured_at": "2026-09-01T08:12:50Z",
+      "company_id": "ir-teh-3fd9d0c220b495e3",
+      "headless": true,
+      "page_title": "صفحه اصلی * - کیمیاگران",
+      "path": "companies/ir-teh-3fd9d0c220b495e3/screenshots/homepage.png",
+      "reason_this_matters": "Public company homepage is the primary visual evidence surface.",
+      "screenshot_type": "homepage",
+      "source_url": "https://kimyagaran.com/"
+    }
+  ],
+  "sources": [
+    {
+      "discovered_at": "2026-09-01T06:31:39Z",
+      "discovery_reason": "Book-e Avval category: تولید مواد اولیه دارو",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "تولید انواع پلی اتیلن گلایکول های دارویی - تولید و عرضه انواع مختلف محصولات اتوکسیله دارویی و شیمیایی از جمله پلی سوربات ها، نونیل فنول های اتوکسیله، الکل های چرب اتوکسیل",
+      "source_quality": "directory",
+      "source_title": "تولید مواد اولیه دارو در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%A7%D9%88%D9%84%DB%8C%D9%87%20%D8%AF%D8%A7%D8%B1%D9%88/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:31:39Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-d58307fde26cb6c8",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "تولید انواع پلی اتیلن گلایکول های دارویی - تولید و عرضه انواع مختلف محصولات اتوکسیله دارویی و شیمیایی از جمله پلی سوربات ها، نونیل فنول های اتوکسیله، الکل های چرب اتوکسیل",
+      "source_quality": "directory",
+      "source_title": "تولید مواد اولیه دارو در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%A7%D9%88%D9%84%DB%8C%D9%87%20%D8%AF%D8%A7%D8%B1%D9%88/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:53Z",
+      "claim": "Directory profile lists شرکت کیمیاگران امروز with a public Tehran business listing.",
+      "confidence": 0.82,
+      "evidence_id": "ev-a148ee2e5facdc24",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "شرکت کیمیاگران امروز - فروش مواد اولیه شیمیایی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس شرکت کیمیاگران امروز فروش مواد اولیه شیمیایی تولید مواد اولیه دارو تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل فروش مواد اولیه شیمیایی تهران محله نیلوفر اطلاعات تماس آدرس : تهران، منطقه 7، محله نیلوفر، خیابان سهروردی شمالی، خیابان هویزه غربی، پلاک 133 تلفن : نمایش شماره XXXXXXXXXX فکس : نمایش شماره XXXX",
+      "source_quality": "directory",
+      "source_title": "شرکت کیمیاگران امروز - فروش مواد اولیه شیمیایی | کتاب اول",
+      "source_url": "https://avval.ir/profile/6c554/%D8%B4%D8%B1%DA%A9%D8%AA-%DA%A9%DB%8C%D9%85%DB%8C%D8%A7%DA%AF%D8%B1%D8%A7%D9%86-%D8%A7%D9%85%D8%B1%D9%88%D8%B2"
+    },
+    {
+      "captured_at": "2026-09-01T07:17:03Z",
+      "claim": "Public website signal: catalog_or_products",
+      "confidence": 0.86,
+      "evidence_id": "ev-1f2086be177faef4",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "کاتالوگ; محصولات; محصول | صفحه اصلی * - کیمیاگران صفحه اصلی محصولات کاربرد محصولات دسته بندی شیمیایی اتوکسیلات ها آمین های چرب اتوکسیله استر های اتوکسیله استرهای غیر اتوکسیله اسید های چرب اتوکسیله الکل های اتوکسیله روغن کرچک اتوکسیله روغن کرچک هیدروژنه اتوکسیله سوربیتان استر های اتوکسیله گلیسرین های اتوکسیله لانولین های اتوکسیله نونیل فنول های اتوکسیله اتیلن گلایکول ها پروپیلن گلایکول ها گرید صنعتی گرید دارویی پلی اتیلن گلیکول ها گرید صنعتی گ",
+      "signal": "catalog_or_products",
+      "source_quality": "company_site",
+      "source_title": "صفحه اصلی * - کیمیاگران",
+      "source_url": "https://kimyagaran.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:17:03Z",
+      "claim": "Public website signal: order_or_contact_form",
+      "confidence": 0.72,
+      "evidence_id": "ev-4dd908d8d860e680",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "تماس با ما | صفحه اصلی * - کیمیاگران صفحه اصلی محصولات کاربرد محصولات دسته بندی شیمیایی اتوکسیلات ها آمین های چرب اتوکسیله استر های اتوکسیله استرهای غیر اتوکسیله اسید های چرب اتوکسیله الکل های اتوکسیله روغن کرچک اتوکسیله روغن کرچک هیدروژنه اتوکسیله سوربیتان استر های اتوکسیله گلیسرین های اتوکسیله لانولین های اتوکسیله نونیل فنول های اتوکسیله اتیلن گلایکول ها پروپیلن گلایکول ها گرید صنعتی گرید دارویی پلی اتیلن گلیکول ها گرید صنعتی گ",
+      "signal": "order_or_contact_form",
+      "source_quality": "company_site",
+      "source_title": "صفحه اصلی * - کیمیاگران",
+      "source_url": "https://kimyagaran.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:17:03Z",
+      "claim": "Public website signal: branches_or_dealers",
+      "confidence": 0.72,
+      "evidence_id": "ev-57447a8c0ea3f47d",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "دفاتر | صفحه اصلی * - کیمیاگران صفحه اصلی محصولات کاربرد محصولات دسته بندی شیمیایی اتوکسیلات ها آمین های چرب اتوکسیله استر های اتوکسیله استرهای غیر اتوکسیله اسید های چرب اتوکسیله الکل های اتوکسیله روغن کرچک اتوکسیله روغن کرچک هیدروژنه اتوکسیله سوربیتان استر های اتوکسیله گلیسرین های اتوکسیله لانولین های اتوکسیله نونیل فنول های اتوکسیله اتیلن گلایکول ها پروپیلن گلایکول ها گرید صنعتی گرید دارویی پلی اتیلن گلیکول ها گرید صنعتی گ",
+      "signal": "branches_or_dealers",
+      "source_quality": "company_site",
+      "source_title": "صفحه اصلی * - کیمیاگران",
+      "source_url": "https://kimyagaran.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:17:03Z",
+      "claim": "Public website signal: factory_or_warehouse",
+      "confidence": 0.86,
+      "evidence_id": "ev-e1fe8c4fd161e41a",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "کارخانه | صفحه اصلی * - کیمیاگران صفحه اصلی محصولات کاربرد محصولات دسته بندی شیمیایی اتوکسیلات ها آمین های چرب اتوکسیله استر های اتوکسیله استرهای غیر اتوکسیله اسید های چرب اتوکسیله الکل های اتوکسیله روغن کرچک اتوکسیله روغن کرچک هیدروژنه اتوکسیله سوربیتان استر های اتوکسیله گلیسرین های اتوکسیله لانولین های اتوکسیله نونیل فنول های اتوکسیله اتیلن گلایکول ها پروپیلن گلایکول ها گرید صنعتی گرید دارویی پلی اتیلن گلیکول ها گرید صنعتی گ",
+      "signal": "factory_or_warehouse",
+      "source_quality": "company_site",
+      "source_title": "صفحه اصلی * - کیمیاگران",
+      "source_url": "https://kimyagaran.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:17:03Z",
+      "claim": "Public website signal: projects_or_clients",
+      "confidence": 0.72,
+      "evidence_id": "ev-04b19ee660ffef11",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "مشتریان | صفحه اصلی * - کیمیاگران صفحه اصلی محصولات کاربرد محصولات دسته بندی شیمیایی اتوکسیلات ها آمین های چرب اتوکسیله استر های اتوکسیله استرهای غیر اتوکسیله اسید های چرب اتوکسیله الکل های اتوکسیله روغن کرچک اتوکسیله روغن کرچک هیدروژنه اتوکسیله سوربیتان استر های اتوکسیله گلیسرین های اتوکسیله لانولین های اتوکسیله نونیل فنول های اتوکسیله اتیلن گلایکول ها پروپیلن گلایکول ها گرید صنعتی گرید دارویی پلی اتیلن گلیکول ها گرید صنعتی گ",
+      "signal": "projects_or_clients",
+      "source_quality": "company_site",
+      "source_title": "صفحه اصلی * - کیمیاگران",
+      "source_url": "https://kimyagaran.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:17:03Z",
+      "claim": "Public website signal: certifications",
+      "confidence": 0.72,
+      "evidence_id": "ev-596407f20f243764",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "گواهینامه | صفحه اصلی * - کیمیاگران صفحه اصلی محصولات کاربرد محصولات دسته بندی شیمیایی اتوکسیلات ها آمین های چرب اتوکسیله استر های اتوکسیله استرهای غیر اتوکسیله اسید های چرب اتوکسیله الکل های اتوکسیله روغن کرچک اتوکسیله روغن کرچک هیدروژنه اتوکسیله سوربیتان استر های اتوکسیله گلیسرین های اتوکسیله لانولین های اتوکسیله نونیل فنول های اتوکسیله اتیلن گلایکول ها پروپیلن گلایکول ها گرید صنعتی گرید دارویی پلی اتیلن گلیکول ها گرید صنعتی گ",
+      "signal": "certifications",
+      "source_quality": "company_site",
+      "source_title": "صفحه اصلی * - کیمیاگران",
+      "source_url": "https://kimyagaran.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:17:03Z",
+      "claim": "Public website signal: expansion_or_activity",
+      "confidence": 0.72,
+      "evidence_id": "ev-05dd13555307a030",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "توسعه; صادرات; تولیدکننده | صفحه اصلی * - کیمیاگران صفحه اصلی محصولات کاربرد محصولات دسته بندی شیمیایی اتوکسیلات ها آمین های چرب اتوکسیله استر های اتوکسیله استرهای غیر اتوکسیله اسید های چرب اتوکسیله الکل های اتوکسیله روغن کرچک اتوکسیله روغن کرچک هیدروژنه اتوکسیله سوربیتان استر های اتوکسیله گلیسرین های اتوکسیله لانولین های اتوکسیله نونیل فنول های اتوکسیله اتیلن گلایکول ها پروپیلن گلایکول ها گرید صنعتی گرید دارویی پلی اتیلن گلیکول ها گرید صنعتی گ",
+      "signal": "expansion_or_activity",
+      "source_quality": "company_site",
+      "source_title": "صفحه اصلی * - کیمیاگران",
+      "source_url": "https://kimyagaran.com/"
+    }
+  ]
+}

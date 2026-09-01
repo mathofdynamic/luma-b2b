@@ -1,0 +1,517 @@
+### Page
+- Page URL: https://kianpardaz.com/
+- Page Title: صفحه اصلی - نرم افزار حسابداری کیان پرداز
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - link "پرش به محتوا" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=e3]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - link "درخواست دمو" [ref=e10] [cursor=pointer]:
+          - /url: https://kianpardaz.com/%d8%af%d8%b1%d8%ae%d9%88%d8%a7%d8%b3%d8%aa-%d8%af%d9%85%d9%88%db%8c-%d9%86%d8%b1%d9%85-%d8%a7%d9%81%d8%b2%d8%a7%d8%b1/
+        - link "ارسال تیکت" [ref=e16] [cursor=pointer]:
+          - /url: "#"
+        - link "تماس با ما" [ref=e20] [cursor=pointer]:
+          - /url: /contact-us
+      - generic [ref=e21]:
+        - link "درخواست نمایندگی" [ref=e25] [cursor=pointer]:
+          - /url: /%d9%81%d8%b1%d9%85-%d8%af%d8%b1%d8%ae%d9%88%d8%a7%d8%b3%d8%aa-%d9%86%d9%85%d8%a7%db%8c%d9%86%d8%af%da%af%db%8c/
+        - generic [ref=e26]: "02191006670"
+    - generic [ref=e29]:
+      - link [ref=e32] [cursor=pointer]:
+        - /url: https://kianpardaz.com
+        - img "نرم افزار حسابداری کیان پرداز" [ref=e33]
+      - navigation "منو" [ref=e36]:
+        - generic "تاگل فهرست" [ref=e37]:
+          - list [ref=e38]:
+            - listitem [ref=e39]:
+              - link "صفحه نخست" [ref=e41] [cursor=pointer]:
+                - /url: https://kianpardaz.com
+            - listitem [ref=e49]:
+              - generic [ref=e50]:
+                - generic [ref=e51]: محصولات کیان پرداز
+                - button "Open محصولات کیان پرداز":
+                  - generic:
+                    - generic [ref=e53] [cursor=pointer]
+                    - generic [ref=e54] [cursor=pointer]: Open محصولات کیان پرداز
+            - listitem [ref=e55]:
+              - generic [ref=e56]:
+                - generic [ref=e57]: نمایندگی
+                - button "Open نمایندگی":
+                  - generic:
+                    - generic [ref=e59] [cursor=pointer]
+                    - generic [ref=e60] [cursor=pointer]: Open نمایندگی
+            - listitem [ref=e61]:
+              - generic [ref=e62]:
+                - generic [ref=e63]: رسانه
+                - button "Open رسانه":
+                  - generic:
+                    - generic [ref=e65] [cursor=pointer]
+                    - generic [ref=e66] [cursor=pointer]: Open رسانه
+            - listitem [ref=e67]:
+              - link "دانلود" [ref=e69] [cursor=pointer]:
+                - /url: https://www.kianpardaz.net/kp/
+            - listitem [ref=e71]:
+              - link "سوالات متداول" [ref=e73] [cursor=pointer]:
+                - /url: https://kianpardaz.com/%d8%b3%d9%88%d8%a7%d9%84%d8%a7%d8%aa-%d9%85%d8%aa%d8%af%d8%a7%d9%88%d9%84/
+            - listitem [ref=e75]:
+              - generic [ref=e76]:
+                - link "ارتباط با ما" [ref=e77] [cursor=pointer]:
+                  - /url: https://kianpardaz.com/contact-us/
+                - button "Open ارتباط با ما":
+                  - generic:
+                    - generic [ref=e79] [cursor=pointer]
+                    - generic [ref=e80] [cursor=pointer]: Open ارتباط با ما
+  - main [ref=e81]:
+    - generic [ref=e83]:
+      - generic [ref=e84]:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - link [ref=e85] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e86]: 
+                  - link [ref=e87] [cursor=pointer]:
+                    - /url: ""
+                    - generic [ref=e88]: 
+      - generic [ref=e90]:
+        - generic [ref=e91]:
+          - img "kianpardaz0301" [ref=e94]
+          - generic [ref=e95]: نرم افزار فروشگاه زنجیره ای
+          - paragraph [ref=e99]: نرم افزار حسابداری فروشگاه زنجیره ای و شعبه ای کیان پرداز ، مناسب برای فروشگاه های زنجیره ای و چند شعبه ای همچون هایپر مارکت های مواد غذایی، پوشاک و…، که دارای مدیریت مرکزی ، فروش شعبه ای و حسابداری متمرکز است.
+          - link "مشاهده محصول" [ref=e103] [cursor=pointer]:
+            - /url: https://kianpardaz.com/%d9%81%d8%b1%d9%88%d8%b4%da%af%d8%a7%d9%87-%d8%b2%d9%86%d8%ac%db%8c%d8%b1%d9%87-%d8%a7%db%8c/
+        - generic [ref=e106]:
+          - img "kianpardaz0302" [ref=e109]
+          - heading "نرم افزار پخش مویرگی" [level=2] [ref=e112]
+          - paragraph [ref=e115]: نرم افزار حسابداری پخش مویرگی کیان پرداز ، مناسب براي واحد ها ، فروشگاه ها و شرکت های پخش و توزیع کالا می باشد که ، در راستای فروش و توزيع در حوزه هاي پخش موادغذايي، پخش لبنيات، پخش آرايشي و بهداشتي، پخش لوازم پزشکي ، ابزار آلات و …
+          - link "مشاهده محصول" [ref=e119] [cursor=pointer]:
+            - /url: https://kianpardaz.com/%d9%86%d8%b1%d9%85-%d8%a7%d9%81%d8%b2%d8%a7%d8%b1-%d9%be%d8%ae%d8%b4-%d9%85%d9%88%db%8c%d8%b1%da%af%db%8c-%da%a9%db%8c%d8%a7%d9%86-%d9%be%d8%b1%d8%af%d8%a7%d8%b2/
+        - generic [ref=e122]:
+          - img "kianpardaz0303" [ref=e125]
+          - generic [ref=e126]: نرم افزار حسابداری فروشگاهی
+          - paragraph [ref=e130]: نرم افزار حسابداری فروشگاهی جامع و عمومی کیان پرداز در سه نسخه متوسط ، تکمیلی، پیشرفته برای انواع صنف ها و شغل ها با امکانات جامع مناسب شرکت‌های بازرگانی و خدماتی و همچنین صنوف مختلف و مراکز فروش مانند پوشاک ، یدکی ،ابزار ، کیف و کفش و…
+          - link "مشاهده محصول" [ref=e134] [cursor=pointer]:
+            - /url: https://kianpardaz.com/%d9%86%d8%b1%d9%85-%d8%a7%d9%81%d8%b2%d8%a7%d8%b1-%d8%ad%d8%b3%d8%a7%d8%a8%d8%af%d8%a7%d8%b1%db%8c-%da%a9%db%8c%d8%a7%d9%86-%d9%be%d8%b1%d8%af%d8%a7%d8%b2/
+      - generic [ref=e138]:
+        - generic [ref=e139]:
+          - heading "گروه نرم افزاری کیان پرداز" [level=2] [ref=e142]
+          - generic [ref=e144]:
+            - paragraph [ref=e145]: شرکت نرم افزاری کیان پرداز ، در راستای طراحی و توسعه سیستم های نرم افزاری در زمینه های مالی و حسابداری تحت پلت فرم دات نت با کادری مجرب در سال 1386و شماره ثبت 7100 شروع به فعالیت نموده و پس از آن با گسترش فعالیت خود و سازگاری نرم افزارهای تولیدی خود برای تجهیزات سخت افزاری متنوع (تجهیزات و سیستم های مبتنی بر بارکد، تجهیزات فروشگاهی و …) به کار خود ادامه می دهد.نسخه های فروشگاهی، بازرگانی، شرکتی و تولیدی نرم افزار حسابداری کیان پرداز و همچنین سامانه ارتباط از راهدور نرم افزاری از دستاورهای برتر این شرکت می باشد.
+            - paragraph [ref=e146]: در ضمن واحد پشتیبانی کیان پرداز نیزبا خدمات متنوع خود، توانسته رضایمتندی درصد قابل توجهی ازمشتریان خود را جلب نماید.
+          - generic [ref=e147]:
+            - link "درباره کیان پردازبیشتر بدانید" [ref=e151] [cursor=pointer]:
+              - /url: https://kianpardaz.com/%d8%af%d8%b1%d8%ae%d9%88%d8%a7%d8%b3%d8%aa-%d8%af%d9%85%d9%88%db%8c-%d9%86%d8%b1%d9%85-%d8%a7%d9%81%d8%b2%d8%a7%d8%b1/
+            - link "درخواست دمو نرم افزار" [ref=e157] [cursor=pointer]:
+              - /url: https://kianpardaz.com/%d8%af%d8%b1%d8%ae%d9%88%d8%a7%d8%b3%d8%aa-%d8%af%d9%85%d9%88%db%8c-%d9%86%d8%b1%d9%85-%d8%a7%d9%81%d8%b2%d8%a7%d8%b1/
+        - img "نرم افزار حسابداری کیان پرداز" [ref=e163]
+      - generic [ref=e166]:
+        - generic [ref=e167]: یک قانون مهم برای کسب و کارتان
+        - generic [ref=e171]:
+          - paragraph [ref=e172]: با هر نوع کسب و کار ، صنف و شغلی که دارید ؛ می توانید با خرید یک نرم افزار های حسابداری برای کسب و کارتان، علاوه بر سرعت بخشیدن به وضعیت فروشتان ؛ می توانید سود، هزینه، فاکتورها، گزارش های وضعیت فروش ، مقایسه درآمدها و همه حساب و کتابتان را بهتر و با سرعت قابل توجهی مدیریت نمایید.
+          - paragraph [ref=e173]: همکاران ما بررسی فرایند کسب و کار شما بهترین راهکارها را برایتان ارائه خواهند نمود و بیشترین همکاری های لازم را با شما به سرانجام برسانند
+        - generic [ref=e174]: حال پیشنهاد ما چیست؟
+        - paragraph [ref=e178]: با همکاری با گروه نرم افزاری کیان پرداز و با تهیه یکی از نسخه های سری نرم افزارهای حسابداری کیان پرداز ، می توانید به راحتی و با سادگی همه خواسته ها و درگیری های مالی خود را در کسب و کاری که دارید ، به سر انجام برسانید.
+      - generic [ref=e179]: مزایا و قابلیت‌های نوآورانه نرم‌افزارهای حسابداری کیان پرداز برای خدمات متفاوت به مشتریان
+      - generic [ref=e187]:
+        - generic [ref=e188]:
+          - heading "راهکارهای ما برای کسب و کارها" [level=2] [ref=e191]
+          - generic [ref=e193]:
+            - paragraph [ref=e194]: بهترین راهکارها برای تهیه نرم افزار حسابداری کسب و کارتان را میتوانید با مشاوره گروه نرم افزاری کیان پرداز تهیه نمایید.
+            - paragraph [ref=e195]: با ارائه راهکارهای صنف و راهکارهای مشاغل کیان پرداز میتوانید بهترین گزینه را برای کسب و کارتان را تهیه نمایید.
+            - paragraph [ref=e196]: با مشاوره با تیم فروش کیان پرداز میتوانید از نرم افزارهای مخصوص صنفی یا همان مشاغل متنوع را برای خودتان تهیه نمایید که این راهکارهای کیان پرداز میتواند بهترین مشائره برای شما باشد تا بعد از خرید نرم افزار حسابداری مخصوص نف خود خیالتان آسوده باشد.
+          - link "درخواست دمو نرم افزار" [ref=e200] [cursor=pointer]:
+            - /url: https://kianpardaz.com/%d8%af%d8%b1%d8%ae%d9%88%d8%a7%d8%b3%d8%aa-%d8%af%d9%85%d9%88%db%8c-%d9%86%d8%b1%d9%85-%d8%a7%d9%81%d8%b2%d8%a7%d8%b1/
+          - link "نرم افزار فروشگاهی صنفی مشاغل" [ref=e207] [cursor=pointer]:
+            - /url: https://kianpardaz.com/%d9%86%d8%b1%d9%85-%d8%a7%d9%81%d8%b2%d8%a7%d8%b1-%d8%ad%d8%b3%d8%a7%d8%a8%d8%af%d8%a7%d8%b1%db%8c-%da%a9%db%8c%d8%a7%d9%86-%d9%be%d8%b1%d8%af%d8%a7%d8%b2/
+        - img "kianshop" [ref=e213]
+      - generic [ref=e215]:
+        - heading "ماژول ها (زیر سیستم ) های نرم افزار حسابداری کیان پرداز" [level=2] [ref=e219]
+        - link "مشاهده همه ماژول ها" [ref=e224] [cursor=pointer]:
+          - /url: https://kianpardaz.com/%d9%85%d8%a7%da%98%d9%88%d9%84-%d9%87%d8%a7-%d9%88-%d8%b2%db%8c%d8%b1-%d8%b3%db%8c%d8%b3%d8%aa%d9%85-%d9%87%d8%a7/
+      - generic [ref=e230]:
+        - list [ref=e231]:
+          - generic [ref=e232]:
+            - group [ref=e233]:
+              - generic [ref=e236]:
+                - link [ref=e239] [cursor=pointer]:
+                  - /url: https://kianpardaz.com/%d9%85%d8%a7%da%98%d9%88%d9%84-%da%a9%d8%a7%d8%b4%db%8c-%d9%88-%d8%b3%d8%b1%d8%a7%d9%85%db%8c%da%a9/
+                  - img "ماژول کاشی و سرامیک" [ref=e240]
+                - heading [level=1] [ref=e243]:
+                  - link "ماژول کاشی و سرامیک" [ref=e244] [cursor=pointer]:
+                    - /url: https://kianpardaz.com/%d9%85%d8%a7%da%98%d9%88%d9%84-%da%a9%d8%a7%d8%b4%db%8c-%d9%88-%d8%b3%d8%b1%d8%a7%d9%85%db%8c%da%a9/
+            - group [ref=e245]:
+              - generic [ref=e248]:
+                - link [ref=e251] [cursor=pointer]:
+                  - /url: https://kianpardaz.com/%d9%85%d8%a7%da%98%d9%88%d9%84-%d8%af%d8%ae%d8%a7%d9%86%db%8c%d8%a7%d8%aa-%d9%88-%d8%b3%db%8c%da%af%d8%a7%d8%b1/
+                  - img "ماژول دخانیات و سیگار" [ref=e252]
+                - heading [level=1] [ref=e255]:
+                  - link "ماژول دخانیات و سیگار" [ref=e256] [cursor=pointer]:
+                    - /url: https://kianpardaz.com/%d9%85%d8%a7%da%98%d9%88%d9%84-%d8%af%d8%ae%d8%a7%d9%86%db%8c%d8%a7%d8%aa-%d9%88-%d8%b3%db%8c%da%af%d8%a7%d8%b1/
+            - group [ref=e257]:
+              - generic [ref=e260]:
+                - link [ref=e263] [cursor=pointer]:
+                  - /url: https://kianpardaz.com/%d9%85%d8%a7%da%98%d9%88%d9%84-log-%da%a9%db%8c%d8%a7%d9%86-%d9%be%d8%b1%d8%af%d8%a7%d8%b2-2/
+                  - img "ماژول Log کیان پرداز" [ref=e264]
+                - heading [level=1] [ref=e267]:
+                  - link "ماژول Log کیان پرداز" [ref=e268] [cursor=pointer]:
+                    - /url: https://kianpardaz.com/%d9%85%d8%a7%da%98%d9%88%d9%84-log-%da%a9%db%8c%d8%a7%d9%86-%d9%be%d8%b1%d8%af%d8%a7%d8%b2-2/
+            - group [ref=e269]:
+              - generic [ref=e272]:
+                - link [ref=e275] [cursor=pointer]:
+                  - /url: https://kianpardaz.com/%d9%85%d8%a7%da%98%d9%88%d9%84-%d8%a2%d9%84%d8%a7%d8%b1%d9%85-%da%86%d9%86%d8%af-%d9%82%db%8c%d9%85%d8%aa-%d9%81%d8%b1%d9%88%d8%b4/
+                  - img "ماژول آلارم چند قیمت فروش" [ref=e276]
+                - heading [level=1] [ref=e279]:
+                  - link "ماژول آلارم چند قیمت فروش" [ref=e280] [cursor=pointer]:
+                    - /url: https://kianpardaz.com/%d9%85%d8%a7%da%98%d9%88%d9%84-%d8%a2%d9%84%d8%a7%d8%b1%d9%85-%da%86%d9%86%d8%af-%d9%82%db%8c%d9%85%d8%aa-%d9%81%d8%b1%d9%88%d8%b4/
+            - group [ref=e281]:
+              - generic [ref=e284]:
+                - link [ref=e287] [cursor=pointer]:
+                  - /url: https://kianpardaz.com/%d9%85%d8%a7%da%98%d9%88%d9%84-%d9%82%d8%b1%d8%a7%d8%b1%d8%af%d8%a7%d8%af-%d8%aa%d8%a7%d9%85%db%8c%d9%86-%da%a9%d9%86%d9%86%d8%af%da%af%d8%a7%d9%86-%d9%88-%d9%85%d8%b5%d9%88%d8%a8/
+                  - img "ماژول قرارداد تامین کنندگان و مصوب" [ref=e288]
+                - heading [level=1] [ref=e291]:
+                  - link "ماژول قرارداد تامین کنندگان و مصوب" [ref=e292] [cursor=pointer]:
+                    - /url: https://kianpardaz.com/%d9%85%d8%a7%da%98%d9%88%d9%84-%d9%82%d8%b1%d8%a7%d8%b1%d8%af%d8%a7%d8%af-%d8%aa%d8%a7%d9%85%db%8c%d9%86-%da%a9%d9%86%d9%86%d8%af%da%af%d8%a7%d9%86-%d9%88-%d9%85%d8%b5%d9%88%d8%a8/
+            - group [ref=e293]:
+              - generic [ref=e296]:
+                - link [ref=e299] [cursor=pointer]:
+                  - /url: https://kianpardaz.com/%d9%85%d8%a7%da%98%d9%88%d9%84-%da%a9%db%8c%d9%88%d8%b3%da%a9-%d9%84%d9%85%d8%b3%db%8c/
+                  - img "ماژول کیوسک لمسی" [ref=e300]
+                - heading [level=1] [ref=e303]:
+                  - link "ماژول کیوسک لمسی" [ref=e304] [cursor=pointer]:
+                    - /url: https://kianpardaz.com/%d9%85%d8%a7%da%98%d9%88%d9%84-%da%a9%db%8c%d9%88%d8%b3%da%a9-%d9%84%d9%85%d8%b3%db%8c/
+        - button "قبلی" [ref=e305] [cursor=pointer]
+        - button "بعدی" [ref=e308] [cursor=pointer]
+      - navigation "فهرست" [ref=e323]:
+        - generic "تاگل فهرست" [ref=e324]:
+          - list [ref=e325]:
+            - listitem [ref=e326]:
+              - link "درخواست نمایندگی کیان‌پرداز" [ref=e328] [cursor=pointer]:
+                - /url: https://kianpardaz.com/%d9%81%d8%b1%d9%85-%d8%af%d8%b1%d8%ae%d9%88%d8%a7%d8%b3%d8%aa-%d9%86%d9%85%d8%a7%db%8c%d9%86%d8%af%da%af%db%8c/
+            - listitem [ref=e336]:
+              - link "اخبار کیان‌پرداز" [ref=e338] [cursor=pointer]:
+                - /url: https://kianpardaz.com/%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1-%da%a9%db%8c%d8%a7%d9%86-%d9%be%d8%b1%d8%af%d8%a7%d8%b2/
+            - listitem [ref=e346]:
+              - link "پشتیبانی کیان‌پرداز" [ref=e348] [cursor=pointer]:
+                - /url: https://kianpardaz.com/%d9%be%d8%b4%d8%aa%db%8c%d8%a8%d8%a7%d9%86%db%8c-%da%a9%db%8c%d8%a7%d9%86-%d9%be%d8%b1%d8%af%d8%a7%d8%b2/
+      - generic [ref=e358]:
+        - generic [ref=e359]: واحد پشتیبانی و فنی گروه نرم افزاری کیان پرداز
+        - generic [ref=e362]:
+          - paragraph [ref=e363]: واحد پشتیبانی شرکت نرم افزاری کیان پرداز ، متشکل از یک تیم فنی مجرب و توانمند می باشد، که جهت انجام مسائل و موارد پشتیبانی و امور مربوط به نرم افزارها ، آموزش های تخصصی و امور مشابه با بروزترین ابزارهای پشتیبانی و دانش فنی قوی و بروز ، مشغول به فعالیت مستمر می باشند ، که با حساسیت کامل و با امکانات جامع پشتیبانی، خدمات دقیق و متنوعی را به مشتریان خود ارائه می دهند.
+          - paragraph [ref=e364]: در این واحد با ابزارهای جدید ثبت پشتیبانی و به صورت سیستمی و سامانه ای جهت پیگیری امورهای مشتریان و خدمات پس از فروش را با بهترین کیفیت به مشتریان و همراهان گرامی ارائه می دهد.
+        - generic [ref=e366]:
+          - link "پاسخ گویی تخصصی" [ref=e370] [cursor=pointer]:
+            - /url: "#"
+          - link "تماس لحظه‌ای" [ref=e379] [cursor=pointer]:
+            - /url: "#"
+          - link "پیگیری تماس‌ها" [ref=e388] [cursor=pointer]:
+            - /url: "#"
+          - link "CRM پشتیبانی" [ref=e394] [cursor=pointer]:
+            - /url: "#"
+          - link "سرویس تیکت" [ref=e400] [cursor=pointer]:
+            - /url: "#"
+          - link "آموزش ‌های جامع" [ref=e406] [cursor=pointer]:
+            - /url: "#"
+        - link "ارتباط با پشتیبانی" [ref=e413] [cursor=pointer]:
+          - /url: https://kianpardaz.com/%d9%be%d8%b4%d8%aa%db%8c%d8%a8%d8%a7%d9%86%db%8c-%da%a9%db%8c%d8%a7%d9%86-%d9%be%d8%b1%d8%af%d8%a7%d8%b2/
+      - generic [ref=e422]:
+        - generic [ref=e423]:
+          - heading "آخرین مقالات" [level=2] [ref=e430]
+          - link "کلیک کنید" [ref=e434] [cursor=pointer]:
+            - /url: /%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa/
+          - paragraph [ref=e442]: برای مشاهده تمامی مقالات
+        - generic [ref=e445]:
+          - list [ref=e446]:
+            - generic [ref=e447]:
+              - group [ref=e448]:
+                - generic [ref=e450]:
+                  - link [ref=e453] [cursor=pointer]:
+                    - /url: https://kianpardaz.com/%da%86%da%af%d9%88%d9%86%d9%87-%d8%b3%d8%b1%d9%82%d8%aa-%d8%af%d8%a7%d8%ae%d9%84%db%8c-%d9%81%d8%b1%d9%88%d8%b4%da%af%d8%a7%d9%87-%d8%b1%d8%a7-%d8%aa%d8%b4%d8%ae%db%8c%d8%b5-%d8%af%d9%87%db%8c%d9%85/
+                    - img "سرقت از فروشگاه ها" [ref=e454]
+                  - link "چگونه سرقت داخلی فروشگاه را با نرم‌افزار حسابداری تشخیص دهیم؟ راهنمای جامع پیشگیری از کسری موجودی و تخلفات پرسنل" [ref=e458] [cursor=pointer]:
+                    - /url: https://kianpardaz.com/%da%86%da%af%d9%88%d9%86%d9%87-%d8%b3%d8%b1%d9%82%d8%aa-%d8%af%d8%a7%d8%ae%d9%84%db%8c-%d9%81%d8%b1%d9%88%d8%b4%da%af%d8%a7%d9%87-%d8%b1%d8%a7-%d8%aa%d8%b4%d8%ae%db%8c%d8%b5-%d8%af%d9%87%db%8c%d9%85/
+                  - generic [ref=e459]: سرقت داخلی، کسری موجودی و اختلاف صندوق از مهم‌ترین چالش‌های مدیران فروشگاه‌ها هستند که اگر به‌موقع شناسایی...
+                  - link "بیشتر بخوانید ..." [ref=e464] [cursor=pointer]:
+                    - /url: https://kianpardaz.com/%da%86%da%af%d9%88%d9%86%d9%87-%d8%b3%d8%b1%d9%82%d8%aa-%d8%af%d8%a7%d8%ae%d9%84%db%8c-%d9%81%d8%b1%d9%88%d8%b4%da%af%d8%a7%d9%87-%d8%b1%d8%a7-%d8%aa%d8%b4%d8%ae%db%8c%d8%b5-%d8%af%d9%87%db%8c%d9%85/
+                  - list [ref=e469]:
+                    - listitem [ref=e470]:
+                      - link "مقاله" [ref=e476] [cursor=pointer]:
+                        - /url: https://kianpardaz.com/%d9%85%d9%82%d8%a7%d9%84%d9%87/
+              - group [ref=e477]:
+                - generic [ref=e479]:
+                  - link [ref=e482] [cursor=pointer]:
+                    - /url: https://kianpardaz.com/%d8%b5%d9%86%d8%af%d9%88%d9%82-%d9%81%d8%b1%d9%88%d8%b4%da%af%d8%a7%d9%87%db%8c-%da%86%db%8c%d8%b3%d8%aa%d8%9f/
+                    - img "صندوق فروش چیست ؟" [ref=e483]
+                  - link "صندوق فروشگاهی چیست؟ [چک‌لیست کامل تجهیزات و نرم‌افزار برای فروشگاه شما]" [ref=e487] [cursor=pointer]:
+                    - /url: https://kianpardaz.com/%d8%b5%d9%86%d8%af%d9%88%d9%82-%d9%81%d8%b1%d9%88%d8%b4%da%af%d8%a7%d9%87%db%8c-%da%86%db%8c%d8%b3%d8%aa%d8%9f/
+                  - generic [ref=e488]: به دنبال راهی برای افزایش سرعت فروش و کاهش خطاهای انسانی در فروشگاه خود هستید؟ راه اندازی...
+                  - link "بیشتر بخوانید ..." [ref=e493] [cursor=pointer]:
+                    - /url: https://kianpardaz.com/%d8%b5%d9%86%d8%af%d9%88%d9%82-%d9%81%d8%b1%d9%88%d8%b4%da%af%d8%a7%d9%87%db%8c-%da%86%db%8c%d8%b3%d8%aa%d8%9f/
+                  - list [ref=e498]:
+                    - listitem [ref=e499]:
+                      - link "مقاله" [ref=e505] [cursor=pointer]:
+                        - /url: https://kianpardaz.com/%d9%85%d9%82%d8%a7%d9%84%d9%87/
+              - group [ref=e506]:
+                - generic [ref=e508]:
+                  - link [ref=e511] [cursor=pointer]:
+                    - /url: https://kianpardaz.com/%d8%b1%d8%a7%d9%87%d9%86%d9%85%d8%a7%db%8c-%d8%ac%d8%a7%d9%85%d8%b9-%d8%ae%d8%b1%db%8c%d8%af-%d9%86%d8%b1%d9%85%d8%a7%d9%81%d8%b2%d8%a7%d8%b1-%d8%ad%d8%b3%d8%a7%d8%a8%d8%af%d8%a7%d8%b1%db%8c/
+                    - img "خرید نرم‌افزار حسابداری" [ref=e512]
+                  - link "راهنمای جامع خرید نرم‌افزار حسابداری؛ ۱۲ نکته حیاتی که باید بدانید" [ref=e516] [cursor=pointer]:
+                    - /url: https://kianpardaz.com/%d8%b1%d8%a7%d9%87%d9%86%d9%85%d8%a7%db%8c-%d8%ac%d8%a7%d9%85%d8%b9-%d8%ae%d8%b1%db%8c%d8%af-%d9%86%d8%b1%d9%85%d8%a7%d9%81%d8%b2%d8%a7%d8%b1-%d8%ad%d8%b3%d8%a7%d8%a8%d8%af%d8%a7%d8%b1%db%8c/
+                  - generic [ref=e517]: انتخاب اشتباه نرم‌افزار حسابداری می‌تواند به معنای از دست رفتن داده‌های مالی، گزارش‌های نادرست و هزینه‌های سنگین...
+                  - link "بیشتر بخوانید ..." [ref=e522] [cursor=pointer]:
+                    - /url: https://kianpardaz.com/%d8%b1%d8%a7%d9%87%d9%86%d9%85%d8%a7%db%8c-%d8%ac%d8%a7%d9%85%d8%b9-%d8%ae%d8%b1%db%8c%d8%af-%d9%86%d8%b1%d9%85%d8%a7%d9%81%d8%b2%d8%a7%d8%b1-%d8%ad%d8%b3%d8%a7%d8%a8%d8%af%d8%a7%d8%b1%db%8c/
+                  - list [ref=e527]:
+                    - listitem [ref=e528]:
+                      - link "مقاله" [ref=e534] [cursor=pointer]:
+                        - /url: https://kianpardaz.com/%d9%85%d9%82%d8%a7%d9%84%d9%87/
+              - group [ref=e535]:
+                - generic [ref=e537]:
+                  - link [ref=e540] [cursor=pointer]:
+                    - /url: https://kianpardaz.com/%d8%aa%d9%81%d8%a7%d9%88%d8%aa-%d9%be%d8%ae%d8%b4-%da%af%d8%b1%d9%85-%d9%88-%d9%be%d8%ae%d8%b4-%d8%b3%d8%b1%d8%af-%da%a9%db%8c%d8%a7%d9%86-%d9%be%d8%b1%d8%af%d8%a7%d8%b2/
+                    - img "تفات پخش گرم و سرد" [ref=e541]
+                  - link "تفاوت پخش گرم و پخش سرد چیست؟ راهنمای کامل انتخاب بهترین روش توزیع کالا" [ref=e545] [cursor=pointer]:
+                    - /url: https://kianpardaz.com/%d8%aa%d9%81%d8%a7%d9%88%d8%aa-%d9%be%d8%ae%d8%b4-%da%af%d8%b1%d9%85-%d9%88-%d9%be%d8%ae%d8%b4-%d8%b3%d8%b1%d8%af-%da%a9%db%8c%d8%a7%d9%86-%d9%be%d8%b1%d8%af%d8%a7%d8%b2/
+                  - generic [ref=e546]: آیا می‌دانید انتخاب بین پخش گرم و پخش سرد چگونه می‌تواند سودآوری شرکت شما را تغییر دهد؟...
+                  - link "بیشتر بخوانید ..." [ref=e551] [cursor=pointer]:
+                    - /url: https://kianpardaz.com/%d8%aa%d9%81%d8%a7%d9%88%d8%aa-%d9%be%d8%ae%d8%b4-%da%af%d8%b1%d9%85-%d9%88-%d9%be%d8%ae%d8%b4-%d8%b3%d8%b1%d8%af-%da%a9%db%8c%d8%a7%d9%86-%d9%be%d8%b1%d8%af%d8%a7%d8%b2/
+                  - list [ref=e556]:
+                    - listitem [ref=e557]:
+                      - link "مقاله" [ref=e563] [cursor=pointer]:
+                        - /url: https://kianpardaz.com/%d9%85%d9%82%d8%a7%d9%84%d9%87/
+              - group [ref=e564]:
+                - generic [ref=e566]:
+                  - link [ref=e569] [cursor=pointer]:
+                    - /url: https://kianpardaz.com/%d8%b3%d8%a7%d9%85%d8%a7%d9%86%d9%87-%d9%85%d9%88%d8%af%db%8c%d8%a7%d9%86-%da%86%db%8c%d8%b3%d8%aa%d8%9f/
+                    - img "سامانه مودیان چیست؟" [ref=e570]
+                  - link "سامانه مودیان چیست؟ | صفر تا صد ثبت نام و ارسال صورتحساب الکترونیکی" [ref=e574] [cursor=pointer]:
+                    - /url: https://kianpardaz.com/%d8%b3%d8%a7%d9%85%d8%a7%d9%86%d9%87-%d9%85%d9%88%d8%af%db%8c%d8%a7%d9%86-%da%86%db%8c%d8%b3%d8%aa%d8%9f/
+                  - generic [ref=e575]: در این مقاله به‌صورت صفر تا صد بررسی می‌کنیم که سامانه مودیان چیست، چه کسانی مشمول ثبت‌نام...
+                  - link "بیشتر بخوانید ..." [ref=e580] [cursor=pointer]:
+                    - /url: https://kianpardaz.com/%d8%b3%d8%a7%d9%85%d8%a7%d9%86%d9%87-%d9%85%d9%88%d8%af%db%8c%d8%a7%d9%86-%da%86%db%8c%d8%b3%d8%aa%d8%9f/
+                  - list [ref=e585]:
+                    - listitem [ref=e586]:
+                      - link "مقاله" [ref=e592] [cursor=pointer]:
+                        - /url: https://kianpardaz.com/%d9%85%d9%82%d8%a7%d9%84%d9%87/
+              - group [ref=e593]:
+                - generic [ref=e595]:
+                  - link [ref=e598] [cursor=pointer]:
+                    - /url: https://kianpardaz.com/%d9%85%d9%87%d9%85%d8%aa%d8%b1%db%8c%d9%86-%d8%a7%d8%b5%d8%b7%d9%84%d8%a7%d8%ad%d8%a7%d8%aa-%d8%ad%d8%b3%d8%a7%d8%a8%d8%af%d8%a7%d8%b1%db%8c/
+                    - img "اصطلاحات رایج حسابداری بین حسابدار ها" [ref=e599]
+                  - link "مهم‌ترین اصطلاحات حسابداری که هر حسابدار باید بداند" [ref=e603] [cursor=pointer]:
+                    - /url: https://kianpardaz.com/%d9%85%d9%87%d9%85%d8%aa%d8%b1%db%8c%d9%86-%d8%a7%d8%b5%d8%b7%d9%84%d8%a7%d8%ad%d8%a7%d8%aa-%d8%ad%d8%b3%d8%a7%d8%a8%d8%af%d8%a7%d8%b1%db%8c/
+                  - generic [ref=e604]: در این مقاله با مهم‌ترین و کاربردی‌ترین اصطلاحات حسابداری آشنا می‌شوید؛ مفاهیمی که پایه‌ی درک صورت‌های مالی،...
+                  - link "بیشتر بخوانید ..." [ref=e609] [cursor=pointer]:
+                    - /url: https://kianpardaz.com/%d9%85%d9%87%d9%85%d8%aa%d8%b1%db%8c%d9%86-%d8%a7%d8%b5%d8%b7%d9%84%d8%a7%d8%ad%d8%a7%d8%aa-%d8%ad%d8%b3%d8%a7%d8%a8%d8%af%d8%a7%d8%b1%db%8c/
+                  - list [ref=e614]:
+                    - listitem [ref=e615]:
+                      - link "مقاله" [ref=e621] [cursor=pointer]:
+                        - /url: https://kianpardaz.com/%d9%85%d9%82%d8%a7%d9%84%d9%87/
+          - button "قبلی" [ref=e622] [cursor=pointer]
+          - button "بعدی" [ref=e625] [cursor=pointer]
+      - generic [ref=e628]:
+        - heading "همکاری گروه نرم افزاری کیان پرداز با :" [level=2] [ref=e632]
+        - region "اسلاید ها" [ref=e637]:
+          - generic [ref=e638]:
+            - group [ref=e639]:
+              - img "behparakht-logo" [ref=e640]
+            - group [ref=e641]:
+              - img "baymax-logo" [ref=e642]
+            - group [ref=e643]:
+              - img "pariyantejarat-logo (1)" [ref=e644]
+            - group [ref=e645]:
+              - img "sama-logo" [ref=e646]
+            - group [ref=e647]:
+              - img "asanpardakht-logo" [ref=e648]
+            - group [ref=e649]:
+              - img "sinap-logo" [ref=e650]
+            - group [ref=e651]:
+              - img "posbank-logo (2)" [ref=e652]
+            - group [ref=e653]:
+              - img "kish-logo" [ref=e654]
+            - group [ref=e655]:
+              - img "behparakht-logo" [ref=e656]
+            - group [ref=e657]:
+              - img "kishpardakht-logo" [ref=e658]
+            - group [ref=e659]:
+              - img "ideh-logo" [ref=e660]
+            - group [ref=e661]:
+              - img "snapp-logo (2)" [ref=e662]
+            - group [ref=e663]:
+              - img "nezam-logo" [ref=e664]
+            - group [ref=e665]:
+              - img "shatel-logo" [ref=e666]
+            - group [ref=e667]:
+              - img "کیان پرداز" [ref=e668]
+      - generic [ref=e669]:
+        - heading "نظراتی کوتاه از برخی همراهان کیان پرداز" [level=4] [ref=e672]
+        - list [ref=e675]:
+          - generic [ref=e676]:
+            - group [ref=e677]:
+              - generic [ref=e679]:
+                - img "tarazlogo e1738949085211" [ref=e682]
+                - generic [ref=e683]:
+                  - generic [ref=e684]:
+                    - generic [ref=e685]: سیاوش مهدیون
+                    - generic [ref=e687]: مدیریت شرکت حسابداری تراز ارقام
+                  - paragraph [ref=e691]: سهولت کاربری/سرعت/گزارشات/ویژگی گرافیکی/یکپارچگی نرم‌افزار/مناسب با هر کسب‌وکار و از همه مهمتر پشتیبانی است که به صورت حضوری و غیرحضوری بدون هزینه صورت میگیره و اینجا جا داره به نوبه خودم از تک تک عزیزان این مجوعه تقدیر و تشکر کنم.
+            - group [ref=e692]:
+              - generic [ref=e694]:
+                - img "naminologo" [ref=e697]
+                - generic [ref=e698]:
+                  - generic [ref=e699]:
+                    - generic [ref=e700]: عرفان حسینی
+                    - generic [ref=e702]: نامی نو
+                  - paragraph [ref=e706]: سفارشگیر آنلاین و برنامه ویزیتور واقعا کمک خیلی زیادی به ما در سرعت بخشیدن به ثبت سفارش های ما کرده و ما قبل از این دو نرم افزار تعویض کردیم
+            - group [ref=e707]:
+              - generic [ref=e709]:
+                - img "zamzamlogo" [ref=e712]
+                - generic [ref=e713]:
+                  - generic [ref=e714]:
+                    - generic [ref=e715]: غلامرضا کرمی
+                    - generic [ref=e717]: زمزم
+                  - generic [ref=e720]:
+                    - paragraph [ref=e721]: بی بهانه ترین برنامه فروش و انبارداری برای شرکت‌هایی که می خواهند کانال فروش و توزیع راه اندازی کنند هر آنچه که از بابت تامین کالا و انبارداری و فروش و توزیع انتظار داشتیم فراهم کرده است.
+                    - paragraph
+            - group [ref=e722]:
+              - generic [ref=e724]:
+                - img "WhatsApp Image 2021 04 25 at 09.50.32 e1738948797355" [ref=e727]
+                - generic [ref=e728]:
+                  - generic [ref=e729]:
+                    - generic [ref=e730]: مهدی آرین منش
+                    - generic [ref=e732]: مدیر فروشگاه های زنجیره ای آرین
+                  - generic [ref=e735]:
+                    - paragraph [ref=e736]: "آقای آرین منش (مدیر فروشگاه های زنجیره ای آرین): بعد از استفاده 6 ساله از نرم افزار کیان پرداز ، تا بدین روز از سرعت خوب نرم افزار و پشتیبانی مداوم و بروزرسانی های های متنوع از این نرم افزار رضایت خود را اعلام می نمایم."
+                    - paragraph
+            - group [ref=e737]:
+              - generic [ref=e739]:
+                - img "ma" [ref=e742]
+                - generic [ref=e743]:
+                  - generic [ref=e744]:
+                    - generic [ref=e745]: آقای رهبری-عمان
+                    - generic [ref=e747]: پخش mitreapel
+                  - paragraph [ref=e751]: ممنون و متشکریم از جناب آقای محمدی و گروه و تیم اکتیو و فعالتون ، آرزوی موفقیت روزافزون را برای شما داریم 🌺 من شمارا به تمام دوستان و همکاران معرفی میکنم پایدار و پیروز باشید
+            - group [ref=e752]:
+              - generic [ref=e754]:
+                - img "el" [ref=e757]
+                - generic [ref=e758]:
+                  - generic [ref=e759]:
+                    - generic [ref=e760]: حسن دریانی
+                    - generic [ref=e762]: شرکت ائلیاد تجارت
+                  - paragraph [ref=e766]: شرکت ایلیاد تجارت دریانیان پخش مویرگی محصولات برند کوبیزکو تقدیر و تشکر میکنم از شرکت نرم افزار کیان پرداز بابت نرم افزار کاملشون و دقت بالا و مهم تر با پشتیبانی قوی و نازنین که همیشه همراه ما هستند
+            - group [ref=e767]:
+              - generic [ref=e769]:
+                - img "saba" [ref=e772]
+                - generic [ref=e773]:
+                  - generic [ref=e774]:
+                    - generic [ref=e775]: یاسر نصیری
+                    - generic [ref=e777]: تعاونی نخ تایر صبا
+                  - paragraph [ref=e781]: ما از ابتدای راه اندازی این فروشگاه از کیان پرداز استفاده میکنیم و با ثبت این سطح دیتا تا حالا مشکلی پیش نیاورده و همیشه امور ما رو دقیق انجام داده.
+      - heading "متن سربرگ خود را وارد کنید" [level=2] [ref=e786]
+      - generic [ref=e794]:
+        - heading [level=2] [ref=e797]:
+          - link "ساعت کاری در ایام نوروز" [ref=e798] [cursor=pointer]:
+            - /url: https://kianpardaz.com/%d8%b3%d8%a7%d8%b9%d8%aa-%da%a9%d8%a7%d8%b1%db%8c-%d8%af%d8%b1-%d8%a7%db%8c%d8%a7%d9%85-%d8%aa%d8%b9%d8%b7%db%8c%d9%84%d8%a7%d8%aa-%d9%86%d9%88%d8%b1%d9%88%d8%b2-1405/
+        - heading "متن تیتر خود را وارد کنید" [level=2] [ref=e801]
+  - contentinfo [ref=e802]:
+    - generic [ref=e804]:
+      - generic [ref=e805]:
+        - img "نرم افزار حسابداری کیان پرداز" [ref=e808]
+        - paragraph [ref=e811]: شرکت نرم افزاری کیان پرداز ، در راستای طراحی و توسعه سیستم های نرم افزاری در زمینه های مالی و حسابداری با کادری مجرب در سال 1386و با شماره ثبت 7100 شروع به فعالیت نموده است.
+      - generic [ref=e816]:
+        - heading "دسترسی سریع" [level=5] [ref=e819]
+        - list [ref=e822]:
+          - listitem [ref=e823]:
+            - link "نرم افزار های کیان پرداز" [ref=e824] [cursor=pointer]:
+              - /url: https://kianpardaz.com/%d9%86%d8%b1%d9%85-%d8%a7%d9%81%d8%b2%d8%a7%d8%b1-%d8%ad%d8%b3%d8%a7%d8%a8%d8%af%d8%a7%d8%b1%db%8c/
+          - listitem [ref=e827]:
+            - link "ماژول های کیان پرداز" [ref=e828] [cursor=pointer]:
+              - /url: https://kianpardaz.com/%d9%85%d8%a7%da%98%d9%88%d9%84-%d9%87%d8%a7-%d9%88-%d8%b2%db%8c%d8%b1-%d8%b3%db%8c%d8%b3%d8%aa%d9%85-%d9%87%d8%a7/
+          - listitem [ref=e830]:
+            - link "سامانه مودیان کیان پرداز" [ref=e831] [cursor=pointer]:
+              - /url: https://kianpardaz.com/%d8%b3%d8%a7%d9%85%d8%a7%d9%86%d9%87-%d9%85%d9%88%d8%af%db%8c%d8%a7%d9%86-%d9%83%d9%8a%d8%a7%d9%86-%d9%be%d8%b1%d8%af%d8%a7%d8%b2/
+          - listitem [ref=e833]:
+            - link "سامانه پیامکی کیان پرداز" [ref=e834] [cursor=pointer]:
+              - /url: http://sms.kianpardaz.com
+          - listitem [ref=e836]:
+            - link "درباره ما" [ref=e837] [cursor=pointer]:
+              - /url: https://kianpardaz.com/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%da%a9%db%8c%d8%a7%d9%86-%d9%be%d8%b1%d8%af%d8%a7%d8%b2/
+          - listitem [ref=e839]:
+            - link "تماس با ما" [ref=e840] [cursor=pointer]:
+              - /url: https://kianpardaz.com/contact-us/
+          - listitem [ref=e842]:
+            - link "درسان دسک" [ref=e843] [cursor=pointer]:
+              - /url: https://www.kianpardaz.net/kp/DorsanDesk.msi
+          - listitem [ref=e845]:
+            - link "حسابداری فرود" [ref=e846] [cursor=pointer]:
+              - /url: https://kianpardaz.com/landing-page/
+      - generic [ref=e849]:
+        - heading "خدمات" [level=5] [ref=e852]
+        - list [ref=e855]:
+          - listitem [ref=e856]:
+            - link "درخواست نمایندگی" [ref=e857] [cursor=pointer]:
+              - /url: https://kianpardaz.com/%d9%81%d8%b1%d9%85-%d8%af%d8%b1%d8%ae%d9%88%d8%a7%d8%b3%d8%aa-%d9%86%d9%85%d8%a7%db%8c%d9%86%d8%af%da%af%db%8c/
+          - listitem [ref=e859]:
+            - link "اخبار کیان پرداز" [ref=e860] [cursor=pointer]:
+              - /url: https://kianpardaz.com/%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1-%da%a9%db%8c%d8%a7%d9%86-%d9%be%d8%b1%d8%af%d8%a7%d8%b2/
+          - listitem [ref=e862]:
+            - link "درخواست نسخه آزمایشی" [ref=e863] [cursor=pointer]:
+              - /url: https://kianpardaz.com/%d8%af%d8%b1%d8%ae%d9%88%d8%a7%d8%b3%d8%aa-%d8%af%d9%85%d9%88%db%8c-%d9%86%d8%b1%d9%85-%d8%a7%d9%81%d8%b2%d8%a7%d8%b1/
+          - listitem [ref=e865]:
+            - link "درخواست کاتالوگ" [ref=e866] [cursor=pointer]:
+              - /url: https://kianpardaz.com/%d8%af%d8%b1%d8%ae%d9%88%d8%a7%d8%b3%d8%aa-%d8%af%d9%85%d9%88%db%8c-%d9%86%d8%b1%d9%85-%d8%a7%d9%81%d8%b2%d8%a7%d8%b1/
+          - listitem [ref=e868]:
+            - link "فرصت های شغلی" [ref=e869] [cursor=pointer]:
+              - /url: https://kianpardaz.com/%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85/
+          - listitem [ref=e871]:
+            - link "مقالات" [ref=e872] [cursor=pointer]:
+              - /url: https://kianpardaz.com/%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa/
+      - generic [ref=e874]:
+        - heading "پیوند ها" [level=5] [ref=e877]
+        - list [ref=e880]:
+          - listitem [ref=e881]:
+            - link "آرمانت مویرگی" [ref=e882] [cursor=pointer]:
+              - /url: https://www.armanet.ir/software/3589/%D9%86%D8%B1%D9%85-%D8%A7%D9%81%D8%B2%D8%A7%D8%B1-%D9%BE%D8%AE%D8%B4-%D9%88-%D9%85%D9%88%DB%8C%D8%B1%DA%AF%DB%8C-%DA%A9%DB%8C%D8%A7%D9%86-%D9%BE%D8%B1%D8%AF%D8%A7%D8%B2
+          - listitem [ref=e884]:
+            - link "سافت گزین" [ref=e885] [cursor=pointer]:
+              - /url: https://www.softgozin.com/products/sgp1687
+          - listitem [ref=e887]:
+            - link "اپلیکیشن گارسون" [ref=e888] [cursor=pointer]:
+              - /url: https://kianpardaz.net/apps/download?filename=KianFood%207.1.0.apk
+          - listitem [ref=e890]:
+            - link "اپلیکیشن مویرگی" [ref=e891] [cursor=pointer]:
+              - /url: https://s34.picofile.com/file/8489380034/KianSales_6_6_8.apk.html
+        - list [ref=e896]:
+          - listitem [ref=e897]:
+            - link "پیامرسان بله (واحد فروش)" [ref=e898] [cursor=pointer]:
+              - /url: https://ble.ir/kianpardazsales
+      - generic [ref=e901]:
+        - generic [ref=e902]: "02191006670"
+        - list [ref=e907]:
+          - listitem [ref=e908]:
+            - link "شنبه تا پنج شنبه" [ref=e909] [cursor=pointer]:
+              - /url: https://s30.picofile.com/d/8471428284/e822ee51-5e38-46b2-a22c-30be787ea4a6/cd_test_Dem_ver6_3_8.rar
+        - generic [ref=e912]:
+          - paragraph [ref=e913]: پشتیبانی :8:30 PM– 8:00 AM
+          - paragraph [ref=e914]: فروش :همه روزه
+        - link [ref=e918] [cursor=pointer]:
+          - /url: https://trustseal.enamad.ir/?id=649404&Code=UiXoJ9QgHY320DxpQINa1nZVEdjKKeYo
+        - list [ref=e921]:
+          - listitem [ref=e922]:
+            - link "Instagram" [ref=e923] [cursor=pointer]:
+              - /url: https://www.instagram.com/kianpardazco
+          - listitem [ref=e927]:
+            - link "Telegram" [ref=e928] [cursor=pointer]:
+              - /url: https://t.me/kianpardazsales
+          - listitem [ref=e932]:
+            - link "Whatsapp" [ref=e933] [cursor=pointer]:
+              - /url: https://api.whatsapp.com/send?phone=989192548176
+          - listitem [ref=e937]:
+            - link "Facebook" [ref=e938] [cursor=pointer]:
+              - /url: https://facebook.com/kianpardaz1
+    - generic [ref=e942]: تمامی حقوق مالکیت معنوی این ‌سایت برای شرکت نرم افزاری کیان پرداز اندیشه محفوظ است. .. Copyright 2023 kianpardaz co All rights reserved
+```

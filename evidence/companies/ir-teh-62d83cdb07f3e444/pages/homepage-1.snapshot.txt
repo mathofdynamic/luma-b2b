@@ -1,0 +1,153 @@
+### Page
+- Page URL: https://www.babco.biz/
+- Page Title: babco | صفحه اصلی سایت
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - text: 
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - generic: 
+      - generic [ref=e6]:
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - link [ref=e11] [cursor=pointer]:
+              - /url: https://wa.me/+989038679490
+              - generic [ref=e12]: 
+            - link [ref=e14] [cursor=pointer]:
+              - /url: https://www.instagram.com/babco.company/
+              - generic [ref=e15]: 
+          - text: 
+          - link [ref=e18] [cursor=pointer]:
+            - /url: /default/lang/En.aspx
+            - text: 
+          - navigation [ref=e22]:
+            - list:
+              - listitem [ref=e23]:
+                - link "" [ref=e24] [cursor=pointer]:
+                  - /url: http://babco.biz
+              - listitem [ref=e26]:
+                - link "کیت های تشخیص" [ref=e27] [cursor=pointer]:
+                  - /url: /default/lang/Fa
+              - listitem [ref=e28]:
+                - link "اسپری فیکساتور" [ref=e29] [cursor=pointer]:
+                  - /url: /home/Fixator-spray/lang/Fa
+              - listitem [ref=e30]:
+                - link "محلول ضد عفونی کننده" [ref=e31] [cursor=pointer]:
+                  - /url: /home/KONIX/lang/Fa
+              - listitem [ref=e32]:
+                - link "رویدادها" [ref=e33] [cursor=pointer]:
+                  - /url: /events/list/lang/Fa
+              - listitem [ref=e34]:
+                - link "درباره ما" [ref=e35] [cursor=pointer]:
+                  - /url: /about/index/lang/Fa
+              - listitem [ref=e36]:
+                - link "ارتباط با ما" [ref=e37] [cursor=pointer]:
+                  - /url: /home/contact/lang/Fa
+        - link:
+          - /url: https://www.babco.biz/default/lang/Fa.aspx
+          - generic [ref=e38] [cursor=pointer]
+      - generic [ref=e41]:
+        - generic [ref=e43]:
+          - link [ref=e46] [cursor=pointer]:
+            - /url: /default.aspx
+            - generic [ref=e49]:
+              - text: شرکت بازرگانی بانیان آریا بیتا (بابکو)
+              - paragraph [ref=e50]: ارائه جدیدترین و با کیفیت ترین فن آوری ها در زمینه تجهیزات پزشکی و آزمایشگاهی
+          - link [ref=e53] [cursor=pointer]:
+            - /url: /default.aspx
+            - generic [ref=e56]:
+              - text: نمایندگی انحصاری کمپانی های معتبر بین المللی
+              - paragraph [ref=e57]: تولید و واردات تجهیزات پزشکی و آزمایشگاهی | ارائه محصولاتی با استاندارد های معتبر CEاروپا و FDA آمریکا
+          - link [ref=e60] [cursor=pointer]:
+            - /url: /default.aspx
+            - generic [ref=e63]:
+              - text: استراتژی تجاری بابکو
+              - paragraph [ref=e64]: تولید | واردات | فروش | خدمات پس از فروش
+          - link [ref=e67] [cursor=pointer]:
+            - /url: /default.aspx
+            - generic [ref=e70]:
+              - text: تجربیات حرفه ای در بابکو
+              - paragraph [ref=e71]: مهندسان پزشکی و شیمی و کارشناسان علوم آزمایشگاهی
+          - link [ref=e74] [cursor=pointer]:
+            - /url: /default.aspx
+            - generic [ref=e77]:
+              - text: با حضور فعال بابکو در نمایشگاههای داخلی و خارجی
+              - paragraph [ref=e78]: محصولاتی با کیفیت به جامعه پزشکی و آزمایشگاهی داده ایم.
+        - generic [ref=e80]:
+          - generic [ref=e81] [cursor=pointer]
+          - generic [ref=e83] [cursor=pointer]
+          - generic [ref=e85] [cursor=pointer]
+          - generic [ref=e87] [cursor=pointer]
+          - generic [ref=e89] [cursor=pointer]
+    - generic [ref=e91]:
+      - complementary
+      - generic [ref=e93]:
+        - article [ref=e94]:
+          - generic [ref=e95]:
+            - heading "شرکت بازرگانی بابکو" [level=6] [ref=e96]
+            - heading "ارائه جدیدترین و با کیفیت ترین فن آوری ها در زمینه تجهیزات پزشکی و آزمایشگاهی" [level=2] [ref=e97]
+            - generic [ref=e98]: این شرکت از سال ۱۳۸۶ با اخذ نمایندگی انحصاری از کمپانی های معتبر بین المللی و تولید و واردات تجهیزات پزشکی و آزمایشگاهی طبی و ارائه محصولاتی با کیفیت جهانی و استاندارد های معتبر CE اروپا و FDA آمریکا و به کارگیری روش های نو آورانه و ارائه خدمات و پشتیبانی بروز و شبکه توزیع گسترده در سراسر کشور، همواره در مسیر توسعه بازار و محصول در این صنعت رشد قابل توجهی را احراز نموده.
+            - link "بیشتر بدانیم" [ref=e99] [cursor=pointer]:
+              - /url: /about/index/lang/Fa
+        - table [ref=e102]:
+          - rowgroup [ref=e103]:
+            - row [ref=e104]:
+              - cell [ref=e105]:
+                - article [ref=e106]:
+                  - generic [ref=e111]:
+                    - heading "هلیکوباکتر پیلوری آنتی ژن" [level=3] [ref=e112]
+                    - generic [ref=e113]:
+                      - generic [ref=e114]: برای تشخیص کیفی علائم " هلیكوباكتر پیلوری آنتی ژن" در نمونه مدفوع می باشد.
+                      - link "" [ref=e115] [cursor=pointer]:
+                        - /url: /Laboratory-kits/H-PYLORI-Ag/lang/Fa
+              - cell [ref=e116]:
+                - article [ref=e117]:
+                  - generic [ref=e122]:
+                    - heading "کیت تروپونین آی" [level=3] [ref=e123]
+                    - generic [ref=e124]:
+                      - generic [ref=e125]: برای تشخیص کمی علائم " Troponin I) " MI ) در خون، سرم، پلاسما می باشد.
+                      - link "" [ref=e126] [cursor=pointer]:
+                        - /url: /Laboratory-kits/TOYO-TROPONIN/lang/Fa
+              - cell [ref=e127]:
+                - article [ref=e128]:
+                  - generic [ref=e133]:
+                    - heading "تشخیص خون مخفی در مدفوع" [level=3] [ref=e134]
+                    - generic [ref=e135]:
+                      - generic [ref=e136]: برای تشخیص کیفی هموگلوبین مخفی در مدفوع و تشخیص اختصاصی سرطانهای کلورکتال می باشد.
+                      - link "" [ref=e137] [cursor=pointer]:
+                        - /url: /Laboratory-kits/iFOB/lang/Fa
+      - complementary
+    - generic [ref=e144]:
+      - generic [ref=e145]:
+        - generic [ref=e146]:
+          - generic [ref=e147]: "نام كاربری:"
+          - textbox [ref=e148]
+        - generic [ref=e149]:
+          - generic [ref=e150]: "رمز عبور:"
+          - textbox [ref=e151]
+      - button "ورود به سایت" [ref=e154] [cursor=pointer]
+      - link "هنوز در سایت عضو نشده‌اید؟" [ref=e156] [cursor=pointer]:
+        - /url: https://www.babco.biz/fwk/user/signup/lang/Fa.aspx
+    - generic [ref=e158]:
+      - generic [ref=e159]:
+        - heading "شرکت بازرگانی بانیان آریا بیتا (بابکو)" [level=1] [ref=e160]
+        - paragraph [ref=e161]:
+          - text: "آدرس: تهران، فلکه دوم صادقیه ، بلوار فردوس ، پلاک ۱۷۹، واحد ۱۴ تلفن : ۲۲۸۷۸۷۱۸ – ۲۲۸۷۸۷۶۶ – ۴۴۰۵۵۱۵۵ -۰۲۱ فکس: ۲۲۸۷۸۷۶۶ کد پستی: ۱۴۸۱۸۸۶۳۳۸ پست الکترونیکی: info@babco.biz کلیه حقوق مطالب این سایت متعلق به"
+          - link "شرکت بازرگانی بانیان آریا بیتا (بابکو)" [ref=e162] [cursor=pointer]:
+            - /url: https://www.babco.biz
+          - text: می باشد.
+      - navigation [ref=e164]:
+        - list [ref=e165]:
+          - listitem [ref=e166]:
+            - link "ورود به سيستم" [ref=e167] [cursor=pointer]:
+              - /url: /fwk/user/login/lang/Fa
+          - text: "|"
+          - listitem [ref=e168]:
+            - link "ثبت نام" [ref=e169] [cursor=pointer]:
+              - /url: /fwk/user/signup/lang/Fa
+          - text: "|"
+          - listitem [ref=e170]:
+            - link "نقشه سايت" [ref=e171] [cursor=pointer]:
+              - /url: /help/map/lang/Fa
+```

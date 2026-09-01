@@ -1,0 +1,164 @@
+### Page
+- Page URL: https://asfalt-tous.com/
+- Page Title: شرکت آسفالت طوس
+- Console: 1 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e5]:
+    - list [ref=e8]:
+      - listitem [ref=e9]:
+        - link "درباره‌ ما":
+          - /url: ""
+        - generic:
+          - list:
+            - listitem:
+              - link "معرفی شرکت":
+                - /url: https://asfalt-tous.com/about/
+            - listitem:
+              - link "ساختار سازمان":
+                - /url: https://asfalt-tous.com/structure/#wz-section-wzs91
+            - listitem:
+              - link "HSE":
+                - /url: https://asfalt-tous.com/blog/3259-%D8%B1%D9%88%DB%8C%D8%AF%D8%A7%D8%AF-%D9%87%D8%A7%DB%8C-hse/
+      - listitem [ref=e10]:
+        - link "پروژه‌ها":
+          - /url: https://asfalt-tous.com/پروژه-ها/
+        - generic:
+          - list:
+            - listitem:
+              - link "پروژه‌ها بر روی نقشه":
+                - /url: https://asfalt-tous.com/MAP/#wz-section-wzs134
+            - listitem:
+              - link "پروژه‌های صنعت‌ و‌ معدن":
+                - /url: https://asfalt-tous.com/blog/3231-%D8%B5%D9%86%D8%B9%D8%AA-%D9%88-%D9%85%D8%B9%D8%AF%D9%86/
+            - listitem:
+              - link "پروژه‌های نفت‌ و‌ گاز":
+                - /url: https://asfalt-tous.com/blog/3232-%D9%86%D9%81%D8%AA-%DA%AF%D8%A7%D8%B2-%D9%88-%D9%BE%D8%AA%D8%B1%D9%88%D8%B4%DB%8C%D9%85%DB%8C/
+            - listitem:
+              - link "سایر پروژه‌ها":
+                - /url: https://asfalt-tous.com/blog/3242-%D8%B3%D8%A7%DB%8C%D8%B1-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%87%D8%A7/
+      - listitem [ref=e11]:
+        - link "رویدادها" [ref=e12] [cursor=pointer]:
+          - /url: https://asfalt-tous.com/blog/3236-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/
+      - listitem [ref=e13]:
+        - link "تماس با ما":
+          - /url: ""
+        - generic:
+          - list:
+            - listitem:
+              - link "راه‌های ارتباط با ما":
+                - /url: https://asfalt-tous.com/contact-us/
+            - listitem:
+              - link "ارسال رزومه‌ شغلی":
+                - /url: https://asfalt-tous.com/resume/
+            - listitem:
+              - link "مناقصات و مزایدات":
+                - /url: Https://Vendors.Asfalt-Tous.Com
+    - link [ref=e14] [cursor=pointer]:
+      - /url: https://asfalt-tous.com/
+    - link "EN" [ref=e18] [cursor=pointer]:
+      - /url: https://asfalt-tous.com/Home-EN/
+    - generic [ref=e21] [cursor=pointer]: فا
+  - link [ref=e28] [cursor=pointer]:
+    - /url: https://asfalt-tous.com/#wz-section-wzs241
+  - generic [ref=e37]:
+    - generic [ref=e51]: قریب به نیم‌قرن فعالیت مستمر شرکت آسفالت طوس (از سال ۱۳۵۴) گواهی است بر توانایی و ظرفیت‌های عظیم این شرکت پیمانکاری در اجرای طرح‌های EPC در پروژه‌های عمرانی، صنعتی و معدنی، و پروژه‌های نفت، گاز و پتروشیمی که به کمک نیروی انسانی متخصص و با تکیه‌بر دانش فنی روز صورت می‌گیرد.
+    - generic [ref=e57]: سالها تجربه
+  - generic [ref=e69]:
+    - generic [ref=e78]: شرکت آسفالت طوس شامل یک شرکت اصلی و چند شرکت زیرمجموعه است که به‌صورت منسجم در طراحی، اجرا، تأمین کالا، راه‌اندازی و بهره‌برداری از کارخانجات صنعتی، صنایع نفت و گاز و پتروشیمی، حفاری و آماده‌سازی و استخراج معادن، عملیات خاک‌برداری در حجم بسیار بالا، اجرای ابنیه سنگین بتنی و سازه‌های فلزی صنعتی، ساخت انواع مخازن و برج‌های خنک‌کننده نیروگاهی، خطوط انتقال نیرو، ساخت تونل و سایر پروژه‌های صنعتی و زیربنایی، نامی ماندگار و قابل‌اعتماد در عرصه عمران و آبادانی کشور برجای گذاشته است.
+    - generic [ref=e84]: تاریخچه
+  - generic [ref=e101]:
+    - generic [ref=e102]: سرمایه‌های انسانی
+    - generic [ref=e108]: شرکت آسفالت طوس با اعتقاد به اینکه سرمایۀ اصلی هر سازمان، نیروی انسانی آن است، جذب افراد متخصص و سخت‌کوش را سرلوحۀ راهبردهای توسعۀ منابع انسانی خود قرار داده و با فراهم‌آوردن فرصت‌های شغلی برای عموم دانش‌آموختگان، راهکارهای معینی را برای جذب و استخدام افراد منتخب و واجد صلاحیت اتخاذ کرده است تا بدنه کارشناسی و مدیریتی ممتاز و متمایزی را ایجاد نماید. در این راستا سیستم آموزش و توسعۀ کارکنان شرکت آسفالت طوس، زمینه ارائه آموزش‌های کاربردی و اثربخش را فراهم نموده، به‌گونه‌ای که کارکنان شرکت بر حسب نیازهای آموزشی در راستای اهداف سازمانی و متناسب با وظایف، قابلیت‌ها و ارزش‌های سازمانی، خود را به‌صورت مستمر توسعه می‌دهند و از دانش، مهارت و قابلیت‌های به‌روز برخوردار می‌گردند.
+  - generic [ref=e127]:
+    - generic [ref=e141]:
+      - generic [ref=e142]: زمینه فعالیت
+      - generic [ref=e148]: رتبه
+    - generic [ref=e162]:
+      - generic [ref=e168]: "1"
+      - generic [ref=e173]: صنعت و معدن
+    - generic [ref=e183]:
+      - generic [ref=e189]: "1"
+      - generic [ref=e195]: نفت و گاز
+    - generic [ref=e205]:
+      - generic [ref=e211]: "1"
+      - generic [ref=e216]: ساختمان و ابنیه
+    - generic [ref=e226]:
+      - generic [ref=e232]: "1"
+      - generic [ref=e237]: کاوش‌های زمینی
+    - generic [ref=e246]:
+      - generic [ref=e252]: "1"
+      - generic [ref=e257]: آب
+    - heading "رتبه‌بندی" [level=2] [ref=e271]
+  - generic [ref=e281]:
+    - generic [ref=e282]: گواهی‌نامه‌های بین‌المللی
+    - list [ref=e289]:
+      - listitem [ref=e290] [cursor=pointer]:
+        - figure [ref=e291]:
+          - link [ref=e293]:
+            - /url: https://asfalt-tous.com/uploads/93b939927e3c4e66b75b579df27247c5.jpg
+      - listitem [ref=e294] [cursor=pointer]:
+        - figure [ref=e295]:
+          - link [ref=e297]:
+            - /url: https://asfalt-tous.com/uploads/efc451174d554dc78fd1acf52a352032.jpg
+      - listitem [ref=e298] [cursor=pointer]:
+        - figure [ref=e299]:
+          - link [ref=e301]:
+            - /url: https://asfalt-tous.com/uploads/8aeec85412124ea8b33c51ab4bede985.jpg
+      - listitem [ref=e302] [cursor=pointer]:
+        - figure [ref=e303]:
+          - link [ref=e305]:
+            - /url: https://asfalt-tous.com/uploads/918f95776f8a463494d67d6d01679a0a.jpg
+  - generic [ref=e324]:
+    - generic [ref=e325]: رویداد‌های اخیر
+    - generic [ref=e333]:
+      - list [ref=e335]:
+        - listitem [ref=e336]:
+          - link [ref=e337] [cursor=pointer]:
+            - /url: https://asfalt-tous.com/blog/اخبار/P45372-حضور-شرکت-آسفالت-طوس-در-بیست-وهفتمین-سمپوزیوم-فولاد.html
+            - generic [ref=e338]:
+              - img "blog" [ref=e339]
+              - heading "حضور شرکت آسفالت طوس در بیست‌وهفتمین سمپوزیوم فولاد" [level=3] [ref=e341]
+        - listitem [ref=e342]:
+          - link [ref=e343] [cursor=pointer]:
+            - /url: https://asfalt-tous.com/blog/اخبار/P45361-برگزاری-کمیته-پیشگیری-درمان-و-رفاه.html
+            - generic [ref=e344]:
+              - img "blog" [ref=e345]
+              - heading "برگزاری اردوی تفریحی" [level=3] [ref=e347]
+        - listitem [ref=e348]:
+          - link [ref=e349] [cursor=pointer]:
+            - /url: https://asfalt-tous.com/blog/اخبار/P45346-میزبانی-از-گروه-همیاران-نابع-انسانی-توسط-آسفالت-طوس.html
+            - generic [ref=e350]:
+              - img "blog" [ref=e351]
+              - heading "میزبانی از گروه همیاران منابع انسانی توسط آسفالت طوس" [level=3] [ref=e353]
+      - list:
+        - listitem:
+          - link "" [ref=e354] [cursor=pointer]:
+            - /url: "#"
+        - listitem:
+          - link "" [ref=e355] [cursor=pointer]:
+            - /url: "#"
+  - generic [ref=e370]:
+    - generic [ref=e371]: تماس با ما
+    - generic [ref=e376]: آدرس:تهران، بزرگراه همت، خيابان شيرازی جنوبی، خيابان آقاعلیخانی، خيابان داوری اردکانی، بن بست 12متری سوم، شماره 2، ساختمان مهرگان
+    - generic [ref=e387]:
+      - text: "تلفن:"
+      - link "43621000-021" [ref=e389] [cursor=pointer]:
+        - /url: tel:02143621000
+      - text: "نمابر:"
+      - link "43621030-021" [ref=e391] [cursor=pointer]:
+        - /url: tel:02143621030
+    - generic [ref=e392]: "ساعت کاری: 7:15 صبح تا 4 بعد از ظهر"
+    - generic [ref=e402]:
+      - text: "E-Mail:"
+      - link "info@asfalt-tous.com" [ref=e404] [cursor=pointer]:
+        - /url: mailto:info@asfalt-tous.com?Subject=
+    - link [ref=e419] [cursor=pointer]:
+      - /url: https://www.linkedin.com/company/asfalt-tous
+    - link [ref=e439] [cursor=pointer]:
+      - /url: https://www.google.com/maps/dir/35.7433344,51.4031616/35.7475537,51.3984395/@35.7467725,51.3992305,16.75z/data=!4m5!4m4!1m1!4e1!1m0!3e0?hl=fa&entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D
+    - generic [ref=e443]: © 1403-1404 | تمامی حقوق این سایت متعلق به شرکت آسفالت طوس می باشد.
+```
+### Events
+- New console entries: .playwright-cli/console-2026-09-01T08-36-33-189Z.log#L2

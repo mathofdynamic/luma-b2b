@@ -1,0 +1,332 @@
+### Page
+- Page URL: https://bijanpakhsh.com/
+- Page Title: پارسیان و پاشا پخش بیژن - پخش مویرگی 24 ساعته کالا
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - link "رفتن به محتوا" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e22]:
+        - heading "مجموعه شرکت های پخش هلدینگ بیژن" [level=2] [ref=e34]
+        - navigation [ref=e41]:
+          - list [ref=e42]:
+            - listitem [ref=e43]:
+              - link "خانه" [ref=e44] [cursor=pointer]:
+                - /url: https://bijanpakhsh.com/
+            - listitem [ref=e45]:
+              - link "درباره ما " [ref=e47] [cursor=pointer]:
+                - /url: https://bijanpakhsh.com/about-us/
+                - text: درباره ما
+                - generic [ref=e48]: 
+            - listitem [ref=e50]:
+              - link "برندها" [ref=e51] [cursor=pointer]:
+                - /url: https://bijanpakhsh.com/brands/
+            - listitem [ref=e52]:
+              - link "شعب" [ref=e53] [cursor=pointer]:
+                - /url: https://bijanpakhsh.com/branches/
+            - listitem [ref=e54]:
+              - link "خدمات" [ref=e55] [cursor=pointer]:
+                - /url: https://bijanpakhsh.com/services/
+            - listitem [ref=e56]:
+              - link "اخبار" [ref=e57] [cursor=pointer]:
+                - /url: https://bijanpakhsh.com/category/news/
+            - listitem [ref=e58]:
+              - link "تماس با ما" [ref=e59] [cursor=pointer]:
+                - /url: https://bijanpakhsh.com/contact-us/
+            - listitem [ref=e60]:
+              - link "صنایع غذایی بیژن" [ref=e61] [cursor=pointer]:
+                - /url: https://bijanfood.com/
+            - listitem [ref=e62]:
+              - link "سفارش آنلاین" [ref=e63] [cursor=pointer]:
+                - /url: https://www.bijanonline.ir/
+    - main [ref=e67]:
+      - article [ref=e68]:
+        - generic [ref=e72]:
+          - generic [ref=e82]:
+            - generic [ref=e83]:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: این راه طولانی نیست!
+                    - generic: با پارسیان پخش بیژن مرزهای کسب و کارتان را گسترش دهید
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: تولید مدرن، توزیع مدرن می‌طلبد
+                    - generic: بزرگ‌ترین ناوگان توزیع در راه است
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: سامانه فروش آنلاین پخش بیژن
+                    - generic: ویژه مشتریان B2B
+                    - link "مشاهده":
+                      - /url: https://bijanonline.ir/
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: بیژن منتظر شماست!
+                    - generic: فرصت‌های شغلی فعلی ما را ببینید و برای پیوستن به جمع ما اقدام کنید
+                    - link "استخدام":
+                      - /url: https://bijanfood.com/jobs/
+              - generic [ref=e88]:
+                - generic [ref=e89]: این راه طولانی نیست!
+                - generic [ref=e90]: با پارسیان پخش بیژن مرزهای کسب و کارتان را گسترش دهید
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: تولید مدرن، توزیع مدرن می‌طلبد
+                    - generic: بزرگ‌ترین ناوگان توزیع در راه است
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: سامانه فروش آنلاین پخش بیژن
+                    - generic: ویژه مشتریان B2B
+                    - link "مشاهده":
+                      - /url: https://bijanonline.ir/
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: بیژن منتظر شماست!
+                    - generic: فرصت‌های شغلی فعلی ما را ببینید و برای پیوستن به جمع ما اقدام کنید
+                    - link "استخدام":
+                      - /url: https://bijanfood.com/jobs/
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: این راه طولانی نیست!
+                    - generic: با پارسیان پخش بیژن مرزهای کسب و کارتان را گسترش دهید
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: تولید مدرن، توزیع مدرن می‌طلبد
+                    - generic: بزرگ‌ترین ناوگان توزیع در راه است
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: سامانه فروش آنلاین پخش بیژن
+                    - generic: ویژه مشتریان B2B
+                    - link "مشاهده":
+                      - /url: https://bijanonline.ir/
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: بیژن منتظر شماست!
+                    - generic: فرصت‌های شغلی فعلی ما را ببینید و برای پیوستن به جمع ما اقدام کنید
+                    - link "استخدام":
+                      - /url: https://bijanfood.com/jobs/
+            - generic [ref=e91]:
+              - button "Go to slide 1" [ref=e92] [cursor=pointer]
+              - button "Go to slide 2" [ref=e93] [cursor=pointer]
+              - button "Go to slide 3" [ref=e94] [cursor=pointer]
+              - button "Go to slide 4" [ref=e95] [cursor=pointer]
+            - button "Previous slide" [ref=e96] [cursor=pointer]:
+              - generic [ref=e97]: 
+              - generic [ref=e98]: قبل
+            - button "Next slide" [ref=e99] [cursor=pointer]:
+              - generic [ref=e100]: 
+              - generic [ref=e101]: بعدی
+          - generic [ref=e117]:
+            - generic [ref=e120]:
+              - generic [ref=e123]:
+                - heading "درباره پارسیان پخش بیژن" [level=2] [ref=e126]
+                - paragraph [ref=e130]: شرکت بین‌المللی پارسیان پخش بیژن در سال 1392 فعالیت خود را در زمینه پخش مواد غذایی و بهداشتی در کلیه پایانه‌های فروش با تمرکز بر خرده‌فروشی آغاز کرد و تبدیل شد به اولین و تنها توزیع‌کننده منظم محصولات در بازه‌ای کمتر از 24 ساعت. پوشش پخش بیژن در ابتدا محدود به استان‌های تهران و البرز بود، اما در حال حاضر پخش بیژن در همه استان‌ها شعبه فعال دارد. این مجموعه از زمان تاسیس تاکنون توانسته خود را به عنوان یکی از معتبرترین شرکت‌های پخش در حوزه مواد غذایی و محصولات بهداشتی و سلولزی معرفی کند و جایگاه ویژه و سهم قابل قبولی از بازار را به دست آورد.
+              - iframe [ref=e139]:
+                - button "video poster Bijanfood 01:35" [ref=f1e5] [cursor=pointer]:
+                  - img "video poster" [ref=f1e6]
+                  - generic [ref=f1e10]:
+                    - link [ref=f1e11]:
+                      - /url: https://www.aparat.com/Bijanfood
+                      - img "Bijanfood" [ref=f1e12]
+                    - generic [ref=f1e13]: 01:35
+            - generic [ref=e149]:
+              - heading "شرکای تجاری" [level=2] [ref=e152]
+              - generic [ref=e156]:
+                - button "Previous" [ref=e157] [cursor=pointer]: Previous
+                - generic [ref=e159]:
+                  - link [ref=e162] [cursor=pointer]:
+                    - /url: https://bijanpakhsh.com/brands/arko/o//
+                  - link [ref=e167] [cursor=pointer]:
+                    - /url: /brands/duru/
+                  - link [ref=e172] [cursor=pointer]:
+                    - /url: //bijanpakhsh.com/brands/molped//
+                  - link [ref=e197] [cursor=pointer]:
+                    - /url: https://bijanpakhsh.com/brands/bijan/
+                  - link [ref=e207] [cursor=pointer]:
+                    - /url: https://bijanpakhsh.com/brands/golha/
+                  - link [ref=e212] [cursor=pointer]:
+                    - /url: https://bijanpakhsh.com/brands/cinere/
+                  - link [ref=e217] [cursor=pointer]:
+                    - /url: https://bijanpakhsh.com/brands/mahgol/
+                  - link [ref=e222] [cursor=pointer]:
+                    - /url: https://bijanpakhsh.com/derma-clean/
+                  - link [ref=e232] [cursor=pointer]:
+                    - /url: https://bijanpakhsh.com/brands/test/
+                  - link [ref=e237] [cursor=pointer]:
+                    - /url: https://bijanpakhsh.com/teno/
+                  - link [ref=e242] [cursor=pointer]:
+                    - /url: https://bijanpakhsh.com/brands/papia/
+                  - link [ref=e247] [cursor=pointer]:
+                    - /url: https://bijanpakhsh.com/brands/joly//
+                  - link [ref=e257] [cursor=pointer]:
+                    - /url: https://bijanpakhsh.com/brands/molfix/
+                  - link [ref=e262] [cursor=pointer]:
+                    - /url: https://bijanpakhsh.com/brands/fax/
+                  - link [ref=e267] [cursor=pointer]:
+                    - /url: https://bijanpakhsh.com/brands/arko/o//
+                  - link [ref=e272] [cursor=pointer]:
+                    - /url: /brands/duru/
+                  - link [ref=e277] [cursor=pointer]:
+                    - /url: //bijanpakhsh.com/brands/molped//
+                  - link [ref=e302] [cursor=pointer]:
+                    - /url: https://bijanpakhsh.com/brands/bijan/
+                  - link [ref=e312] [cursor=pointer]:
+                    - /url: https://bijanpakhsh.com/brands/golha/
+                  - link [ref=e317] [cursor=pointer]:
+                    - /url: https://bijanpakhsh.com/brands/cinere/
+                  - link [ref=e322] [cursor=pointer]:
+                    - /url: https://bijanpakhsh.com/brands/mahgol/
+                  - link [ref=e327] [cursor=pointer]:
+                    - /url: https://bijanpakhsh.com/derma-clean/
+                  - link [ref=e337] [cursor=pointer]:
+                    - /url: https://bijanpakhsh.com/brands/test/
+                  - link [ref=e342] [cursor=pointer]:
+                    - /url: https://bijanpakhsh.com/teno/
+                  - link [ref=e347] [cursor=pointer]:
+                    - /url: https://bijanpakhsh.com/brands/papia/
+                  - link [ref=e352] [cursor=pointer]:
+                    - /url: https://bijanpakhsh.com/brands/joly//
+                  - link [ref=e362] [cursor=pointer]:
+                    - /url: https://bijanpakhsh.com/brands/molfix/
+                  - link [ref=e367] [cursor=pointer]:
+                    - /url: https://bijanpakhsh.com/brands/fax/
+                  - link [ref=e372] [cursor=pointer]:
+                    - /url: https://bijanpakhsh.com/brands/arko/o//
+                  - link [ref=e377] [cursor=pointer]:
+                    - /url: /brands/duru/
+                  - link [ref=e382] [cursor=pointer]:
+                    - /url: //bijanpakhsh.com/brands/molped//
+                - button "Next" [ref=e405] [cursor=pointer]: Next
+              - button "بیشتر" [ref=e409] [cursor=pointer]:
+                - generic [ref=e410]:
+                  - generic [ref=e411]: 
+                  - generic [ref=e413]: بیشتر
+            - generic [ref=e419]:
+              - heading "اتاق خبر پخش بیژن" [level=2] [ref=e422]
+              - button "بیشتر" [ref=e426] [cursor=pointer]:
+                - generic [ref=e427]:
+                  - generic [ref=e428]: 
+                  - generic [ref=e430]: بیشتر
+          - generic [ref=e443]:
+            - generic [ref=e449]:
+              - heading "درباره پاشا پخش آرشام" [level=2] [ref=e452]
+              - generic [ref=e455]:
+                - paragraph [ref=e456]: شرکت پاشا پخش آرشام تهران در سال 1398 فعالیت خود را در زمینه پخش مواد غذایی و بهداشتی در پایانه‌های فروش با تمرکز بر پخش مویرگی آغاز کرد و با توزیع منظم و به روز در استان‌های تهران و البرز به خدمت رسانی مشغول است، پاشا پخش با افزایش فعالیت خود به زودی شعب استانی خود را راه‌اندازی خواهد کرد و هدف گذاری پاشا پخش گستره سراسری ایران عزیزمان است.
+                - paragraph [ref=e457]: این مجموعه با پخش برند خوش نام و محبوب سالوت، انواع سس‌های فروشگاهی و رستورانی را به صورت انحصاری پخش می نماید. پاشا پخش همچنین علاوه بر مواد غذایی پخش محصولات بهداشتی و سلولزی با برندهای مطرح را به عهده دارد و سهم قابل قبولی از بازار را به دست آورده است.
+            - generic [ref=e463]:
+              - heading "اتاق خبر پاشا پخش" [level=2] [ref=e466]
+              - button "بیشتر" [ref=e470] [cursor=pointer]:
+                - generic [ref=e471]:
+                  - generic [ref=e472]: 
+                  - generic [ref=e474]: بیشتر
+          - heading "مجله اینترنتی" [level=2] [ref=e486]
+    - contentinfo [ref=e493]:
+      - contentinfo [ref=e498]:
+        - generic [ref=e503]:
+          - generic [ref=e506]:
+            - list [ref=e515]:
+              - listitem [ref=e516]:
+                - link [ref=e517] [cursor=pointer]:
+                  - /url: https://www.instagram.com/bijanpakhsh_com/
+                  - generic [ref=e518]: 
+              - listitem [ref=e520]:
+                - link [ref=e521] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/bijanpakhsh
+                  - generic [ref=e522]: 
+              - listitem [ref=e524]:
+                - link [ref=e525] [cursor=pointer]:
+                  - /url: https://t.me/Bijanpakhsh
+                  - generic [ref=e526]: 
+              - listitem [ref=e528]:
+                - link [ref=e529] [cursor=pointer]:
+                  - /url: https://ble.ir/join/A4zJmMd1f1
+                  - generic [ref=e530]: 
+            - generic [ref=e534]:
+              - heading "پارسیان پخش بیژن" [level=2] [ref=e537]
+              - list [ref=e540]:
+                - listitem [ref=e541]:
+                  - generic [ref=e542]: 
+                  - generic [ref=e544]: تهران، میدان آرژانتین، خیابان احمد قصیر، خیابان احمدیان، پلاک 8
+                - listitem [ref=e545]:
+                  - link "021-61966" [ref=e546] [cursor=pointer]:
+                    - /url: tel:02161966
+                    - generic [ref=e547]: 
+                - listitem [ref=e550]:
+                  - link "info@bijanpakhsh.com" [ref=e551] [cursor=pointer]:
+                    - /url: mailto:info@bijanpakhsh.com
+                    - generic [ref=e552]: 
+              - heading "پاشا پخش آرشام" [level=2] [ref=e557]
+              - list [ref=e560]:
+                - listitem [ref=e561]:
+                  - generic [ref=e562]: 
+                  - generic [ref=e564]: تهران، بزرگراه فتح، خیابان 17 شهریور، نبش کوچه کاوش، پلاک 368
+                - listitem [ref=e565]:
+                  - link "021-61976" [ref=e566] [cursor=pointer]:
+                    - /url: tel:02161966
+                    - generic [ref=e567]: 
+                - listitem [ref=e570]:
+                  - link "info@pashapakhsh.com" [ref=e571] [cursor=pointer]:
+                    - /url: mailto:info@bijanpakhsh.com
+                    - generic [ref=e572]: 
+            - generic [ref=e577]:
+              - list [ref=e580]:
+                - listitem [ref=e581]:
+                  - generic [ref=e582]: 
+                  - generic [ref=e584]: دسترسی سریع
+              - list [ref=e587]:
+                - listitem [ref=e588]:
+                  - link "درباره ما" [ref=e589] [cursor=pointer]:
+                    - /url: /about-us/
+                - listitem [ref=e591]:
+                  - link "شعب" [ref=e592] [cursor=pointer]:
+                    - /url: /branches/
+                - listitem [ref=e594]:
+                  - link "برندها" [ref=e595] [cursor=pointer]:
+                    - /url: /brands/
+                - listitem [ref=e597]:
+                  - link "اخبار" [ref=e598] [cursor=pointer]:
+                    - /url: /category/news/
+                - listitem [ref=e600]:
+                  - link "تماس با ما" [ref=e601] [cursor=pointer]:
+                    - /url: /contact-us/
+            - generic [ref=e605]:
+              - list [ref=e608]:
+                - listitem [ref=e609]:
+                  - generic [ref=e610]: 
+                  - generic [ref=e612]: لینک‌های مهم
+              - list [ref=e615]:
+                - listitem [ref=e616]:
+                  - link "صنایع غذایی بیژن" [ref=e617] [cursor=pointer]:
+                    - /url: https://bijanfood.com/
+                - listitem [ref=e619]:
+                  - link "فروش آنلاین بیژن" [ref=e620] [cursor=pointer]:
+                    - /url: https://www.bijanonline.ir/
+                - listitem [ref=e622]:
+                  - link "سوالات متداول" [ref=e623] [cursor=pointer]:
+                    - /url: /faq/
+                - listitem [ref=e625]:
+                  - link "گالری تصاویر" [ref=e626] [cursor=pointer]:
+                    - /url: /gallery/
+                - listitem [ref=e628]:
+                  - link "خدمات ما" [ref=e629] [cursor=pointer]:
+                    - /url: /services/
+                - listitem [ref=e631]:
+                  - link "‌استخدام" [ref=e632] [cursor=pointer]:
+                    - /url: https://bijanfood.com/jobs/
+            - link [ref=e639] [cursor=pointer]:
+              - /url: https://trustseal.enamad.ir/?id=239070&Code=XLMLfID9u0eAZtXSVSmY
+          - generic [ref=e643]: Copyright © 2026 Bijanpakhsh.com | All rights reserved
+  - text: 
+  - generic [ref=e652]: widescreen
+```

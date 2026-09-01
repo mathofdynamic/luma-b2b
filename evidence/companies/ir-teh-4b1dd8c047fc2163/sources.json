@@ -1,0 +1,187 @@
+{
+  "company_id": "ir-teh-4b1dd8c047fc2163",
+  "errors": [],
+  "generated_at": "2026-09-01T08:13:21Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [
+    {
+      "bytes": 1233378,
+      "captured_at": "2026-09-01T08:13:19Z",
+      "company_id": "ir-teh-4b1dd8c047fc2163",
+      "headless": true,
+      "page_title": "بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی",
+      "path": "companies/ir-teh-4b1dd8c047fc2163/screenshots/homepage.png",
+      "reason_this_matters": "Public company homepage is the primary visual evidence surface.",
+      "screenshot_type": "homepage",
+      "source_url": "https://spttrade.com/"
+    }
+  ],
+  "sources": [
+    {
+      "discovered_at": "2026-09-01T06:31:59Z",
+      "discovery_reason": "Book-e Avval category: واردات صادرات مواد شیمیایی",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "بازرگانی اسپوتا تأمین کننده مواد شیمیایی و محصولات تصفیه آب و فاضلاب بازرگانی اسپوتا مجموعه ای فعال در زمینه تأمین، واردات و عرضه مواد شیمیایی، مواد اولیه صنعتی و محصول",
+      "source_quality": "directory",
+      "source_title": "واردات صادرات مواد شیمیایی در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%B4%DB%8C%D9%85%DB%8C%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "discovered_at": "2026-09-01T06:31:59Z",
+      "discovery_reason": "Book-e Avval category: واردات صادرات کالا",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "بازرگانی اسپوتا تأمین کننده مواد شیمیایی و محصولات تصفیه آب و فاضلاب بازرگانی اسپوتا مجموعه ای فعال در زمینه تأمین، واردات و عرضه مواد شیمیایی، مواد اولیه صنعتی و محصول",
+      "source_quality": "directory",
+      "source_title": "واردات صادرات کالا در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%DA%A9%D8%A7%D9%84%D8%A7/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:31:59Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-082ef826c0a2202f",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "بازرگانی اسپوتا تأمین کننده مواد شیمیایی و محصولات تصفیه آب و فاضلاب بازرگانی اسپوتا مجموعه ای فعال در زمینه تأمین، واردات و عرضه مواد شیمیایی، مواد اولیه صنعتی و محصول",
+      "source_quality": "directory",
+      "source_title": "واردات صادرات مواد شیمیایی در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%B4%DB%8C%D9%85%DB%8C%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:31:59Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-97c71ad2ff68e650",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "بازرگانی اسپوتا تأمین کننده مواد شیمیایی و محصولات تصفیه آب و فاضلاب بازرگانی اسپوتا مجموعه ای فعال در زمینه تأمین، واردات و عرضه مواد شیمیایی، مواد اولیه صنعتی و محصول",
+      "source_quality": "directory",
+      "source_title": "واردات صادرات کالا در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%DA%A9%D8%A7%D9%84%D8%A7/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:53Z",
+      "claim": "Directory profile lists بازرگانی اسپوتا with a public Tehran business listing.",
+      "confidence": 0.82,
+      "evidence_id": "ev-9584c0bcdc6b91dc",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "بازرگانی اسپوتا - تجهیزات تصفیه آب و فاضلاب | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس بازرگانی اسپوتا تجهیزات تصفیه آب و فاضلاب واردات صادرات مواد شیمیایی فروش مواد شیمیایی تماس ثبت نظر ویرایش اشتراک گذاری دسته‌بندی مشاغل تجهیزات تصفیه آب و فاضلاب تهران محله آبشار اطلاعات تماس آدرس : تهران، منطقه 12، محله آبشار، میدان مادر (محسنی)، خیابان شاه نظری، کوچه دوم، پلاک 22 تلفن : نمایش شماره XXXXXXXXXX تلفن همراه : ن",
+      "source_quality": "directory",
+      "source_title": "بازرگانی اسپوتا - تجهیزات تصفیه آب و فاضلاب | کتاب اول",
+      "source_url": "https://avval.ir/profile/smbtd/%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%A7%D8%B3%D9%BE%D9%88%D8%AA%D8%A7"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:37Z",
+      "claim": "Public website signal: catalog_or_products",
+      "confidence": 0.86,
+      "evidence_id": "ev-3011f10dbddae821",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "محصولات; محصول | بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی Skip to navigation Skip to main content همه دسته بندی ها مواد تصفیه آب کربن فعال کربن اکتیو جاکوبی 1000 کربن اکتیو جاکوبی 2000 کربن اکتیو جاکوبی 6000 ضد کف | آنتی فوم ضد کف سیلیکونی ضد کف غیر سیلیکونی آنتی اسکالانت آنتی اسکالانت فلوکن 260 آنتی اسکالانت فلوکن 190 آنتی اسکالانت آویستا آنتی اسکالانت جنسیس رزین تبادل یونی رزین سختی گیر رزین آنیونی رزی",
+      "signal": "catalog_or_products",
+      "source_quality": "company_site",
+      "source_title": "بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی",
+      "source_url": "https://spttrade.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:37Z",
+      "claim": "Public website signal: order_or_contact_form",
+      "confidence": 0.72,
+      "evidence_id": "ev-62c1076ec14ab732",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "ثبت سفارش; تماس با ما | بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی Skip to navigation Skip to main content همه دسته بندی ها مواد تصفیه آب کربن فعال کربن اکتیو جاکوبی 1000 کربن اکتیو جاکوبی 2000 کربن اکتیو جاکوبی 6000 ضد کف | آنتی فوم ضد کف سیلیکونی ضد کف غیر سیلیکونی آنتی اسکالانت آنتی اسکالانت فلوکن 260 آنتی اسکالانت فلوکن 190 آنتی اسکالانت آویستا آنتی اسکالانت جنسیس رزین تبادل یونی رزین سختی گیر رزین آنیونی رزی",
+      "signal": "order_or_contact_form",
+      "source_quality": "company_site",
+      "source_title": "بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی",
+      "source_url": "https://spttrade.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:37Z",
+      "claim": "Public website signal: factory_or_warehouse",
+      "confidence": 0.86,
+      "evidence_id": "ev-cdccd5f0129f2181",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "کارخانجات; انبار | بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی Skip to navigation Skip to main content همه دسته بندی ها مواد تصفیه آب کربن فعال کربن اکتیو جاکوبی 1000 کربن اکتیو جاکوبی 2000 کربن اکتیو جاکوبی 6000 ضد کف | آنتی فوم ضد کف سیلیکونی ضد کف غیر سیلیکونی آنتی اسکالانت آنتی اسکالانت فلوکن 260 آنتی اسکالانت فلوکن 190 آنتی اسکالانت آویستا آنتی اسکالانت جنسیس رزین تبادل یونی رزین سختی گیر رزین آنیونی رزی",
+      "signal": "factory_or_warehouse",
+      "source_quality": "company_site",
+      "source_title": "بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی",
+      "source_url": "https://spttrade.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:37Z",
+      "claim": "Public website signal: service_after_sales",
+      "confidence": 0.72,
+      "evidence_id": "ev-902b7ca8e28274d0",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "پشتیبانی فنی | بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی Skip to navigation Skip to main content همه دسته بندی ها مواد تصفیه آب کربن فعال کربن اکتیو جاکوبی 1000 کربن اکتیو جاکوبی 2000 کربن اکتیو جاکوبی 6000 ضد کف | آنتی فوم ضد کف سیلیکونی ضد کف غیر سیلیکونی آنتی اسکالانت آنتی اسکالانت فلوکن 260 آنتی اسکالانت فلوکن 190 آنتی اسکالانت آویستا آنتی اسکالانت جنسیس رزین تبادل یونی رزین سختی گیر رزین آنیونی رزی",
+      "signal": "service_after_sales",
+      "source_quality": "company_site",
+      "source_title": "بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی",
+      "source_url": "https://spttrade.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:37Z",
+      "claim": "Public website signal: projects_or_clients",
+      "confidence": 0.72,
+      "evidence_id": "ev-d1bf51cfa52c01de",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "مشتریان | بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی Skip to navigation Skip to main content همه دسته بندی ها مواد تصفیه آب کربن فعال کربن اکتیو جاکوبی 1000 کربن اکتیو جاکوبی 2000 کربن اکتیو جاکوبی 6000 ضد کف | آنتی فوم ضد کف سیلیکونی ضد کف غیر سیلیکونی آنتی اسکالانت آنتی اسکالانت فلوکن 260 آنتی اسکالانت فلوکن 190 آنتی اسکالانت آویستا آنتی اسکالانت جنسیس رزین تبادل یونی رزین سختی گیر رزین آنیونی رزی",
+      "signal": "projects_or_clients",
+      "source_quality": "company_site",
+      "source_title": "بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی",
+      "source_url": "https://spttrade.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:37Z",
+      "claim": "Public website signal: certifications",
+      "confidence": 0.72,
+      "evidence_id": "ev-2184af7d0bb76620",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "استاندارد; مجوز | بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی Skip to navigation Skip to main content همه دسته بندی ها مواد تصفیه آب کربن فعال کربن اکتیو جاکوبی 1000 کربن اکتیو جاکوبی 2000 کربن اکتیو جاکوبی 6000 ضد کف | آنتی فوم ضد کف سیلیکونی ضد کف غیر سیلیکونی آنتی اسکالانت آنتی اسکالانت فلوکن 260 آنتی اسکالانت فلوکن 190 آنتی اسکالانت آویستا آنتی اسکالانت جنسیس رزین تبادل یونی رزین سختی گیر رزین آنیونی رزی",
+      "signal": "certifications",
+      "source_quality": "company_site",
+      "source_title": "بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی",
+      "source_url": "https://spttrade.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:37Z",
+      "claim": "Public website signal: tender_or_contract",
+      "confidence": 0.72,
+      "evidence_id": "ev-12726a5301d80e64",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "بازرگانی | بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی Skip to navigation Skip to main content همه دسته بندی ها مواد تصفیه آب کربن فعال کربن اکتیو جاکوبی 1000 کربن اکتیو جاکوبی 2000 کربن اکتیو جاکوبی 6000 ضد کف | آنتی فوم ضد کف سیلیکونی ضد کف غیر سیلیکونی آنتی اسکالانت آنتی اسکالانت فلوکن 260 آنتی اسکالانت فلوکن 190 آنتی اسکالانت آویستا آنتی اسکالانت جنسیس رزین تبادل یونی رزین سختی گیر رزین آنیونی رزی",
+      "signal": "tender_or_contract",
+      "source_quality": "company_site",
+      "source_title": "بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی",
+      "source_url": "https://spttrade.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:37Z",
+      "claim": "Public website signal: admin_or_operations_hiring",
+      "confidence": 0.72,
+      "evidence_id": "ev-d015fa26d99560e7",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "کارشناس فروش | بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی Skip to navigation Skip to main content همه دسته بندی ها مواد تصفیه آب کربن فعال کربن اکتیو جاکوبی 1000 کربن اکتیو جاکوبی 2000 کربن اکتیو جاکوبی 6000 ضد کف | آنتی فوم ضد کف سیلیکونی ضد کف غیر سیلیکونی آنتی اسکالانت آنتی اسکالانت فلوکن 260 آنتی اسکالانت فلوکن 190 آنتی اسکالانت آویستا آنتی اسکالانت جنسیس رزین تبادل یونی رزین سختی گیر رزین آنیونی رزی",
+      "signal": "admin_or_operations_hiring",
+      "source_quality": "company_site",
+      "source_title": "بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی",
+      "source_url": "https://spttrade.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:37Z",
+      "claim": "Public website signal: expansion_or_activity",
+      "confidence": 0.72,
+      "evidence_id": "ev-e8ffd89a1b0b2e69",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "تاسیس; تأسیس; صادرات | بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی Skip to navigation Skip to main content همه دسته بندی ها مواد تصفیه آب کربن فعال کربن اکتیو جاکوبی 1000 کربن اکتیو جاکوبی 2000 کربن اکتیو جاکوبی 6000 ضد کف | آنتی فوم ضد کف سیلیکونی ضد کف غیر سیلیکونی آنتی اسکالانت آنتی اسکالانت فلوکن 260 آنتی اسکالانت فلوکن 190 آنتی اسکالانت آویستا آنتی اسکالانت جنسیس رزین تبادل یونی رزین سختی گیر رزین آنیونی رزی",
+      "signal": "expansion_or_activity",
+      "source_quality": "company_site",
+      "source_title": "بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی",
+      "source_url": "https://spttrade.com/"
+    }
+  ]
+}

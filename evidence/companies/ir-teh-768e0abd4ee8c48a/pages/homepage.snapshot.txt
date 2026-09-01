@@ -1,0 +1,794 @@
+### Page
+- Page URL: https://fooladshahan.com/
+- Page Title: فولاد شاهان
+- Console: 1 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - generic [ref=e7]:
+          - generic [ref=e12]:
+            - generic [ref=e15] [cursor=pointer]:
+              - generic [ref=e16]: 
+              - generic [ref=e17]: لیست محصولات
+            - generic: 
+          - generic [ref=e25] [cursor=pointer]:
+            - generic [ref=e26]: 
+            - generic [ref=e27]: جستجو محصول ...
+          - generic [ref=e29]:
+            - navigation [ref=e33]:
+              - list [ref=e34]:
+                - listitem [ref=e35]:
+                  - link "فولاد شاهان" [ref=e36] [cursor=pointer]:
+                    - /url: https://fooladshahan.com/
+                - listitem [ref=e37]:
+                  - link "سبد خرید" [ref=e38] [cursor=pointer]:
+                    - /url: https://fooladshahan.com/cart/
+                - listitem [ref=e39]:
+                  - link "مقالات آهن آلات" [ref=e40] [cursor=pointer]:
+                    - /url: https://fooladshahan.com/articles/
+                - listitem [ref=e41]:
+                  - link "تحلیل قیمت بازار" [ref=e42] [cursor=pointer]:
+                    - /url: https://fooladshahan.com/analysis/
+                - listitem [ref=e43]:
+                  - link "اخبار آهن و فولاد" [ref=e44] [cursor=pointer]:
+                    - /url: https://fooladshahan.com/news/
+            - link "استعلام قیمت آنلاین" [ref=e48] [cursor=pointer]:
+              - /url: "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjUwMjAiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D"
+          - generic [ref=e52]:
+            - generic [ref=e53]: با ما در ارتباط باشید
+            - list [ref=e57]:
+              - listitem [ref=e58]:
+                - link "آیکون یوتیوب فولاد شاهان Youtube-color" [ref=e59] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e60]: آیکون یوتیوب فولاد شاهان
+                  - img "Youtube-color" [ref=e61]
+              - listitem [ref=e65]:
+                - link "ایکون کانال اینستاگرام فولاد شاهان" [ref=e66] [cursor=pointer]:
+                  - /url: https://instagram.com/fooladshahan1
+              - listitem [ref=e75]:
+                - link "آیکون واتساپ پشتیبانی فولاد شاهان" [ref=e76] [cursor=pointer]:
+                  - /url: https://wa.link/57xe74
+              - listitem [ref=e82]:
+                - link "آیکون تلگرام پشتیبانی فولاد شاهان" [ref=e83] [cursor=pointer]:
+                  - /url: https://t.me/fooladshahan_Seller
+            - link "۰۲۱-۹۱۰۰۲۷۲۹" [ref=e91] [cursor=pointer]:
+              - /url: tel:+982191002729
+        - generic [ref=e93]:
+          - link [ref=e99] [cursor=pointer]:
+            - /url: https://fooladshahan.com/
+            - img "فولاد شاهان | مرجع به‌روز قیمت آهن‌آلات و محصولات فولادی" [ref=e102]
+          - 'link "شماره تماس: 021 91002729" [ref=e118] [cursor=pointer]':
+            - /url: tel:02191002729
+          - generic [ref=e120]:
+            - link "سبد خرید" [ref=e124] [cursor=pointer]:
+              - /url: https://fooladshahan.com/cart/
+            - link "حساب کاربری" [ref=e130] [cursor=pointer]:
+              - /url: "#"
+    - generic [ref=e133]:
+      - generic [ref=e137]:
+        - heading "فولاد شاهان" [level=1] [ref=e138]
+        - paragraph [ref=e139]: به فولاد شاهان خوش آمدید؛ مرجع تخصصی و آنلاین شما برای استعلام قیمت روز آهن آلات و فولاد. شرکت تامین فولاد شاهان با سابقه طولانی در این صنعت، به عنوان مرجع تخصصی فروش، متعهد به ارائه شفاف‌ترین و به‌روزترین قیمت روز آهن و قیمت انواع ورق و سایر محصولات کلیدی نظیر میلگرد، تیرآهن و پروفیل است. با ما، خرید مطمئن، سریع و با ضمانت اصالت کالا را تجربه کنید. مشاوره تخصصی خرید، از خدمات ما به شماست.
+      - region "اسلایدر معرفی خدمات فولاد شاهان" [ref=e144]:
+        - generic [ref=e145]:
+          - article [ref=e146]:
+            - img "خدمات برش دقیق CNC ورق فولادی توسط فولاد شاهان" [ref=e147]
+            - generic [ref=e150]:
+              - generic [ref=e151]: فولاد شاهان
+              - heading "برش CNC دقیق‌تر از انتظار" [level=2] [ref=e152]: برش CNCدقیق‌تر از انتظار
+              - paragraph [ref=e153]: تکنولوژی روز دنیا در دستان شما. کیفیت را با ما تجربه کنید.
+              - generic [ref=e154]:
+                - link "مشاهده خدمات برشکاری" [ref=e155] [cursor=pointer]:
+                  - /url: https://fooladshahan.com/خدمات-برش-کاری/
+                - link "تلفن مشاوره و ثبت سفارش" [ref=e156] [cursor=pointer]:
+                  - /url: tel:02191002729
+          - generic [ref=e157]:
+            - button "رفتن به اسلاید 1" [ref=e158] [cursor=pointer]
+            - button "رفتن به اسلاید 2" [ref=e159] [cursor=pointer]
+            - button "رفتن به اسلاید 3" [ref=e160] [cursor=pointer]
+            - button "رفتن به اسلاید 4" [ref=e161] [cursor=pointer]
+      - generic [ref=e169]:
+        - group "1 / 7" [ref=e170]:
+          - link "تیرآهن تیرآهن مشاهده قیمت ها" [ref=e171] [cursor=pointer]:
+            - /url: https://fooladshahan.com/cat-product/%d8%aa%db%8c%d8%b1%d8%a2%d9%87%d9%86/
+            - img "تیرآهن" [ref=e173]
+            - generic [ref=e174]:
+              - heading "تیرآهن" [level=2] [ref=e175]
+              - generic [ref=e176]: مشاهده قیمت ها
+        - group "2 / 7" [ref=e177]:
+          - link "ورق ورق مشاهده قیمت ها" [ref=e178] [cursor=pointer]:
+            - /url: https://fooladshahan.com/cat-product/%d9%88%d8%b1%d9%82/
+            - img "ورق" [ref=e180]
+            - generic [ref=e181]:
+              - heading "ورق" [level=2] [ref=e182]
+              - generic [ref=e183]: مشاهده قیمت ها
+        - group "3 / 7" [ref=e184]:
+          - link "میلگرد میلگرد مشاهده قیمت ها" [ref=e185] [cursor=pointer]:
+            - /url: https://fooladshahan.com/cat-product/%d9%85%db%8c%d9%84%da%af%d8%b1%d8%af/
+            - img "میلگرد" [ref=e187]
+            - generic [ref=e188]:
+              - heading "میلگرد" [level=2] [ref=e189]
+              - generic [ref=e190]: مشاهده قیمت ها
+        - group "4 / 7" [ref=e191]:
+          - link "پروفیل پروفیل مشاهده قیمت ها" [ref=e192] [cursor=pointer]:
+            - /url: https://fooladshahan.com/cat-product/%d9%be%d8%b1%d9%88%d9%81%db%8c%d9%84/
+            - img "پروفیل" [ref=e194]
+            - generic [ref=e195]:
+              - heading "پروفیل" [level=2] [ref=e196]
+              - generic [ref=e197]: مشاهده قیمت ها
+        - group "5 / 7" [ref=e198]:
+          - link "لوله لوله مشاهده قیمت ها" [ref=e199] [cursor=pointer]:
+            - /url: https://fooladshahan.com/cat-product/%d9%84%d9%88%d9%84%d9%87/
+            - img "لوله" [ref=e201]
+            - generic [ref=e202]:
+              - heading "لوله" [level=2] [ref=e203]
+              - generic [ref=e204]: مشاهده قیمت ها
+        - group "6 / 7" [ref=e205]:
+          - link "نبشی نبشی مشاهده قیمت ها" [ref=e206] [cursor=pointer]:
+            - /url: https://fooladshahan.com/cat-product/%d9%86%d8%a8%d8%b4%db%8c/
+            - img "نبشی" [ref=e208]
+            - generic [ref=e209]:
+              - heading "نبشی" [level=2] [ref=e210]
+              - generic [ref=e211]: مشاهده قیمت ها
+        - group "7 / 7" [ref=e212]:
+          - link "ناودانی ناودانی مشاهده قیمت ها" [ref=e213] [cursor=pointer]:
+            - /url: https://fooladshahan.com/cat-product/%d9%86%d8%a7%d9%88%d8%af%d8%a7%d9%86%db%8c/
+            - img "ناودانی" [ref=e215]
+            - generic [ref=e216]:
+              - heading "ناودانی" [level=2] [ref=e217]
+              - generic [ref=e218]: مشاهده قیمت ها
+      - generic [ref=e222]:
+        - generic [ref=e224]:
+          - heading "چرا از فولاد شاهان خرید کنیم؟" [level=2] [ref=e229]
+          - link "درباره ما" [ref=e235] [cursor=pointer]:
+            - /url: https://fooladshahan.com/?page_id=7
+        - generic [ref=e239]:
+          - generic [ref=e245]:
+            - heading "ارسال سریع کالا" [level=3] [ref=e261]
+            - generic [ref=e265]:
+              - paragraph [ref=e268]: کالاهای شما با سرعت و در کوتاه‌ترین زمان ممکن به دستتان می‌رسد. ما با بهره‌گیری از بهترین سیستم‌های حمل و نقل، ارسال سریع و مطمئن را تضمین می‌کنیم.
+              - generic [ref=e269]: اطلاعات بیشتر
+          - generic [ref=e283]:
+            - heading "تضمین بهترین کیفیت" [level=3] [ref=e299]
+            - generic [ref=e303]:
+              - paragraph [ref=e306]: تمامی محصولات ما با بالاترین استانداردهای کیفیت عرضه می‌شوند. ما تنها محصولاتی را ارائه می‌دهیم که از نظر کیفیت و دوام بی‌نظیر هستند.
+              - generic [ref=e307]: اطلاعات بیشتر
+          - generic [ref=e321]:
+            - heading "خرید آسان و سریع" [level=3] [ref=e334]
+            - generic [ref=e338]:
+              - paragraph [ref=e341]: فرآیند خرید به ساده‌ترین و سریع‌ترین شکل ممکن طراحی شده است. با چند کلیک می‌توانید محصولات مورد نیاز خود را سفارش دهید
+              - generic [ref=e342]: اطلاعات بیشتر
+          - generic [ref=e356]:
+            - heading "تضمین کمترین قیمت" [level=3] [ref=e370]
+            - generic [ref=e374]:
+              - paragraph [ref=e377]: ما بهترین قیمت‌ها را برای محصولاتمان تضمین می‌کنیم. با خرید از ما، مطمئن باشید که با کمترین هزینه، بالاترین کیفیت را دریافت می‌کنید.
+              - generic [ref=e378]: اطلاعات بیشتر
+      - generic [ref=e392]:
+        - generic [ref=e393]:
+          - generic [ref=e394]: مشاهده آخرین قیمت محصولات
+          - tablist [ref=e395]:
+            - tab "آخرین تغییرات" [selected] [ref=e396] [cursor=pointer]
+            - tab "ورق" [ref=e397] [cursor=pointer]
+            - tab "پروفیل" [ref=e398] [cursor=pointer]
+            - tab "لوله" [ref=e399] [cursor=pointer]
+            - tab "تیرآهن" [ref=e400] [cursor=pointer]
+            - tab "نبشی" [ref=e401] [cursor=pointer]
+            - tab "ناودانی" [ref=e402] [cursor=pointer]
+            - tab "میلگرد" [ref=e403] [cursor=pointer]
+        - generic [ref=e405]:
+          - tabpanel "آخرین تغییرات" [ref=e406]:
+            - table [ref=e408]:
+              - rowgroup [ref=e409]:
+                - row [ref=e410]:
+                  - columnheader "نام" [ref=e411]
+                  - columnheader "نوع" [ref=e412]
+                  - columnheader "واحد" [ref=e413]
+                  - columnheader "محل بارگیری" [ref=e414]
+                  - columnheader "قیمت" [ref=e415]
+                  - columnheader "تغییرات" [ref=e416]
+                  - columnheader [ref=e417]
+                  - columnheader [ref=e418]
+              - rowgroup [ref=e419]:
+                - row [ref=e420]:
+                  - cell [ref=e421]:
+                    - link "تیرآهن ۱۴ کرمانشاه" [ref=e422] [cursor=pointer]:
+                      - /url: https://fooladshahan.com/product/%d8%aa%db%8c%d8%b1%d8%a2%d9%87%d9%86-14-%da%a9%d8%b1%d9%85%d8%a7%d9%86%d8%b4%d8%a7%d9%87/
+                  - cell "تیرآهن" [ref=e423]
+                  - cell "شاخه" [ref=e424]
+                  - cell "انبار تهران" [ref=e425]
+                  - cell " 10,500,000 تومان" [ref=e426]:
+                    - generic [ref=e427]: 
+                    - generic [ref=e428]:
+                      - text: 10,500,000
+                      - generic [ref=e429]: تومان
+                  - cell "ثابت" [ref=e430]
+                  - cell "خرید" [ref=e433]
+                  - cell "" [ref=e438]
+                - row [ref=e440]:
+                  - cell [ref=e441]:
+                    - link "تیرآهن ۱۶ کرمانشاه" [ref=e442] [cursor=pointer]:
+                      - /url: https://fooladshahan.com/product/%d8%aa%db%8c%d8%b1%d8%a2%d9%87%d9%86-16-%da%a9%d8%b1%d9%85%d8%a7%d9%86%d8%b4%d8%a7%d9%87/
+                  - cell "تیرآهن" [ref=e443]
+                  - cell "شاخه" [ref=e444]
+                  - cell "انبار تهران" [ref=e445]
+                  - cell " 15,000,000 تومان" [ref=e446]:
+                    - generic [ref=e447]: 
+                    - generic [ref=e448]:
+                      - text: 15,000,000
+                      - generic [ref=e449]: تومان
+                  - cell "ثابت" [ref=e450]
+                  - cell "خرید" [ref=e453]
+                  - cell "" [ref=e458]
+                - row [ref=e460]:
+                  - cell [ref=e461]:
+                    - link "تیرآهن ۱۸ کرمانشاه" [ref=e462] [cursor=pointer]:
+                      - /url: https://fooladshahan.com/product/%d8%aa%db%8c%d8%b1%d8%a2%d9%87%d9%86-18-%da%a9%d8%b1%d9%85%d8%a7%d9%86%d8%b4%d8%a7%d9%87/
+                  - cell "تیرآهن" [ref=e463]
+                  - cell "شاخه" [ref=e464]
+                  - cell "انبار تهران" [ref=e465]
+                  - cell "تماس بگیرید" [ref=e466]
+                  - cell "ثابت" [ref=e468]
+                  - cell "خرید" [ref=e471]
+                  - cell "" [ref=e476]
+                - row [ref=e478]:
+                  - cell [ref=e479]:
+                    - link "تیرآهن ۲۰ کرمانشاه" [ref=e480] [cursor=pointer]:
+                      - /url: https://fooladshahan.com/product/%d8%aa%db%8c%d8%b1%d8%a2%d9%87%d9%86-20-%da%a9%d8%b1%d9%85%d8%a7%d9%86%d8%b4%d8%a7%d9%87/
+                  - cell "تیرآهن" [ref=e481]
+                  - cell "شاخه" [ref=e482]
+                  - cell "انبار تهران" [ref=e483]
+                  - cell "تماس بگیرید" [ref=e484]
+                  - cell "ثابت" [ref=e486]
+                  - cell "خرید" [ref=e489]
+                  - cell "" [ref=e494]
+                - row [ref=e496]:
+                  - cell [ref=e497]:
+                    - link "تیرآهن ۱۶ بناب" [ref=e498] [cursor=pointer]:
+                      - /url: https://fooladshahan.com/product/%d8%aa%db%8c%d8%b1%d8%a2%d9%87%d9%86-16-%d8%a8%d9%86%d8%a7%d8%a8/
+                  - cell "تیرآهن" [ref=e499]
+                  - cell "شاخه" [ref=e500]
+                  - cell "انبار تهران" [ref=e501]
+                  - cell "تماس بگیرید" [ref=e502]
+                  - cell "ثابت" [ref=e504]
+                  - cell "خرید" [ref=e507]
+                  - cell "" [ref=e512]
+                - row [ref=e514]:
+                  - cell [ref=e515]:
+                    - link "ورق ۱۰ میل استیل ۳۱۶ عرض ۱۰۰۰*۲۰۰۰" [ref=e516] [cursor=pointer]:
+                      - /url: https://fooladshahan.com/product/%d9%88%d8%b1%d9%82-6-%d9%85%db%8c%d9%84-%d8%a7%d8%b3%d8%aa%db%8c%d9%84-%db%b3%db%b1%db%b6-%d8%b9%d8%b1%d8%b6-%db%b1%db%b0%db%b0%db%b0%db%b2%db%b0%db%b0%db%b0/
+                  - cell "قیمت ورق استیل" [ref=e517]
+                  - cell "کیلوگرم" [ref=e518]
+                  - cell "بنگاه تهران" [ref=e519]
+                  - cell "تماس بگیرید" [ref=e520]
+                  - cell "ثابت" [ref=e522]
+                  - cell "خرید" [ref=e525]
+                  - cell "" [ref=e530]
+                - row [ref=e532]:
+                  - cell [ref=e533]:
+                    - link "ورق ۸ میل استیل ۳۱۶ عرض ۱۰۰۰*۲۰۰۰" [ref=e534] [cursor=pointer]:
+                      - /url: https://fooladshahan.com/product/%d9%88%d8%b1%d9%82-8-%d9%85%db%8c%d9%84-%d8%a7%d8%b3%d8%aa%db%8c%d9%84-%db%b3%db%b1%db%b6-%d8%b9%d8%b1%d8%b6-%db%b1%db%b0%db%b0%db%b0%db%b2%db%b0%db%b0%db%b0/
+                  - cell "قیمت ورق استیل" [ref=e535]
+                  - cell "کیلوگرم" [ref=e536]
+                  - cell "بنگاه تهران" [ref=e537]
+                  - cell "تماس بگیرید" [ref=e538]
+                  - cell "ثابت" [ref=e540]
+                  - cell "خرید" [ref=e543]
+                  - cell "" [ref=e548]
+            - link "مشاهده لیست کامل قیمت" [ref=e551] [cursor=pointer]:
+              - /url: /cat_product/%d9%85%db%8c%d9%84%da%af%d8%b1%d8%af
+          - text:                                                                                          
+      - generic [ref=e558]:
+        - generic [ref=e560]:
+          - link "تماس از طریق واتساپ" [ref=e561] [cursor=pointer]:
+            - /url: https://wa.link/57xe74
+            - generic:
+              - generic [ref=e570]: تماس از طریق
+              - generic [ref=e571]: واتساپ
+          - link "تماس از طریق تلگرام" [ref=e572] [cursor=pointer]:
+            - /url: https://t.me/fooladshahan_Seller
+            - generic:
+              - generic [ref=e581]: تماس از طریق
+              - generic [ref=e582]: تلگرام
+          - link "تماس از طریق اسکایپ" [ref=e583] [cursor=pointer]:
+            - /url: https://join.skype.com/invite/AxDLkCbV0OgQ
+            - generic:
+              - generic [ref=e592]: تماس از طریق
+              - generic [ref=e593]: اسکایپ
+          - link "تماس از طریق تماس مستقیم" [ref=e594] [cursor=pointer]:
+            - /url: tel:+9891002729
+            - generic:
+              - generic [ref=e603]: تماس از طریق
+              - generic [ref=e604]: تماس مستقیم
+        - generic [ref=e605]:
+          - img "Flag" [ref=e607]
+          - generic [ref=e608]:
+            - link "+98 91002729" [ref=e609] [cursor=pointer]:
+              - /url: tel:+9891002729
+            - generic [ref=e610]: کارشناسان ما پاسخگو شما برای خریدی مطمئن هستند
+      - generic [ref=e619]:
+        - generic [ref=e620]:
+          - generic [ref=e621]:
+            - paragraph [ref=e624]: بهترین انتخاب‌های خرید امروز، فقط برای شما!
+            - paragraph [ref=e627]: در فهرست زیر، بهترین و مقرون‌به‌صرفه‌ترین محصولات را برای شما آماده کرده‌ایم.
+          - generic [ref=e629]:
+            - link "ورق ۴ میل فولاد مبارکه عرض ۱۵۰۰  126,000 تومان" [ref=e630] [cursor=pointer]:
+              - /url: https://fooladshahan.com/product/%d9%88%d8%b1%d9%82-4-%d9%85%db%8c%d9%84-%d9%81%d9%88%d9%84%d8%a7%d8%af-%d9%85%d8%a8%d8%a7%d8%b1%da%a9%d9%87-3-3/
+              - generic [ref=e631]:
+                - generic [ref=e632]: ورق ۴ میل فولاد مبارکه عرض ۱۵۰۰
+                - generic [ref=e633]:
+                  - generic [ref=e634]: 
+                  - generic [ref=e635]:
+                    - text: 126,000
+                    - generic [ref=e636]: تومان
+            - link "ورق ۵ میل فولاد مبارکه عرض ۱۰۰۰  130,000 تومان" [ref=e637] [cursor=pointer]:
+              - /url: https://fooladshahan.com/product/%d9%88%d8%b1%d9%82-5-%d9%85%db%8c%d9%84-%d9%81%d9%88%d9%84%d8%a7%d8%af-%d9%85%d8%a8%d8%a7%d8%b1%da%a9%d9%87-4/
+              - generic [ref=e638]:
+                - generic [ref=e639]: ورق ۵ میل فولاد مبارکه عرض ۱۰۰۰
+                - generic [ref=e640]:
+                  - generic [ref=e641]: 
+                  - generic [ref=e642]:
+                    - text: 130,000
+                    - generic [ref=e643]: تومان
+            - link "پروفیل گالوانیزه ۲ میل سایز ۳۰*۵۰  182,500 تومان" [ref=e644] [cursor=pointer]:
+              - /url: https://fooladshahan.com/product/%d9%be%d8%b1%d9%88%d9%81%db%8c%d9%84-%da%af%d8%a7%d9%84%d9%88%d8%a7%d9%86%db%8c%d8%b2%d9%87-2-%d9%85%db%8c%d9%84-7/
+              - generic [ref=e645]:
+                - generic [ref=e646]: پروفیل گالوانیزه ۲ میل سایز ۳۰*۵۰
+                - generic [ref=e647]:
+                  - generic [ref=e648]: 
+                  - generic [ref=e649]:
+                    - text: 182,500
+                    - generic [ref=e650]: تومان
+            - link "ورق روغنی ۰.۵ میل فولاد مبارکه عرض ۱۰۰۰  174,900 تومان" [ref=e651] [cursor=pointer]:
+              - /url: https://fooladshahan.com/product/%d9%88%d8%b1%d9%82-0-5-%d9%85%db%8c%d9%84-%d8%b1%d9%88%d8%ba%d9%86%db%8c-%d9%81%d9%88%d9%84%d8%a7%d8%af-%d9%85%d8%a8%d8%a7%d8%b1%da%a9%d9%87/
+              - generic [ref=e652]:
+                - generic [ref=e653]: ورق روغنی ۰.۵ میل فولاد مبارکه عرض ۱۰۰۰
+                - generic [ref=e654]:
+                  - generic [ref=e655]: 
+                  - generic [ref=e656]:
+                    - text: 174,900
+                    - generic [ref=e657]: تومان
+            - link "ورق رنگی ۰.۵ فولاد مبارکه سفید یخچالی عرض ۱۲۵۰  208,800 تومان" [ref=e658] [cursor=pointer]:
+              - /url: https://fooladshahan.com/product/%d9%88%d8%b1%d9%82-%d8%b1%d9%86%da%af%db%8c-0-5-%d9%81%d9%88%d9%84%d8%a7%d8%af-%d9%85%d8%a8%d8%a7%d8%b1%da%a9%d9%87/
+              - generic [ref=e659]:
+                - generic [ref=e660]: ورق رنگی ۰.۵ فولاد مبارکه سفید یخچالی عرض ۱۲۵۰
+                - generic [ref=e661]:
+                  - generic [ref=e662]: 
+                  - generic [ref=e663]:
+                    - text: 208,800
+                    - generic [ref=e664]: تومان
+        - generic [ref=e665]:
+          - generic [ref=e666]:
+            - paragraph [ref=e669]: کارشناس‌های فولاد شاهان
+            - paragraph [ref=e672]: برای مشاوره فوری و دسترسی به کارشناسان فولاد شاهان، کافیست از بخش زیر اقدام کنید.
+          - generic [ref=e673]:
+            - generic [ref=e674]: کارشناسان فروش
+            - generic [ref=e676]:
+              - tablist [ref=e678]:
+                - generic [ref=e682]:
+                  - group "1 / 3" [ref=e683] [cursor=pointer]:
+                    - img "محمد عرب" [ref=e684]
+                  - group "2 / 3" [ref=e685] [cursor=pointer]:
+                    - img "محسن زارعی" [ref=e686]
+                  - group "3 / 3" [ref=e687] [cursor=pointer]:
+                    - img "علی رجبی" [ref=e688]
+              - tabpanel "1 / 3" [ref=e690]:
+                - generic [ref=e692]:
+                  - generic [ref=e693]:
+                    - generic [ref=e694]: محمد عرب
+                    - generic [ref=e695]: سرپرست ورق گرم
+                  - generic [ref=e696]:
+                    - generic [ref=e697]: "02191002729"
+                    - generic [ref=e699]:
+                      - generic [ref=e700]: "301"
+                      - generic [ref=e701]: داخلی
+      - generic [ref=e704]:
+        - generic [ref=e705]: همراهی برندهای برتر در کنار فولاد شاهان
+        - region "کاروسل تصویر" [ref=e716]:
+          - generic [ref=e717]:
+            - group [ref=e718]:
+              - figure [ref=e719]
+            - group [ref=e721]:
+              - figure [ref=e722]
+            - group [ref=e724]:
+              - figure [ref=e725]
+            - group [ref=e727]:
+              - figure [ref=e728]
+            - group [ref=e730]:
+              - figure [ref=e731]
+            - group "1 / 5" [ref=e733]:
+              - figure [ref=e734]:
+                - img "لوگو شرکت آلومینیوم جنوب | تولید و تأمین محصولات آلومینیومی با کیفیت بالا" [ref=e735]
+            - group "2 / 5" [ref=e736]:
+              - figure [ref=e737]:
+                - img "لوگو گروه مبنا | پیشرو در تولید و تأمین محصولات صنعتی با کیفیت و نوآوری" [ref=e738]
+            - group "3 / 5" [ref=e739]:
+              - figure [ref=e740]:
+                - img "لوگو شرکت ایران دلکو | تولید و تأمین انواع محصولات برقی و الکترونیکی با کیفیت" [ref=e741]
+            - group "4 / 5" [ref=e742]:
+              - figure [ref=e743]:
+                - img "لوگو قرارگاه سازندگی خاتم‌الانبیاء | پیشرو در پروژه‌های عمرانی و ساخت و ساز با کیفیت در ایران" [ref=e744]
+            - group "5 / 5" [ref=e745]:
+              - figure [ref=e746]:
+                - img "لوگو شرکت صنایع پتروشیمی تخت جمشید | تولید و تأمین محصولات پتروشیمی با کیفیت عالی در ایران" [ref=e747]
+            - group [ref=e748]:
+              - figure [ref=e749]
+            - group [ref=e751]:
+              - figure [ref=e752]
+            - group [ref=e754]:
+              - figure [ref=e755]
+            - group [ref=e757]:
+              - figure [ref=e758]
+            - group [ref=e760]:
+              - figure [ref=e761]
+          - button "اسلاید قبلی" [ref=e763] [cursor=pointer]
+          - button "اسلاید بعدی" [ref=e766] [cursor=pointer]
+      - heading "آخرین اخبار و مقالات آهن آلات" [level=2] [ref=e772]
+      - generic [ref=e776]:
+        - generic [ref=e777]:
+          - heading [level=2] [ref=e778]:
+            - strong [ref=e780]: فولاد شاهان؛ مرجع تامین آهن‌آلات صنعتی و ساختمانی
+          - paragraph [ref=e781]:
+            - text: شرکت
+            - strong [ref=e782]: فولاد شاهان
+            - text: یکی از معتبرترین تأمین‌کنندگان آهن‌آلات صنعتی و ساختمانی در ایران است. ما فعالیت حرفه‌ای خود را با هدف ارائه محصولات باکیفیت و خدمات متمایز آغاز کرده‌ایم و امروز مفتخریم که مجموعه‌ای گسترده از مقاطع فولادی را به مشتریان در سراسر کشور عرضه می‌کنیم.
+          - heading [level=2] [ref=e783]:
+            - strong [ref=e784]: محصولات ما
+          - list [ref=e785]:
+            - listitem [ref=e786]:
+              - strong [ref=e787]: ورق‌های گرم و سرد
+              - text: مناسب برای صنایع و پروژه‌های ساخت‌وساز
+            - listitem [ref=e788]:
+              - strong [ref=e789]: پروفیل و لوله
+              - text: با کیفیت و مطابق استانداردهای جهانی
+            - listitem [ref=e790]:
+              - strong [ref=e791]: تیرآهن و هاش
+              - text: مقاوم برای سازه‌های بزرگ
+            - listitem [ref=e792]:
+              - strong [ref=e793]: میلگرد
+              - text: در سایزها و استانداردهای مختلف برای پروژه‌های عمرانی
+            - listitem [ref=e794]:
+              - strong [ref=e795]: نبشی و ناودانی
+              - text: برای استفاده در ساختمان‌سازی و صنایع متنوع
+            - listitem [ref=e796]:
+              - strong [ref=e797]: استنلس استیل
+              - text: و
+              - strong [ref=e798]: آلومینیوم
+              - text: ، مقاوم و سبک برای کاربردهای خاص
+          - heading [level=2] [ref=e799]:
+            - strong [ref=e800]: خدمات فولاد شاهان
+          - list [ref=e801]:
+            - listitem [ref=e802]:
+              - strong [ref=e803]: بروزرسانی لحظه‌ای قیمت آهن‌آلات
+              - text: در کارخانه‌ها و بازار، به همراه آرشیو قیمتی
+            - listitem [ref=e804]:
+              - strong [ref=e805]: امکان مقایسه قیمت محصولات
+              - text: ساختمانی و صنعتی در بازه‌های زمانی مختلف
+            - listitem [ref=e806]:
+              - strong [ref=e807]: ثبت و پیگیری سریع سفارشات
+              - text: توسط کارشناسان مجرب فولاد شاهان
+            - listitem [ref=e808]:
+              - strong [ref=e809]: ارائه مقالات و تحلیل‌های تخصصی
+              - text: پیرامون بازار فولاد، بورس کالا و تحولات اقتصادی تأثیرگذار
+            - listitem [ref=e810]:
+              - strong [ref=e811]: دسترسی به مشاوره تخصصی
+              - text: از طریق ارتباط مستقیم با کارشناسان مجموعه
+            - listitem [ref=e812]:
+              - strong [ref=e813]: انتشار اطلاعات معاملات بورس فلزات
+              - text: و تحلیل‌های کاربردی برای خریداران
+          - heading [level=2] [ref=e814]:
+            - strong [ref=e815]: چرا فولاد شاهان؟
+          - list [ref=e816]:
+            - listitem [ref=e817]:
+              - strong [ref=e818]: تحویل سریع و مطمئن
+              - text: محصولات از کارخانجات معتبر در کمترین زمان
+            - listitem [ref=e819]:
+              - strong [ref=e820]: تضمین بهترین قیمت و کیفیت
+              - text: برای مشتریان
+            - listitem [ref=e821]:
+              - strong [ref=e822]: پشتیبانی تخصصی
+              - text: و همراهی در تمامی مراحل خرید
+            - listitem [ref=e823]:
+              - strong [ref=e824]: اطلاع‌رسانی دقیق و شفاف
+              - text: برای کمک به بهترین زمان خرید آهن‌آلات
+            - listitem [ref=e825]
+        - button "نمایش بیشتر" [ref=e826] [cursor=pointer]
+    - contentinfo:
+      - generic [ref=e828]:
+        - img "آیکون فوتر | دسترسی به اطلاعات تماس و شبکه‌های اجتماعی" [ref=e835]
+        - generic [ref=e842]:
+          - generic [ref=e844]:
+            - img "لوگو برند فولاد شاهان | تخصص در تأمین و عرضه محصولات فولادی با کیفیت" [ref=e849]
+            - generic [ref=e851]:
+              - heading "درباره فولاد شاهان" [level=2] [ref=e854]
+              - list [ref=e857]:
+                - listitem [ref=e858]:
+                  - link "آیکون اینستاگرام | مشاهده محصولات و اخبار در صفحه اینستاگرام" [ref=e859] [cursor=pointer]:
+                    - /url: https://instagram.com/fooladshahan1
+                - listitem [ref=e863]:
+                  - link "آیکون واتساپ | ارتباط مستقیم با پشتیبانی" [ref=e864] [cursor=pointer]:
+                    - /url: https://wa.link/57xe74
+                - listitem [ref=e870]:
+                  - link "آیکون تلگرام | ارتباط با پشتیبانی و دریافت جدیدترین قیمت‌ها" [ref=e871] [cursor=pointer]:
+                    - /url: https://t.me/fooladshahan_Seller
+              - paragraph [ref=e877]: شرکت تامین فولاد شاهان با بهره‌گیری از کارکنان با تجربه در زمینه خرید و فروش انواع آهن‌آلات صنعتی و ساختمانی از جمله ورق‌های گرم و سرد، لوله و پروفیل، تیرآهن، هاش، میلگرد، نبشی، ناودانی، استنلس استیل و آلومینیوم، متعهد به ارائه محصولات با کیفیت و خدمات مشتریان برتر است. این شرکت با هدف ایجاد روابط بلندمدت و پایدار با مشتریان خود، همواره در تلاش است تا نیازهای آن‌ها را با بهترین راه‌حل‌ها برآورده کند.
+              - heading "دانلود کاتالوگ رسمی فولاد شاهان" [level=2] [ref=e880]
+              - paragraph [ref=e883]: "برای آشنایی کامل با محصولات، خدمات و مشخصات فنی، کاتالوگ جامع فولاد شاهان را از لینک زیر دانلود کنید:"
+              - generic [ref=e886]:
+                - link "دانلود کاتالوگ PDF" [ref=e888] [cursor=pointer]:
+                  - /url: https://fooladshahan.com/wp-content/uploads/2025/04/CATALOGUE-2025-FOOLAD-SHAHAN.pdf
+                - heading [level=3] [ref=e892]:
+                  - link "دانلود کاتالوگ PDF" [ref=e893] [cursor=pointer]:
+                    - /url: https://fooladshahan.com/wp-content/uploads/2025/04/CATALOGUE-2025-FOOLAD-SHAHAN.pdf
+          - generic [ref=e896]:
+            - heading "📢 لیست قیمت روزانه فولاد شاهان" [level=3] [ref=e897]
+            - paragraph [ref=e898]: قیمت‌های به‌روز ورق و مقاطع فولادی را هر روز سریع‌تر از همه ببینید 👇
+            - generic [ref=e899]:
+              - link [ref=e900] [cursor=pointer]:
+                - /url: https://www.whatsapp.com/channel/0029Vb5j2c17DAX7rNgt3b2K
+                - img "واتساپ" [ref=e901]
+                - text: واتساپ
+              - link [ref=e902] [cursor=pointer]:
+                - /url: https://ble.ir/fooladshahan_saller
+                - img "بله" [ref=e903]
+                - text: بله
+              - link [ref=e904] [cursor=pointer]:
+                - /url: https://eitaa.com/fooladshahan_saller1404
+                - img "ایتا" [ref=e905]
+                - text: ایتا
+              - link [ref=e906] [cursor=pointer]:
+                - /url: https://rubika.ir/fooladshahan1
+                - img "روبیکا" [ref=e907]
+                - text: روبیکا
+          - navigation [ref=e911]:
+            - list [ref=e912]:
+              - listitem [ref=e913]:
+                - link "صفحه اصلی" [ref=e914] [cursor=pointer]:
+                  - /url: https://fooladshahan.com/
+              - listitem [ref=e915]:
+                - link "سبد خرید" [ref=e916] [cursor=pointer]:
+                  - /url: https://fooladshahan.com/cart/
+              - listitem [ref=e917]:
+                - link "تماس مستقیم" [ref=e918] [cursor=pointer]:
+                  - /url: tel:0216557161
+              - listitem [ref=e919]:
+                - link "پیام واتساپ" [ref=e920] [cursor=pointer]:
+                  - /url: https://wa.link/57xe74
+              - listitem [ref=e921]:
+                - link "مجله خبری" [ref=e922] [cursor=pointer]:
+                  - /url: https://fooladshahan.com/news/
+              - listitem [ref=e923]:
+                - link "تماس باما" [ref=e924] [cursor=pointer]:
+                  - /url: https://fooladshahan.com/%d8%aa%d9%85%d8%a7%d8%b3-%d8%a8%d8%a7%d9%85%d8%a7/
+              - listitem [ref=e925]:
+                - link "نقشه سایت" [ref=e926] [cursor=pointer]:
+                  - /url: https://fooladshahan.com/%d9%86%d9%82%d8%b4%d9%87-%d8%b3%d8%a7%db%8c%d8%aa/
+              - listitem [ref=e927]:
+                - link "آرشیو محصولات" [ref=e928] [cursor=pointer]:
+                  - /url: https://fooladshahan.com/product/
+        - generic [ref=e929]: کلیه حقوق متعلق به تامین فولاد شاهان می باشد.
+        - generic [ref=e940]:
+          - generic [ref=e948]:
+            - navigation [ref=e950]:
+              - generic [ref=e951]: دسترسی های سریع
+              - list [ref=e953]:
+                - listitem [ref=e954]:
+                  - link "صفحه اصلی" [ref=e955] [cursor=pointer]:
+                    - /url: https://fooladshahan.com/
+                - listitem [ref=e956]:
+                  - link "سبد خرید" [ref=e957] [cursor=pointer]:
+                    - /url: https://fooladshahan.com/cart/
+                - listitem [ref=e958]:
+                  - link "تماس مستقیم" [ref=e959] [cursor=pointer]:
+                    - /url: tel:0216557161
+                - listitem [ref=e960]:
+                  - link "پیام واتساپ" [ref=e961] [cursor=pointer]:
+                    - /url: https://wa.link/57xe74
+                - listitem [ref=e962]:
+                  - link "مجله خبری" [ref=e963] [cursor=pointer]:
+                    - /url: https://fooladshahan.com/news/
+                - listitem [ref=e964]:
+                  - link "تماس باما" [ref=e965] [cursor=pointer]:
+                    - /url: https://fooladshahan.com/%d8%aa%d9%85%d8%a7%d8%b3-%d8%a8%d8%a7%d9%85%d8%a7/
+                - listitem [ref=e966]:
+                  - link "نقشه سایت" [ref=e967] [cursor=pointer]:
+                    - /url: https://fooladshahan.com/%d9%86%d9%82%d8%b4%d9%87-%d8%b3%d8%a7%db%8c%d8%aa/
+                - listitem [ref=e968]:
+                  - link "آرشیو محصولات" [ref=e969] [cursor=pointer]:
+                    - /url: https://fooladshahan.com/product/
+            - navigation [ref=e971]:
+              - generic [ref=e972]: دسته بندی ها
+              - list [ref=e974]:
+                - listitem [ref=e975]:
+                  - link "خرید ورق سیاه" [ref=e976] [cursor=pointer]:
+                    - /url: https://fooladshahan.com/cat-product/%d9%88%d8%b1%d9%82-%d8%b3%db%8c%d8%a7%d9%87/
+                - listitem [ref=e977]:
+                  - link "خرید ورق گالوانیزه گرم" [ref=e978] [cursor=pointer]:
+                    - /url: https://fooladshahan.com/cat-product/%d9%88%d8%b1%d9%82-%da%af%d8%a7%d9%84%d9%88%d8%a7%d9%86%db%8c%d8%b2%d9%87-%da%af%d8%b1%d9%85/
+                - listitem [ref=e979]:
+                  - link "خرید تیرآهن" [ref=e980] [cursor=pointer]:
+                    - /url: https://fooladshahan.com/cat-product/%D8%AA%DB%8C%D8%B1%D8%A2%D9%87%D9%86/
+                - listitem [ref=e981]:
+                  - link "خرید ورق A۲۸۳" [ref=e982] [cursor=pointer]:
+                    - /url: https://fooladshahan.com/cat-product/%d9%88%d8%b1%d9%82-a283/
+                - listitem [ref=e983]:
+                  - link "خرید لوله تست آب" [ref=e984] [cursor=pointer]:
+                    - /url: https://fooladshahan.com/cat-product/%D9%84%D9%88%D9%84%D9%87-%D8%AA%D8%B3%D8%AA-%D8%A2%D8%A8/
+                - listitem [ref=e985]:
+                  - link "خرید ورق A۳۶" [ref=e986] [cursor=pointer]:
+                    - /url: https://fooladshahan.com/cat-product/%D9%88%D8%B1%D9%82-A36/
+                - listitem [ref=e987]:
+                  - link "خرید پروفیل ساختمانی" [ref=e988] [cursor=pointer]:
+                    - /url: https://fooladshahan.com/cat-product/%D9%BE%D8%B1%D9%88%D9%81%DB%8C%D9%84-%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86%DB%8C/
+                - listitem [ref=e989]:
+                  - link "خرید پروفیل Z" [ref=e990] [cursor=pointer]:
+                    - /url: https://fooladshahan.com/cat-product/%d9%be%d8%b1%d9%88%d9%81%db%8c%d9%84-z/
+                - listitem [ref=e991]:
+                  - link "خرید ورق گالوانیزه" [ref=e992] [cursor=pointer]:
+                    - /url: https://fooladshahan.com/cat-product/%d9%88%d8%b1%d9%82-%da%af%d8%a7%d9%84%d9%88%d8%a7%d9%86%db%8c%d8%b2%d9%87/
+                - listitem [ref=e993]:
+                  - link "خرید میلگرد آجدار" [ref=e994] [cursor=pointer]:
+                    - /url: https://fooladshahan.com/cat-product/%d9%85%db%8c%d9%84%da%af%d8%b1%d8%af/
+          - generic [ref=e996]:
+            - generic [ref=e997]: "شماره تماس تامین فولاد شاهان: ۰۲۱۹۱۰۰۲۷۲۹"
+            - generic [ref=e1011]: "دفترمرکزی: تهران ،تهران میدان انقلاب-ابتدای کارگر جنوبی-خیابان مهدی زاده-پلاک۲۷-طبقه پنجم-واحد۲۸"
+            - generic [ref=e1022]: "ساعت کاری: روز های کاری ساعت 9 تا 18"
+            - link "مشاهده بر روی گوگل مپ" [ref=e1040] [cursor=pointer]:
+              - /url: https://www.google.com/maps/place/%D8%AA%D8%A7%D9%85%DB%8C%D9%86+%D9%81%D9%88%D9%84%D8%A7%D8%AF+%D8%B4%D8%A7%D9%87%D8%A7%D9%86%E2%80%AD/@35.6998156,51.3908801,18z/data=!4m6!3m5!1s0x3f8e010000c06cfb:0x65d09656f8031ba4!8m2!3d35.6989692!4d51.389096!16s%2Fg%2F11y3pcjvp_!5m1!1e1?hl=fa&entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D
+          - generic [ref=e1042]:
+            - link [ref=e1045] [cursor=pointer]:
+              - /url: https://fooladshahan.com/%d9%86%d9%85%d8%a7%d8%af-%d8%a7%d8%b9%d8%aa%d9%85%d8%a7%d8%af/
+              - img "نماد اعتماد" [ref=e1046]
+            - link [ref=e1049] [cursor=pointer]:
+              - /url: javascript:showZPTrust();
+              - img "دروازه پرداخت معتبر" [ref=e1050]
+            - link [ref=e1053] [cursor=pointer]:
+              - /url: https://fooladshahan.com/wp-content/uploads/2025/07/کارت-بازرگانی-تامین-فولاد-شاهان-scaled.webp
+              - img "نماد اتاق بازرگانی، صنایع، معادن و کشاورزی تهران، نمایانگر فعالیت‌های اقتصادی و تجاری | فولاد شاهان" [ref=e1054]
+            - link [ref=e1057] [cursor=pointer]:
+              - /url: https://fooladshahan.com/wp-content/uploads/2024/12/d4ffbb05-c838-425e-8b89-90b7b687091d.jpg
+              - img "نماد اتحادیه صنف فروشندگان آهن و فولاد تهران | نماینده تأمین‌کنندگان و فروشندگان فلزات و محصولات فولادی" [ref=e1058]
+            - link [ref=e1061] [cursor=pointer]:
+              - /url: https://torob.com/shop/223399/%D9%81%D9%88%D9%84%D8%A7%D8%AF-%D8%B4%D8%A7%D9%87%D8%A7%D9%86/
+              - img "نشان ترب فولاد شاهان" [ref=e1062]
+            - link [ref=e1065] [cursor=pointer]:
+              - /url: https://emalls.ir/Shop/73752/
+              - img "نشان اعتباری ایمالز" [ref=e1066]
+            - link [ref=e1069] [cursor=pointer]:
+              - /url: https://divar.ir/pro/NdSIRftd
+              - img "نشان دیوار فولاد شاهان" [ref=e1070]
+            - img "logo-samandehi" [ref=e1073] [cursor=pointer]
+        - generic [ref=e1079]:
+          - generic [ref=e1080]:
+            - generic [ref=e1082]:
+              - generic [ref=e1083]:
+                - generic [ref=e1084]:
+                  - generic [ref=e1085]: دلار
+                  - generic [ref=e1087]: 2,115,000
+                - generic [ref=e1089]:
+                  - generic [ref=e1093]:
+                    - text: (1.05%
+                    - generic [ref=e1094]: +
+                    - text: )
+                  - generic [ref=e1095]:
+                    - generic [ref=e1096]: +
+                    - text: 22,000
+              - generic [ref=e1097]:
+                - generic [ref=e1098]:
+                  - generic [ref=e1099]: طلای ۲۴ عیار
+                  - generic [ref=e1101]: 295,114,000
+                - generic [ref=e1103]:
+                  - generic [ref=e1107]:
+                    - text: (0.38%
+                    - generic [ref=e1108]: "-"
+                    - text: )
+                  - generic [ref=e1109]:
+                    - generic [ref=e1110]: "-"
+                    - text: 1,126,000
+              - generic [ref=e1111]:
+                - generic [ref=e1112]:
+                  - generic [ref=e1113]: سکه امامی
+                  - generic [ref=e1115]: 2,209,800,000
+                - generic [ref=e1117]:
+                  - generic [ref=e1121]:
+                    - text: (1.14%
+                    - generic [ref=e1122]: "-"
+                    - text: )
+                  - generic [ref=e1123]:
+                    - generic [ref=e1124]: "-"
+                    - text: 25,300,000
+              - generic [ref=e1125]:
+                - generic [ref=e1126]:
+                  - generic [ref=e1127]: یورو
+                  - generic [ref=e1129]: 2,456,000
+                - generic [ref=e1131]:
+                  - generic [ref=e1135]:
+                    - text: (0.7%
+                    - generic [ref=e1136]: +
+                    - text: )
+                  - generic [ref=e1137]:
+                    - generic [ref=e1138]: +
+                    - text: 17,000
+              - generic [ref=e1139]:
+                - generic [ref=e1140]:
+                  - generic [ref=e1141]: درهم امارات
+                  - generic [ref=e1143]: 576,090
+                - generic [ref=e1145]:
+                  - generic [ref=e1149]:
+                    - text: (0.81%
+                    - generic [ref=e1150]: +
+                    - text: )
+                  - generic [ref=e1151]:
+                    - generic [ref=e1152]: +
+                    - text: 4,650
+              - generic [ref=e1153]:
+                - generic [ref=e1154]:
+                  - generic [ref=e1155]: آلومینیوم
+                  - generic [ref=e1157]: 3,287.6
+                - generic [ref=e1159]:
+                  - generic [ref=e1163]:
+                    - text: (1.3%
+                    - generic [ref=e1164]: +
+                    - text: )
+                  - generic [ref=e1165]:
+                    - generic [ref=e1166]: +
+                    - text: "42.15"
+              - generic [ref=e1167]:
+                - generic [ref=e1168]:
+                  - generic [ref=e1169]: مس
+                  - generic [ref=e1171]: 14,336.3
+                - generic [ref=e1173]:
+                  - generic [ref=e1177]:
+                    - text: (0.45%
+                    - generic [ref=e1178]: +
+                    - text: )
+                  - generic [ref=e1179]:
+                    - generic [ref=e1180]: +
+                    - text: "64.9"
+              - generic [ref=e1181]:
+                - generic [ref=e1182]:
+                  - generic [ref=e1183]: نفت سبک ایران
+                  - generic [ref=e1185]: "87.1"
+                - generic [ref=e1187]:
+                  - generic [ref=e1191]: (0%)
+                  - generic [ref=e1192]: "0"
+              - generic [ref=e1193]:
+                - generic [ref=e1194]:
+                  - generic [ref=e1195]: بیت کوین
+                  - generic [ref=e1197]: 78,313.43
+                - generic [ref=e1199]:
+                  - generic [ref=e1203]:
+                    - text: (0.85%
+                    - generic [ref=e1204]: "-"
+                    - text: )
+                  - generic [ref=e1205]:
+                    - generic [ref=e1206]: "-"
+                    - text: "663.25"
+              - generic [ref=e1207]:
+                - generic [ref=e1208]:
+                  - generic [ref=e1209]: اتریوم
+                  - generic [ref=e1211]: 2,465.1
+                - generic [ref=e1213]:
+                  - generic [ref=e1217]:
+                    - text: (0.57%
+                    - generic [ref=e1218]: "-"
+                    - text: )
+                  - generic [ref=e1219]:
+                    - generic [ref=e1220]: "-"
+                    - text: "14.02"
+            - link "TGJU TGJU.ORG" [ref=e1222] [cursor=pointer]:
+              - /url: https://www.tgju.org
+              - img "TGJU" [ref=e1223]
+              - generic [ref=e1224]: TGJU.ORG
+          - generic [ref=e1225]:
+            - text: By
+            - link "TGJU" [ref=e1226] [cursor=pointer]:
+              - /url: https://www.tgju.org
+  - generic [ref=e1227]:
+    - img "باز کردن" [ref=e1229] [cursor=pointer]
+    - text:     
+  - generic [ref=e1230]: desktop
+```

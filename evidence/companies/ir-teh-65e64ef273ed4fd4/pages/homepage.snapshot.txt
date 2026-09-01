@@ -1,0 +1,349 @@
+### Page
+- Page URL: https://bartarproducts.com/
+- Page Title: محصولات غذایی برتر
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - link "پرش به محتوا" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=e3]:
+    - generic [ref=e5]:
+      - link [ref=e9] [cursor=pointer]:
+        - /url: https://bartarproducts.com
+      - generic [ref=e11]:
+        - navigation "منو" [ref=e13]:
+          - list [ref=e14]:
+            - listitem [ref=e15]:
+              - link "خانه" [ref=e16] [cursor=pointer]:
+                - /url: https://bartarproducts.com/
+            - listitem [ref=e17]:
+              - link [ref=e18] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e22]:
+              - link "محصولات" [ref=e23] [cursor=pointer]:
+                - /url: https://bartarproducts.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+            - listitem [ref=e24]:
+              - link "آشپزی به سبک برتر" [ref=e25] [cursor=pointer]:
+                - /url: https://bartarproducts.com/آشپزی-به-سبک-برتر/غذای-ایرانی/
+            - listitem [ref=e26]:
+              - link [ref=e27] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e31]:
+              - link "اخبار" [ref=e32] [cursor=pointer]:
+                - /url: https://bartarproducts.com/%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1/
+            - listitem [ref=e33]:
+              - link "همکاری با ما" [ref=e34] [cursor=pointer]:
+                - /url: https://bartarproducts.com/%d9%81%d8%b1%d9%85-%d9%87%d9%85%da%a9%d8%a7%d8%b1%db%8c/
+            - listitem [ref=e35]:
+              - link "تماس با ما" [ref=e36] [cursor=pointer]:
+                - /url: https://bartarproducts.com/contact/
+        - link [ref=e39] [cursor=pointer]:
+          - /url: "#back-to-top"
+      - navigation [ref=e46]:
+        - link "فارسی" [ref=e48] [cursor=pointer]:
+          - /url: https://bartarproducts.com/
+        - list:
+          - listitem [ref=e50]:
+            - link "English" [ref=e51] [cursor=pointer]:
+              - /url: https://bartarproducts.com/en/home/
+          - listitem
+  - generic [ref=e53]:
+    - generic [ref=e57]:
+      - generic [ref=e66]:
+        - generic [ref=e83]:
+          - note [ref=e85]: نمایندگی شهریور ۱۴۰۵
+          - button [ref=e87] [cursor=pointer]:
+            - note [ref=e88]: جذب نیرو
+          - note [ref=e91]: بنر سایت
+        - button "previous arrow" [ref=e93] [cursor=pointer]:
+          - img "previous arrow" [ref=e94]
+        - button "next arrow" [ref=e95] [cursor=pointer]:
+          - img "next arrow" [ref=e96]
+      - generic [ref=e97]:
+        - heading "برتر محصولات غذایی برتر شرکت برتر آجیل برتر خشکبار برتر دفتر برتر فوتبال برتر برتر,محصولات غذایی برتر,شرکت برتر,آجیل برتر,خشکبار برتر,دفتر برتر,فوتبال برتر" [level=2]
+    - generic [ref=e102]:
+      - heading "محصولات" [level=2]:
+        - link "محصولات":
+          - /url: http://bartarproducts.com/محصولات/
+    - region "کاروسل تصویر" [ref=e108]:
+      - generic [ref=e109]:
+        - group [ref=e110]:
+          - link [ref=e111] [cursor=pointer]:
+            - /url: https://bartarproducts.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+            - figure [ref=e112]
+        - group [ref=e114]:
+          - link [ref=e115] [cursor=pointer]:
+            - /url: https://bartarproducts.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+            - figure [ref=e116]
+        - group [ref=e118]:
+          - link [ref=e119] [cursor=pointer]:
+            - /url: https://bartarproducts.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+            - figure [ref=e120]
+        - group [ref=e122]:
+          - link [ref=e123] [cursor=pointer]:
+            - /url: https://bartarproducts.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+            - figure [ref=e124]
+        - group [ref=e126]:
+          - link [ref=e127] [cursor=pointer]:
+            - /url: https://bartarproducts.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+            - figure [ref=e128]
+        - group [ref=e523]:
+          - link [ref=e131] [cursor=pointer]:
+            - /url: https://bartarproducts.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+            - figure [ref=e132]
+        - group "2 / 21" [ref=e134]:
+          - link [ref=e135] [cursor=pointer]:
+            - /url: https://bartarproducts.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+            - figure [ref=e136]:
+              - img "7" [ref=e137]
+        - group "3 / 21" [ref=e138]:
+          - link [ref=e139] [cursor=pointer]:
+            - /url: https://bartarproducts.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+            - figure [ref=e140]:
+              - img "ارد-و-غلات" [ref=e141]
+        - group "4 / 21" [ref=e142]:
+          - link [ref=e143] [cursor=pointer]:
+            - /url: https://bartarproducts.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+            - figure [ref=e144]:
+              - img "خشکبار" [ref=e145]
+        - group "5 / 21" [ref=e146]:
+          - link [ref=e147] [cursor=pointer]:
+            - /url: https://bartarproducts.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+            - figure [ref=e148]:
+              - img "4" [ref=e149]
+        - group "6 / 21" [ref=e525]:
+          - link [ref=e151] [cursor=pointer]:
+            - /url: https://bartarproducts.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+            - figure [ref=e152]:
+              - img "سویا" [ref=e526]
+        - group [ref=e154]:
+          - link [ref=e155] [cursor=pointer]:
+            - /url: https://bartarproducts.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+            - figure [ref=e156]
+        - group [ref=e158]:
+          - link [ref=e159] [cursor=pointer]:
+            - /url: https://bartarproducts.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+            - figure [ref=e160]
+        - group [ref=e162]:
+          - link [ref=e163] [cursor=pointer]:
+            - /url: https://bartarproducts.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+            - figure [ref=e164]
+        - group [ref=e166]:
+          - link [ref=e167] [cursor=pointer]:
+            - /url: https://bartarproducts.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+            - figure [ref=e168]
+        - group [ref=e170]:
+          - link [ref=e171] [cursor=pointer]:
+            - /url: https://bartarproducts.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+            - figure [ref=e172]
+        - group [ref=e175]:
+          - link [ref=e176] [cursor=pointer]:
+            - /url: https://bartarproducts.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+            - figure [ref=e177]
+        - group [ref=e180]:
+          - link [ref=e181] [cursor=pointer]:
+            - /url: https://bartarproducts.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+            - figure [ref=e182]
+        - group [ref=e185]:
+          - link [ref=e186] [cursor=pointer]:
+            - /url: https://bartarproducts.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+            - figure [ref=e187]
+        - group [ref=e190]:
+          - link [ref=e191] [cursor=pointer]:
+            - /url: https://bartarproducts.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+            - figure [ref=e192]
+        - group [ref=e195]:
+          - link [ref=e196] [cursor=pointer]:
+            - /url: https://bartarproducts.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+            - figure [ref=e197]
+        - group [ref=e200]:
+          - link [ref=e201] [cursor=pointer]:
+            - /url: https://bartarproducts.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+            - figure [ref=e202]
+        - group [ref=e204]:
+          - link [ref=e205] [cursor=pointer]:
+            - /url: https://bartarproducts.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+            - figure [ref=e206]
+        - group [ref=e208]:
+          - link [ref=e209] [cursor=pointer]:
+            - /url: https://bartarproducts.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+            - figure [ref=e210]
+        - group [ref=e212]:
+          - link [ref=e213] [cursor=pointer]:
+            - /url: https://bartarproducts.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+            - figure [ref=e214]
+        - group [ref=e216]:
+          - link [ref=e217] [cursor=pointer]:
+            - /url: https://bartarproducts.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+            - figure [ref=e218]
+        - group [ref=e220]:
+          - link [ref=e221] [cursor=pointer]:
+            - /url: https://bartarproducts.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+            - figure [ref=e222]
+        - group [ref=e224]:
+          - link [ref=e225] [cursor=pointer]:
+            - /url: https://bartarproducts.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+            - figure [ref=e226]
+        - group [ref=e228]:
+          - link [ref=e229] [cursor=pointer]:
+            - /url: https://bartarproducts.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+            - figure [ref=e230]
+        - group [ref=e232]:
+          - link [ref=e233] [cursor=pointer]:
+            - /url: https://bartarproducts.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+            - figure [ref=e234]
+        - group [ref=e236]:
+          - link [ref=e237] [cursor=pointer]:
+            - /url: https://bartarproducts.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+            - figure [ref=e238]
+      - button "اسلاید قبلی" [ref=e240] [cursor=pointer]
+      - button "اسلاید بعدی" [ref=e243] [cursor=pointer]
+      - generic [ref=e246]:
+        - button "به اسلاید بروید 1" [ref=e247] [cursor=pointer]
+        - button "به اسلاید بروید 2" [ref=e248] [cursor=pointer]
+        - button "به اسلاید بروید 3" [ref=e249] [cursor=pointer]
+        - button "به اسلاید بروید 4" [ref=e250] [cursor=pointer]
+        - button "به اسلاید بروید 5" [ref=e251] [cursor=pointer]
+        - button "به اسلاید بروید 6" [ref=e252] [cursor=pointer]
+        - button "به اسلاید بروید 7" [ref=e253] [cursor=pointer]
+        - button "به اسلاید بروید 8" [ref=e254] [cursor=pointer]
+        - button "به اسلاید بروید 9" [ref=e255] [cursor=pointer]
+        - button "به اسلاید بروید 10" [ref=e256] [cursor=pointer]
+        - button "به اسلاید بروید 11" [ref=e257] [cursor=pointer]
+        - button "به اسلاید بروید 12" [ref=e258] [cursor=pointer]
+        - button "به اسلاید بروید 13" [ref=e259] [cursor=pointer]
+        - button "به اسلاید بروید 14" [ref=e260] [cursor=pointer]
+        - button "به اسلاید بروید 15" [ref=e261] [cursor=pointer]
+        - button "به اسلاید بروید 16" [ref=e262] [cursor=pointer]
+        - button "به اسلاید بروید 17" [ref=e263] [cursor=pointer]
+        - button "به اسلاید بروید 18" [ref=e264] [cursor=pointer]
+        - button "به اسلاید بروید 19" [ref=e265] [cursor=pointer]
+        - button "به اسلاید بروید 20" [ref=e266] [cursor=pointer]
+        - button "به اسلاید بروید 21" [ref=e267] [cursor=pointer]
+    - generic [ref=e272]:
+      - heading "مقاصد صادراتی" [level=2]:
+        - link "مقاصد صادراتی":
+          - /url: https://navidbazar.com/مقاصد-صادراتی/
+    - link [ref=e278] [cursor=pointer]:
+      - /url: https://bartarproducts.com/%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa/
+    - generic [ref=e283]:
+      - heading "برخی از افتخارات" [level=2]:
+        - link "برخی از افتخارات":
+          - /url: https://navidbazar.com/درباره-برتر/دستاوردها-و-افتخارات/
+    - generic [ref=e292]:
+      - link [ref=e295] [cursor=pointer]:
+        - /url: https://bartarproducts.com/wp-content/uploads/2022/08/نشان-ستاره-طلایی-کیفیت-از-سوئیس-سال-۱۹۹۹.jpg
+        - img "نشان-ستاره-طلایی-کیفیت-از-سوئیس-سال-۱۹۹۹" [ref=e296]
+      - link [ref=e299] [cursor=pointer]:
+        - /url: https://bartarproducts.com/wp-content/uploads/2022/08/تندیس-تعاونی-برتر-استان-مرکزی-سال-1400.jpg
+        - img "تندیس-تعاونی-برتر-استان-مرکزی-سال-1400" [ref=e300]
+      - link [ref=e303] [cursor=pointer]:
+        - /url: https://bartarproducts.com/wp-content/uploads/2022/08/کسب-مقام-تولید-کننده-نمونه-ملی-محصولات-باغی.jpg
+        - img "کسب-مقام-تولید-کننده-نمونه-ملی-محصولات-باغی" [ref=e304]
+      - link [ref=e307] [cursor=pointer]:
+        - /url: https://bartarproducts.com/wp-content/uploads/2022/08/تندیس-صادرکننده-استان-مرکزی-سال-1400.jpg
+        - img "تندیس-صادرکننده-استان-مرکزی-سال-1400" [ref=e308]
+    - generic [ref=e313]:
+      - heading "ویدیوی تبلیغاتی" [level=2]:
+        - link "ویدیوی تبلیغاتی":
+          - /url: https://navidbazar.com/درباره-برتر/دستاوردها-و-افتخارات/
+    - img "برتر در زمین و زمان" [ref=e319]
+    - generic [ref=e323]:
+      - generic [ref=e328]:
+        - heading "اخبار" [level=2]:
+          - link "اخبار":
+            - /url: https://navidbazar.com/اخبار
+      - generic [ref=e333]:
+        - heading "آشپزی به سبک برتر" [level=2]:
+          - link "آشپزی به سبک برتر":
+            - /url: https://navidbazar.com/آشپزی-به-سبک-برتر/غذای-ایرانی/
+    - generic [ref=e337]:
+      - list [ref=e346]:
+        - listitem [ref=e347]:
+          - generic [ref=e348]:
+            - link [ref=e349] [cursor=pointer]:
+              - /url: https://bartarproducts.com/%d8%ad%d8%b6%d9%88%d8%b1-%d8%b5%d9%86%d8%a7%db%8c%d8%b9-%d8%ba%d8%b0%d8%a7%db%8c%db%8c-%d8%a8%d8%b1%d8%aa%d8%b1-%d8%af%d8%b1-%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87-%d8%a7%da%af%d8%b1%d9%88/
+            - generic [ref=e351]:
+              - heading [level=3] [ref=e352]:
+                - link "حضور صنایع غذایی برتر در نمایشگاه اگروفود ۱۴۰۵" [ref=e353] [cursor=pointer]:
+                  - /url: https://bartarproducts.com/%d8%ad%d8%b6%d9%88%d8%b1-%d8%b5%d9%86%d8%a7%db%8c%d8%b9-%d8%ba%d8%b0%d8%a7%db%8c%db%8c-%d8%a8%d8%b1%d8%aa%d8%b1-%d8%af%d8%b1-%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87-%d8%a7%da%af%d8%b1%d9%88/
+              - paragraph [ref=e355]: شرکت صنایع غذایی برتر با حضور در نمایشگاه بین المللی اگروفود ۱۴۰۵، گام دیگری در مسیر توسعه ارتباطات تجاری و تقویت همکاری با فعالان صنعت غذا برداشت. این حضور با هدف ایجاد تعامل مؤثر با تأمین کنندگان، شرکای تجاری و همچنین گسترش شبکه نمایندگی فروش در سراسر کشور انجام شد.در طول برگزاری
+              - link "درباره حضور صنایع غذایی برتر در نمایشگاه اگروفود ۱۴۰۵ بیشتر بخوانید" [ref=e356] [cursor=pointer]:
+                - /url: https://bartarproducts.com/%d8%ad%d8%b6%d9%88%d8%b1-%d8%b5%d9%86%d8%a7%db%8c%d8%b9-%d8%ba%d8%b0%d8%a7%db%8c%db%8c-%d8%a8%d8%b1%d8%aa%d8%b1-%d8%af%d8%b1-%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87-%d8%a7%da%af%d8%b1%d9%88/
+                - text: ادامه مطلب »
+      - list [ref=e367]:
+        - listitem [ref=e368]:
+          - generic [ref=e369]:
+            - link [ref=e370] [cursor=pointer]:
+              - /url: https://bartarproducts.com/%d8%b3%d8%a7%d9%84%d8%a7%d8%af-%da%a9%db%8c%d9%86%d9%88%d8%a7/
+            - generic [ref=e372]:
+              - heading [level=3] [ref=e373]:
+                - link "سالاد کینوا" [ref=e374] [cursor=pointer]:
+                  - /url: https://bartarproducts.com/%d8%b3%d8%a7%d9%84%d8%a7%d8%af-%da%a9%db%8c%d9%86%d9%88%d8%a7/
+              - paragraph [ref=e376]: کینوا ۱ پیمانه آب ۲ پیمانه گوجه فرنگی نگینی شده ۱ عدد متوسط خیار خرد شده ۱ عدد متوسط پیازچه خرد شده ۲ عدد جعفری خرد شده ۲ قاشق غذاخوری آب لیموترش تازه ۲ قاشق غذاخوری روغن زیتون ۲ قاشق غذاخوری نمک و فلفل
+              - link "درباره سالاد کینوا بیشتر بخوانید" [ref=e377] [cursor=pointer]:
+                - /url: https://bartarproducts.com/%d8%b3%d8%a7%d9%84%d8%a7%d8%af-%da%a9%db%8c%d9%86%d9%88%d8%a7/
+                - text: ادامه مطلب »
+  - contentinfo [ref=e387]:
+    - list [ref=e396]:
+      - listitem [ref=e397]:
+        - link "Twitter" [ref=e398] [cursor=pointer]:
+          - /url: https://twitter.com/bartar_food
+      - listitem [ref=e402]:
+        - link "Linkedin" [ref=e403] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/bartar
+      - listitem [ref=e407]:
+        - link "Eaparat" [ref=e408] [cursor=pointer]:
+          - /url: https://aparat.com/MyBartar
+          - generic [ref=e410]: 
+      - listitem [ref=e411]:
+        - link "Instagram" [ref=e412] [cursor=pointer]:
+          - /url: https://instagram.com/bartar.food
+    - generic [ref=e419]:
+      - generic [ref=e421]:
+        - paragraph [ref=e432]: "آدرس: تهران ، خیابان آفریقا (شمال به جنوب) نرسیده به میدان آرژانتین پلاک 8 ساختمان شماره 5 طبقه دوم واحد 8"
+        - generic [ref=e442]:
+          - text: "کدپستی:"
+          - link "1514947418" [ref=e443] [cursor=pointer]:
+            - /url: tel:1514947418
+      - generic [ref=e445]:
+        - paragraph [ref=e456]:
+          - link "۰۲۱-۵۹۱۶۷۰۰۰" [ref=e457] [cursor=pointer]:
+            - /url: tel:+982159167000
+        - paragraph [ref=e468]:
+          - text: "فکس:"
+          - link "59167000-۰۲۱" [ref=e469] [cursor=pointer]:
+            - /url: tel:+9802159167000
+      - generic [ref=e471]:
+        - paragraph [ref=e482]:
+          - link "info@bartar-co.com" [ref=e483] [cursor=pointer]:
+            - /url: mailto:info@bartar-co.com
+        - generic [ref=e492]:
+          - generic [ref=e493]:
+            - 'heading "صدای مشتری : 59167000-۰۲۱" [level=2]':
+              - text: "صدای مشتری :"
+              - link "59167000-۰۲۱":
+                - /url: tel:+982159167000
+          - generic [ref=e494]:
+            - 'heading "واتس‌اپ صدای مشتری : 3343 111 0903" [level=2]':
+              - text: "واتس‌اپ صدای مشتری :"
+              - link "3343 111 0903":
+                - /url: tel:+989031113343
+      - generic [ref=e505]:
+        - paragraph [ref=e507]:
+          - text: "صادرات:"
+          - link "۰۹۱۲۷۱۸۷۱۲۳" [ref=e508] [cursor=pointer]:
+            - /url: tel:+989127187123
+        - paragraph [ref=e510]:
+          - text: "فروش:"
+          - link "09129496378" [ref=e511] [cursor=pointer]:
+            - /url: tel:+989129496378
+        - paragraph [ref=e513]:
+          - text: "تدارکات و پشتیبانی:"
+          - link "09386803992" [ref=e514] [cursor=pointer]:
+            - /url: tel:+989386803992
+        - paragraph [ref=e516]: "فروش سازمانی: 09124402194"
+    - generic [ref=e521]:
+      - heading "کلیه حقوق این سایت متعلق به صنایع غذایی برتر میباشد." [level=2]
+  - generic [ref=e522]: desktop
+```

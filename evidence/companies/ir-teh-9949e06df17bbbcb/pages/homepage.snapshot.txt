@@ -1,0 +1,101 @@
+### Page
+- Page URL: https://puricals.com/
+- Page Title: Home – Puricals پیوریکالز PAC
+- Console: 1 errors, 2 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e5]:
+    - link [ref=e9] [cursor=pointer]:
+      - /url: https://puricals.com
+    - navigation "فهرست" [ref=e13]:
+      - list [ref=e14]:
+        - listitem [ref=e15]:
+          - link "Products" [ref=e16] [cursor=pointer]:
+            - /url: https://puricals.com/products/
+        - listitem [ref=e17]:
+          - link "Blog" [ref=e18] [cursor=pointer]:
+            - /url: https://puricals.com/news/
+        - listitem [ref=e19]:
+          - link "About Us" [ref=e20] [cursor=pointer]:
+            - /url: https://puricals.com/abouts/
+        - listitem [ref=e21]:
+          - link "Contact Us" [ref=e22] [cursor=pointer]:
+            - /url: https://puricals.com/contact-us/
+        - listitem [ref=e23]:
+          - link "English" [ref=e24] [cursor=pointer]:
+            - /url: https://puricals.com/
+    - generic [ref=e29]:
+      - search [ref=e34]:
+        - searchbox "Search ..." [ref=e37]
+        - button "search submit" [ref=e38] [cursor=pointer]
+      - link "+982191200139" [ref=e45] [cursor=pointer]:
+        - /url: tel://+982191200139
+  - main [ref=e51]:
+    - generic [ref=e53]:
+      - generic [ref=e55]:
+        - heading "Purifying Chemicals" [level=2] [ref=e61]
+        - heading "Chemistry You Can Trust, Innovation We Share." [level=2] [ref=e64]
+        - link [ref=e65] [cursor=pointer]:
+          - /url: https://puricals.com/wp-content/uploads/2026/08/Puricals_Catalogue_English.pdf
+          - heading "Download Catalogue" [level=2] [ref=e68]
+      - generic [ref=e71]:
+        - heading "About Puricals" [level=2] [ref=e74]
+        - generic [ref=e76]:
+          - paragraph [ref=e77]: Puricals Factory is a leading manufacturer of high-quality water and wastewater treatment chemicals in Iran, specializing in multiple grades of PAC (Poly Aluminum Chloride), FeCl₃ (Iron (III) Chloride), Al₂(SO₄)₃ (Aluminum Sulfate), Sodium Hypochlorite (NaOCl), Hydrochloric Acid (HCl), and Sodium Hydroxide (Caustic Soda). Our mission is to deliver reliable products that meet the highest standards while remaining competitively priced.
+          - paragraph [ref=e78]: To achieve this, we leverage advanced technology, maintain an active research and development department, and employ talented graduates from top universities. Located in Mahshahr, southwest Iran, Puricals Factory has earned several international certifications, including ISO 9001:2015 from IGS and Food Grade certification, underscoring our commitment to quality and safety.
+      - generic [ref=e81]:
+        - heading "Products" [level=2] [ref=e84]
+        - paragraph [ref=e87]: In today’s rapidly evolving water and wastewater treatment industry, access to high-quality chemical products is essential. At Puricals, we provide premium, reliable solutions that serve a wide range of industries. Leveraging advanced technical expertise and decades of experience, our products are designed to meet your operational needs while helping you achieve international standards in water and wastewater treatment.
+      - generic [ref=e90]:
+        - heading "Packaging" [level=2] [ref=e93]
+        - paragraph [ref=e96]: At Puricals, we take every precaution to ensure our products reach our customers in perfect condition. Each item is carefully packaged in durable, high-quality containers designed to meet or exceed industry standards. This protective packaging safeguards our products from environmental factors such as light, moisture, and temperature fluctuations, preserving their quality, potency, and integrity throughout storage and transit. Our commitment to meticulous packaging reflects our dedication to delivering a reliable, safe, and premium experience with every purchase.
+      - generic [ref=e101]:
+        - heading "Advance Your Operations with Us" [level=2] [ref=e104]
+        - link "Contact Us" [ref=e108] [cursor=pointer]:
+          - /url: https://puricals.com/contact-us/
+  - generic [ref=e114]:
+    - generic [ref=e116]:
+      - generic [ref=e117]:
+        - link [ref=e120] [cursor=pointer]:
+          - /url: https://puricals.com
+        - blockquote [ref=e123]:
+          - paragraph [ref=e124]: We supply high-quality chemical materials for water and wastewater treatment. Beyond product supply, we provide process support, customized production solutions, and precisely engineered dosing formulations. Our services help improve treatment efficiency, maintain operational stability, and ensure regulatory compliance.
+        - link [ref=e127] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=e128]:
+        - generic [ref=e129]: Enquiries
+        - paragraph [ref=e140]: No. 7, Second Dashtestan Street, Pasdaran AvenueTehran, Iran
+        - generic [ref=e141]:
+          - generic [ref=e144]:
+            - link [ref=e146] [cursor=pointer]:
+              - /url: tel://+982191200139
+            - link "+98 21 9120 0139" [ref=e151] [cursor=pointer]:
+              - /url: tel://+982191200139
+          - generic [ref=e154]:
+            - link [ref=e156] [cursor=pointer]:
+              - /url: tel://02191200139
+            - link "info@puricals.com" [ref=e161] [cursor=pointer]:
+              - /url: tel://02191200139
+        - generic [ref=e162]:
+          - generic [ref=e163]: "Social Media:"
+          - generic [ref=e167]:
+            - link "Whatsapp" [ref=e169] [cursor=pointer]:
+              - /url: https://wa.me/989223484151?text=سلام%20وقت%20شما%20بخیر%20،%20من%20از%20طریق%20سایت%20به%20واتس%20آپ%20منتقل%20شدم%20!
+            - link "Telegram" [ref=e174] [cursor=pointer]:
+              - /url: https://api.whatsapp.com/send?phone=+98%209223484151
+            - generic [ref=e179] [cursor=pointer]
+    - generic [ref=e184]:
+      - generic [ref=e185]: © 2022 Puricals. All rights reserved.
+      - link "Develop and Design By Rastinax Group" [ref=e190] [cursor=pointer]:
+        - /url: https://rastinax.com/
+    - generic:
+      - generic:
+        - link [ref=e194] [cursor=pointer]:
+          - /url: https://wa.me/989223484151?text=سلام%20وقت%20شما%20بخیر%20،%20من%20از%20طریق%20سایت%20به%20واتس%20آپ%20منتقل%20شدم%20!
+        - link [ref=e200] [cursor=pointer]:
+          - /url: tel://+982191200139
+  - generic [ref=e205]: desktop
+```

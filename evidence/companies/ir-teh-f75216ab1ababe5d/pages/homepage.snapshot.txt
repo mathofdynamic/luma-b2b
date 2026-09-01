@@ -1,0 +1,985 @@
+### Page
+- Page URL: https://khosravani.com/
+- Page Title: تجارت خودرو خسروانی | نمایندگی رسمی خودرو
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - generic:
+    - generic: TKK
+    - generic: TKK
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - link "تجارت خودرو خسروانی تجارت خودرو خسروانی" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img "تجارت خودرو خسروانی" [ref=e6]
+        - generic [ref=e7]: تجارت خودرو خسروانی
+      - navigation [ref=e8]:
+        - button "محصولات" [ref=e9]
+        - button "خدمات پس از فروش" [ref=e13]
+        - link "بخشنامه‌های فعال" [ref=e16] [cursor=pointer]:
+          - /url: /active-notices
+        - link "مجله خودرو" [ref=e17] [cursor=pointer]:
+          - /url: /blog
+        - link "شعب" [ref=e18] [cursor=pointer]:
+          - /url: /branches
+        - link "درباره ما" [ref=e19] [cursor=pointer]:
+          - /url: /about
+        - link "تماس با ما" [ref=e20] [cursor=pointer]:
+          - /url: /contact
+      - generic [ref=e21]:
+        - button "جست‌وجو" [ref=e22]
+        - link "درخواست خرید خودرو" [ref=e27] [cursor=pointer]:
+          - /url: /car-purchase-system
+  - main [ref=e29]:
+    - region "معرفی تجارت خودرو خسروانی" [ref=e30]:
+      - generic [ref=e36]:
+        - paragraph [ref=e39]: نمایندگی رسمی مدیران‌خودرو، کرمان‌موتور، ماموت و ایرتویا
+        - heading "تجارت خودروی خسروانی" [level=1] [ref=e40]:
+          - generic [ref=e41]: تجارت خودروی
+          - generic [ref=e43]: خسروانی
+        - generic [ref=e45]:
+          - paragraph [ref=e47]: بزرگترین مرجع خودرویی کشور
+          - generic [ref=e48]:
+            - link "درخواست خرید خودرو" [ref=e50] [cursor=pointer]:
+              - /url: /car-purchase-system
+            - link "مشاهده‌ی خودروها" [ref=e54] [cursor=pointer]:
+              - /url: /shop
+        - generic [ref=e56]:
+          - generic [ref=e57]:
+            - term [ref=e58]: خودرو در سبد
+            - definition [ref=e59]: ۲۱۹
+          - generic [ref=e60]:
+            - term [ref=e61]: شعبه فعال
+            - definition [ref=e62]: ۱۵
+          - generic [ref=e63]:
+            - term [ref=e64]: سال تجربه
+            - definition [ref=e65]: ۲۰+
+          - generic [ref=e66]:
+            - term [ref=e67]: برند رسمی
+            - definition [ref=e68]: ۱۷
+      - generic [ref=e69]:
+        - button "ویدئوی TKK" [ref=e71]
+        - generic [ref=e73]: TKK
+    - region "استوری‌ها" [ref=e78]:
+      - generic [ref=e80]:
+        - button "فروش ویژه Eagle" [ref=e81]:
+          - img "فروش ویژه Eagle" [ref=e84]
+        - button "فروش ویژه BAC X3 Pro" [ref=e86]:
+          - img "فروش ویژه BAC X3 Pro" [ref=e89]
+        - button "فروش ویژه Fownix FX EV" [ref=e91]:
+          - img "فروش ویژه Fownix FX EV" [ref=e94]
+        - button "فروش ویژه XTRIM SX" [ref=e96]:
+          - img "فروش ویژه XTRIM SX" [ref=e99]
+        - button "فروش ویژه Lexus ES300" [ref=e101]:
+          - img "فروش ویژه Lexus ES300" [ref=e104]
+        - button "شرایط ویژه فروش Toyota Land Cruiser VXR" [ref=e106]:
+          - img "شرایط ویژه فروش Toyota Land Cruiser VXR" [ref=e109]
+        - button "شرایط ویژه فروش Toyota Prado VXR" [ref=e111]:
+          - img "شرایط ویژه فروش Toyota Prado VXR" [ref=e114]
+        - button "شرایط ویژه فروش Toyota Prado VXR" [ref=e116]:
+          - img "شرایط ویژه فروش Toyota Prado VXR" [ref=e119]
+        - button "شرایط ویژه فروش F7 Pro Max AWD" [ref=e121]:
+          - img "شرایط ویژه فروش F7 Pro Max AWD" [ref=e124]
+        - button "شرایط ویژه فروش F8 Pro Max AWD" [ref=e126]:
+          - img "شرایط ویژه فروش F8 Pro Max AWD" [ref=e129]
+        - button "شرایط ویژه فروش Fownix FX Premium" [ref=e131]:
+          - img "شرایط ویژه فروش Fownix FX Premium" [ref=e134]
+        - button "شرایط ویژه فروش XTRIM SX" [ref=e136]:
+          - img "شرایط ویژه فروش XTRIM SX" [ref=e139]
+        - button "شرایط ویژه فروش Fownix Z6 GT" [ref=e141]:
+          - img "شرایط ویژه فروش Fownix Z6 GT" [ref=e144]
+        - button "شرایط ویژه فروش XTRIM QX" [ref=e146]:
+          - img "شرایط ویژه فروش XTRIM QX" [ref=e149]
+        - button "شرایط ویژه فروش شرکتی آواتار 11" [ref=e151]:
+          - img "شرایط ویژه فروش شرکتی آواتار 11" [ref=e154]
+        - button "شرایط ویژه فروش شرکتی آواتار 07" [ref=e156]:
+          - img "شرایط ویژه فروش شرکتی آواتار 07" [ref=e159]
+        - button "شرایط ویژه فروش میتسوبیشی اوت‌لندر" [ref=e161]:
+          - img "شرایط ویژه فروش میتسوبیشی اوت‌لندر" [ref=e164]
+        - button "فروش ویژه لاماری NEO" [ref=e166]:
+          - img "فروش ویژه لاماری NEO" [ref=e169]
+        - button "فروش ویژه BYD DESTROYER" [ref=e171]:
+          - img "فروش ویژه BYD DESTROYER" [ref=e174]
+        - button "فروش ویژه Lexus LX600" [ref=e176]:
+          - img "فروش ویژه Lexus LX600" [ref=e179]
+    - region "انتخاب برند خودرو" [ref=e181]:
+      - generic [ref=e183]:
+        - generic [ref=e186]:
+          - heading "از چه برندی ماشین می‌خوای؟" [level=2] [ref=e187]
+          - link "همه‌ی خودروها ←" [ref=e188] [cursor=pointer]:
+            - /url: /shop
+        - generic [ref=e189]:
+          - link "BYD Sealion 06 — نبکا نبکا ۱۰ خودروی موجود مشاهده همه" [ref=e190] [cursor=pointer]:
+            - /url: /product-category/nebka
+            - generic: نبکا
+            - img "BYD Sealion 06 — نبکا" [ref=e192]
+            - generic [ref=e194]:
+              - generic [ref=e195]:
+                - heading "نبکا" [level=3] [ref=e196]
+                - generic [ref=e197]: ۱۰ خودروی موجود
+              - generic [ref=e198]: مشاهده همه
+          - link "تویوتا لندکروز VXR 2026 — تویوتا تویوتا ۱۳ خودروی موجود مشاهده همه" [ref=e199] [cursor=pointer]:
+            - /url: /product-category/toyota/toyotabrand
+            - generic: تویوتا
+            - img "تویوتا لندکروز VXR 2026 — تویوتا" [ref=e201]
+            - generic [ref=e203]:
+              - generic [ref=e204]:
+                - heading "تویوتا" [level=3] [ref=e205]
+                - generic [ref=e206]: ۱۳ خودروی موجود
+              - generic [ref=e207]: مشاهده همه
+          - link "BMW 740i 2025 — بی ام و بی ام و ۱۱ خودروی موجود مشاهده همه" [ref=e208] [cursor=pointer]:
+            - /url: /product-category/persiakhodro/bmw
+            - generic: بی ام و
+            - img "BMW 740i 2025 — بی ام و" [ref=e210]
+            - generic [ref=e212]:
+              - generic [ref=e213]:
+                - heading "بی ام و" [level=3] [ref=e214]
+                - generic [ref=e215]: ۱۱ خودروی موجود
+              - generic [ref=e216]: مشاهده همه
+          - link "فولکس واگن Tayron L — فولکس واگن فولکس واگن ۱۲ خودروی موجود مشاهده همه" [ref=e217] [cursor=pointer]:
+            - /url: /product-category/mammut/volkswagen
+            - generic: فولکس واگن
+            - img "فولکس واگن Tayron L — فولکس واگن" [ref=e219]
+            - generic [ref=e221]:
+              - generic [ref=e222]:
+                - heading "فولکس واگن" [level=3] [ref=e223]
+                - generic [ref=e224]: ۱۲ خودروی موجود
+              - generic [ref=e225]: مشاهده همه
+          - link "جک SR6 — کرمان موتور کرمان موتور ۱۸ خودروی موجود مشاهده همه" [ref=e226] [cursor=pointer]:
+            - /url: /product-category/%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C-%DA%A9%D8%B1%D9%85%D8%A7%D9%86-%D9%85%D9%88%D8%AA%D9%88%D8%B1
+            - generic: کرمان موتور
+            - img "جک SR6 — کرمان موتور" [ref=e228]
+            - generic [ref=e230]:
+              - generic [ref=e231]:
+                - heading "کرمان موتور" [level=3] [ref=e232]
+                - generic [ref=e233]: ۱۸ خودروی موجود
+              - generic [ref=e234]: مشاهده همه
+          - link "BYD Sealion 06 — بی وای دی بی وای دی ۱۰ خودروی موجود مشاهده همه" [ref=e235] [cursor=pointer]:
+            - /url: /product-category/byd
+            - generic: بی وای دی
+            - img "BYD Sealion 06 — بی وای دی" [ref=e237]
+            - generic [ref=e239]:
+              - generic [ref=e240]:
+                - heading "بی وای دی" [level=3] [ref=e241]
+                - generic [ref=e242]: ۱۰ خودروی موجود
+              - generic [ref=e243]: مشاهده همه
+          - link "آئودی Q4 — آئودی آئودی ۲ خودروی موجود مشاهده همه" [ref=e244] [cursor=pointer]:
+            - /url: /product-category/nadin/audi
+            - generic: آئودی
+            - img "آئودی Q4 — آئودی" [ref=e246]
+            - generic [ref=e248]:
+              - generic [ref=e249]:
+                - heading "آئودی" [level=3] [ref=e250]
+                - generic [ref=e251]: ۲ خودروی موجود
+              - generic [ref=e252]: مشاهده همه
+          - link "مرسدس‌بنز E200 — بنز بنز ۴ خودروی موجود مشاهده همه" [ref=e253] [cursor=pointer]:
+            - /url: /product-category/rasamotor/mercedes-benz
+            - generic: بنز
+            - img "مرسدس‌بنز E200 — بنز" [ref=e255]
+            - generic [ref=e257]:
+              - generic [ref=e258]:
+                - heading "بنز" [level=3] [ref=e259]
+                - generic [ref=e260]: ۴ خودروی موجود
+              - generic [ref=e261]: مشاهده همه
+          - link "تیگو 9 — مدیران خودرو مدیران خودرو ۳۳ خودروی موجود مشاهده همه" [ref=e262] [cursor=pointer]:
+            - /url: /product-category/modirankhodro
+            - generic: مدیران خودرو
+            - img "تیگو 9 — مدیران خودرو" [ref=e264]
+            - generic [ref=e266]:
+              - generic [ref=e267]:
+                - heading "مدیران خودرو" [level=3] [ref=e268]
+                - generic [ref=e269]: ۳۳ خودروی موجود
+              - generic [ref=e270]: مشاهده همه
+    - region "خودروهای محبوب و پربازدید" [ref=e272]:
+      - generic [ref=e274]:
+        - generic [ref=e275]:
+          - generic [ref=e276]:
+            - heading "خودروهای محبوب و پرفروش" [level=2] [ref=e278]
+            - paragraph [ref=e279]: انتخاب‌های داغ کاربران، بر اساس بازدید واقعی صفحات خودرو و رفتار مشتریان سایت.
+          - link "مشاهده همه خودروها" [ref=e280] [cursor=pointer]:
+            - /url: /shop
+        - generic [ref=e281]:
+          - link "انتخاب اول کاربران ۱,۷۸۹ بازدید X22 Pro MT مدیران خودرو X22 Pro MT ثبت درخواست خرید" [ref=e282] [cursor=pointer]:
+            - /url: /product/x22-pro-mt#register
+            - generic [ref=e284]:
+              - generic [ref=e285]: انتخاب اول کاربران
+              - generic [ref=e286]: ۱,۷۸۹ بازدید
+            - img "X22 Pro MT" [ref=e288]
+            - generic [ref=e290]:
+              - paragraph [ref=e291]: مدیران خودرو
+              - heading "X22 Pro MT" [level=3] [ref=e292]
+              - generic [ref=e293]:
+                - text: ثبت درخواست خرید
+                - generic [ref=e294]: ←
+          - generic [ref=e295]:
+            - link "مدیران خودرو X33 Cross دنده ای موجود ۱,۶۶۵ بازدید خبرم کن وقتی ثبت‌نام باز شد افزودن به مقایسه خودروها درخواست خرید لوگوی Fownix مدیران خودرو X33 Cross دنده ای موتور 1/5 لیتر گیربکس 5 سرعته MT قدرت 116 قیمت تماس بگیرید" [ref=e297] [cursor=pointer]:
+              - /url: /product/x33cross-mt
+              - generic [ref=e299]:
+                - img "مدیران خودرو X33 Cross دنده ای" [ref=e302]
+                - generic [ref=e303]:
+                  - generic [ref=e304]: موجود
+                  - generic [ref=e305]: ۱,۶۶۵ بازدید
+                - generic [ref=e306]:
+                  - button "خبرم کن وقتی ثبت‌نام باز شد" [ref=e307]:
+                    - generic: خبرم کن
+                  - button "افزودن به مقایسه خودروها" [ref=e311]:
+                    - generic [ref=e314]: مقایسه
+              - generic [ref=e315]: درخواست خرید
+              - generic [ref=e322]:
+                - generic [ref=e323]:
+                  - img "لوگوی Fownix" [ref=e325]
+                  - generic [ref=e326]: مدیران خودرو
+                - heading "X33 Cross دنده ای" [level=3] [ref=e327]
+                - generic [ref=e328]:
+                  - 'generic "موتور: 1/5 لیتر" [ref=e329]':
+                    - generic [ref=e330]: موتور
+                    - generic [ref=e331]: 1/5 لیتر
+                  - 'generic "گیربکس: 5 سرعته MT" [ref=e332]':
+                    - generic [ref=e333]: گیربکس
+                    - generic [ref=e334]: 5 سرعته MT
+                  - 'generic "قدرت: 116" [ref=e335]':
+                    - generic [ref=e336]: قدرت
+                    - generic [ref=e337]: "116"
+                - generic [ref=e339]:
+                  - generic [ref=e340]: قیمت
+                  - generic [ref=e341]: تماس بگیرید
+            - link "مدیران خودرو FX AWD موجود ۱,۱۸۶ بازدید خبرم کن وقتی ثبت‌نام باز شد افزودن به مقایسه خودروها درخواست خرید لوگوی Fownix مدیران خودرو FX AWD موتور TGDI 1600 گیربکس 7 سرعته DCT قدرت 197 قیمت تماس بگیرید" [ref=e343] [cursor=pointer]:
+              - /url: /product/fx-awd
+              - generic [ref=e345]:
+                - img "مدیران خودرو FX AWD" [ref=e348]
+                - generic [ref=e349]:
+                  - generic [ref=e350]: موجود
+                  - generic [ref=e351]: ۱,۱۸۶ بازدید
+                - generic [ref=e352]:
+                  - button "خبرم کن وقتی ثبت‌نام باز شد" [ref=e353]:
+                    - generic: خبرم کن
+                  - button "افزودن به مقایسه خودروها" [ref=e357]:
+                    - generic [ref=e360]: مقایسه
+              - generic [ref=e361]: درخواست خرید
+              - generic [ref=e368]:
+                - generic [ref=e369]:
+                  - img "لوگوی Fownix" [ref=e371]
+                  - generic [ref=e372]: مدیران خودرو
+                - heading "FX AWD" [level=3] [ref=e373]
+                - generic [ref=e374]:
+                  - 'generic "موتور: TGDI 1600" [ref=e375]':
+                    - generic [ref=e376]: موتور
+                    - generic [ref=e377]: TGDI 1600
+                  - 'generic "گیربکس: 7 سرعته DCT" [ref=e378]':
+                    - generic [ref=e379]: گیربکس
+                    - generic [ref=e380]: 7 سرعته DCT
+                  - 'generic "قدرت: 197" [ref=e381]':
+                    - generic [ref=e382]: قدرت
+                    - generic [ref=e383]: "197"
+                - generic [ref=e385]:
+                  - generic [ref=e386]: قیمت
+                  - generic [ref=e387]: تماس بگیرید
+            - link "مدیران خودرو FX EV موجود ۱۴۰۵ ۱,۱۶۰ بازدید خبرم کن وقتی ثبت‌نام باز شد افزودن به مقایسه خودروها درخواست خرید لوگوی Fownix مدیران خودرو FX EV موتور 61.06 کیلووات ساعت گیربکس تک سرعته اتوماتیک قدرت 204 قیمت ۴,۷۰۹,۳۰۰,۰۰۰تومان مشاهده شرایط ثبت نام" [ref=e389] [cursor=pointer]:
+              - /url: /product/fx-ev
+              - generic [ref=e391]:
+                - img "مدیران خودرو FX EV" [ref=e394]
+                - generic [ref=e395]:
+                  - generic [ref=e396]: موجود
+                  - generic [ref=e397]: ۱۴۰۵
+                  - generic [ref=e398]: ۱,۱۶۰ بازدید
+                - generic [ref=e399]:
+                  - button "خبرم کن وقتی ثبت‌نام باز شد" [ref=e400]:
+                    - generic: خبرم کن
+                  - button "افزودن به مقایسه خودروها" [ref=e404]:
+                    - generic [ref=e407]: مقایسه
+              - generic [ref=e408]: درخواست خرید
+              - generic [ref=e415]:
+                - generic [ref=e416]:
+                  - img "لوگوی Fownix" [ref=e418]
+                  - generic [ref=e419]: مدیران خودرو
+                - heading "FX EV" [level=3] [ref=e420]
+                - generic [ref=e421]:
+                  - 'generic "موتور: 61.06 کیلووات ساعت" [ref=e422]':
+                    - generic [ref=e423]: موتور
+                    - generic [ref=e424]: 61.06 کیلووات ساعت
+                  - 'generic "گیربکس: تک سرعته اتوماتیک" [ref=e425]':
+                    - generic [ref=e426]: گیربکس
+                    - generic [ref=e427]: تک سرعته اتوماتیک
+                  - 'generic "قدرت: 204" [ref=e428]':
+                    - generic [ref=e429]: قدرت
+                    - generic [ref=e430]: "204"
+                - generic [ref=e431]:
+                  - generic [ref=e432]:
+                    - generic [ref=e433]: قیمت
+                    - generic [ref=e434]: ۴,۷۰۹,۳۰۰,۰۰۰تومان
+                  - button "مشاهده شرایط ثبت نام" [ref=e435]: شرایط ثبت‌نام
+            - link "مدیران خودرو اکستریم VX موجود ۱۴۰۵ ۷۴۷ بازدید خبرم کن وقتی ثبت‌نام باز شد افزودن به مقایسه خودروها درخواست خرید لوگوی Fownix مدیران خودرو اکستریم VX موتور 2000 توربوشارژ با پاشش سوخت مستقیم گیربکس 8 سرعته AT AISIN قدرت 261 قیمت ۹,۲۸۶,۹۰۰,۰۰۰تومان مشاهده شرایط ثبت نام" [ref=e440] [cursor=pointer]:
+              - /url: /product/xtrim-vx
+              - generic [ref=e442]:
+                - img "مدیران خودرو اکستریم VX" [ref=e445]
+                - generic [ref=e446]:
+                  - generic [ref=e447]: موجود
+                  - generic [ref=e448]: ۱۴۰۵
+                  - generic [ref=e449]: ۷۴۷ بازدید
+                - generic [ref=e450]:
+                  - button "خبرم کن وقتی ثبت‌نام باز شد" [ref=e451]:
+                    - generic: خبرم کن
+                  - button "افزودن به مقایسه خودروها" [ref=e455]:
+                    - generic [ref=e458]: مقایسه
+              - generic [ref=e459]: درخواست خرید
+              - generic [ref=e466]:
+                - generic [ref=e467]:
+                  - img "لوگوی Fownix" [ref=e469]
+                  - generic [ref=e470]: مدیران خودرو
+                - heading "اکستریم VX" [level=3] [ref=e471]
+                - generic [ref=e472]:
+                  - 'generic "موتور: 2000 توربوشارژ با پاشش سوخت مستقیم" [ref=e473]':
+                    - generic [ref=e474]: موتور
+                    - generic [ref=e475]: 2000 توربوشارژ با پاشش سوخت مستقیم
+                  - 'generic "گیربکس: 8 سرعته AT AISIN" [ref=e476]':
+                    - generic [ref=e477]: گیربکس
+                    - generic [ref=e478]: 8 سرعته AT AISIN
+                  - 'generic "قدرت: 261" [ref=e479]':
+                    - generic [ref=e480]: قدرت
+                    - generic [ref=e481]: "261"
+                - generic [ref=e482]:
+                  - generic [ref=e483]:
+                    - generic [ref=e484]: قیمت
+                    - generic [ref=e485]: ۹,۲۸۶,۹۰۰,۰۰۰تومان
+                  - button "مشاهده شرایط ثبت نام" [ref=e486]: شرایط ثبت‌نام
+        - generic [ref=e490]:
+          - link "کرمان موتور کی ام سی جی 7 موجود ۶۴۹ بازدید خبرم کن وقتی ثبت‌نام باز شد افزودن به مقایسه خودروها درخواست خرید لوگوی KMC کرمان موتور کی ام سی جی 7 موتور 1499 توربو شارژ گیربکس 6 سرعته DCT قدرت 172 قیمت ۴,۵۷۲,۲۰۰,۰۰۰تومان" [ref=e492] [cursor=pointer]:
+            - /url: /product/kmc-j7
+            - generic [ref=e494]:
+              - img "کرمان موتور کی ام سی جی 7" [ref=e497]
+              - generic [ref=e498]:
+                - generic [ref=e499]: موجود
+                - generic [ref=e500]: ۶۴۹ بازدید
+              - generic [ref=e501]:
+                - button "خبرم کن وقتی ثبت‌نام باز شد" [ref=e502]:
+                  - generic: خبرم کن
+                - button "افزودن به مقایسه خودروها" [ref=e506]:
+                  - generic [ref=e509]: مقایسه
+            - generic [ref=e510]: درخواست خرید
+            - generic [ref=e517]:
+              - generic [ref=e518]:
+                - img "لوگوی KMC" [ref=e520]
+                - generic [ref=e521]: کرمان موتور
+              - heading "کی ام سی جی 7" [level=3] [ref=e522]
+              - generic [ref=e523]:
+                - 'generic "موتور: 1499 توربو شارژ" [ref=e524]':
+                  - generic [ref=e525]: موتور
+                  - generic [ref=e526]: 1499 توربو شارژ
+                - 'generic "گیربکس: 6 سرعته DCT" [ref=e527]':
+                  - generic [ref=e528]: گیربکس
+                  - generic [ref=e529]: 6 سرعته DCT
+                - 'generic "قدرت: 172" [ref=e530]':
+                  - generic [ref=e531]: قدرت
+                  - generic [ref=e532]: "172"
+              - generic [ref=e534]:
+                - generic [ref=e535]: قیمت
+                - generic [ref=e536]: ۴,۵۷۲,۲۰۰,۰۰۰تومان
+          - link "فولکس‌واگن فولکس ID4 موجود ۶۳۴ بازدید خبرم کن وقتی ثبت‌نام باز شد افزودن به مقایسه خودروها درخواست خرید لوگوی Volkswagen فولکس‌واگن فولکس ID4 موتور 55 کیلووات‌ساعت گیربکس 1 سرعته الکتریکی قدرت 168 قیمت تماس بگیرید" [ref=e538] [cursor=pointer]:
+            - /url: /product/id4
+            - generic [ref=e540]:
+              - img "فولکس‌واگن فولکس ID4" [ref=e543]
+              - generic [ref=e544]:
+                - generic [ref=e545]: موجود
+                - generic [ref=e546]: ۶۳۴ بازدید
+              - generic [ref=e547]:
+                - button "خبرم کن وقتی ثبت‌نام باز شد" [ref=e548]:
+                  - generic: خبرم کن
+                - button "افزودن به مقایسه خودروها" [ref=e552]:
+                  - generic [ref=e555]: مقایسه
+            - generic [ref=e556]: درخواست خرید
+            - generic [ref=e563]:
+              - generic [ref=e564]:
+                - img "لوگوی Volkswagen" [ref=e566]
+                - generic [ref=e567]: فولکس‌واگن
+              - heading "فولکس ID4" [level=3] [ref=e568]
+              - generic [ref=e569]:
+                - 'generic "موتور: 55 کیلووات‌ساعت" [ref=e570]':
+                  - generic [ref=e571]: موتور
+                  - generic [ref=e572]: 55 کیلووات‌ساعت
+                - 'generic "گیربکس: 1 سرعته الکتریکی" [ref=e573]':
+                  - generic [ref=e574]: گیربکس
+                  - generic [ref=e575]: 1 سرعته الکتریکی
+                - 'generic "قدرت: 168" [ref=e576]':
+                  - generic [ref=e577]: قدرت
+                  - generic [ref=e578]: "168"
+              - generic [ref=e580]:
+                - generic [ref=e581]: قیمت
+                - generic [ref=e582]: تماس بگیرید
+          - link "کرمان موتور کی ام سی ایگل موجود ۱۴۰۵ ۶۰۴ بازدید خبرم کن وقتی ثبت‌نام باز شد افزودن به مقایسه خودروها درخواست خرید لوگوی KMC کرمان موتور کی ام سی ایگل موتور 1498 تنفس طبیعی VVT گیربکس اتوماتیک از نوع CVT قدرت 104 قیمت ۲,۴۸۲,۵۰۰,۰۰۰تومان مشاهده شرایط ثبت نام" [ref=e584] [cursor=pointer]:
+            - /url: /product/kmc-eagle
+            - generic [ref=e586]:
+              - img "کرمان موتور کی ام سی ایگل" [ref=e589]
+              - generic [ref=e590]:
+                - generic [ref=e591]: موجود
+                - generic [ref=e592]: ۱۴۰۵
+                - generic [ref=e593]: ۶۰۴ بازدید
+              - generic [ref=e594]:
+                - button "خبرم کن وقتی ثبت‌نام باز شد" [ref=e595]:
+                  - generic: خبرم کن
+                - button "افزودن به مقایسه خودروها" [ref=e599]:
+                  - generic [ref=e602]: مقایسه
+            - generic [ref=e603]: درخواست خرید
+            - generic [ref=e610]:
+              - generic [ref=e611]:
+                - img "لوگوی KMC" [ref=e613]
+                - generic [ref=e614]: کرمان موتور
+              - heading "کی ام سی ایگل" [level=3] [ref=e615]
+              - generic [ref=e616]:
+                - 'generic "موتور: 1498 تنفس طبیعی VVT" [ref=e617]':
+                  - generic [ref=e618]: موتور
+                  - generic [ref=e619]: 1498 تنفس طبیعی VVT
+                - 'generic "گیربکس: اتوماتیک از نوع CVT" [ref=e620]':
+                  - generic [ref=e621]: گیربکس
+                  - generic [ref=e622]: اتوماتیک از نوع CVT
+                - 'generic "قدرت: 104" [ref=e623]':
+                  - generic [ref=e624]: قدرت
+                  - generic [ref=e625]: "104"
+              - generic [ref=e626]:
+                - generic [ref=e627]:
+                  - generic [ref=e628]: قیمت
+                  - generic [ref=e629]: ۲,۴۸۲,۵۰۰,۰۰۰تومان
+                - button "مشاهده شرایط ثبت نام" [ref=e630]: شرایط ثبت‌نام
+          - link "فولکس‌واگن فولکس‌ واگن تی راک موجود ۵۸۲ بازدید خبرم کن وقتی ثبت‌نام باز شد افزودن به مقایسه خودروها درخواست خرید لوگوی Volkswagen فولکس‌واگن فولکس‌ واگن تی راک گیربکس 7 سرعته DCT قدرت 158 حجم صندوق 401 قیمت تماس بگیرید" [ref=e635] [cursor=pointer]:
+            - /url: /product/t-roc
+            - generic [ref=e637]:
+              - img "فولکس‌واگن فولکس‌ واگن تی راک" [ref=e640]
+              - generic [ref=e641]:
+                - generic [ref=e642]: موجود
+                - generic [ref=e643]: ۵۸۲ بازدید
+              - generic [ref=e644]:
+                - button "خبرم کن وقتی ثبت‌نام باز شد" [ref=e645]:
+                  - generic: خبرم کن
+                - button "افزودن به مقایسه خودروها" [ref=e649]:
+                  - generic [ref=e652]: مقایسه
+            - generic [ref=e653]: درخواست خرید
+            - generic [ref=e660]:
+              - generic [ref=e661]:
+                - img "لوگوی Volkswagen" [ref=e663]
+                - generic [ref=e664]: فولکس‌واگن
+              - heading "فولکس‌ واگن تی راک" [level=3] [ref=e665]
+              - generic [ref=e666]:
+                - 'generic "گیربکس: 7 سرعته DCT" [ref=e667]':
+                  - generic [ref=e668]: گیربکس
+                  - generic [ref=e669]: 7 سرعته DCT
+                - 'generic "قدرت: 158" [ref=e670]':
+                  - generic [ref=e671]: قدرت
+                  - generic [ref=e672]: "158"
+                - 'generic "حجم صندوق: 401" [ref=e673]':
+                  - generic [ref=e674]: حجم صندوق
+                  - generic [ref=e675]: "401"
+              - generic [ref=e677]:
+                - generic [ref=e678]: قیمت
+                - generic [ref=e679]: تماس بگیرید
+          - link "کرمان موتور جک جی 4 موجود ۵۷۸ بازدید خبرم کن وقتی ثبت‌نام باز شد افزودن به مقایسه خودروها درخواست خرید لوگوی KMC کرمان موتور جک جی 4 موتور 1499 تنفس طبیعی VVT گیربکس CVT قدرت 104 قیمت ۱,۶۱۰,۰۰۰,۰۰۰تومان" [ref=e681] [cursor=pointer]:
+            - /url: /product/jac-j4
+            - generic [ref=e683]:
+              - img "کرمان موتور جک جی 4" [ref=e686]
+              - generic [ref=e687]:
+                - generic [ref=e688]: موجود
+                - generic [ref=e689]: ۵۷۸ بازدید
+              - generic [ref=e690]:
+                - button "خبرم کن وقتی ثبت‌نام باز شد" [ref=e691]:
+                  - generic: خبرم کن
+                - button "افزودن به مقایسه خودروها" [ref=e695]:
+                  - generic [ref=e698]: مقایسه
+            - generic [ref=e699]: درخواست خرید
+            - generic [ref=e706]:
+              - generic [ref=e707]:
+                - img "لوگوی KMC" [ref=e709]
+                - generic [ref=e710]: کرمان موتور
+              - heading "جک جی 4" [level=3] [ref=e711]
+              - generic [ref=e712]:
+                - 'generic "موتور: 1499 تنفس طبیعی VVT" [ref=e713]':
+                  - generic [ref=e714]: موتور
+                  - generic [ref=e715]: 1499 تنفس طبیعی VVT
+                - 'generic "گیربکس: CVT" [ref=e716]':
+                  - generic [ref=e717]: گیربکس
+                  - generic [ref=e718]: CVT
+                - 'generic "قدرت: 104" [ref=e719]':
+                  - generic [ref=e720]: قدرت
+                  - generic [ref=e721]: "104"
+              - generic [ref=e723]:
+                - generic [ref=e724]: قیمت
+                - generic [ref=e725]: ۱,۶۱۰,۰۰۰,۰۰۰تومان
+          - link "مدیران خودرو اکستریم TXL موجود ۵۶۵ بازدید خبرم کن وقتی ثبت‌نام باز شد افزودن به مقایسه خودروها درخواست خرید لوگوی Fownix مدیران خودرو اکستریم TXL موتور 2000 توربوشارژ با پاشش سوخت مستقیم گیربکس 8 سرعته AT قدرت 261 قیمت ۷,۶۴۲,۰۰۰,۰۰۰تومان" [ref=e727] [cursor=pointer]:
+            - /url: /product/txl
+            - generic [ref=e729]:
+              - img "مدیران خودرو اکستریم TXL" [ref=e732]
+              - generic [ref=e733]:
+                - generic [ref=e734]: موجود
+                - generic [ref=e735]: ۵۶۵ بازدید
+              - generic [ref=e736]:
+                - button "خبرم کن وقتی ثبت‌نام باز شد" [ref=e737]:
+                  - generic: خبرم کن
+                - button "افزودن به مقایسه خودروها" [ref=e741]:
+                  - generic [ref=e744]: مقایسه
+            - generic [ref=e745]: درخواست خرید
+            - generic [ref=e752]:
+              - generic [ref=e753]:
+                - img "لوگوی Fownix" [ref=e755]
+                - generic [ref=e756]: مدیران خودرو
+              - heading "اکستریم TXL" [level=3] [ref=e757]
+              - generic [ref=e758]:
+                - 'generic "موتور: 2000 توربوشارژ با پاشش سوخت مستقیم" [ref=e759]':
+                  - generic [ref=e760]: موتور
+                  - generic [ref=e761]: 2000 توربوشارژ با پاشش سوخت مستقیم
+                - 'generic "گیربکس: 8 سرعته AT" [ref=e762]':
+                  - generic [ref=e763]: گیربکس
+                  - generic [ref=e764]: 8 سرعته AT
+                - 'generic "قدرت: 261" [ref=e765]':
+                  - generic [ref=e766]: قدرت
+                  - generic [ref=e767]: "261"
+              - generic [ref=e769]:
+                - generic [ref=e770]: قیمت
+                - generic [ref=e771]: ۷,۶۴۲,۰۰۰,۰۰۰تومان
+          - link "فولکس‌واگن جتا VS7 2024 موجود ۵۵۸ بازدید خبرم کن وقتی ثبت‌نام باز شد افزودن به مقایسه خودروها درخواست خرید لوگوی Volkswagen فولکس‌واگن جتا VS7 2024 موتور 1/4 لیتر توربو شارژ گیربکس 6 سرعته CVT قدرت 148 قیمت تماس بگیرید" [ref=e773] [cursor=pointer]:
+            - /url: /product/vs7-2024
+            - generic [ref=e775]:
+              - img "فولکس‌واگن جتا VS7 2024" [ref=e778]
+              - generic [ref=e779]:
+                - generic [ref=e780]: موجود
+                - generic [ref=e781]: ۵۵۸ بازدید
+              - generic [ref=e782]:
+                - button "خبرم کن وقتی ثبت‌نام باز شد" [ref=e783]:
+                  - generic: خبرم کن
+                - button "افزودن به مقایسه خودروها" [ref=e787]:
+                  - generic [ref=e790]: مقایسه
+            - generic [ref=e791]: درخواست خرید
+            - generic [ref=e798]:
+              - generic [ref=e799]:
+                - img "لوگوی Volkswagen" [ref=e801]
+                - generic [ref=e802]: فولکس‌واگن
+              - heading "جتا VS7 2024" [level=3] [ref=e803]
+              - generic [ref=e804]:
+                - 'generic "موتور: 1/4 لیتر توربو شارژ" [ref=e805]':
+                  - generic [ref=e806]: موتور
+                  - generic [ref=e807]: 1/4 لیتر توربو شارژ
+                - 'generic "گیربکس: 6 سرعته CVT" [ref=e808]':
+                  - generic [ref=e809]: گیربکس
+                  - generic [ref=e810]: 6 سرعته CVT
+                - 'generic "قدرت: 148" [ref=e811]':
+                  - generic [ref=e812]: قدرت
+                  - generic [ref=e813]: "148"
+              - generic [ref=e815]:
+                - generic [ref=e816]: قیمت
+                - generic [ref=e817]: تماس بگیرید
+    - region "ثبت درخواست خرید خودرو" [ref=e818]:
+      - generic [ref=e821]:
+        - generic [ref=e822]:
+          - heading "خودروی بعدی‌تان، یک فرم فاصله دارد" [level=2] [ref=e823]
+          - paragraph [ref=e824]: فرم را پر کنید تا کارشناسان ما برای مشاوره‌ی خرید نقدی و اقساطی با شما تماس بگیرند. اطلاعات شما مستقیماً در سامانه‌ی فروش ثبت می‌شود.
+        - generic [ref=e827]:
+          - generic [ref=e828]:
+            - textbox "نام و نام خانوادگی" [ref=e829]:
+              - /placeholder: نام و نام خانوادگی *
+            - textbox "تلفن همراه" [ref=e830]:
+              - /placeholder: تلفن همراه *
+          - generic [ref=e831]:
+            - generic [ref=e832]: برند خودرو *
+            - generic [ref=e833]:
+              - button "مدیران خودرو" [ref=e834]
+              - button "ماموت خودرو" [ref=e835]
+              - button "کرمان موتور" [ref=e836]
+              - button "خودرو های برقی نبکا" [ref=e837]
+              - button "تویوتا" [ref=e838]
+              - button "پرشیا خودرو" [ref=e839]
+              - button "نادین خودرو" [ref=e840]
+              - button "راسا موتور" [ref=e841]
+              - button "آرین موتور" [ref=e842]
+          - textbox "کد ملی" [ref=e844]
+          - generic [ref=e845]:
+            - generic [ref=e846]: "نوع خرید:"
+            - generic [ref=e847]:
+              - generic [ref=e848] [cursor=pointer]:
+                - radio "نقد" [checked] [ref=e849]
+                - text: نقد
+              - generic [ref=e853] [cursor=pointer]:
+                - radio "اقساط" [ref=e854]
+                - text: اقساط
+          - button "ثبت درخواست خرید" [ref=e856]
+        - generic [ref=e857]:
+          - generic [ref=e858]:
+            - generic [ref=e859]: ✓
+            - text: مشاوره‌ی تخصصی رایگان
+          - generic [ref=e860]:
+            - generic [ref=e861]: ✓
+            - text: خرید نقدی و اقساطی
+          - generic [ref=e862]:
+            - generic [ref=e863]: ✓
+            - text: پاسخ‌گویی سریع کارشناسان
+    - region "برندهای رسمی" [ref=e864]:
+      - generic [ref=e866]:
+        - link "خودروهای ام‌وی‌ام" [ref=e867] [cursor=pointer]:
+          - /url: /product-category/modirankhodro/mvm
+          - img "لوگوی MVM" [ref=e869]
+          - generic [ref=e870]: ام‌وی‌ام
+        - link "خودروهای فونیکس" [ref=e871] [cursor=pointer]:
+          - /url: /product-category/modirankhodro/fownix
+          - img "لوگوی Fownix" [ref=e873]
+          - generic [ref=e874]: فونیکس
+        - link "خودروهای اکستریم" [ref=e875] [cursor=pointer]:
+          - /url: /product-category/modirankhodro/xtrim
+          - img "لوگوی Xtrim" [ref=e877]
+          - generic [ref=e878]: اکستریم
+        - link "خودروهای کی‌ام‌سی" [ref=e879] [cursor=pointer]:
+          - /url: /product-category/kmc
+          - img "لوگوی KMC" [ref=e881]
+          - generic [ref=e882]: کی‌ام‌سی
+        - link "خودروهای تویوتا" [ref=e883] [cursor=pointer]:
+          - /url: /product-category/toyota
+          - img "لوگوی Toyota" [ref=e885]
+          - generic [ref=e886]: تویوتا
+        - link "خودروهای بی‌وای‌دی" [ref=e887] [cursor=pointer]:
+          - /url: /product-category/byd
+          - img "لوگوی BYD" [ref=e889]
+          - generic [ref=e890]: بی‌وای‌دی
+        - link [ref=e891] [cursor=pointer]:
+          - /url: /product-category/modirankhodro/mvm
+          - generic [ref=e894]: ام‌وی‌ام
+        - link [ref=e895] [cursor=pointer]:
+          - /url: /product-category/modirankhodro/fownix
+          - generic [ref=e898]: فونیکس
+        - link [ref=e899] [cursor=pointer]:
+          - /url: /product-category/modirankhodro/xtrim
+          - generic [ref=e902]: اکستریم
+        - link [ref=e903] [cursor=pointer]:
+          - /url: /product-category/kmc
+          - generic [ref=e906]: کی‌ام‌سی
+        - link [ref=e907] [cursor=pointer]:
+          - /url: /product-category/toyota
+          - generic [ref=e910]: تویوتا
+        - link [ref=e911] [cursor=pointer]:
+          - /url: /product-category/byd
+          - generic [ref=e914]: بی‌وای‌دی
+      - generic [ref=e915]:
+        - heading "نمایندگی رسمی بهترین برندها" [level=2] [ref=e916]
+        - paragraph [ref=e917]: از ام‌وی‌ام تا بی‌ام‌و — فروش، ضمانت‌نامه و خدمات پس از فروش رسمی، همه زیر یک سقف.
+      - generic [ref=e919]:
+        - link "خودروهای بی‌ام‌و" [ref=e920] [cursor=pointer]:
+          - /url: /product-category/bmw
+          - img "لوگوی BMW" [ref=e922]
+          - generic [ref=e923]: بی‌ام‌و
+        - link "خودروهای مرسدس‌بنز" [ref=e924] [cursor=pointer]:
+          - /url: /product-category/mercedes-benz
+          - img "لوگوی Mercedes-Benz" [ref=e926]
+          - generic [ref=e927]: مرسدس‌بنز
+        - link "خودروهای فولکس‌واگن" [ref=e928] [cursor=pointer]:
+          - /url: /product-category/mammut/volkswagen
+          - img "لوگوی Volkswagen" [ref=e930]
+          - generic [ref=e931]: فولکس‌واگن
+        - link "خودروهای آئودی" [ref=e932] [cursor=pointer]:
+          - /url: /product-category/audi
+          - img "لوگوی Audi" [ref=e934]
+          - generic [ref=e935]: آئودی
+        - link "خودروهای مینی" [ref=e936] [cursor=pointer]:
+          - /url: /product-category/mini
+          - img "لوگوی MINI" [ref=e938]
+          - generic [ref=e939]: مینی
+        - link "خودروهای لکسوس" [ref=e940] [cursor=pointer]:
+          - /url: /product-category/lexus
+          - img "لوگوی Lexus" [ref=e942]
+          - generic [ref=e943]: لکسوس
+        - link [ref=e944] [cursor=pointer]:
+          - /url: /product-category/bmw
+          - generic [ref=e947]: بی‌ام‌و
+        - link [ref=e948] [cursor=pointer]:
+          - /url: /product-category/mercedes-benz
+          - generic [ref=e951]: مرسدس‌بنز
+        - link [ref=e952] [cursor=pointer]:
+          - /url: /product-category/mammut/volkswagen
+          - generic [ref=e955]: فولکس‌واگن
+        - link [ref=e956] [cursor=pointer]:
+          - /url: /product-category/audi
+          - generic [ref=e959]: آئودی
+        - link [ref=e960] [cursor=pointer]:
+          - /url: /product-category/mini
+          - generic [ref=e963]: مینی
+        - link [ref=e964] [cursor=pointer]:
+          - /url: /product-category/lexus
+          - generic [ref=e967]: لکسوس
+    - region "طرح جایگزینی خودرو" [ref=e968]:
+      - generic [ref=e969]:
+        - generic [ref=e971]:
+          - generic [ref=e972]:
+            - generic [ref=e973]:
+              - img "خودروی کلاسیک" [ref=e974]
+              - generic: BEFORE
+            - generic [ref=e975]:
+              - img "Mercedes-Benz EQE" [ref=e976]
+              - generic: AFTER
+            - slider "کنترل مقایسه خودروی قبل و بعد" [ref=e977]: "50"
+          - generic [ref=e978]:
+            - generic [ref=e979]: خودروی کلاسیک
+            - generic [ref=e980]: Mercedes-Benz EQE
+        - generic [ref=e981]:
+          - heading "خودروی فعلی را به انتخاب بعدی تبدیل کنید" [level=2] [ref=e983]
+          - paragraph [ref=e984]: طرح جایگزینی برای مشتریانی است که می‌خواهند ارزش خودروی فعلی‌شان مستقیم وارد فرایند خرید خودروی جدید شود؛ با کارشناسی، قیمت‌گذاری و پیگیری فروش در یک مسیر واحد.
+          - list [ref=e985]:
+            - listitem [ref=e986]: کارشناسی و قیمت‌گذاری شفاف خودروی فعلی
+            - listitem [ref=e988]: محاسبه مابه‌التفاوت نقدی یا اقساطی
+            - listitem [ref=e990]: تحویل سریع‌تر با پیگیری یکپارچه فروش
+          - generic [ref=e992]:
+            - link "مشاهده طرح‌های فروش" [ref=e993] [cursor=pointer]:
+              - /url: /car-purchase-system
+            - link "کارشناسی خودرو" [ref=e994] [cursor=pointer]:
+              - /url: /second-hands
+    - region "محاسبه‌ی اقساط خرید خودرو" [ref=e995]:
+      - generic [ref=e997]:
+        - generic [ref=e998]:
+          - heading "خرید اقساطی آسان" [level=2] [ref=e1000]
+          - paragraph [ref=e1001]: با تسهیلات بانکی، خودروی دلخواهتان را همین امروز تحویل بگیرید.
+          - generic [ref=e1002]:
+            - generic [ref=e1003]: قسط ماهانه
+            - generic [ref=e1004]:
+              - generic [ref=e1005]: ۶۶,۳۷۴,۹۸۵
+              - generic [ref=e1006]: تومان
+          - generic [ref=e1007]:
+            - generic [ref=e1008]:
+              - generic [ref=e1009]: مدت بازپرداخت
+              - generic [ref=e1010]: ۶۰ ماه
+            - generic [ref=e1011]:
+              - generic [ref=e1012]: پیش‌پرداخت
+              - generic [ref=e1013]: ۱.۸ میلیارد تومان
+            - generic [ref=e1014]:
+              - generic [ref=e1015]: مبلغ تسهیلات
+              - generic [ref=e1016]: ۲.۱ میلیارد تومان
+            - generic [ref=e1017]:
+              - generic [ref=e1018]: سود کل
+              - generic [ref=e1019]: ۱.۹ میلیارد تومان
+          - link "ثبت درخواست خرید اقساطی" [ref=e1020] [cursor=pointer]:
+            - /url: /car-purchase-system
+        - generic [ref=e1022]:
+          - generic [ref=e1023]:
+            - generic [ref=e1024]:
+              - generic [ref=e1025]: قیمت شرکتی خودرو
+              - generic [ref=e1026]: ۳ میلیارد
+            - slider "قیمت شرکتی خودرو ۳ میلیارد" [ref=e1027]: "3000000000"
+            - generic [ref=e1028]:
+              - generic [ref=e1029]: ۸۰۰ میلیون
+              - generic [ref=e1030]: ۴۰ میلیارد
+          - generic [ref=e1031]:
+            - generic [ref=e1032]: مدت بازپرداخت
+            - generic [ref=e1034]:
+              - button "۱۲م" [ref=e1035]
+              - button "۲۴م" [ref=e1036]
+              - button "۳۶م" [ref=e1037]
+              - button "۴۸م" [ref=e1038]
+              - button "۶۰م" [ref=e1039]
+          - generic [ref=e1040]:
+            - generic [ref=e1041]:
+              - generic [ref=e1042]: قیمت بازار (تقریبی)
+              - generic [ref=e1043]: ۳.۹ میلیارد
+            - generic [ref=e1044]:
+              - generic [ref=e1045]:
+                - generic [ref=e1046]: پیش‌پرداخت
+                - generic [ref=e1047]: ۱.۸ میلیارد
+              - generic [ref=e1048]:
+                - generic [ref=e1049]: مبلغ تسهیلات
+                - generic [ref=e1050]: ۲.۱ میلیارد
+            - paragraph [ref=e1051]: قیمت بازار ≈ پیش‌پرداخت + مبلغ تسهیلات
+          - paragraph [ref=e1052]: ⚠️ این اعداد به صورت حدودی می‌باشند و برای اطلاعات دقیق‌تر باید با کارشناسان فروش تجارت خودرو خسروانی در تماس باشید.
+      - generic [ref=e1053]:
+        - generic [ref=e1054]:
+          - heading "خودروهای نزدیک به ۳ میلیارد تومان" [level=3] [ref=e1055]
+          - link "همه‌ی خودروها ←" [ref=e1056] [cursor=pointer]:
+            - /url: /shop
+        - generic [ref=e1057]:
+          - link "X33 Cross CVT X33 Cross CVT ۲.۹ میلیارد تومان" [ref=e1058] [cursor=pointer]:
+            - /url: /product/x33-cross-cvt
+            - img "X33 Cross CVT" [ref=e1060]
+            - generic [ref=e1061]:
+              - heading "X33 Cross CVT" [level=4] [ref=e1062]
+              - generic [ref=e1063]: ۲.۹ میلیارد تومان
+          - link "جک SR3 جک SR3 ۳.۱ میلیارد تومان" [ref=e1064] [cursor=pointer]:
+            - /url: /product/jac-sr3
+            - img "جک SR3" [ref=e1066]
+            - generic [ref=e1067]:
+              - heading "جک SR3" [level=4] [ref=e1068]
+              - generic [ref=e1069]: ۳.۱ میلیارد تومان
+          - link "کی ام سی ایگل کی ام سی ایگل ۲.۵ میلیارد تومان" [ref=e1070] [cursor=pointer]:
+            - /url: /product/kmc-eagle
+            - img "کی ام سی ایگل" [ref=e1072]
+            - generic [ref=e1073]:
+              - heading "کی ام سی ایگل" [level=4] [ref=e1074]
+              - generic [ref=e1075]: ۲.۵ میلیارد تومان
+    - region "چرا تجارت خودرو خسروانی" [ref=e1076]:
+      - generic [ref=e1077]:
+        - heading "دو دهه اعتماد، قابل لمس" [level=2] [ref=e1080]
+        - generic [ref=e1081]:
+          - generic [ref=e1082]:
+            - generic [ref=e1083]: ۰+
+            - generic [ref=e1085]: سال تجربه
+          - generic [ref=e1086]:
+            - generic [ref=e1087]: ۰
+            - generic [ref=e1088]: شعبه و نمایندگی
+          - generic [ref=e1089]:
+            - generic [ref=e1090]: ۰+
+            - generic [ref=e1092]: مشتری راضی
+          - generic [ref=e1093]:
+            - generic [ref=e1094]: ۰
+            - generic [ref=e1095]: تعمیرگاه گرید A
+        - generic [ref=e1096]:
+          - generic [ref=e1097]:
+            - generic [ref=e1098]: ”
+            - figure "محمد رضایی — خریدار تیگو ۷ پرو — تهران" [ref=e1099]:
+              - blockquote [ref=e1100]: کارشناسان بدون هیچ فشار فروشی، صادقانه راهنمایی کردند. تحویل خودرو دقیقاً در زمان مقرر انجام شد.
+            - generic [ref=e1102]:
+              - button "نظر 1" [ref=e1103]
+              - button "نظر 2" [ref=e1104]
+              - button "نظر 3" [ref=e1105]
+          - generic [ref=e1106]:
+            - list [ref=e1107]:
+              - listitem [ref=e1108]: نمایندگی رسمی با ضمانت‌نامه‌ی کارخانه
+              - listitem [ref=e1110]: مشاوره‌ی صادقانه، بدون فشار فروش
+              - listitem [ref=e1112]: تعمیرگاه‌های تخصصی در سراسر تهران
+              - listitem [ref=e1114]: رتبه‌ی A خدمات از وزارت صمت
+            - link "لوح‌ها و تقدیرنامه‌های رسمی را ببینید" [ref=e1116] [cursor=pointer]:
+              - /url: /about
+              - text: لوح‌ها و تقدیرنامه‌های رسمی را ببینید
+              - generic [ref=e1117]: ←
+    - generic [ref=e1119]:
+      - generic [ref=e1120]:
+        - generic [ref=e1121]:
+          - heading "تازه‌ترین مقالات مجله خودرو" [level=2] [ref=e1123]
+          - paragraph [ref=e1124]: راهنمای خرید، بررسی فنی و اخبار روز دنیای خودرو.
+        - link "مشاهده‌ی همه‌ی مقالات" [ref=e1125] [cursor=pointer]:
+          - /url: /blog
+      - generic [ref=e1126]:
+        - link "تاب برداشتن دیسک ترمز؛ دلایل، علائم هشداردهنده و هزینه تعمیر ۲۹ بهمن ۱۴۰۴ تاب برداشتن دیسک ترمز؛ دلایل، علائم هشداردهنده و هزینه تعمیر ادامه‌ی مطلب" [ref=e1128] [cursor=pointer]:
+          - /url: /blog/warping-of-brake-disc
+          - generic [ref=e1129]:
+            - img "تاب برداشتن دیسک ترمز؛ دلایل، علائم هشداردهنده و هزینه تعمیر" [ref=e1130]
+            - generic [ref=e1132]: ۲۹ بهمن ۱۴۰۴
+          - generic [ref=e1133]:
+            - heading "تاب برداشتن دیسک ترمز؛ دلایل، علائم هشداردهنده و هزینه تعمیر" [level=3] [ref=e1134]
+            - generic [ref=e1135]: ادامه‌ی مطلب
+        - link "از ثبت نام تا سردرگمی، تجربه تلخ خریداران BYD ۲۵ بهمن ۱۴۰۴ از ثبت نام تا سردرگمی، تجربه تلخ خریداران BYD ادامه‌ی مطلب" [ref=e1139] [cursor=pointer]:
+          - /url: /news/%d8%a7%d8%b2-%d8%ab%d8%a8%d8%aa-%d9%86%d8%a7%d9%85-%d8%aa%d8%a7-%d8%b3%d8%b1%d8%af%d8%b1%da%af%d9%85%db%8c%d8%8c-%d8%aa%d8%ac%d8%b1%d8%a8%d9%87-%d8%aa%d9%84%d8%ae-%d8%ae%d8%b1%db%8c%d8%af%d8%a7%d8%b1
+          - generic [ref=e1140]:
+            - img "از ثبت نام تا سردرگمی، تجربه تلخ خریداران BYD" [ref=e1141]
+            - generic [ref=e1143]: ۲۵ بهمن ۱۴۰۴
+          - generic [ref=e1144]:
+            - heading "از ثبت نام تا سردرگمی، تجربه تلخ خریداران BYD" [level=3] [ref=e1145]
+            - generic [ref=e1146]: ادامه‌ی مطلب
+        - link "سیستم تعلیق مک‌ فرسون چیست؟، بررسی کامل مزایا و معایب ۱۹ بهمن ۱۴۰۴ سیستم تعلیق مک‌ فرسون چیست؟، بررسی کامل مزایا و معایب ادامه‌ی مطلب" [ref=e1150] [cursor=pointer]:
+          - /url: /blog/macpherson-suspension-system
+          - generic [ref=e1151]:
+            - img "سیستم تعلیق مک‌ فرسون چیست؟، بررسی کامل مزایا و معایب" [ref=e1152]
+            - generic [ref=e1154]: ۱۹ بهمن ۱۴۰۴
+          - generic [ref=e1155]:
+            - heading "سیستم تعلیق مک‌ فرسون چیست؟، بررسی کامل مزایا و معایب" [level=3] [ref=e1156]
+            - generic [ref=e1157]: ادامه‌ی مطلب
+        - link "مقایسه فونیکس آریزو 8 با هونگچی H5 + جدول مقایسه در یک نگاه ۱۹ بهمن ۱۴۰۴ مقایسه فونیکس آریزو 8 با هونگچی H5 + جدول مقایسه در یک نگاه ادامه‌ی مطلب" [ref=e1161] [cursor=pointer]:
+          - /url: /blog/hongqi-h5-vs-fownix-arrizo8
+          - generic [ref=e1162]:
+            - img "مقایسه فونیکس آریزو 8 با هونگچی H5 + جدول مقایسه در یک نگاه" [ref=e1163]
+            - generic [ref=e1165]: ۱۹ بهمن ۱۴۰۴
+          - generic [ref=e1166]:
+            - heading "مقایسه فونیکس آریزو 8 با هونگچی H5 + جدول مقایسه در یک نگاه" [level=3] [ref=e1167]
+            - generic [ref=e1168]: ادامه‌ی مطلب
+        - link "بهترین مدل‌های تویوتا در ایران؛ این مدل‌ها در ایران ارزش خرید دارند! ۱۹ بهمن ۱۴۰۴ بهترین مدل‌های تویوتا در ایران؛ این مدل‌ها در ایران ارزش خرید دارند! ادامه‌ی مطلب" [ref=e1172] [cursor=pointer]:
+          - /url: /blog/the-best-toyota-models-in-the-iran
+          - generic [ref=e1173]:
+            - img "بهترین مدل‌های تویوتا در ایران؛ این مدل‌ها در ایران ارزش خرید دارند!" [ref=e1174]
+            - generic [ref=e1176]: ۱۹ بهمن ۱۴۰۴
+          - generic [ref=e1177]:
+            - heading "بهترین مدل‌های تویوتا در ایران؛ این مدل‌ها در ایران ارزش خرید دارند!" [level=3] [ref=e1178]
+            - generic [ref=e1179]: ادامه‌ی مطلب
+        - link "تفاوت سیستم AWD و 4WD + جدول مقایسه ۱۹ بهمن ۱۴۰۴ تفاوت سیستم AWD و 4WD + جدول مقایسه ادامه‌ی مطلب" [ref=e1183] [cursor=pointer]:
+          - /url: /blog/awd-vs-4wd-systems
+          - generic [ref=e1184]:
+            - img "تفاوت سیستم AWD و 4WD + جدول مقایسه" [ref=e1185]
+            - generic [ref=e1187]: ۱۹ بهمن ۱۴۰۴
+          - generic [ref=e1188]:
+            - heading "تفاوت سیستم AWD و 4WD + جدول مقایسه" [level=3] [ref=e1189]
+            - generic [ref=e1190]: ادامه‌ی مطلب
+  - contentinfo [ref=e1193]:
+    - generic [ref=e1197]:
+      - generic [ref=e1198]:
+        - heading "برای انتخاب خودروی بعدی آماده‌اید؟" [level=3] [ref=e1199]
+        - paragraph [ref=e1200]: کارشناسان خسروانی برای مشاوره خرید، اقساط و خدمات در کنار شما هستند.
+      - generic [ref=e1201]:
+        - link "درخواست خرید خودرو" [ref=e1202] [cursor=pointer]:
+          - /url: /car-purchase-system
+        - link "تماس با مشاور" [ref=e1203] [cursor=pointer]:
+          - /url: /contact
+    - generic [ref=e1204]:
+      - generic [ref=e1205]:
+        - img "تجارت خودرو خسروانی" [ref=e1206]
+        - paragraph [ref=e1207]: مرجع تخصصی خرید خودرو با مشاوره شفاف، فروش نقدی و اقساطی، طرح جایگزینی و خدمات پس از فروش مطمئن در شعب خسروانی.
+        - generic [ref=e1208]:
+          - link "021 61993" [ref=e1209] [cursor=pointer]:
+            - /url: tel:02161993
+          - link "مشاهده شعب و نمایندگی‌ها" [ref=e1210] [cursor=pointer]:
+            - /url: /branches
+        - generic [ref=e1211]:
+          - link "اینستاگرام" [ref=e1212] [cursor=pointer]:
+            - /url: https://www.instagram.com/khosravani193/
+          - link "تلگرام" [ref=e1213] [cursor=pointer]:
+            - /url: https://t.me/khosravani193
+          - link "واتساپ" [ref=e1214] [cursor=pointer]:
+            - /url: https://wa.me/982161993
+          - link "آپارات" [ref=e1215] [cursor=pointer]:
+            - /url: https://www.aparat.com/khosravani
+      - generic [ref=e1216]:
+        - heading "خودروها" [level=3] [ref=e1217]
+        - list [ref=e1218]:
+          - listitem [ref=e1219]:
+            - link "همه خودروها" [ref=e1220] [cursor=pointer]:
+              - /url: /shop
+          - listitem [ref=e1221]:
+            - link "مدیران خودرو" [ref=e1222] [cursor=pointer]:
+              - /url: /product-category/modirankhodro
+          - listitem [ref=e1223]:
+            - link "تویوتا" [ref=e1224] [cursor=pointer]:
+              - /url: /product-category/toyota
+          - listitem [ref=e1225]:
+            - link "ماموت خودرو" [ref=e1226] [cursor=pointer]:
+              - /url: /product-category/mammut
+          - listitem [ref=e1227]:
+            - link "کرمان موتور" [ref=e1228] [cursor=pointer]:
+              - /url: /product-category/kerman-motor
+      - generic [ref=e1229]:
+        - heading "خدمات" [level=3] [ref=e1230]
+        - list [ref=e1231]:
+          - listitem [ref=e1232]:
+            - link "خرید نقدی و اقساطی" [ref=e1233] [cursor=pointer]:
+              - /url: /car-purchase-system
+          - listitem [ref=e1234]:
+            - link "شرایط اقساط مدیران خودرو" [ref=e1235] [cursor=pointer]:
+              - /url: /modiran-khodro-installments
+          - listitem [ref=e1236]:
+            - link "خدمات مدیران خودرو" [ref=e1237] [cursor=pointer]:
+              - /url: /modiran-khodro-after-sales-services
+          - listitem [ref=e1238]:
+            - link "خدمات کرمان موتور" [ref=e1239] [cursor=pointer]:
+              - /url: /kerman-motor-after-sales-services
+          - listitem [ref=e1240]:
+            - link "خدمات ماموت خودرو" [ref=e1241] [cursor=pointer]:
+              - /url: /mammut-khodro-after-sales-services
+      - generic [ref=e1242]:
+        - heading "شرکت" [level=3] [ref=e1243]
+        - list [ref=e1244]:
+          - listitem [ref=e1245]:
+            - link "درباره ما" [ref=e1246] [cursor=pointer]:
+              - /url: /about
+          - listitem [ref=e1247]:
+            - link "شعب و نمایندگی‌ها" [ref=e1248] [cursor=pointer]:
+              - /url: /branches
+          - listitem [ref=e1249]:
+            - link "مجله خودرو" [ref=e1250] [cursor=pointer]:
+              - /url: /blog
+          - listitem [ref=e1251]:
+            - link "تماس با ما" [ref=e1252] [cursor=pointer]:
+              - /url: /contact
+          - listitem [ref=e1253]:
+            - link "قوانین و مقررات" [ref=e1254] [cursor=pointer]:
+              - /url: /policy
+    - generic [ref=e1256]:
+      - generic [ref=e1257]: © ۱۴۰۵ تجارت خودرو خسروانی. تمامی حقوق محفوظ است.
+      - generic [ref=e1258]:
+        - text: توسعه اختصاصی پلتفرم خسروانی
+        - generic [ref=e1259]: ◆
+  - button "چت آنلاین" [ref=e1261]
+  - alert [ref=e1264]
+```

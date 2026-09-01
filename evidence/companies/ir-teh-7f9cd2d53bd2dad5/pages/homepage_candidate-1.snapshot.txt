@@ -1,0 +1,6 @@
+### Browser `luma-b2b-ir-teh-7f9cd2d53bd2dad5-attempt-1` opened with pid 44466.
+### Error
+Error: net::ERR_HTTP_RESPONSE_CODE_FAILURE at http://www.madtejarat.ir/
+Call log:
+[2m  - navigating to "http://www.madtejarat.ir/", waiting until "domcontentloaded"[22m
+

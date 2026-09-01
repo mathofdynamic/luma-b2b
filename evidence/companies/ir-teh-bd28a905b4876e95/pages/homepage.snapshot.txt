@@ -1,0 +1,1393 @@
+### Page
+- Page URL: https://jaigah1.com/8847/
+- Page Title: لیست کارخانه های شهرک صنعتی شمس آباد [ شهریور 10, 1405 ]
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - article [ref=e8]:
+    - heading "لیست کارخانه های شهرک صنعتی شمس آباد" [level=1] [ref=e12]
+    - generic [ref=e14]:
+      - generic [ref=e16]:
+        - navigation "Breadcrumb" [ref=e18]:
+          - link "خانه" [ref=e19] [cursor=pointer]:
+            - /url: https://jaigah1.com
+          - text: /
+          - link "معرفی مراکز" [ref=e20] [cursor=pointer]:
+            - /url: https://jaigah1.com/tag/%d9%85%d8%b9%d8%b1%d9%81%db%8c-%d9%85%d8%b1%d8%a7%da%a9%d8%b2/
+          - text: / لیست کارخانه های شهرک صنعتی شمس آباد
+        - generic [ref=e21]:
+          - heading "فهرست مطالب" [level=6] [ref=e23]
+          - list [ref=e1339]:
+            - listitem [ref=e1340]:
+              - link "پولیش پروفیل آلومینیوم" [ref=e1344] [cursor=pointer]:
+                - /url: "#elementor-toc__heading-anchor-0"
+            - listitem [ref=e1345]:
+              - link "سند بلاست و رنگ سالاری" [ref=e1349] [cursor=pointer]:
+                - /url: "#elementor-toc__heading-anchor-1"
+            - listitem [ref=e1350]:
+              - link "لوازم ریخته گری در شهرک صنعتی شمس آباد" [ref=e1354] [cursor=pointer]:
+                - /url: "#elementor-toc__heading-anchor-2"
+            - listitem [ref=e1355]:
+              - link "تولید کارتن های 3 لایه ، 5 لایه ، کارتن های لمینیتی ، جعبه" [ref=e1359] [cursor=pointer]:
+                - /url: "#elementor-toc__heading-anchor-3"
+            - listitem [ref=e1360]:
+              - link "نگهداری و تعمیرات صنعتگران در شمس آباد" [ref=e1364] [cursor=pointer]:
+                - /url: "#elementor-toc__heading-anchor-4"
+            - listitem [ref=e1365]:
+              - link "سفارش گیری تولید و فروش قطعات ریخته گری شمس آباد" [ref=e1369] [cursor=pointer]:
+                - /url: "#elementor-toc__heading-anchor-5"
+            - listitem [ref=e1370]:
+              - link "تولید کننده انواع سنگهای ساختمانی در شمس آباد" [ref=e1374] [cursor=pointer]:
+                - /url: "#elementor-toc__heading-anchor-6"
+            - listitem [ref=e1375]:
+              - link "تولید و طراحی و ساخت انواع رادیاتور های صنعتی در شمس آباد" [ref=e1379] [cursor=pointer]:
+                - /url: "#elementor-toc__heading-anchor-7"
+            - listitem [ref=e1380]:
+              - link "فروش کربنات کلسیم پایه pe" [ref=e1384] [cursor=pointer]:
+                - /url: "#elementor-toc__heading-anchor-8"
+            - listitem [ref=e1385]:
+              - link "صفحات کابینت با سنگ طبیعی" [ref=e1389] [cursor=pointer]:
+                - /url: "#elementor-toc__heading-anchor-9"
+            - listitem [ref=e1390]:
+              - link "تولید کننده گرانول کریستال و هایمپک و ای پی اس" [ref=e1394] [cursor=pointer]:
+                - /url: "#elementor-toc__heading-anchor-10"
+            - listitem [ref=e1395]:
+              - link "ساخت مخازن ذخیره و تحت فشار طبق استاندارد ASME , API" [ref=e1399] [cursor=pointer]:
+                - /url: "#elementor-toc__heading-anchor-11"
+            - listitem [ref=e1400]:
+              - link "اتصالات فولادی فورج" [ref=e1404] [cursor=pointer]:
+                - /url: "#elementor-toc__heading-anchor-12"
+            - listitem [ref=e1405]:
+              - link "سنگ سیاه بازالت کربن بلک" [ref=e1409] [cursor=pointer]:
+                - /url: "#elementor-toc__heading-anchor-13"
+            - listitem [ref=e1410]:
+              - link "فروش و توزیع فوم ونت تبادل گاز" [ref=e1414] [cursor=pointer]:
+                - /url: "#elementor-toc__heading-anchor-14"
+        - link [ref=e29] [cursor=pointer]:
+          - /url: https://jaigah1.com/advertisement/
+          - img "تبلیغات پر بازده ارزان" [ref=e30]
+        - list [ref=e32]:
+          - listitem [ref=e33]:
+            - generic [ref=e34]: نویسنده S0gnd
+          - listitem [ref=e35]:
+            - generic [ref=e36]:
+              - text: تاریخ
+              - time [ref=e37]: اسفند 2, 1403
+          - listitem [ref=e38]:
+            - generic [ref=e39]: نظرات
+      - link [ref=e43] [cursor=pointer]:
+        - /url: https://jaigah1.com/wp-content/uploads/2025/02/JAYGAH.1.26.jpg
+    - generic [ref=e45]:
+      - generic [ref=e47]:
+        - paragraph [ref=e48]:
+          - strong [ref=e49]: شهرک صنعتی شمس‌آباد
+          - text: به‌عنوان
+          - strong [ref=e50]: بزرگ‌ترین شهرک صنعتی ایران
+          - text: ، میزبان صدها کارخانه و واحد تولیدی در
+          - strong [ref=e51]: زمینه‌های مختلف صنعتی، غذایی، دارویی، پتروشیمی، فلزی، شیمیایی و الکترونیکی
+          - text: است. این شهرک که در
+          - strong [ref=e52]: جنوب تهران
+          - text: و در مسیر
+          - strong [ref=e53]: اتوبان تهران – قم
+          - text: قرار دارد، به دلیل
+          - strong [ref=e54]: موقعیت استراتژیک، زیرساخت‌های پیشرفته و دسترسی‌های عالی به راه‌های مواصلاتی
+          - text: ، به یکی از مهم‌ترین مراکز تولید و صادرات کشور تبدیل شده است.
+        - paragraph [ref=e55]:
+          - text: در این صفحه،
+          - strong [ref=e56]: لیست کامل کارخانه‌های فعال در شهرک صنعتی شمس‌آباد
+          - text: را مشاهده خواهید کرد. اگر به دنبال اطلاعاتی درباره
+          - strong [ref=e57]: واحدهای تولیدی، برندهای معتبر، کارخانجات فعال و نحوه همکاری با این مجموعه‌ها
+          - text: هستید، این لیست به شما کمک خواهد کرد تا بهترین گزینه‌ها را پیدا کنید.
+        - paragraph [ref=e58]:
+          - strong [ref=e59]:
+            - text: با ما در این صفحه از
+            - link "سایت ثبت آگهی" [ref=e60] [cursor=pointer]:
+              - /url: /
+            - text: جایگاه 1 همراه باشید و نگاهی دقیق به قلب تپنده صنعت ایران بیندازید!
+        - paragraph [ref=e61]:
+          - text: جهت ثبت اطلاعات کسب و کار خود در وبسایت ثبت آگهی جایگاه 1 میتوانید در واتساپ به شماره
+          - strong [ref=e62]: "09399432340"
+          - text: پیام دهید.
+        - separator [ref=e63]
+        - heading "پولیش پروفیل آلومینیوم" [level=3] [ref=e64]
+        - generic [ref=e65]: خدمات پولیش پروفیل آلومینیوم دستگیره هلالی ، ال ، یو ، لوله ، قوطی ، ریل و غیره پولیش قطعات آلومینیومی دستگاه پولیش بروز با سرعت و کیفیت بالا خمیر پولیش درجه یک
+        - generic [ref=e66]:
+          - generic [ref=e67]: "نام : هادی شقاقی"
+          - generic [ref=e68]: "اســتان : تهران"
+          - generic [ref=e69]: "شــهــر : ری"
+          - generic [ref=e70]: "آدرس : شهرک صنعتی شمس آباد ، بلوار گلستان ، گلشن 13 ، پلاک 5"
+          - generic [ref=e71]: "تـلـفــن : 021-22636816"
+        - separator [ref=e72]
+        - heading "سند بلاست و رنگ سالاری" [level=3] [ref=e73]
+        - paragraph [ref=e74]: ارائه انواع خدمات سند بلاست و رنگ در شهرک صنعتی شمس آباد با تیم تجربه بیش از 20 سال سابقه فعالیت
+        - paragraph [ref=e75]: "نام: علیرضا سالاری"
+        - paragraph [ref=e76]: "شماره تماس: 09198172054"
+        - separator [ref=e77]
+        - heading "لوازم ریخته گری در شهرک صنعتی شمس آباد" [level=3] [ref=e78]
+        - generic [ref=e79]: "عرضه عمده و خرد مواد و لوازم ریخته گری بوته های چدنی ذوب آلومینیوم آجر های نسوز کوره گرد و تخت خاک / سیمان و انواع جرم های نسوز ملاقه های چدنی / توری چدنی توری نسوز انبر های ریخته گری مواد ریخته گری : کاورال s / کاورال sn شمش_منیزیم منگنز_متال کروم_متال سیلیکون_متال قرص_ریخته_گری قرص_منگنز75% قرص_کروم 75% قرص_تیتانیوم 75% آمیژان_آلومینیوم آلومینیوم_استرانسیوم آلومینیوم_بور آلومینیوم_تیتانیوم و …"
+        - generic [ref=e80]: "نام : پارسا نریمانی"
+        - generic [ref=e81]:
+          - generic [ref=e82]: "اســتان : تهران"
+          - generic [ref=e83]: "شــهــر : شمس آباد"
+          - generic [ref=e84]: "آدرس : اتوبان تهران قم (خلیج فارس ) شهر حسن آباد ،شهرک صنعتی شمس آباد شهرک آلومینیوم کاران کوچه ی تیر شمالی"
+          - generic [ref=e85]: "تـلـفــن : 09121517683"
+        - separator [ref=e86]
+        - heading "تولید کارتن های 3 لایه ، 5 لایه ، کارتن های لمینیتی ، جعبه" [level=3] [ref=e87]
+        - paragraph [ref=e88]: تولید کننده کارتن های 3 لایه و 5 لایه با متریال با کیفیت بالا موجود ، کارتن های لمینیتی، جعبه با کیفیت و قیمت مناسب
+        - generic [ref=e89]: "نام : سمانه زهانی"
+        - generic [ref=e90]: "اســتان : تهران"
+        - generic [ref=e91]: "شــهــر : تهران"
+        - generic [ref=e92]: "آدرس : شهرک صنعتی شمس آباد"
+        - generic [ref=e93]: "تـلـفــن : 09391999291"
+        - separator [ref=e94]
+        - heading "نگهداری و تعمیرات صنعتگران در شمس آباد" [level=3] [ref=e95]
+        - paragraph [ref=e96]: نگهداری و تعمیرات انواع پرس های سبک و سنگین ( مکانیکی و هیدرولیکی) گیوتین ، لوله کشی هیدرولیکی مشاوره و طراحی و اجراء در ساخت تجهیزات صنعتی اجراء پروژه های صنعتی ، فروش لوازم یدکی و قطعات صنعتی کارشناس ارشد مکانیک ( نگهداری و تعمیرات صنعتگران )
+        - generic [ref=e97]: "نام : اصغر برزگر"
+        - generic [ref=e98]: "اســتان : تهران"
+        - generic [ref=e99]: "شــهــر : تهران"
+        - generic [ref=e100]: "آدرس : شهرک صنعتی شمس آباد"
+        - generic [ref=e101]: "تـلـفــن : 09125598007"
+        - separator [ref=e103]
+        - generic [ref=e104]:
+          - heading "سفارش گیری تولید و فروش قطعات ریخته گری شمس آباد" [level=3] [ref=e105]
+          - generic [ref=e106]: "شما میتوانید سفارش های تولید و ریخته گری قطعات چدنی، فولادی و استیل در گریدهای مختلف چدن خاکستری، نشکن، سفید، چکش خوار، چدن سفید، چدن نایهارد، فولادهای mo40, ck45 و … و قطعات استیل 304, 310, 316, 410, 20, 430 و … در ابعاد و اشکال و اوزان مختلف با کیفیت را به ما بسپارید. مزایای ما: ضمانت کیفیت امکان مرجوعی قطعه در صورت عدم رضایت در کیفیت انجام صفر تا صد فرایند از مدلسازی تا ریخته گری، ماشینکاری و عملیات حرارتی امکان تولید نمونه قطعه و سفارش گذاری پس از تائید کیفیت تولید قطعات با اوزان مختلف چند کیلویی تا اوزان بالا تحویل سریع نمونه قطعات و پایبندی در برنامه تحویل علاوه بر این شما میتوانید از خدمات مشاوره مهندسی ما در تعیین متریال، انتخاب روش درست ریخته گری، و آگاهی از شرایط تولید و ریخته گری قطعه با کیفیت با ما تماس بگیرید. تجربه بالا در ریخته گری بلوک های استیل در ابعاد بزرگ، نازل های استیل دستگاه تزریق پلاستیک، پوسته ولو استیل، فلنج های استیل، چکش های چدنی، کوبیت، بغل بند، الواتورهای آسانسور، کشویی های دستگاه برش، بست های داربست و …. شبکه متنوع و گسترده از ریخته گرانی که برای ما قطعه تولید میکنند این امکان را به ما میدهند تا قطعه شما را در کوتاهترین زمان ممکن، قیمت مناسب،با تجربه ترین تولید کننده را انتخاب کنیم بطوریکه دقیقا قطعه شما یا مشابه آن را تولید کرده است."
+          - generic [ref=e107]:
+            - generic [ref=e108]: "نام : گروه صنعتی متالکست"
+            - generic [ref=e109]: "اســتان : تهران"
+            - generic [ref=e110]: "شــهــر : تهران"
+            - generic [ref=e111]: "آدرس : کارگاه: شهرک صنعتی شمس آباددفتر: کارگر شمالی – امیرآباد – دانشکده فنی دانشگاه تهران – گروه صنعتی م"
+            - generic [ref=e112]: "تـلـفــن : 09120632620 , 021-91035590"
+        - separator [ref=e113]
+        - heading "تولید کننده انواع سنگهای ساختمانی در شمس آباد" [level=3] [ref=e114]
+        - generic [ref=e115]: تولید کننده انواع سنگهای ساختمانی. مرمریت ، دهبید ، آباده ،و تراورتن عباس آباد ،و چینی، ازنا، الیگودرز ونیریز ( تولید کننده انواع سنگهای ساختمانی )
+        - generic [ref=e116]:
+          - generic [ref=e117]: "نام : مهدی ساریخانی"
+          - generic [ref=e118]: "اســتان : تهران"
+          - generic [ref=e119]: "شــهــر : شهرک صنعتی شمس آباد"
+          - generic [ref=e120]: "آدرس : شهرک صنعتی شمس آباد بلوار بوستان گلبن ۵ پلاک ۶"
+          - generic [ref=e121]: "تـلـفــن : 09121176753"
+        - separator [ref=e122]
+        - heading "تولید و طراحی و ساخت انواع رادیاتور های صنعتی در شمس آباد" [level=3] [ref=e123]
+        - paragraph [ref=e124]: تولید و طراحی و ساخت انواع رادیاتور های صنعتی در انواع و ظرفیتهای متنوع ، با قابلیت استفاده در تجهیزات نیروگاهی ، پالایشگاه ، کارخانجات سیمان و کاشی سازی ، ژنراتور ها ، کمپرسورها و سایر ادوات و تجهیزات صنعتی مبتنی بر دانش ایرانی و تولید داخلی
+        - generic [ref=e125]: "نام : داودشکرگزار"
+        - generic [ref=e126]: "اســتان : تهران"
+        - generic [ref=e127]: "شــهــر : تهران"
+        - generic [ref=e128]: "آدرس : شهرک صنعتی شمس آباد"
+        - generic [ref=e129]: "تـلـفــن : 09213246796 , 021-56901150"
+        - separator [ref=e130]
+        - heading "فروش کربنات کلسیم پایه pe" [level=3] [ref=e131]
+        - generic [ref=e132]: شرکت پترو پلیمر ایرانیان مفتخر است آمادگی خود را در ارائه مستربچ های کربنات کلسیم پایه پلی اتیلن اعلام نماید این مواد با کیفیت از مواد نو پتروشیمی برای کاهش هزینه در عموم صنعتی پلاستیک از جمله سفره یکبار مصرف ؛ نایلون ؛ نایلکس ؛ گونی استفاده میشود
+        - generic [ref=e133]:
+          - generic [ref=e134]: "نام : پترو پلیمر ایرانیان"
+          - generic [ref=e135]: "اســتان : تهران"
+          - generic [ref=e136]: "شــهــر : تهران"
+          - generic [ref=e137]: "آدرس : شهرک صنعتی شمس آباد-بلوار بوستان-گلبن 10-پلاک 9"
+          - generic [ref=e138]: "تـلـفــن : 09122240230 , 021-56231581"
+        - separator [ref=e139]
+        - heading "صفحات کابینت با سنگ طبیعی" [level=3] [ref=e140]
+        - generic [ref=e141]:
+          - text: اجرای صفحات کابینت با سنگ طبیعی در کمترین زمان و قیمت مناسب به علت تنوع در رنگ وابزار و کیفیت بالا سنگ طبیعی گزینه برای صفحه کابینت شما میباشد از اندازه گیری تا نصب با کادری مجرب با استفاده از سنگ طبیعی برای صفحه کابینتتون یکبار هزینه کنید یک عمر استفاده ( صفحات کابینت با سنگ طبیعی )
+          - paragraph
+          - generic [ref=e142]: "نام : حسن صادقی"
+          - generic [ref=e143]: "اســتان : تهران"
+          - generic [ref=e144]: "شــهــر : تهران"
+          - generic [ref=e145]: "آدرس : شهرک صنعتی شمس اباد ,بلوار بهارستان ,خیابان خواجه نصیر شقایق۱"
+          - generic [ref=e146]: "تـلـفــن : 09198377632"
+        - separator [ref=e147]
+        - heading "تولید کننده گرانول کریستال و هایمپک و ای پی اس" [level=3] [ref=e148]
+        - generic [ref=e149]: "شرکت پاک پلیمر با سابقه درخشان تولید کننده : 1-کریستال (gpps) مواد مصرف : ظروف یکبار مصرف ، فوم xps وپنل سقفی هایمپک (hips) موارد مصرف : ظروف یکبار مصرف ،ورق پلی استایرن ای پی اس (eps) موارد مصرف : فوم xps ، قرنیز ، کف پوش ، دیوار پوش کامپاند های مختلف پلی استایرن 021-56230450-2"
+        - separator [ref=e150]
+        - heading "ساخت مخازن ذخیره و تحت فشار طبق استاندارد ASME , API" [level=3] [ref=e151]
+        - generic [ref=e152]: اهّم فعالیتهای گروه 1-ساخت عدسی مخازن (کپ ) از سایز 2 تا 72 اینچ تا ضخامت 100 میلیمتر طبق استاندارد ASME B16.9 به روش HOT FORMING 2-ساخت عدسی از سایز 600 تا 5000 میلیمتر تا ضخامت 25 میلیمتر به روش سرد 3- ساخت تبدیل هم مرکزاز 4 تا 24 اینچ به روش اکسترود و بالای 24 اینچ به روش نورد 4- ساخت انواع فلنج طبق استاندارد ASME B16.5 , B16.47A , B16.47B و DIN 5- ساخت اسپیلت تی و کلیه اتصالات جوشی به روش فورج 6- ساخت سه راهی و زانو به روش جوش 7 – ساخت u tube 8- ساخت مخازن تحت فشار و ذخیره
+        - generic [ref=e153]: "نام : رضا گلابی"
+        - generic [ref=e154]:
+          - generic [ref=e155]: "اســتان : تهران"
+          - generic [ref=e156]: "شــهــر : تهران"
+          - generic [ref=e157]: "آدرس : شمس اباد , گلستان"
+          - generic [ref=e158]:
+            - paragraph [ref=e159]: "تـلـفــن : 09125251332"
+            - separator [ref=e161]
+        - heading "اتصالات فولادی فورج" [level=3] [ref=e162]
+        - generic [ref=e163]: ساخت عدسی مخازن (کپ ) به روش گرم از سایز 1 تا 72 اینچ تا ضخامت 100 میلیمتر طبق استاندارد ASME B16.9 , ساخت فلنج از کلاس 150 تا 900 طبق استاندارد ASME B16.5 , ساخت تبدیل هم مرکز از 3 تا 64 اینچ ساخت مخازن و مبدل های حرارتی و سازه های فولادی ساخت قطعات به روش فورج
+        - generic [ref=e164]:
+          - generic [ref=e165]: "نام : رضا گلابی"
+          - generic [ref=e166]: "اســتان : تهران"
+          - generic [ref=e167]: "شــهــر : تهران"
+          - generic [ref=e168]: "آدرس : شمس اباد , بلوار گلستان , گلشن , پلاک 11"
+          - generic [ref=e169]: "تـلـفــن : 09125251332"
+        - separator [ref=e170]
+        - heading "سنگ سیاه بازالت کربن بلک" [level=3] [ref=e171]
+        - paragraph [ref=e172]: گروه آرک استون یک شرکت برجسته در زمینه تولید و صادرات سنگ‌های طبیعی است. این گروه با داشتن تخصص در فرآوری و تولید انواع سنگ‌های طبیعی ساختمانی، در زمینه‌های مختلف معماری و ساختمانی فعالیت می‌کند. از طریق بهره‌گیری از تکنولوژی‌های پیشرفته و تیم ماهر تخصصی، آرک استون توانسته است محصولاتی متنوع با استانداردهای بالا را تولید کرده و به کشورهای مختلف جهان صادر کند. ارتباطات بین‌المللی، کیفیت محصولات و توجه به نیازهای مشتریان، این گروه را به یک بازیگر برجسته در عرصه تولید و صادرات سنگ‌های طبیعی تبدیل کرده است.
+        - generic [ref=e173]: "نام : محمد رضا ارواحی"
+        - generic [ref=e174]: "اســتان : تهران"
+        - generic [ref=e175]: "شــهــر : تهران"
+        - generic [ref=e176]: "آدرس : شهرک صنعتی شمس آباد بلوار بوستان گلبن 13"
+        - generic [ref=e177]: "تـلـفــن : 09121197939 , 021-56230470"
+        - separator [ref=e178]
+        - heading "فروش و توزیع فوم ونت تبادل گاز" [level=3] [ref=e179]
+        - paragraph [ref=e180]:
+          - generic [ref=e181]: فروش و توزیع فوم ونت تبادل گاز فوم ونت پلی اتیلن (دهانه 55) ، جهت خروج و تبادل گاز محصولاتی که تولید یا انتشار گاز دارند. (مخصوص درب گالن های 20 لیتری) این اکسسوری کاربردی، به منظور جلوگیری از تغییر شکل ظروف پلاستیکی کاربرد دارد. فشار گاز مایع و یا خلأ بالا سبب تغییر شکل ظروف پلاستیکی شده، در نتیجه این محصول با قابلیت خروج گاز و تبادل هوا از دفُرمگی و تغییر شکل ظروف جلوگیری می کند. فومِ ونت دار پلی اتیلن فوم خروج گاز فوم ونت تبادل گاز ونت بسته بندی در تعداد محدود همراه با گارانتی مرجوعی کالا راه حلی کاملا اقتصادی برای تولیدکنندگانی که محصول شان گاز تولید می کند.
+        - paragraph [ref=e182]: "نام : زرپلاست"
+        - generic [ref=e183]:
+          - generic [ref=e184]: "اســتان : تهران"
+          - generic [ref=e185]: "شــهــر : تهران"
+          - generic [ref=e186]: "آدرس : اتوبان تهران قم ، شهرک صنعتی شمس آباد"
+          - link "چت واتساپ" [ref=e188] [cursor=pointer]:
+            - /url: https://web.whatsapp.com/
+        - paragraph [ref=e189]: "فایل لیست شرکت های شهرک صنعتی شمس آباد:"
+        - paragraph [ref=e190]:
+          - link [ref=e191] [cursor=pointer]:
+            - /url: http://11824OC8yMy8yMDE2IDEyOjAwOjAwIEFNNTQ1.pdf
+            - strong [ref=e192]: کلیک کنید
+        - generic [ref=e193]:
+          - generic [ref=e194]:
+            - generic [ref=e195]:
+              - generic [ref=e196] [cursor=pointer]
+              - generic [ref=e198] [cursor=pointer]
+              - generic [ref=e200] [cursor=pointer]
+              - generic [ref=e202] [cursor=pointer]
+              - generic [ref=e204] [cursor=pointer]
+            - generic:
+              - generic [ref=e206] [cursor=pointer]
+              - generic [ref=e208] [cursor=pointer]
+              - generic [ref=e210] [cursor=pointer]
+              - generic [ref=e212] [cursor=pointer]
+              - generic [ref=e214] [cursor=pointer]
+          - generic [ref=e216]: به این مطلب امتیاز دهید
+      - generic [ref=e217]:
+        - heading "لینک های مرتبط" [level=6] [ref=e219]
+        - list [ref=e221]:
+          - listitem [ref=e222]
+          - listitem [ref=e223]
+          - listitem [ref=e224]
+          - listitem [ref=e225]
+          - listitem [ref=e226]
+          - listitem
+        - heading "محله های مرتبط" [level=6] [ref=e228]
+        - list [ref=e230]:
+          - listitem [ref=e231]
+          - listitem [ref=e232]
+          - listitem [ref=e233]
+          - listitem [ref=e234]
+          - listitem [ref=e235]
+          - listitem
+        - link [ref=e237] [cursor=pointer]:
+          - /url: http://100
+          - img "تبلیغات پر بازده ارزان" [ref=e238]
+        - list [ref=e240]:
+          - listitem [ref=e241]:
+            - link "جایگاه تبلیغ لینک سایدباری 1" [ref=e242] [cursor=pointer]:
+              - /url: https://jaigah1.com/advertisement/
+          - listitem [ref=e244]:
+            - link "جایگاه تبلیغ لینک سایدباری 2" [ref=e245] [cursor=pointer]:
+              - /url: https://jaigah1.com/advertisement/
+          - listitem [ref=e247]:
+            - link "جایگاه تبلیغ لینک سایدباری 3" [ref=e248] [cursor=pointer]:
+              - /url: https://jaigah1.com/advertisement/
+          - listitem [ref=e250]:
+            - link "جایگاه تبلیغ لینک سایدباری 4" [ref=e251] [cursor=pointer]:
+              - /url: https://jaigah1.com/advertisement/
+        - heading "مقالات مرتبط" [level=6] [ref=e254]
+        - list [ref=e257]:
+          - listitem [ref=e258]:
+            - heading [level=6] [ref=e260]:
+              - link "دندانپزشکی طرف قرارداد بیمه پارسیان شرق تهران" [ref=e261] [cursor=pointer]:
+                - /url: https://jaigah1.com/7456/
+          - listitem [ref=e262]:
+            - link [ref=e263] [cursor=pointer]:
+              - /url: https://jaigah1.com/8245/
+              - img "بیمارستان عرفان" [ref=e265]
+            - heading [level=6] [ref=e267]:
+              - link "بیمه های طرف قرارداد بیمارستان عرفان نیایش" [ref=e268] [cursor=pointer]:
+                - /url: https://jaigah1.com/8245/
+          - listitem [ref=e269]:
+            - link [ref=e270] [cursor=pointer]:
+              - /url: https://jaigah1.com/10319/
+            - heading [level=6] [ref=e273]:
+              - link "دندانپزشکی طرف قرارداد بیمه پارسیان در شهر قدس" [ref=e274] [cursor=pointer]:
+                - /url: https://jaigah1.com/10319/
+          - listitem [ref=e275]:
+            - link [ref=e276] [cursor=pointer]:
+              - /url: https://jaigah1.com/11452/
+              - img "دندانپزشکان طرف قرارداد بیمه دانا در تهران" [ref=e278]
+            - heading [level=6] [ref=e280]:
+              - link "دندانپزشکان طرف قرارداد بیمه دانا در تهران" [ref=e281] [cursor=pointer]:
+                - /url: https://jaigah1.com/11452/
+          - listitem [ref=e282]:
+            - link [ref=e283] [cursor=pointer]:
+              - /url: https://jaigah1.com/11450/
+              - img "مراکز دندانپزشکی طرف قرارداد بیمه دانا در کرج" [ref=e285]
+            - heading [level=6] [ref=e287]:
+              - link "مراکز دندانپزشکی طرف قرارداد بیمه دانا در کرج" [ref=e288] [cursor=pointer]:
+                - /url: https://jaigah1.com/11450/
+          - listitem [ref=e289]:
+            - heading [level=6] [ref=e291]:
+              - link "دندانپزشک طرف قرارداد بیمه پارسیان کرج" [ref=e292] [cursor=pointer]:
+                - /url: https://jaigah1.com/12383/
+    - list [ref=e299]:
+      - listitem [ref=e300]:
+        - link [ref=e301] [cursor=pointer]:
+          - /url: https://jaigah1.com/20395/
+          - img "دندانپزشکی تامین اجتماعی شرق تهران" [ref=e303]
+        - generic [ref=e304]:
+          - heading [level=6] [ref=e305]:
+            - link "دندانپزشکی تامین اجتماعی شرق تهران" [ref=e306] [cursor=pointer]:
+              - /url: https://jaigah1.com/20395/
+          - generic [ref=e307]: شهریور 3, 1405 بدون دیدگاه
+          - link "مطالعه بیشتر درباره دندانپزشکی تامین اجتماعی شرق تهران" [ref=e309] [cursor=pointer]:
+            - /url: https://jaigah1.com/20395/
+            - text: اطلاعات بیشتر »
+      - listitem [ref=e310]:
+        - link [ref=e311] [cursor=pointer]:
+          - /url: https://jaigah1.com/20350/
+        - generic [ref=e313]:
+          - heading [level=6] [ref=e314]:
+            - link "اسم کوچه‌های نیاوران؛ فهرست معابر نیاوران تهران" [ref=e315] [cursor=pointer]:
+              - /url: https://jaigah1.com/20350/
+          - generic [ref=e316]: شهریور 2, 1405 بدون دیدگاه
+          - link "مطالعه بیشتر درباره اسم کوچه‌های نیاوران؛ فهرست معابر نیاوران تهران" [ref=e318] [cursor=pointer]:
+            - /url: https://jaigah1.com/20350/
+            - text: اطلاعات بیشتر »
+      - listitem [ref=e319]:
+        - generic [ref=e320]:
+          - heading [level=6] [ref=e321]:
+            - link "اسم کوچه های زعفرانیه تهران" [ref=e322] [cursor=pointer]:
+              - /url: https://jaigah1.com/11141/
+          - generic [ref=e323]: اردیبهشت 20, 1404 بدون دیدگاه
+          - link "مطالعه بیشتر درباره اسم کوچه های زعفرانیه تهران" [ref=e325] [cursor=pointer]:
+            - /url: https://jaigah1.com/11141/
+            - text: اطلاعات بیشتر »
+      - listitem [ref=e326]:
+        - generic [ref=e327]:
+          - heading [level=6] [ref=e328]:
+            - link "دندانپزشکی طرف قرارداد بیمه پارسیان شرق تهران" [ref=e329] [cursor=pointer]:
+              - /url: https://jaigah1.com/7456/
+          - generic [ref=e330]: دی 18, 1403 بدون دیدگاه
+          - link "مطالعه بیشتر درباره دندانپزشکی طرف قرارداد بیمه پارسیان شرق تهران" [ref=e332] [cursor=pointer]:
+            - /url: https://jaigah1.com/7456/
+            - text: اطلاعات بیشتر »
+      - listitem [ref=e333]:
+        - link [ref=e334] [cursor=pointer]:
+          - /url: https://jaigah1.com/8245/
+          - img "بیمارستان عرفان" [ref=e336]
+        - generic [ref=e337]:
+          - heading [level=6] [ref=e338]:
+            - link "بیمه های طرف قرارداد بیمارستان عرفان نیایش" [ref=e339] [cursor=pointer]:
+              - /url: https://jaigah1.com/8245/
+          - generic [ref=e340]: بهمن 18, 1403 بدون دیدگاه
+          - link "مطالعه بیشتر درباره بیمه های طرف قرارداد بیمارستان عرفان نیایش" [ref=e342] [cursor=pointer]:
+            - /url: https://jaigah1.com/8245/
+            - text: اطلاعات بیشتر »
+      - listitem [ref=e343]:
+        - link [ref=e344] [cursor=pointer]:
+          - /url: https://jaigah1.com/10319/
+        - generic [ref=e346]:
+          - heading [level=6] [ref=e347]:
+            - link "دندانپزشکی طرف قرارداد بیمه پارسیان در شهر قدس" [ref=e348] [cursor=pointer]:
+              - /url: https://jaigah1.com/10319/
+          - generic [ref=e349]: فروردین 24, 1404 بدون دیدگاه
+          - link "مطالعه بیشتر درباره دندانپزشکی طرف قرارداد بیمه پارسیان در شهر قدس" [ref=e351] [cursor=pointer]:
+            - /url: https://jaigah1.com/10319/
+            - text: اطلاعات بیشتر »
+      - listitem [ref=e352]:
+        - link [ref=e353] [cursor=pointer]:
+          - /url: https://jaigah1.com/11452/
+          - img "دندانپزشکان طرف قرارداد بیمه دانا در تهران" [ref=e355]
+        - generic [ref=e356]:
+          - heading [level=6] [ref=e357]:
+            - link "دندانپزشکان طرف قرارداد بیمه دانا در تهران" [ref=e358] [cursor=pointer]:
+              - /url: https://jaigah1.com/11452/
+          - generic [ref=e359]: اردیبهشت 29, 1404 بدون دیدگاه
+          - link "مطالعه بیشتر درباره دندانپزشکان طرف قرارداد بیمه دانا در تهران" [ref=e361] [cursor=pointer]:
+            - /url: https://jaigah1.com/11452/
+            - text: اطلاعات بیشتر »
+      - listitem [ref=e362]:
+        - link [ref=e363] [cursor=pointer]:
+          - /url: https://jaigah1.com/11450/
+          - img "مراکز دندانپزشکی طرف قرارداد بیمه دانا در کرج" [ref=e365]
+        - generic [ref=e366]:
+          - heading [level=6] [ref=e367]:
+            - link "مراکز دندانپزشکی طرف قرارداد بیمه دانا در کرج" [ref=e368] [cursor=pointer]:
+              - /url: https://jaigah1.com/11450/
+          - generic [ref=e369]: شهریور 2, 1405 بدون دیدگاه
+          - link "مطالعه بیشتر درباره مراکز دندانپزشکی طرف قرارداد بیمه دانا در کرج" [ref=e371] [cursor=pointer]:
+            - /url: https://jaigah1.com/11450/
+            - text: اطلاعات بیشتر »
+    - generic [ref=e373]:
+      - generic [ref=e375]:
+        - generic [ref=e376]: لیست خدمات آموزش
+        - list [ref=e378]:
+          - listitem [ref=e379]:
+            - link [ref=e380] [cursor=pointer]:
+              - /url: /ads-cat/آموزش/
+              - strong [ref=e381]: آموزش
+          - listitem [ref=e382]:
+            - link [ref=e383] [cursor=pointer]:
+              - /url: /ads-cat/آموزش/آموزش-موسیقی/
+              - strong [ref=e384]: آموزش موسیقی
+          - listitem [ref=e385]:
+            - strong [ref=e386]:
+              - link "آموزش تعمیرات" [ref=e387] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-تعمیرات/
+          - listitem [ref=e388]:
+            - strong [ref=e389]:
+              - link "آموزش زبان" [ref=e390] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-زبان/
+          - listitem [ref=e391]:
+            - strong [ref=e392]:
+              - link "آموزش گیتار" [ref=e393] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-موسیقی/آموزش-گیتار/
+          - listitem [ref=e394]:
+            - strong [ref=e395]:
+              - link "آموزش فلوت" [ref=e396] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-موسیقی/آموزش-فلوت/
+          - listitem [ref=e397]:
+            - strong [ref=e398]:
+              - link "آموزش پیانو" [ref=e399] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-موسیقی/آموزش-پیانو/
+          - listitem [ref=e400]:
+            - strong [ref=e401]:
+              - link "آموزش کیبورد" [ref=e402] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-موسیقی/آموزش-کیبورد/
+          - listitem [ref=e403]:
+            - strong [ref=e404]:
+              - link "آموزش سه تار" [ref=e405] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-موسیقی/آموزش-سه-تار/
+          - listitem [ref=e406]:
+            - strong [ref=e407]:
+              - link "آموزش تنبک" [ref=e408] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-موسیقی/آموزش-تنبک/
+          - listitem [ref=e409]:
+            - strong [ref=e410]:
+              - link "آموزش هنگ درام" [ref=e411] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-موسیقی/آموزش-هنگ-درام/
+          - listitem [ref=e412]:
+            - strong [ref=e413]:
+              - link "آموزش ویولنسل" [ref=e414] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-موسیقی/آموزش-ویولنسل/
+          - listitem [ref=e415]:
+            - strong [ref=e416]:
+              - link "آموزش سنتور" [ref=e417] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-موسیقی/آموزش-سنتور/
+          - listitem [ref=e418]:
+            - strong [ref=e419]:
+              - link "آموزش کالیمبا" [ref=e420] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-موسیقی/آموزش-کالیمبا/
+          - listitem [ref=e421]:
+            - strong [ref=e422]:
+              - link "آموزش کمانچه" [ref=e423] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-موسیقی/آموزش-کمانچه/
+          - listitem [ref=e424]:
+            - strong [ref=e425]:
+              - link "آموزش ویولن" [ref=e426] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-موسیقی/آموزش-ویولن/
+          - listitem [ref=e427]:
+            - strong [ref=e428]:
+              - link "آموزش سازدهنی" [ref=e429] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-موسیقی/آموزش-سازدهنی/
+          - listitem [ref=e430]:
+            - strong [ref=e431]:
+              - link "آموزش تار" [ref=e432] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-موسیقی/آموزش-تار/
+          - listitem [ref=e433]:
+            - strong [ref=e434]:
+              - link "آموزش دف" [ref=e435] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-موسیقی/آموزش-دف/
+          - listitem [ref=e436]:
+            - strong [ref=e437]:
+              - link "آموزش آکاردئون" [ref=e438] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-موسیقی/آموزش-آکاردئون/
+          - listitem [ref=e439]:
+            - strong [ref=e440]:
+              - link "آموزش تعمیرات موبایل" [ref=e441] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-تعمیرات/آموزش-تعمیرات-موبایل/
+          - listitem [ref=e442]:
+            - strong [ref=e443]:
+              - link "آموزش تعمیرات لپ تاپ" [ref=e444] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-تعمیرات/آموزش-تعمیرات-لپ-تاپ/
+          - listitem [ref=e445]:
+            - strong [ref=e446]:
+              - link "آموزش تعمیرات ایسیو" [ref=e447] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-تعمیرات/آموزش-تعمیرات-ایسیو/
+          - listitem [ref=e448]:
+            - strong [ref=e449]:
+              - link "آموزش تعمیرات برد الکترونیکی" [ref=e450] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-تعمیرات/آموزش-تعمیرات-برد-الکترونیکی/
+          - listitem [ref=e451]:
+            - strong [ref=e452]:
+              - link "آموزش تعمیرات قهوه ساز" [ref=e453] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-تعمیرات/آموزش-تعمیرات-قهوه-ساز/
+          - listitem [ref=e454]:
+            - strong [ref=e455]:
+              - link "آموزش تعمیرات کولر گازی" [ref=e456] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-تعمیرات/آموزش-تعمیرات-کولر-گازی/
+          - listitem [ref=e457]:
+            - strong [ref=e458]:
+              - link "آموزش تعمیرات موتور سیکلت" [ref=e459] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-تعمیرات/آموزش-تعمیرات-موتور-سیکلت/
+          - listitem [ref=e460]:
+            - strong [ref=e461]:
+              - link "آموزش تعمیرات لوازم خانگی" [ref=e462] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-تعمیرات/آموزش-تعمیرات-لوازم-خانگی/
+          - listitem [ref=e463]:
+            - strong [ref=e464]:
+              - link "آموزش تعمیرات پکیج" [ref=e465] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-تعمیرات/آموزش-تعمیرات-پکیج/
+          - listitem [ref=e466]:
+            - strong [ref=e467]:
+              - link "آموزش تعمیرات پرینتر" [ref=e468] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-تعمیرات/آموزش-تعمیرات-پرینتر/
+          - listitem [ref=e469]:
+            - strong [ref=e470]:
+              - link "آموزشگاه نقاشی خودرو" [ref=e471] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-تعمیرات/آموزشگاه-نقاشی-خودرو/
+          - listitem [ref=e472]:
+            - strong [ref=e473]:
+              - link "آموزش زبان انگلیسی" [ref=e474] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-زبان/آموزش-زبان-انگلیسی/
+          - listitem [ref=e475]:
+            - strong [ref=e476]:
+              - link "آموزش زبان آلمانی" [ref=e477] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-زبان/آموزش-زبان-آلمانی/
+          - listitem [ref=e478]:
+            - strong [ref=e479]:
+              - link "آموزش زبان فرانسوی" [ref=e480] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-زبان/آموزش-زبان-فرانسوی/
+          - listitem [ref=e481]:
+            - strong [ref=e482]:
+              - link "آموزش زبان روسیه ای" [ref=e483] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-زبان/آموزش-زبان-روسیه-ای/
+          - listitem [ref=e484]:
+            - strong [ref=e485]:
+              - link "آموزش زبان چینی" [ref=e486] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-زبان/آموزش-زبان-چینی/
+          - listitem [ref=e487]:
+            - link [ref=e488] [cursor=pointer]:
+              - /url: /ads-cat/آموزش/آموزش-زبان/آموزش-زبان-کره-ای/
+              - strong [ref=e489]: آموزش زبان کره ای
+          - listitem [ref=e490]:
+            - link "آموزش زبان ترکی استانبولی" [ref=e491] [cursor=pointer]:
+              - /url: /ads-cat/آموزش/آموزش-زبان/آموزش-زبان-ترکی-استانبولی/
+          - listitem [ref=e492]:
+            - link [ref=e493] [cursor=pointer]:
+              - /url: /ads-cat/آموزش/آموزش-زبان/آموزش-زبان-عربی/
+              - strong [ref=e494]: آموزش زبان عربی
+          - listitem [ref=e495]:
+            - strong [ref=e496]:
+              - link "آموزش زبان اسپانیای" [ref=e497] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-زبان/آموزش-زبان-اسپانیای/
+          - listitem [ref=e498]:
+            - strong [ref=e499]:
+              - link "آموزش زبان ایتالیایی" [ref=e500] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-زبان/آموزش-زبان-ایتالیایی/
+          - listitem [ref=e501]:
+            - strong [ref=e502]:
+              - link "آموزش زبان هندی" [ref=e503] [cursor=pointer]:
+                - /url: /ads-cat/آموزش/آموزش-زبان/آموزش-زبان-هندی/
+          - listitem [ref=e504]:
+            - link [ref=e505] [cursor=pointer]:
+              - /url: https://jaigah1.com/ads-tags/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DA%AF%D8%A7%D9%87-%D8%B2%D8%A8%D8%A7%D9%86-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86/
+              - strong [ref=e506]: آموزشگاه زبان در تهران
+          - listitem [ref=e507]:
+            - link [ref=e508] [cursor=pointer]:
+              - /url: https://jaigah1.com/ads-tags/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B2%D8%A8%D8%A7%D9%86-%DA%A9%D9%88%D8%AF%DA%A9%D8%A7%D9%86-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86/
+              - strong [ref=e509]: آموزش زبان کودکان در تهران
+          - listitem [ref=e510]:
+            - link [ref=e511] [cursor=pointer]:
+              - /url: https://jaigah1.com/ads-tags/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DA%AF%D8%A7%D9%87-%D8%AA%D8%B9%D9%85%DB%8C%D8%B1%D8%A7%D8%AA-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%AA%D9%87%D8%B1%D8%A7%D9%86/
+              - strong [ref=e512]: آموزشگاه تعمیرات موبایل تهران
+          - listitem [ref=e513]:
+            - link [ref=e514] [cursor=pointer]:
+              - /url: https://jaigah1.com/ads-tags/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DA%AF%D8%A7%D9%87-%D8%B2%D8%A8%D8%A7%D9%86-%D8%A2%D9%84%D9%85%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86/
+              - strong [ref=e515]: آموزشگاه زبان آلمانی در تهران
+          - listitem [ref=e516]:
+            - link [ref=e517] [cursor=pointer]:
+              - /url: https://jaigah1.com/ads-tags/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DA%AF%D8%A7%D9%87-%D8%B2%D8%A8%D8%A7%D9%86-%D8%A8%D9%84%D9%88%D8%A7%D8%B1-%D9%81%D8%B1%D8%AF%D9%88%D8%B3/
+              - strong [ref=e518]: آموزشگاه زبان بلوار فردوس
+          - listitem [ref=e519]:
+            - link [ref=e520] [cursor=pointer]:
+              - /url: https://jaigah1.com/ads-tags/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DA%AF%D8%A7%D9%87-%D8%B2%D8%A8%D8%A7%D9%86-%DA%86%DB%8C%D9%86%DB%8C-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86/
+              - strong [ref=e521]: آموزشگاه زبان چینی در تهران
+          - listitem [ref=e522]:
+            - link [ref=e523] [cursor=pointer]:
+              - /url: https://jaigah1.com/ads-tags/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DA%AF%D8%A7%D9%87-%D8%B2%D8%A8%D8%A7%D9%86-%D8%AF%D8%B1-%D8%AA%D8%AC%D8%B1%DB%8C%D8%B4/
+              - strong [ref=e524]: آموزشگاه زبان در تجریش
+          - listitem [ref=e525]:
+            - link [ref=e526] [cursor=pointer]:
+              - /url: https://jaigah1.com/ads-tags/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DA%AF%D8%A7%D9%87-%D8%B2%D8%A8%D8%A7%D9%86-%D8%AF%D8%B1-%D9%85%DB%8C%D8%B1%D8%AF%D8%A7%D9%85%D8%A7%D8%AF/
+              - strong [ref=e527]: آموزشگاه زبان در میرداماد
+      - generic [ref=e529]:
+        - generic [ref=e530]: لیست خدمات ساختمانی
+        - list [ref=e532]:
+          - listitem [ref=e533]:
+            - strong [ref=e534]:
+              - link "خدمات ساختمانی" [ref=e535] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86%db%8c/
+          - listitem [ref=e536]:
+            - strong [ref=e537]:
+              - link "نقاشی ساختمان" [ref=e538] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86%db%8c/%d9%86%d9%82%d8%a7%d8%b4%db%8c-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86/
+          - listitem [ref=e539]:
+            - strong [ref=e540]:
+              - link "بازسازی ساختمان" [ref=e541] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86%db%8c/%d8%a8%d8%a7%d8%b2%d8%b3%d8%a7%d8%b2%db%8c-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86/
+          - listitem [ref=e542]:
+            - strong [ref=e543]:
+              - link "لوله کشی" [ref=e544] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86%db%8c/%d9%84%d9%88%d9%84%d9%87-%da%a9%d8%b4%db%8c/
+          - listitem [ref=e545]:
+            - strong [ref=e546]:
+              - link "گچ کاری" [ref=e547] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86%db%8c/%da%af%da%86-%da%a9%d8%a7%d8%b1%db%8c/
+          - listitem [ref=e548]:
+            - strong [ref=e549]:
+              - link "سیمانکاری" [ref=e550] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86%db%8c/%d8%b3%db%8c%d9%85%d8%a7%d9%86%da%a9%d8%a7%d8%b1%db%8c/
+          - listitem [ref=e551]:
+            - strong [ref=e552]:
+              - link "کابینت کاری" [ref=e553] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86%db%8c/%da%a9%d8%a7%d8%a8%db%8c%d9%86%d8%aa-%da%a9%d8%a7%d8%b1%db%8c/
+          - listitem [ref=e554]:
+            - strong [ref=e555]:
+              - link "کناف کار" [ref=e556] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86%db%8c/%da%a9%d9%86%d8%a7%d9%81-%da%a9%d8%a7%d8%b1/
+          - listitem [ref=e557]:
+            - strong [ref=e558]:
+              - link "سرامیک کار" [ref=e559] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86%db%8c/%d8%b3%d8%b1%d8%a7%d9%85%db%8c%da%a9-%da%a9%d8%a7%d8%b1/
+          - listitem [ref=e560]:
+            - strong [ref=e561]:
+              - link "سنگ کار" [ref=e562] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86%db%8c/%d8%b3%d9%86%da%af-%da%a9%d8%a7%d8%b1/
+          - listitem [ref=e563]:
+            - strong [ref=e564]:
+              - link "کاشی کار" [ref=e565] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86%db%8c/%da%a9%d8%a7%d8%b4%db%8c-%da%a9%d8%a7%d8%b1/
+          - listitem [ref=e566]:
+            - strong [ref=e567]:
+              - link "آرماتور بند" [ref=e568] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86%db%8c/%d8%a2%d8%b1%d9%85%d8%a7%d8%aa%d9%88%d8%b1-%d8%a8%d9%86%d8%af/
+          - listitem [ref=e569]:
+            - strong [ref=e570]:
+              - link "لوله بازکنی" [ref=e571] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86%db%8c/%d9%84%d9%88%d9%84%d9%87-%d8%a8%d8%a7%d8%b2%da%a9%d9%86%db%8c/
+          - listitem [ref=e572]:
+            - strong [ref=e573]:
+              - link "برق کشی ساختمان" [ref=e574] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86%db%8c/%d8%a8%d8%b1%d9%82-%da%a9%d8%b4%db%8c-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86/
+          - listitem [ref=e575]:
+            - strong [ref=e576]:
+              - link "داربست" [ref=e577] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86%db%8c/%d8%af%d8%a7%d8%b1%d8%a8%d8%b3%d8%aa/
+          - listitem [ref=e578]:
+            - strong [ref=e579]:
+              - link "نقشه برداری ساختمان" [ref=e580] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86%db%8c/%d9%86%d9%82%d8%b4%d9%87-%d8%a8%d8%b1%d8%af%d8%a7%d8%b1%db%8c-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86/
+      - generic [ref=e582]:
+        - generic [ref=e583]: لیست خدمات تعمیرات
+        - list [ref=e585]:
+          - listitem [ref=e586]:
+            - link [ref=e587] [cursor=pointer]:
+              - /url: /ads-tags/خدمات-تعمیرات-در-تهران/
+              - strong [ref=e588]: خدمات تعمیرات در تهران
+          - listitem [ref=e589]:
+            - link [ref=e590] [cursor=pointer]:
+              - /url: /ads-tags/تعمیرات-لباسشویی-سامسونگ/
+              - strong [ref=e591]: تعمیرات لباسشویی سامسونگ
+          - listitem [ref=e592]:
+            - link [ref=e593] [cursor=pointer]:
+              - /url: /ads-tags/تعمیرات-لباسشویی-حایر/
+              - strong [ref=e594]: تعمیرات لباسشویی حایر
+          - listitem [ref=e595]:
+            - link [ref=e596] [cursor=pointer]:
+              - /url: /ads-tags/تعمیرات-لباسشویی-اسنوا/
+              - strong [ref=e597]: تعمیرات لباسشویی اسنوا
+          - listitem [ref=e598]:
+            - link [ref=e599] [cursor=pointer]:
+              - /url: /ads-tags/تعمیرات-لباسشویی-ال-جی/
+              - strong [ref=e600]: تعمیرات لباسشویی ال جی
+          - listitem [ref=e601]:
+            - strong [ref=e602]:
+              - link "تعمیرات لباسشویی آبسال" [ref=e603] [cursor=pointer]:
+                - /url: /ads-tags/تعمیرات-لباسشویی-آبسال/
+          - listitem [ref=e604]:
+            - link [ref=e605] [cursor=pointer]:
+              - /url: /ads-tags/تعمیرات-کولر-گازی-در-تهران/
+              - strong [ref=e606]: تعمیرات کولر گازی در تهران
+          - listitem [ref=e607]:
+            - link [ref=e608] [cursor=pointer]:
+              - /url: /ads-tags/تعمیرات-کولر-گازی-شمال-تهران/
+              - strong [ref=e609]: تعمیرات کولر گازی شمال تهران
+          - listitem [ref=e610]:
+            - link [ref=e611] [cursor=pointer]:
+              - /url: https://jaigah1.com/ads-tags/%D8%AA%D8%B9%D9%85%DB%8C%D8%B1%D8%A7%D8%AA-%DA%A9%D9%88%D9%84%D8%B1-%DA%AF%D8%A7%D8%B2%DB%8C-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86/
+              - strong [ref=e612]: تعمیرات کولرگازی در تهران
+          - listitem [ref=e613]:
+            - link [ref=e614] [cursor=pointer]:
+              - /url: https://jaigah1.com/ads-tags/%D8%AA%D8%B9%D9%85%DB%8C%D8%B1%D8%A7%D8%AA-%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D8%AA%D9%87%D8%B1%D8%A7%D9%86/
+              - strong [ref=e615]: تعمیرات تلویزیون سامسونگ تهران
+          - listitem [ref=e616]:
+            - link [ref=e617] [cursor=pointer]:
+              - /url: https://jaigah1.com/ads-tags/%D8%AA%D8%B9%D9%85%DB%8C%D8%B1%D8%A7%D8%AA-%DA%A9%D9%88%D9%84%D8%B1-%DA%AF%D8%A7%D8%B2%DB%8C-%D8%B4%D9%85%D8%A7%D9%84-%D8%AA%D9%87%D8%B1%D8%A7%D9%86/
+              - strong [ref=e618]: تعمیرات کولر گازی شمال تهران
+          - listitem [ref=e619]:
+            - link [ref=e620] [cursor=pointer]:
+              - /url: /ads-tags/تعمیرات-یخچال-در-تهران/
+              - strong [ref=e621]: تعمیرات یخچال در تهران
+          - listitem [ref=e622]:
+            - link [ref=e623] [cursor=pointer]:
+              - /url: /ads-tags/تعمیرات-یخچال-در-غرب-تهران/
+              - strong [ref=e624]: تعمیرات یخچال در غرب تهران
+          - listitem [ref=e625]:
+            - link [ref=e626] [cursor=pointer]:
+              - /url: /ads-tags/تعمیرات-یخچال-در-شمال-تهران/
+              - strong [ref=e627]: تعمیرات یخچال در شمال تهران
+          - listitem [ref=e628]:
+            - link [ref=e629] [cursor=pointer]:
+              - /url: /ads-tags/تعمیرات-یخچال-در-شرق-تهران/
+              - strong [ref=e630]: تعمیرات یخچال در شرق تهران
+          - listitem [ref=e631]:
+            - link [ref=e632] [cursor=pointer]:
+              - /url: /ads-tags/تعمیرات-یخچال-در-جنوب-تهران/
+              - strong [ref=e633]: تعمیرات یخچال در جنوب تهران
+          - listitem [ref=e634]:
+            - link [ref=e635] [cursor=pointer]:
+              - /url: /ads-tags/تعمیرات-یخچال-در-تهرانسر/
+              - strong [ref=e636]: تعمیرات یخچال در تهرانسر
+          - listitem [ref=e637]:
+            - link [ref=e638] [cursor=pointer]:
+              - /url: /ads-tags/تعمیرات-یخچال-در-تهرانپارس/
+              - strong [ref=e639]: تعمیرات یخچال در تهرانپارس
+          - listitem [ref=e640]:
+            - link [ref=e641] [cursor=pointer]:
+              - /url: /ads-tags/تعمیرات-یخچال-در-اسلامشهر/
+              - strong [ref=e642]: تعمیرات یخچال در اسلامشهر
+          - listitem [ref=e643]:
+            - link [ref=e644] [cursor=pointer]:
+              - /url: /ads-tags/تعمیرات-مبل/
+              - strong [ref=e645]: تعمیرات مبل
+    - generic [ref=e647]:
+      - generic [ref=e649]:
+        - generic [ref=e650]: امداد خودرو
+        - list [ref=e652]:
+          - listitem [ref=e653]:
+            - strong [ref=e655]:
+              - link "امداد خودرو" [ref=e656] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/
+          - listitem [ref=e657]:
+            - strong [ref=e659]:
+              - link "امداد خودرو سایپا" [ref=e660] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%b3%d8%a7%db%8c%d9%be%d8%a7/
+          - listitem [ref=e661]:
+            - strong [ref=e663]:
+              - link "امداد خودرو اطلس" [ref=e664] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%b3%d8%a7%db%8c%d9%be%d8%a7/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%a7%d8%b7%d9%84%d8%b3/
+          - listitem [ref=e665]:
+            - strong [ref=e667]:
+              - link "امداد خودرو ایران خودرو" [ref=e668] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%a7%db%8c%d8%b1%d8%a7%d9%86-%d8%ae%d9%88%d8%af%d8%b1%d9%88/
+          - listitem [ref=e669]:
+            - strong [ref=e671]:
+              - link "امداد خودرو فونیکس" [ref=e672] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d9%81%d9%88%d9%86%db%8c%da%a9%d8%b3/
+          - listitem [ref=e673]:
+            - strong [ref=e675]:
+              - link "امداد خودرو مدیران خودرو MVM" [ref=e676] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d9%85%d8%af%db%8c%d8%b1%d8%a7%d9%86-%d8%ae%d9%88%d8%af%d8%b1%d9%88-mvm/
+          - listitem [ref=e677]:
+            - strong [ref=e679]:
+              - link "امداد خودرو کرمان موتور" [ref=e680] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%da%a9%d8%b1%d9%85%d8%a7%d9%86-%d9%85%d9%88%d8%aa%d9%88%d8%b1/
+          - listitem [ref=e681]:
+            - strong [ref=e683]:
+              - link "امداد خودرو لیفان" [ref=e684] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d9%84%db%8c%d9%81%d8%a7%d9%86/
+          - listitem [ref=e685]:
+            - strong [ref=e687]:
+              - link "امداد خودرو چری" [ref=e688] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%da%86%d8%b1%db%8c/
+          - listitem [ref=e689]:
+            - strong [ref=e691]:
+              - link "امداد خودرو هیوندای" [ref=e692] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d9%87%db%8c%d9%88%d9%86%d8%af%d8%a7%db%8c/
+          - listitem [ref=e693]:
+            - strong [ref=e695]:
+              - link "امداد خودرو تویوتا" [ref=e696] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%aa%d9%88%db%8c%d9%88%d8%aa%d8%a7/
+          - listitem [ref=e697]:
+            - strong [ref=e699]:
+              - link "امداد خودرو میتسوبیشی" [ref=e700] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d9%85%db%8c%d8%aa%d8%b3%d9%88%d8%a8%db%8c%d8%b4%db%8c/
+          - listitem [ref=e701]:
+            - strong [ref=e703]:
+              - link "امداد خودرو کیا موتورز" [ref=e704] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%da%a9%db%8c%d8%a7-%d9%85%d9%88%d8%aa%d9%88%d8%b1%d8%b2/
+          - listitem [ref=e705]:
+            - strong [ref=e707]:
+              - link "امداد خودرو توسان | راهنمای جامع خدمات تخصصی و شبانه‌روزی" [ref=e708] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%aa%d9%88%d8%b3%d8%a7%d9%86/
+          - listitem [ref=e709]:
+            - strong [ref=e711]:
+              - link "امداد خودرو کوییک" [ref=e712] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%da%a9%d9%88%db%8c%db%8c%da%a9/
+          - listitem [ref=e713]:
+            - strong [ref=e715]:
+              - link "امداد خودرو ساینا" [ref=e716] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%b3%d8%a7%db%8c%d9%86%d8%a7/
+          - listitem [ref=e717]:
+            - strong [ref=e719]:
+              - link "امداد خودرو برلیانس" [ref=e720] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%a8%d8%b1%d9%84%db%8c%d8%a7%d9%86%d8%b3/
+          - listitem [ref=e721]:
+            - strong [ref=e723]:
+              - link "امداد خودرو آزرا" [ref=e724] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%a2%d8%b2%d8%b1%d8%a7/
+          - listitem [ref=e725]:
+            - strong [ref=e727]:
+              - link "امداد خودرو آریو" [ref=e728] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%a2%d8%b1%db%8c%d9%88/
+          - listitem [ref=e729]:
+            - strong [ref=e731]:
+              - link "امداد خودرو النترا" [ref=e732] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%a7%d9%84%d9%86%d8%aa%d8%b1%d8%a7/
+          - listitem [ref=e733]:
+            - strong [ref=e735]:
+              - link "امداد خودرو جنسیس" [ref=e736] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%ac%d9%86%d8%b3%db%8c%d8%b3/
+          - listitem [ref=e737]:
+            - strong [ref=e739]:
+              - link "امداد خودرو سوناتا" [ref=e740] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%b3%d9%88%d9%86%d8%a7%d8%aa%d8%a7/
+          - listitem [ref=e741]:
+            - strong [ref=e743]:
+              - link "امداد خودرو سنتنیال" [ref=e744] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%b3%d9%86%d8%aa%d9%86%db%8c%d8%a7%d9%84/
+          - listitem [ref=e745]:
+            - strong [ref=e747]:
+              - link "امداد خودرو اکسنت" [ref=e748] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%a7%da%a9%d8%b3%d9%86%d8%aa/
+          - listitem [ref=e749]:
+            - strong [ref=e751]:
+              - link "امداد خودرو ورنا" [ref=e752] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d9%88%d8%b1%d9%86%d8%a7/
+          - listitem [ref=e753]:
+            - strong [ref=e755]:
+              - link "امداد خودرو هایما" [ref=e756] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d9%87%d8%a7%db%8c%d9%85%d8%a7/
+          - listitem [ref=e757]:
+            - strong [ref=e759]:
+              - link "امداد خودرو سمند" [ref=e760] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%b3%d9%85%d9%86%d8%af/
+          - listitem [ref=e761]:
+            - strong [ref=e763]:
+              - link "امداد خودرو پژو 405" [ref=e764] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d9%be%da%98%d9%88-405/
+          - listitem [ref=e765]:
+            - strong [ref=e767]:
+              - link "امداد خودرو بهمن موتور" [ref=e768] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%a8%d9%87%d9%85%d9%86-%d9%85%d9%88%d8%aa%d9%88%d8%b1/
+          - listitem [ref=e769]:
+            - strong [ref=e771]:
+              - link "امداد خودرو پارس خودرو" [ref=e772] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d9%be%d8%a7%d8%b1%d8%b3-%d8%ae%d9%88%d8%af%d8%b1%d9%88/
+          - listitem [ref=e773]:
+            - strong [ref=e775]:
+              - link "امداد خودرو جک" [ref=e776] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%ac%da%a9/
+          - listitem [ref=e777]:
+            - strong [ref=e779]:
+              - link "امداد خودرو آسان موتور" [ref=e780] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%a2%d8%b3%d8%a7%d9%86-%d9%85%d9%88%d8%aa%d9%88%d8%b1/
+          - listitem [ref=e781]:
+            - strong [ref=e783]:
+              - link "امداد خودرو پژو" [ref=e784] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d9%be%da%98%d9%88/
+          - listitem [ref=e785]:
+            - strong [ref=e787]:
+              - link "امداد خودرو پژو 207" [ref=e788] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d9%be%da%98%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d9%be%da%98%d9%88-207/
+          - listitem [ref=e789]:
+            - strong [ref=e791]:
+              - link "امداد خودرو پژو 206" [ref=e792] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d9%be%da%98%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d9%be%da%98%d9%88-206/
+          - listitem [ref=e793]:
+            - strong [ref=e795]:
+              - link "امداد خودرو مزدا" [ref=e796] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d9%85%d8%b2%d8%af%d8%a7/
+          - listitem [ref=e797]:
+            - strong [ref=e799]:
+              - link "امداد خودرو رنو ساندرو" [ref=e800] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%b1%d9%86%d9%88-%d8%b3%d8%a7%d9%86%d8%af%d8%b1%d9%88/
+          - listitem [ref=e801]:
+            - strong [ref=e803]:
+              - link "امداد خودرو چانگان" [ref=e804] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%a7%d9%85%d8%af%d8%a7%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%da%86%d8%a7%d9%86%da%af%d8%a7%d9%86/
+          - listitem [ref=e805]:
+            - link [ref=e807] [cursor=pointer]:
+              - /url: /ads-tags/امداد-خودرو-اتوبان-غدیر/
+              - strong [ref=e808]: امدادخودرو اتوبان غدیر
+      - generic [ref=e810]:
+        - generic [ref=e811]: آتلیه عکاسی
+        - list [ref=e813]:
+          - listitem [ref=e814]:
+            - link [ref=e816] [cursor=pointer]:
+              - /url: /ads-tags/آتلیه-عروسی-مشهد/
+              - strong [ref=e817]: آتلیه عروسی مشهد
+          - listitem [ref=e818]:
+            - link [ref=e820] [cursor=pointer]:
+              - /url: /ads-tags/آتلیه-کودک-غرب-تهران/
+              - strong [ref=e821]: آتلیه کودک غرب تهران
+          - listitem [ref=e822]:
+            - link [ref=e824] [cursor=pointer]:
+              - /url: /ads-tags/آتلیه-کودک-شمال-تهران/
+              - strong [ref=e825]: تلیه کودک شمال تهران
+          - listitem [ref=e826]:
+            - link [ref=e828] [cursor=pointer]:
+              - /url: /ads-tags/آتلیه-کودک-شهرک-غرب/
+              - strong [ref=e829]: آتلیه کودک شهرک غرب
+          - listitem [ref=e830]:
+            - link [ref=e832] [cursor=pointer]:
+              - /url: /ads-tags/آتلیه-کودک-در-هفت-تیر/
+              - strong [ref=e833]: آتلیه کودک در هفت تیر
+          - listitem [ref=e834]:
+            - link [ref=e836] [cursor=pointer]:
+              - /url: /ads-tags/آتلیه-کودک-در-مشیریه/
+              - strong [ref=e837]: آتلیه کودک در مشیریه
+          - listitem [ref=e838]:
+            - link [ref=e840] [cursor=pointer]:
+              - /url: /ads-tags/آتلیه-کودک-در-شهریار/
+              - strong [ref=e841]: آتلیه کودک در شهریار
+          - listitem [ref=e842]:
+            - link [ref=e844] [cursor=pointer]:
+              - /url: /ads-tags/آتلیه-کودک-در-شهرری/
+              - strong [ref=e845]: آتلیه کودک در شهرری
+          - listitem [ref=e846]:
+            - link [ref=e848] [cursor=pointer]:
+              - /url: /ads-tags/آتلیه-کودک-در-شرق-تهران/
+              - strong [ref=e849]: آتلیه کودک در شرق تهران
+          - listitem [ref=e850]:
+            - link [ref=e852] [cursor=pointer]:
+              - /url: /ads-tags/آتلیه-کودک-در-شهران/
+              - strong [ref=e853]: آتلیه کودک در شهران
+      - generic [ref=e855]:
+        - generic [ref=e856]: لیست خدمات طراحی
+        - list [ref=e858]:
+          - listitem [ref=e859]:
+            - strong [ref=e861]:
+              - link "طراحی سایت فروشگاهی" [ref=e862] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d8%b3%d8%a7%db%8c%d8%aa/%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d8%b3%d8%a7%db%8c%d8%aa-%d9%81%d8%b1%d9%88%d8%b4%da%af%d8%a7%d9%87%db%8c/
+          - listitem [ref=e863]:
+            - strong [ref=e865]:
+              - link "طراحی سایت شرکتی" [ref=e866] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d8%b3%d8%a7%db%8c%d8%aa/%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d8%b3%d8%a7%db%8c%d8%aa-%d8%b4%d8%b1%da%a9%d8%aa%db%8c/
+          - listitem [ref=e867]:
+            - strong [ref=e869]:
+              - link "طراحی سایت شخصی" [ref=e870] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d8%b3%d8%a7%db%8c%d8%aa/%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d8%b3%d8%a7%db%8c%d8%aa-%d8%b4%d8%ae%d8%b5%db%8c/
+          - listitem [ref=e871]:
+            - strong [ref=e873]:
+              - link "طراحی سایت کتابخانه" [ref=e874] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d8%b3%d8%a7%db%8c%d8%aa/%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d8%b3%d8%a7%db%8c%d8%aa-%da%a9%d8%aa%d8%a7%d8%a8%d8%ae%d8%a7%d9%86%d9%87/
+          - listitem [ref=e875]:
+            - strong [ref=e877]:
+              - link "طراحی سایت کافی شاپ" [ref=e878] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d8%b3%d8%a7%db%8c%d8%aa/%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d8%b3%d8%a7%db%8c%d8%aa-%da%a9%d8%a7%d9%81%db%8c-%d8%b4%d8%a7%d9%be/
+          - listitem [ref=e879]:
+            - strong [ref=e881]:
+              - link "طراحی سایت کافه رستوران" [ref=e882] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d8%b3%d8%a7%db%8c%d8%aa/%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d8%b3%d8%a7%db%8c%d8%aa-%da%a9%d8%a7%d9%81%d9%87-%d8%b1%d8%b3%d8%aa%d9%88%d8%b1%d8%a7%d9%86/
+          - listitem [ref=e883]:
+            - strong [ref=e885]:
+              - link "طراحی سایت صرافی ارز دیجیتال" [ref=e886] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d8%b3%d8%a7%db%8c%d8%aa/%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d8%b3%d8%a7%db%8c%d8%aa-%d8%b5%d8%b1%d8%a7%d9%81%db%8c-%d8%a7%d8%b1%d8%b2-%d8%af%db%8c%d8%ac%db%8c%d8%aa%d8%a7%d9%84/
+          - listitem [ref=e887]:
+            - strong [ref=e889]:
+              - link "طراحی سایت گلفروشی" [ref=e890] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d8%b3%d8%a7%db%8c%d8%aa/%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d8%b3%d8%a7%db%8c%d8%aa-%da%af%d9%84%d9%81%d8%b1%d9%88%d8%b4%db%8c/
+          - listitem [ref=e891]:
+            - strong [ref=e893]:
+              - link "طراحی سایت نقاشی ساختمان" [ref=e894] [cursor=pointer]:
+                - /url: https://jaigah1.com/ads-cat/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d8%b3%d8%a7%db%8c%d8%aa/%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d8%b3%d8%a7%db%8c%d8%aa-%d9%86%d9%82%d8%a7%d8%b4%db%8c-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86/
+          - listitem [ref=e895]:
+            - link [ref=e897] [cursor=pointer]:
+              - /url: /ads-tags/طراحی-سایت-در-کرمان/
+              - strong [ref=e898]: طراحی سایت در کرمان
+          - listitem [ref=e899]:
+            - link [ref=e901] [cursor=pointer]:
+              - /url: /ads-tags/طراحی-سایت-در-کرج/
+              - strong [ref=e902]: طراحی سایت در کرج
+          - listitem [ref=e903]:
+            - link [ref=e905] [cursor=pointer]:
+              - /url: /ads-tags/طراحی-سایت-در-شیراز/
+              - strong [ref=e906]: طراحی سایت در شیراز
+          - listitem [ref=e907]:
+            - link [ref=e909] [cursor=pointer]:
+              - /url: /ads-tags/طراحی-سایت-در-رشت/
+              - strong [ref=e910]: طراحی سایت در رشت
+          - listitem [ref=e911]:
+            - link [ref=e913] [cursor=pointer]:
+              - /url: /ads-tags/طراحی-سایت-در-رامسر/
+              - strong [ref=e914]: طراحی سایت در رامسر
+          - listitem [ref=e915]:
+            - link [ref=e917] [cursor=pointer]:
+              - /url: /ads-tags/طراحی-سایت-در-تهران/
+              - strong [ref=e918]: طراحی سایت در تهران
+          - listitem [ref=e919]:
+            - link [ref=e921] [cursor=pointer]:
+              - /url: /ads-tags/طراحی-سایت-در-اصفهان/
+              - strong [ref=e922]: طراحی سایت در اصفهان
+          - listitem [ref=e923]:
+            - link [ref=e925] [cursor=pointer]:
+              - /url: /ads-tags/طراحی-سایت-در-ارومیه/
+              - strong [ref=e926]: طراحی سایت در ارومیه
+          - listitem [ref=e927]:
+            - link [ref=e929] [cursor=pointer]:
+              - /url: /ads-tags/طراحی-سایت-در-اراک/
+              - strong [ref=e930]: طراحی سایت در اراک
+          - listitem [ref=e931]:
+            - link [ref=e933] [cursor=pointer]:
+              - /url: /ads-tags/طراحی-سایت-در-گوهردشت/
+              - strong [ref=e934]: طراحی سایت در گوهردشت
+          - listitem [ref=e935]:
+            - link [ref=e937] [cursor=pointer]:
+              - /url: /ads-tags/طراحی-سایت-در-مشهد/
+              - strong [ref=e938]: طراحی سایت در مشهد
+          - listitem [ref=e939]:
+            - link [ref=e941] [cursor=pointer]:
+              - /url: /ads-tags/طراحی-سایت-در-گرگان/
+              - strong [ref=e942]: طراحی سایت در گرگان
+    - generic [ref=e944]:
+      - generic [ref=e946]:
+        - generic [ref=e947]: لوله بازکنی
+        - list [ref=e949]:
+          - listitem [ref=e950]:
+            - link [ref=e952] [cursor=pointer]:
+              - /url: /ads-tags/لوله-بازکنی-در-تهران/
+              - strong [ref=e953]: لوله بازکنی در تهران
+          - listitem [ref=e954]:
+            - link [ref=e956] [cursor=pointer]:
+              - /url: /ads-tags/لوله-بازکنی-در-غرب-تهران/
+              - strong [ref=e957]: لوله بازکنی در غرب تهران
+          - listitem [ref=e958]:
+            - link [ref=e960] [cursor=pointer]:
+              - /url: /ads-tags/لوله-بازکنی-در-شمال-تهران/
+              - strong [ref=e961]: لوله بازکنی در شمال تهران
+          - listitem [ref=e962]:
+            - strong [ref=e964]:
+              - link "لوله بازکنی در شرق تهران" [ref=e965] [cursor=pointer]:
+                - /url: /ads-tags/لوله-بازکنی-در-شرق-تهران/
+          - listitem [ref=e966]:
+            - link [ref=e968] [cursor=pointer]:
+              - /url: /ads-tags/لوله-بازکنی-در-سعادت-آباد/
+              - strong [ref=e969]: لوله بازکنی در سعادت آباد
+          - listitem [ref=e970]:
+            - link [ref=e972] [cursor=pointer]:
+              - /url: /ads-tags/لوله-بازکنی-در-تهرانپارس/
+              - strong [ref=e973]: لوله بازکنی در تهرانپارس
+          - listitem [ref=e974]:
+            - strong [ref=e976]:
+              - link "لوله بازکنی در شهریار" [ref=e977] [cursor=pointer]:
+                - /url: /ads-tags/لوله-بازکنی-در-شهریار/
+          - listitem [ref=e978]:
+            - link [ref=e980] [cursor=pointer]:
+              - /url: /ads-tags/لوله-بازکنی-در-شهرری/
+              - strong [ref=e981]: لوله بازکنی در شهرری
+          - listitem [ref=e982]:
+            - link [ref=e984] [cursor=pointer]:
+              - /url: /ads-tags/لوله-بازکنی-در-شهر-قدس/
+              - strong [ref=e985]: لوله بازکنی در شهر قدس
+      - generic [ref=e987]:
+        - generic [ref=e988]: تالار عروسی
+        - list [ref=e990]:
+          - listitem [ref=e991]:
+            - link [ref=e993] [cursor=pointer]:
+              - /url: /ads-tags/تالار-عروسی-شهریار/
+              - strong [ref=e994]: تالار عروسی شهریار
+          - listitem [ref=e995]:
+            - link [ref=e997] [cursor=pointer]:
+              - /url: /ads-tags/تالار-عروسی-در-کیش/
+              - strong [ref=e998]: تالار عروسی در کیش
+          - listitem [ref=e999]:
+            - link [ref=e1001] [cursor=pointer]:
+              - /url: /ads-tags/تالار-عروسی-در-کمالشهر/
+              - strong [ref=e1002]: تالار عروسی در کمالشهر
+          - listitem [ref=e1003]:
+            - link [ref=e1005] [cursor=pointer]:
+              - /url: /ads-tags/تالار-عروسی-در-فرمانیه-تهران/
+              - strong [ref=e1006]: تالار عروسی در فرمانیه تهران
+          - listitem [ref=e1007]:
+            - link [ref=e1009] [cursor=pointer]:
+              - /url: /ads-tags/تالار-عروسی-در-شهرک-غرب/
+              - strong [ref=e1010]: تالار عروسی در شهرک غرب
+          - listitem [ref=e1011]:
+            - link [ref=e1013] [cursor=pointer]:
+              - /url: /ads-tags/تالار-عروسی-در-شهر-قدس/
+              - strong [ref=e1014]: تالار عروسی در شهر قدس
+          - listitem [ref=e1015]:
+            - link [ref=e1017] [cursor=pointer]:
+              - /url: /ads-tags/تالار-عروسی-در-شرق-تهران/
+              - strong [ref=e1018]: تالار عروسی در شرق تهران
+          - listitem [ref=e1019]:
+            - link [ref=e1021] [cursor=pointer]:
+              - /url: /ads-tags/تالار-عروسی-در-خیابان-فرشته/
+              - strong [ref=e1022]: تالار عروسی در خیابان فرشته
+          - listitem [ref=e1023]:
+            - link [ref=e1025] [cursor=pointer]:
+              - /url: /ads-tags/تالار-عروسی-در-الهیه-تهران/
+              - strong [ref=e1026]: تالار عروسی در الهیه تهران
+      - generic [ref=e1028]:
+        - generic [ref=e1029]: نمایندگی
+        - list [ref=e1031]:
+          - listitem [ref=e1032]:
+            - link [ref=e1034] [cursor=pointer]:
+              - /url: /ads-tags/نمایندگی-گوشی-سامسونگ-در-تهران/
+              - strong [ref=e1035]: نمایندگی گوشی سامسونگ در تهران
+          - listitem [ref=e1036]:
+            - link [ref=e1038] [cursor=pointer]:
+              - /url: /ads-tags/نمایندگی-ال-جی-در-شهرری/
+              - strong [ref=e1039]: نمایندگی ال جی در شهرری
+          - listitem [ref=e1040]:
+            - link [ref=e1042] [cursor=pointer]:
+              - /url: /ads-tags/نمایندگی-ال-جی-در-ورامین/
+              - strong [ref=e1043]: نمایندگی ال جی در ورامین
+          - listitem [ref=e1044]:
+            - link [ref=e1046] [cursor=pointer]:
+              - /url: /ads-tags/نمایندگی-بوتان-در-تبریز/
+              - strong [ref=e1047]: نمایندگی بوتان در تبریز
+          - listitem [ref=e1048]:
+            - link [ref=e1050] [cursor=pointer]:
+              - /url: /ads-tags/نمایندگی-بوتان-در-تهران/
+              - strong [ref=e1051]: نمایندگی بوتان در تهران
+          - listitem [ref=e1052]:
+            - link [ref=e1054] [cursor=pointer]:
+              - /url: /ads-tags/نمایندگی-بوتان-در-رشت/
+              - strong [ref=e1055]: نمایندگی بوتان در رشت
+          - listitem [ref=e1056]:
+            - link [ref=e1058] [cursor=pointer]:
+              - /url: /ads-tags/نمایندگی-بوتان-در-شیراز/
+              - strong [ref=e1059]: نمایندگی بوتان در شیراز
+          - listitem [ref=e1060]:
+            - link [ref=e1062] [cursor=pointer]:
+              - /url: /ads-tags/نمایندگی-بوتان-در-کرج/
+              - strong [ref=e1063]: نمایندگی بوتان در کرج
+    - generic [ref=e1065]:
+      - generic [ref=e1067]:
+        - generic [ref=e1068]: خدمات لیزر
+        - list [ref=e1070]:
+          - listitem [ref=e1071]:
+            - link [ref=e1073] [cursor=pointer]:
+              - /url: /ads-tags/مراکز-لیزر-در-تهران/
+              - strong [ref=e1074]: مراکز لیزر در تهران
+          - listitem [ref=e1075]:
+            - link [ref=e1077] [cursor=pointer]:
+              - /url: /ads-tags/مرکز-لیزر-در-کرج/
+              - strong [ref=e1078]: مرکز لیزر در کرج
+          - listitem [ref=e1079]:
+            - link [ref=e1081] [cursor=pointer]:
+              - /url: /ads-tags/مرکز-لیزر-در-ایلام/
+              - strong [ref=e1082]: مرکز لیزر در ایلام
+          - listitem [ref=e1083]:
+            - link [ref=e1085] [cursor=pointer]:
+              - /url: /ads-tags/مرکز-لیزر-در-ارومیه/
+              - strong [ref=e1086]: مرکز لیزر در ارومیه
+          - listitem [ref=e1087]:
+            - link [ref=e1089] [cursor=pointer]:
+              - /url: /ads-tags/مرکز-لیزر-در-اهواز/
+              - strong [ref=e1090]: مرکز لیزر در اهواز
+          - listitem [ref=e1091]:
+            - link [ref=e1093] [cursor=pointer]:
+              - /url: /ads-tags/مرکز-لیزر-در-اراک/
+              - strong [ref=e1094]: مرکز لیزر در اراک
+          - listitem [ref=e1095]:
+            - strong [ref=e1097]:
+              - link "مرکز لیزر در اصفهان" [ref=e1098] [cursor=pointer]:
+                - /url: /ads-tags/مرکز-لیزر-در-اصفهان/
+          - listitem [ref=e1099]:
+            - link [ref=e1101] [cursor=pointer]:
+              - /url: /ads-tags/مرکز-لیزر-در-مشهد/
+              - strong [ref=e1102]: مرکز لیزر در مشهد
+          - listitem [ref=e1103]:
+            - link [ref=e1105] [cursor=pointer]:
+              - /url: /ads-tags/مرکز-لیزر-در-کاشان/
+              - strong [ref=e1106]: مرکز لیزر در کاشان
+          - listitem [ref=e1107]:
+            - link [ref=e1109] [cursor=pointer]:
+              - /url: /ads-tags/مرکز-لیزر-در-کرمان/
+              - strong [ref=e1110]: مرکز لیزر در کرمان
+          - listitem [ref=e1111]:
+            - link [ref=e1113] [cursor=pointer]:
+              - /url: /ads-tags/مرکز-لیزر-در-گرگان/
+              - strong [ref=e1114]: مرکز لیزر در گرگان
+      - generic [ref=e1116]:
+        - generic [ref=e1117]: خدمات کاشت مو
+        - list [ref=e1119]:
+          - listitem [ref=e1120]:
+            - link [ref=e1122] [cursor=pointer]:
+              - /url: /ads-tags/کاشت-مو-در-تهران/
+              - strong [ref=e1123]: کاشت مو در تهران
+          - listitem [ref=e1124]:
+            - link [ref=e1126] [cursor=pointer]:
+              - /url: /ads-tags/کاشت-مو-در-ترکیه/
+              - strong [ref=e1127]: کاشت مو در ترکیه
+          - listitem [ref=e1128]:
+            - link [ref=e1130] [cursor=pointer]:
+              - /url: /ads-tags/کاشت-مو-در-ساوه/
+              - strong [ref=e1131]: کاشت مو در ساوه
+          - listitem [ref=e1132]:
+            - link [ref=e1134] [cursor=pointer]:
+              - /url: /ads-tags/کاشت-مو-در-شیراز/
+              - strong [ref=e1135]: کاشت مو در شیراز
+          - listitem [ref=e1136]:
+            - link [ref=e1138] [cursor=pointer]:
+              - /url: /ads-tags/کاشت-مو-در-سنندج/
+              - strong [ref=e1139]: کاشت مو در سنندج
+          - listitem [ref=e1140]:
+            - link [ref=e1142] [cursor=pointer]:
+              - /url: /ads-tags/کاشت-مو-در-کرمان/
+              - strong [ref=e1143]: کاشت مو در کرمان
+          - listitem [ref=e1144]:
+            - link [ref=e1146] [cursor=pointer]:
+              - /url: /ads-tags/کاشت-مو-در-تهرانپارس/
+              - strong [ref=e1147]: کاشت مو در تهرانپارس
+          - listitem [ref=e1148]:
+            - link [ref=e1150] [cursor=pointer]:
+              - /url: /ads-tags/کاشت-مو-در-تهرانسر/
+              - strong [ref=e1151]: کاشت مو در تهرانسر
+          - listitem [ref=e1152]:
+            - link [ref=e1154] [cursor=pointer]:
+              - /url: /ads-tags/کاشت-مو-در-شهر-ری/
+              - strong [ref=e1155]: کاشت مو در شهر ری
+          - listitem [ref=e1156]:
+            - link [ref=e1158] [cursor=pointer]:
+              - /url: /ads-tags/کاشت-مو-در-شهر-قدس/
+              - strong [ref=e1159]: کاشت مو در شهر قدس
+          - listitem [ref=e1160]:
+            - link [ref=e1162] [cursor=pointer]:
+              - /url: /ads-tags/کاشت-مو-در-شهرک-غرب/
+              - strong [ref=e1163]: کاشت مو در شهرک غرب
+          - listitem [ref=e1164]:
+            - link [ref=e1166] [cursor=pointer]:
+              - /url: /ads-tags/کاشت-مو-در-صادقیه/
+              - strong [ref=e1167]: کاشت مو در صادقیه
+          - listitem [ref=e1168]:
+            - link [ref=e1170] [cursor=pointer]:
+              - /url: /ads-tags/کلینیک-کاشت-مو-در-غرب-تهران/
+              - strong [ref=e1171]: کلینیک کاشت مو در غرب تهران
+          - listitem [ref=e1172]
+          - listitem [ref=e1173]
+      - generic [ref=e1175]:
+        - generic [ref=e1176]: مکانیک سیار
+        - list [ref=e1178]:
+          - listitem [ref=e1179]:
+            - link "مکاینک سیار" [ref=e1181] [cursor=pointer]:
+              - /url: https://jaigah1.com/ads-tags/%D9%85%DA%A9%D8%A7%D9%86%DB%8C%DA%A9-%D8%B3%DB%8C%D8%A7%D8%B1/
+          - listitem [ref=e1182]:
+            - link [ref=e1184] [cursor=pointer]:
+              - /url: https://jaigah1.com/ads-tags/%D9%85%DA%A9%D8%A7%D9%86%DB%8C%DA%A9-%D8%B3%DB%8C%D8%A7%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AE%D9%88%D8%AF%D8%B1%D9%88/
+              - strong [ref=e1185]: مکانیک سیار ایران خودرو
+          - listitem [ref=e1186]:
+            - link [ref=e1188] [cursor=pointer]:
+              - /url: https://jaigah1.com/ads-tags/%D9%85%DA%A9%D8%A7%D9%86%DB%8C%DA%A9-%D8%B3%DB%8C%D8%A7%D8%B1-%D9%BE%D8%B1%D8%A7%DB%8C%D8%AF-%D8%AA%D9%87%D8%B1%D8%A7%D9%86/
+              - strong [ref=e1189]: مکانیک سیار پراید تهران
+          - listitem [ref=e1190]:
+            - link [ref=e1192] [cursor=pointer]:
+              - /url: https://jaigah1.com/ads-tags/%D9%85%DA%A9%D8%A7%D9%86%DB%8C%DA%A9-%D8%B3%DB%8C%D8%A7%D8%B1-%D9%BE%DA%98%D9%88-%D8%AA%D9%87%D8%B1%D8%A7%D9%86/
+              - strong [ref=e1193]: مکانیک سیار پژو تهران
+          - listitem [ref=e1194]:
+            - link [ref=e1196] [cursor=pointer]:
+              - /url: https://jaigah1.com/ads-tags/%D9%85%DA%A9%D8%A7%D9%86%DB%8C%DA%A9-%D8%B3%DB%8C%D8%A7%D8%B1-%D8%A8%D9%88%D8%B4%D9%87%D8%B1/
+              - strong [ref=e1197]: مکانیک سیار بوشهر
+          - listitem [ref=e1198]:
+            - link [ref=e1200] [cursor=pointer]:
+              - /url: https://jaigah1.com/ads-tags/%D9%85%DA%A9%D8%A7%D9%86%DB%8C%DA%A9-%D8%B3%DB%8C%D8%A7%D8%B1-%D9%BE%D8%A7%DA%A9%D8%AF%D8%B4%D8%AA/
+              - strong [ref=e1201]: مکانیک سیار پاکدشت
+          - listitem [ref=e1202]:
+            - link [ref=e1204] [cursor=pointer]:
+              - /url: https://jaigah1.com/ads-tags/%D9%85%DA%A9%D8%A7%D9%86%DB%8C%DA%A9-%D8%B3%DB%8C%D8%A7%D8%B1-%D9%BE%D8%B1%D8%AF%DB%8C%D8%B3/
+              - strong [ref=e1205]: مکانیک سیار پردیس
+          - listitem [ref=e1206]:
+            - link [ref=e1208] [cursor=pointer]:
+              - /url: https://jaigah1.com/ads-tags/%D9%85%DA%A9%D8%A7%D9%86%DB%8C%DA%A9-%D8%B3%DB%8C%D8%A7%D8%B1-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1/
+              - strong [ref=e1209]: مکانیک سیار اسلامشهر
+          - listitem [ref=e1210]:
+            - link [ref=e1212] [cursor=pointer]:
+              - /url: https://jaigah1.com/ads-tags/%D9%85%DA%A9%D8%A7%D9%86%DB%8C%DA%A9-%D8%B3%DB%8C%D8%A7%D8%B1-%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87/
+              - strong [ref=e1213]: مکانیک سیار ارومیه
+          - listitem [ref=e1214]:
+            - link [ref=e1216] [cursor=pointer]:
+              - /url: https://jaigah1.com/ads-tags/%D9%85%DA%A9%D8%A7%D9%86%DB%8C%DA%A9-%D8%B3%DB%8C%D8%A7%D8%B1-%D8%A7%D9%86%D8%B2%D9%84%DB%8C/
+              - strong [ref=e1217]: مکانیک سیار انزلی
+          - listitem [ref=e1218]:
+            - link [ref=e1220] [cursor=pointer]:
+              - /url: https://jaigah1.com/ads-tags/%D9%85%DA%A9%D8%A7%D9%86%DB%8C%DA%A9-%D8%B3%DB%8C%D8%A7%D8%B1-%D8%A8%D8%A7%D8%A8%D9%84/
+              - strong [ref=e1221]: مکانیک سیار بابل
+          - listitem [ref=e1222]:
+            - link [ref=e1224] [cursor=pointer]:
+              - /url: https://jaigah1.com/ads-tags/%D9%85%DA%A9%D8%A7%D9%86%DB%8C%DA%A9-%D8%B3%DB%8C%D8%A7%D8%B1-%D8%A8%D8%B1%D9%88%D8%AC%D8%B1%D8%AF/
+              - strong [ref=e1225]: مکانیک سیار بروجرد
+          - listitem [ref=e1226]:
+            - link [ref=e1228] [cursor=pointer]:
+              - /url: https://jaigah1.com/ads-tags/%D9%85%DA%A9%D8%A7%D9%86%DB%8C%DA%A9-%D8%B3%DB%8C%D8%A7%D8%B1-%D9%BE%DB%8C%D8%B1%D9%88%D8%B2%DB%8C/
+              - strong [ref=e1229]: مکانیک سیار پیروزی
+          - listitem [ref=e1230]:
+            - link [ref=e1232] [cursor=pointer]:
+              - /url: https://jaigah1.com/ads-tags/%D9%85%DA%A9%D8%A7%D9%86%DB%8C%DA%A9-%D8%B3%DB%8C%D8%A7%D8%B1-%D8%AF%D8%B1-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86/
+              - strong [ref=e1233]: مکانیک سیار در اصفهان
+          - listitem [ref=e1234]
+    - generic [ref=e1236]:
+      - generic [ref=e1238]:
+        - link [ref=e1241] [cursor=pointer]:
+          - /url: https://jaigah1.com/
+        - generic [ref=e1244]: خانه
+      - generic [ref=e1246]:
+        - link [ref=e1249] [cursor=pointer]:
+          - /url: /advertisement/
+        - link "تبلیغات" [ref=e1254] [cursor=pointer]:
+          - /url: /advertisement/
+      - generic [ref=e1256]:
+        - link [ref=e1259] [cursor=pointer]:
+          - /url: /add-new/
+        - link "ثبت آگهی" [ref=e1264] [cursor=pointer]:
+          - /url: /add-new/
+      - generic [ref=e1266]:
+        - link [ref=e1269] [cursor=pointer]:
+          - /url: "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjEwMTMzIiwidG9nZ2xlIjp0cnVlfQ%3D%3D"
+        - link "جست و جو" [ref=e1274] [cursor=pointer]:
+          - /url: "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjEwMTMzIiwidG9nZ2xlIjp0cnVlfQ%3D%3D"
+      - generic [ref=e1276]:
+        - link [ref=e1279] [cursor=pointer]:
+          - /url: http://jaigah1.com/my-account/
+        - link "حساب من" [ref=e1284] [cursor=pointer]:
+          - /url: http://jaigah1.com/my-account/
+    - generic [ref=e1298]:
+      - generic [ref=e1299]: فهرست مطالب
+      - button "بازکردن فهرست مطالب" [ref=e1415] [cursor=pointer]
+    - generic [ref=e1313]:
+      - link [ref=e1315] [cursor=pointer]:
+        - /url: https://jaigah1.com
+      - navigation "Menu" [ref=e1317]:
+        - list [ref=e1318]:
+          - listitem [ref=e1319]:
+            - link [ref=e1320] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e1321]:
+            - link [ref=e1322] [cursor=pointer]:
+              - /url: https://jaigah1.com/blog/
+          - listitem [ref=e1323]:
+            - link [ref=e1324] [cursor=pointer]:
+              - /url: "#"
+      - search [ref=e1427]:
+        - generic [ref=e1428]:
+          - generic: جستجو
+          - generic [ref=e1430]:
+            - combobox "جستجو" [ref=e1431]
+            - status "نتایج جستجو"
+          - button "جستجو" [ref=e1432] [cursor=pointer]
+      - link "ثبت رایگان آگهی" [ref=e1327] [cursor=pointer]:
+        - /url: /add-new/
+  - link "" [ref=e1333] [cursor=pointer]:
+    - /url: "#"
+  - generic [ref=e1335]: desktop
+  - text: "Notice: ob_end_flush(): failed to send buffer of zlib output compression (0) in /home/jaigahco/domains/jaigah1.com/public_html/wp-includes/functions.php on line 5581"
+  - status [ref=e1338]
+```

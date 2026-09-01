@@ -1,0 +1,556 @@
+### Page
+- Page URL: https://mandegarcommerce.com/
+- Page Title: صفحه اصلی | بازرگانی ماندگار | واردات و صادرات | ترخیص کالا | حمل و نقل
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - navigation [ref=e7]:
+        - link [ref=e9] [cursor=pointer]:
+          - /url: https://mandegarcommerce.com/
+          - img "بازرگانی ماندگار | واردات و صادرات | ترخیص کالا | حمل و نقل" [ref=e10]
+        - text: 
+        - list [ref=e12]:
+          - listitem [ref=e13]:
+            - link "صفحه اصلی" [ref=e14] [cursor=pointer]:
+              - /url: https://www.mandegarcommerce.com/
+              - text: صفحه اصلی
+              - generic [ref=e15]: 
+          - listitem [ref=e16]:
+            - link "خدمات" [ref=e17] [cursor=pointer]:
+              - /url: https://www.mandegarcommerce.com/our-services/
+              - text: خدمات
+              - generic [ref=e18]: 
+          - listitem [ref=e19]:
+            - link "اخبار و مقالات" [ref=e20] [cursor=pointer]:
+              - /url: https://mandegarcommerce.com/%d9%88%d8%a8%d9%84%d8%a7%da%af/
+              - text: اخبار و مقالات
+              - generic [ref=e21]: 
+          - listitem [ref=e22]:
+            - link "درباره ما" [ref=e23] [cursor=pointer]:
+              - /url: https://www.mandegarcommerce.com/about-mandegar/
+              - text: درباره ما
+              - generic [ref=e24]: 
+          - listitem [ref=e25]:
+            - link "تماس با ما" [ref=e26] [cursor=pointer]:
+              - /url: https://mandegarcommerce.com/contact/
+              - text: تماس با ما
+              - generic [ref=e27]: 
+          - text: 
+        - list [ref=e29]:
+          - listitem [ref=e30]:
+            - link [ref=e31] [cursor=pointer]:
+              - /url: https://www.mandegarcommerce.com/contact/
+              - generic [ref=e33]:
+                - img "تماس با ما" [ref=e34]
+                - generic [ref=e35]:
+                  - paragraph [ref=e36]: سوالی دارید؟
+                  - paragraph [ref=e37]: 98-919-678-4698+
+                  - generic: از ما بپرسید
+          - listitem [ref=e38]
+          - listitem [ref=e39]:
+            - button "Search" [ref=e41] [cursor=pointer]:
+              - generic [ref=e42]: 
+            - text: 
+          - listitem [ref=e43]:
+            - link "ثبت در خواست" [ref=e45] [cursor=pointer]:
+              - /url: https://www.mandegarcommerce.com/submit-request/
+          - listitem [ref=e47]:
+            - link [ref=e49] [cursor=pointer]:
+              - /url: https://www.mandegarcommerce.com/en/
+              - generic [ref=e50]:
+                - img "Mandegar Commerce" [ref=e51]
+                - text: English
+        - text:  
+    - main [ref=e55]:
+      - main [ref=e56]:
+        - generic [ref=e61]:
+          - generic [ref=e63]:
+            - generic [ref=e65]:
+              - img "سایت بازرگانی ماندگار" [ref=e67]
+              - generic [ref=e73]:
+                - heading "شرکت بازرگانی ماندگار" [level=3] [ref=e74]
+                - paragraph [ref=e75]: متخصص ترین در امور مشاوره/واردات/صادارات/ترخیص و خرید اجناس 🚢
+                - paragraph [ref=e76]:
+                  - link "اطلاعات بیشتر" [ref=e77] [cursor=pointer]:
+                    - /url: https://www.mandegarcommerce.com/about-mandegar/
+            - generic [ref=e88]:
+              - heading [level=3] [ref=e89]: نمی دانید از کجا شروع کنید؟!
+              - paragraph [ref=e90]: برای شروع کسب و کار خود با ما تماس بگیرید 📞
+              - paragraph [ref=e91]:
+                - link [ref=e92] [cursor=pointer]:
+                  - /url: https://www.mandegarcommerce.com/contact/
+                  - generic [ref=e93]: مشاوره رایگان
+            - generic [ref=e103]:
+              - heading [level=3] [ref=e104]: اعلام قیمت دقیق و سریع
+              - paragraph [ref=e105]: به کمک کارشناسان زبده مجموعه ما ✍️
+              - paragraph [ref=e106]:
+                - link [ref=e107] [cursor=pointer]:
+                  - /url: https://www.mandegarcommerce.com/contact/
+                  - generic [ref=e108]: استعلام قیمت
+            - generic [ref=e118]:
+              - heading [level=3] [ref=e119]: سرعت و عملکرد بالا
+              - paragraph [ref=e120]: ترخیص کالا از کشور های همسایه (ترکیه، امارات)
+              - paragraph [ref=e121]:
+                - link [ref=e122] [cursor=pointer]:
+                  - /url: https://www.mandegarcommerce.com/%D8%AA%D8%B1%D8%AE%DB%8C%D8%B5-%DA%A9%D8%A7%D9%84%D8%A7-%DA%AF%D9%85%D8%B1%DA%A9-%D9%85%D8%B1%D8%A7%D8%AD%D9%84%DB%8C-%D8%AF%D8%A7%D8%B1%D8%AF%D8%9F/
+                  - generic [ref=e123]: اطلاعات بیشتر
+            - generic [ref=e133]:
+              - heading [level=3] [ref=e134]: پشتیبانی قدرتمند
+              - paragraph [ref=e135]: با پشتیبان های ما صحبت کنید 🎧
+              - paragraph [ref=e136]:
+                - link [ref=e137] [cursor=pointer]:
+                  - /url: https://www.mandegarcommerce.com/contact/
+                  - generic [ref=e138]: تماس بگیرید
+            - generic [ref=e148]:
+              - heading [level=3] [ref=e149]: خرید تمامی اجناس از ترندیول ترکیه
+              - paragraph [ref=e150]: فروشگاه آنلاین الیزا شاپ 👜
+              - paragraph [ref=e151]:
+                - link [ref=e152] [cursor=pointer]:
+                  - /url: https://elezashop.com/
+                  - generic [ref=e153]: مشاهده محصولات
+          - button "Previous" [disabled]
+          - button "Next" [ref=e154] [cursor=pointer]
+          - list [ref=e157]:
+            - listitem "Page dot 1" [ref=e158] [cursor=pointer]
+            - listitem "Page dot 2" [ref=e159] [cursor=pointer]
+            - listitem "Page dot 3" [ref=e160] [cursor=pointer]
+            - listitem "Page dot 4" [ref=e161] [cursor=pointer]
+            - listitem "Page dot 5" [ref=e162] [cursor=pointer]
+            - listitem "Page dot 6" [ref=e163] [cursor=pointer]
+        - link [ref=e167] [cursor=pointer]:
+          - /url: "#s1"
+          - generic "کلیک کنید" [ref=e168]
+        - generic [ref=e181]:
+          - generic [ref=e183]:
+            - paragraph [ref=e184]:
+              - strong [ref=e186]: گروه بازرگانی ماندگار با در اختیار داشتن کادری متعهد و مجرب و با تجربه که در روند پیشرفت تجارت شما تا آخرین لحظه کنار شماست.
+            - heading "معرفی کیفیت خدمات ما »" [level=4] [ref=e187]
+            - list [ref=e188]:
+              - listitem [ref=e189]: پاسخگویی به موقع
+              - listitem [ref=e190]: کارشناسان مجرب
+              - listitem [ref=e191]: قیمت منصفانه
+              - listitem [ref=e192]: مشاوره رایگان
+              - listitem [ref=e193]: تجربه بالا
+            - generic [ref=e198]:
+              - heading "مدیریت مجموعه ماندگار" [level=4] [ref=e199]
+              - paragraph [ref=e200]: بسیار مفتخرم که خدمت رسانی به شما مشتریان عزیز را در این مجموعه مدیریت میکنم.
+          - generic [ref=e202]:
+            - heading "– کالای شما فراتر از مرز ها!" [level=3] [ref=e203]
+            - heading [level=5] [ref=e204]:
+              - strong [ref=e206]: تنها کافیست شروع کنید…
+            - img "بازرگانی در ایران" [ref=e210]
+        - generic [ref=e213]:
+          - generic [ref=e215]:
+            - link [ref=e217] [cursor=pointer]:
+              - /url: https://www.mandegarcommerce.com/%d8%ad%d9%85%d9%84-%d9%88-%d9%86%d9%82%d9%84/
+            - link [ref=e220] [cursor=pointer]:
+              - /url: https://www.mandegarcommerce.com/%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa/
+            - link [ref=e223] [cursor=pointer]:
+              - /url: https://www.mandegarcommerce.com/%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa/
+            - link [ref=e226] [cursor=pointer]:
+              - /url: https://www.mandegarcommerce.com/%D8%AB%D8%A8%D8%AA-%D8%B3%D9%81%D8%A7%D8%B1%D8%B4-%DA%A9%D8%A7%D9%84%D8%A7/
+            - link [ref=e229] [cursor=pointer]:
+              - /url: https://www.mandegarcommerce.com/%D8%AA%D8%B1%D8%AE%DB%8C%D8%B5-%DA%A9%D8%A7%D9%84%D8%A7-%DA%AF%D9%85%D8%B1%DA%A9-%D9%85%D8%B1%D8%A7%D8%AD%D9%84%DB%8C-%D8%AF%D8%A7%D8%B1%D8%AF%D8%9F/
+            - link [ref=e232] [cursor=pointer]:
+              - /url: https://www.mandegarcommerce.com/%d8%a8%d8%a7%d8%b2%d8%a7%d8%b1%db%8c%d8%a7%d8%a8%db%8c-%d9%88-%d8%aa%d8%ad%d9%82%db%8c%d9%82-%d8%a8%d8%a7%d8%b2%d8%a7%d8%b1/
+          - link "مشاهده تمامی خدمات" [ref=e237] [cursor=pointer]:
+            - /url: https://www.mandegarcommerce.com/our-services/
+            - generic [ref=e239]: 
+        - generic [ref=e243]:
+          - generic [ref=e245]:
+            - heading [level=4] [ref=e246]:
+              - generic [ref=e247]:
+                - text: بیش از
+                - strong [ref=e249]: 15 سال
+                - text: تجربه و تخصص
+            - paragraph [ref=e250]: گروه بازرگانی ماندگار با فعالیت مستمر در دهه گذشته، به همراه کوله باری از مهارت و تجربه، در روز های سخت کاری شما در کنار شماست تا بتوانید بیشترین بهره کاری را ببرید و در موفقیت از رقبای خود عقب نمانید.
+            - generic [ref=e251]:
+              - paragraph [ref=e254]: +941 سفارش
+              - paragraph [ref=e257]: +1002 واردات
+              - paragraph [ref=e260]: +889 صادرات
+          - img "دفتر بازرگانی ماندگار" [ref=e266]
+        - generic [ref=e268]:
+          - img "بازرگانی" [ref=e270]
+          - generic [ref=e273]:
+            - generic [ref=e275]:
+              - link [ref=e276] [cursor=pointer]:
+                - /url: https://www.mandegarcommerce.com/presentation-video/
+                - generic [ref=e277]: 
+              - generic [ref=e278]:
+                - heading [level=3]
+                - heading "خرید کالا های روز و با کیفیت" [level=3] [ref=e279]
+                - paragraph [ref=e281]: از فروشگاه های آنلاین
+              - img "بازرگانی ماندگار" [ref=e284]
+            - generic [ref=e286]:
+              - generic [ref=e290]:
+                - generic [ref=e295]:
+                  - heading "خرید آنلاین از ترندیول ترکیه" [level=4] [ref=e296]
+                  - heading [level=3] [ref=e297]:
+                    - strong [ref=e298]: www.elezashop.com
+                  - link "مشاهده فروشگاه" [ref=e299] [cursor=pointer]:
+                    - /url: https://elezashop.com/
+                - paragraph [ref=e304]:
+                  - strong [ref=e306]: الیزا شاپ
+                - img "خرید از ترندیول ترکیه" [ref=e309]
+              - generic [ref=e313]:
+                - generic [ref=e318]:
+                  - heading "سفارش خرید محصولات آمازون امارات" [level=4] [ref=e319]
+                  - heading "www.amazon.ae" [level=3] [ref=e320]
+                  - link "مشاهده فروشگاه" [ref=e321] [cursor=pointer]:
+                    - /url: https://www.amazon.ae/
+                - paragraph [ref=e326]:
+                  - strong [ref=e328]: آمازون
+              - generic [ref=e334]:
+                - generic [ref=e339]:
+                  - heading "سفارش خرید محصولات از علی بابا" [level=4] [ref=e340]
+                  - heading "www.alibaba.com" [level=3] [ref=e341]
+                  - link "مشاهده فروشگاه" [ref=e342] [cursor=pointer]:
+                    - /url: https://www.alibaba.com/
+                - paragraph [ref=e347]:
+                  - strong [ref=e349]: علی بابا
+        - generic [ref=e357]:
+          - heading [level=4]
+          - heading "به سادگی با تمام دنیا تجارت کنید !" [level=4] [ref=e358]:
+            - generic [ref=e359]:
+              - generic [ref=e360]: به سادگی با تمام دنیا
+              - generic [ref=e361]: تجارت کنید !
+          - generic [ref=e365]:
+            - img "دوره استاد حسین سماواتی" [ref=e367]
+            - generic [ref=e372]:
+              - heading "آموزش بازرگانی و تجارت بین الملل" [level=2] [ref=e373]
+              - paragraph [ref=e374]: دوره آموزش تجارت جهانی
+              - link "شروع آموزش" [ref=e375] [cursor=pointer]:
+                - /url: https://www.mandegarcommerce.com/educational/
+                - generic [ref=e377]: 
+        - generic [ref=e380]:
+          - heading "تجربه کاری گروه بازرگانی ماندگار" [level=3] [ref=e381]
+          - generic [ref=e384]:
+            - paragraph [ref=e388]:
+              - generic [ref=e389]: "واردات کالا: 95%"
+            - paragraph [ref=e393]:
+              - generic [ref=e394]: "صادرات: 95%"
+            - paragraph [ref=e398]:
+              - generic [ref=e399]: "گمرک: 87%"
+            - paragraph [ref=e403]:
+              - generic [ref=e404]: "پشتیبانی: 100%"
+        - generic [ref=e409]:
+          - heading "مشتریان ما" [level=3] [ref=e410]
+          - generic [ref=e413]:
+            - generic [ref=e418]:
+              - img "Rated 5 out of 5" [ref=e419]:
+                - text: 
+                - generic [ref=e420]:
+                  - text: 
+                  - strong
+              - paragraph [ref=e422]: کار با این مجموعه بسیار لذت بخش و همچنین پر بار بوده است.
+              - generic [ref=e423]:
+                - strong [ref=e424]: مرتضی شمسی
+                - text: / مشتری
+            - generic [ref=e429]:
+              - img "Rated 5 out of 5" [ref=e430]:
+                - text: 
+                - generic [ref=e431]:
+                  - text: 
+                  - strong
+              - paragraph [ref=e434]: از روزی که با مجموعه بازرگانی ماندگار همکاری داشته ام، نکات حرفه ای بسیاری در زمینه تجارت بین المللی آموخته ام.
+              - generic [ref=e435]:
+                - strong [ref=e436]: اسفندیار
+                - text: / پیمانکار مجموعه
+            - generic [ref=e441]:
+              - img "Rated 4 out of 5" [ref=e442]:
+                - text: 
+                - generic [ref=e443]:
+                  - text: 
+                  - strong
+              - paragraph [ref=e445]: برای ترخیص کالا در گمرک از این شرکت کمک گرفتیم وبسیار با حوصله و با دقت پروژه ما را انجام دادند.
+              - generic [ref=e446]:
+                - strong [ref=e447]: سپهر علیمردانی
+                - text: / مدیر تجارت شرکت اسپینا
+          - generic [ref=e448]:
+            - generic [ref=e453]:
+              - img "Rated 5 out of 5" [ref=e454]:
+                - text: 
+                - generic [ref=e455]:
+                  - text: 
+                  - strong
+              - paragraph [ref=e457]: بسیاری از محموله های صنعتی و خوراکی ما را از کشور های دور نزدیک برای ما وارد کرده اند، بنده بسیار خشنودم از همکاری با گروه بازرگانی ماندگار کار با این مجموعه بسیار لذت بخش و همچنین پر بار بوده است.
+              - generic [ref=e458]:
+                - strong [ref=e459]: ملیحه حیدری
+                - text: / مدیر اروند تجارت
+            - generic [ref=e462]:
+              - img "بازرگانی ماندگار" [ref=e464]
+              - generic [ref=e465]:
+                - img "Rated 5 out of 5" [ref=e466]:
+                  - text: 
+                  - generic [ref=e467]:
+                    - text: 
+                    - strong
+                - paragraph [ref=e470]: برای خرید تعداد از اقلام همچون لباس و کفش ورزشی از ترکیه توسط سایت فروشگاهی الیزا شاپ با شرکت بازرگانی ماندگار آشنا شدیم و در پروژه های بعدی با همکاری های خوب اقای پورجولا توانستیم بار خریداری شده را از کشور ترکیه وارد کنیم.
+                - generic [ref=e471]:
+                  - strong [ref=e472]: الهام شرفی
+                  - text: / مشتری
+            - generic [ref=e475]:
+              - img "بازرگانی ماندگار" [ref=e477]
+              - generic [ref=e478]:
+                - img "Rated 4 out of 5" [ref=e479]:
+                  - text: 
+                  - generic [ref=e480]:
+                    - text: 
+                    - strong
+                - paragraph [ref=e482]: به تازگی برای وارد کردن اقلام کمیاب دارویی با این شرکت قرار داد بسته ایم و از قیمت بسیار مناسب و منصفانه این گروه نهایت استفاده را می بریم و از زمان رسیدن کالا ها بسیار راضی هستیم.
+                - generic [ref=e483]:
+                  - strong [ref=e484]: خانم شکوری
+                  - text: / مسئول تامین شرکت سینا
+          - link "مشاوره رایگان" [ref=e488] [cursor=pointer]:
+            - /url: https://www.mandegarcommerce.com/contact/
+            - generic [ref=e490]: 
+        - generic [ref=e496]:
+          - heading "شرکای تجاری ما" [level=4] [ref=e497]
+          - tablist [ref=e498]:
+            - tab "ترکیه" [selected] [ref=e499] [cursor=pointer]
+            - tab "چین" [ref=e501] [cursor=pointer]
+            - tab "امارات" [ref=e503] [cursor=pointer]
+          - tabpanel "ترکیه" [ref=e506]:
+            - paragraph [ref=e514]: شرکای تجاری ما در کشور ترکیه می توانند تمامی کالا های مورد نیاز شما را به صورت عمده و یا غیر عمده خریداری و وارد ایران کنند. این پروسه بسته به شرایط منطقه ای و مرزی و شرایط بسیار دیگر می تواند بین 4 تا 8 هفته به طول انجامد (در مواقع نادر مدت زمان ممکن است کمی بیشتر هم شود).
+        - generic [ref=e519]:
+          - generic [ref=e520]:
+            - generic [ref=e522]:
+              - heading "شرکت بازرگانی ماندگار برای" [level=3] [ref=e523]
+              - heading "شما" [level=3] [ref=e524]
+              - heading "چه کارهایی می‌تواند انجام دهد؟" [level=3] [ref=e525]
+              - paragraph [ref=e526]: "در قسمت زیر می توانید خدمات گروه بازرگانی ماندگار را بررسی فرمایید:"
+            - img "بازرگانی ماندگار" [ref=e532]
+          - generic [ref=e533]:
+            - generic [ref=e535]:
+              - heading "گام اول:" [level=3] [ref=e536]
+              - heading "منبع یابی" [level=5] [ref=e537]
+              - paragraph [ref=e539]: منبع یابی فروشندگان و تولید کنندگان خارجی توسط متخصصان بازاریابی بازرگانی ماندگار در سریعترین زمان ممکن توسط بهترین و به روز ترین ابزار های ارتباطی و با استفاده از ارتباطات و لینک های شرکت در خارج از کشور.
+              - img "بازرگانی ماندگار" [ref=e542]
+              - img "منبع یابی کالا" [ref=e545]
+            - generic [ref=e547]:
+              - heading "گام دوم:" [level=3] [ref=e548]
+              - heading "خرید کالاهای خارجی" [level=5] [ref=e549]
+              - generic [ref=e550]:
+                - paragraph [ref=e551]: خرید کالاهای مد نظر شما از بهترین تولید کنندگان و فروشندگان معتبر با نازلترین قیمت در سریعترین زمان ممکن توسط تیم بازرگانی ماندگار
+                - paragraph [ref=e552]:
+                  - text: خرید کالاهای مد نظر شما با در نظر گرفتن نواسانات ارزی به صورت کاملا آنلاین و با بهترین قیمت ممکن توسط
+                  - strong [ref=e553]: بازرگانی ماندگار انجام خواهد شد
+              - img "خرید کالا های خارجی" [ref=e556]
+            - generic [ref=e558]:
+              - heading "گام سوم:" [level=3] [ref=e559]
+              - heading "خرید از سایت های اینترنتی" [level=5] [ref=e560]
+              - generic [ref=e561]:
+                - paragraph [ref=e562]: کالا های مد نظر شما را از سایت های اینترنتی خرید و در اسرع وقت درب منزل تحویل بگیرید.
+                - paragraph [ref=e563]: اگر کالا های مد نظر شما داخل سایتی مثل آمازون و یا علی بابا وجود دارد می توانیم برای شما سریعا ثبت سفارش کنیم
+              - img "خرید از سایت های خارجی" [ref=e566]
+            - generic [ref=e568]:
+              - heading "گام چهارم:" [level=3] [ref=e569]
+              - heading "انتقال وجه و ارز به کشور مقصد" [level=5] [ref=e570]
+              - paragraph [ref=e572]: در سریع ترین و ایمن ترین راه و با مشارکت دفاتر ما در خارج از کشور ، انتقال و دریافت وجه و ارز خود به حساب فروشندگان و از خریداران خارجی خود توسط تیم بازرگانی ماندگار
+              - img "بازرگانی ماندگار" [ref=e575]
+              - img "انتقال وجه و ارز به کشور مقصد" [ref=e578]
+            - generic [ref=e580]:
+              - heading "گام پنجم:" [level=3] [ref=e581]
+              - heading "ثبت سفارش کالا بر روی کارت بازرگانی" [level=5] [ref=e582]
+              - paragraph [ref=e584]: ثبت سفارش و گرفتن تاییدیه در سامانه ی جامع تجارت در سریعترین زمان بر روی کارت شما و کارهای موجود شرکت
+              - img "کارت بازرگانی" [ref=e587]
+            - generic [ref=e589]:
+              - heading "گام ششم:" [level=3] [ref=e590]
+              - heading "تخصیص ارز و امور بانکی و رفع تعهد ارزی" [level=5] [ref=e591]
+              - paragraph [ref=e593]: انجام کلیه ی امور ارزی در جهت واردات و صادرات و رفع تعهد توسط تیم متخصص بازرگانی ماندگار
+              - img "تخصیص امور ارزی" [ref=e596]
+            - generic [ref=e598]:
+              - heading "گام هفتم:" [level=3] [ref=e599]
+              - heading "حمل و نقل بین المللی کالا" [level=5] [ref=e600]
+              - paragraph [ref=e602]: حمل و نقل کالا های شما به صورت هوایی، دریایی و یا زمینی توسط بهترین شرکت های حمل نقلی اکسپرس و پر سرعت و مطمعن مثل Fedex
+              - img "بازرگانی ماندگار" [ref=e605]
+              - img "حمل و نقل بین المللی" [ref=e608]
+            - generic [ref=e610]:
+              - heading "گام پایانی:" [level=3] [ref=e611]
+              - heading "ترخیص کالا از گمرکات داخلی و خارجی" [level=5] [ref=e612]
+              - paragraph [ref=e614]: ترخیص کالاهای شما از گمرکات تهران و بندرعباس و همچنین ترخیص کالا در امارات و ترکیه با سریعترین زمان و تحویل مرسوله و کالا ها به شما مشتریان عزیز.
+              - img "ترخیص کالا" [ref=e617]
+        - generic [ref=e622]:
+          - heading "تعهدات بازرگانی ماندگار به مشتریان" [level=3] [ref=e624]:
+            - generic [ref=e625]:
+              - text: تعهدات بازرگانی ماندگار به
+              - generic [ref=e626]: مشتریان
+          - generic [ref=e627]:
+            - generic [ref=e634]:
+              - heading "تحویل به موقع" [level=4] [ref=e635]
+              - paragraph [ref=e636]: تحویل مرسوله های شما به سراسر ایران
+            - generic [ref=e643]:
+              - heading "عقد قرار داد رسمی" [level=4] [ref=e644]
+              - paragraph [ref=e645]: عقد قرار داد های رسمی و شرکتی با شما مشتریان عزیز
+            - generic [ref=e652]:
+              - heading "واردات مطمعن" [level=4] [ref=e653]
+              - paragraph [ref=e654]: واردات انواع محصولات و مرسولات
+            - generic [ref=e661]:
+              - heading "مشاوره رایگان" [level=4] [ref=e662]
+              - paragraph [ref=e663]: مشاوره رایگان توسط زبده ترین کارشناسان ما
+          - link "سوالی دارید؟ بپرسید" [ref=e667] [cursor=pointer]:
+            - /url: https://www.mandegarcommerce.com/contact/
+            - generic [ref=e669]: 
+        - heading "درباره ما بیشتر بدانید" [level=3] [ref=e678]
+        - generic [ref=e684]:
+          - heading [level=4] [ref=e688]:
+            - link "شرکت بازرگانی ماندگار" [ref=e690] [cursor=pointer]:
+              - /url: https://www.mandegarcommerce.com/about-mandegar/
+          - generic [ref=e693]:
+            - paragraph [ref=e694]:
+              - strong [ref=e695]: شرکت بازرگانی ماندگار
+              - text: با سالها سابقه درخشان در زمینه واردات، صادرات، ترخیص کالا از تمام گمرکات کشور و با در اختیار داشتن کادری مجرب ، جهت ارائه هر چه بهتر خدمات بازرگانی در خدمت شما تجار عزیز می باشیم. تیم متخصص بازرگانی ماندگار همواره کوشیده است که در راستای رضایت مشتری و انجام درخواست های مشتریان کوشا و قابل قبول باشد. از سال 1402 بازرگانی ماندگار با افتتاح سایت فروشگاهی الیزا شاپ (خرید از ترندیول ترکیه) در بازار سایت های فروشگاهی ترکیه ای هم ورود کرده است و روز به روز در حال توسعه/بهبود و گسترش خدمات خود است.
+            - heading [level=4] [ref=e696]:
+              - strong [ref=e697]: خدمات شرکت ما شامل موارد زیادی در زمینه تجارت دریایی و یا هوایی می باشد، که در این سالها…
+            - paragraph [ref=e698]:
+              - link "بیشتر…" [ref=e700] [cursor=pointer]:
+                - /url: https://www.mandegarcommerce.com/about-mandegar/
+          - generic [ref=e702]:
+            - link "صفحه اصلی" [ref=e704] [cursor=pointer]:
+              - /url: https://www.mandegarcommerce.com/
+            - link "خدمات ما" [ref=e707] [cursor=pointer]:
+              - /url: https://www.mandegarcommerce.com/our-services/
+            - link "بلاگ" [ref=e710] [cursor=pointer]:
+              - /url: https://www.mandegarcommerce.com/%d9%88%d8%a8%d9%84%d8%a7%da%af/
+            - link "تماس با ما" [ref=e713] [cursor=pointer]:
+              - /url: https://www.mandegarcommerce.com/contact/
+            - link "درباره ما" [ref=e716] [cursor=pointer]:
+              - /url: https://www.mandegarcommerce.com/about-mandegar/
+    - contentinfo [ref=e718]:
+      - generic [ref=e720]:
+        - generic [ref=e722]:
+          - link "👜 خرید از ترکیه (کلیک کنید)" [ref=e724] [cursor=pointer]:
+            - /url: https://elezashop.com/
+          - generic [ref=e725]:
+            - heading "آخرین مطالب:" [level=6] [ref=e726]
+            - generic [ref=e728]:
+              - generic [ref=e731]:
+                - generic [ref=e733]:
+                  - link "خرید گوشی از ترکیه":
+                    - /url: https://mandegarcommerce.com/%d8%ae%d8%b1%db%8c%d8%af-%da%af%d9%88%d8%b4%db%8c-%d8%a7%d8%b2-%d8%aa%d8%b1%da%a9%db%8c%d9%87/
+                - heading [level=5] [ref=e736]:
+                  - link "خرید گوشی از ترکیه" [ref=e737] [cursor=pointer]:
+                    - /url: https://mandegarcommerce.com/%d8%ae%d8%b1%db%8c%d8%af-%da%af%d9%88%d8%b4%db%8c-%d8%a7%d8%b2-%d8%aa%d8%b1%da%a9%db%8c%d9%87/
+              - generic [ref=e741]:
+                - generic [ref=e743]:
+                  - link "راهنمای کامل خرید از آمازون چین Amazon China in english":
+                    - /url: https://mandegarcommerce.com/%d8%b1%d8%a7%d9%87%d9%86%d9%85%d8%a7%db%8c-%da%a9%d8%a7%d9%85%d9%84-%d8%ae%d8%b1%db%8c%d8%af-%d8%a7%d9%85%d8%a7%d8%b2%d9%88%d9%86-%da%86%db%8c%d9%86/
+                    - img "خرید از آمازون چین" [ref=e744] [cursor=pointer]
+                - heading [level=5] [ref=e747]:
+                  - link "راهنمای کامل خرید از آمازون چین Amazon China in english" [ref=e748] [cursor=pointer]:
+                    - /url: https://mandegarcommerce.com/%d8%b1%d8%a7%d9%87%d9%86%d9%85%d8%a7%db%8c-%da%a9%d8%a7%d9%85%d9%84-%d8%ae%d8%b1%db%8c%d8%af-%d8%a7%d9%85%d8%a7%d8%b2%d9%88%d9%86-%da%86%db%8c%d9%86/
+              - generic [ref=e752]:
+                - generic [ref=e754]:
+                  - link "ترخیص کار":
+                    - /url: https://mandegarcommerce.com/%d8%aa%d8%b1%d8%ae%db%8c%d8%b5-%da%a9%d8%a7%d8%b1/
+                    - img "ترخیص کار" [ref=e755] [cursor=pointer]
+                - heading [level=5] [ref=e758]:
+                  - link "ترخیص کار" [ref=e759] [cursor=pointer]:
+                    - /url: https://mandegarcommerce.com/%d8%aa%d8%b1%d8%ae%db%8c%d8%b5-%da%a9%d8%a7%d8%b1/
+        - list [ref=e763]:
+          - link [ref=e764] [cursor=pointer]:
+            - /url: https://www.instagram.com/mandegarcommercecom/
+            - listitem [ref=e765]:
+              - img "اینستاگرام" [ref=e766]
+              - text: اینستاگرام
+          - link [ref=e767] [cursor=pointer]:
+            - /url: https://t.me/mandegarcommerce
+            - listitem [ref=e768]:
+              - img "تلگرام" [ref=e769]
+              - text: تلگرام
+          - link [ref=e770] [cursor=pointer]:
+            - /url: https://www.aparat.com/Mandegarcommerce
+            - listitem [ref=e771]:
+              - img "آپارات" [ref=e772]
+              - text: آپارات
+          - link [ref=e773] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UCzonuo_rzGGcW6IquNaDzlg
+            - listitem [ref=e774]:
+              - img "یوتیوب" [ref=e775]
+              - text: یوتیوب
+          - link [ref=e776] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/mandegar-commerce-926873208/
+            - listitem [ref=e777]:
+              - img "لینکدین" [ref=e778]
+              - text: لینکدین
+        - generic [ref=e781]:
+          - heading "مشخصات تماس:" [level=6] [ref=e782]
+          - generic [ref=e783]:
+            - img "ماندگار" [ref=e784]
+            - generic [ref=e785]: "آدرس ما:"
+            - text: تهران - سید خندان، خیابان ابوذر غفاری، بین کوچه ششم و شمیرانی فر، پلاک 11، طبقه دوم، واحد پنجم
+          - separator [ref=e786]
+          - generic [ref=e787]:
+            - generic [ref=e788]:
+              - img "ماندگار" [ref=e789]
+              - generic [ref=e790]: "شماره های تماس:"
+            - generic [ref=e791]: 021-26716558 021-26716703
+            - generic [ref=e792]:
+              - img "ماندگار" [ref=e793]
+              - generic [ref=e794]: "فکس:"
+              - text: 021-26716703
+          - separator [ref=e795]
+          - generic [ref=e796]:
+            - img "ماندگار" [ref=e797]
+            - generic [ref=e798]: "ایمیل:"
+            - text: import [at] mandegarcommerce [dot] com
+        - generic [ref=e801]:
+          - heading "موقعیت ما روی نقشه:" [level=6] [ref=e802]
+          - link [ref=e803] [cursor=pointer]:
+            - /url: https://www.mandegarcommerce.com/contact/
+            - img "ماندگار" [ref=e804]
+        - text: اینستاگرام تلگرام آپارات یوتیوب لینکدین
+      - generic [ref=e809]:
+        - generic [ref=e810]:
+          - strong [ref=e811]: تمامی حقوق محفوظ می باشد
+          - text: Mandegar.co © 2022
+        - strong [ref=e814]:
+          - text: "سئو سایت:"
+          - link "حسین میخک" [ref=e815] [cursor=pointer]:
+            - /url: http://Mikhakmarkting.ir
+      - button "Go to top":
+        - generic: 
+  - text: 
+  - generic "پشتیبانی سایت" [ref=e816] [cursor=pointer]:
+    - generic [ref=e817]:
+      - generic: پشتیبانی سایت
+      - img "پشتیبانی ماندگار" [ref=e818]
+      - generic [ref=e819]: 
+  - generic [ref=e820]:
+    - generic [ref=e821]:
+      - heading "پشتیبانی سایت" [level=6] [ref=e822]
+      - generic "بستن" [ref=e823] [cursor=pointer]
+    - generic [ref=e827]:
+      - generic [ref=e829] [cursor=pointer]:
+        - img "پشتیبانی ماندگار" [ref=e830]
+        - generic [ref=e831]: چت آنلاین
+      - link "پشتیبانی ماندگار تماس مستقیم" [ref=e833] [cursor=pointer]:
+        - /url: tel:02188508498
+        - generic [ref=e834]:
+          - img "پشتیبانی ماندگار" [ref=e835]
+          - generic [ref=e836]: تماس مستقیم
+      - link "پشتیبانی ماندگار واتساپ" [ref=e838] [cursor=pointer]:
+        - /url: https://wa.me/+989196784698
+        - generic [ref=e839]:
+          - img "پشتیبانی ماندگار" [ref=e840]
+          - generic [ref=e841]: واتساپ
+      - link "پشتیبانی ماندگار تلگرام" [ref=e843] [cursor=pointer]:
+        - /url: https://t.me/mandegarcommercecom
+        - generic [ref=e844]:
+          - img "پشتیبانی ماندگار" [ref=e845]
+          - generic [ref=e846]: تلگرام
+      - link "پشتیبانی ماندگار ایتا" [ref=e848] [cursor=pointer]:
+        - /url: https://eitaa.com/mandegarcommerce%E2%81%A9
+        - generic [ref=e849]:
+          - img "پشتیبانی ماندگار" [ref=e850]
+          - generic [ref=e851]: ایتا
+      - link "پشتیبانی ماندگار اینستاگرام ماندگار" [ref=e853] [cursor=pointer]:
+        - /url: https://www.instagram.com/mandegarcommercecom/
+        - generic [ref=e854]:
+          - img "پشتیبانی ماندگار" [ref=e855]
+          - generic [ref=e856]: اینستاگرام ماندگار
+```

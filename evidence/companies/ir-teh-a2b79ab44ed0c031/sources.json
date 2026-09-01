@@ -1,0 +1,142 @@
+{
+  "company_id": "ir-teh-a2b79ab44ed0c031",
+  "errors": [],
+  "generated_at": "2026-09-01T07:43:05Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [
+    {
+      "bytes": 549710,
+      "captured_at": "2026-09-01T07:43:03Z",
+      "company_id": "ir-teh-a2b79ab44ed0c031",
+      "headless": true,
+      "page_title": "استخدام حسابدار حسابرس و مدیر مالی - پلتفرم تخصصی استخدام حوزه مالی",
+      "path": "companies/ir-teh-a2b79ab44ed0c031/screenshots/homepage.png",
+      "reason_this_matters": "Public company homepage is the primary visual evidence surface.",
+      "screenshot_type": "homepage",
+      "source_url": "http://acc-hr.ir/"
+    }
+  ],
+  "sources": [
+    {
+      "discovered_at": "2026-09-01T06:31:54Z",
+      "discovery_reason": "Book-e Avval category: انبارداری",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "محصولات یکپارچه ما حسابداری، حقوق و دستمزد، فروش، انبارداری، اموال و دارایی، جامع مالی اتصال هوشمند به سامانه مودیان و جامع تجارت ویژگی منحصربه فرد ارسال مستقیم ص",
+      "source_quality": "directory",
+      "source_title": "انبارداری در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D8%A7%D9%86%D8%A8%D8%A7%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:31:54Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-192dcc7d57ea7996",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "محصولات یکپارچه ما حسابداری، حقوق و دستمزد، فروش، انبارداری، اموال و دارایی، جامع مالی اتصال هوشمند به سامانه مودیان و جامع تجارت ویژگی منحصربه فرد ارسال مستقیم ص",
+      "source_quality": "directory",
+      "source_title": "انبارداری در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D8%A7%D9%86%D8%A8%D8%A7%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:53Z",
+      "claim": "Directory profile lists همراه سیستم with a public Tehran business listing.",
+      "confidence": 0.82,
+      "evidence_id": "ev-176a9d438b04af56",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "همراه سیستم - سیستم مالی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس همراه سیستم همه ماژول های حسابداری، فروش، انبارداری، حقوق، دارایی و سامانه های مودیان و جامع تجارت در یک نرم افزار کاهش هزینه افزایش بهره وری گزارش های آنی هوشمند سیستم مالی حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی طراحی و اجرای سیستم مدیریت و مالی نرم افزار اتوماسیون اداری و مالی فروش نرم افزار تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذا",
+      "source_quality": "directory",
+      "source_title": "همراه سیستم - سیستم مالی | کتاب اول",
+      "source_url": "https://avval.ir/profile/okcib/%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:59Z",
+      "claim": "Public website signal: order_or_contact_form",
+      "confidence": 0.72,
+      "evidence_id": "ev-b69652542f2a5c8c",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "تماس با ما | استخدام حسابدار حسابرس و مدیر مالی - پلتفرم تخصصی استخدام حوزه مالی Skip to content Toggle Navigation قوانین اخبار حرف دل Toggle Navigation 09038448115 ایمیل رسمی Menu خانه آگهی‌ها استخدام حسابدار استخدام حسابرس ‌ استخدام مدیرمالی سایر استخدام ها کارفرمایان کارجویان خدمات تبلیغاتی درباره ما تماس با ما خرید نرم افزار جامع مالی Categories کارجویان آموزش حرف دل خدمات تبلیغاتی کارفرمایان Toggle Navigation Categories کارج",
+      "signal": "order_or_contact_form",
+      "source_quality": "company_site",
+      "source_title": "استخدام حسابدار حسابرس و مدیر مالی - پلتفرم تخصصی استخدام حوزه مالی",
+      "source_url": "http://acc-hr.ir/"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:59Z",
+      "claim": "Public website signal: factory_or_warehouse",
+      "confidence": 0.86,
+      "evidence_id": "ev-ebe8758961890c43",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "انبار | استخدام حسابدار حسابرس و مدیر مالی - پلتفرم تخصصی استخدام حوزه مالی Skip to content Toggle Navigation قوانین اخبار حرف دل Toggle Navigation 09038448115 ایمیل رسمی Menu خانه آگهی‌ها استخدام حسابدار استخدام حسابرس ‌ استخدام مدیرمالی سایر استخدام ها کارفرمایان کارجویان خدمات تبلیغاتی درباره ما تماس با ما خرید نرم افزار جامع مالی Categories کارجویان آموزش حرف دل خدمات تبلیغاتی کارفرمایان Toggle Navigation Categories کارج",
+      "signal": "factory_or_warehouse",
+      "source_quality": "company_site",
+      "source_title": "استخدام حسابدار حسابرس و مدیر مالی - پلتفرم تخصصی استخدام حوزه مالی",
+      "source_url": "http://acc-hr.ir/"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:59Z",
+      "claim": "Public website signal: projects_or_clients",
+      "confidence": 0.72,
+      "evidence_id": "ev-4b750f123d7d5aa4",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "همکاران | استخدام حسابدار حسابرس و مدیر مالی - پلتفرم تخصصی استخدام حوزه مالی Skip to content Toggle Navigation قوانین اخبار حرف دل Toggle Navigation 09038448115 ایمیل رسمی Menu خانه آگهی‌ها استخدام حسابدار استخدام حسابرس ‌ استخدام مدیرمالی سایر استخدام ها کارفرمایان کارجویان خدمات تبلیغاتی درباره ما تماس با ما خرید نرم افزار جامع مالی Categories کارجویان آموزش حرف دل خدمات تبلیغاتی کارفرمایان Toggle Navigation Categories کارج",
+      "signal": "projects_or_clients",
+      "source_quality": "company_site",
+      "source_title": "استخدام حسابدار حسابرس و مدیر مالی - پلتفرم تخصصی استخدام حوزه مالی",
+      "source_url": "http://acc-hr.ir/"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:59Z",
+      "claim": "Public website signal: tender_or_contract",
+      "confidence": 0.72,
+      "evidence_id": "ev-2223711b3270e234",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "قرارداد; بازرگانی | استخدام حسابدار حسابرس و مدیر مالی - پلتفرم تخصصی استخدام حوزه مالی Skip to content Toggle Navigation قوانین اخبار حرف دل Toggle Navigation 09038448115 ایمیل رسمی Menu خانه آگهی‌ها استخدام حسابدار استخدام حسابرس ‌ استخدام مدیرمالی سایر استخدام ها کارفرمایان کارجویان خدمات تبلیغاتی درباره ما تماس با ما خرید نرم افزار جامع مالی Categories کارجویان آموزش حرف دل خدمات تبلیغاتی کارفرمایان Toggle Navigation Categories کارج",
+      "signal": "tender_or_contract",
+      "source_quality": "company_site",
+      "source_title": "استخدام حسابدار حسابرس و مدیر مالی - پلتفرم تخصصی استخدام حوزه مالی",
+      "source_url": "http://acc-hr.ir/"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:59Z",
+      "claim": "Public website signal: software_or_erp",
+      "confidence": 0.72,
+      "evidence_id": "ev-72f5c2614255c65f",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "نرم افزار; نرم‌افزار | استخدام حسابدار حسابرس و مدیر مالی - پلتفرم تخصصی استخدام حوزه مالی Skip to content Toggle Navigation قوانین اخبار حرف دل Toggle Navigation 09038448115 ایمیل رسمی Menu خانه آگهی‌ها استخدام حسابدار استخدام حسابرس ‌ استخدام مدیرمالی سایر استخدام ها کارفرمایان کارجویان خدمات تبلیغاتی درباره ما تماس با ما خرید نرم افزار جامع مالی Categories کارجویان آموزش حرف دل خدمات تبلیغاتی کارفرمایان Toggle Navigation Categories کارج",
+      "signal": "software_or_erp",
+      "source_quality": "company_site",
+      "source_title": "استخدام حسابدار حسابرس و مدیر مالی - پلتفرم تخصصی استخدام حوزه مالی",
+      "source_url": "http://acc-hr.ir/"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:59Z",
+      "claim": "Public website signal: admin_or_operations_hiring",
+      "confidence": 0.72,
+      "evidence_id": "ev-2340df4c852eae4e",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "حسابدار | استخدام حسابدار حسابرس و مدیر مالی - پلتفرم تخصصی استخدام حوزه مالی Skip to content Toggle Navigation قوانین اخبار حرف دل Toggle Navigation 09038448115 ایمیل رسمی Menu خانه آگهی‌ها استخدام حسابدار استخدام حسابرس ‌ استخدام مدیرمالی سایر استخدام ها کارفرمایان کارجویان خدمات تبلیغاتی درباره ما تماس با ما خرید نرم افزار جامع مالی Categories کارجویان آموزش حرف دل خدمات تبلیغاتی کارفرمایان Toggle Navigation Categories کارج",
+      "signal": "admin_or_operations_hiring",
+      "source_quality": "company_site",
+      "source_title": "استخدام حسابدار حسابرس و مدیر مالی - پلتفرم تخصصی استخدام حوزه مالی",
+      "source_url": "http://acc-hr.ir/"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:59Z",
+      "claim": "Public website signal: expansion_or_activity",
+      "confidence": 0.72,
+      "evidence_id": "ev-1c3255302453d347",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "توسعه | استخدام حسابدار حسابرس و مدیر مالی - پلتفرم تخصصی استخدام حوزه مالی Skip to content Toggle Navigation قوانین اخبار حرف دل Toggle Navigation 09038448115 ایمیل رسمی Menu خانه آگهی‌ها استخدام حسابدار استخدام حسابرس ‌ استخدام مدیرمالی سایر استخدام ها کارفرمایان کارجویان خدمات تبلیغاتی درباره ما تماس با ما خرید نرم افزار جامع مالی Categories کارجویان آموزش حرف دل خدمات تبلیغاتی کارفرمایان Toggle Navigation Categories کارج",
+      "signal": "expansion_or_activity",
+      "source_quality": "company_site",
+      "source_title": "استخدام حسابدار حسابرس و مدیر مالی - پلتفرم تخصصی استخدام حوزه مالی",
+      "source_url": "http://acc-hr.ir/"
+    }
+  ]
+}

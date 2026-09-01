@@ -1,0 +1,227 @@
+### Page
+- Page URL: https://apadanafreight.biz/
+- Page Title: صفحه اصلی ۱ - شرکت بین المللی آپادانا ترابر
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e8]:
+        - generic [ref=e9]:
+          - list [ref=e13]:
+            - listitem [ref=e14]:
+              - 'link "تلفن: 88755983 021" [ref=e15] [cursor=pointer]':
+                - /url: tel:+982188755983
+                - generic [ref=e16]: 
+          - list [ref=e22]:
+            - listitem [ref=e23]:
+              - link "تهران ، خیابان مطهری ، خیابان میرعماد ، خیابان دهم طبقه سوم ، واحد 9 و 10" [ref=e24] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=e33]:
+          - generic [ref=e36] [cursor=pointer]
+          - link [ref=e46] [cursor=pointer]:
+            - /url: https://apadanafreight.biz/
+          - list [ref=e51]:
+            - listitem [ref=e52]:
+              - link "آپادانا ترابر" [ref=e53] [cursor=pointer]:
+                - /url: https://apadanafreight.biz/
+            - listitem [ref=e55]:
+              - link "خدمات ما " [ref=e56] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e58]:
+              - link "استعلام نرخ های حمل و نقل" [ref=e59] [cursor=pointer]:
+                - /url: https://apadanafreight.biz/%d8%a7%d8%b3%d8%aa%d8%b9%d9%84%d8%a7%d9%85-%d9%86%d8%b1%d8%ae-%d9%87%d8%a7%db%8c-%d8%ad%d9%85%d9%84-%d9%88-%d9%86%d9%82%d9%84/
+            - listitem [ref=e61]:
+              - link "بلاگ" [ref=e62] [cursor=pointer]:
+                - /url: https://apadanafreight.biz/blog/
+            - listitem [ref=e64]:
+              - link "ارتباط با ما " [ref=e65] [cursor=pointer]:
+                - /url: https://apadanafreight.biz/%d8%a7%d8%b1%d8%aa%d8%a8%d8%a7%d8%b7-%d8%a8%d8%a7-%d9%85%d8%a7/
+            - listitem [ref=e67]:
+              - menuitem [ref=e68] [cursor=pointer]:
+                - generic [ref=e69]:
+                  - img "فارسی" [ref=e70]
+                  - text: 
+          - link "استعلام قیمت" [ref=e74] [cursor=pointer]:
+            - /url: https://apadanafreight.biz/%d8%a7%d8%b3%d8%aa%d8%b9%d9%84%d8%a7%d9%85-%d9%86%d8%b1%d8%ae-%d9%87%d8%a7%db%8c-%d8%ad%d9%85%d9%84-%d9%88-%d9%86%d9%82%d9%84/
+    - main [ref=e80]:
+      - article [ref=e81]:
+        - generic [ref=e83]:
+          - generic [ref=e84]: حرفه ای و ممتاز
+          - generic [ref=e96]:
+            - generic [ref=e100]:
+              - paragraph [ref=e101]:
+                - text: شرکت ها به دنبال راهی برای کوتاه شدن چرخه تولید خود هستند تا مطمئن شوند که محصولاتشان با روشی مطمئن و به موقع به بازار می رسد. برای رسیدن به این هدف، آنها به افراد باتجربه ای نیازمندند که زیرساخت های جهانی و خدماتی به روز و منحصر به فرد دارند که توسط متخصصین حرفه ای و اساتید فناوری اطلاعات اداره می شوند. اولین و مهم ترین ماموریت
+                - strong [ref=e102]: آپادانا
+                - text: ، فراهم کردن زمینه ای برای مشتریان است تا در آن از خدمات و تدارکات یکپارچه «حمل و نقل» استفاده کنند.
+              - paragraph [ref=e103]: با قرار گرفتن در یکی از استراتژیک ترین نقاط دنیا، ما می توانیم به شما این اطمینان را بدهیم که بهترین سرویس ممکن را به شما ارائه خواهیم داد. سرویسی که توسط یک تیم حرفه ای با بیش از 20 سال سابقه کار پشتیبانی می شود.
+            - link "ا ر ت ب ا ط ب ا م ا" [ref=e107] [cursor=pointer]:
+              - /url: https://apadanafreight.biz/%d8%a7%d8%b1%d8%aa%d8%a8%d8%a7%d8%b7-%d8%a8%d8%a7-%d9%85%d8%a7/
+              - generic [ref=e113]:
+                - generic [ref=e114]: ا
+                - generic [ref=e115]: ر
+                - generic [ref=e116]: ت
+                - generic [ref=e117]: ب
+                - generic [ref=e118]: ا
+                - generic [ref=e119]: ط
+                - generic [ref=e122]: ب
+                - generic [ref=e123]: ا
+                - generic [ref=e126]: م
+                - generic [ref=e127]: ا
+          - generic [ref=e137]:
+            - heading "خدمات ما چیست؟" [level=3] [ref=e139]
+            - link "م ش ا ه د ه ه م ه خ د م ا ت" [ref=e147] [cursor=pointer]:
+              - /url: https://apadanafreight.biz/%d8%a7%d8%b3%d8%aa%d8%b9%d9%84%d8%a7%d9%85-%d9%86%d8%b1%d8%ae-%d9%87%d8%a7%db%8c-%d8%ad%d9%85%d9%84-%d9%88-%d9%86%d9%82%d9%84/
+              - generic [ref=e153]:
+                - generic [ref=e154]: م
+                - generic [ref=e155]: ش
+                - generic [ref=e156]: ا
+                - generic [ref=e157]: ه
+                - generic [ref=e158]: د
+                - generic [ref=e159]: ه
+                - generic [ref=e161]: ه
+                - generic [ref=e162]: م
+                - generic [ref=e163]: ه
+                - generic [ref=e165]: خ
+                - generic [ref=e166]: د
+                - generic [ref=e167]: م
+                - generic [ref=e168]: ا
+                - generic [ref=e169]: ت
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Vector (1) 1"
+          - generic [ref=e191]:
+            - paragraph [ref=e196]: ما معتقدیم که خدمات ارائه شده توسط شرکت ما ، باید انتظارات بالای مشتریان رو برآورده کند . ما با اجرای فناوری مدرن در کار خود ارزش افزوده ویژه ای برای مشتریان خود اختصاص داده ایم. به همین دلیل است که تمایل به پیشرفت مداوم نیروی محرکه تجارت حمل و نقل ماست.
+            - generic [ref=e197]:
+              - generic [ref=e204]:
+                - generic [ref=e205]: نمایندگی در سراسر دنیا
+                - heading "در همه جای جهان کنار شماییم" [level=6] [ref=e207]
+              - generic [ref=e214]:
+                - generic [ref=e215]: امنیت در انتقال
+                - heading "با انجام بهترین بیمه ها" [level=6] [ref=e217]
+              - generic [ref=e224]:
+                - generic [ref=e225]: سرعت در نقل و انتقال
+                - heading "سریعترین روش ها برای ارسال" [level=6] [ref=e227]
+              - generic [ref=e234]:
+                - generic [ref=e235]: انجام پروژه های بین المللی
+                - heading "با خیال راحت انتقال دهید" [level=6] [ref=e237]
+          - paragraph [ref=e260]: بهینه‌سازی زنجیره تأمین شما با راهکارهای قابل اعتماد، افزایش بهره‌وری و تضمین تحویل به موقع.
+          - generic [ref=e265]:
+            - paragraph [ref=e270]: فرآیند کاری ما
+            - generic [ref=e271]: روند کاری شرکت حمل و نقل آپادانا ترابر چگونه است
+            - generic [ref=e279]:
+              - generic [ref=e285]:
+                - generic [ref=e286]: "01"
+                - generic [ref=e293]:
+                  - heading "ارسال درخواست انتقال" [level=6] [ref=e294]
+                  - generic [ref=e295]: شما در خواست خود شامل نوع بار، کشور مبدا و کشور مقصد را برای ما ارسال می کنید.
+              - generic [ref=e298]:
+                - generic [ref=e299]: "02"
+                - generic [ref=e307]:
+                  - heading "بررسی درخواست شما" [level=6] [ref=e308]
+                  - generic [ref=e309]: ما درخواست شما را بررسی کرده و بهترین روش انتقال را برای شما آماده می کنیم.
+              - generic [ref=e312]:
+                - generic [ref=e313]: "03"
+                - generic [ref=e321]:
+                  - heading "ارسال پیش فاکتور برای شما" [level=6] [ref=e322]
+                  - generic [ref=e323]: هزینه نهایی به صورت کامل برای شما ارسال می گردد تا شما بررسی و پرداخت نمایید.
+              - generic [ref=e326]:
+                - generic [ref=e327]: "04"
+                - generic [ref=e333]:
+                  - heading "بارگیری و ارسال بار" [level=6] [ref=e334]
+                  - generic [ref=e335]: حالا فقط استراحت کنید و با خیال راحت منتظر رسیدن بار خودتان باشید .
+          - generic [ref=e337]:
+            - paragraph [ref=e343]: شعب آپادانا ترابر
+            - paragraph [ref=e358]: ما در شرکت حمل و نقل آپادانا ترابر بهترین راهکار با کمترین هزینه برای شما پیاده سازی می کنیم.
+            - generic "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys" [ref=e366]:
+              - group [ref=e367]:
+                - generic "شعبه تهران" [ref=e368] [cursor=pointer]:
+                  - generic [ref=e371]:
+                    - generic [ref=e372]: 
+                    - text: 
+                - region "شعبه تهران" [ref=e374]
+              - group [ref=e375]:
+                - generic "شعبه بندر عباس" [ref=e376] [cursor=pointer]:
+                  - generic [ref=e379]:
+                    - text: 
+                    - generic [ref=e380]: 
+              - group [ref=e382]:
+                - generic "شعبه بندر انزلی" [ref=e383] [cursor=pointer]:
+                  - generic [ref=e386]:
+                    - text: 
+                    - generic [ref=e387]: 
+              - group [ref=e389]:
+                - generic "شعبه بندر امیر آباد" [ref=e390] [cursor=pointer]:
+                  - generic [ref=e393]:
+                    - text: 
+                    - generic [ref=e394]: 
+              - group [ref=e396]:
+                - generic "شعبه اصفهان" [ref=e397] [cursor=pointer]:
+                  - generic [ref=e400]:
+                    - text: 
+                    - generic [ref=e401]: 
+              - group [ref=e403]:
+                - generic "شعبه بازرگان" [ref=e404] [cursor=pointer]:
+                  - generic [ref=e407]:
+                    - text: 
+                    - generic [ref=e408]: 
+              - group [ref=e410]:
+                - generic "شعبه بندر امام" [ref=e411] [cursor=pointer]:
+                  - generic [ref=e414]:
+                    - text: 
+                    - generic [ref=e415]: 
+              - group [ref=e417]:
+                - generic "شعبه چابهار" [ref=e418] [cursor=pointer]:
+                  - generic [ref=e421]:
+                    - text: 
+                    - generic [ref=e422]: 
+    - contentinfo [ref=e424]:
+      - generic [ref=e430]:
+        - link [ref=e482] [cursor=pointer]:
+          - /url: "#"
+        - generic [ref=e509]:
+          - generic [ref=e511]:
+            - generic [ref=e512]:
+              - link [ref=e516] [cursor=pointer]:
+                - /url: https://apadanafreight.biz/
+              - paragraph [ref=e521]: شرکت آپادانا ترابر از سال 1374 در بازار ایران فعالیت داشته و از آن زمان همواره یکی از شرکت های پیشرو و در حال ارایه انواع راه حلهای لجستیکی در بازار بوده است. آپادانا همچنین بعنوان یک شرکت حرفه ای و قابل اعتماد توسط مشتریان و شرکتهای حمل هوایی ، زمینی و کشتیرانی ها شناخته شده است.
+            - generic [ref=e525]:
+              - heading "خدمات ما" [level=3] [ref=e526]
+              - list [ref=e527]:
+                - listitem [ref=e528]:
+                  - link "حمل و نقل هوایی" [ref=e529] [cursor=pointer]:
+                    - /url: https://apadanafreight.biz/%d8%ad%d9%85%d9%84-%d9%88-%d9%86%d9%82%d9%84-%d9%87%d9%88%d8%a7%db%8c%db%8c/
+                - listitem [ref=e536]:
+                  - link "حمل و نقل کامیونی" [ref=e537] [cursor=pointer]:
+                    - /url: https://apadanafreight.biz/%d8%ad%d9%85%d9%84-%d9%88-%d9%86%d9%82%d9%84-%d8%b2%d9%85%db%8c%d9%86%db%8c/
+                - listitem [ref=e544]:
+                  - link "حمل و نقل با کشتی" [ref=e545] [cursor=pointer]:
+                    - /url: https://apadanafreight.biz/%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%AD%D9%85%D9%84-%D8%AF%D8%B1%D9%8A%D8%A7%D9%8A%DB%8C/
+                - listitem [ref=e552]:
+                  - link "حمل و نقل ریلی" [ref=e553] [cursor=pointer]:
+                    - /url: https://apadanafreight.biz/%d8%ad%d9%85%d9%84-%d9%88-%d9%86%d9%82%d9%84-%d8%b1%db%8c%d9%84%db%8c/
+            - generic [ref=e560]:
+              - heading "ارتباط با ما:" [level=3] [ref=e562]
+              - list [ref=e566]:
+                - listitem [ref=e567]:
+                  - 'link "تلفن: 88755983 021" [ref=e568] [cursor=pointer]':
+                    - /url: "tel: +982188755983"
+                - listitem [ref=e570]:
+                  - 'link "فکس: 88750612 021" [ref=e571] [cursor=pointer]':
+                    - /url: "tel: +982188750612"
+                - listitem [ref=e573]:
+                  - link "Info@apadanafreight.biz" [ref=e574] [cursor=pointer]:
+                    - /url: maito:Info@apadanafreight.biz
+                - listitem [ref=e576]:
+                  - link "تهران ، خیابان مطهری ، خیابان میرعماد ، خیابان دهم طبقه سوم ، واحد 9 و 10" [ref=e577] [cursor=pointer]:
+                    - /url: "#"
+          - heading "آپادانا ترابر" [level=4] [ref=e582]
+        - paragraph [ref=e590]: کپی‌رایت @2025 تمامی حقوق محفوظ است
+  - menu [ref=e593]:
+    - menuitem "Switch to English" [ref=e594] [cursor=pointer]: English
+    - menuitem [ref=e595] [cursor=pointer]:
+      - menuitem "فارسی" [ref=e596]
+```

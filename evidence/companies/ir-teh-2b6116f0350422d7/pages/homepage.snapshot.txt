@@ -1,0 +1,410 @@
+### Page
+- Page URL: https://anbargostaran.com/
+- Page Title: قفسه فلزی | قفسه انبار | قفسه بندی | سازه های فولادی انبارگستران
+### Snapshot
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e5]:
+    - list [ref=e8]:
+      - listitem [ref=e9]:
+        - link "صفحه نخست" [ref=e10] [cursor=pointer]:
+          - /url: https://anbargostaran.com/
+      - listitem [ref=e11]:
+        - link "محصولات" [ref=e12] [cursor=pointer]:
+          - /url: https://anbargostaran.com/قفسه-بندی/
+        - generic:
+          - list:
+            - listitem:
+              - link "قفسه فروشگاهی":
+                - /url: https://anbargostaran.com/قفسه-فروشگاه/
+              - generic:
+                - list:
+                  - listitem:
+                    - link "قفسه هایپرمارکتی":
+                      - /url: https://anbargostaran.com/قفسه-فروشگاهی/
+                  - listitem:
+                    - link "قفسه مغازه":
+                      - /url: https://anbargostaran.com/قفسه-مغازه/
+                  - listitem:
+                    - link "رگال":
+                      - /url: ""
+                  - listitem:
+                    - link "تجهیزات فروشگاه":
+                      - /url: https://anbargostaran.com/تجهیزات-فروشگاه/
+            - listitem:
+              - link "قفسه بندی صنعتی":
+                - /url: https://anbargostaran.com/قفسه-انبار/#wz-section-wzs62
+              - generic:
+                - list:
+                  - listitem:
+                    - link "قفسه پانل راک":
+                      - /url: https://anbargostaran.com/قفسه-بندی-پانل-راک/
+                  - listitem:
+                    - link "قفسه پالت راک":
+                      - /url: https://anbargostaran.com/قفسه-فلزی-پالت-راک/
+                  - listitem:
+                    - link "قفسه درایوین راک":
+                      - /url: https://anbargostaran.com/قفسه-فلزی-خودراهرو-قفسه-بندی-درایوین-راک/
+                  - listitem:
+                    - link "قفسه کانتیلور راک":
+                      - /url: https://anbargostaran.com/قفسه-بندی-بازویی-قفسه-فلزی-کانتیلور-راک/
+                  - listitem:
+                    - link "قفسه مشبک":
+                      - /url: https://anbargostaran.com/قفسه-انباری/
+                  - listitem:
+                    - link "نیم طبقه پیش ساخته":
+                      - /url: https://anbargostaran.com/نیم-طبقه-پیش-ساخته-مزنین/
+                  - listitem:
+                    - link "قفسه گالوانیزه":
+                      - /url: https://anbargostaran.com/گالوانیزه-سردخانه-ای/
+                  - listitem:
+                    - link "ظروف نگهداری مواد و کالا":
+                      - /url: https://anbargostaran.com/ظروف-نگهداری-مواد-و-کالا/
+            - listitem:
+              - link "قفسه اداری":
+                - /url: ""
+              - generic:
+                - list:
+                  - listitem:
+                    - link "قفسه مشبک":
+                      - /url: https://anbargostaran.com/قفسه-انباری/
+                  - listitem:
+                    - link "قفسه بایگانی ریلی":
+                      - /url: https://anbargostaran.com/قفسه-بندی-ریلی-قفسه-ریلی-بایگانی-ریلی/
+      - listitem [ref=e13]:
+        - link "گالری" [ref=e14] [cursor=pointer]:
+          - /url: https://anbargostaran.com/نمونه-کار-ها/
+      - listitem [ref=e15]:
+        - link "درباره ما" [ref=e16] [cursor=pointer]:
+          - /url: https://anbargostaran.com/درباره-ما/
+      - listitem [ref=e17]:
+        - link "وبلاگ" [ref=e18] [cursor=pointer]:
+          - /url: https://anbargostaran.com/blog/
+      - listitem [ref=e19]:
+        - link "تماس با ما" [ref=e20] [cursor=pointer]:
+          - /url: https://anbargostaran.com/تماس-با-ما/
+      - listitem [ref=e21]:
+        - link "گارانتی" [ref=e22] [cursor=pointer]:
+          - /url: https://anbargostaran.com/ضمانت/
+      - listitem [ref=e23]:
+        - link "مقالات" [ref=e24] [cursor=pointer]:
+          - /url: ""
+        - generic:
+          - list:
+            - listitem:
+              - link "خرید قفسه":
+                - /url: https://anbargostaran.com/خرید-قفسه/
+            - listitem:
+              - link "آشنایی با پالت راک":
+                - /url: https://anbargostaran.com/قفسه-بندی-پالت-راک/
+            - listitem:
+              - link "بهینه سازی راهرو قفسه راک":
+                - /url: https://anbargostaran.com/بهینه-سازی-قفسه-بندی-پالت-راک/
+    - link [ref=e25] [cursor=pointer]:
+      - /url: https://anbargostaran.com/
+      - img "قفسه فلزی انبارگستران" [ref=e28]
+    - heading "سازه های فولادی انبارگستران" [level=3] [ref=e32]
+    - generic [ref=e39]:
+      - list [ref=e41]:
+        - listitem [ref=e42]
+        - listitem [ref=e45]:
+          - img "قفسه فلزی" [ref=e47]
+        - listitem [ref=e48]:
+          - img "قفسه انباری" [ref=e50]
+        - listitem [ref=e51]:
+          - generic [ref=e52]:
+            - img "قفسه فلزی راک" [ref=e53]
+            - link [ref=e54] [cursor=pointer]:
+              - /url: https://anbargostaran.com/قفسه-بندی-پانل-راک/
+        - listitem [ref=e55]:
+          - img "قفسه فروشگاهی" [ref=e57]
+        - listitem [ref=e58]
+      - list [ref=e61]:
+        - listitem [ref=e62]:
+          - link "1" [ref=e63]:
+            - /url: "#"
+        - listitem [ref=e64]:
+          - link "2" [ref=e65] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=e66]:
+          - link "3" [ref=e67] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=e68]:
+          - link "4" [ref=e69] [cursor=pointer]:
+            - /url: "#"
+      - list:
+        - listitem:
+          - link "" [ref=e70] [cursor=pointer]:
+            - /url: "#"
+        - listitem:
+          - link "" [ref=e71] [cursor=pointer]:
+            - /url: "#"
+  - generic [ref=e73]:
+    - link [ref=e78] [cursor=pointer]:
+      - /url: https://anbargostaran.com/
+      - img "قفسه بندی انبارگستران" [ref=e81]
+    - heading "سازه های فولادی انبارگستران" [level=3] [ref=e85]
+    - heading "قیمت قفسه" [level=3] [ref=e93]
+    - list [ref=e96]:
+      - listitem [ref=e97]:
+        - link "صفحه نخست" [ref=e98] [cursor=pointer]:
+          - /url: https://anbargostaran.com/
+      - listitem [ref=e99]:
+        - link "محصولات" [ref=e100] [cursor=pointer]:
+          - /url: https://anbargostaran.com/قفسه-بندی/
+        - generic:
+          - list:
+            - listitem:
+              - link "قفسه فروشگاهی":
+                - /url: https://anbargostaran.com/قفسه-فروشگاه/
+              - generic:
+                - list:
+                  - listitem:
+                    - link "قفسه هایپرمارکتی":
+                      - /url: https://anbargostaran.com/قفسه-فروشگاهی/
+                  - listitem:
+                    - link "قفسه مغازه":
+                      - /url: https://anbargostaran.com/قفسه-مغازه/
+                  - listitem:
+                    - link "رگال":
+                      - /url: ""
+                  - listitem:
+                    - link "تجهیزات فروشگاه":
+                      - /url: https://anbargostaran.com/تجهیزات-فروشگاه/
+            - listitem:
+              - link "قفسه بندی صنعتی":
+                - /url: https://anbargostaran.com/قفسه-انبار/#wz-section-wzs62
+              - generic:
+                - list:
+                  - listitem:
+                    - link "قفسه پانل راک":
+                      - /url: https://anbargostaran.com/قفسه-بندی-پانل-راک/
+                  - listitem:
+                    - link "قفسه پالت راک":
+                      - /url: https://anbargostaran.com/قفسه-فلزی-پالت-راک/
+                  - listitem:
+                    - link "قفسه درایوین راک":
+                      - /url: https://anbargostaran.com/قفسه-فلزی-خودراهرو-قفسه-بندی-درایوین-راک/
+                  - listitem:
+                    - link "قفسه کانتیلور راک":
+                      - /url: https://anbargostaran.com/قفسه-بندی-بازویی-قفسه-فلزی-کانتیلور-راک/
+                  - listitem:
+                    - link "قفسه مشبک":
+                      - /url: https://anbargostaran.com/قفسه-انباری/
+                  - listitem:
+                    - link "نیم طبقه پیش ساخته":
+                      - /url: https://anbargostaran.com/نیم-طبقه-پیش-ساخته-مزنین/
+                  - listitem:
+                    - link "قفسه گالوانیزه":
+                      - /url: https://anbargostaran.com/گالوانیزه-سردخانه-ای/
+                  - listitem:
+                    - link "ظروف نگهداری مواد و کالا":
+                      - /url: https://anbargostaran.com/ظروف-نگهداری-مواد-و-کالا/
+            - listitem:
+              - link "قفسه اداری":
+                - /url: ""
+              - generic:
+                - list:
+                  - listitem:
+                    - link "قفسه مشبک":
+                      - /url: https://anbargostaran.com/قفسه-انباری/
+                  - listitem:
+                    - link "قفسه بایگانی ریلی":
+                      - /url: https://anbargostaran.com/قفسه-بندی-ریلی-قفسه-ریلی-بایگانی-ریلی/
+      - listitem [ref=e101]:
+        - link "گالری" [ref=e102] [cursor=pointer]:
+          - /url: https://anbargostaran.com/نمونه-کار-ها/
+      - listitem [ref=e103]:
+        - link "درباره ما" [ref=e104] [cursor=pointer]:
+          - /url: https://anbargostaran.com/درباره-ما/
+      - listitem [ref=e105]:
+        - link "وبلاگ" [ref=e106] [cursor=pointer]:
+          - /url: https://anbargostaran.com/blog/
+      - listitem [ref=e107]:
+        - link "تماس با ما" [ref=e108] [cursor=pointer]:
+          - /url: https://anbargostaran.com/تماس-با-ما/
+      - listitem [ref=e109]:
+        - link "گارانتی" [ref=e110] [cursor=pointer]:
+          - /url: https://anbargostaran.com/ضمانت/
+      - listitem [ref=e111]:
+        - link "مقالات" [ref=e112] [cursor=pointer]:
+          - /url: ""
+        - generic:
+          - list:
+            - listitem:
+              - link "خرید قفسه":
+                - /url: https://anbargostaran.com/خرید-قفسه/
+            - listitem:
+              - link "آشنایی با پالت راک":
+                - /url: https://anbargostaran.com/قفسه-بندی-پالت-راک/
+            - listitem:
+              - link "بهینه سازی راهرو قفسه راک":
+                - /url: https://anbargostaran.com/بهینه-سازی-قفسه-بندی-پالت-راک/
+  - generic [ref=e114]:
+    - generic [ref=e117]:
+      - paragraph [ref=e118]:
+        - generic [ref=e119]:
+          - text: شرکت سازه های فولادی انبارگستران طراح، سازنده و مجری سیستمهای مختلف
+          - strong [ref=e120]: قفسه بندی
+          - text: و
+          - strong [ref=e121]: تجهیزات انبار
+          - text: و مصنوعات
+          - strong [ref=e122]: فروشگاهی
+          - text: در ایران می باشد که با اتکا به توانایی و دانش و تجربه دیرینه مدیران و کارشناسان خود و با استفاده از تکنولوژی و دانش فنی روز ، در زمینه های بازرگانی و تولید و مهندسی مرتبط و آشنایی کامل با امکانات و توانمندیهای موجود این صنعت در ایران و جهان در راستای تامین نیاز مشتریان فعالیت مینماید و تاکنون موفق به طراحی و اجرای هزاران مترمربع انبارهای صنعتی و فروشگاه های بزرگ و زنجیره ای شده است.
+      - paragraph [ref=e123]:
+        - generic [ref=e124]: این شرکت با استعانت از خداوند متعات سعی دارد با تحقق سازمانی پویا و دارای روحیه ای توانمند ، سازگار و چالاک به منظور بالابردن راندمان کاری و ارائه خدمات برتر و ارتقا شیوه های کسب و کار رضایت مشتریان خود را بیش از پیش فراهم آورد.شرکت سازه های فولادی انبارگستران با دارابودن سابقه 50 ساله مدیران خود در صنعت قفسه بندی ، آماده ارائه انواع خدمات ، مشاوره ، طراحی ، نصب و فروش و خدمات پس از فروش سیستم های قفسه پالت راک ، قفسه فلزی ،قفسه فروشگاهی ، انواع قفسه دیواری ، قفسه راک کفپوشدار ، قفسه خودراهرو ،قفسه بازویی ، بایگانی ریلی ، قفسه انباری ، نصب قفسه ، قفسه دفتری و ... در سراسر کشور با کادری مجرب با بهترین کیفیت در سریع ترین زمان میباشد
+    - generic [ref=e127]:
+      - heading [level=2] [ref=e128]:
+        - strong [ref=e130]: خدمات قفسه بندی انبارگستران
+      - paragraph [ref=e131]:
+        - generic [ref=e132]:
+          - text: پرسنل مجرب و کارآزموده شرکت سازه های فولادی انبارگستران از محل (انبار ، منزل ، محل کار ، فروشگاه ، کارخانه و ... ) شما بازدید فنی انجام می دهند و مشاوره و راهنمایی های خود را جهت انبارش اصولی و صحیح محل مورد نظر ارائه می دهند . سپس اقدام به تهیه نقشه فنی چیدمان و بارگذاری مینمایند و پس از تایید شما اقدام به ارسال و نصب قفسه ها می نمایند .لازم بذکر است تمامی خدمات مذکور (بازدید ، تهیه نقشه ، گارانتی و ...) رایگان می باشند.** تمامی محصولات شرکت سازه های فولادی انبارگستران شامل
+          - link "گارانتی" [ref=e134] [cursor=pointer]:
+            - /url: https://anbargostaran.com/ضمانت/
+          - text: می باشند **
+      - paragraph [ref=e135]
+    - heading "قفسه فلزی" [level=1] [ref=e139]
+  - paragraph [ref=e147]:
+    - generic [ref=e148]: برخی از مشتریان ما
+  - generic [ref=e150]:
+    - img "قفسه بندی صنایع مس" [ref=e154]
+    - img "قیمت قفسه همراه اول" [ref=e158]
+    - img "قفسه فلزی ایران خودرو" [ref=e162]
+    - img "قفسه بندی فروشگاه رفاه" [ref=e166]
+    - img "قفسه فلزی هایپراستار" [ref=e170]
+    - img "قفسه بندی بانک پاسارگاد" [ref=e174]
+    - heading "قفسه بندی انبار" [level=3] [ref=e178]
+  - generic [ref=e184]:
+    - heading "قیمت قفسه" [level=2] [ref=e185]
+    - paragraph [ref=e187]:
+      - generic [ref=e188]:
+        - text: شرکت سازه های فولادی انبارگستران همواره ارائه دهنده بالاترین کیفیت از انواع قفسه فلزی با مناسب ترین قیمت می باشد .مشتریان محترم می توانند از طریق
+        - link "تماس با ما" [ref=e190] [cursor=pointer]:
+          - /url: https://anbargostaran.com/تماس-با-ما/
+        - text: و یا لینک های ارتباطی درون سایت از قیمت انواع محصولات مطلع شوند و اقدام به خرید قفسه نمایند .
+    - paragraph [ref=e191]
+  - generic [ref=e193]:
+    - paragraph [ref=e197]:
+      - generic [ref=e198]: تماس با ما
+    - paragraph [ref=e219]:
+      - generic [ref=e220]: هر سوال یا سفارشی دارید با ما تماس بگیرید. ما خوشحال خواهیم شد که به سوالات شما پاسخ دهیم.
+    - generic [ref=e228]:
+      - generic [ref=e229]:
+        - generic [ref=e230]:
+          - generic [ref=e231]:
+            - generic [ref=e232]: نام *
+            - textbox [ref=e233]
+          - generic [ref=e234]:
+            - generic [ref=e235]: پست اکترونیک *
+            - textbox [ref=e236]
+          - generic [ref=e237]:
+            - generic [ref=e238]: موضوع
+            - textbox [ref=e239]
+        - generic [ref=e241]:
+          - generic [ref=e242]: پیغام*
+          - textbox [ref=e243]
+      - button "ارسال" [ref=e245] [cursor=pointer]
+  - generic [ref=e252]:
+    - link [ref=e257] [cursor=pointer]:
+      - /url: https://anbargostaran.com/تماس-با-ما/
+    - link [ref=e262] [cursor=pointer]:
+      - /url: https://anbargostaran.com/تماس-با-ما/
+    - link [ref=e267] [cursor=pointer]:
+      - /url: https://goo.gl/maps/vQv1QoYoyMVd6ny36
+    - paragraph [ref=e275]:
+      - generic [ref=e276]: 021-66036525021-66035692
+    - paragraph [ref=e281]:
+      - generic [ref=e282]: info@anbargostaran.com
+    - link [ref=e283] [cursor=pointer]:
+      - /url: https://www.instagram.com/anbargostaran
+    - paragraph [ref=e291]:
+      - generic [ref=e292]: تهران - خیابان آزادی - مابین بهبودی و ایستگاه مترو شادمان - کوچه شاهین پلاک 6
+    - link [ref=e294] [cursor=pointer]:
+      - /url: https://t.me/anbargostaran_shelf
+    - link [ref=e304] [cursor=pointer]:
+      - /url: http://WA.ME/989907565156
+    - paragraph [ref=e314]:
+      - generic [ref=e315]: برچسب ها
+    - iframe [ref=e319]:
+      
+    - heading [level=2] [ref=e323]:
+      - link "قفسه فلزی" [ref=e324] [cursor=pointer]:
+        - /url: https://anbargostaran.com/قفسه-انباری/#wz-section-wzs43
+    - heading [level=3] [ref=e331]:
+      - link:
+        - /url: https://anbargostaran.com/قفسه-بندی-پانل-راک/#wz-section-wzs39
+      - link "قفسه انبار" [ref=e332] [cursor=pointer]:
+        - /url: https://anbargostaran.com/قفسه-بندی-پانل-راک/#wz-section-wzs39
+    - heading [level=3] [ref=e338]:
+      - link "قفسه کتاب" [ref=e341] [cursor=pointer]:
+        - /url: https://anbargostaran.com/قفسه-انباری/
+    - heading [level=3] [ref=e345]:
+      - link "قفسه بندی فلزی" [ref=e346] [cursor=pointer]:
+        - /url: https://anbargostaran.com/نمونه-کار-ها/#wz-section-wzs7
+    - heading [level=2] [ref=e354]:
+      - link "قیمت قفسه" [ref=e355] [cursor=pointer]:
+        - /url: https://anbargostaran.com/#wz-section-wzs11
+    - heading [level=2] [ref=e361]:
+      - link "قفسه بندی" [ref=e363] [cursor=pointer]:
+        - /url: https://anbargostaran.com/blog/#wz-section-wzs20
+    - heading [level=3] [ref=e368]:
+      - link "صندوق فروشگاهی" [ref=e370] [cursor=pointer]:
+        - /url: https://anbargostaran.com/قفسه-فروشگاهی/#wz-section-wzs46
+    - heading [level=2] [ref=e375]:
+      - link "قفسه مغازه" [ref=e377] [cursor=pointer]:
+        - /url: https://anbargostaran.com/قفسه-فروشگاهی/#wz-section-wzs46
+    - heading [level=3] [ref=e382]:
+      - link "قفسه دیواری" [ref=e384] [cursor=pointer]:
+        - /url: https://anbargostaran.com/قفسه-فروشگاهی/#wz-section-wzs46
+    - heading [level=2] [ref=e389]:
+      - link "قفسه فروشگاهی" [ref=e391] [cursor=pointer]:
+        - /url: https://anbargostaran.com/قفسه-فروشگاهی/#wz-section-wzs46
+    - heading [level=2] [ref=e396]:
+      - link "خرید قفسه" [ref=e398] [cursor=pointer]:
+        - /url: https://anbargostaran.com/blog/#wz-section-wzs20
+    - heading [level=3] [ref=e403]:
+      - link "فروش قفسه" [ref=e405] [cursor=pointer]:
+        - /url: https://anbargostaran.com/blog/#wz-section-wzs20
+    - heading [level=3] [ref=e410]:
+      - link "قیمت قفسه فلزی" [ref=e412] [cursor=pointer]:
+        - /url: https://anbargostaran.com/#wz-section-wzs11
+    - heading [level=3] [ref=e417]:
+      - link "قفسه انباری" [ref=e419] [cursor=pointer]:
+        - /url: https://anbargostaran.com/قفسه-انباری/#wz-section-wzs43
+    - heading [level=3] [ref=e424]:
+      - generic [ref=e426]:
+        - text: تجهیزا
+        - link:
+          - /url: https://anbargostaran.com/قفسه-فروشگاهی/#wz-section-wzs31
+        - text: ت فروشگاهی
+    - heading [level=3] [ref=e430]:
+      - link "قفسه فروشگاه" [ref=e432] [cursor=pointer]:
+        - /url: https://anbargostaran.com/قفسه-فروشگاهی/#wz-section-wzs46
+    - heading [level=3] [ref=e437]:
+      - link "قفسه مشبک" [ref=e439] [cursor=pointer]:
+        - /url: https://anbargostaran.com/قفسه-انباری/#wz-section-wzs43
+    - heading [level=3] [ref=e444]:
+      - link "قفسه بندی انباری" [ref=e446] [cursor=pointer]:
+        - /url: https://anbargostaran.com/قفسه-انباری/#wz-section-wzs43
+    - heading [level=3] [ref=e451]:
+      - link "قیمت قفسه مغازه" [ref=e453] [cursor=pointer]:
+        - /url: https://anbargostaran.com/#wz-section-wzs11
+    - heading [level=3] [ref=e458]:
+      - link "قفسه بندی انبار" [ref=e460] [cursor=pointer]:
+        - /url: https://anbargostaran.com/قفسه-انباری/#wz-section-wzs43
+    - heading [level=3] [ref=e465]:
+      - link "قفسه بندی انباری" [ref=e467] [cursor=pointer]:
+        - /url: https://anbargostaran.com/قفسه-انباری/#wz-section-wzs43
+    - heading [level=3] [ref=e472]:
+      - link "قفسه راک" [ref=e474] [cursor=pointer]:
+        - /url: https://anbargostaran.com/قفسه-فلزی-پالت-راک/#wz-section-wzs40
+    - heading [level=3] [ref=e479]:
+      - link "قیمت قفسه فروشگاهی" [ref=e481] [cursor=pointer]:
+        - /url: https://anbargostaran.com/#wz-section-wzs11
+    - heading [level=3] [ref=e486]:
+      - link "بایگانی ریلی" [ref=e488] [cursor=pointer]:
+        - /url: https://anbargostaran.com/قفسه-بندی-ریلی-قفسه-ریلی-بایگانی-ریلی/#wz-section-wzs45
+    - heading [level=3] [ref=e493]:
+      - link "نصب قفسه" [ref=e495] [cursor=pointer]:
+        - /url: https://anbargostaran.com/#wz-section-wzs36
+```

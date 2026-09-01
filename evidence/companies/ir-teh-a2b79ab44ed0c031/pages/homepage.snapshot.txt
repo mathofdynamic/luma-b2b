@@ -1,0 +1,281 @@
+### Page
+- Page URL: http://acc-hr.ir/
+- Page Title: استخدام حسابدار حسابرس و مدیر مالی - پلتفرم تخصصی استخدام حوزه مالی
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e7]:
+        - link "Accountant Logo 2" [ref=e12] [cursor=pointer]:
+          - /url: http://acc-hr.ir/
+          - img "استخدام حسابدار حسابرس و مدیر مالی Logo" [ref=e13]
+        - generic [ref=e16]:
+          - navigation "آموزش‌ها" [ref=e19]:
+            - text:  
+            - list [ref=e20]:
+              - listitem [ref=e21]:
+                - link "قوانین" [ref=e24] [cursor=pointer]:
+                  - /url: http://acc-hr.ir/category/%d9%82%d9%88%d8%a7%d9%86%db%8c%d9%86/
+                  - generic [ref=e26]: 
+              - listitem [ref=e28]:
+                - link "اخبار" [ref=e31] [cursor=pointer]:
+                  - /url: http://acc-hr.ir/category/%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1/
+                  - generic [ref=e33]: 
+              - listitem [ref=e35]:
+                - link "حرف دل" [ref=e38] [cursor=pointer]:
+                  - /url: http://acc-hr.ir/category/%d8%ad%d8%b1%d9%81-%d8%af%d9%84/
+                  - generic [ref=e40]: 
+          - navigation "منوی شماره تماس بالای سایت" [ref=e44]:
+            - text:  
+            - list [ref=e45]:
+              - listitem [ref=e46]:
+                - link "09038448115" [ref=e49] [cursor=pointer]:
+                  - /url: tel:09038448115
+                  - generic [ref=e50]: 
+              - listitem [ref=e53]:
+                - link "ایمیل رسمی" [ref=e56] [cursor=pointer]:
+                  - /url: mailto:acc.hr.ir@gmail.com
+                  - generic [ref=e57]: 
+          - generic [ref=e64]:
+            - link "instagram" [ref=e65] [cursor=pointer]:
+              - /url: https://Instagram.com/Acc_hr_ir
+              - text: 
+            - link "linkedin" [ref=e66] [cursor=pointer]:
+              - /url: https://linkedin.com/acc_hr
+              - text: 
+            - link "telegram" [ref=e67] [cursor=pointer]:
+              - /url: https://t.me/+3Bas8RjLE5NlNzg8
+              - text: 
+          - navigation "منوی اصلی سایت" [ref=e70]:
+            - text:  
+            - list [ref=e71]:
+              - listitem [ref=e72]:
+                - link [ref=e74] [cursor=pointer]:
+                  - /url: http://acc-hr.ir/
+                  - generic [ref=e75]: 
+              - listitem [ref=e77]:
+                - link "آگهی‌ها " [ref=e79] [cursor=pointer]:
+                  - /url: http://acc-hr.ir/category/%d8%a2%da%af%d9%87%db%8c-%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85/
+                  - generic [ref=e80]: آگهی‌ها
+                  - generic [ref=e81]: 
+                  - generic [ref=e83]: 
+                - text: 
+              - listitem [ref=e84]:
+                - link "کارفرمایان" [ref=e86] [cursor=pointer]:
+                  - /url: http://acc-hr.ir/category/%da%a9%d8%a7%d8%b1%d9%81%d8%b1%d9%85%d8%a7%db%8c%d8%a7%d9%86/
+                  - generic [ref=e88]: 
+              - listitem [ref=e90]:
+                - link "کارجویان" [ref=e92] [cursor=pointer]:
+                  - /url: http://acc-hr.ir/category/%da%a9%d8%a7%d8%b1%d8%ac%d9%88%db%8c%d8%a7%d9%86/
+                  - generic [ref=e94]: 
+              - listitem [ref=e96]:
+                - link "خدمات تبلیغاتی" [ref=e98] [cursor=pointer]:
+                  - /url: http://acc-hr.ir/category/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%aa%d8%a8%d9%84%db%8c%d8%ba%d8%a7%d8%aa%db%8c/
+                  - generic [ref=e100]: 
+              - listitem [ref=e102]:
+                - link "درباره ما" [ref=e104] [cursor=pointer]:
+                  - /url: http://acc-hr.ir/about/
+                  - generic [ref=e106]: 
+              - listitem [ref=e108]:
+                - link "تماس با ما" [ref=e110] [cursor=pointer]:
+                  - /url: http://acc-hr.ir/contact/
+                  - generic [ref=e112]: 
+              - listitem [ref=e114]:
+                - link "خرید نرم افزار جامع مالی" [ref=e115] [cursor=pointer]:
+                  - /url: https://ble.ir/softwareacc/8755364074186248681/1778309421976
+                  - generic [ref=e116]:
+                    - generic [ref=e117]: 
+                    - generic [ref=e119]: خرید نرم افزار جامع مالی
+      - text:      
+    - generic [ref=e123]:
+      - paragraph [ref=e127]: جای شما در گروه مدیران مالی خالی است. خوشحال میشیم تشریف بیاورید 🌹باتوجه به شرایط کشور فعلا در ایتا و بله فعال هستیم.
+      - link "گروه مدیران مالی در ایتا" [ref=e131] [cursor=pointer]:
+        - /url: https://eitaa.com/joinchat/1042547677C667d69c8fb
+        - generic [ref=e133]: 
+      - link "گروه مدیران مالی در بله" [ref=e137] [cursor=pointer]:
+        - /url: http://ble.ir/join/ADeEVmmbAw
+        - generic [ref=e139]: 
+      - generic [ref=e141]:
+        - heading [level=1] [ref=e143]:
+          - paragraph [ref=e144]: پلتفرم تخصصی استخدام حوزه مالی
+        - paragraph [ref=e146]: بروزترین و معتبرترین آگهی‌های استخدامی حسابدار، حسابرس و مدیر مالی
+        - link "عضویت در گروه تخصصی مدیران مالی" [ref=e148] [cursor=pointer]:
+          - /url: http://acc-hr.ir/contact/
+          - generic [ref=e150]: 
+      - img "Contract Signing Illustration" [ref=e155]
+    - main [ref=e156]:
+      - generic [ref=e160]:
+        - generic [ref=e162]:
+          - heading "خدمات ویژه کارفرمایان" [level=2] [ref=e168]
+          - generic [ref=e172]:
+            - link "Link to http://acc-hr.ir/services/accounting/" [ref=e173] [cursor=pointer]:
+              - /url: http://acc-hr.ir/services/accounting/
+              - text: 
+            - heading [level=3] [ref=e175]:
+              - link "انتشار آگهی" [ref=e176] [cursor=pointer]:
+                - /url: http://acc-hr.ir/services/accounting/
+            - paragraph [ref=e178]: آگهی استخدامی و جذب نیروی تخصصی را در شبکه‌های «استخدام حسابدار» منتشر کنید و رزومه‌های تخصصی حوزه مالی را دریافت کنید. هزینه این حالت متناسب با شرایط مختلف متغیر می‌باشد.
+          - generic [ref=e180]:
+            - link "Link to http://acc-hr.ir/services/tax-services/" [ref=e181] [cursor=pointer]:
+              - /url: http://acc-hr.ir/services/tax-services/
+              - text: 
+            - heading [level=3] [ref=e183]:
+              - link [ref=e184] [cursor=pointer]:
+                - /url: http://acc-hr.ir/services/tax-services/
+                - paragraph [ref=e185]: استخدام تضمینی
+            - paragraph [ref=e187]: در این حالت از افراد معتبر و با سابقه مناسب از بانک رزومه‌ها گزینه‌هایی که با شرایط کارفرما تطابق داشته باشد، معرفی می‌شوند. در صورت عدم رضایت مبلغ عینا عودت داده می‌شود.
+          - generic [ref=e189]:
+            - link "Link to http://acc-hr.ir/services/financial/" [ref=e190] [cursor=pointer]:
+              - /url: http://acc-hr.ir/services/financial/
+              - text: 
+            - heading [level=3] [ref=e192]:
+              - link [ref=e193] [cursor=pointer]:
+                - /url: http://acc-hr.ir/services/financial/
+                - paragraph [ref=e194]: خدمات مدیریت مالی شرکت‌ها
+            - paragraph [ref=e196]: مسئولیت مدیریت مالی و حسابداری شرکت‌ شما را بر عهده می‌گیریم و در صورت نیاز نیرو مستقر می‌کنیم، برون‌سپاری مالی و حسابداری با استقرار نیرو، با مضای قرارداد کاری شروع خواهد شد.
+          - link "ادامه خدمات کارفرمایان را در اینجا ببینید" [ref=e200] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e202]: 
+          - generic [ref=e204]:
+            - heading "نیاز به مشاوره و راهنمایی در مورد استخدام حسابدار دارید؟" [level=3] [ref=e206]
+            - paragraph [ref=e208]: با پر کردن فرم زیر می‌توانید درخواست خود را ثبت کنید تا همکاران ما در اسرع وقت با شما ارتباط بگیرند
+            - link "درخواست مشاوره" [ref=e210] [cursor=pointer]:
+              - /url: http://acc-hr.ir/services/
+        - generic [ref=e212]: 
+        - generic [ref=e224]:
+          - heading "خدمات ویژه کارجویان" [level=2] [ref=e230]
+          - generic [ref=e234]:
+            - link "Link to http://acc-hr.ir/services/accounting/" [ref=e235] [cursor=pointer]:
+              - /url: http://acc-hr.ir/services/accounting/
+              - text: 
+            - heading [level=3] [ref=e237]:
+              - link "نگارش رزومه" [ref=e238] [cursor=pointer]:
+                - /url: http://acc-hr.ir/services/accounting/
+            - paragraph [ref=e240]: رزومه نوشتن کار هرکسی نیست. رزومه موفق نیازمند استراتژی و شناخت دقیق کارفرما می‌باشد. اگه تخصص داری ولی دعوت به مصاحبه نمی‌شوید شاید اشکال از رزومه‌تون هست.
+          - generic [ref=e242]:
+            - link "Link to http://acc-hr.ir/services/tax-services/" [ref=e243] [cursor=pointer]:
+              - /url: http://acc-hr.ir/services/tax-services/
+              - text: 
+            - heading [level=3] [ref=e245]:
+              - link [ref=e246] [cursor=pointer]:
+                - /url: http://acc-hr.ir/services/tax-services/
+                - paragraph [ref=e247]: توانمند سازی
+            - paragraph [ref=e249]: ابزارهایی در اختیار شما قرار می‌دهیم تا هنگام مصاحبه با کارفرما بتوانید نسبت به بقیه مزیت رقابتی داشته باشید. هزینه‌های کارفرما با استخدام شما کمتر می‌شود و شانس استخدام شما بالا می‌رود.
+          - generic [ref=e251]:
+            - link "Link to http://acc-hr.ir/services/financial/" [ref=e252] [cursor=pointer]:
+              - /url: http://acc-hr.ir/services/financial/
+              - text: 
+            - heading [level=3] [ref=e254]:
+              - link [ref=e255] [cursor=pointer]:
+                - /url: http://acc-hr.ir/services/financial/
+                - paragraph [ref=e256]: شبکه تخصصی مدیران مالی
+            - paragraph [ref=e258]: در گروه تخصصی مدیران مالی، اخبار اطلاعیه‌ها، قوانین و بخشنامه‌ها را دریافت کنید و سوالات خود را از همکاران بپرسید. در صورت نیاز امورتان را به افراد متخصص برون سپاری کنید یا مشاوره بگیرید.
+          - link "ادامه خدمات کارجویان را در اینجا ببینید" [ref=e262] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e264]: 
+          - generic [ref=e266]:
+            - heading "نیاز به مشاوره و راهنمایی در مورد استخدام خود دارید؟" [level=3] [ref=e268]
+            - paragraph [ref=e270]: با پر کردن فرم زیر می‌توانید درخواست خود را ثبت کنید تا همکاران ما در اسرع وقت با شما ارتباط بگیرند
+            - link "درخواست مشاوره" [ref=e272] [cursor=pointer]:
+              - /url: http://acc-hr.ir/services/
+        - generic [ref=e274]: 
+        - generic [ref=e286]:
+          - img "Team Meeting 4" [ref=e291]
+          - generic [ref=e293]:
+            - heading [level=2] [ref=e295]:
+              - paragraph [ref=e296]: شرکت شما، دپارتمان مالی حرفه‌ای می‌خواهد
+            - generic [ref=e297]:
+              - paragraph [ref=e298]: صفر تا صد امور مالی، بیمه و مالیاتی‌تان را به ما بسپارید. اعزام حسابدار و مدیر مالی مجرب به محل شما؛ دقیق، به‌روز و بی‌دردسر …
+              - paragraph [ref=e299]: مطالب زیر را مطالعه کنید
+            - link "اعزام حسابدار و مدیر مالی متخصص" [ref=e301] [cursor=pointer]:
+              - /url: http://acc-hr.ir/
+              - generic [ref=e303]: 
+            - link "انجام امور مالی شرکت شما به صورت دورکاری" [ref=e305] [cursor=pointer]:
+              - /url: http://acc-hr.ir/
+              - generic [ref=e307]: 
+            - link "انجام صفر تا صد امور بیمه و مالیاتی" [ref=e309] [cursor=pointer]:
+              - /url: http://acc-hr.ir/
+              - generic [ref=e311]: 
+            - link "مطالعه مطالب بیشتر" [ref=e313] [cursor=pointer]:
+              - /url: http://acc-hr.ir/
+              - generic [ref=e315]: 
+        - generic [ref=e316]: 
+        - generic [ref=e328]:
+          - heading [level=2] [ref=e334]:
+            - paragraph [ref=e335]: هنوز با نرم‌افزارهای قدیمی درگیر هستید؟
+          - generic [ref=e339]:
+            - heading [level=3] [ref=e341]:
+              - paragraph [ref=e342]: پشتیبانی و پاسخ به سوالات 24 ساعته
+            - img "Background22" [ref=e345]
+            - paragraph [ref=e347]: سوالات و مشکلات خود را در تیکت ثبت کنید و در کمترین زمان پاسخ بگیرید. تیکت‌های فوری با تلفن پاسخ داده می‌شوند.
+            - paragraph [ref=e349]: متخصصین همراه سیستم همیشه آنلاین هستند
+          - generic [ref=e351]:
+            - heading "نرم افزار آنلاین و همیشه در دسترس" [level=3] [ref=e353]
+            - img "acc" [ref=e356]
+            - paragraph [ref=e358]: امکانات ماژولار و قابل انتخاب، قیمت بسیار ارزان و راه اندازی سریع، بهترین‌ها اینجا هستند. کاملا امن و بدون محدودیت.
+            - paragraph [ref=e360]:
+              - strong [ref=e361]: قبل از خرید دمو را ببینید تا آگاهانه انتخاب کنید
+          - generic [ref=e363]:
+            - heading [level=3] [ref=e365]:
+              - paragraph [ref=e366]: فول امکانات مالی و حسابداری
+            - img "123654" [ref=e369]
+            - paragraph [ref=e371]: حسابداری (تعهدی و غیر تعهدی)، بازرگانی، انبارداری، فروش (آنلاین و آفلاین)، خزانه، قراردادها، حقوق دستمزد، اموال، مودیان …
+            - paragraph [ref=e373]: هر نیاز نرم افزاری دیگری داشته باشید، ما هستیم
+    - generic [ref=e375]:
+      - generic [ref=e377]:
+        - generic [ref=e379]:
+          - link "Accountant Logo 2" [ref=e382] [cursor=pointer]:
+            - /url: https://acc-hr.ir
+            - img "استخدام حسابدار حسابرس و مدیر مالی Logo" [ref=e383]
+          - paragraph [ref=e385]:
+            - text: جدیدترین و معتبرترین آگهی‌های استخدامی مرتبط با
+            - strong [ref=e386]: حسابداری، حسابرسی و مدیریت مالی
+            - text: را یک‌جا پیدا کن. اینجا جای فرصت‌های واقعی است، برای مسیر شغلی دقیق و درست.
+        - generic [ref=e388]:
+          - heading "لینک های مفید" [level=1] [ref=e390]
+          - generic [ref=e391]:
+            - navigation "منوی شماره تماس بالای سایت" [ref=e394]:
+              - list [ref=e395]:
+                - listitem [ref=e396]:
+                  - link "09038448115" [ref=e398] [cursor=pointer]:
+                    - /url: tel:09038448115
+                    - generic [ref=e400]: 
+                - listitem [ref=e402]:
+                  - link "ایمیل رسمی" [ref=e404] [cursor=pointer]:
+                    - /url: mailto:acc.hr.ir@gmail.com
+                    - generic [ref=e406]: 
+            - navigation "آموزش‌ها" [ref=e410]:
+              - list [ref=e411]:
+                - listitem [ref=e412]:
+                  - link "قوانین" [ref=e414] [cursor=pointer]:
+                    - /url: http://acc-hr.ir/category/%d9%82%d9%88%d8%a7%d9%86%db%8c%d9%86/
+                    - generic [ref=e416]: 
+                - listitem [ref=e418]:
+                  - link "اخبار" [ref=e420] [cursor=pointer]:
+                    - /url: http://acc-hr.ir/category/%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1/
+                    - generic [ref=e422]: 
+                - listitem [ref=e424]:
+                  - link "حرف دل" [ref=e426] [cursor=pointer]:
+                    - /url: http://acc-hr.ir/category/%d8%ad%d8%b1%d9%81-%d8%af%d9%84/
+                    - generic [ref=e428]: 
+        - generic [ref=e431]:
+          - heading [level=1] [ref=e433]:
+            - paragraph [ref=e434]: نشانی و اطلاعات تماس
+          - paragraph [ref=e436]: تهران، بالاتر از میدان حضرت ولی‌عصر (عج)، کوچه پزشک، پلاک 14، طبقه پنجم
+          - link "02188899339" [ref=e438] [cursor=pointer]:
+            - /url: tel:88899339
+            - generic [ref=e440]: 
+          - link "acc.hr.ir@gmail.com" [ref=e442] [cursor=pointer]:
+            - /url: mailto:acc.hr.ir@gmail.com
+            - generic [ref=e444]: 
+      - paragraph [ref=e450]:
+        - text: © 2026| تمامی حقوق برای استخدام حسابدار (Acc_Hr) محفوظ است • طراحی و توسعه با
+        - link "♥" [ref=e451] [cursor=pointer]:
+          - /url: telto:09938383705
+        - text: توسط تیم
+        - link "همراه سیستم" [ref=e452] [cursor=pointer]:
+          - /url: https://t.me/Software_Hs
+```

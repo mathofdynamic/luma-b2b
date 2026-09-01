@@ -1,0 +1,260 @@
+### Page
+- Page URL: https://www.heliapub.com/
+- Page Title: موسسه انتشاراتی هلیا
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - link "عبور به ناوبری" [ref=e3] [cursor=pointer]:
+      - /url: "#menu-%d9%85%d9%86%d9%88%db%8c-%d8%a7%d8%b5%d9%84%db%8c"
+    - link "رفتن به محتوای اصلی" [ref=e4] [cursor=pointer]:
+      - /url: "#main-content"
+  - generic [ref=e5]:
+    - banner [ref=e6]:
+      - generic [ref=e7]:
+        - generic [ref=e10]:
+          - link "لوگوی سایت" [ref=e13] [cursor=pointer]:
+            - /url: https://www.heliapub.com/
+            - img "لوگوی انتشارات" [ref=e14]
+          - generic [ref=e15]:
+            - search [ref=e17]:
+              - textbox "جستجو" [ref=e18]:
+                - /placeholder: جستجو برای نوشته ها
+              - text: 
+              - button "جستجو " [ref=e19] [cursor=pointer]:
+                - generic: جستجو
+                - text: 
+            - paragraph [ref=e28]:
+              - link [ref=e29] [cursor=pointer]:
+                - /url: tel:02166411573
+                - strong [ref=e31]: ۰۲۱۶۶۴۱۱۵۷۳
+          - generic [ref=e32]:
+            - generic "لیست علاقمندی های من" [ref=e34]:
+              - link "0" [ref=e35] [cursor=pointer]:
+                - /url: https://www.heliapub.com/favorite/
+            - link "0" [ref=e40] [cursor=pointer]:
+              - /url: https://www.heliapub.com/compare-2/
+          - text: 
+        - generic [ref=e47]:
+          - navigation "ناوبری دسته های سرصفحه" [ref=e49]:
+            - generic [ref=e50]:
+              - generic [ref=e51]: 
+              - generic [ref=e52]: دسته بندی محصولات
+              - text: 
+          - navigation "منوی اصلی" [ref=e54]:
+            - list [ref=e55]:
+              - listitem [ref=e56]:
+                - link "چاپ یادبود اموات" [ref=e57] [cursor=pointer]:
+                  - /url: /چاپ-مفاتیح-و-قرآن-یادبود-انتشارات-هلیا/
+              - listitem [ref=e59]:
+                - link "خرید اینترنتی در کالای نفیس" [ref=e60] [cursor=pointer]:
+                  - /url: https://kalayenafis.com/
+              - listitem [ref=e62]:
+                - link "کتاب نفیس" [ref=e63] [cursor=pointer]:
+                  - /url: /exquisite-book/
+              - listitem [ref=e65]:
+                - link "هدایای تبلیغاتی " [ref=e66] [cursor=pointer]:
+                  - /url: https://heliabox.com/promotional-gifts/
+                  - generic [ref=e67]: هدایای تبلیغاتی
+                  - text: 
+              - listitem [ref=e68]:
+                - link "صحافی و جعبه سازی" [ref=e69] [cursor=pointer]:
+                  - /url: https://heliabox.com/box-order/
+              - listitem [ref=e71]:
+                - link "درباره ما" [ref=e72] [cursor=pointer]:
+                  - /url: https://www.heliapub.com/about/
+              - listitem [ref=e74]:
+                - link "مقالات" [ref=e75] [cursor=pointer]:
+                  - /url: /articles/
+              - listitem [ref=e77]:
+                - link "تماس با ما" [ref=e78] [cursor=pointer]:
+                  - /url: /contact/
+          - link "فروش ویژه" [ref=e90] [cursor=pointer]:
+            - /url: https://www.heliapub.com/product-category/wonder/
+          - text:  
+    - main [ref=e94]:
+      - generic [ref=e95]:
+        - generic [ref=e97]:
+          - generic [ref=e99]:
+            - img "انتشارات هليا 1" [ref=e102]
+            - paragraph [ref=e105]: موسسه انتشارات هلیا خدماتی از جمله تولید کتاب نفیس، چاپ یادبود اموات، تولید جعبه های چرمی و لوکس برای هدیه و صنایع دستی به مشتریان خود ارائه می‌دهد.
+          - generic [ref=e107]:
+            - figure "کتاب نفیس" [ref=e110]:
+              - link [ref=e111] [cursor=pointer]:
+                - /url: https://kalayenafis.com/exquisite-gift-books/
+                - img "انتشارات هليا 2" [ref=e112]
+            - figure "هدایای تبلیغاتی و صنایع دستی" [ref=e116]:
+              - link [ref=e117] [cursor=pointer]:
+                - /url: https://heliabox.com/product-category/handicrafts/
+                - img "انتشارات هليا 3" [ref=e118]
+          - generic [ref=e121]:
+            - figure "چاپ یادبود" [ref=e124]:
+              - link [ref=e125] [cursor=pointer]:
+                - /url: https://www.heliapub.com/%da%86%d8%a7%d9%be-%d9%85%d9%81%d8%a7%d8%aa%db%8c%d8%ad-%d9%88-%d9%82%d8%b1%d8%a2%d9%86-%db%8c%d8%a7%d8%af%d8%a8%d9%88%d8%af-%d8%a7%d9%86%d8%aa%d8%b4%d8%a7%d8%b1%d8%a7%d8%aa-%d9%87%d9%84%db%8c%d8%a7/
+                - img "انتشارات هليا 4" [ref=e126]
+            - figure "جعبه هدیه" [ref=e130]:
+              - link [ref=e131] [cursor=pointer]:
+                - /url: https://heliabox.com/product-category/gift-box/
+                - img "انتشارات هليا 5" [ref=e132]
+        - generic [ref=e137]:
+          - paragraph [ref=e140]: مجله انتشارات هلیا
+          - generic [ref=e143]:
+            - generic [ref=e144]:
+              - generic [ref=e146]:
+                - article [ref=e148]:
+                  - generic [ref=e149]:
+                    - generic [ref=e150]:
+                      - img "ramadan kareem background" [ref=e152]
+                      - link "پیوند در پست دعای سحر ماه رمضان؛ آداب قرائت و اهمیت این دعا" [ref=e153] [cursor=pointer]:
+                        - /url: https://www.heliapub.com/ramadan-dawn-prayer/
+                      - generic [ref=e154]:
+                        - generic [ref=e155]: "10"
+                        - generic [ref=e156]: ژوئن
+                    - heading [level=3] [ref=e157]:
+                      - link "دعای سحر ماه رمضان؛ آداب قرائت و اهمیت این دعا" [ref=e158] [cursor=pointer]:
+                        - /url: https://www.heliapub.com/ramadan-dawn-prayer/
+                - article [ref=e160]:
+                  - generic [ref=e161]:
+                    - generic [ref=e162]:
+                      - img "Iftar prayer" [ref=e164]
+                      - link "پیوند در پست دعای افطار ؛ لحظه ای برای باز شدن در های رحمت الهی" [ref=e165] [cursor=pointer]:
+                        - /url: https://www.heliapub.com/iftar-prayer/
+                      - generic [ref=e166]:
+                        - generic [ref=e167]: "03"
+                        - generic [ref=e168]: ژوئن
+                    - heading [level=3] [ref=e169]:
+                      - link "دعای افطار ؛ لحظه ای برای باز شدن در های رحمت الهی" [ref=e170] [cursor=pointer]:
+                        - /url: https://www.heliapub.com/iftar-prayer/
+                - article [ref=e172]:
+                  - generic [ref=e173]:
+                    - generic [ref=e174]:
+                      - img "Who is Kumail's prayer from" [ref=e176]
+                      - link "پیوند در پست دعای کمیل از کیست ؟ چه مضامینی را در بر می گیرد؟" [ref=e177] [cursor=pointer]:
+                        - /url: https://www.heliapub.com/who-is-kumails-prayer-from/
+                      - generic [ref=e178]:
+                        - generic [ref=e179]: "25"
+                        - generic [ref=e180]: مه
+                    - heading [level=3] [ref=e181]:
+                      - link "دعای کمیل از کیست ؟ چه مضامینی را در بر می گیرد؟" [ref=e182] [cursor=pointer]:
+                        - /url: https://www.heliapub.com/who-is-kumails-prayer-from/
+                - article [ref=e184]:
+                  - generic [ref=e185]:
+                    - generic [ref=e186]:
+                      - img "shia Qunoot prayer" [ref=e188]
+                      - link "پیوند در پست دعای قنوت شیعه چه ویژگی هایی باید داشته باشد؟" [ref=e189] [cursor=pointer]:
+                        - /url: https://www.heliapub.com/shia-qunoot-prayer/
+                      - generic [ref=e190]:
+                        - generic [ref=e191]: "22"
+                        - generic [ref=e192]: مه
+                    - heading [level=3] [ref=e193]:
+                      - link "دعای قنوت شیعه چه ویژگی هایی باید داشته باشد؟" [ref=e194] [cursor=pointer]:
+                        - /url: https://www.heliapub.com/shia-qunoot-prayer/
+              - generic:
+                - generic: 
+                - generic: 
+            - generic [ref=e195]:
+              - list
+        - generic [ref=e199]:
+          - img "انتشارات هليا 11" [ref=e202]
+          - link "توضیحات بیشتر" [ref=e206] [cursor=pointer]:
+            - /url: https://www.heliapub.com/about/
+    - contentinfo [ref=e209]:
+      - contentinfo [ref=e212]:
+        - generic [ref=e215]:
+          - link "برگشت به بالا" [ref=e225] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e226]:
+              - generic [ref=e227]: 
+              - generic [ref=e229]: برگشت به بالا
+          - paragraph [ref=e236]:
+            - text: "شماره تماس:"
+            - link "۰۹۹۶۰۰۲۳۳۱۵" [ref=e239] [cursor=pointer]:
+              - /url: https://www.heliapub.com/contact/
+            - text: "| تلفن دفتر مرکزی:"
+            - link "۰۲۱۶۶۴۱۱۵۷۳" [ref=e242] [cursor=pointer]:
+              - /url: tel:02166411573
+            - text: "| آدرس ایمیل:"
+            - generic [ref=e243]: info@heliapub.com
+          - generic [ref=e245]:
+            - generic [ref=e247]:
+              - paragraph [ref=e250]: ما را در شبکه های اجتماعی دنبال کنید
+              - link [ref=e253] [cursor=pointer]:
+                - /url: https://www.heliapub.com/contact/
+            - generic [ref=e255]:
+              - paragraph [ref=e258]: نماد اعتماد الکترونیکی
+              - link [ref=e261] [cursor=pointer]:
+                - /url: https://www.heliapub.com/enamd/
+            - generic [ref=e263]:
+              - paragraph [ref=e266]: مقالات اخیر
+              - list [ref=e269]:
+                - listitem [ref=e270]:
+                  - heading [level=3] [ref=e272]:
+                    - link "دعای سحر ماه رمضان؛ آداب قرائت و اهمیت این دعا" [ref=e273] [cursor=pointer]:
+                      - /url: https://www.heliapub.com/ramadan-dawn-prayer/
+                - listitem [ref=e274]:
+                  - heading [level=3] [ref=e276]:
+                    - link "دعای افطار ؛ لحظه ای برای باز شدن در های رحمت الهی" [ref=e277] [cursor=pointer]:
+                      - /url: https://www.heliapub.com/iftar-prayer/
+                - listitem [ref=e278]:
+                  - heading [level=3] [ref=e280]:
+                    - link "دعای کمیل از کیست ؟ چه مضامینی را در بر می گیرد؟" [ref=e281] [cursor=pointer]:
+                      - /url: https://www.heliapub.com/who-is-kumails-prayer-from/
+                - listitem [ref=e282]:
+                  - heading [level=3] [ref=e284]:
+                    - link "دعای قنوت شیعه چه ویژگی هایی باید داشته باشد؟" [ref=e285] [cursor=pointer]:
+                      - /url: https://www.heliapub.com/shia-qunoot-prayer/
+                - listitem [ref=e286]:
+                  - heading [level=3] [ref=e288]:
+                    - link "آموزش دعا خوانی و تاثیر آن بر زندگی" [ref=e289] [cursor=pointer]:
+                      - /url: https://www.heliapub.com/teaching-praying/
+                - listitem [ref=e290]:
+                  - heading [level=3] [ref=e292]:
+                    - link "دعای ابوحمزه ثمالی از کیست ؟" [ref=e293] [cursor=pointer]:
+                      - /url: https://www.heliapub.com/%d8%af%d8%b9%d8%a7%db%8c-%d8%a7%d8%a8%d9%88%d8%ad%d9%85%d8%b2%d9%87-%d8%ab%d9%85%d8%a7%d9%84%db%8c-%d8%a7%d8%b2-%da%a9%db%8c%d8%b3%d8%aa-%d8%9f/
+          - generic [ref=e299]:
+            - link "مسیریابی" [ref=e307] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e308]:
+                - generic [ref=e309]: 
+                - generic [ref=e311]: مسیریابی
+            - paragraph [ref=e314]: "آدرس فروشگاه: تهران - خیابان انقلاب - روبروی دانشگاه - ابتدای خیابان فخر رازی پلاک 56 جنب ورودی 1 - (ساعات کاری 9 الی 20)"
+  - link "دکمه اسکرول به بالا":
+    - /url: "#"
+    - text: 
+  - navigation "منوی اصلی" [ref=e315]:
+    - search [ref=e317]:
+      - textbox "جستجو" [ref=e318]:
+        - /placeholder: جستجوی محصولات
+      - text: 
+      - button "جستجو " [ref=e319] [cursor=pointer]:
+        - generic: جستجو
+        - text: 
+    - list [ref=e320]:
+      - listitem [ref=e321]:
+        - link "دسته بندی ها" [ref=e322] [cursor=pointer]:
+          - /url: "#"
+      - listitem [ref=e324]:
+        - link "منو" [ref=e325] [cursor=pointer]:
+          - /url: "#"
+    - list [ref=e327]:
+      - listitem [ref=e328]:
+        - link "چاپ یادبود اموات" [ref=e329] [cursor=pointer]:
+          - /url: /چاپ-مفاتیح-و-قرآن-یادبود-انتشارات-هلیا/
+      - listitem [ref=e331]:
+        - link "خرید اینترنتی در کالای نفیس" [ref=e332] [cursor=pointer]:
+          - /url: https://kalayenafis.com
+      - listitem [ref=e334]:
+        - link "کتاب نفیس" [ref=e335] [cursor=pointer]:
+          - /url: /exquisite-book/
+      - listitem [ref=e337]:
+        - link "هدایای تبلیغاتی" [ref=e338] [cursor=pointer]:
+          - /url: https://heliabox.com/promotional-gifts/
+      - listitem [ref=e340]:
+        - link "ويديو بروشور" [ref=e341] [cursor=pointer]:
+          - /url: /product-category/video-brochure/
+      - listitem [ref=e343]:
+        - link "کد تخفیف انتشارات هلیا" [ref=e344] [cursor=pointer]:
+          - /url: https://kalayenafis.com/my-account/
+    - text:   
+  - text:  
+```

@@ -1,0 +1,166 @@
+{
+  "company_id": "ir-teh-4c8e703e74b1aec4",
+  "errors": [],
+  "generated_at": "2026-09-01T08:11:13Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [
+    {
+      "bytes": 3059849,
+      "captured_at": "2026-09-01T08:11:11Z",
+      "company_id": "ir-teh-4c8e703e74b1aec4",
+      "headless": true,
+      "page_title": "اجاره انبار در تهران با قیمت مناسب | انبار VIP تهران",
+      "path": "companies/ir-teh-4c8e703e74b1aec4/screenshots/homepage.png",
+      "reason_this_matters": "Public company homepage is the primary visual evidence surface.",
+      "screenshot_type": "homepage",
+      "source_url": "https://anbarajare.com/"
+    }
+  ],
+  "sources": [
+    {
+      "discovered_at": "2026-09-01T06:31:54Z",
+      "discovery_reason": "Book-e Avval category: انبارداری",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "اجاره انبار کانتینری داخل سوله مسقف، مخصوص وسایل منزل و لوازم اداری در تهران و کرج در 4 شعبه",
+      "source_quality": "directory",
+      "source_title": "انبارداری در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D8%A7%D9%86%D8%A8%D8%A7%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:31:54Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-98e28c926e0b4856",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "اجاره انبار کانتینری داخل سوله مسقف، مخصوص وسایل منزل و لوازم اداری در تهران و کرج در 4 شعبه",
+      "source_quality": "directory",
+      "source_title": "انبارداری در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D8%A7%D9%86%D8%A8%D8%A7%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:53Z",
+      "claim": "Directory profile lists وی. آی. پی with a public Tehran business listing.",
+      "confidence": 0.82,
+      "evidence_id": "ev-74ea19cfeafa549e",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "وی. آی. پی - انبار عمومی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس وی. آی. پی اجاره انواع انبار برای وسایت و لوازم منزل و شرکت در سراسر استان تهران و کرج انبار عمومی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل انبار عمومی تهران اطلاعات تماس آدرس : تهران، خاوران، بزرگراه امام رضا، بعد از میدان آقانور تلفن : نمایش شماره XXXXXXXXXX تلفن همراه : نمایش شماره XXXXXXXXXX وب سایت anbarajare.com/ ای",
+      "source_quality": "directory",
+      "source_title": "وی. آی. پی - انبار عمومی | کتاب اول",
+      "source_url": "https://avval.ir/profile/456ed/%D9%88%DB%8C-%D8%A2%DB%8C-%D9%BE%DB%8C"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:57Z",
+      "claim": "Public website signal: catalog_or_products",
+      "confidence": 0.86,
+      "evidence_id": "ev-4b23a57b79f726d1",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "محصولات; محصول | اجاره انبار در تهران با قیمت مناسب | انبار VIP تهران پرش به محتوا خانه درباره ما تماس با ما گالری قیمت اجاره انبار شعبات اجاره انبار اجاره انبار در شمال تهران اجاره انبار در تجریش، نیاوران، جردن و … اجاره انبار در فرمانیه، کامرانیه و … اجاره انبار در شمیرانات اجاره انبار در سعادت آباد اجاره انبار در پاسداران اجاره انبار در کن سولقان اجاره انبار در مرکز تهران اجاره انبار در انقلاب اجاره انبار در جمهوری اجاره انبار در",
+      "signal": "catalog_or_products",
+      "source_quality": "company_site",
+      "source_title": "اجاره انبار در تهران با قیمت مناسب | انبار VIP تهران",
+      "source_url": "https://anbarajare.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:57Z",
+      "claim": "Public website signal: order_or_contact_form",
+      "confidence": 0.72,
+      "evidence_id": "ev-bd1c587bb08e9813",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "تماس با ما | اجاره انبار در تهران با قیمت مناسب | انبار VIP تهران پرش به محتوا خانه درباره ما تماس با ما گالری قیمت اجاره انبار شعبات اجاره انبار اجاره انبار در شمال تهران اجاره انبار در تجریش، نیاوران، جردن و … اجاره انبار در فرمانیه، کامرانیه و … اجاره انبار در شمیرانات اجاره انبار در سعادت آباد اجاره انبار در پاسداران اجاره انبار در کن سولقان اجاره انبار در مرکز تهران اجاره انبار در انقلاب اجاره انبار در جمهوری اجاره انبار در",
+      "signal": "order_or_contact_form",
+      "source_quality": "company_site",
+      "source_title": "اجاره انبار در تهران با قیمت مناسب | انبار VIP تهران",
+      "source_url": "https://anbarajare.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:57Z",
+      "claim": "Public website signal: branches_or_dealers",
+      "confidence": 0.72,
+      "evidence_id": "ev-4d311f4c90f0ce77",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "شعب | اجاره انبار در تهران با قیمت مناسب | انبار VIP تهران پرش به محتوا خانه درباره ما تماس با ما گالری قیمت اجاره انبار شعبات اجاره انبار اجاره انبار در شمال تهران اجاره انبار در تجریش، نیاوران، جردن و … اجاره انبار در فرمانیه، کامرانیه و … اجاره انبار در شمیرانات اجاره انبار در سعادت آباد اجاره انبار در پاسداران اجاره انبار در کن سولقان اجاره انبار در مرکز تهران اجاره انبار در انقلاب اجاره انبار در جمهوری اجاره انبار در",
+      "signal": "branches_or_dealers",
+      "source_quality": "company_site",
+      "source_title": "اجاره انبار در تهران با قیمت مناسب | انبار VIP تهران",
+      "source_url": "https://anbarajare.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:57Z",
+      "claim": "Public website signal: factory_or_warehouse",
+      "confidence": 0.86,
+      "evidence_id": "ev-725d174ce5db5e28",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "انبار | اجاره انبار در تهران با قیمت مناسب | انبار VIP تهران پرش به محتوا خانه درباره ما تماس با ما گالری قیمت اجاره انبار شعبات اجاره انبار اجاره انبار در شمال تهران اجاره انبار در تجریش، نیاوران، جردن و … اجاره انبار در فرمانیه، کامرانیه و … اجاره انبار در شمیرانات اجاره انبار در سعادت آباد اجاره انبار در پاسداران اجاره انبار در کن سولقان اجاره انبار در مرکز تهران اجاره انبار در انقلاب اجاره انبار در جمهوری اجاره انبار در",
+      "signal": "factory_or_warehouse",
+      "source_quality": "company_site",
+      "source_title": "اجاره انبار در تهران با قیمت مناسب | انبار VIP تهران",
+      "source_url": "https://anbarajare.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:57Z",
+      "claim": "Public website signal: service_after_sales",
+      "confidence": 0.72,
+      "evidence_id": "ev-d19421c52c55229f",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "تعمیرات | اجاره انبار در تهران با قیمت مناسب | انبار VIP تهران پرش به محتوا خانه درباره ما تماس با ما گالری قیمت اجاره انبار شعبات اجاره انبار اجاره انبار در شمال تهران اجاره انبار در تجریش، نیاوران، جردن و … اجاره انبار در فرمانیه، کامرانیه و … اجاره انبار در شمیرانات اجاره انبار در سعادت آباد اجاره انبار در پاسداران اجاره انبار در کن سولقان اجاره انبار در مرکز تهران اجاره انبار در انقلاب اجاره انبار در جمهوری اجاره انبار در",
+      "signal": "service_after_sales",
+      "source_quality": "company_site",
+      "source_title": "اجاره انبار در تهران با قیمت مناسب | انبار VIP تهران",
+      "source_url": "https://anbarajare.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:57Z",
+      "claim": "Public website signal: projects_or_clients",
+      "confidence": 0.72,
+      "evidence_id": "ev-e4e467f3b44b8f52",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "پروژه ها; پروژه‌ها; مشتریان | اجاره انبار در تهران با قیمت مناسب | انبار VIP تهران پرش به محتوا خانه درباره ما تماس با ما گالری قیمت اجاره انبار شعبات اجاره انبار اجاره انبار در شمال تهران اجاره انبار در تجریش، نیاوران، جردن و … اجاره انبار در فرمانیه، کامرانیه و … اجاره انبار در شمیرانات اجاره انبار در سعادت آباد اجاره انبار در پاسداران اجاره انبار در کن سولقان اجاره انبار در مرکز تهران اجاره انبار در انقلاب اجاره انبار در جمهوری اجاره انبار در",
+      "signal": "projects_or_clients",
+      "source_quality": "company_site",
+      "source_title": "اجاره انبار در تهران با قیمت مناسب | انبار VIP تهران",
+      "source_url": "https://anbarajare.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:57Z",
+      "claim": "Public website signal: certifications",
+      "confidence": 0.72,
+      "evidence_id": "ev-149f1174bb573008",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "استاندارد; مجوز | اجاره انبار در تهران با قیمت مناسب | انبار VIP تهران پرش به محتوا خانه درباره ما تماس با ما گالری قیمت اجاره انبار شعبات اجاره انبار اجاره انبار در شمال تهران اجاره انبار در تجریش، نیاوران، جردن و … اجاره انبار در فرمانیه، کامرانیه و … اجاره انبار در شمیرانات اجاره انبار در سعادت آباد اجاره انبار در پاسداران اجاره انبار در کن سولقان اجاره انبار در مرکز تهران اجاره انبار در انقلاب اجاره انبار در جمهوری اجاره انبار در",
+      "signal": "certifications",
+      "source_quality": "company_site",
+      "source_title": "اجاره انبار در تهران با قیمت مناسب | انبار VIP تهران",
+      "source_url": "https://anbarajare.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:57Z",
+      "claim": "Public website signal: tender_or_contract",
+      "confidence": 0.72,
+      "evidence_id": "ev-ac151dd5a6aa4320",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "قرارداد | اجاره انبار در تهران با قیمت مناسب | انبار VIP تهران پرش به محتوا خانه درباره ما تماس با ما گالری قیمت اجاره انبار شعبات اجاره انبار اجاره انبار در شمال تهران اجاره انبار در تجریش، نیاوران، جردن و … اجاره انبار در فرمانیه، کامرانیه و … اجاره انبار در شمیرانات اجاره انبار در سعادت آباد اجاره انبار در پاسداران اجاره انبار در کن سولقان اجاره انبار در مرکز تهران اجاره انبار در انقلاب اجاره انبار در جمهوری اجاره انبار در",
+      "signal": "tender_or_contract",
+      "source_quality": "company_site",
+      "source_title": "اجاره انبار در تهران با قیمت مناسب | انبار VIP تهران",
+      "source_url": "https://anbarajare.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:57Z",
+      "claim": "Public website signal: expansion_or_activity",
+      "confidence": 0.72,
+      "evidence_id": "ev-f0e087054258490f",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "صادرات | اجاره انبار در تهران با قیمت مناسب | انبار VIP تهران پرش به محتوا خانه درباره ما تماس با ما گالری قیمت اجاره انبار شعبات اجاره انبار اجاره انبار در شمال تهران اجاره انبار در تجریش، نیاوران، جردن و … اجاره انبار در فرمانیه، کامرانیه و … اجاره انبار در شمیرانات اجاره انبار در سعادت آباد اجاره انبار در پاسداران اجاره انبار در کن سولقان اجاره انبار در مرکز تهران اجاره انبار در انقلاب اجاره انبار در جمهوری اجاره انبار در",
+      "signal": "expansion_or_activity",
+      "source_quality": "company_site",
+      "source_title": "اجاره انبار در تهران با قیمت مناسب | انبار VIP تهران",
+      "source_url": "https://anbarajare.com/"
+    }
+  ]
+}

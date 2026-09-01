@@ -1,0 +1,1625 @@
+           - group "95 / 122" [ref=e766]:
+                - generic [ref=e767]:
+                  - link "بنز" [ref=e768] [cursor=pointer]:
+                    - /url: https://abadiesel.com/brand/benz/
+                  - img "بنز" [ref=e769]
+              - group "96 / 122" [ref=e770]:
+                - generic [ref=e771]:
+                  - link "برتولینی" [ref=e772] [cursor=pointer]:
+                    - /url: https://abadiesel.com/brand/bertolini/
+                  - img "برتولینی" [ref=e773]
+              - group "97 / 122" [ref=e774]:
+                - link "بادوین" [ref=e776] [cursor=pointer]:
+                  - /url: https://abadiesel.com/brand/baudouin/
+              - group "98 / 122" [ref=e777]:
+                - generic [ref=e778]:
+                  - link "ایوول" [ref=e779] [cursor=pointer]:
+                    - /url: https://abadiesel.com/brand/evol/
+                  - img "ایوول" [ref=e780]
+              - group "99 / 122" [ref=e781]:
+                - generic [ref=e782]:
+                  - link "اینوت" [ref=e783] [cursor=pointer]:
+                    - /url: https://abadiesel.com/brand/invt/
+                  - img "اینوت" [ref=e784]
+              - group "100 / 122" [ref=e785]:
+                - generic [ref=e786]:
+                  - link "اینتر پمپ" [ref=e787] [cursor=pointer]:
+                    - /url: https://abadiesel.com/brand/interpump/
+                  - img "اینتر پمپ" [ref=e788]
+              - group "101 / 122" [ref=e789]:
+                - generic [ref=e790]:
+                  - link "ایمر" [ref=e791] [cursor=pointer]:
+                    - /url: https://abadiesel.com/brand/immer/
+                  - img "ایمر" [ref=e792]
+              - group "102 / 122" [ref=e793]:
+                - generic [ref=e794]:
+                  - link "ایلماز" [ref=e795] [cursor=pointer]:
+                    - /url: https://abadiesel.com/brand/yilmaz/
+                  - img "ایلماز" [ref=e796]
+              - group "103 / 122" [ref=e797]:
+                - generic [ref=e798]:
+                  - link "انکو" [ref=e799] [cursor=pointer]:
+                    - /url: https://abadiesel.com/brand/enco/
+                  - img "انکو" [ref=e800]
+              - group "104 / 122" [ref=e801]:
+                - generic [ref=e802]:
+                  - link "امکو" [ref=e803] [cursor=pointer]:
+                    - /url: https://abadiesel.com/brand/emco/
+                  - img "امکو" [ref=e804]
+              - group "105 / 122" [ref=e805]:
+                - generic [ref=e806]:
+                  - link "الکتروژن" [ref=e807] [cursor=pointer]:
+                    - /url: https://abadiesel.com/brand/electrogen/
+                  - img "الکتروژن" [ref=e808]
+              - group "106 / 122" [ref=e809]:
+                - generic [ref=e810]:
+                  - link "ال اس" [ref=e811] [cursor=pointer]:
+                    - /url: https://abadiesel.com/brand/ls/
+                  - img "ال اس" [ref=e812]
+              - group "107 / 122" [ref=e813]:
+                - generic [ref=e814]:
+                  - link "اصفهان سهند" [ref=e815] [cursor=pointer]:
+                    - /url: https://abadiesel.com/brand/esfahan-sahand/
+                  - img "اصفهان سهند" [ref=e816]
+              - group "108 / 122" [ref=e817]:
+                - generic [ref=e818]:
+                  - link "اشنایدر" [ref=e819] [cursor=pointer]:
+                    - /url: https://abadiesel.com/brand/schneider/
+                  - img "اشنایدر" [ref=e820]
+              - group "109 / 122" [ref=e821]:
+                - link "استمفورد" [ref=e823] [cursor=pointer]:
+                  - /url: https://abadiesel.com/brand/stamford/
+              - group "110 / 122" [ref=e824]:
+                - generic [ref=e825]:
+                  - link "استریم" [ref=e826] [cursor=pointer]:
+                    - /url: https://abadiesel.com/brand/stream/
+                  - img "استریم" [ref=e827]
+              - group "111 / 122" [ref=e828]:
+                - generic [ref=e829]:
+                  - link "اسپیکو" [ref=e830] [cursor=pointer]:
+                    - /url: https://abadiesel.com/brand/spico/
+                  - img "اسپیکو" [ref=e831]
+              - group "112 / 122" [ref=e832]:
+                - generic [ref=e833]:
+                  - link "اس کا ان" [ref=e834] [cursor=pointer]:
+                    - /url: https://abadiesel.com/brand/skn/
+                  - img "اس کا ان" [ref=e835]
+              - group "113 / 122" [ref=e836]:
+                - generic [ref=e837]:
+                  - link "ابارا" [ref=e838] [cursor=pointer]:
+                    - /url: https://abadiesel.com/brand/ebara/
+                  - img "ابارا" [ref=e839]
+              - group "114 / 122" [ref=e840]:
+                - generic [ref=e841]:
+                  - link "آلما" [ref=e842] [cursor=pointer]:
+                    - /url: https://abadiesel.com/brand/alma/
+                  - img "آلما" [ref=e843]
+              - group "115 / 122" [ref=e844]:
+                - generic [ref=e845]:
+                  - link "آگرو" [ref=e846] [cursor=pointer]:
+                    - /url: https://abadiesel.com/brand/agro/
+                  - img "آگرو" [ref=e847]
+              - group "116 / 122" [ref=e848]:
+                - generic [ref=e849]:
+                  - link "آسترا" [ref=e850] [cursor=pointer]:
+                    - /url: https://abadiesel.com/brand/astra/
+                  - img "آسترا" [ref=e851]
+              - group "117 / 122" [ref=e852]:
+                - generic [ref=e853]:
+                  - link "آریا پمپ" [ref=e854] [cursor=pointer]:
+                    - /url: https://abadiesel.com/brand/aria-pump/
+                  - img "آریا پمپ" [ref=e855]
+              - group "118 / 122" [ref=e856]:
+                - generic [ref=e857]:
+                  - link "SEW" [ref=e858] [cursor=pointer]:
+                    - /url: https://abadiesel.com/brand/sew/
+                  - img "SEW" [ref=e859]
+              - group "119 / 122" [ref=e860]:
+                - generic [ref=e861]:
+                  - link "RMP" [ref=e862] [cursor=pointer]:
+                    - /url: https://abadiesel.com/brand/rmp/
+                  - img "RMP" [ref=e863]
+              - group "120 / 122" [ref=e864]:
+                - generic [ref=e865]:
+                  - link "CEW" [ref=e866] [cursor=pointer]:
+                    - /url: https://abadiesel.com/brand/cew/
+                  - img "CEW" [ref=e867]
+              - group "121 / 122" [ref=e868]:
+                - generic [ref=e869]:
+                  - link "AMC" [ref=e870] [cursor=pointer]:
+                    - /url: https://abadiesel.com/brand/amc/
+                  - img "AMC" [ref=e871]
+              - group "122 / 122" [ref=e872]:
+                - generic [ref=e873]:
+                  - link "ABB" [ref=e874] [cursor=pointer]:
+                    - /url: https://abadiesel.com/brand/abb/
+                  - img "ABB" [ref=e875]
+            - generic:
+              - button "Previous slide":
+                - generic: 
+              - button "Next slide":
+                - generic: 
+          - generic [ref=e877]:
+            - heading "مجله آبادیزل" [level=4] [ref=e882]
+            - generic [ref=e885]:
+              - generic [ref=e886]:
+                - generic [ref=e888]:
+                  - group "1 / 8" [ref=e889]:
+                    - article [ref=e890]:
+                      - generic [ref=e891]:
+                        - generic [ref=e892]:
+                          - img "بهترین مدل های موتور برق مناسب مغازه؛ راهنمای جامع خرید" [ref=e894]
+                          - link "لینک در نوشته بهترین مدل های موتور برق مناسب مغازه؛ راهنمای جامع خرید" [ref=e895] [cursor=pointer]:
+                            - /url: https://abadiesel.com/blog/9483/%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-%d9%85%d9%88%d8%aa%d9%88%d8%b1-%d8%a8%d8%b1%d9%82-%d8%a8%d8%b1%d8%a7%db%8c-%d9%85%d8%ba%d8%a7%d8%b2%d9%87/
+                        - generic [ref=e896]:
+                          - link "مقالات موتور برق" [ref=e898] [cursor=pointer]:
+                            - /url: https://abadiesel.com/blog/category/power-generator/
+                          - heading [level=3] [ref=e899]:
+                            - link "بهترین مدل های موتور برق مناسب مغازه؛ راهنمای جامع خرید" [ref=e900] [cursor=pointer]:
+                              - /url: https://abadiesel.com/blog/9483/%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-%d9%85%d9%88%d8%aa%d9%88%d8%b1-%d8%a8%d8%b1%d9%82-%d8%a8%d8%b1%d8%a7%db%8c-%d9%85%d8%ba%d8%a7%d8%b2%d9%87/
+                          - generic [ref=e902]:
+                            - generic [ref=e903]: ارسال توسط
+                            - link "وحید آریافر" [ref=e904] [cursor=pointer]:
+                              - /url: https://abadiesel.com/author/variafar/
+                          - link "ادامه مطلب" [ref=e906] [cursor=pointer]:
+                            - /url: https://abadiesel.com/blog/9483/%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-%d9%85%d9%88%d8%aa%d9%88%d8%b1-%d8%a8%d8%b1%d9%82-%d8%a8%d8%b1%d8%a7%db%8c-%d9%85%d8%ba%d8%a7%d8%b2%d9%87/
+                  - group "2 / 8" [ref=e907]:
+                    - article [ref=e908]:
+                      - generic [ref=e909]:
+                        - generic [ref=e910]:
+                          - img "نکات مهم در نگهداری از موتور برق؛ راهنمای جامع افزایش طول عمر" [ref=e912]
+                          - link "لینک در نوشته نکات مهم در نگهداری از موتور برق؛ راهنمای جامع افزایش طول عمر" [ref=e913] [cursor=pointer]:
+                            - /url: https://abadiesel.com/blog/9468/%d9%86%da%a9%d8%a7%d8%aa-%d9%85%d9%87%d9%85-%d8%af%d8%b1-%d9%86%da%af%d9%87%d8%af%d8%a7%d8%b1%db%8c-%d8%a7%d8%b2-%d9%85%d9%88%d8%aa%d9%88%d8%b1-%d8%a8%d8%b1%d9%82/
+                        - generic [ref=e914]:
+                          - link "مقالات موتور برق" [ref=e916] [cursor=pointer]:
+                            - /url: https://abadiesel.com/blog/category/power-generator/
+                          - heading [level=3] [ref=e917]:
+                            - link "نکات مهم در نگهداری از موتور برق؛ راهنمای جامع افزایش طول عمر" [ref=e918] [cursor=pointer]:
+                              - /url: https://abadiesel.com/blog/9468/%d9%86%da%a9%d8%a7%d8%aa-%d9%85%d9%87%d9%85-%d8%af%d8%b1-%d9%86%da%af%d9%87%d8%af%d8%a7%d8%b1%db%8c-%d8%a7%d8%b2-%d9%85%d9%88%d8%aa%d9%88%d8%b1-%d8%a8%d8%b1%d9%82/
+                          - generic [ref=e920]:
+                            - generic [ref=e921]: ارسال توسط
+                            - link "میثم قربانی" [ref=e922] [cursor=pointer]:
+                              - /url: https://abadiesel.com/author/ghorbaniaba/
+                          - link "ادامه مطلب" [ref=e924] [cursor=pointer]:
+                            - /url: https://abadiesel.com/blog/9468/%d9%86%da%a9%d8%a7%d8%aa-%d9%85%d9%87%d9%85-%d8%af%d8%b1-%d9%86%da%af%d9%87%d8%af%d8%a7%d8%b1%db%8c-%d8%a7%d8%b2-%d9%85%d9%88%d8%aa%d9%88%d8%b1-%d8%a8%d8%b1%d9%82/
+                  - group "3 / 8" [ref=e925]:
+                    - article [ref=e926]:
+                      - generic [ref=e927]:
+                        - generic [ref=e928]:
+                          - img "بهترین مدل های موتور برق برای هیئت – راهنمای جامع خرید" [ref=e930]
+                          - link "لینک در نوشته بهترین مدل های موتور برق برای هیئت – راهنمای جامع خرید" [ref=e931] [cursor=pointer]:
+                            - /url: https://abadiesel.com/blog/9461/%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-%d9%85%d8%af%d9%84-%d9%87%d8%a7%db%8c-%d9%85%d9%88%d8%aa%d9%88%d8%b1-%d8%a8%d8%b1%d9%82-%d8%a8%d8%b1%d8%a7%db%8c-%d9%87%db%8c%d8%a6%d8%aa/
+                        - generic [ref=e932]:
+                          - link "مقالات موتور برق" [ref=e934] [cursor=pointer]:
+                            - /url: https://abadiesel.com/blog/category/power-generator/
+                          - heading [level=3] [ref=e935]:
+                            - link "بهترین مدل های موتور برق برای هیئت – راهنمای جامع خرید" [ref=e936] [cursor=pointer]:
+                              - /url: https://abadiesel.com/blog/9461/%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-%d9%85%d8%af%d9%84-%d9%87%d8%a7%db%8c-%d9%85%d9%88%d8%aa%d9%88%d8%b1-%d8%a8%d8%b1%d9%82-%d8%a8%d8%b1%d8%a7%db%8c-%d9%87%db%8c%d8%a6%d8%aa/
+                          - generic [ref=e938]:
+                            - generic [ref=e939]: ارسال توسط
+                            - link "وحید آریافر" [ref=e940] [cursor=pointer]:
+                              - /url: https://abadiesel.com/author/variafar/
+                          - link "ادامه مطلب" [ref=e942] [cursor=pointer]:
+                            - /url: https://abadiesel.com/blog/9461/%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-%d9%85%d8%af%d9%84-%d9%87%d8%a7%db%8c-%d9%85%d9%88%d8%aa%d9%88%d8%b1-%d8%a8%d8%b1%d9%82-%d8%a8%d8%b1%d8%a7%db%8c-%d9%87%db%8c%d8%a6%d8%aa/
+                  - group "4 / 8" [ref=e943]:
+                    - article [ref=e944]:
+                      - generic [ref=e945]:
+                        - generic [ref=e946]:
+                          - img "علت روشن نشدن تیلر کشاورزی؛ راهنمای جامع عیب یابی و رفع مشکل" [ref=e948]
+                          - link "لینک در نوشته علت روشن نشدن تیلر کشاورزی؛ راهنمای جامع عیب یابی و رفع مشکل" [ref=e949] [cursor=pointer]:
+                            - /url: https://abadiesel.com/blog/9455/%d8%b9%d9%84%d8%aa-%d8%b1%d9%88%d8%b4%d9%86-%d9%86%d8%b4%d8%af%d9%86-%d8%aa%db%8c%d9%84%d8%b1-%da%a9%d8%b4%d8%a7%d9%88%d8%b1%d8%b2%db%8c/
+                        - generic [ref=e950]:
+                          - link "مقالات ادوات کشاورزی باغبانی" [ref=e952] [cursor=pointer]:
+                            - /url: https://abadiesel.com/blog/category/agricultural-equipment/
+                          - heading [level=3] [ref=e953]:
+                            - link "علت روشن نشدن تیلر کشاورزی؛ راهنمای جامع عیب یابی و رفع مشکل" [ref=e954] [cursor=pointer]:
+                              - /url: https://abadiesel.com/blog/9455/%d8%b9%d9%84%d8%aa-%d8%b1%d9%88%d8%b4%d9%86-%d9%86%d8%b4%d8%af%d9%86-%d8%aa%db%8c%d9%84%d8%b1-%da%a9%d8%b4%d8%a7%d9%88%d8%b1%d8%b2%db%8c/
+                          - generic [ref=e956]:
+                            - generic [ref=e957]: ارسال توسط
+                            - link "میثم قربانی" [ref=e958] [cursor=pointer]:
+                              - /url: https://abadiesel.com/author/ghorbaniaba/
+                          - link "ادامه مطلب" [ref=e960] [cursor=pointer]:
+                            - /url: https://abadiesel.com/blog/9455/%d8%b9%d9%84%d8%aa-%d8%b1%d9%88%d8%b4%d9%86-%d9%86%d8%b4%d8%af%d9%86-%d8%aa%db%8c%d9%84%d8%b1-%da%a9%d8%b4%d8%a7%d9%88%d8%b1%d8%b2%db%8c/
+                  - group "5 / 8" [ref=e961]:
+                    - article [ref=e962]:
+                      - generic [ref=e963]:
+                        - generic [ref=e964]:
+                          - img "علت آمپر کشیدن پمپ کفکش؛ راهنمای جامع عیب یابی و رفع مشکل" [ref=e966]
+                          - link "لینک در نوشته علت آمپر کشیدن پمپ کفکش؛ راهنمای جامع عیب یابی و رفع مشکل" [ref=e967] [cursor=pointer]:
+                            - /url: https://abadiesel.com/blog/9446/%d8%b9%d9%84%d8%aa-%d8%a2%d9%85%d9%be%d8%b1-%da%a9%d8%b4%db%8c%d8%af%d9%86-%d9%be%d9%85%d9%be-%da%a9%d9%81%da%a9%d8%b4/
+                        - generic [ref=e968]:
+                          - link "مقالات پمپ" [ref=e970] [cursor=pointer]:
+                            - /url: https://abadiesel.com/blog/category/pump/
+                          - heading [level=3] [ref=e971]:
+                            - link "علت آمپر کشیدن پمپ کفکش؛ راهنمای جامع عیب یابی و رفع مشکل" [ref=e972] [cursor=pointer]:
+                              - /url: https://abadiesel.com/blog/9446/%d8%b9%d9%84%d8%aa-%d8%a2%d9%85%d9%be%d8%b1-%da%a9%d8%b4%db%8c%d8%af%d9%86-%d9%be%d9%85%d9%be-%da%a9%d9%81%da%a9%d8%b4/
+                          - generic [ref=e974]:
+                            - generic [ref=e975]: ارسال توسط
+                            - link "وحید آریافر" [ref=e976] [cursor=pointer]:
+                              - /url: https://abadiesel.com/author/variafar/
+                          - link "ادامه مطلب" [ref=e978] [cursor=pointer]:
+                            - /url: https://abadiesel.com/blog/9446/%d8%b9%d9%84%d8%aa-%d8%a2%d9%85%d9%be%d8%b1-%da%a9%d8%b4%db%8c%d8%af%d9%86-%d9%be%d9%85%d9%be-%da%a9%d9%81%da%a9%d8%b4/
+                  - group "6 / 8" [ref=e979]:
+                    - article [ref=e980]:
+                      - generic [ref=e981]:
+                        - generic [ref=e982]:
+                          - img "مقایسه پمپ آب داب و پنتاکس؛ راهنمای جامع انتخاب بهترین گزینه" [ref=e984]
+                          - link "لینک در نوشته مقایسه پمپ آب داب و پنتاکس؛ راهنمای جامع انتخاب بهترین گزینه" [ref=e985] [cursor=pointer]:
+                            - /url: https://abadiesel.com/blog/9440/%d9%85%d9%82%d8%a7%db%8c%d8%b3%d9%87-%d9%be%d9%85%d9%be-%d8%a2%d8%a8-%d8%af%d8%a7%d8%a8-%d9%88-%d9%be%d9%86%d8%aa%d8%a7%da%a9%d8%b3/
+                        - generic [ref=e986]:
+                          - link "مقالات پمپ" [ref=e988] [cursor=pointer]:
+                            - /url: https://abadiesel.com/blog/category/pump/
+                          - heading [level=3] [ref=e989]:
+                            - link "مقایسه پمپ آب داب و پنتاکس؛ راهنمای جامع انتخاب بهترین گزینه" [ref=e990] [cursor=pointer]:
+                              - /url: https://abadiesel.com/blog/9440/%d9%85%d9%82%d8%a7%db%8c%d8%b3%d9%87-%d9%be%d9%85%d9%be-%d8%a2%d8%a8-%d8%af%d8%a7%d8%a8-%d9%88-%d9%be%d9%86%d8%aa%d8%a7%da%a9%d8%b3/
+                          - generic [ref=e992]:
+                            - generic [ref=e993]: ارسال توسط
+                            - link "میثم قربانی" [ref=e994] [cursor=pointer]:
+                              - /url: https://abadiesel.com/author/ghorbaniaba/
+                          - link "ادامه مطلب" [ref=e996] [cursor=pointer]:
+                            - /url: https://abadiesel.com/blog/9440/%d9%85%d9%82%d8%a7%db%8c%d8%b3%d9%87-%d9%be%d9%85%d9%be-%d8%a2%d8%a8-%d8%af%d8%a7%d8%a8-%d9%88-%d9%be%d9%86%d8%aa%d8%a7%da%a9%d8%b3/
+                  - group "7 / 8" [ref=e997]:
+                    - article [ref=e998]:
+                      - generic [ref=e999]:
+                        - generic [ref=e1000]:
+                          - img "بهترین برند دیزل ژنراتور در ایران و جهان؛ راهنمای جامع معرفی برندهای برتر" [ref=e1002]
+                          - link "لینک در نوشته بهترین برند دیزل ژنراتور در ایران و جهان؛ راهنمای جامع معرفی برندها" [ref=e1003] [cursor=pointer]:
+                            - /url: https://abadiesel.com/blog/10043/%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-%d8%a8%d8%b1%d9%86%d8%af-%d8%af%db%8c%d8%b2%d9%84-%da%98%d9%86%d8%b1%d8%a7%d8%aa%d9%88%d8%b1/
+                        - generic [ref=e1004]:
+                          - link "مقالات دیزل ژنراتور" [ref=e1006] [cursor=pointer]:
+                            - /url: https://abadiesel.com/blog/category/generators/
+                          - heading [level=3] [ref=e1007]:
+                            - link "بهترین برند دیزل ژنراتور در ایران و جهان؛ راهنمای جامع معرفی برندها" [ref=e1008] [cursor=pointer]:
+                              - /url: https://abadiesel.com/blog/10043/%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-%d8%a8%d8%b1%d9%86%d8%af-%d8%af%db%8c%d8%b2%d9%84-%da%98%d9%86%d8%b1%d8%a7%d8%aa%d9%88%d8%b1/
+                          - generic [ref=e1010]:
+                            - generic [ref=e1011]: ارسال توسط
+                            - link "وحید آریافر" [ref=e1012] [cursor=pointer]:
+                              - /url: https://abadiesel.com/author/variafar/
+                          - link "ادامه مطلب" [ref=e1014] [cursor=pointer]:
+                            - /url: https://abadiesel.com/blog/10043/%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-%d8%a8%d8%b1%d9%86%d8%af-%d8%af%db%8c%d8%b2%d9%84-%da%98%d9%86%d8%b1%d8%a7%d8%aa%d9%88%d8%b1/
+                  - group "8 / 8" [ref=e1015]:
+                    - article [ref=e1016]:
+                      - generic [ref=e1017]:
+                        - generic [ref=e1018]:
+                          - img "بهترین برند گیربکس صنعتی؛ راهنمای جامع معرفی برندهای برتر خارجی و ایرانی" [ref=e1020]
+                          - link "لینک در نوشته بهترین برند گیربکس صنعتی؛ راهنمای جامع معرفی برندهای برتر خارجی و ایرانی" [ref=e1021] [cursor=pointer]:
+                            - /url: https://abadiesel.com/blog/9534/%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-%d8%a8%d8%b1%d9%86%d8%af-%da%af%db%8c%d8%b1%d8%a8%da%a9%d8%b3-%d8%b5%d9%86%d8%b9%d8%aa%db%8c/
+                        - generic [ref=e1022]:
+                          - link "مقالات گیربکس صنعتی" [ref=e1024] [cursor=pointer]:
+                            - /url: https://abadiesel.com/blog/category/gearbox/
+                          - heading [level=3] [ref=e1025]:
+                            - link "بهترین برند گیربکس صنعتی؛ راهنمای جامع معرفی برندهای برتر خارجی و ایرانی" [ref=e1026] [cursor=pointer]:
+                              - /url: https://abadiesel.com/blog/9534/%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-%d8%a8%d8%b1%d9%86%d8%af-%da%af%db%8c%d8%b1%d8%a8%da%a9%d8%b3-%d8%b5%d9%86%d8%b9%d8%aa%db%8c/
+                          - generic [ref=e1028]:
+                            - generic [ref=e1029]: ارسال توسط
+                            - link "میثم قربانی" [ref=e1030] [cursor=pointer]:
+                              - /url: https://abadiesel.com/author/ghorbaniaba/
+                          - link "ادامه مطلب" [ref=e1032] [cursor=pointer]:
+                            - /url: https://abadiesel.com/blog/9534/%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-%d8%a8%d8%b1%d9%86%d8%af-%da%af%db%8c%d8%b1%d8%a8%da%a9%d8%b3-%d8%b5%d9%86%d8%b9%d8%aa%db%8c/
+                - generic:
+                  - button "Previous slide" [disabled]:
+                    - generic: 
+                  - button "Next slide":
+                    - generic: 
+              - list [ref=e1034]:
+                - listitem "Go to slide 1" [ref=e1035] [cursor=pointer]
+                - listitem "Go to slide 2" [ref=e1037] [cursor=pointer]
+    - contentinfo [ref=e1039]:
+      - generic [ref=e1041]:
+        - generic [ref=e1042]:
+          - img "شرکت بازرگانی مهندسی آبادیزل" [ref=e1045]
+          - list [ref=e1056]:
+            - listitem [ref=e1057]:
+              - link "021-33914084" [ref=e1059] [cursor=pointer]:
+                - /url: tel:02133914084
+            - listitem [ref=e1060]:
+              - link "021-33992294" [ref=e1062] [cursor=pointer]:
+                - /url: tel:02133992294
+        - generic [ref=e1066]:
+          - generic [ref=e1067]:
+            - generic [ref=e1068]: شرکت بازرگانی مهندسی آبادیزل
+            - paragraph [ref=e1070]: بیش از 18 سال است که به عنوان یکی از مجرب ترین تامین کنندگان و عرضه کنندگان محصولات صنعتی مشغول فعالیت هستیم. انواع دستگاه های صنعتی از جمله دیزل ژنراتور، موتور برق، الکترو پمپ، الکترو موتور، اینورتر، گیربکس، انواع موتور و غیره از بهترین برندها و با ضمانت اصالت و کیفیت به هموطنان مان ارائه می شود.شرکت آبادیزل با هدف يكپارچه‌ سازی، ساماندهی و ارتقای خدمات تامين كالا در زمينه تجهيزات اساسی صنايع بنا نهاده شد. با ارائه مشاوره فنی پیش از فروش، اعزام كارگروه متخصص جهت مهندسی کالا و نيز بازديد از كارخانه و تمامی موارد لازم برای یک خرید امن و مطمئن، در خدمت شما هستیم.
+          - generic [ref=e1071]:
+            - generic [ref=e1072]: محصولات
+            - list [ref=e1074]:
+              - listitem [ref=e1075]:
+                - link "دیزل ژنراتور" [ref=e1076] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/diesel-generator/
+              - listitem [ref=e1081]:
+                - link "دیزل ژنراتور بادوین" [ref=e1082] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/diesel-generator/baudouin/
+              - listitem [ref=e1087]:
+                - link "دیزل ژنراتور تلک" [ref=e1088] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/diesel-generator/telec/
+              - listitem [ref=e1093]:
+                - link "دیزل ژنراتور 50 کاوا" [ref=e1094] [cursor=pointer]:
+                  - /url: https://abadiesel.com/product-tag/%D8%AF%DB%8C%D8%B2%D9%84-%DA%98%D9%86%D8%B1%D8%A7%D8%AA%D9%88%D8%B1-50-%DA%A9%D8%A7%D9%88%D8%A7/
+              - listitem [ref=e1099]:
+                - link "دیزل ژنراتور 100 کاوا" [ref=e1100] [cursor=pointer]:
+                  - /url: https://abadiesel.com/product-tag/%D8%AF%DB%8C%D8%B2%D9%84-%DA%98%D9%86%D8%B1%D8%A7%D8%AA%D9%88%D8%B1-100-%DA%A9%D8%A7%D9%88%D8%A7/
+              - listitem [ref=e1105]:
+                - link "موتور برق" [ref=e1106] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/
+              - listitem [ref=e1111]:
+                - link "برندهای موتور برق" [ref=e1112] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/
+              - listitem [ref=e1117]:
+                - link "برندهای پمپ کارواش" [ref=e1118] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/carwash/brands/
+              - listitem [ref=e1123]:
+                - link "گیربکس صنعتی" [ref=e1124] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/industrail-gearbox/
+              - listitem [ref=e1129]:
+                - link "الکتروموتور" [ref=e1130] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/electromotor/
+          - generic [ref=e1135]:
+            - generic [ref=e1136]: سایر صفحات
+            - list [ref=e1138]:
+              - listitem [ref=e1139]:
+                - link "مجله آبادیزل" [ref=e1140] [cursor=pointer]:
+                  - /url: https://abadiesel.com/blog
+              - listitem [ref=e1145]:
+                - link "تماس با ما" [ref=e1146] [cursor=pointer]:
+                  - /url: https://abadiesel.com/contact/
+              - listitem [ref=e1151]:
+                - link "درباره ما" [ref=e1152] [cursor=pointer]:
+                  - /url: https://abadiesel.com/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/
+              - listitem [ref=e1157]:
+                - link "همکاری در فروش" [ref=e1158] [cursor=pointer]:
+                  - /url: https://abadiesel.com/%D9%87%D9%85%DA%A9%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D9%81%D8%B1%D9%88%D8%B4/
+              - listitem [ref=e1163]:
+                - link "روش های ارسال" [ref=e1164] [cursor=pointer]:
+                  - /url: https://abadiesel.com/%D8%B1%D9%88%D8%B4-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B1%D8%B3%D8%A7%D9%84/
+              - listitem [ref=e1169]:
+                - link "قوانین و مقررات" [ref=e1170] [cursor=pointer]:
+                  - /url: https://abadiesel.com/%D9%82%D9%88%D8%A7%D9%86%DB%8C%D9%86-%D9%88-%D9%85%D9%82%D8%B1%D8%B1%D8%A7%D8%AA/
+              - listitem [ref=e1175]:
+                - link "مشاوره خرید" [ref=e1176] [cursor=pointer]:
+                  - /url: https://abadiesel.com/%d9%85%d8%b4%d8%a7%d9%88%d8%b1%d9%87-%d8%ae%d8%b1%db%8c%d8%af/
+          - generic [ref=e1181]:
+            - generic [ref=e1182]: تماس با ما
+            - list [ref=e1184]:
+              - listitem [ref=e1185]:
+                - generic [ref=e1191]: تهران، خیابان سعدی جنوبی، مجتمع تجاری اداری سعدی، طبقه 4، واحد 412
+              - listitem [ref=e1192]:
+                - generic [ref=e1200]:
+                  - link "021-33914084" [ref=e1201] [cursor=pointer]:
+                    - /url: tel:02133914084
+                  - text: "|"
+                  - link "021-33992294" [ref=e1202] [cursor=pointer]:
+                    - /url: tel:02133992294
+                  - link "09124455793" [ref=e1203] [cursor=pointer]:
+                    - /url: tel:09124455793
+                  - text: "|"
+                  - link "09121533354" [ref=e1204] [cursor=pointer]:
+                    - /url: tel:09121533354
+              - listitem [ref=e1205]:
+                - generic [ref=e1212]: info@abadiesel.com
+        - generic [ref=e1213]:
+          - generic [ref=e1214]: کلیه حقوق این سایت متعلق به شرکت بازرگانی مهندسی آبادیزل است.
+          - list [ref=e1218]:
+            - listitem [ref=e1219]:
+              - link "telegram" [ref=e1220] [cursor=pointer]:
+                - /url: https://t.me/abadiesell
+            - listitem [ref=e1228]:
+              - link "aparat" [ref=e1229] [cursor=pointer]:
+                - /url: https://www.aparat.com/Abadiesel.com
+                - img "aparat" [ref=e1231]
+            - listitem [ref=e1234]:
+              - link "bale" [ref=e1235] [cursor=pointer]:
+                - /url: https://ble.ir/abadiesel
+                - img "bale" [ref=e1237]
+            - listitem [ref=e1240]:
+              - link "instagram" [ref=e1241] [cursor=pointer]:
+                - /url: https://www.instagram.com/abadiesel/
+            - listitem [ref=e1246]:
+              - link "whatsapp" [ref=e1247] [cursor=pointer]:
+                - /url: https://api.whatsapp.com/send?phone=989127631387=%20%D8%B3%D9%84%D8%A7%D9%85.%20%D9%88%D9%82%D8%AA%20%D8%A8%D8%AE%DB%8C%D8%B1!%20%D9%85%D9%86%20%D8%A7%D8%B2%20%D8%B7%D8%B1%DB%8C%D9%82%20%D8%B3%D8%A7%DB%8C%D8%AA%20%D8%A2%D8%A8%D8%A7%D8%AF%DB%8C%D8%B2%D9%84%20%D8%A8%D8%A7%20%D8%B4%D9%85%D8%A7%20%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7%20%D9%85%DB%8C%DA%AF%DB%8C%D8%B1%D9%85!
+            - listitem [ref=e1253]:
+              - link "linkedin" [ref=e1254] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/abadiesel/
+                - img "LinkedIn-color" [ref=e1256]
+            - listitem [ref=e1260]:
+              - link "eitaa" [ref=e1261] [cursor=pointer]:
+                - /url: https://eitaa.com/abadiesel
+                - img "eitaa" [ref=e1263]
+            - listitem [ref=e1266]:
+              - link "rubika" [ref=e1267] [cursor=pointer]:
+                - /url: https://rubika.ir/abadiesel
+                - img "rubika" [ref=e1269]
+  - link "دکمه اسکرول به بالا":
+    - /url: "#"
+    - text: 
+  - navigation "منوی موبایل" [ref=e1271]:
+    - search [ref=e1273]:
+      - textbox "جستجو" [ref=e1274]:
+        - /placeholder: جستجوی محصولات
+      - text: 
+      - button "جستجو " [ref=e1275] [cursor=pointer]:
+        - generic: جستجو
+        - text: 
+    - list [ref=e1276]:
+      - listitem [ref=e1277]:
+        - link "دسته بندی محصولات" [ref=e1278] [cursor=pointer]:
+          - /url: "#"
+      - listitem [ref=e1280]:
+        - link "سایر موارد" [ref=e1281] [cursor=pointer]:
+          - /url: "#"
+    - list [ref=e1283]:
+      - listitem [ref=e1284]:
+        - link "ژنراتور" [ref=e1285] [cursor=pointer]:
+          - /url: https://abadiesel.com/pcat/generator/
+        - list [ref=e1287]:
+          - listitem [ref=e1288]:
+            - generic [ref=e1289] [cursor=pointer]: 
+            - link "بکاپ" [ref=e1290] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e1291]:
+            - link "دیزل ژنراتور" [ref=e1292] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/generator/diesel-generator/
+            - list [ref=e1293]:
+              - listitem [ref=e1294]:
+                - generic [ref=e1295] [cursor=pointer]: 
+                - link "بکاپ" [ref=e1296] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e1297]:
+                - link "دیزل ژنراتور بادوین" [ref=e1298] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/diesel-generator/baudouin/
+              - listitem [ref=e1299]:
+                - link "دیزل ژنراتور موتورسازان" [ref=e1300] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/diesel-generator/motorsazan/
+              - listitem [ref=e1301]:
+                - link "دیزل ژنراتور تلک" [ref=e1302] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/diesel-generator/telec/
+              - listitem [ref=e1303]:
+                - link "دیزل ژنراتور پرکینز" [ref=e1304] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/diesel-generator/perkins/
+              - listitem [ref=e1305]:
+                - link "دیزل ژنراتور ولوو پنتا" [ref=e1306] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/diesel-generator/volvo-penta/
+              - listitem [ref=e1307]:
+                - link "دیزل ژنراتور کامینز" [ref=e1308] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/diesel-generator/cummins/
+              - listitem [ref=e1309]:
+                - link "دیزل ژنراتور بنز ایدم" [ref=e1310] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/diesel-generator/benz/
+              - listitem [ref=e1311]:
+                - link "دیزل ژنراتور یوچای" [ref=e1312] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/diesel-generator/yuchai/
+              - listitem [ref=e1313]:
+                - link "دیزل ژنراتور RMP" [ref=e1314] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/diesel-generator/rmp/
+              - listitem [ref=e1315]:
+                - link "دیزل ژنراتور استریم" [ref=e1316] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/diesel-generator/stream/
+              - listitem [ref=e1317]:
+                - link "دیزل ژنراتور دویتس" [ref=e1318] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/diesel-generator/deutz/
+              - listitem [ref=e1319]:
+                - link "دیزل ژنراتور ایوول" [ref=e1320] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/diesel-generator/evol/
+              - listitem [ref=e1321]:
+                - link "دیزل ژنراتور پراماک" [ref=e1322] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/diesel-generator/pramac/
+              - listitem [ref=e1323]:
+                - link "دیزل ژنراتور جی اف" [ref=e1324] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/diesel-generator/gf/
+              - listitem [ref=e1325]:
+                - link "دیزل ژنراتور سنسی" [ref=e1326] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/diesel-generator/senci/
+              - listitem [ref=e1327]:
+                - link "دیزل ژنراتور فاو" [ref=e1328] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/diesel-generator/faw/
+              - listitem [ref=e1329]:
+                - link "دیزل ژنراتور لوول" [ref=e1330] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/diesel-generator/lovol/
+              - listitem [ref=e1331]:
+                - link "دیزل ژنراتور لیستر" [ref=e1332] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/diesel-generator/lister/
+              - listitem [ref=e1333]:
+                - link "دیزل ژنراتور یانمار" [ref=e1334] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/diesel-generator/yanmar/
+              - listitem [ref=e1335]:
+                - link "دیزل ژنراتور کاترپیلار" [ref=e1336] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/diesel-generator/caterpillar/
+            - generic [ref=e1337] [cursor=pointer]: 
+          - listitem [ref=e1338]:
+            - link "برد کنترل دیزل ژنراتور" [ref=e1339] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/generator/control-board/
+            - list [ref=e1340]:
+              - listitem [ref=e1341]:
+                - generic [ref=e1342] [cursor=pointer]: 
+                - link "بکاپ" [ref=e1343] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e1344]:
+                - link "برد کنترل دیپسی" [ref=e1345] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/control-board/deep-sea/
+              - listitem [ref=e1346]:
+                - link "برد کنترل دیتا کام" [ref=e1347] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/control-board/datakom/
+              - listitem [ref=e1348]:
+                - link "برد کنترل کومپ" [ref=e1349] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/control-board/comap/
+              - listitem [ref=e1350]:
+                - link "برد کنترل دیاکو" [ref=e1351] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/control-board/diako/
+              - listitem [ref=e1352]:
+                - link "برد کنترل هنز" [ref=e1353] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/control-board/henz/
+              - listitem [ref=e1354]:
+                - link "برد کنترل ام کو" [ref=e1355] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/control-board/emko/
+              - listitem [ref=e1356]:
+                - link "برد کنترل ان کو" [ref=e1357] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/control-board/enko/
+            - generic [ref=e1358] [cursor=pointer]: 
+          - listitem [ref=e1359]:
+            - link "تابلو برق دیزل ژنراتور" [ref=e1360] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/generator/tablo-bargh/
+            - list [ref=e1361]:
+              - listitem [ref=e1362]:
+                - generic [ref=e1363] [cursor=pointer]: 
+                - link "بکاپ" [ref=e1364] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e1365]:
+                - link "تابلو برق اضطراری امرجنسی" [ref=e1366] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/tablo-bargh/emergency/
+            - generic [ref=e1367] [cursor=pointer]: 
+          - listitem [ref=e1368]:
+            - link "شاسی دیزل ژنراتور" [ref=e1369] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/generator/diesel-generator-chassis/
+          - listitem [ref=e1370]:
+            - link "موتور بنزینی" [ref=e1371] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/generator/motor-benzini/
+            - list [ref=e1372]:
+              - listitem [ref=e1373]:
+                - generic [ref=e1374] [cursor=pointer]: 
+                - link "بکاپ" [ref=e1375] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e1376]:
+                - link "موتور بنزینی دیانا" [ref=e1377] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/motor-benzini/diana/
+              - listitem [ref=e1378]:
+                - link "موتور بنزینی راتو" [ref=e1379] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/motor-benzini/rato/
+              - listitem [ref=e1380]:
+                - link "موتور بنزینی سان پاور" [ref=e1381] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/motor-benzini/sun-power/
+              - listitem [ref=e1382]:
+                - link "موتور بنزینی گرین پاور" [ref=e1383] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/motor-benzini/green-power/
+              - listitem [ref=e1384]:
+                - link "موتور بنزینی لیفان" [ref=e1385] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/motor-benzini/lifan/
+              - listitem [ref=e1386]:
+                - link "موتور بنزینی یوکوهاما" [ref=e1387] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/motor-benzini/yokohama/
+            - generic [ref=e1388] [cursor=pointer]: 
+          - listitem [ref=e1389]:
+            - link "موتور دیزلی" [ref=e1390] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/generator/motor-diesel/
+            - list [ref=e1391]:
+              - listitem [ref=e1392]:
+                - generic [ref=e1393] [cursor=pointer]: 
+                - link "بکاپ" [ref=e1394] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e1395]:
+                - link "موتور دیزلی بادوین" [ref=e1396] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/motor-diesel/motor-diesel-baudouin/
+              - listitem [ref=e1397]:
+                - link "موتور دیزلی ولوو" [ref=e1398] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/motor-diesel/volvo/
+              - listitem [ref=e1399]:
+                - link "موتور دیزلی موتورسازان" [ref=e1400] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/motor-diesel/motorsazan/
+              - listitem [ref=e1401]:
+                - link "موتور دیزلی تلک" [ref=e1402] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/motor-diesel/telec/
+              - listitem [ref=e1403]:
+                - link "موتور دیزلی بنز" [ref=e1404] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/motor-diesel/benz/
+              - listitem [ref=e1405]:
+                - link "موتور دیزلی کامینز" [ref=e1406] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/motor-diesel/cummins/
+              - listitem [ref=e1407]:
+                - link "موتور دیزلی پرکینز" [ref=e1408] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/motor-diesel/motor-diesel-perkins/
+              - listitem [ref=e1409]:
+                - link "موتور دیزلی یوچای" [ref=e1410] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/motor-diesel/yuchai/
+              - listitem [ref=e1411]:
+                - link "موتور دیزلی rmp" [ref=e1412] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/motor-diesel/rmp/
+              - listitem [ref=e1413]:
+                - link "موتور دیزلی استریم" [ref=e1414] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/motor-diesel/stream/
+              - listitem [ref=e1415]:
+                - link "موتور دیزلی جیانگ دانگ" [ref=e1416] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/motor-diesel/jiang-dong/
+              - listitem [ref=e1417]:
+                - link "موتور دیزلی چانگچای" [ref=e1418] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/motor-diesel/changchai/
+              - listitem [ref=e1419]:
+                - link "موتور دیزلی دویتس" [ref=e1420] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/motor-diesel/duetz/
+              - listitem [ref=e1421]:
+                - link "موتور دیزلی دیانا" [ref=e1422] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/motor-diesel/diana/
+              - listitem [ref=e1423]:
+                - link "موتور دیزلی کاترپیلار" [ref=e1424] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/motor-diesel/caterpillar/
+              - listitem [ref=e1425]:
+                - link "موتور دیزلی کاما" [ref=e1426] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/motor-diesel/kama/
+              - listitem [ref=e1427]:
+                - link "موتور دیزلی کوپ" [ref=e1428] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/motor-diesel/koop/
+              - listitem [ref=e1429]:
+                - link "موتور دیزلی لوول" [ref=e1430] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/motor-diesel/lovol/
+              - listitem [ref=e1431]:
+                - link "موتور دیزلی لیفان" [ref=e1432] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/motor-diesel/lifan/
+            - generic [ref=e1433] [cursor=pointer]: 
+          - listitem [ref=e1434]:
+            - link "ژنراتور گازسوز" [ref=e1435] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/generator/gazsooz/
+            - list [ref=e1436]:
+              - listitem [ref=e1437]:
+                - generic [ref=e1438] [cursor=pointer]: 
+                - link "بکاپ" [ref=e1439] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e1440]:
+                - link "ژنراتور گاز سوز موتورسازان" [ref=e1441] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/gazsooz/motorsazan/
+              - listitem [ref=e1442]:
+                - link "ژنراتور گازسوز کاترپیلار" [ref=e1443] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/gazsooz/caterpillar/
+            - generic [ref=e1444] [cursor=pointer]: 
+          - listitem [ref=e1445]:
+            - link "ژنراتور تک" [ref=e1446] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/generator/generator-tak/
+            - list [ref=e1447]:
+              - listitem [ref=e1448]:
+                - generic [ref=e1449] [cursor=pointer]: 
+                - link "بکاپ" [ref=e1450] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e1451]:
+                - link "ژنراتور تک استمفورد" [ref=e1452] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/generator-tak/stamford/
+              - listitem [ref=e1453]:
+                - link "ژنراتور تک طرح استمفورد" [ref=e1454] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/generator-tak/stamford-power/
+              - listitem [ref=e1455]:
+                - link "ژنراتور تک دیزل ساز" [ref=e1456] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/generator-tak/dieselsaz/
+              - listitem [ref=e1457]:
+                - link "ژنراتور تک ABB" [ref=e1458] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/generator-tak/abb/
+              - listitem [ref=e1459]:
+                - link "ژنراتور تک مکالته" [ref=e1460] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/generator-tak/meccalte/
+              - listitem [ref=e1461]:
+                - link "ژنراتور تک وگ" [ref=e1462] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/generator-tak/weg/
+              - listitem [ref=e1463]:
+                - link "ژنراتور تک RMP" [ref=e1464] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/generator-tak/rmp/
+              - listitem [ref=e1465]:
+                - link "ژنراتور تک استریم" [ref=e1466] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/generator-tak/stream/
+              - listitem [ref=e1467]:
+                - link "ژنراتور تک کاجیلی" [ref=e1468] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/generator-tak/kaijieli/
+              - listitem [ref=e1469]:
+                - link "ژنراتور تک لروی سومر" [ref=e1470] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/generator-tak/leroy-somer/
+              - listitem [ref=e1471]:
+                - link "ژنراتور تک لینز" [ref=e1472] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/generator-tak/linz/
+              - listitem [ref=e1473]:
+                - link "ژنراتور تک مارلی" [ref=e1474] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/generator/generator-tak/marelli/
+            - generic [ref=e1475] [cursor=pointer]: 
+        - generic [ref=e1476] [cursor=pointer]: 
+      - listitem [ref=e1477]:
+        - link "موتور برق" [ref=e1478] [cursor=pointer]:
+          - /url: https://abadiesel.com/pcat/motor-bargh/
+        - list [ref=e1480]:
+          - listitem [ref=e1481]:
+            - generic [ref=e1482] [cursor=pointer]: 
+            - link "بکاپ" [ref=e1483] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e1484]:
+            - link "موتور برق بنزینی" [ref=e1485] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/motor-bargh/benzini/
+          - listitem [ref=e1486]:
+            - link "موتور برق دوگانه سوز" [ref=e1487] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/motor-bargh/doganesooz/
+          - listitem [ref=e1488]:
+            - link "موتور برق دیزلی" [ref=e1489] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/motor-bargh/diesel/
+          - listitem [ref=e1490]:
+            - link "موتور برق کیفی مسافرتی" [ref=e1491] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/motor-bargh/mosaferati/
+          - listitem [ref=e1492]:
+            - link "موتور برق گازی" [ref=e1493] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/motor-bargh/gas/
+          - listitem [ref=e1494]:
+            - link "برندهای موتور برق" [ref=e1495] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/motor-bargh/brands/
+            - list [ref=e1496]:
+              - listitem [ref=e1497]:
+                - generic [ref=e1498] [cursor=pointer]: 
+                - link "بکاپ" [ref=e1499] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e1500]:
+                - link "موتور برق هوندا المکس" [ref=e1501] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/honda/
+              - listitem [ref=e1502]:
+                - link "موتور برق جیانگ دانگ" [ref=e1503] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/jiang-dong/
+              - listitem [ref=e1504]:
+                - link "موتور برق دیانا" [ref=e1505] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/diana/
+              - listitem [ref=e1506]:
+                - link "موتور برق لانسین" [ref=e1507] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/loncin/
+              - listitem [ref=e1508]:
+                - link "موتور برق کاما" [ref=e1509] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/kama/
+              - listitem [ref=e1510]:
+                - link "موتور برق کوپ" [ref=e1511] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/koop/
+              - listitem [ref=e1512]:
+                - link "موتور برق راتو" [ref=e1513] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/rato/
+              - listitem [ref=e1514]:
+                - link "موتور برق کوپر" [ref=e1515] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/cooper/
+              - listitem [ref=e1516]:
+                - link "موتور برق استریم" [ref=e1517] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/stream/
+              - listitem [ref=e1518]:
+                - link "موتور برق پوتر" [ref=e1519] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/potere/
+              - listitem [ref=e1520]:
+                - link "موتور برق سنسی" [ref=e1521] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/senci/
+              - listitem [ref=e1522]:
+                - link "موتور برق فیرمن" [ref=e1523] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/firman/
+              - listitem [ref=e1524]:
+                - link "موتور برق واکسون" [ref=e1525] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/vackson/
+              - listitem [ref=e1526]:
+                - link "موتور برق شانرای" [ref=e1527] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/shanery/
+              - listitem [ref=e1528]:
+                - link "موتور برق هیوندای" [ref=e1529] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/hyundai/
+              - listitem [ref=e1530]:
+                - link "موتور برق آگرو" [ref=e1531] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/agro/
+              - listitem [ref=e1532]:
+                - link "موتور برق آسترا" [ref=e1533] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/astra/
+              - listitem [ref=e1534]:
+                - link "موتور برق پراماک" [ref=e1535] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/pramac/
+              - listitem [ref=e1536]:
+                - link "موتور برق اس کا ان" [ref=e1537] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/skn/
+              - listitem [ref=e1538]:
+                - link "موتور برق جنسیس" [ref=e1539] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/genesis/
+              - listitem [ref=e1540]:
+                - link "موتور برق دنیز" [ref=e1541] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/deniz/
+              - listitem [ref=e1542]:
+                - link "موتور برق دوو" [ref=e1543] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/daewoo/
+              - listitem [ref=e1544]:
+                - link "موتور برق ایمر" [ref=e1545] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/immer/
+              - listitem [ref=e1546]:
+                - link "موتور برق روبین" [ref=e1547] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/robin/
+              - listitem [ref=e1548]:
+                - link "موتور برق سان پاور" [ref=e1549] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/sun-power/
+              - listitem [ref=e1550]:
+                - link "موتور برق کامینز" [ref=e1551] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/cummins/
+              - listitem [ref=e1552]:
+                - link "موتور برق کواکس" [ref=e1553] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/covax/
+              - listitem [ref=e1554]:
+                - link "موتور برق کوبوتا" [ref=e1555] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/kubota/
+              - listitem [ref=e1556]:
+                - link "موتور برق گرین پاور" [ref=e1557] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/green-power/
+              - listitem [ref=e1558]:
+                - link "موتور برق لیفان" [ref=e1559] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/lifan/
+              - listitem [ref=e1560]:
+                - link "موتور برق مارکوئیس" [ref=e1561] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/marquise/
+              - listitem [ref=e1562]:
+                - link "موتور برق نویگیتور" [ref=e1563] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/navigator/
+              - listitem [ref=e1564]:
+                - link "موتور برق هواسدان" [ref=e1565] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/hwasdn/
+              - listitem [ref=e1566]:
+                - link "موتور برق هیرو پاور" [ref=e1567] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/hero-power/
+              - listitem [ref=e1568]:
+                - link "موتور برق ویما" [ref=e1569] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/weima/
+              - listitem [ref=e1570]:
+                - link "موتور برق یوکوهاما" [ref=e1571] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/yokohama/
+              - listitem [ref=e1572]:
+                - link "موتور برق یاماها" [ref=e1573] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/motor-bargh/brands/yamaha/
+            - generic [ref=e1574] [cursor=pointer]: 
+        - generic [ref=e1575] [cursor=pointer]: 
+      - listitem [ref=e1576]:
+        - link "الکتروموتور" [ref=e1577] [cursor=pointer]:
+          - /url: https://abadiesel.com/pcat/electromotor/
+        - list [ref=e1579]:
+          - listitem [ref=e1580]:
+            - generic [ref=e1581] [cursor=pointer]: 
+            - link "بکاپ" [ref=e1582] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e1583]:
+            - link "الکتروموتور ایرانی" [ref=e1584] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/electromotor/irani/
+            - list [ref=e1585]:
+              - listitem [ref=e1586]:
+                - generic [ref=e1587] [cursor=pointer]: 
+                - link "بکاپ" [ref=e1588] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e1589]:
+                - link "الکتروموتور موتوژن" [ref=e1590] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/electromotor/irani/motogen/
+              - listitem [ref=e1591]:
+                - link "الکتروموتور الکتروژن" [ref=e1592] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/electromotor/irani/electrogen/
+              - listitem [ref=e1593]:
+                - link "الکتروموتور جمکو" [ref=e1594] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/electromotor/irani/jemco/
+              - listitem [ref=e1595]:
+                - link "الکتروموتور دیزل ساز" [ref=e1596] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/electromotor/irani/dieselsaz/
+            - generic [ref=e1597] [cursor=pointer]: 
+          - listitem [ref=e1598]:
+            - link "الکتروموتور چینی" [ref=e1599] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/electromotor/china/
+            - list [ref=e1600]:
+              - listitem [ref=e1601]:
+                - generic [ref=e1602] [cursor=pointer]: 
+                - link "بکاپ" [ref=e1603] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e1604]:
+                - link "الکتروموتور استریم" [ref=e1605] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/electromotor/china/stream/
+            - generic [ref=e1606] [cursor=pointer]: 
+          - listitem [ref=e1607]:
+            - link "الکتروموتور خارجی" [ref=e1608] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/electromotor/khareji/
+            - list [ref=e1609]:
+              - listitem [ref=e1610]:
+                - generic [ref=e1611] [cursor=pointer]: 
+                - link "بکاپ" [ref=e1612] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e1613]:
+                - link "الکتروموتور زیمنس" [ref=e1614] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/electromotor/khareji/siemens/
+              - listitem [ref=e1615]:
+                - link "الکتروموتور وگ" [ref=e1616] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/electromotor/khareji/weg/
+              - listitem [ref=e1617]:
+                - link "الکتروموتور ABB" [ref=e1618] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/electromotor/khareji/abb/
+            - generic [ref=e1619] [cursor=pointer]: 
+          - listitem [ref=e1620]:
+            - link "الکتروموتور ضد انفجار" [ref=e1621] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/electromotor/zede-enfejar/
+          - listitem [ref=e1622]:
+            - link "الکتروموتور تک فاز" [ref=e1623] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/electromotor/tak-faz/
+          - listitem [ref=e1624]:
+            - link "الکتروموتور سه فاز" [ref=e1625] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/electromotor/se-faz/
+        - generic [ref=e1626] [cursor=pointer]: 
+      - listitem [ref=e1627]:
+        - link "پمپ" [ref=e1628] [cursor=pointer]:
+          - /url: https://abadiesel.com/pcat/pump/
+        - list [ref=e1630]:
+          - listitem [ref=e1631]:
+            - generic [ref=e1632] [cursor=pointer]: 
+            - link "بکاپ" [ref=e1633] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e1634]:
+            - link "پمپ آب خانگی" [ref=e1635] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/pump/home-water-pump/
+          - listitem [ref=e1636]:
+            - link "پمپ آب کشاورزی" [ref=e1637] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/pump/water-pump-keshavarzi/
+          - listitem [ref=e1638]:
+            - link "پمپ آب صنعتی" [ref=e1639] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/pump/water-pump-sanati/
+          - listitem [ref=e1640]:
+            - link "پمپ کف کش" [ref=e1641] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/pump/kafkesh/
+            - list [ref=e1642]:
+              - listitem [ref=e1643]:
+                - generic [ref=e1644] [cursor=pointer]: 
+                - link "بکاپ" [ref=e1645] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e1646]:
+                - link "کف کش پنتاکس" [ref=e1647] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/kafkesh/pentax/
+              - listitem [ref=e1648]:
+                - link "کفکش راد پمپ" [ref=e1649] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/kafkesh/radpump/
+              - listitem [ref=e1650]:
+                - link "کفکش دیانا" [ref=e1651] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/kafkesh/diana/
+              - listitem [ref=e1652]:
+                - link "کف کش جهان پمپ" [ref=e1653] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/kafkesh/jahanpump/
+              - listitem [ref=e1654]:
+                - link "کفکش فدک" [ref=e1655] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/kafkesh/fadak/
+              - listitem [ref=e1656]:
+                - link "کفکش بهار پمپ" [ref=e1657] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/kafkesh/baharpump/
+              - listitem [ref=e1658]:
+                - link "کفکش آریا پمپ" [ref=e1659] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/kafkesh/ariapump/
+              - listitem [ref=e1660]:
+                - link "کفکش توان تک" [ref=e1661] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/kafkesh/tavantak/
+              - listitem [ref=e1662]:
+                - link "کفکش استریم" [ref=e1663] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/kafkesh/stream/
+              - listitem [ref=e1664]:
+                - link "کفکش لوارا" [ref=e1665] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/kafkesh/lowara/
+              - listitem [ref=e1666]:
+                - link "کفکش آلما" [ref=e1667] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/kafkesh/alma/
+              - listitem [ref=e1668]:
+                - link "کفکش ابارا" [ref=e1669] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/kafkesh/ebara/
+              - listitem [ref=e1670]:
+                - link "کفکش اسپیکو" [ref=e1671] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/kafkesh/spico/
+              - listitem [ref=e1672]:
+                - link "کفکش بهاران نوین" [ref=e1673] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/kafkesh/baharnovin/
+              - listitem [ref=e1674]:
+                - link "کفکش الکتروژن" [ref=e1675] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/kafkesh/electrogen/
+              - listitem [ref=e1676]:
+                - link "کفکش پمپیران" [ref=e1677] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/kafkesh/pumpiran/
+              - listitem [ref=e1678]:
+                - link "کفکش دنا پمپ" [ref=e1679] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/kafkesh/denapump/
+              - listitem [ref=e1680]:
+                - link "کفکش سائر" [ref=e1681] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/kafkesh/saer/
+              - listitem [ref=e1682]:
+                - link "کفکش شیمجه" [ref=e1683] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/kafkesh/shimge/
+              - listitem [ref=e1684]:
+                - link "کفکش کالمو" [ref=e1685] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/kafkesh/calmo/
+              - listitem [ref=e1686]:
+                - link "کفکش لئو" [ref=e1687] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/kafkesh/leo/
+              - listitem [ref=e1688]:
+                - link "کفکش هیوندای" [ref=e1689] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/kafkesh/hyundai/
+            - generic [ref=e1690] [cursor=pointer]: 
+          - listitem [ref=e1691]:
+            - link "پمپ لجن کش" [ref=e1692] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/pump/lajankesh/
+            - list [ref=e1693]:
+              - listitem [ref=e1694]:
+                - generic [ref=e1695] [cursor=pointer]: 
+                - link "بکاپ" [ref=e1696] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e1697]:
+                - link "لجنکش دیانا" [ref=e1698] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/lajankesh/diana/
+              - listitem [ref=e1699]:
+                - link "لجنکش جهان پمپ" [ref=e1700] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/lajankesh/jahanpump/
+              - listitem [ref=e1701]:
+                - link "لجنکش فدک" [ref=e1702] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/lajankesh/fadak/
+              - listitem [ref=e1703]:
+                - link "لجنکش لوارا" [ref=e1704] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/lajankesh/lowara/
+              - listitem [ref=e1705]:
+                - link "لجنکش بهار پمپ" [ref=e1706] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/lajankesh/baharpump/
+              - listitem [ref=e1707]:
+                - link "لجنکش پنتاکس" [ref=e1708] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/lajankesh/pentax/
+              - listitem [ref=e1709]:
+                - link "لجن کش داب" [ref=e1710] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/lajankesh/dab/
+              - listitem [ref=e1711]:
+                - link "لجنکش اسپیکو" [ref=e1712] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/lajankesh/spico/
+              - listitem [ref=e1713]:
+                - link "لجنکش پمپیران" [ref=e1714] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/lajankesh/pumpiran/
+              - listitem [ref=e1715]:
+                - link "لجنکش آریاپمپ" [ref=e1716] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/lajankesh/ariapump/
+              - listitem [ref=e1717]:
+                - link "لجنکش استریم" [ref=e1718] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/lajankesh/stream/
+              - listitem [ref=e1719]:
+                - link "لجنکش آلما" [ref=e1720] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/lajankesh/alma/
+              - listitem [ref=e1721]:
+                - link "لجنکش ابارا" [ref=e1722] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/lajankesh/ebara/
+              - listitem [ref=e1723]:
+                - link "لجنکش بهاران نوین" [ref=e1724] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/lajankesh/baharnovin/
+              - listitem [ref=e1725]:
+                - link "لجنکش شیمجه" [ref=e1726] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/lajankesh/shimge/
+              - listitem [ref=e1727]:
+                - link "لجنکش رایان" [ref=e1728] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/lajankesh/rayan/
+              - listitem [ref=e1729]:
+                - link "لجنکش AMC" [ref=e1730] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/lajankesh/amc/
+              - listitem [ref=e1731]:
+                - link "لجنکش کالمو" [ref=e1732] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/lajankesh/calmo/
+              - listitem [ref=e1733]:
+                - link "لجنکش لئو" [ref=e1734] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/lajankesh/leo/
+            - generic [ref=e1735] [cursor=pointer]: 
+          - listitem [ref=e1736]:
+            - link "پمپ شناور" [ref=e1737] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/pump/shenavar/
+            - list [ref=e1738]:
+              - listitem [ref=e1739]:
+                - generic [ref=e1740] [cursor=pointer]: 
+                - link "بکاپ" [ref=e1741] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e1742]:
+                - link "پمپ شناور پمپیران" [ref=e1743] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/shenavar/pumpiran/
+              - listitem [ref=e1744]:
+                - link "پمپ شناور پنتاکس" [ref=e1745] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/shenavar/pentax/
+              - listitem [ref=e1746]:
+                - link "پمپ شناور دیانا" [ref=e1747] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/shenavar/diana/
+              - listitem [ref=e1748]:
+                - link "پمپ شناور تاپکس استار" [ref=e1749] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/shenavar/topexstar/
+              - listitem [ref=e1750]:
+                - link "پمپ شناور دیزل ساز" [ref=e1751] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/shenavar/dieselsaz/
+              - listitem [ref=e1752]:
+                - link "پمپ شناور استریم" [ref=e1753] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/shenavar/stream/
+              - listitem [ref=e1754]:
+                - link "شناور بهار پمپ" [ref=e1755] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/shenavar/baharpump/
+              - listitem [ref=e1756]:
+                - link "پمپ شناور AMC" [ref=e1757] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/shenavar/amc/
+              - listitem [ref=e1758]:
+                - link "پمپ شناور ابارا" [ref=e1759] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/shenavar/ebara/
+              - listitem [ref=e1760]:
+                - link "پمپ شناور داب" [ref=e1761] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/shenavar/dab/
+              - listitem [ref=e1762]:
+                - link "پمپ شناور شیمجه" [ref=e1763] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/shenavar/shimge/
+              - listitem [ref=e1764]:
+                - link "پمپ شناور لئو" [ref=e1765] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/shenavar/leo/
+              - listitem [ref=e1766]:
+                - link "پمپ شناور لوارا" [ref=e1767] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/shenavar/lowara/
+              - listitem [ref=e1768]:
+                - link "پمپ شناور مارکیوس" [ref=e1769] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/shenavar/marquis/
+              - listitem [ref=e1770]:
+                - link "شناور دنا پمپ" [ref=e1771] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/shenavar/denapump/
+            - generic [ref=e1772] [cursor=pointer]: 
+          - listitem [ref=e1773]:
+            - link "بوستر پمپ" [ref=e1774] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/pump/pump-booster/
+            - list [ref=e1775]:
+              - listitem [ref=e1776]:
+                - generic [ref=e1777] [cursor=pointer]: 
+                - link "بکاپ" [ref=e1778] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e1779]:
+                - link "بوستر پمپ ابارا" [ref=e1780] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/pump-booster/ebarapump/
+              - listitem [ref=e1781]:
+                - link "بوستر پمپ بهار پمپ" [ref=e1782] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/pump-booster/baharpump/
+              - listitem [ref=e1783]:
+                - link "بوستر پمپ پمپیران" [ref=e1784] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/pump-booster/pumpiran/
+              - listitem [ref=e1785]:
+                - link "بوستر پمپ پنتاکس" [ref=e1786] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/pump-booster/pentax/
+              - listitem [ref=e1787]:
+                - link "بوستر پمپ داب" [ref=e1788] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/pump-booster/dab/
+              - listitem [ref=e1789]:
+                - link "بوستر پمپ سائر" [ref=e1790] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/pump-booster/saer/
+              - listitem [ref=e1791]:
+                - link "بوستر پمپ لئو" [ref=e1792] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/pump-booster/leo/
+            - generic [ref=e1793] [cursor=pointer]: 
+          - listitem [ref=e1794]:
+            - link "لوازم جانبی پمپ" [ref=e1795] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/pump/pump-accessories/
+            - list [ref=e1796]:
+              - listitem [ref=e1797]:
+                - generic [ref=e1798] [cursor=pointer]: 
+                - link "بکاپ" [ref=e1799] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e1800]:
+                - link "کلید اتوماتیک" [ref=e1801] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/pump-accessories/kelid-automatic/
+              - listitem [ref=e1802]:
+                - link "ست کنترل" [ref=e1803] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/pump-accessories/control-set/
+              - listitem [ref=e1804]:
+                - link "مخزن پمپ آب" [ref=e1805] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/pump-accessories/makhzan-pump/
+            - generic [ref=e1806] [cursor=pointer]: 
+          - listitem [ref=e1807]:
+            - link "پمپ آب ایرانی" [ref=e1808] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/pump/water-pump-irani/
+            - list [ref=e1809]:
+              - listitem [ref=e1810]:
+                - generic [ref=e1811] [cursor=pointer]: 
+                - link "بکاپ" [ref=e1812] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e1813]:
+                - link "پمپ پمپیران" [ref=e1814] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/water-pump-irani/pumpiran/
+              - listitem [ref=e1815]:
+                - link "پمپ دیزل ساز" [ref=e1816] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/water-pump-irani/dieselsaz/
+              - listitem [ref=e1817]:
+                - link "پمپ الکتروژن" [ref=e1818] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/water-pump-irani/electrogen/
+              - listitem [ref=e1819]:
+                - link "پمپ بهار پمپ" [ref=e1820] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/water-pump-irani/baharpump/
+            - generic [ref=e1821] [cursor=pointer]: 
+          - listitem [ref=e1822]:
+            - link "پمپ آب خارجی" [ref=e1823] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/pump/water-pump-khareji/
+            - list [ref=e1824]:
+              - listitem [ref=e1825]:
+                - generic [ref=e1826] [cursor=pointer]: 
+                - link "بکاپ" [ref=e1827] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e1828]:
+                - link "پمپ داب ایتالیا" [ref=e1829] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/water-pump-khareji/dab/
+              - listitem [ref=e1830]:
+                - link "پمپ لوارا" [ref=e1831] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/water-pump-khareji/lowara/
+              - listitem [ref=e1832]:
+                - link "پمپ پنتاکس" [ref=e1833] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/water-pump-khareji/pentax/
+              - listitem [ref=e1834]:
+                - link "پمپ سائر" [ref=e1835] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/water-pump-khareji/saer/
+              - listitem [ref=e1836]:
+                - link "پمپ ابارا ایتالیا" [ref=e1837] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/water-pump-khareji/ebara/
+              - listitem [ref=e1838]:
+                - link "پمپ هیوندای" [ref=e1839] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/water-pump-khareji/hyundai/
+            - generic [ref=e1840] [cursor=pointer]: 
+          - listitem [ref=e1841]:
+            - link "پمپ آب چینی" [ref=e1842] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/pump/water-pump-china/
+            - list [ref=e1843]:
+              - listitem [ref=e1844]:
+                - generic [ref=e1845] [cursor=pointer]: 
+                - link "بکاپ" [ref=e1846] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e1847]:
+                - link "پمپ دیانا" [ref=e1848] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/water-pump-china/diana/
+              - listitem [ref=e1849]:
+                - link "پمپ استریم" [ref=e1850] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/water-pump-china/stream/
+              - listitem [ref=e1851]:
+                - link "پمپ مارکیوس" [ref=e1852] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/water-pump-china/marquis/
+              - listitem [ref=e1853]:
+                - link "پمپ شیمجه" [ref=e1854] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/pump/water-pump-china/shimge/
+            - generic [ref=e1855] [cursor=pointer]: 
+        - generic [ref=e1856] [cursor=pointer]: 
+      - listitem [ref=e1857]:
+        - link "گیربکس صنعتی" [ref=e1858] [cursor=pointer]:
+          - /url: https://abadiesel.com/pcat/industrail-gearbox/
+        - list [ref=e1860]:
+          - listitem [ref=e1861]:
+            - generic [ref=e1862] [cursor=pointer]: 
+            - link "بکاپ" [ref=e1863] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e1864]:
+            - link "گیربکس ایرانی" [ref=e1865] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/industrail-gearbox/gearbox-irani/
+            - list [ref=e1866]:
+              - listitem [ref=e1867]:
+                - generic [ref=e1868] [cursor=pointer]: 
+                - link "بکاپ" [ref=e1869] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e1870]:
+                - link "گیربکس شاکرین صنعت" [ref=e1871] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/industrail-gearbox/gearbox-irani/shakerinsanat/
+              - listitem [ref=e1872]:
+                - link "گیربکس پویا" [ref=e1873] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/industrail-gearbox/gearbox-irani/pooya/
+              - listitem [ref=e1874]:
+                - link "گیربکس اصفهان سهند" [ref=e1875] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/industrail-gearbox/gearbox-irani/esfahansahand/
+              - listitem [ref=e1876]:
+                - link "گیربکس پشتیبان صنعت" [ref=e1877] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/industrail-gearbox/gearbox-irani/poshtibansanat/
+              - listitem [ref=e1878]:
+                - link "گیربکس پولادین پارت" [ref=e1879] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/industrail-gearbox/gearbox-irani/pooladinpart/
+            - generic [ref=e1880] [cursor=pointer]: 
+          - listitem [ref=e1881]:
+            - link "گیربکس خارجی" [ref=e1882] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/industrail-gearbox/gearbox-khareji/
+            - list [ref=e1883]:
+              - listitem [ref=e1884]:
+                - generic [ref=e1885] [cursor=pointer]: 
+                - link "بکاپ" [ref=e1886] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e1887]:
+                - link "گیربکس SEW" [ref=e1888] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/industrail-gearbox/gearbox-khareji/sew/
+              - listitem [ref=e1889]:
+                - link "گیربکس ایلماز" [ref=e1890] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/industrail-gearbox/gearbox-khareji/yilmaz/
+              - listitem [ref=e1891]:
+                - link "گیربکس CEW" [ref=e1892] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/industrail-gearbox/gearbox-khareji/cew/
+            - generic [ref=e1893] [cursor=pointer]: 
+          - listitem [ref=e1894]:
+            - link "گیربکس حلزونی" [ref=e1895] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/industrail-gearbox/halazooni/
+          - listitem [ref=e1896]:
+            - link "گیربکس کتابی" [ref=e1897] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/industrail-gearbox/ketabi/
+          - listitem [ref=e1898]:
+            - link "گیربکس شافت مستقیم" [ref=e1899] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/industrail-gearbox/shaft-mostaghim/
+        - generic [ref=e1900] [cursor=pointer]: 
+      - listitem [ref=e1901]:
+        - link "کارواش (واترجت)" [ref=e1902] [cursor=pointer]:
+          - /url: https://abadiesel.com/pcat/carwash/
+        - list [ref=e1904]:
+          - listitem [ref=e1905]:
+            - generic [ref=e1906] [cursor=pointer]: 
+            - link "بکاپ" [ref=e1907] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e1908]:
+            - link "کارواش صنعتی" [ref=e1909] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/carwash/sanati/
+          - listitem [ref=e1910]:
+            - link "کارواش خانگی" [ref=e1911] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/carwash/khanegi/
+          - listitem [ref=e1912]:
+            - link "برندهای پمپ کارواش" [ref=e1913] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/carwash/brands/
+            - list [ref=e1914]:
+              - listitem [ref=e1915]:
+                - generic [ref=e1916] [cursor=pointer]: 
+                - link "بکاپ" [ref=e1917] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e1918]:
+                - link "کارواش برتولینی" [ref=e1919] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/carwash/brands/bertolini/
+              - listitem [ref=e1920]:
+                - link "کارواش اینترپمپ" [ref=e1921] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/carwash/brands/interpump/
+              - listitem [ref=e1922]:
+                - link "کارواش پمپاک" [ref=e1923] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/carwash/brands/pumpak/
+              - listitem [ref=e1924]:
+                - link "کارواش دیانا" [ref=e1925] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/carwash/brands/diana/
+              - listitem [ref=e1926]:
+                - link "کارواش هیوندا" [ref=e1927] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/carwash/brands/hyundai/
+              - listitem [ref=e1928]:
+                - link "کارواش AMC" [ref=e1929] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/carwash/brands/amc/
+              - listitem [ref=e1930]:
+                - link "کارواش اسپیکو" [ref=e1931] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/carwash/brands/spico/
+              - listitem [ref=e1932]:
+                - link "کارواش استریم" [ref=e1933] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/carwash/brands/stream/
+              - listitem [ref=e1934]:
+                - link "کارواش تکنو" [ref=e1935] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/carwash/brands/techno/
+              - listitem [ref=e1936]:
+                - link "کارواش کارچر" [ref=e1937] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/carwash/brands/karcher/
+              - listitem [ref=e1938]:
+                - link "کارواش میشلن" [ref=e1939] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/carwash/brands/michelin/
+            - generic [ref=e1940] [cursor=pointer]: 
+        - generic [ref=e1941] [cursor=pointer]: 
+      - listitem [ref=e1942]:
+        - link "ابزار باغبانی کشاورزی" [ref=e1943] [cursor=pointer]:
+          - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/
+        - list [ref=e1945]:
+          - listitem [ref=e1946]:
+            - generic [ref=e1947] [cursor=pointer]: 
+            - link "بکاپ" [ref=e1948] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e1949]:
+            - link "موتور پمپ کشاورزی" [ref=e1950] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/motor-pump-keshavarzi/
+            - list [ref=e1951]:
+              - listitem [ref=e1952]:
+                - generic [ref=e1953] [cursor=pointer]: 
+                - link "بکاپ" [ref=e1954] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e1955]:
+                - link "موتور پمپ روبین" [ref=e1956] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/motor-pump-keshavarzi/robin/
+              - listitem [ref=e1957]:
+                - link "موتور پمپ دیانا" [ref=e1958] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/motor-pump-keshavarzi/diana/
+              - listitem [ref=e1959]:
+                - link "موتور پمپ آگرو" [ref=e1960] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/motor-pump-keshavarzi/agro/
+              - listitem [ref=e1961]:
+                - link "موتور پمپ اس کا ان" [ref=e1962] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/motor-pump-keshavarzi/skn/
+              - listitem [ref=e1963]:
+                - link "موتور پمپ استریم" [ref=e1964] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/motor-pump-keshavarzi/stream/
+              - listitem [ref=e1965]:
+                - link "موتور پمپ پوتر" [ref=e1966] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/motor-pump-keshavarzi/potere/
+              - listitem [ref=e1967]:
+                - link "موتور پمپ کاما" [ref=e1968] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/motor-pump-keshavarzi/kama/
+              - listitem [ref=e1969]:
+                - link "موتور پمپ جیانگ دانگ" [ref=e1970] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/motor-pump-keshavarzi/jiangdong/
+              - listitem [ref=e1971]:
+                - link "موتور پمپ کوشین" [ref=e1972] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/motor-pump-keshavarzi/koshin/
+              - listitem [ref=e1973]:
+                - link "موتور پمپ کوپ" [ref=e1974] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/motor-pump-keshavarzi/koop/
+              - listitem [ref=e1975]:
+                - link "موتور پمپ لانسین" [ref=e1976] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/motor-pump-keshavarzi/lancin/
+              - listitem [ref=e1977]:
+                - link "موتور پمپ راتو" [ref=e1978] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/motor-pump-keshavarzi/rato/
+              - listitem [ref=e1979]:
+                - link "موتور پمپ کوپر" [ref=e1980] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/motor-pump-keshavarzi/kooper/
+              - listitem [ref=e1981]:
+                - link "موتور پمپ دوو" [ref=e1982] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/motor-pump-keshavarzi/daewoo/
+              - listitem [ref=e1983]:
+                - link "موتور پمپ سان پاور" [ref=e1984] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/motor-pump-keshavarzi/sunpower/
+              - listitem [ref=e1985]:
+                - link "موتور پمپ سنسی" [ref=e1986] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/motor-pump-keshavarzi/senci/
+              - listitem [ref=e1987]:
+                - link "موتور پمپ واکسون" [ref=e1988] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/motor-pump-keshavarzi/vackson/
+              - listitem [ref=e1989]:
+                - link "موتور پمپ فیرمن" [ref=e1990] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/motor-pump-keshavarzi/firman/
+              - listitem [ref=e1991]:
+                - link "موتور پمپ لیفان" [ref=e1992] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/motor-pump-keshavarzi/lifan/
+              - listitem [ref=e1993]:
+                - link "موتور پمپ مارکویس" [ref=e1994] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/motor-pump-keshavarzi/marquis/
+              - listitem [ref=e1995]:
+                - link "موتور پمپ ماک" [ref=e1996] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/motor-pump-keshavarzi/maak/
+              - listitem [ref=e1997]:
+                - link "موتور پمپ هیوندا" [ref=e1998] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/motor-pump-keshavarzi/hyundai/
+              - listitem [ref=e1999]:
+                - link "موتور پمپ یوکوهاما" [ref=e2000] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/motor-pump-keshavarzi/yokohama/
+            - generic [ref=e2001] [cursor=pointer]: 
+          - listitem [ref=e2002]:
+            - link "سمپاش" [ref=e2003] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/sampash/
+            - list [ref=e2004]:
+              - listitem [ref=e2005]:
+                - generic [ref=e2006] [cursor=pointer]: 
+                - link "بکاپ" [ref=e2007] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e2008]:
+                - link "سمپاش استریم" [ref=e2009] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/sampash/stream/
+              - listitem [ref=e2010]:
+                - link "سمپاش دیانا" [ref=e2011] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/sampash/diana/
+              - listitem [ref=e2012]:
+                - link "سمپاش ماک" [ref=e2013] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/sampash/maak/
+              - listitem [ref=e2014]:
+                - link "سمپاش هیوندا" [ref=e2015] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/sampash/hyundai/
+              - listitem [ref=e2016]:
+                - link "سمپاش یوکوهاما" [ref=e2017] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/sampash/yokohama/
+            - generic [ref=e2018] [cursor=pointer]: 
+          - listitem [ref=e2019]:
+            - link "علف تراش" [ref=e2020] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/alaf-trash/
+            - list [ref=e2021]:
+              - listitem [ref=e2022]:
+                - generic [ref=e2023] [cursor=pointer]: 
+                - link "بکاپ" [ref=e2024] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e2025]:
+                - link "علف تراش دیانا" [ref=e2026] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/alaf-trash/diana/
+              - listitem [ref=e2027]:
+                - link "علف تراش ماک" [ref=e2028] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/alaf-trash/maak/
+              - listitem [ref=e2029]:
+                - link "چاله کن ماک" [ref=e2030] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/chalekan/maak/
+            - generic [ref=e2031] [cursor=pointer]: 
+          - listitem [ref=e2032]:
+            - link "تیلر کشاورزی" [ref=e2033] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/tiller/
+            - list [ref=e2034]:
+              - listitem [ref=e2035]:
+                - generic [ref=e2036] [cursor=pointer]: 
+                - link "بکاپ" [ref=e2037] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e2038]:
+                - link "تیلر کشاورزی دیانا" [ref=e2039] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/tiller/diana/
+              - listitem [ref=e2040]:
+                - link "تیلر کشاورزی کاما" [ref=e2041] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/tiller/kama/
+              - listitem [ref=e2042]:
+                - link "تیلر کشاورزی آگرو" [ref=e2043] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/tiller/agro/
+              - listitem [ref=e2044]:
+                - link "تیلر کشاورزی استریم" [ref=e2045] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/tiller/stream/
+              - listitem [ref=e2046]:
+                - link "تیلر کشاورزی راتو" [ref=e2047] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/tiller/rato/
+              - listitem [ref=e2048]:
+                - link "تیلر کشاورزی کوپ" [ref=e2049] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/tiller/koop/
+              - listitem [ref=e2050]:
+                - link "تیلر کشاورزی لیفان" [ref=e2051] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/tiller/lifan/
+              - listitem [ref=e2052]:
+                - link "تیلر کشاورزی ماک" [ref=e2053] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/tiller/maak/
+              - listitem [ref=e2054]:
+                - link "تیلر کشاورزی هیوندا" [ref=e2055] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/baghbani-keshavarzi/tiller/hyundai/
+            - generic [ref=e2056] [cursor=pointer]: 
+        - generic [ref=e2057] [cursor=pointer]: 
+      - listitem [ref=e2058]:
+        - link "کمپرسور" [ref=e2059] [cursor=pointer]:
+          - /url: https://abadiesel.com/pcat/compressor/
+        - list [ref=e2061]:
+          - listitem [ref=e2062]:
+            - generic [ref=e2063] [cursor=pointer]: 
+            - link "بکاپ" [ref=e2064] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e2065]:
+            - link "کمپرسور ایرانی" [ref=e2066] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/compressor/compressor-irani/
+            - list [ref=e2067]:
+              - listitem [ref=e2068]:
+                - generic [ref=e2069] [cursor=pointer]: 
+                - link "بکاپ" [ref=e2070] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e2071]:
+                - link "کمپرسور هوا مفیدی" [ref=e2072] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/compressor/compressor-irani/mofidi/
+            - generic [ref=e2073] [cursor=pointer]: 
+          - listitem [ref=e2074]:
+            - link "کمپرسور خارجی" [ref=e2075] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/compressor/compressor-khareji/
+            - list [ref=e2076]:
+              - listitem [ref=e2077]:
+                - generic [ref=e2078] [cursor=pointer]: 
+                - link "بکاپ" [ref=e2079] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e2080]:
+                - link "کمپرسور هوا استریم" [ref=e2081] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/compressor/compressor-khareji/stream/
+              - listitem [ref=e2082]:
+                - link "کمپرسور هوا هیوندا" [ref=e2083] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/compressor/compressor-khareji/hyundai/
+            - generic [ref=e2084] [cursor=pointer]: 
+        - generic [ref=e2085] [cursor=pointer]: 
+      - listitem [ref=e2086]:
+        - link "اينورتر" [ref=e2087] [cursor=pointer]:
+          - /url: https://abadiesel.com/pcat/inverter/
+        - list [ref=e2089]:
+          - listitem [ref=e2090]:
+            - generic [ref=e2091] [cursor=pointer]: 
+            - link "بکاپ" [ref=e2092] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e2093]:
+            - link "اینورتر ایرانی" [ref=e2094] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/inverter/inverter-irani/
+          - listitem [ref=e2095]:
+            - link "اینورتر چینی" [ref=e2096] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/inverter/china-inverter/
+          - listitem [ref=e2097]:
+            - link "اینورتر خارجی" [ref=e2098] [cursor=pointer]:
+              - /url: https://abadiesel.com/pcat/inverter/inverter-khareji/
+            - list [ref=e2099]:
+              - listitem [ref=e2100]:
+                - generic [ref=e2101] [cursor=pointer]: 
+                - link "بکاپ" [ref=e2102] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e2103]:
+                - link "اینورتر اشنایدر" [ref=e2104] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/inverter/inverter-khareji/inverter-schneider/
+              - listitem [ref=e2105]:
+                - link "اینورتر ال اس" [ref=e2106] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/inverter/inverter-khareji/siemens/
+              - listitem [ref=e2107]:
+                - link "اینورتر اینوت" [ref=e2108] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/inverter/inverter-khareji/invet/
+              - listitem [ref=e2109]:
+                - link "اینورتر پنتاکس" [ref=e2110] [cursor=pointer]:
+                  - /url: https://abadiesel.com/pcat/inverter/inverter-khareji/pentax/
+            - generic [ref=e2111] [cursor=pointer]: 
+        - generic [ref=e2112] [cursor=pointer]: 
+  - text:    +
+  - generic [ref=e2113]: desktop
+  - status
+```

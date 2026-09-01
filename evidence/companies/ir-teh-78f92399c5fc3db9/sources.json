@@ -1,0 +1,96 @@
+{
+  "company_id": "ir-teh-78f92399c5fc3db9",
+  "errors": [
+    {
+      "error": "### Browser `luma-b2b-ir-teh-78f92399c5fc3db9-attempt-1` opened with pid 50980.\n### Error\nError: net::ERR_CONNECTION_CLOSED at https://api.whatsapp.com/send?text=avval.ir/profile/b7126/%D9%85%D8%AD%D9%85%D8%AF-%D9%81%D8%B1%D8%AF%D9%88%D8%B3%DB%8C\nCall log:\n\u001b[2m  - navigating to \"https://api.whatsapp.com/send?text=avval.ir/profile/b7126/%D9%85%D8%AD%D9%85%D8%AF-%D9%81%D8%B1%D8%AF%D9%88%D8%B3%DB%8C\", waiting until \"domcontentloaded\"\u001b[22m\n\n",
+      "source_url": "https://api.whatsapp.com/send?text=avval.ir/profile/b7126/%D9%85%D8%AD%D9%85%D8%AF-%D9%81%D8%B1%D8%AF%D9%88%D8%B3%DB%8C",
+      "stage": "open"
+    }
+  ],
+  "generated_at": "2026-09-01T09:27:13Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [
+    {
+      "bytes": 48098,
+      "captured_at": "2026-09-01T09:27:11Z",
+      "company_id": "ir-teh-78f92399c5fc3db9",
+      "headless": true,
+      "page_title": ".:: نماد تجارت الکترونیکی ::. خطا",
+      "path": "companies/ir-teh-78f92399c5fc3db9/screenshots/homepage_candidate-2.png",
+      "reason_this_matters": "Public company-site candidate; capture verifies whether it is reachable.",
+      "screenshot_type": "homepage_candidate_fallback",
+      "source_url": "https://trustseal.enamad.ir/?id=178895&Code=01X8SWOs5P0kZiwsIQiz"
+    }
+  ],
+  "sources": [
+    {
+      "discovered_at": "2026-09-01T06:31:47Z",
+      "discovery_reason": "Book-e Avval category: تولید جعبه مقوایی",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "محمد فردوسی",
+      "source_quality": "directory",
+      "source_title": "تولید جعبه مقوایی در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/search/%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%AC%D8%B9%D8%A8%D9%87-%D9%85%D9%82%D9%88%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86?page=2"
+    },
+    {
+      "discovered_at": "2026-09-01T07:06:09Z",
+      "discovery_reason": "Public VIC industrial-estate index: شهرک صنعتی عباس آباد",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "- مقاطع آلومینیومی آلیاژی- ریخته گری چدن خاکستری",
+      "source_quality": "industrial_source",
+      "source_title": "کارخانجات و واحدهای تولیدی شهرک صنعتی عباس آباد",
+      "source_type": "industrial_estate_registry",
+      "source_url": "https://vic.ir/company/zone?cp=364230000&cc=364230000010&cn=%D8%B4%D9%87%D8%B1%DA%A9%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D8%B9%D8%A8%D8%A7%D8%B3%20%D8%A2%D8%A8%D8%A7%D8%AF&pn=%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:31:47Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-585dc47c4a74d3fd",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "محمد فردوسی",
+      "source_quality": "directory",
+      "source_title": "تولید جعبه مقوایی در تهران | کتاب اول",
+      "source_url": "https://avval.ir/search/%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%AC%D8%B9%D8%A8%D9%87-%D9%85%D9%82%D9%88%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86?page=2"
+    },
+    {
+      "captured_at": "2026-09-01T07:06:09Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.72,
+      "evidence_id": "ev-14dec694a6e5dbc8",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "- مقاطع آلومینیومی آلیاژی- ریخته گری چدن خاکستری",
+      "source_quality": "industrial_source",
+      "source_title": "کارخانجات و واحدهای تولیدی شهرک صنعتی عباس آباد",
+      "source_url": "https://vic.ir/company/zone?cp=364230000&cc=364230000010&cn=%D8%B4%D9%87%D8%B1%DA%A9%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D8%B9%D8%A8%D8%A7%D8%B3%20%D8%A2%D8%A8%D8%A7%D8%AF&pn=%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:53Z",
+      "claim": "Directory profile lists محمد فردوسی with a public Tehran business listing.",
+      "confidence": 0.82,
+      "evidence_id": "ev-278ba60e4b898391",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "محمد فردوسی - تولید جعبه مقوایی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس محمد فردوسی تولید جعبه مقوایی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل تولید جعبه مقوایی تهران محله بعثت اطلاعات تماس آدرس : تهران، منطقه 16، محله بعثت، خزانه بخارایی، نرسیده به فلکه دوم عباسی، پلاک 18 تلفن : نمایش شماره XXXXXXXXXX کد پستی : 1836843581 نظرات لطفا به این کسب و کار امتیاز بدید و نظر خودتون رو درباره ",
+      "source_quality": "directory",
+      "source_title": "محمد فردوسی - تولید جعبه مقوایی | کتاب اول",
+      "source_url": "https://avval.ir/profile/b7126/%D9%85%D8%AD%D9%85%D8%AF-%D9%81%D8%B1%D8%AF%D9%88%D8%B3%DB%8C"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:53Z",
+      "claim": "Directory profile lists محمد فردوسی with a public Tehran business listing.",
+      "confidence": 0.82,
+      "evidence_id": "ev-886ae4a4e735cc61",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "شرکت محمد فردوسی - مقاطع آلومینیومی آلیاژی- ریخته گری چدن خاکستری ورود به پایگاه اطلاعات صنعتی ایران برای ورود ایمیل و کلمه عبور خود را وارد نمایید. کلمه عبور خود را فراموش کرده اید؟ بازیابی کلمه عبور من هنوز عضو پایگاه نشده ام. عضویت در پایگاه اطلاعات صنعتی ایران خانه شرکت ها کالا و خدمات نمایشگاه ها آگهی ها ابزار های بازاریابی ورود عضویت خروج هنوز عضو پایگاه نشده ام! عضویت بازار های آنلاین تجهیزات رستوران و آشپزخانه صنعتی تجهیزات رستوران و آشپزخانه صنعتی الکترو موتور و الکترو پمپ و کمپرسور الک",
+      "source_quality": "directory",
+      "source_title": "شرکت محمد فردوسی - مقاطع آلومینیومی آلیاژی- ریخته گری چدن خاکستری",
+      "source_url": "https://vic.ir/company/details?code=5A8941&Company=%D9%85%D8%AD%D9%85%D8%AF%20%D9%81%D8%B1%D8%AF%D9%88%D8%B3%DB%8C&Activity=%20%D9%85%D9%82%D8%A7%D8%B7%D8%B9%20%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85%DB%8C%20%D8%A2%D9%84%DB%8C%D8%A7%DA%98%DB%8C-%20%D8%B1%DB%8C%D8%AE%D8%AA%D9%87%20%DA%AF%D8%B1%DB%8C%20%DA%86%D8%AF%D9%86%20%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C"
+    }
+  ]
+}

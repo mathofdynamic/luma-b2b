@@ -1,0 +1,76 @@
+### Page
+- Page URL: https://rspiran.ir/
+- Page Title: شرکت راهبران صنعت پویا – شرکت نفت، گاز و پتروشیمی
+- Console: 1 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - generic:
+    - generic [ref=e2]: پرش لینک ها
+    - list [ref=e3]:
+      - listitem [ref=e4]:
+        - link "رفتن به ناوبری اولیه" [ref=e5] [cursor=pointer]:
+          - /url: "#primary-nav"
+      - listitem [ref=e6]:
+        - link "پرش به محتوا" [ref=e7] [cursor=pointer]:
+          - /url: "#lqd-site-content"
+  - generic [ref=e8]:
+    - banner:
+      - navigation [ref=e11]:
+        - generic [ref=e12]:
+          - listitem [ref=e13]:
+            - link "خانه" [ref=e14] [cursor=pointer]:
+              - /url: https://rspiran.ir/#home
+          - listitem [ref=e15]:
+            - link "خدمات" [ref=e16] [cursor=pointer]:
+              - /url: https://rspiran.ir/#services
+          - listitem [ref=e17]:
+            - link "درباره ما" [ref=e18] [cursor=pointer]:
+              - /url: https://rspiran.ir/#AboutUs
+          - listitem [ref=e19]:
+            - link "گواهینامه ها" [ref=e20] [cursor=pointer]:
+              - /url: https://rspiran.ir/#Certifications
+          - listitem [ref=e21]:
+            - link "پروژه ها" [ref=e22] [cursor=pointer]:
+              - /url: https://rspiran.ir/#projects
+          - listitem [ref=e23]:
+            - link "شرکای تجاری" [ref=e24] [cursor=pointer]:
+              - /url: https://rspiran.ir/#Business-Partners
+          - listitem [ref=e25]:
+            - link "تماس با ما" [ref=e26] [cursor=pointer]:
+              - /url: https://rspiran.ir/%d8%aa%d9%85%d8%a7%d8%b3-%d8%a8%d8%a7-%d9%85%d8%a7/
+    - main [ref=e27]
+  - generic [ref=e33]: desktop
+  - generic [ref=e35]:
+    - generic [ref=e37]:
+      - generic [ref=e38]: "01"
+      - generic [ref=e39]: "02"
+      - generic [ref=e40]: "03"
+      - generic [ref=e41]: "04"
+      - generic [ref=e42]: "05"
+      - generic [ref=e43]: "06"
+      - generic [ref=e44]: "07"
+    - list [ref=e45]:
+      - listitem [ref=e46]:
+        - link [ref=e47] [cursor=pointer]:
+          - /url: "#home"
+      - listitem [ref=e51]:
+        - link [ref=e52] [cursor=pointer]:
+          - /url: "#services"
+      - listitem [ref=e56]:
+        - link [ref=e57] [cursor=pointer]:
+          - /url: "#AboutUs"
+      - listitem [ref=e61]:
+        - link [ref=e62] [cursor=pointer]:
+          - /url: "#Certifications"
+      - listitem [ref=e66]:
+        - link [ref=e67] [cursor=pointer]:
+          - /url: "#Leadership"
+      - listitem [ref=e71]:
+        - link [ref=e72] [cursor=pointer]:
+          - /url: "#projects"
+      - listitem [ref=e76]:
+        - link [ref=e77] [cursor=pointer]:
+          - /url: "#Business-Partners"
+    - generic [ref=e81]: "07"
+```

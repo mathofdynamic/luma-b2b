@@ -1,0 +1,106 @@
+{
+  "company_id": "ir-teh-14630719ebf1ad9b",
+  "errors": [],
+  "generated_at": "2026-09-01T08:16:16Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [
+    {
+      "bytes": 2688002,
+      "captured_at": "2026-09-01T08:16:14Z",
+      "company_id": "ir-teh-14630719ebf1ad9b",
+      "headless": true,
+      "page_title": "صفحه اصلی - شیمی تجارت مهرآوان",
+      "path": "companies/ir-teh-14630719ebf1ad9b/screenshots/homepage.png",
+      "reason_this_matters": "Public company homepage is the primary visual evidence surface.",
+      "screenshot_type": "homepage",
+      "source_url": "https://shimitejaratmehravan.com/"
+    }
+  ],
+  "sources": [
+    {
+      "discovered_at": "2026-09-01T06:31:59Z",
+      "discovery_reason": "Book-e Avval category: واردات صادرات مواد شیمیایی",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "بازرگانی شیمی تجارت مهرآوان ، عرضه انواع مواد شیمیایی بصورت عمده و جزئی و ارسال سفارشات به سراسر کشور در کمترین زمان ممکن می باشد این شرکت آماده همکاری با شرکت‌های تولید",
+      "source_quality": "directory",
+      "source_title": "واردات صادرات مواد شیمیایی در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%B4%DB%8C%D9%85%DB%8C%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:31:59Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-4552b9e88972470c",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "بازرگانی شیمی تجارت مهرآوان ، عرضه انواع مواد شیمیایی بصورت عمده و جزئی و ارسال سفارشات به سراسر کشور در کمترین زمان ممکن می باشد این شرکت آماده همکاری با شرکت‌های تولید",
+      "source_quality": "directory",
+      "source_title": "واردات صادرات مواد شیمیایی در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%B4%DB%8C%D9%85%DB%8C%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:53Z",
+      "claim": "Directory profile lists بازرگانی شیمی تجارت مهرآوان with a public Tehran business listing.",
+      "confidence": 0.82,
+      "evidence_id": "ev-b77dcaa36f13c07e",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "بازرگانی شیمی تجارت مهرآوان - واردات صادرات مواد شیمیایی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس بازرگانی شیمی تجارت مهرآوان 5.0 (1 نظر) شیمی تجارت مهرآوان فروش محصولات دارای تاییدیه و برگ سبز گمرگ واردات صادرات مواد شیمیایی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل واردات صادرات مواد شیمیایی تهران محله دریا اطلاعات تماس آدرس : تهران، منطقه 2، محله دریا، سعادت آباد، بلوار دریا، خیابان ص",
+      "source_quality": "directory",
+      "source_title": "بازرگانی شیمی تجارت مهرآوان - واردات صادرات مواد شیمیایی | کتاب اول",
+      "source_url": "https://avval.ir/profile/ptd13/%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%B4%DB%8C%D9%85%DB%8C-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D9%85%D9%87%D8%B1%D8%A2%D9%88%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T07:17:49Z",
+      "claim": "Public website signal: rfq_or_quote",
+      "confidence": 0.86,
+      "evidence_id": "ev-335d3e1cb686700b",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "استعلام قیمت | شیمی تجارت مهرآوان – تأمین و فروش مواد اولیه شیمیایی برای صنایع پرش به محتوا خانه محصولات همه محصولات مواد اولیه صنایع غذایی مواد اولیه دارویی مواد اولیه آرایشی و بهداشتی مواد اولیه صنایع شوینده مواد اولیه رنگ و رزین مواد اولیه کشاورزی حلال‌های صنعتی مواد شیمیایی تصفیه آب مواد اولیه صنعتی مقالات درباره ما تماس با ما خانه محصولات همه محصولات مواد اولیه صنایع غذایی مواد اولیه دارویی مواد اولیه آرایشی و بهداشتی مواد اول",
+      "signal": "rfq_or_quote",
+      "source_quality": "company_site",
+      "source_title": "شیمی تجارت مهرآوان – تأمین و فروش مواد اولیه شیمیایی برای صنایع",
+      "source_url": "https://shimitejaratmehravan.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:17:49Z",
+      "claim": "Public website signal: catalog_or_products",
+      "confidence": 0.86,
+      "evidence_id": "ev-55c2349cca5649c6",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "محصولات; محصول | شیمی تجارت مهرآوان – تأمین و فروش مواد اولیه شیمیایی برای صنایع پرش به محتوا خانه محصولات همه محصولات مواد اولیه صنایع غذایی مواد اولیه دارویی مواد اولیه آرایشی و بهداشتی مواد اولیه صنایع شوینده مواد اولیه رنگ و رزین مواد اولیه کشاورزی حلال‌های صنعتی مواد شیمیایی تصفیه آب مواد اولیه صنعتی مقالات درباره ما تماس با ما خانه محصولات همه محصولات مواد اولیه صنایع غذایی مواد اولیه دارویی مواد اولیه آرایشی و بهداشتی مواد اول",
+      "signal": "catalog_or_products",
+      "source_quality": "company_site",
+      "source_title": "شیمی تجارت مهرآوان – تأمین و فروش مواد اولیه شیمیایی برای صنایع",
+      "source_url": "https://shimitejaratmehravan.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:17:49Z",
+      "claim": "Public website signal: order_or_contact_form",
+      "confidence": 0.72,
+      "evidence_id": "ev-fde39dbc5d75a078",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "تماس با ما | شیمی تجارت مهرآوان – تأمین و فروش مواد اولیه شیمیایی برای صنایع پرش به محتوا خانه محصولات همه محصولات مواد اولیه صنایع غذایی مواد اولیه دارویی مواد اولیه آرایشی و بهداشتی مواد اولیه صنایع شوینده مواد اولیه رنگ و رزین مواد اولیه کشاورزی حلال‌های صنعتی مواد شیمیایی تصفیه آب مواد اولیه صنعتی مقالات درباره ما تماس با ما خانه محصولات همه محصولات مواد اولیه صنایع غذایی مواد اولیه دارویی مواد اولیه آرایشی و بهداشتی مواد اول",
+      "signal": "order_or_contact_form",
+      "source_quality": "company_site",
+      "source_title": "شیمی تجارت مهرآوان – تأمین و فروش مواد اولیه شیمیایی برای صنایع",
+      "source_url": "https://shimitejaratmehravan.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:17:49Z",
+      "claim": "Public website signal: admin_or_operations_hiring",
+      "confidence": 0.72,
+      "evidence_id": "ev-8132804913f9f173",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "کارشناس فروش | شیمی تجارت مهرآوان – تأمین و فروش مواد اولیه شیمیایی برای صنایع پرش به محتوا خانه محصولات همه محصولات مواد اولیه صنایع غذایی مواد اولیه دارویی مواد اولیه آرایشی و بهداشتی مواد اولیه صنایع شوینده مواد اولیه رنگ و رزین مواد اولیه کشاورزی حلال‌های صنعتی مواد شیمیایی تصفیه آب مواد اولیه صنعتی مقالات درباره ما تماس با ما خانه محصولات همه محصولات مواد اولیه صنایع غذایی مواد اولیه دارویی مواد اولیه آرایشی و بهداشتی مواد اول",
+      "signal": "admin_or_operations_hiring",
+      "source_quality": "company_site",
+      "source_title": "شیمی تجارت مهرآوان – تأمین و فروش مواد اولیه شیمیایی برای صنایع",
+      "source_url": "https://shimitejaratmehravan.com/"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+### Page
+- Page URL: https://www.sanatmap.com/location/%D8%B4%D9%87%D8%B1%DA%A9-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C-%D8%B4%D9%85%D8%B3-%D8%A2%D8%A8%D8%A7%D8%AF/
+- Page Title: شهرک صنعتی شمس آباد - صنعت مپ
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - link "رفتن به محتوا" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e9]:
+        - link [ref=e14] [cursor=pointer]:
+          - /url: https://www.sanatmap.com/
+          - img "لوگوی صنعت مپ" [ref=e15]
+        - generic [ref=e16]:
+          - navigation "پیمایش اصلی سایت" [ref=e20]:
+            - list [ref=e22]:
+              - listitem [ref=e23]:
+                - link "صفحه اصلی" [ref=e24] [cursor=pointer]:
+                  - /url: https://www.sanatmap.com/
+              - listitem [ref=e25]:
+                - link "درباره صنعت‌مپ" [ref=e26] [cursor=pointer]:
+                  - /url: https://www.sanatmap.com/about-us/
+              - listitem [ref=e27]:
+                - link "نقشه سراسری" [ref=e28] [cursor=pointer]:
+                  - /url: https://www.sanatmap.com/map/
+              - listitem [ref=e29]:
+                - link [ref=e30] [cursor=pointer]:
+                  - /url: "#"
+                  - text: معرفی شهرک‌های صنعتی
+                  - application "تاگل فهرست" [ref=e31]
+          - button "ثبت اطلاعات کارخانه شما" [ref=e37] [cursor=pointer]
+          - button "پشتیبانی" [ref=e41] [cursor=pointer]
+          - generic [ref=e45]:
+            - link "Telegram" [ref=e46] [cursor=pointer]:
+              - /url: https://t.me/sanatmap1
+            - link "WhatsApp" [ref=e50] [cursor=pointer]:
+              - /url: https://api.whatsapp.com/send?phone=989025555976
+    - generic [ref=e56]:
+      - generic [ref=e59]:
+        - 'heading "موقعیت: شهرک صنعتی شمس آباد" [level=1] [ref=e61]'
+        - paragraph [ref=e63]: شهرک صنعتی شمس‌آباد، به عنوان بزرگترین شهرک صنعتی ایران، در موقعیتی استراتژیک در اتوبان تهران-قم قرار گرفته است. این شهرک با وسعتی بیش از ۲۸۰۰ هکتار، میزبان هزاران واحد صنعتی در حوزه‌های مختلف از جمله فلزات، خودروسازی، شیمیایی و غذایی است و به عنوان قلب تپنده صنعت کشور در نزدیکی پایتخت شناخته می‌شود. پیمایش و یافتن اطلاعات دقیق در این مجموعه عظیم صنعتی یک چالش بزرگ است؛ پلتفرم صنعت‌مپ با ارائه نقشه جامع و به‌روز، این چالش را حل کرده است. کاربران می‌توانند با استفاده از صنعت‌مپ، به راحتی به لیست کامل کارخانه‌ها، اطلاعات تماس، موقعیت دقیق هر سوله و دسته‌بندی صنایع مستقر در شهرک صنعتی شمس‌آباد دسترسی پیدا کرده و مسیر خود را به سادگی مسیریابی کنند.
+      - list [ref=e68]:
+        - generic [ref=e71]:
+          - link [ref=e73] [cursor=pointer]:
+            - /url: https://www.sanatmap.com/factory/%d9%86%d9%88%d8%a2%d9%88%d8%b1%d8%a7%d9%86-%d8%b3%d8%a8%d8%b2-%d8%a7%d8%ad%db%8c%d8%a7%d8%a1/
+            - img "تصویر شاخص شرکت نوآوران سبز احیاء" [ref=e74]
+          - list [ref=e81]:
+            - listitem [ref=e82]:
+              - generic [ref=e83]: شهرک صنعتی شمس آباد
+          - generic [ref=e85]:
+            - heading [level=2] [ref=e87]:
+              - link "نوآوران سبز احیاء" [ref=e88] [cursor=pointer]:
+                - /url: https://www.sanatmap.com/factory/%d9%86%d9%88%d8%a2%d9%88%d8%b1%d8%a7%d9%86-%d8%b3%d8%a8%d8%b2-%d8%a7%d8%ad%db%8c%d8%a7%d8%a1/
+            - paragraph [ref=e90]: شرکت نوآوران سبز احیاء (سهامی خاص) از سال ۱۳۸۶ فعالیت خود را با هدف تأمین مواد اولیه شرکت‌های ذوب و […]
+            - link "مشاهده اطلاعات کارخانه" [ref=e92] [cursor=pointer]:
+              - /url: https://www.sanatmap.com/factory/%d9%86%d9%88%d8%a2%d9%88%d8%b1%d8%a7%d9%86-%d8%b3%d8%a8%d8%b2-%d8%a7%d8%ad%db%8c%d8%a7%d8%a1/
+          - generic [ref=e95]:
+            - list [ref=e97]:
+              - listitem [ref=e98]:
+                - time [ref=e103]: ۱۴۰۴/۰۶/۱۱
+              - listitem [ref=e104]:
+                - generic [ref=e108]: بازیافت و فرآوری
+            - img "Rated 0 out of 5 stars" [ref=e116]
+        - generic [ref=e124]:
+          - link [ref=e126] [cursor=pointer]:
+            - /url: https://www.sanatmap.com/factory/%d9%85%d9%87%d9%86%d8%af%d8%b3%db%8c-%d8%b1%db%8c-%d9%85%d9%87%d8%b1/
+            - img "تصویر شاخص شرکت ری مهر" [ref=e127]
+          - list [ref=e134]:
+            - listitem [ref=e135]:
+              - generic [ref=e136]: شهرک صنعتی شمس آباد
+          - generic [ref=e138]:
+            - heading [level=2] [ref=e140]:
+              - link "مهندسی ری مهر" [ref=e141] [cursor=pointer]:
+                - /url: https://www.sanatmap.com/factory/%d9%85%d9%87%d9%86%d8%af%d8%b3%db%8c-%d8%b1%db%8c-%d9%85%d9%87%d8%b1/
+            - paragraph [ref=e143]: شرکت مهندسی ری مهر با چهار دهه تجربه، به عنوان یکی از پیشگامان طراحی و ساخت ماشین آلات صنعتی در […]
+            - link "مشاهده اطلاعات کارخانه" [ref=e145] [cursor=pointer]:
+              - /url: https://www.sanatmap.com/factory/%d9%85%d9%87%d9%86%d8%af%d8%b3%db%8c-%d8%b1%db%8c-%d9%85%d9%87%d8%b1/
+          - generic [ref=e148]:
+            - list [ref=e150]:
+              - listitem [ref=e151]:
+                - time [ref=e156]: ۱۴۰۴/۰۶/۰۷
+              - listitem [ref=e157]:
+                - generic [ref=e161]: ماشین سازی
+            - img "Rated 0 out of 5 stars" [ref=e169]
+        - generic [ref=e177]:
+          - link [ref=e179] [cursor=pointer]:
+            - /url: https://www.sanatmap.com/factory/%d9%81%d8%b1%d8%a7%d9%88%d8%b1%d8%af%d9%87%d9%87%d8%a7%db%8c-%d9%86%d8%b3%d9%88%d8%b2-%d8%b1%d8%a7%d9%87-%d8%b5%d9%86%d8%b9%d8%aa/
+            - img "تصویر شاخص کارخانه فراورده های نسوز راه صنعت" [ref=e180]
+          - list [ref=e187]:
+            - listitem [ref=e188]:
+              - generic [ref=e189]: شهرک صنعتی شمس آباد
+          - generic [ref=e191]:
+            - heading [level=2] [ref=e193]:
+              - link "فراورده‌های نسوز راه صنعت" [ref=e194] [cursor=pointer]:
+                - /url: https://www.sanatmap.com/factory/%d9%81%d8%b1%d8%a7%d9%88%d8%b1%d8%af%d9%87%d9%87%d8%a7%db%8c-%d9%86%d8%b3%d9%88%d8%b2-%d8%b1%d8%a7%d9%87-%d8%b5%d9%86%d8%b9%d8%aa/
+            - paragraph [ref=e196]: شرکت فراورده‌های نسوز راه صنعت، از تولیدکنندگان پیشرو در صنعت نسوز ایران، از سال ۱۳۷۰ فعالیت خود را با هدف […]
+            - link "مشاهده اطلاعات کارخانه" [ref=e198] [cursor=pointer]:
+              - /url: https://www.sanatmap.com/factory/%d9%81%d8%b1%d8%a7%d9%88%d8%b1%d8%af%d9%87%d9%87%d8%a7%db%8c-%d9%86%d8%b3%d9%88%d8%b2-%d8%b1%d8%a7%d9%87-%d8%b5%d9%86%d8%b9%d8%aa/
+          - generic [ref=e201]:
+            - list [ref=e203]:
+              - listitem [ref=e204]:
+                - time [ref=e209]: ۱۴۰۴/۰۶/۰۳
+              - listitem [ref=e210]:
+                - generic [ref=e214]: مواد و قطعات دیرگداز(نسوز)
+            - img "Rated 0 out of 5 stars" [ref=e222]
+    - contentinfo [ref=e228]:
+      - generic [ref=e230]:
+        - img "لوگوی صنعت مپ" [ref=e233]
+        - paragraph [ref=e236]:
+          - strong [ref=e237]: صنعت‌مپ، مرجع اطلاعاتی کارخانه‌ها و واحدهای صنعتی در شهرک‌های صنعتی ایران است
+          - text: . ما با گردآوری دقیق و ساختارمند اطلاعات صنایع فعال، مسیر ارتباط بین تولیدکنندگان، تأمین‌کنندگان و صنعتگران را هموار می‌کنیم. این وب‌سایت به‌صورت مستقل و بی‌طرف، تنها با هدف توسعه زیرساخت‌های اطلاعاتی صنعت کشور فعالیت می‌کند.
+      - paragraph [ref=e242]:
+        - text: کلیه حقوق متعلق به وبسایت
+        - strong [ref=e244]: صنعت‌مپ
+        - text: می باشد
+  - generic [ref=e245]: desktop
+```

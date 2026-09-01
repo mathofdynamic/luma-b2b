@@ -1,0 +1,297 @@
+### Page
+- Page URL: https://novintejarat.ir/industrial-parks-industry-228-981-8-1.html
+- Page Title: ‌شهرک صنعتی شمس آباد | شهرک صنعتی | شهرک های صنعتی ایران
+- Console: 0 errors, 2 warnings
+### Snapshot
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - generic:
+      - table [ref=e6]:
+        - rowgroup:
+          - row:
+            - cell
+            - cell
+      - generic [ref=e7]:
+        - generic [ref=e8]:
+          - link "ثبت آگهی/کسب و کار" [ref=e9] [cursor=pointer]:
+            - /url: /admin
+          - link "دانلود اپلیکیشن" [ref=e10] [cursor=pointer]:
+            - /url: https://cafebazaar.ir/app/ir.novintejarat
+        - generic [ref=e12]:
+          - textbox "جستجو..." [ref=e14]
+          - button "🔍" [ref=e16] [cursor=pointer]
+      - link [ref=e18] [cursor=pointer]:
+        - /url: https://novintejarat.ir
+        - img "بانک اطلاعات مشاغل" [ref=e19]
+  - generic [ref=e20]:
+    - list:
+      - listitem [ref=e21]:
+        - link "نوین تجارت" [ref=e22] [cursor=pointer]:
+          - /url: /index.aspx
+      - listitem [ref=e23]:
+        - link "بانک مشاغل" [ref=e24] [cursor=pointer]:
+          - /url: /companies-list.html
+      - listitem [ref=e25]:
+        - link "محصولات" [ref=e26] [cursor=pointer]:
+          - /url: /ads-list.html
+      - listitem [ref=e27]:
+        - link "ثبت نام یا ورود" [ref=e28] [cursor=pointer]:
+          - /url: /admin
+      - listitem [ref=e29]:
+        - link "مقالات" [ref=e30] [cursor=pointer]:
+          - /url: /posts-articles-1.html
+      - listitem [ref=e31]:
+        - link "شهرک های صنعتی" [ref=e32] [cursor=pointer]:
+          - /url: /industrial-park-list.html
+      - listitem [ref=e33]:
+        - link "درباره ما" [ref=e34] [cursor=pointer]:
+          - /url: /page-aboutus.html
+      - listitem [ref=e35]:
+        - link "تماس با ما" [ref=e36] [cursor=pointer]:
+          - /url: /ContactUs.aspx
+      - listitem [ref=e37]:
+        - link "دانلود اپلیکیشن" [ref=e38] [cursor=pointer]:
+          - /url: https://cafebazaar.ir/app/ir.novintejarat/?l=fa
+      - listitem [ref=e39]:
+        - link "سایت ساز شرکتی" [ref=e40] [cursor=pointer]:
+          - /url: https://novinsitesaz.ir
+  - generic [ref=e41]:
+    - generic [ref=e42]:
+      - link [ref=e43] [cursor=pointer]:
+        - /url: https://novintejarat.ir
+        - img "بانک تجارت" [ref=e44]
+      - link "شهرک صنعتی" [ref=e46] [cursor=pointer]:
+        - /url: /industrial-park-list.html
+      - link "شهرک های صنعتی تهران" [ref=e48] [cursor=pointer]:
+        - /url: /industrial-parks-province-tehran-1.html
+      - link "شهرک های صنعتی ری" [ref=e50] [cursor=pointer]:
+        - /url: /industrial-parks-city-981-8-1.html
+      - link "‌شهرک صنعتی شمس آباد" [ref=e52] [cursor=pointer]:
+        - /url: /industrial-parks-industry-228-981-8-1.html
+    - generic [ref=e54]:
+      - link [ref=e55] [cursor=pointer]:
+        - /url: https://www.novinsitesaz.com
+        - img "سایت ساز شرکتی" [ref=e56]
+      - link [ref=e57] [cursor=pointer]:
+        - /url: https://b2n.ir/argess
+        - img "نرم افزار حسابداری" [ref=e58]
+    - generic [ref=e60]:
+      - link [ref=e61] [cursor=pointer]:
+        - /url: /page-banner.html
+        - img "تبلیغات - تبلیغات هدفمند" [ref=e62]
+      - link [ref=e63] [cursor=pointer]:
+        - /url: /page-banner.html
+        - img "تبلیغات - تبلیغات هدفمند" [ref=e64]
+    - generic [ref=e65]:
+      - list [ref=e67]:
+        - listitem [ref=e68]:
+          - link "شهرک های صنعتی آذربایجان شرقی (2)" [ref=e69] [cursor=pointer]:
+            - /url: /industrial-parks-province-azarbayejanSharghi-1.html
+        - listitem [ref=e70]:
+          - link "شهرک های صنعتی آذربايجان غربی (1)" [ref=e71] [cursor=pointer]:
+            - /url: /industrial-parks-province-azarbayejanGharbi-1.html
+        - listitem [ref=e72]:
+          - link "شهرک های صنعتی اردبیل (0)" [ref=e73] [cursor=pointer]:
+            - /url: /industrial-parks-province-ardabil-1.html
+        - listitem [ref=e74]:
+          - link "شهرک های صنعتی اصفهان (232)" [ref=e75] [cursor=pointer]:
+            - /url: /industrial-parks-province-esfahan-1.html
+        - listitem [ref=e76]:
+          - link "شهرک های صنعتی البرز (3)" [ref=e77] [cursor=pointer]:
+            - /url: /industrial-parks-province-alborz-1.html
+        - listitem [ref=e78]:
+          - link "شهرک های صنعتی ایلام (1)" [ref=e79] [cursor=pointer]:
+            - /url: /industrial-parks-province-ilam-1.html
+        - listitem [ref=e80]:
+          - link "شهرک های صنعتی بوشهر (1)" [ref=e81] [cursor=pointer]:
+            - /url: /industrial-parks-province-bushehr-1.html
+        - listitem [ref=e82]:
+          - link "شهرک های صنعتی تهران (13)" [ref=e83] [cursor=pointer]:
+            - /url: /industrial-parks-province-tehran-1.html
+        - listitem [ref=e84]:
+          - link "شهرک های صنعتی چهارمحال و بختياری (0)" [ref=e85] [cursor=pointer]:
+            - /url: /industrial-parks-province-chaharmahalVaBakhtiyari-1.html
+        - listitem [ref=e86]:
+          - link "شهرک های صنعتی خراسان جنوبی (0)" [ref=e87] [cursor=pointer]:
+            - /url: /industrial-parks-province-khorasaneJonoubi-1.html
+        - listitem [ref=e88]:
+          - link "شهرک های صنعتی خراسان رضوی (5)" [ref=e89] [cursor=pointer]:
+            - /url: /industrial-parks-province-khorasaneRazavi-1.html
+        - listitem [ref=e90]:
+          - link "شهرک های صنعتی خراسان شمالی (0)" [ref=e91] [cursor=pointer]:
+            - /url: /industrial-parks-province-khorasaneShomali-1.html
+        - listitem [ref=e92]:
+          - link "شهرک های صنعتی خوزستان (0)" [ref=e93] [cursor=pointer]:
+            - /url: /industrial-parks-province-khozestan-1.html
+        - listitem [ref=e94]:
+          - link "شهرک های صنعتی زنجان (0)" [ref=e95] [cursor=pointer]:
+            - /url: /industrial-parks-province-zanjan-1.html
+        - listitem [ref=e96]:
+          - link "شهرک های صنعتی سمنان (1)" [ref=e97] [cursor=pointer]:
+            - /url: /industrial-parks-province-semnan-1.html
+        - listitem [ref=e98]:
+          - link "شهرک های صنعتی سيستان و بلوچستان (0)" [ref=e99] [cursor=pointer]:
+            - /url: /industrial-parks-province-sistanVaBalochestan-1.html
+        - listitem [ref=e100]:
+          - link "شهرک های صنعتی فارس (10)" [ref=e101] [cursor=pointer]:
+            - /url: /industrial-parks-province-fars-1.html
+        - listitem [ref=e102]:
+          - link "شهرک های صنعتی قزوین (0)" [ref=e103] [cursor=pointer]:
+            - /url: /industrial-parks-province-ghazvin-1.html
+        - listitem [ref=e104]:
+          - link "شهرک های صنعتی قم (1)" [ref=e105] [cursor=pointer]:
+            - /url: /industrial-parks-province-qom-1.html
+        - listitem [ref=e106]:
+          - link "شهرک های صنعتی کردستان (1)" [ref=e107] [cursor=pointer]:
+            - /url: /industrial-parks-province-kordestan-1.html
+        - listitem [ref=e108]:
+          - link "شهرک های صنعتی کرمان (2)" [ref=e109] [cursor=pointer]:
+            - /url: /industrial-parks-province-kerman-1.html
+        - listitem [ref=e110]:
+          - link "شهرک های صنعتی کرمانشاه (1)" [ref=e111] [cursor=pointer]:
+            - /url: /industrial-parks-province-kermanshah-1.html
+        - listitem [ref=e112]:
+          - link "شهرک های صنعتی كهگيلويه و بويراحمد (1)" [ref=e113] [cursor=pointer]:
+            - /url: /industrial-parks-province-kohgeloyeVaBoyerahman-1.html
+        - listitem [ref=e114]:
+          - link "شهرک های صنعتی گلستان (0)" [ref=e115] [cursor=pointer]:
+            - /url: /industrial-parks-province-golestan-1.html
+        - listitem [ref=e116]:
+          - link "شهرک های صنعتی گیلان (1)" [ref=e117] [cursor=pointer]:
+            - /url: /industrial-parks-province-gilan-1.html
+        - listitem [ref=e118]:
+          - link "شهرک های صنعتی لرستان (2)" [ref=e119] [cursor=pointer]:
+            - /url: /industrial-parks-province-lorestan-1.html
+        - listitem [ref=e120]:
+          - link "شهرک های صنعتی مازندران (0)" [ref=e121] [cursor=pointer]:
+            - /url: /industrial-parks-province-mazandaran-1.html
+        - listitem [ref=e122]:
+          - link "شهرک های صنعتی مرکزی (6)" [ref=e123] [cursor=pointer]:
+            - /url: /industrial-parks-province-markazi-1.html
+        - listitem [ref=e124]:
+          - link "شهرک های صنعتی هرمزگان (0)" [ref=e125] [cursor=pointer]:
+            - /url: /industrial-parks-province-hormozgan-1.html
+        - listitem [ref=e126]:
+          - link "شهرک های صنعتی همدان (0)" [ref=e127] [cursor=pointer]:
+            - /url: /industrial-parks-province-hamedan-1.html
+        - listitem [ref=e128]:
+          - link "شهرک های صنعتی یزد (2)" [ref=e129] [cursor=pointer]:
+            - /url: /industrial-parks-province-yazd-1.html
+      - generic [ref=e130]:
+        - heading "آخرین بانک مشاغل" [level=3] [ref=e131]
+        - generic [ref=e132]:
+          - generic [ref=e133]:
+            - link "سنگ یونیک":
+              - /url: /company-58437293.html
+              - img "سنگ یونیک" [ref=e134] [cursor=pointer]
+            - link "سنگ یونیک سنگ فروش در شهرک صنعتی شمس آباد" [ref=e135] [cursor=pointer]:
+              - /url: /company-58437293.html
+              - text: سنگ یونیکسنگ فروش در شهرک صنعتی شمس آباد
+            - text: "توان : 0"
+          - img "0 ستاره" [ref=e136]
+        - generic [ref=e137]:
+          - generic [ref=e138]:
+            - link "تفلون جنوب":
+              - /url: /company-5373366.html
+              - img "تفلون جنوب" [ref=e139] [cursor=pointer]
+            - link "تفلون جنوب تولید کننده ظروف تفلون ، دیگ زود پز ، پلوپز ، آرام پز ، بخارپز برقی" [ref=e140] [cursor=pointer]:
+              - /url: /company-5373366.html
+              - text: تفلون جنوبتولید کننده ظروف تفلون ، دیگ زود پز ، پلوپز ، آرام پز ، بخارپز برقی
+            - text: "توان : 0"
+          - img "0 ستاره" [ref=e141]
+    - generic [ref=e142]:
+      - heading "لیست بانک مشاغل ‌شهرک صنعتی شمس آباد" [level=1] [ref=e145]
+      - generic [ref=e146]:
+        - heading "شهرک های صنعتی تهران" [level=2] [ref=e147]
+        - list:
+          - listitem [ref=e148]:
+            - link "شهرک های صنعتی اسلامشهر (0)" [ref=e149] [cursor=pointer]:
+              - /url: /industrial-parks-city-985-8-1.html
+          - listitem [ref=e150]:
+            - link "شهرک های صنعتی بهارستان (0)" [ref=e151] [cursor=pointer]:
+              - /url: /industrial-parks-city-976-8-1.html
+          - listitem [ref=e152]:
+            - link "شهرک های صنعتی پاکدشت (0)" [ref=e153] [cursor=pointer]:
+              - /url: /industrial-parks-city-987-8-1.html
+          - listitem [ref=e154]:
+            - link "شهرک های صنعتی پردیس (0)" [ref=e155] [cursor=pointer]:
+              - /url: /industrial-parks-city-977-8-1.html
+          - listitem [ref=e156]:
+            - link "شهرک های صنعتی پیشوا (0)" [ref=e157] [cursor=pointer]:
+              - /url: /industrial-parks-city-975-8-1.html
+          - listitem [ref=e158]:
+            - link "شهرک های صنعتی تهران (5)" [ref=e159] [cursor=pointer]:
+              - /url: /industrial-parks-city-979-8-1.html
+          - listitem [ref=e160]:
+            - link "شهرک های صنعتی دماوند (0)" [ref=e161] [cursor=pointer]:
+              - /url: /industrial-parks-city-980-8-1.html
+          - listitem [ref=e162]:
+            - link "شهرک های صنعتی رباط کریم (1)" [ref=e163] [cursor=pointer]:
+              - /url: /industrial-parks-city-986-8-1.html
+          - listitem [ref=e164]:
+            - link "شهرک های صنعتی ری (5)" [ref=e165] [cursor=pointer]:
+              - /url: /industrial-parks-city-981-8-1.html
+          - listitem [ref=e166]:
+            - link "شهرک های صنعتی شمیرانات (0)" [ref=e167] [cursor=pointer]:
+              - /url: /industrial-parks-city-982-8-1.html
+          - listitem [ref=e168]:
+            - link "شهرک های صنعتی شهریار (1)" [ref=e169] [cursor=pointer]:
+              - /url: /industrial-parks-city-984-8-1.html
+          - listitem [ref=e170]:
+            - link "شهرک های صنعتی فیروزکوه (0)" [ref=e171] [cursor=pointer]:
+              - /url: /industrial-parks-city-988-8-1.html
+          - listitem [ref=e172]:
+            - link "شهرک های صنعتی قدس (0)" [ref=e173] [cursor=pointer]:
+              - /url: /industrial-parks-city-989-8-1.html
+          - listitem [ref=e174]:
+            - link "شهرک های صنعتی قرچک (0)" [ref=e175] [cursor=pointer]:
+              - /url: /industrial-parks-city-978-8-1.html
+          - listitem [ref=e176]:
+            - link "شهرک های صنعتی ملارد (0)" [ref=e177] [cursor=pointer]:
+              - /url: /industrial-parks-city-974-8-1.html
+          - listitem [ref=e178]:
+            - link "شهرک های صنعتی ورامین (1)" [ref=e179] [cursor=pointer]:
+              - /url: /industrial-parks-city-983-8-1.html
+      - generic [ref=e180]:
+        - heading "شهرک های صنعتی ری" [level=2] [ref=e181]
+        - list:
+          - listitem [ref=e182]:
+            - link "‌شهرک صنعتی تخصصی چاپ (0)" [ref=e183] [cursor=pointer]:
+              - /url: /industrial-parks-industry-235-981-8-1.html
+          - listitem [ref=e184]:
+            - link "‌شهرک صنعتی خاوران (1)" [ref=e185] [cursor=pointer]:
+              - /url: /industrial-parks-industry-232-981-8-1.html
+          - listitem [ref=e186]:
+            - link "‌شهرک صنعتی شمس آباد (2)" [ref=e187] [cursor=pointer]:
+              - /url: /industrial-parks-industry-228-981-8-1.html
+          - listitem [ref=e188]:
+            - link "‌ناحیه صنعتی بیجین ری (2)" [ref=e189] [cursor=pointer]:
+              - /url: /industrial-parks-industry-218-981-8-1.html
+      - generic [ref=e191]:
+        - link "سنگ یونیک-سنگ فروش در شهرک صنعتی شمس آباد":
+          - /url: /company-58437293.html
+          - img "سنگ یونیک-سنگ فروش در شهرک صنعتی شمس آباد" [ref=e192] [cursor=pointer]
+        - link "سنگ یونیک سنگ فروش در شهرک صنعتی شمس آباد" [ref=e193] [cursor=pointer]:
+          - /url: /company-58437293.html
+          - text: سنگ یونیکسنگ فروش در شهرک صنعتی شمس آباد
+        - paragraph [ref=e194]: "توان : 0"
+      - generic [ref=e198]:
+        - link "تفلون جنوب-تولید کننده ظروف تفلون ، دیگ زود پز ، پلوپز ، آرام پز ، بخارپز برقی":
+          - /url: /company-5373366.html
+          - img "تفلون جنوب-تولید کننده ظروف تفلون ، دیگ زود پز ، پلوپز ، آرام پز ، بخارپز برقی" [ref=e199] [cursor=pointer]
+        - link "تفلون جنوب تولید کننده ظروف تفلون ، دیگ زود پز ، پلوپز ، آرام پز ، بخارپز برقی" [ref=e200] [cursor=pointer]:
+          - /url: /company-5373366.html
+          - text: تفلون جنوبتولید کننده ظروف تفلون ، دیگ زود پز ، پلوپز ، آرام پز ، بخارپز برقی
+        - paragraph [ref=e201]: "توان : 0"
+  - generic [ref=e204]:
+    - link [ref=e205] [cursor=pointer]:
+      - /url: /page-banner.html
+      - img "تبلیغات - تبلیغات هدفمند" [ref=e206]
+    - link [ref=e207] [cursor=pointer]:
+      - /url: /page-banner.html
+      - img "تبلیغات - تبلیغات هدفمند" [ref=e208]
+  - generic [ref=e211]:
+    - text: کلیه حقوق سایت محفوظ می باشد.
+    - generic [ref=e212]: طراحی و پشتیبانی توسط گروه نوین تدبیر
+```

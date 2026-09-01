@@ -1,0 +1,734 @@
+### Page
+- Page URL: https://anbarajare.com/
+- Page Title: اجاره انبار در تهران با قیمت مناسب | انبار VIP تهران
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - link "پرش به محتوا" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e6]:
+        - link [ref=e9] [cursor=pointer]:
+          - /url: https://anbarajare.com
+          - img "logo vip" [ref=e10]
+        - generic [ref=e12]:
+          - navigation "Menu" [ref=e13]:
+            - list [ref=e14]:
+              - listitem [ref=e15]:
+                - link "خانه" [ref=e16] [cursor=pointer]:
+                  - /url: https://anbarajare.com/
+              - listitem [ref=e17]:
+                - link "درباره ما" [ref=e18] [cursor=pointer]:
+                  - /url: https://anbarajare.com/about-us/
+              - listitem [ref=e19]:
+                - link "تماس با ما" [ref=e20] [cursor=pointer]:
+                  - /url: /contact/
+              - listitem [ref=e21]:
+                - link "گالری" [ref=e22] [cursor=pointer]:
+                  - /url: https://anbarajare.com/gallery/
+              - listitem [ref=e23]:
+                - link "قیمت اجاره انبار" [ref=e24] [cursor=pointer]:
+                  - /url: https://anbarajare.com/the-cost-of-renting-a-warehouse-in-tehran/
+              - listitem [ref=e25]:
+                - link [ref=e26] [cursor=pointer]:
+                  - /url: "#"
+                  - text: شعبات اجاره انبار
+                  - generic [ref=e27]: 
+                - text:      
+              - listitem [ref=e28]:
+                - link [ref=e29] [cursor=pointer]:
+                  - /url: "#"
+                  - text: اجاره انواع انبار
+                  - generic [ref=e30]: 
+          - text:          
+        - link "ارتباط در بله" [ref=e34] [cursor=pointer]:
+          - /url: https://ble.ir/anbarajare
+  - main [ref=e37]:
+    - generic [ref=e39]:
+      - region "Slides" [ref=e45]:
+        - generic [ref=e46]:
+          - group "1 / 3" [ref=e47]
+          - group "2 / 3" [ref=e50]
+          - group "3 / 3" [ref=e53]
+          - group "1 / 3" [ref=e56]
+          - group "2 / 3" [ref=e59]
+          - group "3 / 3" [ref=e62]
+          - group "1 / 3" [ref=e65]
+          - group "2 / 3" [ref=e68]
+          - group "3 / 3" [ref=e71]
+        - button "Previous slide" [ref=e74] [cursor=pointer]:
+          - generic [ref=e75]: 
+        - button "Next slide" [ref=e76] [cursor=pointer]:
+          - generic [ref=e77]: 
+      - generic [ref=e79]:
+        - heading "اجاره انبار" [level=1] [ref=e82]
+        - heading "انبار VIP تهران" [level=2] [ref=e85]
+      - list [ref=e94]:
+        - listitem [ref=e95]:
+          - generic [ref=e96]: 
+          - generic [ref=e98]: بدون داشتن اصل کارت ملی، امکان اجاره انبار وجود ندارد.
+        - listitem [ref=e99]:
+          - generic [ref=e100]: 
+          - generic [ref=e102]: "اطلاعیه: به استحضار می‌رساند انبارهای این مجموعه فقط مخصوص نگهداری اسباب منزل و لوازم اداری می‌باشد. از پذیرش سایر اقلام و انواع بار معذوریم."
+      - generic [ref=e103]:
+        - link "021-22659344" [ref=e108] [cursor=pointer]:
+          - /url: tel:02122659344
+          - generic [ref=e109]:
+            - generic [ref=e110]: 
+            - generic [ref=e112]: 021-22659344
+        - link "021-88341560" [ref=e117] [cursor=pointer]:
+          - /url: tel:02188341560
+          - generic [ref=e118]:
+            - generic [ref=e119]: 
+            - generic [ref=e121]: 021-88341560
+        - link "021-44281704" [ref=e126] [cursor=pointer]:
+          - /url: tel:02144281704
+          - generic [ref=e127]:
+            - generic [ref=e128]: 
+            - generic [ref=e130]: 021-44281704
+      - generic [ref=e133]:
+        - generic [ref=e136]:
+          - generic [ref=e137]: 
+          - heading "درباره انبار VIP تهران" [level=2] [ref=e141]
+        - heading "اجاره انبار مطمئن و قانونی" [level=3] [ref=e144]
+        - generic [ref=e148]:
+          - paragraph [ref=e149]: در مجموعه ما تمامی انبارها دارای مجوز رسمی بوده و تحت پوشش کامل بیمه قرار دارند. صاحب کالا به‌صورت مستقیم با انبار قرارداد رسمی منعقد می‌کند تا با خیالی آسوده وسایل و کالاهای خود را نگهداری کند.برای رفاه بیشتر مشتریان، خدمات بسته‌بندی و حمل‌ونقل نیز توسط مجموعه ارائه می‌شود تا تمام مراحل جابه‌جایی و نگهداری کالاها به‌صورت دقیق، ایمن و بدون دغدغه انجام شود.
+          - paragraph [ref=e150]: "مزایای مجموعه:"
+          - list [ref=e151]:
+            - listitem [ref=e152]: نگهبانی دائمی برای حفظ امنیت کالاها
+            - listitem [ref=e153]: وجود دوربین‌های مداربسته در مجموعه
+            - listitem [ref=e154]: استفاده از سگ‌های نگهبان برای افزایش امنیت
+            - listitem [ref=e155]: سم‌پاشی ماهانه داخل سوله‌ها و کانکس‌ها برای جلوگیری از حشرات و آلودگی
+            - listitem [ref=e156]: قرار دادن زغال‌های نم‌گیر و بوگیر داخل کانکس‌ها برای جلوگیری از رطوبت و حفظ سلامت وسایل
+      - generic [ref=e161]:
+        - generic [ref=e162]: 
+        - heading "خدمات انبار VIP تهران" [level=2] [ref=e166]
+      - generic [ref=e168]:
+        - generic [ref=e169]:
+          - heading "اجاره انبار" [level=3] [ref=e172]
+          - paragraph [ref=e175]: انواع انبارهای کانتینری، کانکس، انبار داخل سوله مسقف و … را با قیمت مناسب و همراه با بیمه در مجموعه ما در اختیار مشتریان عزیز قرار خواهد گرفت.
+        - generic [ref=e176]:
+          - heading "خدمات بسته‌بندی" [level=3] [ref=e179]
+          - paragraph [ref=e182]: با مجموعه انبار VIP تهران دیگر نیاز نیست تا قبل از اجاره انبار در تهران، نگران بسته‌بندی اجناستان باشید زیرا تیم مجرب ما این کار را برای شما انجام خواهند داد.
+        - generic [ref=e183]:
+          - heading "خدمات حمل بار" [level=3] [ref=e186]
+          - paragraph [ref=e189]: خدمات حمل و نقل حرفه‌ای که شامل اسباب‌کشی، رساندن اجناس به انبارها و … می‌‌شود را با قیمت مناسب و البته کادری مجرب تجربه نمایید.
+      - generic [ref=e191]:
+        - generic [ref=e194]:
+          - generic [ref=e195]: 
+          - heading "مسیر اجاره انبار در مجموعه ما" [level=2] [ref=e199]
+        - generic [ref=e204]:
+          - generic [ref=e205]:
+            - generic [ref=e206]: "1"
+            - generic [ref=e208]:
+              - generic [ref=e209]: مشاوره تلفنی
+              - paragraph [ref=e211]: مشتریان عزیز مجموعه انبار VIP تهران می‌توانند از طریق تمامی راه‌های ارتباطی و شماره‌های درج شده در وبسایت با کارشناسان ما تماس حاصل فرمایند و مشاوره رایگان را دریافت کنند.
+          - generic [ref=e212]:
+            - generic [ref=e213]: "2"
+            - generic [ref=e215]:
+              - generic [ref=e216]: جلسه بازدید از انبارها
+              - paragraph [ref=e218]: در همان مشاوره تلفنی، در صورت صلاحدید مشتری یک جلسه حضوری برای بازدید از انبارها در نظر گرفته خواهد شد تا مشتریان با مجموعه و انواع انبارهای ما آشنا شوند.
+          - generic [ref=e219]:
+            - generic [ref=e220]: "3"
+            - generic [ref=e222]:
+              - generic [ref=e223]: انتخاب انبار و اخذ قرارداد
+              - paragraph [ref=e225]: در مرحله سوم، پس از بازدید از انبارها لازم است تا انبار مدنظر خود اعم از انبار کانتینری، کانکس و ... را با توجه به نوع وسایلتان و مشاوره کارشناسان ما انتخاب نمایید و پس از آن قرارداد اجاره انبار در تهران میان طرفین به امضا خواهد رسید و تنها کافی است تا در روز مقرر شده، وسایل خود را به درون انبارها منتقل کنید.
+      - generic [ref=e227]:
+        - generic [ref=e230]:
+          - generic [ref=e231]: 
+          - heading "چرا انبار VIP تهران؟" [level=2] [ref=e235]
+        - generic [ref=e236]:
+          - region [ref=e239]:
+            - heading "امنیت انبارها" [level=3] [ref=e242]
+          - region [ref=e245]:
+            - heading "کانتینرهای با کیفیت" [level=3] [ref=e248]
+          - region [ref=e251]:
+            - heading "تهویه مناسب" [level=3] [ref=e254]
+          - region [ref=e257]:
+            - heading "بیمه انبارها" [level=3] [ref=e260]
+          - region [ref=e263]:
+            - heading "دسترسی آسان" [level=3] [ref=e266]
+          - region [ref=e269]:
+            - heading "انبارهای اختصاصی" [level=3] [ref=e272]
+          - region [ref=e275]:
+            - heading "تنوع در انبارها" [level=3] [ref=e278]
+          - region [ref=e281]:
+            - heading "تیم مجرب" [level=3] [ref=e284]
+      - generic [ref=e286]:
+        - generic [ref=e289]:
+          - generic [ref=e290]: 
+          - heading "نظرات مشتریان انبار VIP" [level=2] [ref=e294]
+        - generic [ref=e295]:
+          - generic [ref=e299]:
+            - generic [ref=e300]:
+              - generic:
+                - img "اجاره انبار 9"
+              - generic [ref=e301]: آسایش پور محمدی
+            - generic [ref=e304]:
+              - paragraph [ref=e306]: تجربه خیلی خوبی داشتم. انبارها تمیز و امن هستن، برخوردشون هم کاملاً حرفه‌ای و منظم بود. اگر دنبال اجاره انبار در سعادت‌آباد هستید، گزینه قابل اعتمادی هستن
+              - generic [ref=e307]:
+                - generic [ref=e308]: 
+                - generic [ref=e310]: 
+                - generic [ref=e312]: 
+                - generic [ref=e314]: 
+                - generic [ref=e316]: 
+          - generic [ref=e321]:
+            - generic [ref=e322]:
+              - generic:
+                - img "اجاره انبار 9"
+              - generic [ref=e323]: علیرضا صفویان
+            - generic [ref=e326]:
+              - paragraph [ref=e328]: برای نگهداری وسایل منزل از خدمات اجاره انبار این شرکت استفاده کردم و تجربه خوبی داشتم. علاوه بر فضای انبار مناسب، خدمات حمل‌ونقل و بسته‌بندی هم ارائه دادند که کار را خیلی راحت‌تر کرد.
+              - generic [ref=e329]:
+                - generic [ref=e330]: 
+                - generic [ref=e332]: 
+                - generic [ref=e334]: 
+                - generic [ref=e336]: 
+                - generic [ref=e338]: 
+          - generic [ref=e343]:
+            - generic [ref=e344]:
+              - generic:
+                - img "اجاره انبار 9"
+              - generic [ref=e345]: حسین امیرمقدم
+            - generic [ref=e348]:
+              - paragraph [ref=e350]: من خارج از کشور هستم و حدود سه سال بارم پیش شما دپو کردم و مادرم ماهانه به انبار سر میزنه و خداروشکر مشکلی برای وسایلم پیش نیومده خیلی ممنونم از خدمات حرفه‌ای تون
+              - generic [ref=e351]:
+                - generic [ref=e352]: 
+                - generic [ref=e354]: 
+                - generic [ref=e356]: 
+                - generic [ref=e358]: 
+                - generic [ref=e360]: 
+          - generic [ref=e365]:
+            - generic [ref=e366]:
+              - generic:
+                - img "اجاره انبار 9"
+              - generic [ref=e367]: سحر غلامی
+            - generic [ref=e370]:
+              - paragraph [ref=e372]: این مجموعه با ارائه خدمات حرفه‌ای در حوزه اجاره انبار، عملکردی قابل‌اعتماد و منظم از خود نشان داده است. کار تیم اجرایی نیز از لحاظ برخورد، دقت و سرعت بسیار رضایت‌بخش است.
+              - generic [ref=e373]:
+                - generic [ref=e374]: 
+                - generic [ref=e376]: 
+                - generic [ref=e378]: 
+                - generic [ref=e380]: 
+                - generic [ref=e382]: 
+      - generic [ref=e385]:
+        - generic [ref=e388]:
+          - generic [ref=e389]: 
+          - heading "سوالات متداول" [level=2] [ref=e393]
+        - generic "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys" [ref=e397]:
+          - group [ref=e398]:
+            - generic "ساعت کاری مجموعه شما به چه صورت است؟" [ref=e399] [cursor=pointer]:
+              - generic [ref=e402]:
+                - generic [ref=e403]: 
+                - text: +
+            - region "ساعت کاری مجموعه شما به چه صورت است؟ ساعت کاری انبارداری VIP شبانه‌روزی و بدون تعطیلی است." [ref=e405]:
+              - paragraph [ref=e408]: ساعت کاری انبارداری VIP شبانه‌روزی و بدون تعطیلی است.
+          - group [ref=e409]:
+            - generic "ساعت کاری حمل و نقل و بسته‌بندی مجموعه شما به چه صورت است؟" [ref=e410] [cursor=pointer]:
+              - generic [ref=e413]:
+                - text: 
+                - generic [ref=e414]: +
+          - group [ref=e416]:
+            - generic "آیا امکان بازدید از انبارها وجود دارد؟" [ref=e417] [cursor=pointer]:
+              - generic [ref=e420]:
+                - text: 
+                - generic [ref=e421]: +
+          - group [ref=e423]:
+            - generic "آیا مجموعه شما دارای قرارداد اجاره انبار است؟" [ref=e424] [cursor=pointer]:
+              - generic [ref=e427]:
+                - text: 
+                - generic [ref=e428]: +
+      - generic [ref=e431]:
+        - generic [ref=e433]:
+          - generic [ref=e434]: انبار شعبه شرق
+          - link "021-88341560" [ref=e438] [cursor=pointer]:
+            - /url: tel:02188341560
+            - paragraph [ref=e439]:
+              - generic [ref=e440]: 021-88341560
+        - generic [ref=e443]:
+          - generic [ref=e444]: انبار شعبه شمال
+          - link "021-22659344" [ref=e448] [cursor=pointer]:
+            - /url: tel:02122659344
+            - paragraph [ref=e449]:
+              - generic [ref=e450]: 021-22659344
+        - generic [ref=e453]:
+          - generic [ref=e454]: انبار شعبه مرکز
+          - link "021-88341560" [ref=e458] [cursor=pointer]:
+            - /url: tel:02188556290
+            - paragraph [ref=e459]:
+              - generic [ref=e460]: 021-88341560
+        - generic [ref=e463]:
+          - generic [ref=e464]: انبار شعبه غرب
+          - link "021-44281704" [ref=e468] [cursor=pointer]:
+            - /url: tel:02144281704
+            - paragraph [ref=e469]:
+              - generic [ref=e470]: 021-44281704
+      - generic [ref=e475]:
+        - generic [ref=e478]:
+          - generic [ref=e479]: 
+          - heading "انواع انبار برای اجاره" [level=2] [ref=e483]
+        - list [ref=e486]:
+          - listitem [ref=e487]:
+            - link [ref=e488] [cursor=pointer]:
+              - /url: https://anbarajare.com/sanitary-warehouse-for-rent-in-tehran/
+              - img "اجاره انبار بهداشتی در تهران" [ref=e490]
+            - generic [ref=e491]:
+              - paragraph [ref=e492]:
+                - link "اجاره انبار بهداشتی در تهران" [ref=e493] [cursor=pointer]:
+                  - /url: https://anbarajare.com/sanitary-warehouse-for-rent-in-tehran/
+              - paragraph [ref=e495]: وسایلی که امروز در گوشه خانه یا دفتر کار شما جای اضافی گرفته‌اند، با صرف هزینه و زمان به دست آمده‌اند. رها کردن آن‌ها در فضاها و انبارهای نمور و
+              - link "Read more about اجاره انبار بهداشتی در تهران" [ref=e496] [cursor=pointer]:
+                - /url: https://anbarajare.com/sanitary-warehouse-for-rent-in-tehran/
+                - text: بررسی »
+          - listitem [ref=e497]:
+            - link [ref=e498] [cursor=pointer]:
+              - /url: https://anbarajare.com/12-meter-warehouse-for-rent/
+              - img "اجاره انبار 12 متری" [ref=e500]
+            - generic [ref=e501]:
+              - paragraph [ref=e502]:
+                - link "اجاره انبار 12 متری | قیمت مناسب و بیمه" [ref=e503] [cursor=pointer]:
+                  - /url: https://anbarajare.com/12-meter-warehouse-for-rent/
+              - paragraph [ref=e505]: اجاره انبار 12 متری بهترین گزینه برای انبار کردن وسایل منزل، اسباب اداری، تجهیزات صنعتی، کالاهای فروشگاهی و … است زیرا انبارهایی با متراژ دوازده متر ابعاد مناسبی دارند که
+              - link "Read more about اجاره انبار 12 متری | قیمت مناسب و بیمه" [ref=e506] [cursor=pointer]:
+                - /url: https://anbarajare.com/12-meter-warehouse-for-rent/
+                - text: بررسی »
+          - listitem [ref=e507]:
+            - link [ref=e508] [cursor=pointer]:
+              - /url: https://anbarajare.com/different-between-conex-and-container/
+              - img "فرق کانکس و کانتینر چیست؟" [ref=e510]
+            - generic [ref=e511]:
+              - paragraph [ref=e512]:
+                - link "فرق کانکس و کانتینر چیست؟" [ref=e513] [cursor=pointer]:
+                  - /url: https://anbarajare.com/different-between-conex-and-container/
+              - paragraph [ref=e515]: در سال‌های اخیر، استفاده از سازه‌های پیش‌ساخته در پروژه‌های عمرانی، صنعتی، تجاری و حتی مسکونی رشد قابل‌توجهی داشته است. در این میان، دو گزینه پرکاربرد یعنی کانتینر و کانکس بیشتر
+              - link "Read more about فرق کانکس و کانتینر چیست؟" [ref=e516] [cursor=pointer]:
+                - /url: https://anbarajare.com/different-between-conex-and-container/
+                - text: بررسی »
+          - listitem [ref=e517]:
+            - link [ref=e518] [cursor=pointer]:
+              - /url: https://anbarajare.com/container-rental-in-east-tehran/
+              - img "اجاره کانتینر شرق تهران" [ref=e520]
+            - generic [ref=e521]:
+              - paragraph [ref=e522]:
+                - link "اجاره کانتینر شرق تهران" [ref=e523] [cursor=pointer]:
+                  - /url: https://anbarajare.com/container-rental-in-east-tehran/
+              - paragraph [ref=e525]: اجاره کانتینر شرق تهران به عنوان یک انباری بهترین گزینه برای افرادی است که نیاز به انباری در نزدیکی محل زندگی یا کسب و کار خود دارند. بنابراین، اگر ساکن
+              - link "Read more about اجاره کانتینر شرق تهران" [ref=e526] [cursor=pointer]:
+                - /url: https://anbarajare.com/container-rental-in-east-tehran/
+                - text: بررسی »
+          - listitem [ref=e527]:
+            - link [ref=e528] [cursor=pointer]:
+              - /url: https://anbarajare.com/20-meter-warehouse-storage/
+              - img "اجاره انبار 20 متری با قیمت خوب" [ref=e530]
+            - generic [ref=e531]:
+              - paragraph [ref=e532]:
+                - link "اجاره انبار 20 متری با قیمت خوب" [ref=e533] [cursor=pointer]:
+                  - /url: https://anbarajare.com/20-meter-warehouse-storage/
+              - paragraph [ref=e535]: اجاره انبار 20 متری بهترین گزینه برای نگهداری از وسایل منزل، وسایل اداری، ابزار آلات و … است زیرا فضایی مناسب و متعادل دارد که می‌توان هر وسیله‌ای را درون
+              - link "Read more about اجاره انبار 20 متری با قیمت خوب" [ref=e536] [cursor=pointer]:
+                - /url: https://anbarajare.com/20-meter-warehouse-storage/
+                - text: بررسی »
+          - listitem [ref=e537]:
+            - link [ref=e538] [cursor=pointer]:
+              - /url: https://anbarajare.com/container-rental-for-house-items/
+              - img "اجاره کانتینر برای وسایل خانه" [ref=e540]
+            - generic [ref=e541]:
+              - paragraph [ref=e542]:
+                - link "اجاره کانتینر برای وسایل خانه" [ref=e543] [cursor=pointer]:
+                  - /url: https://anbarajare.com/container-rental-for-house-items/
+              - paragraph [ref=e545]: اجاره کانتینر برای وسایل خانه یکی از نیازهای اساسی اکثر مردم در دنیای امروز است زیرا افراد به دلایل مختلفی همچون اسباب کشی، مهاجرت و … ممکن است به یک
+              - link "Read more about اجاره کانتینر برای وسایل خانه" [ref=e546] [cursor=pointer]:
+                - /url: https://anbarajare.com/container-rental-for-house-items/
+                - text: بررسی »
+          - listitem [ref=e547]:
+            - link [ref=e548] [cursor=pointer]:
+              - /url: https://anbarajare.com/spare-parts-warehouse-rental/
+              - img "اجاره انبار لوازم یدکی مزایا و هزینه ماهیانه" [ref=e550]
+            - generic [ref=e551]:
+              - paragraph [ref=e552]:
+                - link "اجاره انبار لوازم یدکی | مزایا و هزینه ماهیانه" [ref=e553] [cursor=pointer]:
+                  - /url: https://anbarajare.com/spare-parts-warehouse-rental/
+              - paragraph [ref=e555]: کسب‌و‌کارهای فعال در حوزه لوازم یدکی خودرو به جای سرمایه‌گذاری در ساخت یا خرید انبار، به اجاره انبار لوازم یدکی روی آورده‌اند. بر اساس برآوردها، ارزش بازار لوازم یدکی در
+              - link "Read more about اجاره انبار لوازم یدکی | مزایا و هزینه ماهیانه" [ref=e556] [cursor=pointer]:
+                - /url: https://anbarajare.com/spare-parts-warehouse-rental/
+                - text: بررسی »
+          - listitem [ref=e557]:
+            - link [ref=e558] [cursor=pointer]:
+              - /url: https://anbarajare.com/warehouse-for-sale-of-materials/
+              - img "اجاره انبار مصالح + هزینه" [ref=e560]
+            - generic [ref=e561]:
+              - paragraph [ref=e562]:
+                - link "اجاره انبار مصالح + هزینه" [ref=e563] [cursor=pointer]:
+                  - /url: https://anbarajare.com/warehouse-for-sale-of-materials/
+              - paragraph [ref=e565]: اجاره انبار مصالح فروشی به افرادی که در کسب و کار ساختمانی و مصالح مشغول به فعالیت هستند این امکان را می‌دهد تا مواد اولیه و مصالح خود را در
+              - link "Read more about اجاره انبار مصالح + هزینه" [ref=e566] [cursor=pointer]:
+                - /url: https://anbarajare.com/warehouse-for-sale-of-materials/
+                - text: بررسی »
+      - generic [ref=e570]:
+        - generic [ref=e573]:
+          - generic [ref=e574]: 
+          - heading "شعبات ما برای اجاره انبار در تهران و کرج" [level=2] [ref=e578]
+        - list [ref=e581]:
+          - listitem [ref=e582]:
+            - link [ref=e583] [cursor=pointer]:
+              - /url: https://anbarajare.com/conex-for-rent-in-east-tehran/
+              - img "اجاره کانکس در شرق تهران" [ref=e585]
+            - generic [ref=e586]:
+              - paragraph [ref=e587]:
+                - link "اجاره کانکس در شرق تهران" [ref=e588] [cursor=pointer]:
+                  - /url: https://anbarajare.com/conex-for-rent-in-east-tehran/
+              - paragraph [ref=e590]: اجاره کانکس در شرق تهران به افرادی که ساکن محله‌های تهرانپارس، پیروزی، نارمک و … هستند این امکان را می‌دهد تا وسایل خود را در محیطی امن نگهداری نمایند زیرا
+              - link "Read more about اجاره کانکس در شرق تهران" [ref=e591] [cursor=pointer]:
+                - /url: https://anbarajare.com/conex-for-rent-in-east-tehran/
+                - text: بررسی »
+          - listitem [ref=e592]:
+            - link [ref=e593] [cursor=pointer]:
+              - /url: https://anbarajare.com/warehouse-rental-in-pardis/
+              - img "اجاره انبار در پردیس با امنیت بالا" [ref=e595]
+            - generic [ref=e596]:
+              - paragraph [ref=e597]:
+                - link "اجاره انبار در پردیس با امنیت بالا" [ref=e598] [cursor=pointer]:
+                  - /url: https://anbarajare.com/warehouse-rental-in-pardis/
+              - paragraph [ref=e600]: اجاره انبار در پردیس یکی از نیازهای اساسی مردم ساکن این منطقه است زیرا شهرستان پردیس که در شمال شرق تهران قرار گرفته است هنوز امکانات کافی ندارد و مردم
+              - link "Read more about اجاره انبار در پردیس با امنیت بالا" [ref=e601] [cursor=pointer]:
+                - /url: https://anbarajare.com/warehouse-rental-in-pardis/
+                - text: بررسی »
+          - listitem [ref=e602]:
+            - link [ref=e603] [cursor=pointer]:
+              - /url: https://anbarajare.com/conex-rent-in-karaj/
+              - img "اجاره کانکس در کرج برای انبار" [ref=e605]
+            - generic [ref=e606]:
+              - paragraph [ref=e607]:
+                - link "اجاره کانکس در کرج برای انبار" [ref=e608] [cursor=pointer]:
+                  - /url: https://anbarajare.com/conex-rent-in-karaj/
+              - paragraph [ref=e610]: اجاره کانکس در کرج برای انبار، بهترین گزینه برای کسب و کارها و افرادی است که محل امنی در نزدیکی خود برای نگهداری از کالاهای خود ندارند و به همین
+              - link "Read more about اجاره کانکس در کرج برای انبار" [ref=e611] [cursor=pointer]:
+                - /url: https://anbarajare.com/conex-rent-in-karaj/
+                - text: بررسی »
+          - listitem [ref=e612]:
+            - link [ref=e613] [cursor=pointer]:
+              - /url: https://anbarajare.com/rent-shed-in-west-tehran/
+              - img "اجاره سوله در غرب تهران + هزینه" [ref=e615]
+            - generic [ref=e616]:
+              - paragraph [ref=e617]:
+                - link "اجاره سوله در غرب تهران + هزینه اجاره ماهیانه" [ref=e618] [cursor=pointer]:
+                  - /url: https://anbarajare.com/rent-shed-in-west-tehran/
+              - paragraph [ref=e620]: امروزه، بسیاری از کسب‌وکارها و افراد نیاز به فضاهای ذخیره‌سازی امن و قابل دسترس دارند تا بتوانند کالاها و تجهیزات و وسایل خود را نگهداری کنند. انتخاب یک محل مناسب
+              - link "Read more about اجاره سوله در غرب تهران + هزینه اجاره ماهیانه" [ref=e621] [cursor=pointer]:
+                - /url: https://anbarajare.com/rent-shed-in-west-tehran/
+                - text: بررسی »
+          - listitem [ref=e622]:
+            - link [ref=e623] [cursor=pointer]:
+              - /url: https://anbarajare.com/rent-shed-in-south-tehran/
+              - img "اجاره سوله در جنوب تهران + قیمت" [ref=e625]
+            - generic [ref=e626]:
+              - paragraph [ref=e627]:
+                - link "اجاره سوله در جنوب تهران + قیمت" [ref=e628] [cursor=pointer]:
+                  - /url: https://anbarajare.com/rent-shed-in-south-tehran/
+              - paragraph [ref=e630]: اجاره سوله در جنوب تهران بهترین گزینه برای کسب و کارهایی است که در مناطقی همچون شوش، نازی‌آباد، خزانه، افسریه، جوادیه و … فعالیت می‌کنند و برای نگهداری کالاها و
+              - link "Read more about اجاره سوله در جنوب تهران + قیمت" [ref=e631] [cursor=pointer]:
+                - /url: https://anbarajare.com/rent-shed-in-south-tehran/
+                - text: بررسی »
+          - listitem [ref=e632]:
+            - link [ref=e633] [cursor=pointer]:
+              - /url: https://anbarajare.com/rent-shed-in-east-tehran/
+              - img "اجاره سوله شرق تهران" [ref=e635]
+            - generic [ref=e636]:
+              - paragraph [ref=e637]:
+                - 'link "اجاره سوله شرق تهران: مزایا، امکانات و قیمت" [ref=e638] [cursor=pointer]':
+                  - /url: https://anbarajare.com/rent-shed-in-east-tehran/
+              - paragraph [ref=e640]: پیدا کردن فضای مناسب برای شروع فعالیت‌های تجاری یا صنعتی همیشه دشوار است؛ اما در حقیقت، شرق تهران یکی از مناطقی است که پتانسیل‌های زیادی برای کسب‌وکارها فراهم می‌کند. اجاره
+              - 'link "Read more about اجاره سوله شرق تهران: مزایا، امکانات و قیمت" [ref=e641] [cursor=pointer]':
+                - /url: https://anbarajare.com/rent-shed-in-east-tehran/
+                - text: بررسی »
+          - listitem [ref=e642]:
+            - link [ref=e643] [cursor=pointer]:
+              - /url: https://anbarajare.com/sheds-for-rent-around-tehran/
+              - img "اجاره سوله در اطراف تهران" [ref=e645]
+            - generic [ref=e646]:
+              - paragraph [ref=e647]:
+                - link "اجاره سوله در اطراف تهران | قیمت و امکانات" [ref=e648] [cursor=pointer]:
+                  - /url: https://anbarajare.com/sheds-for-rent-around-tehran/
+              - paragraph [ref=e650]: اجاره سوله اطراف تهران، راهکاری هوشمندانه و مقرون ‌به ‌صرفه برای کسب ‌و کارهایی است که به دنبال فضای کار مناسب با هزینه کمتر هستند. این گزینه، به ‌ویژه برای
+              - link "Read more about اجاره سوله در اطراف تهران | قیمت و امکانات" [ref=e651] [cursor=pointer]:
+                - /url: https://anbarajare.com/sheds-for-rent-around-tehran/
+                - text: بررسی »
+          - listitem [ref=e652]:
+            - link [ref=e653] [cursor=pointer]:
+              - /url: https://anbarajare.com/renting-warehouse-center-of-tehran/
+              - img "اجاره انبار در مرکز تهران" [ref=e655]
+            - generic [ref=e656]:
+              - paragraph [ref=e657]:
+                - link "اجاره انبار در مرکز تهران + لیست قیمت" [ref=e658] [cursor=pointer]:
+                  - /url: https://anbarajare.com/renting-warehouse-center-of-tehran/
+              - paragraph [ref=e660]: اجاره انبار در مرکز تهران برای افرادی که ساکن محله‌هایی همچون منیریه، یوسف آباد، جمهوری، بهارستان، میدان ولیعصر، میدان حر و … هستند یا کسب و کارشان در این محله‌های
+              - link "Read more about اجاره انبار در مرکز تهران + لیست قیمت" [ref=e661] [cursor=pointer]:
+                - /url: https://anbarajare.com/renting-warehouse-center-of-tehran/
+                - text: بررسی »
+      - generic [ref=e663]:
+        - list [ref=e666]:
+          - listitem [ref=e667]:
+            - generic [ref=e668]: 
+            - generic [ref=e670]: "تاریخ بروزرسانی صفحه: مرداد 20, 1405"
+        - generic [ref=e672]:
+          - paragraph [ref=e673]: اجاره انبار امروزه به یکی از اساسی‌ترین نیازهای مردم تبدیل شده است زیرا همیشه بعد از خرید و اجاره خانه یا انتخاب یک واحد آپارتمانی برای شروع کسب و کار خود، شروع به چیدن وسایل خود در آن مکان‌ها می‌کنند و بعد از چیدن وسایل ممکن است همیشه جعبه یا به اصطلاح کارتن‌ آنها وسط واحد آپارتمانی سرگردان باشند یا حتی برخی از افراد دلشان بخواهد برخی از وسایل خود را کنار بگذارند و بعدها از آنها استفاده نمایند که در آن لحظه فقط یک مجموعه یا شرکت انباری می‌تواند به آنها در نگهداری وسایلشان کمک نماید.
+          - paragraph [ref=e674]: ما در انبار VIP تهران با اجاره انواع انباری‌های کانتینری، داخل سوله مسقف، کانکس و … در تمام نقاط تهران مکانی را برای نگهداری وسایل ارزشمندتان به شما ارائه می‌دهیم تا دیگر نگران نداشتن انباری در واحد آپارتمانی مسکونی یا تجاری خود نباشید. با ما می‌توانید در هر نقطه‌ای که از شهر تهران ساکن هستید اقدام به اجاره انبار نمایید زیرا دارای شعبات متعددی در تمام نقاط تهران اعم از شمال، جنوب، شرق، غرب و مرکز می‌باشیم.
+          - heading [level=2] [ref=e675]:
+            - strong [ref=e676]: اجاره انبار در تهران (تمامی مناطق
+            - strong [ref=e677]: )
+          - paragraph [ref=e678]:
+            - text: هنگامی که مشتریان قصد اجاره انبار در تهران را دارند ممکن است تمایل داشته باشند تا انباری را اجاره نمایند که به محل زندگی آنها نزدیک باشد تا هر زمان که احساس نیاز کردند بتوانند فورا به وسایل خود دسترسی داشته باشند. انبارهای ما در محیطی امن و با دسترسی مناسب در تمام نقاط تهران اعم از شرق، غرب، شمال، جنوب و
+            - link "مرکز تهران" [ref=e679] [cursor=pointer]:
+              - /url: https://anbarajare.com/renting-warehouse-center-of-tehran/
+            - text: تعبیه شده‌اند تا مشتریان بتوانند اقدام به کرایه انبار در تهران در هر محله‌ای از این شهر نمایند. برای مثال اگر یک فرد در محدوده شرق تهران مانند محله تهرانپارس ساکن بود و تمایل داشت تا یک انبار در همان محل اجاره نماید می‌تواند به شعبه شرق انبار VIP تهران مراجعه نماید یا با کارشناسان ما در شعبه شرق تهران تماس حاصل نماید تا انبار مدنظر خود را رزرو نماید.
+          - heading "اجاره انبار ارزان در تهران" [level=3] [ref=e680]
+          - paragraph [ref=e681]: برای اجاره انبار ارزان در تهران لازم است تا در کنار قیمت، خدماتی که شرکت انبارداری به شما ارائه می‌دهد را بررسی نمایید. زیرا همیشه قیمت پایین به منزله کیفیت و خدمات مناسب نیست! شرکت انبار VIP تهران همواره در تلاش است تا قیمت مناسبی را در کنار خدمات بی‌نظیر و امنیتی انبارها به مشتریان خود ارائه دهد، به همین علت به اجاره انبار ارزان در تهران معروف است. برای اجاره انبار ارزان قیمت در تهران به همراه خدمات مکمل انبارداری مانند بسته‌بندی اجناس و بارگیری توسط ماشین‌های مخصوص می‌توانید با کارشناسان ما در انبار VIP تهران در ارتباط باشید.
+          - heading "مزایای اجاره انبار" [level=2] [ref=e682]
+          - paragraph [ref=e683]: "اجاره انبار یکی از خدماتی است که مزایای بسیاری برای مخاطبان خود به همراه دارد، برخی از مهم‌ترین این مزایا عبارتند از:"
+          - list [ref=e684]:
+            - listitem [ref=e685]: قیمت مناسب
+            - listitem [ref=e686]: عدم نیاز به هزینه تعمیرات و نگهداری
+            - listitem [ref=e687]: برخورداری از بیمه اجناس
+            - listitem [ref=e688]: امنیت بالا نسبت به انبارهای خانگی
+            - listitem [ref=e689]: نگهداری اجناس داخل انبارها به مدت دلخواه
+            - listitem [ref=e690]: مالکیت تمام بر انبارها در مدت زمان اجاره
+            - listitem [ref=e691]: مناسب برای ذخیره و نگهداری تمامی اجناس
+          - heading "دلایل نیاز به اجاره انبار در تهران" [level=2] [ref=e692]
+          - paragraph [ref=e693]: "معمولا افراد به دلایل مختلفی اقدام به اجاره انبار می‌نمایند که برخی از این دلایل عبارتند از:"
+      - generic [ref=e695]:
+        - generic [ref=e700]:
+          - figure [ref=e701]:
+            - img "warehouse" [ref=e702]
+          - heading "نداشتن انبار" [level=3] [ref=e704]
+        - paragraph [ref=e709]: بسیاری از افراد در محل سکونت یا کسب و کار خود فاقد انباری هستند، بنابراین به دنبال یک مکان ایمن هستند تا وسایل خود را درون آنها نگهداری نمایند. به همین علت اجاره انبار از شرکت‌های انبارداری می‌تواند برای این افراد مفید باشد.
+      - generic [ref=e711]:
+        - generic [ref=e716]:
+          - figure [ref=e717]:
+            - img "انبار کردن وسایل پس از مهاجرت" [ref=e718]
+          - heading "مهاجرت و سفر" [level=3] [ref=e720]
+        - paragraph [ref=e725]: امروزه بسیاری از افراد به علت تحصیل، کار و سرمایه‌گذاری به کشورهای خارجی مهاجرت می‌کنند. این افراد برای مهاجرت ممکن است خانه خود را بفروشند اما تمایل دارند که وسایل منزلشان را در یک محیط امن نگهداری نمانید تا پس بازگشت به کشور خود بتوانند از آنها استفاده نمایند.
+      - generic [ref=e727]:
+        - generic [ref=e732]:
+          - figure [ref=e733]:
+            - img "electric appliance" [ref=e734]
+          - heading "انبار جهیزیه" [level=3] [ref=e736]
+        - paragraph [ref=e741]: برخی از خانواده‌ها یا زوج‌ها جوان به علت گرانی وسایل برقی منزل آنها را از چند مدت قبل از عروسی خریداری می‌کنند بنابراین ممکن است به مکانی برای نگهداری از آنها نیاز داشته باشند که در اینجا استفاده از خدمات اجاره انبار ممکن است از وسایل جهیزیه آنان تا زمان عروسی نگهداری نماید.
+      - generic [ref=e743]:
+        - generic [ref=e748]:
+          - figure [ref=e749]:
+            - img "silhouette" [ref=e750]
+          - heading "بازسازی و تعمیرات" [level=3] [ref=e752]
+        - paragraph [ref=e757]: گاهی برخی از افراد تمایل به بازسازی خانه‌های خود دارند یا ممکن است منزل آنها نیاز به تعمیر داشته باشد که در اینصورت باید وسایل منزل خود را در مکانی مطمئن نگهداری نمایند تا فضای کافی برای بازسازی و تعمیرات داشته باشند. این افراد با اجاره انبار می‌توانند وسایل منزل خود را تا مدت زمان مورد نیازشان در مکانی مطمئن نگهداری نمایند.
+      - generic [ref=e761]:
+        - generic [ref=e763]:
+          - heading "مدت زمان اجاره انبار" [level=2] [ref=e764]
+          - paragraph [ref=e765]: ما به خواسته‌های مشتریان عزیز خود اهمیت می‌دهیم، به اینصورت که مشتریان می‌توانند بر اساس نیاز و زمان خود انبارهای مدنظرشان را از ما اجاره نمایند زیرا مدت زمان اجاره انبارهای ما به صورت بلند مدت و کوتاه مدت می‌باشد.
+        - generic [ref=e768]:
+          - button "اجاره انبار کوتاه مدت" [ref=e770] [cursor=pointer]:
+            - generic [ref=e771]:
+              - generic [ref=e772]: 
+              - text: 
+            - text: اجاره انبار کوتاه مدت
+          - button "اجاره انبار بلند مدت" [ref=e775] [cursor=pointer]:
+            - generic [ref=e776]:
+              - generic [ref=e777]: 
+              - text: 
+            - text: اجاره انبار بلند مدت
+      - generic [ref=e784]:
+        - paragraph [ref=e786]: اگر قصد اجاره انبار در تهران را دارید باید به شما بگوییم که با انتخاب ما، در هزینه‌های خود صرفه‌جویی خواهید کرد. زیرا مجموعه ما همواره در تلاش بوده است تا بهترین خدمات را با هزینه مناسب و ارزان به مشتریان خود ارائه دهد و خدمات اجاره انبار در تهران را برای آنها ساده نماید. هزینه اجاره انبار ماهانه در تمامی شعبات ما از 2 میلیون به بالا با توجه به بودجه مشتریان می‌باشد.
+        - heading [level=2] [ref=e787]:
+          - strong [ref=e788]: ما برای چه وسایلی سرویس اجاره انبار را ارائه می‌دهیم؟
+        - list [ref=e789]:
+          - listitem [ref=e790]: اجاره انبار برای وسایل منزل
+          - listitem [ref=e791]: اجاره انبار برای شرکت‌های تولیدی
+          - listitem [ref=e792]: اجاره انبار برای وسایل ساختمانی
+          - listitem [ref=e793]: اجاره انبار برای وسایل اداری و شرکت‌ها
+        - heading [level=2] [ref=e794]:
+          - strong [ref=e795]: انواع انبارهای اجاره‌ای ما
+        - list [ref=e796]:
+          - listitem [ref=e797]:
+            - strong [ref=e798]: انبارهای کانتینری
+            - strong [ref=e799]: ":"
+            - text: انبارهای کانتینری اتاقک‌هایی فولادی هستند که برای نگهداری تمام وسایل مورد استفاده قرار می‌گیرند و به علت مقاومتی که دارند اکثر مشتریان خواهان اجاره انبار‌های کانتینری می‌باشند. انبارهای کانتینری در دو ابعاد 20 فوت و 40 فوت در مجموعه انبار VIP تهران به کرایه می‌رسند.
+          - listitem [ref=e800]:
+            - strong [ref=e801]: کانکس
+            - strong [ref=e802]: ":"
+            - text: کانکس‌ها و کانتینرها شباهت بسیاری به یکدیگر دارند و معمولا افراد این دو را با یکدیگر اشتباه می‌گیرند و به همین علت برخی از مجموعه‌ها کانتینرها را به جای کانکس به مشتریان ارائه می‌دهند. توجه داشته باشید که کانکس‌ها بهعلت ضخامت بیشتری که از کانتینرها دارند، مقاوم‌تر نیز هستند به همین علت برای نگهداری اکثر وسایل مخصوصا وسایل عمرانی مناسب هستند و در نتیجه قیمت بیشتری نسبت به کانتینرها دارند.
+          - listitem [ref=e803]:
+            - strong [ref=e804]: انبارهای روباز
+            - strong [ref=e805]: ":"
+            - text: اینگونه انبارها همانطور که از اسمشان پیداست فاقد سقف هستند و برای نگهداری وسایلی که نیاز به هوای آزاد دارند مورد استفاده قرار می‌گیرند.
+          - listitem [ref=e806]:
+            - strong [ref=e807]: انبارهای سوله‌ای
+            - strong [ref=e808]: ":"
+            - text: انبارهای سوله‌ای گونه‌ای از سازه‌های فلزی هستند که دارای سقفی شیب‌دار هستند و معمولا برای نگهداری تمامی وسایل مناسب هستند. مشتریان در هنگام اجاره انبار معمولا به دنبال انبارهای کانتینری و سوله‌ای هستند.
+          - listitem [ref=e809]:
+            - strong [ref=e810]: انبارهای مسقف و سرپوشیده
+            - strong [ref=e811]: ":"
+            - text: اینگونه انبارها دارای سقف‌های فلزی هستند که در برابر شرایط جوی مقاوم هستند و هیچگونه حادثه‌ای نمی‌تواند به وسایل درون انبارها آسیب برساند زیرا انبارهای مسقف مانند یک خانه عمل می‌کنند.
+          - listitem [ref=e812]:
+            - strong [ref=e813]: انبارهای اختصاصی
+            - strong [ref=e814]: ":"
+            - text: انبارهای خصوصی فقط مخصوص به فردی می‌باشند که آنها را اجاره کرده است و یک کلید از این انبارها به مشتری داده خواهد شد زیرا این انبارها حکم انبارهای موجود در واحدهای آپارتمانی را دارند.
+        - paragraph [ref=e815]: ما به خواسته‌های مشتریان عزیز خود اهمیت می‌دهیم، به اینصورت که مشتریان می‌توانند بر اساس نیاز و زمان خود انبارهای مدنظرشان را از ما اجاره نمایند زیرا مدت زمان اجاره انبارهای ما به صورت بلند مدت و کوتاه مدت می‌باشد.
+        - heading "اهمیت استفاده از خدمات اجاره انبار" [level=2] [ref=e816]
+        - paragraph [ref=e817]: هدف انبارداری نگهداری اصولی از کالاهای افراد در هر شغل و حرفه‌ای است. بنابراین حین اجاره انبار لازم است به مکان آن و ویژگی های فیزیکی آن توجه شایانی داشته باشید. امروزه می توان برای اجاره انبار در تهران به مراکز خدماتی که این کار را به خوبی انجام می دهند مراجعه کرد. شرکت انبار VIP تهران با در اختیار داشتن کادری متخصص و مجرب می‌تواند یک انبار با ویژگی‌هایی که در بالا ذکر کردیم در هر نقطه از تهران در اختیار شما قرار دهد. اجاره انبار بهترین کاری است که می‌توانید برای در امان نگه‌داشتن کالاهای خود انجام دهید.
+        - heading "امکانات انبار VIP تهران" [level=2] [ref=e818]
+        - paragraph [ref=e819]: "مجموعه انبار VIP تهران برای سهولت در امر اجاره انبار برای مشتریان خدماتی که مکمل دپو محصولات یا نگهداری آنها درون انبارها هستند را به مشتریان خود ارائه می‌هد؛ این خدمات شامل موارد زیر می‌شوند:"
+        - heading "امنیت انبارها" [level=3] [ref=e820]
+        - paragraph [ref=e821]: مجموعه انبار VIP تهران همواره در تلاش بوده است تا امنیت انبارها را در تمامی شعبات خود برقرار نماید؛ به همین جهت تمامی انبارهای مجموعه مجهز به دوربین‌های مداربسته، دزدگیرهای حرفه‌ای، سیستم ضدسرقت، آژیر خطر و … می‌باشد. همچنین افرادی مورد اطمینان ما به صورت 24 ساعته از انبارها نگهداری می‌کنند.
+        - heading "بسته بندی ایمن" [level=3] [ref=e822]
+        - paragraph [ref=e823]: قبل از کرایه انبار لازم است تا هر وسیله‌ای که قصد انبار کردن آن را دارید را به صورت کاملا اصولی و صحیح بسته‌بندی نمایید تا در حین بارگیری، رساندن اجناس به انبار و حتی چیدمان آنها درون انبارها هیچگونه آسیبی به آنها وارد نشود. از طرفی برخی از مشتریان نحوه بسته‌بندی اصولی اجناس خود را بلد هستند اما به علت مشغله‌هایی که دارند فرصت کافی برای بسته‌بندی آنها را ندارند به همین علت‌ها مجموعه انبار VIP تهران خدمات بسته‌بندی تمامی اجناس اعم از محصولات شکستنی، وسایل منزل، خودرو و … را به مشتریان خود ارائه می‌دهد. برای استفاده از خدمات بسته‌بندی مجموعه ما تنها کافی است تا در هنگام اجاره انبار، درخواست خدمات بسته‌بندی را درون مجموعه ما مطرح نمایید تا پس از هماهنگی یک یا چند روز قبل از انبار کردن محصولات درون انبارها، متخصصان بسته‌بندی و اسباب کشی ما در محل سکونت یا کسب و کار شما حاضر شوند و وسایلتان را با استفاده از روش‌های جدید بسته‌بندی، آماده انبار کردن نمایند.
+        - heading "حمل و نقل حرفه‌ای" [level=3] [ref=e824]
+        - paragraph [ref=e825]: پس از بسته‌بندی وسایل لازم است تا آنها را به انبارها منتقل نمایید؛ برخی از اجناس مانند وسایل اداری و اسناد سبک هستند و می‌توان آنها را با ماشین شخصی تا نزد انبارها حمل نمود اما برخی دیگر از اجناس مانند وسایل منزل بسیار سنگین هستند و برای حمل آنها تا انبارها لازم است تا از ماشین‌های مخصوص باربری استفاده نمایید. مجموعه ما خدمات بارگیری وسایل توسط ماشین‌های مخصوص باربری را به مشتریان خود ارائه می‌دهد تا مشتریان برای رساندن اجناسشان تا نزد انبارها به دنبال یک شرکت باربری یا حتی کرایه ماشین باربری نباشند.
+        - heading "چیدمان درون انبارها" [level=3] [ref=e826]
+        - paragraph [ref=e827]: هنگانی که محصولات خود را به انبارها می‌رسانید لازم است تا آنها را به صورت مرتب درون انبار بچینید تا در صورت نیاز به استفاده از یک وسیله درون انبار دچار سرگردانی نشوید. مجموعه انبار VIP تهران برای جلوگیری از خستگی مشتریان خود، خدمات چیدمان درون انبارها را بر عهده گرفته است؛ بنابراین پس از رساندن محصولات به انبارها آنها را توسط کارگران ماهر یا لجستیک درون انبارها می‌چینیم.
+        - heading "عوامل موثر بر هزینه های اجاره انبار" [level=2] [ref=e828]
+        - paragraph [ref=e829]: "چندین عامل داخلی و خارجی تضمین می‌کنند که قیمت فضای انبار هرگز یک رقم یک اندازه یا یکسان نخواهد بود، بلکه بسته به نیازها و شرایط خاص متفاوت است. در اینجا برخی از عناصر کلیدی که بر هزینه‌های اجاره انبار تاثیر می‌گذارند آورده شده است:"
+        - list [ref=e830]:
+          - listitem [ref=e831]:
+            - strong [ref=e832]: "مکان:"
+            - text: دقیقاً مانند املاک شخصی و خانه، موقعیت مکانی یک عامل اصلی در تعیین تدارکات و اجاره انبار است. انبارها در مناطق شهری یا پرجمعیت در مجاورت مراکز اصلی حمل و نقل و بازارهای مصرفی قرار دارند. در مقابل، تسهیلات واقع در مناطق روستایی ممکن است نرخ‌های اجاره متفاوت و پایین‌تری را ارائه دهند، اما می‌توانند هزینه‌های حمل و نقل و لجستیک را افزایش دهند. بنابراین اگر به دنبال اجاره انبار ارزان در تهران هستید، به دنبال شرکت‌های انبارداری در شمال و مرکز تهران نروید.
+          - listitem [ref=e833]:
+            - strong [ref=e834]: "اندازه و فضای مورد نیاز:"
+            - text: مقدار فضای مورد نیاز شما به طور مستقیم با هزینه متناسب است. انبارهای بزرگتر با متراژ بیشتر معمولاً هزینه بیشتری خواهند داشت.
+          - listitem [ref=e835]:
+            - strong [ref=e836]: "نوع انبار:"
+            - text: هزینه بسته به نوع انبار می‌تواند متفاوت باشد. به عنوان مثال، یک مرکز ذخیره سازی استاندارد در مقایسه با یک انبار مجهز به تجهیزات جابجایی اجناس مانند لجستیک، سیستم‌های امنیتی پیشرفته و … قیمت‌های متفاوتی خواهد داشت.
+          - listitem [ref=e837]:
+            - strong [ref=e838]: "شرایط اجاره:"
+            - text: مدت‌های طولانی‌تر اجاره انبار اغلب می‌تواند منجر به نرخ‌های ماهانه پایین‌تر شود، زیرا مالکان ثبات یک مستاجر طولانی‌ مدت را ترجیح می‌دهند. برعکس، اجاره‌های کوتاه‌ مدت انبارها ممکن است به دلیل گردش مالی و هزینه‌های اداری بیشتر، دارای هزینه بالاتری باشند.
+          - listitem [ref=e839]:
+            - strong [ref=e840]: "امکانات و خدمات:"
+            - text: امکانات اضافی مانند سیستم های امنیتی پیشرفته، خدمات حفاظت از آتش، مدیریت در محل و بیمه حوادث انبارها نیز می‌تواند بر هزینه اجاره تاثیر بگذارد.
+        - heading "قیمت اجاره انبار در انبار VIP تهران" [level=2] [ref=e841]
+        - paragraph [ref=e842]: "لیست هزینه اجاره انبار در مجموعه انبار VIP تهران به شرح زیر می‌باشد:"
+        - paragraph
+        - generic [ref=e847]:
+          - paragraph [ref=e850]: قیمت انبار داخل سوله VIP
+          - list [ref=e857]:
+            - listitem [ref=e858]:
+              - generic [ref=e859]: 
+              - generic [ref=e861]: انبار‌ 10 فوت
+            - listitem [ref=e862]:
+              - generic [ref=e863]: 
+              - generic [ref=e865]: 7.5 متر (یک نیسان وانت)
+            - listitem [ref=e866]:
+              - generic [ref=e867]: $
+              - generic [ref=e869]: 3 میلیون تومان ودیعه / اجاره ماهانه 2 میلیون الی 2.600 میلیون تومان
+            - listitem [ref=e870]:
+              - generic [ref=e871]: 
+              - generic [ref=e873]: انبار داخل سوله VIP
+          - list [ref=e880]:
+            - listitem [ref=e881]:
+              - generic [ref=e882]: 
+              - generic [ref=e884]: انبار‌ 20 فوت
+            - listitem [ref=e885]:
+              - generic [ref=e886]: 
+              - generic [ref=e888]: 17 متر (یک خاور و یک وانت)
+            - listitem [ref=e889]:
+              - generic [ref=e890]: $
+              - generic [ref=e892]: 5 میلیون تومان ودیعه / اجاره ماهانه از 3.600 الی 6 میلیون تومان
+            - listitem [ref=e893]:
+              - generic [ref=e894]: 
+              - generic [ref=e896]: انبار داخل سوله VIP
+          - list [ref=e903]:
+            - listitem [ref=e904]:
+              - generic [ref=e905]: 
+              - generic [ref=e907]: انبار‌ 40 فوت
+            - listitem [ref=e908]:
+              - generic [ref=e909]: 
+              - generic [ref=e911]: 32 متر (سه خاور اسباب کشی)
+            - listitem [ref=e912]:
+              - generic [ref=e913]: $
+              - generic [ref=e915]: 10 میلیون تومان ودیعه / اجاره ماهانه از 5.500 الی 9 میلیون تومان
+            - listitem [ref=e916]:
+              - generic [ref=e917]: 
+              - generic [ref=e919]: انبار داخل سوله VIP
+          - generic [ref=e921]:
+            - paragraph [ref=e922]:
+              - strong [ref=e923]: تعرفه انبار کانتینری دریایی عایق‌بندی شده
+            - paragraph [ref=e924]: انباری ارزان مناسب اسباب منزل و لوازم اداری در فضای باز
+            - list [ref=e925]:
+              - listitem [ref=e926]: "20 فوت: ماهیانه 3.600، بدون ودیعه"
+              - listitem [ref=e927]: "40 فوت: ماهیانه 7.200، بدون ودیعه"
+          - paragraph [ref=e930]: برای اطلاع دقیق‌تر قیمت ماهانه اجاره انبار با شماره‌های مجموعه انبار VIP در ارتباط باشید.
+          - generic [ref=e932]:
+            - link "021-22659344" [ref=e938] [cursor=pointer]:
+              - /url: tel:02122659344
+            - link "021-88341560" [ref=e946] [cursor=pointer]:
+              - /url: tel:02188341560
+        - paragraph
+        - heading [level=2] [ref=e949]:
+          - strong [ref=e950]: شرایط اجاره انبار از انبار
+          - strong [ref=e951]: VIP
+          - strong [ref=e952]: تهران
+        - paragraph [ref=e953]: برای اجاره انواع انبارها در هر بازه زمانی نیاز به شرایط خاصی همچون چک و سفته نیست و مشتریان می‌توانند در هر شغل و حرفه‌ای که هستند انبار مدنظرشان را از ما اجاره نمایند.
+        - paragraph [ref=e954]:
+          - text: برای اجاره انبار از مجموعه ما تنها کافی است تا با کارشناسان ما به شماره‌های
+          - link "02122659344" [ref=e955] [cursor=pointer]:
+            - /url: tel:02122659344
+          - text: یا
+          - link "02188341560" [ref=e956] [cursor=pointer]:
+            - /url: tel:02188341560
+          - text: تماس حاصل نمایید و پس از دریافت مشاوره رایگان اجاره انبار، انبار مدنظرتان را اجاره نمایید.
+        - heading "نحوه اجاره انبار ارزان در تهران" [level=2] [ref=e957]
+        - paragraph [ref=e958]: برای استفاده از خدمات اجاره انبار در تهران و کرایه انواع انبارهای در شمال، جنوب، شرق و غرب و مرکز تهران تنها کافی است تا اکنون تلفن خود را برداشته و با کارشناسان مجموعه انبار VIP تهران تماس حاصل فرمایید. سپس در صورت تمایل، یک روز را برای بازدید از انبارها با کارشناسان هماهنگ کنید تا پس از حضور شما در مجموعه ما اقدام به عقد قرارداد اجاره انبار میان طرفین نماییم.
+        - heading "انبار VIP تهران، اولین شرکت اجاره انبار در تهران" [level=2] [ref=e959]
+        - paragraph [ref=e960]: شرکت انبار VIP تهران با بیش از 10 سال سابقه در حوزه خدمات انبارداری، حمل بار و بسته‌بندی کالاها همواره در تلاش است تا بهترین خدمات را در آینده پیشرو به مشتریان خود ارائه دهد. مجموعه ما با مجهز‌ترین خدمات امنیتی و نگهبانی 24 ساعته، ایمنی را برای مشتریان به ارمغان می‌آورد.
+  - contentinfo [ref=e961]:
+    - generic [ref=e963]:
+      - generic [ref=e964]:
+        - link [ref=e967] [cursor=pointer]:
+          - /url: https://anbarajare.com
+          - img "logo vip" [ref=e968]
+        - paragraph [ref=e971]:
+          - strong [ref=e972]: شرکت انبار VIP تهران
+          - text: با بیش از 10 سال سابقه فعالیت، همواره تمام تلاش خود را به کار برده است تا بهترین و با کیفیت‌ترین خدمات انبار داری و حمل بار و اثاثیه، آسودگی خاطر را برای مشتریان خود فراهم آورد.
+      - generic [ref=e973]:
+        - generic [ref=e974]: آدرس‌ها
+        - list [ref=e980]:
+          - listitem [ref=e981]:
+            - generic [ref=e982]: 
+            - generic [ref=e984]: "شعبه شمال: حکیمیه – زین‌الدین - اتحاد"
+          - listitem [ref=e985]:
+            - generic [ref=e986]: 
+            - generic [ref=e988]: "شعبه شرق: دماوند – سه‌راه آزمایش"
+          - listitem [ref=e989]:
+            - generic [ref=e990]: 
+            - generic [ref=e992]: "شعبه غرب تهران + کرج: کرج – کیلومتر ۱۴ لشکری، بعد از چهارراه ایران‌خودرو"
+          - listitem [ref=e993]:
+            - generic [ref=e994]: کیلومتر ۸ جاده مخصوص
+          - listitem [ref=e995]:
+            - generic [ref=e996]: کیلومتر ۸ فتح، پایین بلوار تهرانسر
+      - list [ref=e1000]:
+        - listitem [ref=e1001]:
+          - generic [ref=e1002]: 
+          - generic [ref=e1004]: "مرکز: آزادگان – خیابان عرفان کنار باسکول طلایی"
+        - listitem [ref=e1005]:
+          - generic [ref=e1006]: 
+          - generic [ref=e1008]: "جنوب: فیروز‌بهرام – جاده احمدآباد مستوفی"
+        - listitem [ref=e1009]:
+          - generic [ref=e1010]: رجایی جنوبی – بعد از بیمارستان هفت‌تیر
+        - listitem [ref=e1011]:
+          - generic [ref=e1012]: چهارراه خزانه – جنب خسارت بیمه ایران
+      - generic [ref=e1013]:
+        - generic [ref=e1014]: ارتباط با ما
+        - list [ref=e1020]:
+          - listitem [ref=e1021]:
+            - link "02122659344" [ref=e1022] [cursor=pointer]:
+              - /url: tel:02122659344
+              - generic [ref=e1023]: 
+          - listitem [ref=e1026]:
+            - link "02188341560" [ref=e1027] [cursor=pointer]:
+              - /url: tel:02188341560
+              - generic [ref=e1028]: 
+          - listitem [ref=e1031]:
+            - link "02144281704" [ref=e1032] [cursor=pointer]:
+              - /url: tel:02144281704
+              - generic [ref=e1033]: 
+    - paragraph [ref=e1042]: 1404 © تمام حقوق وبسایت متعلق به انبارداری VIP تهران می‌باشد.
+    - text:   
+  - generic [ref=e1043]: desktop
+```

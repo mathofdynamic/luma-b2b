@@ -1,0 +1,6 @@
+### Browser `luma-b2b-ir-teh-678ce1ce5815f3cc-attempt-1` opened with pid 44661.
+### Error
+Error: net::ERR_HTTP_RESPONSE_CODE_FAILURE at http://www.novinrasha.com/
+Call log:
+[2m  - navigating to "http://www.novinrasha.com/", waiting until "domcontentloaded"[22m
+

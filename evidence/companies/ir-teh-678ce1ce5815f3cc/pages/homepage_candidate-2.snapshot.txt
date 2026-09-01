@@ -1,0 +1,6 @@
+### Browser `luma-b2b-ir-teh-678ce1ce5815f3cc-attempt-2` opened with pid 44697.
+### Error
+Error: net::ERR_TIMED_OUT at https://api.whatsapp.com/send?text=avval.ir/profile/85719/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D9%86%D9%88%DB%8C%D9%86-%D8%B1%D8%A7%D8%B4%D8%A7
+Call log:
+[2m  - navigating to "https://api.whatsapp.com/send?text=avval.ir/profile/85719/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D9%86%D9%88%DB%8C%D9%86-%D8%B1%D8%A7%D8%B4%D8%A7", waiting until "domcontentloaded"[22m
+

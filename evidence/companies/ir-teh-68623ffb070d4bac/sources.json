@@ -1,0 +1,113 @@
+{
+  "company_id": "ir-teh-68623ffb070d4bac",
+  "errors": [],
+  "generated_at": "2026-09-01T09:03:25Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [
+    {
+      "bytes": 684051,
+      "captured_at": "2026-09-01T09:03:23Z",
+      "company_id": "ir-teh-68623ffb070d4bac",
+      "headless": true,
+      "page_title": "فرادید شرق - تولید پاکت | کتاب اول",
+      "path": "companies/ir-teh-68623ffb070d4bac/screenshots/company_profile-1.png",
+      "reason_this_matters": "Public directory profile shows the named company and its listed business footprint.",
+      "screenshot_type": "company_profile",
+      "source_url": "https://avval.ir/profile/f9273/%D9%81%D8%B1%D8%A7%D8%AF%DB%8C%D8%AF-%D8%B4%D8%B1%D9%82"
+    }
+  ],
+  "sources": [
+    {
+      "discovered_at": "2026-09-01T06:31:45Z",
+      "discovery_reason": "Book-e Avval category: بسته بندی مواد غذایی",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "فرادید شرق به ارائه راهکارهایی فراگیر برای موفقیت کسب و کار مشتریان خویش همت گمارده و این مهم را با گرد هم آوردن مشاوران برجسته بازاریابی، و برند و ایجاد تیم های خلاق و ک",
+      "source_quality": "directory",
+      "source_title": "بسته بندی مواد غذایی در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D8%A8%D8%B3%D8%AA%D9%87%20%D8%A8%D9%86%D8%AF%DB%8C%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "discovered_at": "2026-09-01T06:31:45Z",
+      "discovery_reason": "Book-e Avval category: تولید کارتن مقوایی",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "فرادید شرق به ارائه راهکارهایی فراگیر برای موفقیت کسب و کار مشتریان خویش همت گمارده و این مهم را با گرد هم آوردن مشاوران برجسته بازاریابی، و برند و ایجاد تیم های خلاق و ک",
+      "source_quality": "directory",
+      "source_title": "تولید کارتن مقوایی در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%DA%A9%D8%A7%D8%B1%D8%AA%D9%86%20%D9%85%D9%82%D9%88%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "discovered_at": "2026-09-01T06:31:49Z",
+      "discovery_reason": "Book-e Avval category: خدمات بسته بندی",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "فرادید شرق به ارائه راهکارهایی فراگیر برای موفقیت کسب و کار مشتریان خویش همت گمارده و این مهم را با گرد هم آوردن مشاوران برجسته بازاریابی، و برند و ایجاد تیم های خلاق و ک",
+      "source_quality": "directory",
+      "source_title": "خدمات بسته بندی در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D8%AE%D8%AF%D9%85%D8%A7%D8%AA%20%D8%A8%D8%B3%D8%AA%D9%87%20%D8%A8%D9%86%D8%AF%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:31:45Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-ec05328ca65205c8",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "فرادید شرق به ارائه راهکارهایی فراگیر برای موفقیت کسب و کار مشتریان خویش همت گمارده و این مهم را با گرد هم آوردن مشاوران برجسته بازاریابی، و برند و ایجاد تیم های خلاق و ک",
+      "source_quality": "directory",
+      "source_title": "بسته بندی مواد غذایی در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D8%A8%D8%B3%D8%AA%D9%87%20%D8%A8%D9%86%D8%AF%DB%8C%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:31:45Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-ef2abffc942c8db5",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "فرادید شرق به ارائه راهکارهایی فراگیر برای موفقیت کسب و کار مشتریان خویش همت گمارده و این مهم را با گرد هم آوردن مشاوران برجسته بازاریابی، و برند و ایجاد تیم های خلاق و ک",
+      "source_quality": "directory",
+      "source_title": "تولید کارتن مقوایی در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%DA%A9%D8%A7%D8%B1%D8%AA%D9%86%20%D9%85%D9%82%D9%88%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:31:49Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-805f7475a3b11647",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "فرادید شرق به ارائه راهکارهایی فراگیر برای موفقیت کسب و کار مشتریان خویش همت گمارده و این مهم را با گرد هم آوردن مشاوران برجسته بازاریابی، و برند و ایجاد تیم های خلاق و ک",
+      "source_quality": "directory",
+      "source_title": "خدمات بسته بندی در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D8%AE%D8%AF%D9%85%D8%A7%D8%AA%20%D8%A8%D8%B3%D8%AA%D9%87%20%D8%A8%D9%86%D8%AF%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:53Z",
+      "claim": "Directory profile lists فرادید شرق with a public Tehran business listing.",
+      "confidence": 0.82,
+      "evidence_id": "ev-07749e8b2b66242d",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "فرادید شرق - تولید پاکت | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس فرادید شرق طراحی و تولید بسته بندی ایستاده زیپدار و جعبه تولید پاکت تولید کارتن مقوایی ماشین آلات بسته بندی خدمات بسته بندی بسته بندی مواد غذایی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل تولید پاکت تهران محله کاووسیه اطلاعات تماس آدرس : تهران، منطقه 3، محله کاووسیه، آفریقا (جردن)، خیابان سپیدار، پلاک 1، واحد 108 تلفن : نمای",
+      "source_quality": "directory",
+      "source_title": "فرادید شرق - تولید پاکت | کتاب اول",
+      "source_url": "https://avval.ir/profile/f9273/%D9%81%D8%B1%D8%A7%D8%AF%DB%8C%D8%AF-%D8%B4%D8%B1%D9%82"
+    },
+    {
+      "captured_at": "2026-09-01T07:15:21Z",
+      "claim": "Public website signal: order_or_contact_form",
+      "confidence": 0.72,
+      "evidence_id": "ev-781d804baf8cbfdb",
+      "evidence_type": "OBSERVED",
+      "excluded_from_qualification": true,
+      "quote_or_snippet": "contact us | Home Page - High Packs Distribution Home Full Menu Custom Offerings Contact Us Your one stop shop for all things cannabis Full Menu Contact Us Please enable JavaScript in your browser to complete this form. Name * First Last Email * Phone Number * License Comment or Message Submit LinkedIn Facebook Instagram",
+      "signal": "order_or_contact_form",
+      "source_quality": "company_site",
+      "source_title": "Home Page - High Packs Distribution",
+      "source_url": "https://highpacks.com/"
+    }
+  ]
+}

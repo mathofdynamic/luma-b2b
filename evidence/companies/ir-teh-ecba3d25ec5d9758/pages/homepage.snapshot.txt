@@ -1,0 +1,262 @@
+### Page
+- Page URL: https://shamsabadindustrial.sekaha.com/home
+- Page Title: شهرک صنعتی شمس آباد |
+- Console: 1 errors, 1 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - button [ref=e5]
+        - paragraph [ref=e8]: شهرک صنعتی شمس آباد
+      - link [ref=e10] [cursor=pointer]:
+        - /url: https://shamsabadindustrial.sekaha.com/login
+  - main [ref=e15]:
+    - generic [ref=e17]:
+      - generic [ref=e19]:
+        - button [ref=e20]
+        - textbox "جستجو" [ref=e24]
+      - button [ref=e25]
+      - button [ref=e29]
+    - list [ref=e34]:
+      - listitem [ref=e35]:
+        - link [ref=e37] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D="
+          - img "all" [ref=e38]
+        - link "همه اگهی ها" [ref=e39] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D="
+      - listitem [ref=e40]:
+        - link [ref=e42] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=1"
+          - img "تکنولوژی،نوآوری" [ref=e43]
+        - link "تکنولوژی،نوآوری" [ref=e44] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=1"
+      - listitem [ref=e45]:
+        - link [ref=e47] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=2"
+          - img "اعطای نمایندگی" [ref=e48]
+        - link "اعطای نمایندگی" [ref=e49] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=2"
+      - listitem [ref=e50]:
+        - link [ref=e52] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=3"
+          - img "بهداشتی" [ref=e53]
+        - link "بهداشتی" [ref=e54] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=3"
+      - listitem [ref=e55]:
+        - link [ref=e57] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=4"
+          - img "مصالح سفتکاری" [ref=e58]
+        - link "مصالح سفتکاری" [ref=e59] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=4"
+      - listitem [ref=e60]:
+        - link [ref=e62] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=5"
+          - img "نازک کاری" [ref=e63]
+        - link "نازک کاری" [ref=e64] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=5"
+      - listitem [ref=e65]:
+        - link [ref=e67] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=6"
+          - img "سنگ ساختمانی" [ref=e68]
+        - link "سنگ ساختمانی" [ref=e69] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=6"
+      - listitem [ref=e70]:
+        - link [ref=e72] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=7"
+          - img "کاشی سرامیک" [ref=e73]
+        - link "کاشی سرامیک" [ref=e74] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=7"
+      - listitem [ref=e75]:
+        - link [ref=e77] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=8"
+          - img "برق و الکترونیک" [ref=e78]
+        - link "برق و الکترونیک" [ref=e79] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=8"
+      - listitem [ref=e80]:
+        - link [ref=e82] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=9"
+          - img "درب و پنجره" [ref=e83]
+        - link "درب و پنجره" [ref=e84] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=9"
+      - listitem [ref=e85]:
+        - link [ref=e87] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=10"
+          - img "شیمیایی" [ref=e88]
+        - link "شیمیایی" [ref=e89] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=10"
+      - listitem [ref=e90]:
+        - link [ref=e92] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=11"
+          - img "آهن آلات" [ref=e93]
+        - link "آهن آلات" [ref=e94] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=11"
+      - listitem [ref=e95]:
+        - link [ref=e97] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=12"
+          - img "تاسیسات" [ref=e98]
+        - link "تاسیسات" [ref=e99] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=12"
+      - listitem [ref=e100]:
+        - link [ref=e102] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=13"
+          - img "نما و محوطه" [ref=e103]
+        - link "نما و محوطه" [ref=e104] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=13"
+      - listitem [ref=e105]:
+        - link [ref=e107] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=14"
+          - img "آشپزخانه" [ref=e108]
+        - link "آشپزخانه" [ref=e109] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=14"
+      - listitem [ref=e110]:
+        - link [ref=e112] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=15"
+          - img "دکوراسیون" [ref=e113]
+        - link "دکوراسیون" [ref=e114] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=15"
+      - listitem [ref=e115]:
+        - link [ref=e117] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=16"
+          - img "ابزار و یراق" [ref=e118]
+        - link "ابزار و یراق" [ref=e119] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=16"
+      - listitem [ref=e120]:
+        - link [ref=e122] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=17"
+          - img "خدمات مهندسی" [ref=e123]
+        - link "خدمات مهندسی" [ref=e124] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=17"
+      - listitem [ref=e125]:
+        - link [ref=e127] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=19"
+          - img "خدمات حقوقی" [ref=e128]
+        - link "خدمات حقوقی" [ref=e129] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=19"
+      - listitem [ref=e130]:
+        - link [ref=e132] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=20"
+          - img "ایمنی" [ref=e133]
+        - link "ایمنی" [ref=e134] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=20"
+      - listitem [ref=e135]:
+        - link [ref=e137] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=112"
+          - img "بلاگ" [ref=e138]
+        - link "بلاگ" [ref=e139] [cursor=pointer]:
+          - /url: "?filter%5Bcategory_id%5D=112"
+    - generic [ref=e142]:
+      - link "خانه‌ های ماژولار و پیش ‌ساخته مدرن؛ آیا آینده ساخت ‌و ساز ایران تغییر می‌ کند؟ خانه‌ های ماژولار و پیش ‌ساخته مدرن؛ آیا آینده ساخت ‌و ساز ایران تغییر می‌ کند؟" [ref=e144] [cursor=pointer]:
+        - /url: https://shamsabadindustrial.sekaha.com/advertise/khanh-hay-mazholar-o-pysh-sakhth-mdrn-aya-ayndh-sakht-o-saz-ayran-tghyyr-my-knd/details
+        - img "خانه‌ های ماژولار و پیش ‌ساخته مدرن؛ آیا آینده ساخت ‌و ساز ایران تغییر می‌ کند؟" [ref=e145]
+        - generic [ref=e146]: خانه‌ های ماژولار و پیش ‌ساخته مدرن؛ آیا آینده ساخت ‌و ساز ایران تغییر می‌ کند؟
+      - link "خانه ‌های کربن صفر (Net Zero Home) در ایران؛ واقعاً شدنی یا فقط یک شعار لوکس؟ خانه ‌های کربن صفر (Net Zero Home) در ایران؛ واقعاً شدنی یا فقط یک شعار لوکس؟" [ref=e148] [cursor=pointer]:
+        - /url: https://shamsabadindustrial.sekaha.com/advertise/khanh-hay-krbn-sfr-net-zero-home-dr-ayran-oakaaa-shdny-ya-fkt-yk-shaaar-loks/details
+        - img "خانه ‌های کربن صفر (Net Zero Home) در ایران؛ واقعاً شدنی یا فقط یک شعار لوکس؟" [ref=e149]
+        - generic [ref=e150]: خانه ‌های کربن صفر (Net Zero Home) در ایران؛ واقعاً شدنی یا فقط یک شعار لوکس؟
+      - link "آیا خانه چوبی ضد زلزله می‌تواند گزینه‌ ای امن باشد؟ آیا خانه چوبی ضد زلزله می‌تواند گزینه‌ ای امن باشد؟" [ref=e152] [cursor=pointer]:
+        - /url: https://shamsabadindustrial.sekaha.com/advertise/aya-khanh-choby-dd-zlzlh-mytoand-gzynh-ay-amn-bashd/details
+        - img "آیا خانه چوبی ضد زلزله می‌تواند گزینه‌ ای امن باشد؟" [ref=e153]
+        - generic [ref=e154]: آیا خانه چوبی ضد زلزله می‌تواند گزینه‌ ای امن باشد؟
+      - link "عایق‌ کاری اصولی برای کاهش قبض گاز و بهینه‌ سازی مصرف انرژی عایق‌ کاری اصولی برای کاهش قبض گاز و بهینه‌ سازی مصرف انرژی" [ref=e156] [cursor=pointer]:
+        - /url: https://shamsabadindustrial.sekaha.com/advertise/aaayk-kary-asoly-bray-kahsh-kbd-gaz-o-bhynh-sazy-msrf-anrzhy/details
+        - img "عایق‌ کاری اصولی برای کاهش قبض گاز و بهینه‌ سازی مصرف انرژی" [ref=e157]
+        - generic [ref=e158]: عایق‌ کاری اصولی برای کاهش قبض گاز و بهینه‌ سازی مصرف انرژی
+      - link "معماری بیوفیلیک؛ ارتباط عمیق طبیعت و ساختمان برای زندگی سالم‌ تر معماری بیوفیلیک؛ ارتباط عمیق طبیعت و ساختمان برای زندگی سالم‌ تر" [ref=e160] [cursor=pointer]:
+        - /url: https://shamsabadindustrial.sekaha.com/advertise/maamary-byofylyk-artbat-aamyk-tbyaat-o-sakhtman-bray-zndgy-salm-tr/details
+        - img "معماری بیوفیلیک؛ ارتباط عمیق طبیعت و ساختمان برای زندگی سالم‌ تر" [ref=e161]
+        - generic [ref=e162]: معماری بیوفیلیک؛ ارتباط عمیق طبیعت و ساختمان برای زندگی سالم‌ تر
+      - link "معماری سالمندان (Aging Design)؛ راهنمای کامل طراحی ایمن و استاندارد معماری سالمندان (Aging Design)؛ راهنمای کامل طراحی ایمن و استاندارد" [ref=e164] [cursor=pointer]:
+        - /url: https://shamsabadindustrial.sekaha.com/advertise/maamary-salmndan-aging-design-rahnmay-kaml-trahy-aymn-o-astandard/details
+        - img "معماری سالمندان (Aging Design)؛ راهنمای کامل طراحی ایمن و استاندارد" [ref=e165]
+        - generic [ref=e166]: معماری سالمندان (Aging Design)؛ راهنمای کامل طراحی ایمن و استاندارد
+      - link "متریالهای هوشمند در ساختمان؛ از شیشه هوشمند تا بتن خود ترمیم‌ شونده، آینده ساخت‌ و ساز مدرن متریالهای هوشمند در ساختمان؛ از شیشه هوشمند تا بتن خود ترمیم‌ شونده، آینده ساخت‌ و ساز مدرن" [ref=e168] [cursor=pointer]:
+        - /url: https://shamsabadindustrial.sekaha.com/advertise/mtryalhay-hoshmnd-dr-sakhtman-az-shyshh-hoshmnd-ta-btn-khod-trmym-shondh-ayndh-sakht-o-saz-mdrn/details
+        - img "متریالهای هوشمند در ساختمان؛ از شیشه هوشمند تا بتن خود ترمیم‌ شونده، آینده ساخت‌ و ساز مدرن" [ref=e169]
+        - generic [ref=e170]: متریالهای هوشمند در ساختمان؛ از شیشه هوشمند تا بتن خود ترمیم‌ شونده، آینده ساخت‌ و ساز مدرن
+      - link "خانه‌ های متحرک و سازه‌های قابل جابجایی؛ آینده مسکن انعطاف‌ پذیر خانه‌ های متحرک و سازه‌های قابل جابجایی؛ آینده مسکن انعطاف‌ پذیر" [ref=e172] [cursor=pointer]:
+        - /url: https://shamsabadindustrial.sekaha.com/advertise/khanh-hay-mthrk-o-sazhhay-kabl-gabgayy-ayndh-mskn-anaataf-pthyr/details
+        - img "خانه‌ های متحرک و سازه‌های قابل جابجایی؛ آینده مسکن انعطاف‌ پذیر" [ref=e173]
+        - generic [ref=e174]: خانه‌ های متحرک و سازه‌های قابل جابجایی؛ آینده مسکن انعطاف‌ پذیر
+      - link "خانه‌ های چاپ سه ‌بعدی؛ بررسی کامل فناوری، هزینه ساخت و آینده آن در ایران خانه‌ های چاپ سه ‌بعدی؛ بررسی کامل فناوری، هزینه ساخت و آینده آن در ایران" [ref=e176] [cursor=pointer]:
+        - /url: https://shamsabadindustrial.sekaha.com/advertise/khanh-hay-chap-sh-baady-brrsy-kaml-fnaory-hzynh-sakht-o-ayndh-an-dr-ayran/details
+        - img "خانه‌ های چاپ سه ‌بعدی؛ بررسی کامل فناوری، هزینه ساخت و آینده آن در ایران" [ref=e177]
+        - generic [ref=e178]: خانه‌ های چاپ سه ‌بعدی؛ بررسی کامل فناوری، هزینه ساخت و آینده آن در ایران
+      - link "سیستم Base Isolation چیست و چقدر هزینه دارد؟ سیستم Base Isolation چیست و چقدر هزینه دارد؟" [ref=e180] [cursor=pointer]:
+        - /url: https://shamsabadindustrial.sekaha.com/advertise/systm-base-isolation-chyst-o-chkdr-hzynh-dard/details
+        - img "سیستم Base Isolation چیست و چقدر هزینه دارد؟" [ref=e181]
+        - generic [ref=e182]: سیستم Base Isolation چیست و چقدر هزینه دارد؟
+      - link "معرفی 6 شرکت برتر تولید انواع مخازن در ایران معرفی 6 شرکت برتر تولید انواع مخازن در ایران" [ref=e184] [cursor=pointer]:
+        - /url: https://shamsabadindustrial.sekaha.com/advertise/maarfy-6-shrkt-brtr-tolyd-anoaaa-mkhazn-dr-ayran/details
+        - img "معرفی 6 شرکت برتر تولید انواع مخازن در ایران" [ref=e185]
+        - generic [ref=e186]: معرفی 6 شرکت برتر تولید انواع مخازن در ایران
+      - link "مقایسه نمای نئوکلاسیک و مدرن در تهران؛ کدام انتخاب بهتری است؟ مقایسه نمای نئوکلاسیک و مدرن در تهران؛ کدام انتخاب بهتری است؟" [ref=e188] [cursor=pointer]:
+        - /url: https://shamsabadindustrial.sekaha.com/advertise/mkaysh-nmay-nyoklasyk-o-mdrn-dr-thran-kdam-antkhab-bhtry-ast/details
+        - img "مقایسه نمای نئوکلاسیک و مدرن در تهران؛ کدام انتخاب بهتری است؟" [ref=e189]
+        - generic [ref=e190]: مقایسه نمای نئوکلاسیک و مدرن در تهران؛ کدام انتخاب بهتری است؟
+      - link "۸ نمای برتر مینیمال ساختمان در تهران؛ سادگی هوشمند در معماری مدرن ۸ نمای برتر مینیمال ساختمان در تهران؛ سادگی هوشمند در معماری مدرن" [ref=e192] [cursor=pointer]:
+        - /url: https://shamsabadindustrial.sekaha.com/advertise/nmay-brtr-mynymal-sakhtman-dr-thran-sadgy-hoshmnd-dr-maamary-mdrn/details
+        - img "۸ نمای برتر مینیمال ساختمان در تهران؛ سادگی هوشمند در معماری مدرن" [ref=e193]
+        - generic [ref=e194]: ۸ نمای برتر مینیمال ساختمان در تهران؛ سادگی هوشمند در معماری مدرن
+      - link "۶ نمای نئوکلاسیک برتر ساختمان در تهران؛ شاهکارهای فاخر معماری شهری ۶ نمای نئوکلاسیک برتر ساختمان در تهران؛ شاهکارهای فاخر معماری شهری" [ref=e196] [cursor=pointer]:
+        - /url: https://shamsabadindustrial.sekaha.com/advertise/nmay-nyoklasyk-brtr-sakhtman-dr-thran-shahkarhay-fakhr-maamary-shhry/details
+        - img "۶ نمای نئوکلاسیک برتر ساختمان در تهران؛ شاهکارهای فاخر معماری شهری" [ref=e197]
+        - generic [ref=e198]: ۶ نمای نئوکلاسیک برتر ساختمان در تهران؛ شاهکارهای فاخر معماری شهری
+      - link "8 نمای سنگی کلاسیک برتر ایران؛ تجلی شکوه و اصالت 8 نمای سنگی کلاسیک برتر ایران؛ تجلی شکوه و اصالت" [ref=e200] [cursor=pointer]:
+        - /url: https://shamsabadindustrial.sekaha.com/advertise/8-nmay-sngy-klasyk-brtr-ayran-tgly-shkoh-o-asalt/details
+        - img "8 نمای سنگی کلاسیک برتر ایران؛ تجلی شکوه و اصالت" [ref=e201]
+        - generic [ref=e202]: 8 نمای سنگی کلاسیک برتر ایران؛ تجلی شکوه و اصالت
+      - link "با 9 نمای مدرن و چشم ‌نواز تهران آشنا شوید با 9 نمای مدرن و چشم ‌نواز تهران آشنا شوید" [ref=e204] [cursor=pointer]:
+        - /url: https://shamsabadindustrial.sekaha.com/advertise/ba-9-nmay-mdrn-o-chshm-noaz-thran-ashna-shoyd/details
+        - img "با 9 نمای مدرن و چشم ‌نواز تهران آشنا شوید" [ref=e205]
+        - generic [ref=e206]: با 9 نمای مدرن و چشم ‌نواز تهران آشنا شوید
+      - link "8 شرکت برتر تولید کننده سیستم تهویه هوا 8 شرکت برتر تولید کننده سیستم تهویه هوا" [ref=e208] [cursor=pointer]:
+        - /url: https://shamsabadindustrial.sekaha.com/advertise/8-shrkt-brtr-tolyd-knndh-systm-thoyh-hoa/details
+        - img "8 شرکت برتر تولید کننده سیستم تهویه هوا" [ref=e209]
+        - generic [ref=e210]: 8 شرکت برتر تولید کننده سیستم تهویه هوا
+      - link "بررسی 6 تا از برترین تولیدکنندگان شیرآلات و اتصالات صنعتی بررسی 6 تا از برترین تولیدکنندگان شیرآلات و اتصالات صنعتی" [ref=e212] [cursor=pointer]:
+        - /url: https://shamsabadindustrial.sekaha.com/advertise/brrsy-6-ta-az-brtryn-tolydknndgan-shyralat-o-atsalat-snaaty/details
+        - img "بررسی 6 تا از برترین تولیدکنندگان شیرآلات و اتصالات صنعتی" [ref=e213]
+        - generic [ref=e214]: بررسی 6 تا از برترین تولیدکنندگان شیرآلات و اتصالات صنعتی
+      - link "10 تا از برترین تولید کنندگان سیستم های هوشمند ساختمان 10 تا از برترین تولید کنندگان سیستم های هوشمند ساختمان" [ref=e216] [cursor=pointer]:
+        - /url: https://shamsabadindustrial.sekaha.com/advertise/10-ta-az-brtryn-tolyd-knndgan-systm-hay-hoshmnd-sakhtman/details
+        - img "10 تا از برترین تولید کنندگان سیستم های هوشمند ساختمان" [ref=e217]
+        - generic [ref=e218]: 10 تا از برترین تولید کنندگان سیستم های هوشمند ساختمان
+      - link "معرفی 7 شرکت برتر در زمینه تولید درب فریم لس معرفی 7 شرکت برتر در زمینه تولید درب فریم لس" [ref=e220] [cursor=pointer]:
+        - /url: https://shamsabadindustrial.sekaha.com/advertise/maarfy-7-shrkt-brtr-dr-zmynh-tolyd-drb-frym-ls/details
+        - img "معرفی 7 شرکت برتر در زمینه تولید درب فریم لس" [ref=e221]
+        - generic [ref=e222]: معرفی 7 شرکت برتر در زمینه تولید درب فریم لس
+      - link "6 برند برتر درب HDF که هر خانه‌ ای به آن‌ها نیاز دارد 6 برند برتر درب HDF که هر خانه‌ ای به آن‌ها نیاز دارد" [ref=e224] [cursor=pointer]:
+        - /url: https://shamsabadindustrial.sekaha.com/advertise/6-brnd-brtr-drb-hdf-kh-hr-khanh-ay-bh-anha-nyaz-dard/details
+        - img "6 برند برتر درب HDF که هر خانه‌ ای به آن‌ها نیاز دارد" [ref=e225]
+        - generic [ref=e226]: 6 برند برتر درب HDF که هر خانه‌ ای به آن‌ها نیاز دارد
+      - link "اگر ابزار حرفه‌ای می‌خواهید، این ۱۰ برند را بشناسید اگر ابزار حرفه‌ای می‌خواهید، این ۱۰ برند را بشناسید" [ref=e228] [cursor=pointer]:
+        - /url: https://shamsabadindustrial.sekaha.com/advertise/agr-abzar-hrfhay-mykhoahyd-ayn-brnd-ra-bshnasyd/details
+        - img "اگر ابزار حرفه‌ای می‌خواهید، این ۱۰ برند را بشناسید" [ref=e229]
+        - generic [ref=e230]: اگر ابزار حرفه‌ای می‌خواهید، این ۱۰ برند را بشناسید
+      - link "5 تولیدکننده ایزوگام با بهترین عملکرد و قیمت مناسب 5 تولیدکننده ایزوگام با بهترین عملکرد و قیمت مناسب" [ref=e232] [cursor=pointer]:
+        - /url: https://shamsabadindustrial.sekaha.com/advertise/5-tolydknndh-ayzogam-ba-bhtryn-aamlkrd-o-kymt-mnasb/details
+        - img "5 تولیدکننده ایزوگام با بهترین عملکرد و قیمت مناسب" [ref=e233]
+        - generic [ref=e234]: 5 تولیدکننده ایزوگام با بهترین عملکرد و قیمت مناسب
+      - link "7 برند تابلو برق صنعتی با استانداردهای روز دنیا 7 برند تابلو برق صنعتی با استانداردهای روز دنیا" [ref=e236] [cursor=pointer]:
+        - /url: https://shamsabadindustrial.sekaha.com/advertise/7-brnd-tablo-brk-snaaty-ba-astandardhay-roz-dnya/details
+        - img "7 برند تابلو برق صنعتی با استانداردهای روز دنیا" [ref=e237]
+        - generic [ref=e238]: 7 برند تابلو برق صنعتی با استانداردهای روز دنیا
+      - link "8 شرکت پیشرو در صنعت سیم و کابل که کیفیت را تضمین می‌کنند 8 شرکت پیشرو در صنعت سیم و کابل که کیفیت را تضمین می‌کنند" [ref=e240] [cursor=pointer]:
+        - /url: https://shamsabadindustrial.sekaha.com/advertise/8-shrkt-pyshro-dr-snaat-sym-o-kabl-kh-kyfyt-ra-tdmyn-myknnd/details
+        - img "8 شرکت پیشرو در صنعت سیم و کابل که کیفیت را تضمین می‌کنند" [ref=e241]
+        - generic [ref=e242]: 8 شرکت پیشرو در صنعت سیم و کابل که کیفیت را تضمین می‌کنند
+  - navigation [ref=e243]:
+    - generic [ref=e244]:
+      - link "خانه" [ref=e245] [cursor=pointer]:
+        - /url: https://shamsabadindustrial.sekaha.com
+      - link "تولید کنندگان" [ref=e249] [cursor=pointer]:
+        - /url: https://shamsabadindustrial.sekaha.com/team/providers
+      - link [ref=e256] [cursor=pointer]:
+        - /url: https://shamsabadindustrial.sekaha.com/login
+      - link "گالری" [ref=e259] [cursor=pointer]:
+        - /url: https://shamsabadindustrial.sekaha.com/home
+      - link "پروفایل" [ref=e265] [cursor=pointer]:
+        - /url: https://shamsabadindustrial.sekaha.com/login
+```

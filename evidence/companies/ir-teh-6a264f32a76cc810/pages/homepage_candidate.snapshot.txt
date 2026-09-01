@@ -1,0 +1,9 @@
+### Page
+- Page URL: http://www.khcgroup.ir/
+- Page Title: Error
+- HTTP status: 404 Not Found
+- Console: 1 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]: Cannot GET /
+```

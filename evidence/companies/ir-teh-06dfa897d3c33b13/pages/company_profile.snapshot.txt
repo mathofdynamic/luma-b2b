@@ -1,0 +1,345 @@
+### Page
+- Page URL: https://avval.ir/profile/3fcaa/%D8%AA%DB%8C%D9%BE%D8%A7%DA%A9%D8%B3-%D8%B4%D8%B9%D8%A8%D9%87-%D9%88%D8%AD%D8%AF%D8%AA-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C
+- Page Title: تیپاکس - شعبه وحدت اسلامی - حمل و نقل بار | کتاب اول
+- Console: 4 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - link "home page" [ref=e5] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - textbox "فعالیت شغلی، نام کسب و کار، خدمات و محصولات و ..." [ref=e11]
+            - generic [ref=e12]: در
+            - generic [ref=e13]:
+              - textbox "شهر، محله، منطقه، خیابان و ..." [ref=e14]
+              - button "جستجو بر اساس موقعیت مکانی" [ref=e16] [cursor=pointer]
+            - button "جستجو" [ref=e19] [cursor=pointer]
+          - list
+      - link "ثبت رایگان اطلاعات شغلی" [ref=e23] [cursor=pointer]:
+        - /url: /%D8%AB%D8%A8%D8%AA-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D8%B4%D8%BA%D9%84%DB%8C
+      - button "ورود | ثبت نام" [ref=e26] [cursor=pointer]
+    - navigation [ref=e30]:
+      - list [ref=e31]:
+        - listitem [ref=e32]:
+          - button "دسته بندی مشاغل" [ref=e33] [cursor=pointer]
+        - listitem [ref=e35]: "|"
+        - listitem [ref=e36]:
+          - link "تبلیغات با ما" [ref=e37] [cursor=pointer]:
+            - /url: /%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-%D9%88%D8%A8-%D8%B3%D8%A7%DB%8C%D8%AA-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+        - listitem [ref=e40]: "|"
+        - listitem [ref=e41]:
+          - link "دسترسی بانک مشاغل" [ref=e42] [cursor=pointer]:
+            - /url: /%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B4%D8%A7%D8%BA%D9%84-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+        - listitem [ref=e45]: "|"
+        - listitem [ref=e46]:
+          - link "پنل اس ام اس" [ref=e47] [cursor=pointer]:
+            - /url: /smspanel
+  - generic [ref=e53]:
+    - main [ref=e54]:
+      - generic [ref=e55]:
+        - img "لوگوی تیپاکس - حمل و نقل بار" [ref=e57]
+        - generic [ref=e58]:
+          - heading "تیپاکس - شعبه وحدت اسلامی" [level=1] [ref=e59]
+          - generic [ref=e60]:
+            - generic [ref=e63]: "1.0"
+            - generic [ref=e64]: (1 نظر)
+          - generic [ref=e65]: تیپاکس وحدت بازارچه پانزده خرداد گلوبندک فروشگاه اینترنتی کسب و کار مشاغل بازاریابی فروش ارسال کالا حمل ونقل
+          - list [ref=e66]:
+            - listitem [ref=e67]: حمل و نقل بار
+      - generic [ref=e68]:
+        - link "تماس" [ref=e69] [cursor=pointer]:
+          - /url: "#"
+        - button "ثبت نظر" [ref=e74] [cursor=pointer]
+        - button "ارتقای پروفایل" [ref=e77] [cursor=pointer]
+        - button "ویرایش" [ref=e80] [cursor=pointer]
+        - button "اشتراک گذاری" [ref=e85] [cursor=pointer]
+      - navigation [ref=e93]:
+        - list [ref=e94]:
+          - listitem [ref=e95]:
+            - link "link to home" [ref=e96] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e100]
+          - listitem [ref=e103]:
+            - link "دسته‌بندی مشاغل" [ref=e104] [cursor=pointer]:
+              - /url: /directory
+          - listitem [ref=e105]
+          - listitem [ref=e108]:
+            - link "حمل و نقل بار" [ref=e109] [cursor=pointer]:
+              - /url: /directory/%D8%AD%D9%85%D9%84-%D9%88-%D9%86%D9%82%D9%84-%D8%A8%D8%A7%D8%B1
+          - listitem [ref=e110]
+          - listitem [ref=e113]:
+            - link "تهران" [ref=e114] [cursor=pointer]:
+              - /url: /directory/%D8%AD%D9%85%D9%84-%D9%88-%D9%86%D9%82%D9%84-%D8%A8%D8%A7%D8%B1/%D8%AA%D9%87%D8%B1%D8%A7%D9%86
+          - listitem [ref=e115]
+          - listitem [ref=e118]:
+            - link "محله سنگلج" [ref=e119] [cursor=pointer]:
+              - /url: /directory/%D8%AD%D9%85%D9%84-%D9%88-%D9%86%D9%82%D9%84-%D8%A8%D8%A7%D8%B1/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%85%D8%AD%D9%84%D9%87-%D8%B3%D9%86%DA%AF%D9%84%D8%AC
+      - generic [ref=e120]:
+        - heading "اطلاعات تماس" [level=2] [ref=e122]
+        - list [ref=e123]:
+          - listitem [ref=e124]:
+            - generic [ref=e125]: "آدرس :"
+            - generic [ref=e129]: تهران، منطقه 12، محله سنگلج، خیابان وحدت اسلامی، بعد از پل ابوسعید، پلاک 721
+          - listitem [ref=e130]:
+            - generic [ref=e131]: "تلفن :"
+            - button "نمایش شماره" [ref=e134] [cursor=pointer]
+            - generic [ref=e135]: XXXXXXXXXX
+          - listitem [ref=e136]:
+            - generic [ref=e137]: وب سایت
+            - link "www.tipaxco.com" [ref=e141] [cursor=pointer]:
+              - /url: http://www.tipaxco.com
+          - listitem [ref=e142]:
+            - generic [ref=e143]: "ایمیل :"
+            - link "info@tipax.com" [ref=e148] [cursor=pointer]:
+              - /url: mailto://info@tipax.com
+          - listitem [ref=e149]:
+            - generic [ref=e150]: "کد پستی :"
+            - generic [ref=e154]: "1191633113"
+          - listitem [ref=e155]:
+            - generic [ref=e156]: "صفحات اجتماعی :"
+            - list [ref=e162]:
+              - listitem [ref=e163]:
+                - link "link to telegram" [ref=e164] [cursor=pointer]:
+                  - /url: http://t.me/tipax_vahdat
+                  - img "Telegram" [ref=e165]
+      - generic [ref=e170]:
+        - heading "تیپاکس - شعبه وحدت اسلامی زیر مجموعه" [level=2] [ref=e172]
+        - generic [ref=e173]:
+          - button "شهر" [ref=e174] [cursor=pointer]
+          - button "فعالیت شغلی" [ref=e175] [cursor=pointer]
+        - generic [ref=e177]:
+          - generic [ref=e178]: ترخیص کالا
+          - list [ref=e179]:
+            - listitem [ref=e180]:
+              - link "شرکت تیپاکس - دفتر مرکزی" [ref=e181] [cursor=pointer]:
+                - /url: /profile/azf9r/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%AA%DB%8C%D9%BE%D8%A7%DA%A9%D8%B3-%D8%AF%D9%81%D8%AA%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C
+      - generic [ref=e183]:
+        - heading "توضیحات" [level=2] [ref=e185]
+        - generic [ref=e186]: تیپاکسخدمات لجستیک60 سال سابقهارسال سریع کالا
+      - generic [ref=e187]:
+        - heading "نظرات" [level=2] [ref=e189]
+        - generic [ref=e190]:
+          - paragraph [ref=e191]: لطفا به این کسب و کار امتیاز بدید و نظر خودتون رو درباره این کسب و کار بنویسید
+          - generic [ref=e192]:
+            - generic [ref=e195]:
+              - generic [ref=e196]: بدون رای
+              - generic "بدون رای" [ref=e198] [cursor=pointer]:
+                - textbox "امتیاز شما برای این کسب و کار" [ref=e230]
+            - generic [ref=e231]:
+              - generic [ref=e232]: حداکثر 2000 کاراکتر
+              - textbox "به نظر من ..." [ref=e233]
+              - button "ثبت نظر" [ref=e234] [cursor=pointer]
+          - generic [ref=e235]:
+            - generic [ref=e237]:
+              - generic [ref=e241]: مجید
+              - generic [ref=e242]: 4 سال پیش
+            - paragraph [ref=e247]: تیپاکس وحدت دزدن از بارها بر میدارن هزینه بسته بندی الکی میزنن واسه مشتری برخورد بسیار بد
+            - generic [ref=e248]:
+              - button "0" [ref=e249] [cursor=pointer]
+              - button "پاسخ" [ref=e253] [cursor=pointer]
+              - button "گزارش تخلف این نظر" [ref=e258] [cursor=pointer]
+          - text: ✕
+    - complementary [ref=e262]:
+      - generic [ref=e264]:
+        - generic [ref=e265]:
+          - generic:
+            - region "Map" [ref=e266]
+            - generic: برای بزرگنمایی نقشه، از ⌘ + پیمایش استفاده کنید
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e267] [cursor=pointer]
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e268] [cursor=pointer]
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e277] [cursor=pointer]
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e291] [cursor=pointer]
+          - generic:
+            - generic:
+              - generic [ref=e305]:
+                - button "Zoom in" [ref=e306] [cursor=pointer]
+                - button "Zoom out" [ref=e308] [cursor=pointer]
+              - button "Enter fullscreen" [ref=e311] [cursor=pointer]
+        - generic [ref=e313]:
+          - button "گوگل" [ref=e314] [cursor=pointer]
+          - button [ref=e321] [cursor=pointer]:
+            - img "بلد" [ref=e322]
+            - text: بلد
+          - button [ref=e323] [cursor=pointer]:
+            - img "نشان" [ref=e324]
+            - text: نشان
+      - list [ref=e327]:
+        - listitem [ref=e328]:
+          - paragraph [ref=e329]: نزدیک ترین ایستگاه مترو به تیپاکس - شعبه وحدت اسلامی
+          - link "ایستگاه مترو 15 خرداد 774 متر" [ref=e330] [cursor=pointer]:
+            - /url: /profile/b4964/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%85%D8%AA%D8%B1%D9%88-15-%D8%AE%D8%B1%D8%AF%D8%A7%D8%AF
+        - listitem [ref=e339]:
+          - paragraph [ref=e340]: نزدیک ترین ایستگاه بی آر تی به تیپاکس - شعبه وحدت اسلامی
+          - link "ایستگاه بی آر تی فرهنگ - کد 4691 699 متر" [ref=e341] [cursor=pointer]:
+            - /url: /profile/1cf27/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A8%DB%8C-%D8%A2%D8%B1-%D8%AA%DB%8C-%D9%81%D8%B1%D9%87%D9%86%DA%AF-%DA%A9%D8%AF-4691
+        - listitem [ref=e352]:
+          - paragraph [ref=e353]: نزدیک ترین ایستگاه اتوبوس به تیپاکس - شعبه وحدت اسلامی
+          - link "ایستگاه اتوبوس فرهنگ - کد 46 - جنوب به شمال 98 متر" [ref=e354] [cursor=pointer]:
+            - /url: /profile/25508/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A7%D8%AA%D9%88%D8%A8%D9%88%D8%B3-%D9%81%D8%B1%D9%87%D9%86%DA%AF-%DA%A9%D8%AF-46-%D8%AC%D9%86%D9%88%D8%A8-%D8%A8%D9%87-%D8%B4%D9%85%D8%A7%D9%84
+      - generic [ref=e366]:
+        - heading "تصاویر" [level=2] [ref=e368]
+        - link "main image" [ref=e371] [cursor=pointer]:
+          - /url: /filehash/A9zAiijifhApsvoCfbfjfeDzxq.png
+          - img "تیپاکس - شعبه وحدت اسلامی - حمل و نقل بار شماره 1" [ref=e372]
+      - generic [ref=e373]:
+        - heading "کسب و کارهای مشابه" [level=2] [ref=e375]
+        - navigation [ref=e376]:
+          - list [ref=e377]:
+            - listitem [ref=e378]:
+              - link "تیپاکس - شعبه پیروزی تیپاکس - شعبه پیروزی 5.0 (1 نظر) حمل و نقل بار تهران، منطقه 13، محله پیروزی، خیابان پیروزی" [ref=e379] [cursor=pointer]:
+                - /url: /profile/eafae/%D8%AA%DB%8C%D9%BE%D8%A7%DA%A9%D8%B3-%D8%B4%D8%B9%D8%A8%D9%87-%D9%BE%DB%8C%D8%B1%D9%88%D8%B2%DB%8C
+                - img "تیپاکس - شعبه پیروزی" [ref=e380]
+                - generic [ref=e381]:
+                  - heading "تیپاکس - شعبه پیروزی" [level=3] [ref=e382]
+                  - generic [ref=e383]:
+                    - generic [ref=e394]: "5.0"
+                    - generic [ref=e395]: (1 نظر)
+                  - list [ref=e396]:
+                    - listitem [ref=e397]: حمل و نقل بار
+                  - generic [ref=e398]: تهران، منطقه 13، محله پیروزی، خیابان پیروزی
+            - listitem [ref=e402]:
+              - link "تیپاکس - شعبه سعادت آباد تیپاکس - شعبه سعادت آباد 1.0 (3 نظر) حمل و نقل بار تهران، منطقه 2، محله سعادت آباد، سعادت آباد" [ref=e403] [cursor=pointer]:
+                - /url: /profile/06612/%D8%AA%DB%8C%D9%BE%D8%A7%DA%A9%D8%B3-%D8%B4%D8%B9%D8%A8%D9%87-%D8%B3%D8%B9%D8%A7%D8%AF%D8%AA-%D8%A2%D8%A8%D8%A7%D8%AF
+                - img "تیپاکس - شعبه سعادت آباد" [ref=e404]
+                - generic [ref=e405]:
+                  - heading "تیپاکس - شعبه سعادت آباد" [level=3] [ref=e406]
+                  - generic [ref=e407]:
+                    - generic [ref=e410]: "1.0"
+                    - generic [ref=e411]: (3 نظر)
+                  - list [ref=e412]:
+                    - listitem [ref=e413]: حمل و نقل بار
+                  - generic [ref=e414]: تهران، منطقه 2، محله سعادت آباد، سعادت آباد
+            - listitem [ref=e418]:
+              - link "تیپاکس - شعبه نیاوران تیپاکس - شعبه نیاوران 4.5 (1 نظر) حمل و نقل بار تهران، منطقه 1، محله حکمت، خیابان لواسانی" [ref=e419] [cursor=pointer]:
+                - /url: /profile/b577d/%D8%AA%DB%8C%D9%BE%D8%A7%DA%A9%D8%B3-%D8%B4%D8%B9%D8%A8%D9%87-%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86
+                - img "تیپاکس - شعبه نیاوران" [ref=e420]
+                - generic [ref=e421]:
+                  - heading "تیپاکس - شعبه نیاوران" [level=3] [ref=e422]
+                  - generic [ref=e423]:
+                    - generic [ref=e434]: "4.5"
+                    - generic [ref=e435]: (1 نظر)
+                  - list [ref=e436]:
+                    - listitem [ref=e437]: حمل و نقل بار
+                  - generic [ref=e438]: تهران، منطقه 1، محله حکمت، خیابان لواسانی
+            - listitem [ref=e442]:
+              - link "تیپاکس - شعبه منظریه تیپاکس - شعبه منظریه 4.5 (2 نظر) حمل و نقل بار البرز، کرج، فردیس، منطقه 10، منظریه" [ref=e443] [cursor=pointer]:
+                - /url: /profile/e5775/%D8%AA%DB%8C%D9%BE%D8%A7%DA%A9%D8%B3-%D8%B4%D8%B9%D8%A8%D9%87-%D9%85%D9%86%D8%B8%D8%B1%DB%8C%D9%87
+                - img "تیپاکس - شعبه منظریه" [ref=e444]
+                - generic [ref=e445]:
+                  - heading "تیپاکس - شعبه منظریه" [level=3] [ref=e446]
+                  - generic [ref=e447]:
+                    - generic [ref=e458]: "4.5"
+                    - generic [ref=e459]: (2 نظر)
+                  - list [ref=e460]:
+                    - listitem [ref=e461]: حمل و نقل بار
+                  - generic [ref=e462]: البرز، کرج، فردیس، منطقه 10، منظریه
+            - listitem [ref=e466]:
+              - link "تیپاکس - شعبه نواب تیپاکس - شعبه نواب 5.0 (1 نظر) حمل و نقل بار تهران، منطقه 10، محله امام خمینی، خیابان مرتضوی" [ref=e467] [cursor=pointer]:
+                - /url: /profile/360be/%D8%AA%DB%8C%D9%BE%D8%A7%DA%A9%D8%B3-%D8%B4%D8%B9%D8%A8%D9%87-%D9%86%D9%88%D8%A7%D8%A8
+                - img "تیپاکس - شعبه نواب" [ref=e468]
+                - generic [ref=e469]:
+                  - heading "تیپاکس - شعبه نواب" [level=3] [ref=e470]
+                  - generic [ref=e471]:
+                    - generic [ref=e482]: "5.0"
+                    - generic [ref=e483]: (1 نظر)
+                  - list [ref=e484]:
+                    - listitem [ref=e485]: حمل و نقل بار
+                  - generic [ref=e486]: تهران، منطقه 10، محله امام خمینی، خیابان مرتضوی
+            - listitem [ref=e490]:
+              - link "تیپاکس - شعبه لاله پارک تبریز تیپاکس - شعبه لاله پارک تبریز 5.0 (1 نظر) حمل و نقل بار تبریز، شهرک باغمیشه" [ref=e491] [cursor=pointer]:
+                - /url: /profile/76365/%D8%AA%DB%8C%D9%BE%D8%A7%DA%A9%D8%B3-%D8%B4%D8%B9%D8%A8%D9%87-%D9%84%D8%A7%D9%84%D9%87-%D9%BE%D8%A7%D8%B1%DA%A9-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2
+                - img "تیپاکس - شعبه لاله پارک تبریز" [ref=e492]
+                - generic [ref=e493]:
+                  - heading "تیپاکس - شعبه لاله پارک تبریز" [level=3] [ref=e494]
+                  - generic [ref=e495]:
+                    - generic [ref=e506]: "5.0"
+                    - generic [ref=e507]: (1 نظر)
+                  - list [ref=e508]:
+                    - listitem [ref=e509]: حمل و نقل بار
+                  - generic [ref=e510]: تبریز، شهرک باغمیشه
+            - listitem [ref=e514]:
+              - link "تیپاکس - شعبه بلوار کویر کاشان تیپاکس - شعبه بلوار کویر کاشان 5.0 (1 نظر) حمل و نقل بار کاشان، بلوار مطهری" [ref=e515] [cursor=pointer]:
+                - /url: /profile/feb75/%D8%AA%DB%8C%D9%BE%D8%A7%DA%A9%D8%B3-%D8%B4%D8%B9%D8%A8%D9%87-%D8%A8%D9%84%D9%88%D8%A7%D8%B1-%DA%A9%D9%88%DB%8C%D8%B1-%DA%A9%D8%A7%D8%B4%D8%A7%D9%86
+                - img "تیپاکس - شعبه بلوار کویر کاشان" [ref=e516]
+                - generic [ref=e517]:
+                  - heading "تیپاکس - شعبه بلوار کویر کاشان" [level=3] [ref=e518]
+                  - generic [ref=e519]:
+                    - generic [ref=e530]: "5.0"
+                    - generic [ref=e531]: (1 نظر)
+                  - list [ref=e532]:
+                    - listitem [ref=e533]: حمل و نقل بار
+                  - generic [ref=e534]: کاشان، بلوار مطهری
+    - text: ✕ ✕
+  - contentinfo [ref=e538]:
+    - generic [ref=e539]:
+      - generic [ref=e540]:
+        - link "home page" [ref=e541] [cursor=pointer]:
+          - /url: /
+        - list [ref=e544]:
+          - listitem [ref=e545]:
+            - link "Telegram" [ref=e546] [cursor=pointer]:
+              - /url: https://t.me/avval_ir
+          - listitem [ref=e552]:
+            - link "instagram" [ref=e553] [cursor=pointer]:
+              - /url: https://instagram.com/ketabeavval.officialpage
+          - listitem [ref=e558]:
+            - link "Twitter" [ref=e559] [cursor=pointer]:
+              - /url: https://twitter.com/ketabeavvalir
+          - listitem [ref=e563]:
+            - link "Facebook" [ref=e564] [cursor=pointer]:
+              - /url: https://www.facebook.com/avval/
+          - listitem [ref=e568]:
+            - link "Linkedin" [ref=e569] [cursor=pointer]:
+              - /url: https://linkedin.com/company/ketabeavval/
+      - navigation [ref=e574]:
+        - generic [ref=e575]:
+          - generic [ref=e576]: درباره کتاب اول
+          - list [ref=e577]:
+            - listitem [ref=e578]:
+              - link "درباره کتاب اول" [ref=e579] [cursor=pointer]:
+                - /url: /about-ketabeavval
+            - listitem [ref=e580]:
+              - link "تماس با کتاب اول" [ref=e581] [cursor=pointer]:
+                - /url: /contact-us
+            - listitem [ref=e582]:
+              - link "شرایط استفاده" [ref=e583] [cursor=pointer]:
+                - /url: /terms-conditions
+            - listitem [ref=e584]:
+              - link "حریم شخضی" [ref=e585] [cursor=pointer]:
+                - /url: /privacy-policy
+        - generic [ref=e586]:
+          - generic [ref=e587]: کشف کنید
+          - list [ref=e588]:
+            - listitem [ref=e589]:
+              - link "دسته بندی مشاغل" [ref=e590] [cursor=pointer]:
+                - /url: /directory
+            - listitem [ref=e591]:
+              - link "نقشه سایت" [ref=e592] [cursor=pointer]:
+                - /url: /sitemap
+            - listitem [ref=e593]:
+              - link "دسترسی بانک مشاغل کتاب اول" [ref=e594] [cursor=pointer]:
+                - /url: /%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B4%D8%A7%D8%BA%D9%84-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+            - listitem [ref=e595]:
+              - link "پنل اس ام اس" [ref=e596] [cursor=pointer]:
+                - /url: /smspanel
+        - generic [ref=e597]:
+          - generic [ref=e598]: صاحبین مشاغل در کتاب اول
+          - list [ref=e599]:
+            - listitem [ref=e600]:
+              - link "ثبت اطلاعات شغلی" [ref=e601] [cursor=pointer]:
+                - /url: /%D8%AB%D8%A8%D8%AA-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D8%B4%D8%BA%D9%84%DB%8C
+            - listitem [ref=e602]:
+              - link "تبلیغات با کتاب اول" [ref=e603] [cursor=pointer]:
+                - /url: /%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-%D9%88%D8%A8-%D8%B3%D8%A7%DB%8C%D8%AA-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+    - generic [ref=e604]:
+      - img "samandehi logo" [ref=e606] [cursor=pointer]
+      - link "enamad logo" [ref=e608] [cursor=pointer]:
+        - /url: https://trustseal.enamad.ir/?id=194990&Code=3Y0m3d1djm9fuqjoC8mT
+        - img "logo-enamad" [ref=e609]
+    - generic [ref=e610]: 1373-1403 © تمامی حقوق برای شرکت کتاب اول محفوظ است
+  - text: ✕ *
+```

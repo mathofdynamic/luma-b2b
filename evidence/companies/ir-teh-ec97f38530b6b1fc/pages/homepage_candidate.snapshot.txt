@@ -1,0 +1,250 @@
+### Page
+- Page URL: https://btarai.com/
+- Page Title: Behineh Tarabar Azhour International Rail Transport
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=e3]:
+    - generic [ref=e7]:
+      - navigation "Menu" [ref=e10]:
+        - list [ref=e11]:
+          - listitem [ref=e12]:
+            - link "Company" [ref=e13] [cursor=pointer]:
+              - /url: https://btarai.com/about/
+          - listitem [ref=e14]:
+            - link "News" [ref=e15] [cursor=pointer]:
+              - /url: https://btarai.com/blog/
+          - listitem [ref=e16]:
+            - link "Careers" [ref=e17] [cursor=pointer]:
+              - /url: https://btarai.com/portfolio/
+      - link [ref=e21] [cursor=pointer]:
+        - /url: mailto:info@localhost
+      - paragraph [ref=e26]:
+        - link "info@btarai.com" [ref=e27] [cursor=pointer]:
+          - /url: mailto:info@btarai.com
+      - link [ref=e31] [cursor=pointer]:
+        - /url: tel:0061406253223
+      - paragraph [ref=e36]:
+        - link "+982188753609" [ref=e37] [cursor=pointer]:
+          - /url: tel:+982188753609
+      - link [ref=e41] [cursor=pointer]:
+        - /url: https://www.instagram.com/btazhour/
+      - link [ref=e47] [cursor=pointer]:
+        - /url: https://ir.linkedin.com/company/bt-azhour
+    - generic [ref=e51]:
+      - link [ref=e56] [cursor=pointer]:
+        - /url: https://btarai.com
+      - navigation "Menu" [ref=e61]:
+        - list [ref=e62]:
+          - listitem [ref=e63]:
+            - link "Home" [ref=e64] [cursor=pointer]:
+              - /url: https://btarai.com/
+          - listitem [ref=e65]:
+            - link "Services" [ref=e66] [cursor=pointer]:
+              - /url: https://btarai.com/services/
+          - listitem [ref=e67]:
+            - link "Latest News" [ref=e68] [cursor=pointer]:
+              - /url: https://btarai.com/blog/
+          - listitem [ref=e69]:
+            - link "Portfolio" [ref=e70] [cursor=pointer]:
+              - /url: https://btarai.com/portfolio/
+          - listitem [ref=e71]:
+            - link "About" [ref=e72] [cursor=pointer]:
+              - /url: https://btarai.com/about/
+          - listitem [ref=e73]:
+            - link "Contact" [ref=e74] [cursor=pointer]:
+              - /url: https://btarai.com/contact/
+          - listitem [ref=e75]:
+            - menuitem "English" [ref=e76] [cursor=pointer]
+  - main [ref=e83]:
+    - generic [ref=e85]:
+      - generic [ref=e90]:
+        - heading "BEHINEH TARABAR AZHOUR INTERNATIONAL RAIL TRANSPORT" [level=2] [ref=e94]
+        - paragraph [ref=e97]: Welcome to the BEHINEH TRABAR AZHOUR, your private and independent logistics provider. With our "railway logistic solutions" we are able to serve customers in a variety of areas. The activities of this company in the field of rail transportation, handing over wagons in the countries of Iran, Russia, Central Asia, Countries bordering the Baltic Sea, performing customs affairs, unloading and loading services and coordination, this company also benefits from the latest information in the field of commerce and rail transportation. you can rely on BTA to fully deliver trusted expertise, innovative solutions and supply chain optimization.
+        - link "Contact Us Now" [ref=e101] [cursor=pointer]:
+          - /url: https://btarai.com/contact/
+      - generic [ref=e113]:
+        - heading "Efficient Rail Logistics Solutions for Your Business" [level=2] [ref=e116]
+        - heading "Since the establishment of BTAzhour the focus of business activities has been the rail. Single wagonload traffic, transports in groups of wagons / trains and intermodal complete solutions play an important role with the involvement of terminal logistics. As a specialist for complete handling of the most demanding and complex transport and logistics solutions, we are there for you. So that you can concentrate on your core competencies." [level=6] [ref=e119]
+      - generic [ref=e122]:
+        - generic [ref=e124]:
+          - group "1 / 3"
+          - group "2 / 3"
+          - group "3 / 3"
+          - group "1 / 3" [ref=e125]
+          - group "2 / 3"
+          - group "3 / 3"
+          - group "1 / 3"
+          - group "2 / 3"
+          - group "3 / 3"
+        - generic [ref=e133]:
+          - heading "Optimize your supply chain" [level=3] [ref=e136]
+          - heading "BEHINEH TARABAR AZHOUR (BTAzhour) helps you optimize your supply chain by offering efficient and cost-effective railway logistics solutions. Our ambitious and dependable team comes with long standing experience and is specialized in railway logistics, our main business. By BTA you can increase the reliability of your logistics operations and ensure on-time delivery of your goods.. We are your choice for the complete transaction with most ambitious and evencomplexable transport and logistic solutions." [level=6] [ref=e139]: BEHINEH TARABAR AZHOUR (BTAzhour) helps you optimize your supply chain by offering efficient and cost-effective railway logistics solutions.Our ambitious and dependable team comes with long standing experience and is specialized in railway logistics, our main business. By BTA you can increase the reliability of your logistics operations and ensure on-time delivery of your goods.. We are your choice for the complete transaction with most ambitious and evencomplexable transport and logistic solutions.
+      - generic [ref=e145]:
+        - generic [ref=e147]:
+          - generic [ref=e149]:
+            - heading "Destinations" [level=3] [ref=e152]
+            - generic [ref=e153]: "0"
+            - heading "We've built the largest database of railway destinations and they are still growing." [level=6] [ref=e162]
+          - generic [ref=e164]:
+            - heading "Logistics" [level=3] [ref=e167]
+            - generic [ref=e168]: "0"
+            - heading "As a private and independent service provider, we work flexible and individually to implement logistical ideas." [level=6] [ref=e177]
+          - generic [ref=e179]:
+            - heading "Experiences" [level=3] [ref=e182]
+            - generic [ref=e183]: "0"
+            - heading "Years of services vary from the chartering of containers and railway wagons." [level=6] [ref=e192]
+        - generic [ref=e193]: Features & Benefits
+      - generic [ref=e205]:
+        - generic [ref=e207]:
+          - heading "Features" [level=3] [ref=e210]
+          - list [ref=e213]:
+            - listitem [ref=e214]:
+              - generic [ref=e218]: Efficient Rail Logistics Solutions
+            - listitem [ref=e219]:
+              - generic [ref=e223]: Reliable Customs Coordination
+            - listitem [ref=e224]:
+              - generic [ref=e228]: Seamless Unloading Services
+            - listitem [ref=e229]:
+              - generic [ref=e233]: Latest Information in Rail Transportation
+            - listitem [ref=e234]:
+              - generic [ref=e238]: Innovative Supply Chain Optimization
+        - generic [ref=e240]:
+          - heading "Benefits" [level=3] [ref=e243]
+          - list [ref=e246]:
+            - listitem [ref=e247]:
+              - generic [ref=e251]: Cost-effective Solutions
+            - listitem [ref=e252]:
+              - generic [ref=e256]: Streamlined Operations
+            - listitem [ref=e257]:
+              - generic [ref=e261]: Timely Delivery
+            - listitem [ref=e262]:
+              - generic [ref=e266]: Professional and Reliable Team
+            - listitem [ref=e267]:
+              - generic [ref=e271]: Sustainable Business Growth
+      - generic [ref=e284]:
+        - generic [ref=e286]:
+          - heading "Company / Company presentation" [level=3] [ref=e292]
+          - heading "BTA Co. introduces itself. Our company presentation can be downloaded here:" [level=6] [ref=e295]
+          - link "Company Presentation (PDF)" [ref=e299] [cursor=pointer]:
+            - /url: https://btarai.com/wp-content/uploads/2023/08/BTAzhour-LTD.pdf
+        - generic [ref=e303]:
+          - heading "Increase reliability and on-time delivery" [level=3] [ref=e306]
+          - heading "Providing customs, terminal, loading, etc. services at important border points and customs offices in Tehran, Yazd and Isfahan to destinations in Central Asian countries and Turkey." [level=6] [ref=e309]
+          - heading "Iran's railway has been one of the oldest and most used means of transportation in Iran and the region. In recent years, the development plans to connect important commercial points to Iran's nationwide railway have made the railway the first choice of companies, merchants and traders." [level=6] [ref=e312]
+          - heading "By attracting specialists and experts in the field of logistics and familiar with commerce and the Russian language, BTAzhour has established a continuous relationship with its commercial and foreign partners in Russia, Kazakhstan, Uzbekistan and Turkey." [level=6] [ref=e315]
+          - link "FIND OUT MORE" [ref=e319] [cursor=pointer]:
+            - /url: https://btarai.com/about/
+      - generic [ref=e325]:
+        - heading "Learn more about behineh tarabar azhour" [level=5] [ref=e330]
+        - paragraph [ref=e335]: The latest products, services, news and announcements from premier provider of rail services in Iran and nearby countries.
+      - generic [ref=e339]:
+        - generic [ref=e341]:
+          - generic [ref=e343]:
+            - heading "Railroad Logistics" [level=4] [ref=e348]
+            - heading "We provide reliable and cost-effective rail logistics solutions to meet your transportation needs." [level=6] [ref=e351]
+            - link "LEARN MORE " [ref=e354] [cursor=pointer]:
+              - /url: https://btarai.com/blog/
+              - text: LEARN MORE
+              - generic [ref=e355]: 
+          - generic [ref=e357]:
+            - heading "Customs Coordination" [level=4] [ref=e362]
+            - heading "We offer expert customs coordination services to ensure the seamless movement of your goods across borders." [level=6] [ref=e365]
+            - link "LEARN MORE " [ref=e368] [cursor=pointer]:
+              - /url: https://btarai.com/blog/
+              - text: LEARN MORE
+              - generic [ref=e369]: 
+          - generic [ref=e371]:
+            - heading "Unloading Services" [level=4] [ref=e376]
+            - heading "We offer a range of efficient unloading services to ensure the smooth flow of goods through the supply chain." [level=6] [ref=e379]
+            - link "LEARN MORE " [ref=e382] [cursor=pointer]:
+              - /url: https://btarai.com/blog/
+              - text: LEARN MORE
+              - generic [ref=e383]: 
+        - link "SEE MORE nEWS" [ref=e387] [cursor=pointer]:
+          - /url: https://btarai.com/blog
+      - generic [ref=e390]:
+        - heading "Streamline your logistics with BTAzhour" [level=4] [ref=e393]
+        - heading "Experience the efficiency of BTAzhour rail logistics" [level=5] [ref=e396]
+        - paragraph [ref=e399]: BTA provides innovative solutions to improve your transportation strategy and maximize efficiency in your logistics operations.Your trusted partner for efficient and reliable railway logistics solutions
+        - link "Click for more information" [ref=e403] [cursor=pointer]:
+          - /url: https://btarai.com/blog
+      - generic [ref=e407]:
+        - generic [ref=e409]:
+          - heading "Site Links" [level=3] [ref=e412]
+          - navigation "Menu" [ref=e415]:
+            - list [ref=e416]:
+              - listitem [ref=e417]:
+                - link "Home" [ref=e418] [cursor=pointer]:
+                  - /url: https://btarai.com/
+              - listitem [ref=e419]:
+                - link "About Us" [ref=e420] [cursor=pointer]:
+                  - /url: https://btarai.com/about/
+              - listitem [ref=e421]:
+                - link "Enquire" [ref=e422] [cursor=pointer]:
+                  - /url: "#link-popup"
+              - listitem [ref=e423]:
+                - link "News" [ref=e424] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e425]:
+                - link "Contact Us" [ref=e426] [cursor=pointer]:
+                  - /url: https://btarai.com/contact/
+        - generic [ref=e428]:
+          - heading "Quick Access" [level=3] [ref=e431]
+          - navigation "Menu" [ref=e434]:
+            - list [ref=e435]:
+              - listitem [ref=e436]:
+                - link "Company" [ref=e437] [cursor=pointer]:
+                  - /url: https://btarai.com/about/
+              - listitem [ref=e438]:
+                - link "News" [ref=e439] [cursor=pointer]:
+                  - /url: https://btarai.com/blog/
+              - listitem [ref=e440]:
+                - link "Careers" [ref=e441] [cursor=pointer]:
+                  - /url: https://btarai.com/portfolio/
+        - generic [ref=e445]:
+          - heading "Information" [level=3] [ref=e448]
+          - list [ref=e451]:
+            - listitem [ref=e452]:
+              - generic [ref=e456]: N0. 60, 5th Floor , Unit 9, Khoramshahr , North Sohrevardi Street, Tehran, Iran
+            - listitem [ref=e457]:
+              - link "info[@]btarai.com" [ref=e458] [cursor=pointer]:
+                - /url: mailto:info@btarai.com
+            - listitem [ref=e463]:
+              - link "+982188753609" [ref=e464] [cursor=pointer]:
+                - /url: tel:+982188753609
+          - link [ref=e472] [cursor=pointer]:
+            - /url: https://ir.linkedin.com/company/bt-azhour
+          - link [ref=e478] [cursor=pointer]:
+            - /url: https://www.instagram.com/btazhour/
+      - generic [ref=e482]:
+        - paragraph [ref=e487]: © Copyright 2022 Lux View Windows | Website Terms & Conditions | Privacy Policy
+        - generic [ref=e489]:
+          - paragraph [ref=e492]:
+            - link "Website by Nulynks" [ref=e493] [cursor=pointer]:
+              - /url: https://lynks.london
+          - link [ref=e496] [cursor=pointer]:
+            - /url: https://lynks.ir
+  - generic [ref=e506]:
+    - link "WhatsApp" [ref=e507] [cursor=pointer]:
+      - /url: /#whatsapp
+    - link "Telegram" [ref=e509] [cursor=pointer]:
+      - /url: /#telegram
+    - link "Email" [ref=e511] [cursor=pointer]:
+      - /url: /#email
+    - link "Share" [ref=e513] [cursor=pointer]:
+      - /url: https://www.addtoany.com/share#url=https%3A%2F%2Fbtarai.com%2F&title=Behineh%20Tarabar%20Azhour%20International%20Rail%20Transport
+  - generic [ref=e514]:
+    - link "WhatsApp" [ref=e515] [cursor=pointer]:
+      - /url: /#whatsapp
+    - link "Telegram" [ref=e517] [cursor=pointer]:
+      - /url: /#telegram
+    - link "Email" [ref=e519] [cursor=pointer]:
+      - /url: /#email
+    - link "Share" [ref=e521] [cursor=pointer]:
+      - /url: https://www.addtoany.com/share#url=https%3A%2F%2Fbtarai.com%2F&title=Behineh%20Tarabar%20Azhour%20International%20Rail%20Transport
+  - generic [ref=e522]: desktop
+  - paragraph [ref=e534] [cursor=pointer]: Contact us
+```

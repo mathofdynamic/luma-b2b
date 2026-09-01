@@ -1,0 +1,13 @@
+### Page
+- Page URL: https://www.fixpipeline.com/
+- Page Title: 403 Forbidden
+- HTTP status: 403
+- Console: 2 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - heading "Forbidden" [level=1] [ref=e2]
+  - paragraph [ref=e3]: You don't have permission to access this resource.
+```
+### Events
+- New console entries: .playwright-cli/console-2026-09-01T08-29-37-830Z.log#L2

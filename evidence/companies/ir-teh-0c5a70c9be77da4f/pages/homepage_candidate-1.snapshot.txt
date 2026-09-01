@@ -1,0 +1,6 @@
+### Browser `luma-b2b-ir-teh-0c5a70c9be77da4f-attempt-1` opened with pid 43854.
+### Error
+Error: net::ERR_HTTP_RESPONSE_CODE_FAILURE at http://www.asiasolar.co/
+Call log:
+[2m  - navigating to "http://www.asiasolar.co/", waiting until "domcontentloaded"[22m
+

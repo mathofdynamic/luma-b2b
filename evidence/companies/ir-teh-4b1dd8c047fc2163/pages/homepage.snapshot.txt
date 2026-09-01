@@ -1,0 +1,1677 @@
+د اولیه رنگ و رزین"
+          - generic: مواد اولیه رنگ و رزین
+          - text: 
+      - listitem:
+        - link "کود شیمیایی کود شیمیایی ":
+          - /url: https://spttrade.com/product-category/chemical-fertilizer/
+          - img "کود شیمیایی"
+          - generic: کود شیمیایی
+          - text: 
+      - listitem:
+        - link "مواد اولیه شیمی ساختمان مواد اولیه شیمی ساختمان ":
+          - /url: https://spttrade.com/product-category/construction-chemicals/
+          - img "مواد اولیه شیمی ساختمان"
+          - generic: مواد اولیه شیمی ساختمان
+          - text: 
+  - generic [ref=e7]:
+    - banner [ref=e8]:
+      - generic [ref=e9]:
+        - generic [ref=e12]:
+          - link "لوگوی وب سایت" [ref=e15] [cursor=pointer]:
+            - /url: https://spttrade.com/
+            - img "بازرگانی اسپوتا" [ref=e16]
+          - search [ref=e19]:
+            - textbox "جستجو" [ref=e20]:
+              - /placeholder: جستجوی محصولات
+            - text: 
+            - button "جستجو " [ref=e21] [cursor=pointer]:
+              - generic: جستجو
+              - text: 
+          - paragraph [ref=e27]:
+            - generic [ref=e28]:
+              - link "021-26415084‌‌" [ref=e29] [cursor=pointer]:
+                - /url: tel:02126415084
+              - link "0912-9533282" [ref=e30] [cursor=pointer]:
+                - /url: tel:09129533282
+          - text: 
+        - generic [ref=e33]:
+          - link "باز کردن منوی چسبان" [ref=e36] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e37]:
+              - generic [ref=e38]: 
+              - generic [ref=e39]: دسته‌بندی‌ها
+          - navigation "منوی اصلی" [ref=e41]:
+            - list [ref=e42]:
+              - listitem [ref=e43]:
+                - link "محصولات" [ref=e44] [cursor=pointer]:
+                  - /url: https://spttrade.com/shop/
+              - listitem [ref=e46]:
+                - link "برندها" [ref=e47] [cursor=pointer]:
+                  - /url: https://spttrade.com/brands/
+              - listitem [ref=e49]:
+                - link "پادکست‌ها" [ref=e50] [cursor=pointer]:
+                  - /url: https://spttrade.com/podcasts/
+              - listitem [ref=e52]:
+                - link "ثبت سفارش" [ref=e53] [cursor=pointer]:
+                  - /url: https://spttrade.com/order/
+              - listitem [ref=e55]:
+                - link "مقالات" [ref=e56] [cursor=pointer]:
+                  - /url: https://spttrade.com/blog/
+              - listitem [ref=e58]:
+                - link "تماس با ما" [ref=e59] [cursor=pointer]:
+                  - /url: https://spttrade.com/contact-us/
+              - listitem [ref=e61]:
+                - link "درباره ما" [ref=e62] [cursor=pointer]:
+                  - /url: https://spttrade.com/about-us/
+          - generic [ref=e65]:
+            - link "لینک ایمیل" [ref=e66] [cursor=pointer]:
+              - /url: mailto:?subject=Check%20this%20https://spttrade.com/
+              - generic [ref=e67]: 
+            - link "لینک اینستاگرام" [ref=e68] [cursor=pointer]:
+              - /url: https://www.instagram.com/spttrade/
+              - generic [ref=e69]: 
+            - link "WhatsApp social link" [ref=e70] [cursor=pointer]:
+              - /url: https://wa.me/+989129533282
+              - generic [ref=e71]: 
+            - text: 
+            - link "لینک تلگرام" [ref=e72] [cursor=pointer]:
+              - /url: https://t.me/Spoutatrading
+              - generic [ref=e73]: 
+          - text:  
+    - main [ref=e75]:
+      - generic [ref=e76]:
+        - generic [ref=e79]:
+          - region "Image Carousel" [ref=e82]:
+            - generic [ref=e83]:
+              - group [ref=e1739]:
+                - figure [ref=e1740]
+              - group "1 / 3" [ref=e1742]:
+                - figure [ref=e85]:
+                  - img "اسلایدر 2 - بازرگانی اسپوتا" [ref=e86]
+              - group [ref=e1743]:
+                - figure [ref=e88]
+              - group [ref=e1745]:
+                - figure [ref=e91]
+              - group [ref=e1747]:
+                - figure [ref=e1748]
+            - button "اسلاید قبلی" [ref=e1750] [cursor=pointer]:
+              - generic [ref=e94]: 
+            - button "اسلاید بعدی" [ref=e1751] [cursor=pointer]:
+              - generic [ref=e96]: 
+          - heading "بازرگانی اسپوتا" [level=1] [ref=e99]
+        - generic [ref=e102]:
+          - heading "دسته بندی محصولات اسپوتا" [level=2] [ref=e105]
+          - generic [ref=e109]:
+            - generic [ref=e111]:
+              - group "1 / 9" [ref=e112]:
+                - generic [ref=e114]:
+                  - link "مواد تصفیه آب" [ref=e116] [cursor=pointer]:
+                    - /url: https://spttrade.com/product-category/water-treatment-materials/
+                    - img "مواد تصفیه آب - بازرگانی اسپوتا" [ref=e117]
+                  - heading "مواد تصفیه آب" [level=3] [ref=e119]
+                  - link "دسته بندی محصول water-treatment-materials" [ref=e120] [cursor=pointer]:
+                    - /url: https://spttrade.com/product-category/water-treatment-materials/
+              - group "2 / 9" [ref=e121]:
+                - generic [ref=e123]:
+                  - link "تجهیزات تصفیه آب" [ref=e125] [cursor=pointer]:
+                    - /url: https://spttrade.com/product-category/water-treatment-equipment/
+                    - img "تجهیزات تصفیه آب" [ref=e126]
+                  - heading "تجهیزات تصفیه آب" [level=3] [ref=e128]
+                  - link "دسته بندی محصول water-treatment-equipment" [ref=e129] [cursor=pointer]:
+                    - /url: https://spttrade.com/product-category/water-treatment-equipment/
+              - group "3 / 9" [ref=e130]:
+                - generic [ref=e132]:
+                  - link "مواد شیمیایی" [ref=e134] [cursor=pointer]:
+                    - /url: https://spttrade.com/product-category/chemicals/
+                    - img "دسته بندی مواد شیمیایی صنعتی - بازرگانی اسپوتا" [ref=e135]
+                  - heading "مواد شیمیایی" [level=3] [ref=e137]
+                  - link "دسته بندی محصول chemicals" [ref=e138] [cursor=pointer]:
+                    - /url: https://spttrade.com/product-category/chemicals/
+              - group "4 / 9" [ref=e139]:
+                - generic [ref=e141]:
+                  - link "فرآورده‌ نفتی" [ref=e143] [cursor=pointer]:
+                    - /url: https://spttrade.com/product-category/petroleum/
+                    - img "مواد نفتی - بازرگانی اسپوتا" [ref=e144]
+                  - heading "فرآورده‌ نفتی" [level=3] [ref=e146]
+                  - link "دسته بندی محصول petroleum" [ref=e147] [cursor=pointer]:
+                    - /url: https://spttrade.com/product-category/petroleum/
+              - group "5 / 9" [ref=e148]:
+                - generic [ref=e150]:
+                  - link "پلیمر مهندسی" [ref=e152] [cursor=pointer]:
+                    - /url: https://spttrade.com/product-category/engineering-polymers/
+                    - img "پلیمر مهندسی - بازرگانی اسپوتا" [ref=e153]
+                  - heading "پلیمر مهندسی" [level=3] [ref=e155]
+                  - link "دسته بندی محصول engineering-polymers" [ref=e156] [cursor=pointer]:
+                    - /url: https://spttrade.com/product-category/engineering-polymers/
+              - group "6 / 9" [ref=e157]:
+                - generic [ref=e159]:
+                  - link "مواد جاذب رطوبت" [ref=e161] [cursor=pointer]:
+                    - /url: https://spttrade.com/product-category/absorbent-material/
+                    - img "مواد جاذب رطوبت - بازرگانی اسپوتا" [ref=e162]
+                  - heading "مواد جاذب رطوبت" [level=3] [ref=e164]
+                  - link "دسته بندی محصول absorbent-material" [ref=e165] [cursor=pointer]:
+                    - /url: https://spttrade.com/product-category/absorbent-material/
+              - group "7 / 9" [ref=e166]:
+                - generic [ref=e168]:
+                  - link "مواد اولیه رنگ و رزین" [ref=e170] [cursor=pointer]:
+                    - /url: https://spttrade.com/product-category/paint-resin-raw-material/
+                    - img "مواد اولیه رنگ و رزین - بازرگانی اسپوتا" [ref=e171]
+                  - heading "مواد اولیه رنگ و رزین" [level=3] [ref=e173]
+                  - link "دسته بندی محصول paint-resin-raw-material" [ref=e174] [cursor=pointer]:
+                    - /url: https://spttrade.com/product-category/paint-resin-raw-material/
+              - group "8 / 9" [ref=e175]:
+                - generic [ref=e177]:
+                  - link "کود شیمیایی" [ref=e179] [cursor=pointer]:
+                    - /url: https://spttrade.com/product-category/chemical-fertilizer/
+                    - img "کود شیمیایی - بازرگانی اسپوتا" [ref=e180]
+                  - heading "کود شیمیایی" [level=3] [ref=e182]
+                  - link "دسته بندی محصول chemical-fertilizer" [ref=e183] [cursor=pointer]:
+                    - /url: https://spttrade.com/product-category/chemical-fertilizer/
+              - group "9 / 9" [ref=e184]:
+                - generic [ref=e186]:
+                  - link "مواد پلیمری" [ref=e188] [cursor=pointer]:
+                    - /url: https://spttrade.com/product-category/polymer/
+                    - img "مواد پلیمری - بازرگانی اسپوتا" [ref=e189]
+                  - heading "مواد پلیمری" [level=3] [ref=e191]
+                  - link "دسته بندی محصول polymer" [ref=e192] [cursor=pointer]:
+                    - /url: https://spttrade.com/product-category/polymer/
+            - generic:
+              - button "Previous slide" [disabled]:
+                - generic: 
+              - button "Next slide" [disabled]:
+                - generic: 
+        - generic [ref=e195]:
+          - heading "گروه مواد تصفیه آب" [level=2] [ref=e198]
+          - generic [ref=e202]:
+            - generic [ref=e204]:
+              - group "1 / 7" [ref=e205]:
+                - generic [ref=e207]:
+                  - link "رزین تبادل یونی" [ref=e209] [cursor=pointer]:
+                    - /url: https://spttrade.com/product-category/ion-exchange-resin/
+                    - img "رزین پرولایت - بازرگانی اسپوتا" [ref=e210]
+                  - heading "رزین تبادل یونی" [level=3] [ref=e212]
+                  - link "دسته بندی محصول ion-exchange-resin" [ref=e213] [cursor=pointer]:
+                    - /url: https://spttrade.com/product-category/ion-exchange-resin/
+              - group "2 / 7" [ref=e214]:
+                - generic [ref=e216]:
+                  - link "ضد کف" [ref=e218] [cursor=pointer]:
+                    - /url: https://spttrade.com/product-category/antifoam/
+                    - img "ضد کف - بازرگانی اسپوتا" [ref=e219]
+                  - heading "ضد کف" [level=3] [ref=e221]
+                  - link "دسته بندی محصول antifoam" [ref=e222] [cursor=pointer]:
+                    - /url: https://spttrade.com/product-category/antifoam/
+              - group "3 / 7" [ref=e223]:
+                - generic [ref=e225]:
+                  - link "آنتی اسکالانت" [ref=e227] [cursor=pointer]:
+                    - /url: https://spttrade.com/product-category/antiscalant/
+                    - img "آنتی اسکالانت بازرگانی اسپوتا" [ref=e228]
+                  - heading "آنتی اسکالانت" [level=3] [ref=e230]
+                  - link "دسته بندی محصول antiscalant" [ref=e231] [cursor=pointer]:
+                    - /url: https://spttrade.com/product-category/antiscalant/
+              - group "4 / 7" [ref=e232]:
+                - generic [ref=e234]:
+                  - link "کربن فعال" [ref=e236] [cursor=pointer]:
+                    - /url: https://spttrade.com/product-category/activated-carbon/
+                    - img "کربن فعال بازرگانی اسپوتا" [ref=e237]
+                  - heading "کربن فعال" [level=3] [ref=e239]
+                  - link "دسته بندی محصول activated-carbon" [ref=e240] [cursor=pointer]:
+                    - /url: https://spttrade.com/product-category/activated-carbon/
+              - group "5 / 7" [ref=e241]:
+                - generic [ref=e243]:
+                  - link "رزین سختی گیر" [ref=e245] [cursor=pointer]:
+                    - /url: https://spttrade.com/product-category/cationic-resin/
+                    - img "رزین سختی گیر - بازرگانی اسپوتا" [ref=e246]
+                  - heading "رزین سختی گیر" [level=3] [ref=e248]
+                  - link "دسته بندی محصول cationic-resin" [ref=e249] [cursor=pointer]:
+                    - /url: https://spttrade.com/product-category/cationic-resin/
+              - group "6 / 7" [ref=e250]:
+                - generic [ref=e252]:
+                  - link "رزین میکس بد" [ref=e254] [cursor=pointer]:
+                    - /url: https://spttrade.com/product-category/mixed-bed-resin/
+                    - img "رزین میکس بد - بازرگانی اسپوتا" [ref=e255]
+                  - heading "رزین میکس بد" [level=3] [ref=e257]
+                  - link "دسته بندی محصول mixed-bed-resin" [ref=e258] [cursor=pointer]:
+                    - /url: https://spttrade.com/product-category/mixed-bed-resin/
+              - group "7 / 7" [ref=e259]:
+                - generic [ref=e261]:
+                  - link "پودر کلر" [ref=e263] [cursor=pointer]:
+                    - /url: https://spttrade.com/product-category/chlorine/
+                    - img "پودر کلر - بازرگانی اسپوتا" [ref=e264]
+                  - heading "پودر کلر" [level=3] [ref=e266]
+                  - link "دسته بندی محصول chlorine" [ref=e267] [cursor=pointer]:
+                    - /url: https://spttrade.com/product-category/chlorine/
+            - generic:
+              - button "Previous slide" [disabled]:
+                - generic: 
+              - button "Next slide" [disabled]:
+                - generic: 
+          - heading "گروه تجهیزات تصفیه آب" [level=2] [ref=e270]
+          - generic [ref=e273]:
+            - generic [ref=e274]:
+              - generic [ref=e276]:
+                - group "1 / 15" [ref=e277]:
+                  - generic [ref=e279]:
+                    - link "تجهیزات تصفیه آب" [ref=e281] [cursor=pointer]:
+                      - /url: https://spttrade.com/product-category/water-treatment-equipment/
+                      - img "تجهیزات تصفیه آب" [ref=e282]
+                    - heading "تجهیزات تصفیه آب" [level=3] [ref=e284]
+                    - link "دسته بندی محصول water-treatment-equipment" [ref=e285] [cursor=pointer]:
+                      - /url: https://spttrade.com/product-category/water-treatment-equipment/
+                - group "2 / 15" [ref=e286]:
+                  - generic [ref=e288]:
+                    - link "فیلتر ممبران" [ref=e290] [cursor=pointer]:
+                      - /url: https://spttrade.com/product-category/membrane-filter/
+                      - img "فیلتر ممبران - بازرگانی اسپوتا" [ref=e291]
+                    - heading "فیلتر ممبران" [level=3] [ref=e293]
+                    - link "دسته بندی محصول membrane-filter" [ref=e294] [cursor=pointer]:
+                      - /url: https://spttrade.com/product-category/membrane-filter/
+                - group "3 / 15" [ref=e295]:
+                  - generic [ref=e297]:
+                    - link "پمپ تزریق مواد شیمیایی" [ref=e299] [cursor=pointer]:
+                      - /url: https://spttrade.com/product-category/chemical-dosing-pump/
+                      - img "پمپ تزریق مواد شیمیایی - بازرگانی اسپوتا" [ref=e300]
+                    - heading "پمپ تزریق مواد شیمیایی" [level=3] [ref=e302]
+                    - link "دسته بندی محصول chemical-dosing-pump" [ref=e303] [cursor=pointer]:
+                      - /url: https://spttrade.com/product-category/chemical-dosing-pump/
+                - group "4 / 15" [ref=e304]:
+                  - generic [ref=e306]:
+                    - link "دستگاه تصفیه آب نیمه صنعتی" [ref=e308] [cursor=pointer]:
+                      - /url: https://spttrade.com/product-category/semi-industrial-water-purifier/
+                      - img "دستگاه تصفیه آب نیمه صنعتی - بازرگانی اسپوتا" [ref=e309]
+                    - heading "دستگاه تصفیه آب نیمه صنعتی" [level=3] [ref=e311]
+                    - link "دسته بندی محصول semi-industrial-water-purifier" [ref=e312] [cursor=pointer]:
+                      - /url: https://spttrade.com/product-category/semi-industrial-water-purifier/
+                - group "5 / 15" [ref=e313]:
+                  - generic [ref=e315]:
+                    - link "فیلتر ممبران صنعتی" [ref=e317] [cursor=pointer]:
+                      - /url: https://spttrade.com/product-category/industrial-membrane-filter/
+                      - img "فیلتر ممبران صنعتی - بازرگانی اسپوتا" [ref=e318]
+                    - heading "فیلتر ممبران صنعتی" [level=3] [ref=e320]
+                    - link "دسته بندی محصول industrial-membrane-filter" [ref=e321] [cursor=pointer]:
+                      - /url: https://spttrade.com/product-category/industrial-membrane-filter/
+                - group "6 / 15" [ref=e322]:
+                  - generic [ref=e324]:
+                    - link "فیلتر ممبران نیمه صنعتی" [ref=e326] [cursor=pointer]:
+                      - /url: https://spttrade.com/product-category/semi-industrial-membrane-filter/
+                      - img "فیلتر ممبران نیمه صنعتی - بازرگانی اسپوتا" [ref=e327]
+                    - heading "فیلتر ممبران نیمه صنعتی" [level=3] [ref=e329]
+                    - link "دسته بندی محصول semi-industrial-membrane-filter" [ref=e330] [cursor=pointer]:
+                      - /url: https://spttrade.com/product-category/semi-industrial-membrane-filter/
+                - group "7 / 15" [ref=e331]:
+                  - generic [ref=e333]:
+                    - link "فیلتر ممبران خانگی" [ref=e335] [cursor=pointer]:
+                      - /url: https://spttrade.com/product-category/homemade-membrane-filter/
+                      - img "فیلتر ممبران خانگی - بازرگانی اسپوتا" [ref=e336]
+                    - heading "فیلتر ممبران خانگی" [level=3] [ref=e338]
+                    - link "دسته بندی محصول homemade-membrane-filter" [ref=e339] [cursor=pointer]:
+                      - /url: https://spttrade.com/product-category/homemade-membrane-filter/
+                - group "8 / 15" [ref=e340]:
+                  - generic [ref=e342]:
+                    - link "دستگاه دیونایزر" [ref=e344] [cursor=pointer]:
+                      - /url: https://spttrade.com/product-category/water-deionizer/
+                      - img "دستگاه دیونایزر - بازرگانی اسپوتا" [ref=e345]
+                    - heading "دستگاه دیونایزر" [level=3] [ref=e347]
+                    - link "دسته بندی محصول water-deionizer" [ref=e348] [cursor=pointer]:
+                      - /url: https://spttrade.com/product-category/water-deionizer/
+                - group "9 / 15" [ref=e349]:
+                  - generic [ref=e351]:
+                    - link "شیر بای پس Bypass" [ref=e353] [cursor=pointer]:
+                      - /url: https://spttrade.com/product-category/bypass-valve/
+                      - img "شیر بای پس Bypass - بازرگانی اسپوتا" [ref=e354]
+                    - heading "شیر بای پس Bypass" [level=3] [ref=e356]
+                    - link "دسته بندی محصول bypass-valve" [ref=e357] [cursor=pointer]:
+                      - /url: https://spttrade.com/product-category/bypass-valve/
+                - group "10 / 15" [ref=e358]:
+                  - generic [ref=e360]:
+                    - link "شیر سختی گیر رزینی" [ref=e362] [cursor=pointer]:
+                      - /url: https://spttrade.com/product-category/softener-valve/
+                      - img "شیر سختی گیر رزینی - بازرگانی اسپوتا" [ref=e363]
+                    - heading "شیر سختی گیر رزینی" [level=3] [ref=e365]
+                    - link "دسته بندی محصول softener-valve" [ref=e366] [cursor=pointer]:
+                      - /url: https://spttrade.com/product-category/softener-valve/
+                - group "11 / 15" [ref=e367]:
+                  - generic [ref=e369]:
+                    - link "شیر سختی گیر نیمه اتوماتیک" [ref=e371] [cursor=pointer]:
+                      - /url: https://spttrade.com/product-category/semi-automatic-softener-valve/
+                      - img "شیر سختی گیر نیمه اتوماتیک - بازرگانی اسپوتا" [ref=e372]
+                    - heading "شیر سختی گیر نیمه اتوماتیک" [level=3] [ref=e374]
+                    - link "دسته بندی محصول semi-automatic-softener-valve" [ref=e375] [cursor=pointer]:
+                      - /url: https://spttrade.com/product-category/semi-automatic-softener-valve/
+                - group "12 / 15" [ref=e376]:
+                  - generic [ref=e378]:
+                    - link "شیر سولو ولو" [ref=e380] [cursor=pointer]:
+                      - /url: https://spttrade.com/product-category/solo-valve/
+                      - img "شیر سولو ولو | بازرگانی اسپوتا" [ref=e381]
+                    - heading "شیر سولو ولو" [level=3] [ref=e383]
+                    - link "دسته بندی محصول solo-valve" [ref=e384] [cursor=pointer]:
+                      - /url: https://spttrade.com/product-category/solo-valve/
+                - group "13 / 15" [ref=e385]:
+                  - generic [ref=e387]:
+                    - link "شیر سختی گیر اتوماتیک" [ref=e389] [cursor=pointer]:
+                      - /url: https://spttrade.com/product-category/automatic-softener-valve/
+                      - img "شیر سختی گیر اتوماتیک - بازرگانی اسپوتا" [ref=e390]
+                    - heading "شیر سختی گیر اتوماتیک" [level=3] [ref=e392]
+                    - link "دسته بندی محصول automatic-softener-valve" [ref=e393] [cursor=pointer]:
+                      - /url: https://spttrade.com/product-category/automatic-softener-valve/
+                - group "14 / 15" [ref=e394]:
+                  - generic [ref=e396]:
+                    - link "شیر اتوماتیک جریانی" [ref=e398] [cursor=pointer]:
+                      - /url: https://spttrade.com/product-category/flow-automatic-softener-valve/
+                      - img "شیر اتوماتیک جریانی رانکسین - بازرگانی اسپوتا" [ref=e399]
+                    - heading "شیر اتوماتیک جریانی" [level=3] [ref=e401]
+                    - link "دسته بندی محصول flow-automatic-softener-valve" [ref=e402] [cursor=pointer]:
+                      - /url: https://spttrade.com/product-category/flow-automatic-softener-valve/
+                - group "15 / 15" [ref=e403]:
+                  - generic [ref=e405]:
+                    - link "شیر اتوماتیک زمانی" [ref=e407] [cursor=pointer]:
+                      - /url: https://spttrade.com/product-category/time-automatic-softener-valve/
+                      - img "شیر اتوماتیک زمانی رانکسین - بازرگانی اسپوتا" [ref=e408]
+                    - heading "شیر اتوماتیک زمانی" [level=3] [ref=e410]
+                    - link "دسته بندی محصول time-automatic-softener-valve" [ref=e411] [cursor=pointer]:
+                      - /url: https://spttrade.com/product-category/time-automatic-softener-valve/
+              - generic:
+                - button "Previous slide":
+                  - generic: 
+                - button "Next slide":
+                  - generic: 
+            - list [ref=e413]:
+              - listitem "Go to slide 1" [ref=e414] [cursor=pointer]
+              - listitem "Go to slide 2" [ref=e416] [cursor=pointer]
+              - listitem "Go to slide 3" [ref=e418] [cursor=pointer]
+              - listitem "Go to slide 4" [ref=e420] [cursor=pointer]
+              - listitem "Go to slide 5" [ref=e422] [cursor=pointer]
+              - listitem "Go to slide 6" [ref=e424] [cursor=pointer]
+              - listitem "Go to slide 7" [ref=e426] [cursor=pointer]
+              - listitem "Go to slide 8" [ref=e428] [cursor=pointer]
+              - listitem "Go to slide 9" [ref=e430] [cursor=pointer]
+              - listitem "Go to slide 10" [ref=e432] [cursor=pointer]
+              - listitem "Go to slide 11" [ref=e434] [cursor=pointer]
+              - listitem "Go to slide 12" [ref=e436] [cursor=pointer]
+              - listitem "Go to slide 13" [ref=e438] [cursor=pointer]
+              - listitem "Go to slide 14" [ref=e440] [cursor=pointer]
+              - listitem "Go to slide 15" [ref=e442] [cursor=pointer]
+        - heading "در مسیر تجارت همراهتان هستیم، این تعهد ماست" [level=2] [ref=e449]
+        - generic [ref=e452]:
+          - heading "مواد شیمیایی صنعتی" [level=2] [ref=e457]
+          - generic [ref=e461]:
+            - generic [ref=e463]:
+              - group "1 / 5" [ref=e464]:
+                - generic [ref=e466]:
+                  - link "آلکیل بنزن خطی LAB" [ref=e468] [cursor=pointer]:
+                    - /url: https://spttrade.com/product/linear-alkylbenzene/
+                    - img "آلکیل بنزن خطی - بازرگانی اسپوتا" [ref=e469]
+                  - generic [ref=e470]:
+                    - heading [level=3] [ref=e471]:
+                      - link "آلکیل بنزن خطی LAB" [ref=e472] [cursor=pointer]:
+                        - /url: https://spttrade.com/product/linear-alkylbenzene/
+                    - generic [ref=e473]:
+                      - img "امتیاز 0 از 5" [ref=e474]:
+                        - text: 
+                        - generic:
+                          - text:  امتیاز
+                          - strong [ref=e475]: "0"
+                          - text: از 5
+                      - link "(0)" [ref=e476] [cursor=pointer]:
+                        - /url: https://spttrade.com/product/linear-alkylbenzene/#reviews
+                    - paragraph [ref=e477]: موجود در انبار
+                    - link "بیشتر بخوانید درباره “آلکیل بنزن خطی LAB”" [ref=e479] [cursor=pointer]:
+                      - /url: https://spttrade.com/product/linear-alkylbenzene/
+                      - text:  
+                      - generic [ref=e480]: اطلاعات بیشتر
+                    - generic [ref=e481]: "کد محصول: 15621"
+                    - generic: ": : : : : : : "
+              - group "2 / 5" [ref=e482]:
+                - generic [ref=e484]:
+                  - link "اتانول" [ref=e486] [cursor=pointer]:
+                    - /url: https://spttrade.com/product/ethanol/
+                    - img "اتانول - بازرگانی اسپوتا" [ref=e487]
+                  - generic [ref=e488]:
+                    - heading [level=3] [ref=e489]:
+                      - link "اتانول" [ref=e490] [cursor=pointer]:
+                        - /url: https://spttrade.com/product/ethanol/
+                    - generic [ref=e491]:
+                      - img "امتیاز 0 از 5" [ref=e492]:
+                        - text: 
+                        - generic:
+                          - text:  امتیاز
+                          - strong [ref=e493]: "0"
+                          - text: از 5
+                      - link "(0)" [ref=e494] [cursor=pointer]:
+                        - /url: https://spttrade.com/product/ethanol/#reviews
+                    - paragraph [ref=e495]: موجود در انبار
+                    - link "بیشتر بخوانید درباره “اتانول”" [ref=e497] [cursor=pointer]:
+                      - /url: https://spttrade.com/product/ethanol/
+                      - text:  
+                      - generic [ref=e498]: اطلاعات بیشتر
+                    - generic [ref=e499]: "کد محصول: 18332"
+                    - generic: ": : : : : : : : "
+              - group "3 / 5" [ref=e500]:
+                - generic [ref=e502]:
+                  - link "اسید استیک" [ref=e504] [cursor=pointer]:
+                    - /url: https://spttrade.com/product/acetic-acid/
+                    - img "اسید استیک فله - بازرگانی اسپوتا" [ref=e505]
+                  - generic [ref=e506]:
+                    - heading [level=3] [ref=e507]:
+                      - link "اسید استیک" [ref=e508] [cursor=pointer]:
+                        - /url: https://spttrade.com/product/acetic-acid/
+                    - generic [ref=e509]:
+                      - img "امتیاز 0 از 5" [ref=e510]:
+                        - text: 
+                        - generic:
+                          - text:  امتیاز
+                          - strong [ref=e511]: "0"
+                          - text: از 5
+                      - link "(0)" [ref=e512] [cursor=pointer]:
+                        - /url: https://spttrade.com/product/acetic-acid/#reviews
+                    - paragraph [ref=e513]: موجود در انبار
+                    - link "بیشتر بخوانید درباره “اسید استیک”" [ref=e515] [cursor=pointer]:
+                      - /url: https://spttrade.com/product/acetic-acid/
+                      - text:  
+                      - generic [ref=e516]: اطلاعات بیشتر
+                    - generic [ref=e517]: "کد محصول: 21576"
+                    - generic: 
+              - group "4 / 5" [ref=e518]:
+                - generic [ref=e520]:
+                  - link "اسید بوریک" [ref=e522] [cursor=pointer]:
+                    - /url: https://spttrade.com/product/boric-acid/
+                    - img "اسید بوریک - بازرگانی اسپوتا" [ref=e523]
+                  - generic [ref=e524]:
+                    - heading [level=3] [ref=e525]:
+                      - link "اسید بوریک" [ref=e526] [cursor=pointer]:
+                        - /url: https://spttrade.com/product/boric-acid/
+                    - generic [ref=e527]:
+                      - img "امتیاز 5.00 از 5" [ref=e528]:
+                        - text: 
+                        - generic [ref=e529]:
+                          - text:  امتیاز
+                          - strong [ref=e530]: "5.00"
+                          - text: از 5
+                      - link "(1)" [ref=e531] [cursor=pointer]:
+                        - /url: https://spttrade.com/product/boric-acid/#reviews
+                    - paragraph [ref=e532]: موجود در انبار
+                    - link "بیشتر بخوانید درباره “اسید بوریک”" [ref=e534] [cursor=pointer]:
+                      - /url: https://spttrade.com/product/boric-acid/
+                      - text:  
+                      - generic [ref=e535]: اطلاعات بیشتر
+                    - generic [ref=e536]: "کد محصول: 14624"
+                    - generic: ": : : : : : : : : : : "
+              - group "5 / 5" [ref=e537]:
+                - generic [ref=e539]:
+                  - link "اسید دیسکلر" [ref=e541] [cursor=pointer]:
+                    - /url: https://spttrade.com/product/acid-descaler/
+                    - img "اسید دیسکلر - بازرگانی اسپوتا" [ref=e542]
+                  - generic [ref=e543]:
+                    - heading [level=3] [ref=e544]:
+                      - link "اسید دیسکلر" [ref=e545] [cursor=pointer]:
+                        - /url: https://spttrade.com/product/acid-descaler/
+                    - generic [ref=e546]:
+                      - img "امتیاز 0 از 5" [ref=e547]:
+                        - text: 
+                        - generic:
+                          - text:  امتیاز
+                          - strong [ref=e548]: "0"
+                          - text: از 5
+                      - link "(0)" [ref=e549] [cursor=pointer]:
+                        - /url: https://spttrade.com/product/acid-descaler/#reviews
+                    - paragraph [ref=e550]: موجود در انبار
+                    - link "بیشتر بخوانید درباره “اسید دیسکلر”" [ref=e552] [cursor=pointer]:
+                      - /url: https://spttrade.com/product/acid-descaler/
+                      - text:  
+                      - generic [ref=e553]: اطلاعات بیشتر
+                    - generic [ref=e554]: "کد محصول: 19590"
+                    - generic: 
+            - generic:
+              - button "Previous slide" [disabled]:
+                - generic: 
+              - button "Next slide" [disabled]:
+                - generic: 
+          - link "همه محصولات chevron right primary" [ref=e558] [cursor=pointer]:
+            - /url: https://spttrade.com/product-category/chemicals/
+            - generic [ref=e559]: همه محصولات
+            - img "chevron right primary" [ref=e561]
+        - generic [ref=e563]:
+          - img "cation ion exchange resin spttrade 1" [ref=e571]
+          - generic [ref=e573]:
+            - heading "تجهیزات تصفیه آب" [level=2] [ref=e578]
+            - generic [ref=e581]:
+              - generic [ref=e582]:
+                - generic [ref=e584]:
+                  - group "1 / 12" [ref=e585]:
+                    - generic [ref=e587]:
+                      - link "آداپتور شیر سختی گیر" [ref=e589] [cursor=pointer]:
+                        - /url: https://spttrade.com/product/valve-adaptor/
+                        - img "آداپتور شیر سختی گیر" [ref=e590]
+                      - generic [ref=e591]:
+                        - heading [level=3] [ref=e592]:
+                          - link "آداپتور شیر سختی گیر" [ref=e593] [cursor=pointer]:
+                            - /url: https://spttrade.com/product/valve-adaptor/
+                        - generic [ref=e594]:
+                          - img "امتیاز 0 از 5" [ref=e595]:
+                            - text: 
+                            - generic:
+                              - text:  امتیاز
+                              - strong [ref=e596]: "0"
+                              - text: از 5
+                          - link "(0)" [ref=e597] [cursor=pointer]:
+                            - /url: https://spttrade.com/product/valve-adaptor/#reviews
+                        - paragraph [ref=e598]: موجود در انبار
+                        - link "بیشتر بخوانید درباره “آداپتور شیر سختی گیر”" [ref=e600] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/valve-adaptor/
+                          - text:  
+                          - generic [ref=e601]: اطلاعات بیشتر
+                        - generic [ref=e602]: "کد محصول: 20676"
+                        - generic: 
+                  - group "2 / 12" [ref=e603]:
+                    - generic [ref=e605]:
+                      - link "بلوئر هوادهی" [ref=e607] [cursor=pointer]:
+                        - /url: https://spttrade.com/product/%d8%a8%d9%84%d9%88%d8%a6%d8%b1-%d9%87%d9%88%d8%a7%d8%af%d9%87%db%8c/
+                        - img "بلوئر هوادهی تصفیه آب و فاضلاب" [ref=e608]
+                      - generic [ref=e609]:
+                        - heading [level=3] [ref=e610]:
+                          - link "بلوئر هوادهی" [ref=e611] [cursor=pointer]:
+                            - /url: https://spttrade.com/product/%d8%a8%d9%84%d9%88%d8%a6%d8%b1-%d9%87%d9%88%d8%a7%d8%af%d9%87%db%8c/
+                        - generic [ref=e612]:
+                          - img "امتیاز 0 از 5" [ref=e613]:
+                            - text: 
+                            - generic:
+                              - text:  امتیاز
+                              - strong [ref=e614]: "0"
+                              - text: از 5
+                          - link "(0)" [ref=e615] [cursor=pointer]:
+                            - /url: https://spttrade.com/product/%d8%a8%d9%84%d9%88%d8%a6%d8%b1-%d9%87%d9%88%d8%a7%d8%af%d9%87%db%8c/#reviews
+                        - paragraph [ref=e616]: موجود در انبار
+                        - link "بیشتر بخوانید درباره “بلوئر هوادهی”" [ref=e618] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/%d8%a8%d9%84%d9%88%d8%a6%d8%b1-%d9%87%d9%88%d8%a7%d8%af%d9%87%db%8c/
+                          - text:  
+                          - generic [ref=e619]: اطلاعات بیشتر
+                        - generic [ref=e620]: "کد محصول: 4410"
+                        - generic: 
+                  - group "3 / 12" [ref=e621]:
+                    - generic [ref=e623]:
+                      - link "پرشر وسل | وسل ممبران" [ref=e625] [cursor=pointer]:
+                        - /url: https://spttrade.com/product/%d9%be%d8%b1%d8%b4%d8%b1%d9%88%d8%b3%d9%84/
+                        - img "خرید پرشر وسل + لیست قیمت" [ref=e626]
+                      - generic [ref=e627]:
+                        - heading [level=3] [ref=e628]:
+                          - link "پرشر وسل | وسل ممبران" [ref=e629] [cursor=pointer]:
+                            - /url: https://spttrade.com/product/%d9%be%d8%b1%d8%b4%d8%b1%d9%88%d8%b3%d9%84/
+                        - generic [ref=e630]:
+                          - img "امتیاز 0 از 5" [ref=e631]:
+                            - text: 
+                            - generic:
+                              - text:  امتیاز
+                              - strong [ref=e632]: "0"
+                              - text: از 5
+                          - link "(0)" [ref=e633] [cursor=pointer]:
+                            - /url: https://spttrade.com/product/%d9%be%d8%b1%d8%b4%d8%b1%d9%88%d8%b3%d9%84/#reviews
+                        - paragraph [ref=e634]: موجود در انبار
+                        - link "بیشتر بخوانید درباره “پرشر وسل | وسل ممبران”" [ref=e636] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/%d9%be%d8%b1%d8%b4%d8%b1%d9%88%d8%b3%d9%84/
+                          - text:  
+                          - generic [ref=e637]: اطلاعات بیشتر
+                        - generic [ref=e638]: "کد محصول: 2804"
+                        - generic: 
+                  - group "4 / 12" [ref=e639]:
+                    - generic [ref=e641]:
+                      - link "پمپ تزریق اتاترون ETATRON" [ref=e643] [cursor=pointer]:
+                        - /url: https://spttrade.com/product/etatron-dosing-pump/
+                        - img "پمپ تزریق اتاترون ETATRON - بازرگانی اسپوتا" [ref=e644]
+                      - generic [ref=e645]:
+                        - heading [level=3] [ref=e646]:
+                          - link "پمپ تزریق اتاترون ETATRON" [ref=e647] [cursor=pointer]:
+                            - /url: https://spttrade.com/product/etatron-dosing-pump/
+                        - generic [ref=e648]:
+                          - img "امتیاز 5.00 از 5" [ref=e649]:
+                            - text: 
+                            - generic [ref=e650]:
+                              - text:  امتیاز
+                              - strong [ref=e651]: "5.00"
+                              - text: از 5
+                          - link "(2)" [ref=e652] [cursor=pointer]:
+                            - /url: https://spttrade.com/product/etatron-dosing-pump/#reviews
+                        - paragraph [ref=e653]: موجود در انبار
+                        - link "بیشتر بخوانید درباره “پمپ تزریق اتاترون ETATRON”" [ref=e655] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/etatron-dosing-pump/
+                          - text:  
+                          - generic [ref=e656]: اطلاعات بیشتر
+                        - generic [ref=e657]: "کد محصول: 16078"
+                        - generic: 
+                  - group "5 / 12" [ref=e658]:
+                    - generic [ref=e660]:
+                      - link "پمپ تزریق سکو SEKO" [ref=e662] [cursor=pointer]:
+                        - /url: https://spttrade.com/product/seko-dosing-pump/
+                        - img "پمپ تزریق سکو SEKO - بازرگانی اسپوتا" [ref=e663]
+                      - generic [ref=e664]:
+                        - heading [level=3] [ref=e665]:
+                          - link "پمپ تزریق سکو SEKO" [ref=e666] [cursor=pointer]:
+                            - /url: https://spttrade.com/product/seko-dosing-pump/
+                        - generic [ref=e667]:
+                          - img "امتیاز 5.00 از 5" [ref=e668]:
+                            - text: 
+                            - generic [ref=e669]:
+                              - text:  امتیاز
+                              - strong [ref=e670]: "5.00"
+                              - text: از 5
+                          - link "(1)" [ref=e671] [cursor=pointer]:
+                            - /url: https://spttrade.com/product/seko-dosing-pump/#reviews
+                        - paragraph [ref=e672]: موجود در انبار
+                        - link "بیشتر بخوانید درباره “پمپ تزریق سکو SEKO”" [ref=e674] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/seko-dosing-pump/
+                          - text:  
+                          - generic [ref=e675]: اطلاعات بیشتر
+                        - generic [ref=e676]: "کد محصول: 16082"
+                        - generic: ": "
+                  - group "6 / 12" [ref=e677]:
+                    - generic [ref=e679]:
+                      - link "پمپ تزریق مواد شیمیایی" [ref=e681] [cursor=pointer]:
+                        - /url: https://spttrade.com/product/%d9%be%d9%85%d9%be-%d8%aa%d8%b2%d8%b1%db%8c%d9%82-%d9%85%d9%88%d8%a7%d8%af-%d8%b4%db%8c%d9%85%db%8c%d8%a7%db%8c%db%8c/
+                        - img "پمپ تزریق مواد شیمیایی" [ref=e682]
+                      - generic [ref=e683]:
+                        - heading [level=3] [ref=e684]:
+                          - link "پمپ تزریق مواد شیمیایی" [ref=e685] [cursor=pointer]:
+                            - /url: https://spttrade.com/product/%d9%be%d9%85%d9%be-%d8%aa%d8%b2%d8%b1%db%8c%d9%82-%d9%85%d9%88%d8%a7%d8%af-%d8%b4%db%8c%d9%85%db%8c%d8%a7%db%8c%db%8c/
+                        - generic [ref=e686]:
+                          - img "امتیاز 5.00 از 5" [ref=e687]:
+                            - text: 
+                            - generic [ref=e688]:
+                              - text:  امتیاز
+                              - strong [ref=e689]: "5.00"
+                              - text: از 5
+                          - link "(1)" [ref=e690] [cursor=pointer]:
+                            - /url: https://spttrade.com/product/%d9%be%d9%85%d9%be-%d8%aa%d8%b2%d8%b1%db%8c%d9%82-%d9%85%d9%88%d8%a7%d8%af-%d8%b4%db%8c%d9%85%db%8c%d8%a7%db%8c%db%8c/#reviews
+                        - paragraph [ref=e691]: موجود در انبار
+                        - link "بیشتر بخوانید درباره “پمپ تزریق مواد شیمیایی”" [ref=e693] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/%d9%be%d9%85%d9%be-%d8%aa%d8%b2%d8%b1%db%8c%d9%82-%d9%85%d9%88%d8%a7%d8%af-%d8%b4%db%8c%d9%85%db%8c%d8%a7%db%8c%db%8c/
+                          - text:  
+                          - generic [ref=e694]: اطلاعات بیشتر
+                        - generic [ref=e695]: "کد محصول: 2704"
+                        - generic: 
+                  - group "7 / 12" [ref=e696]:
+                    - generic [ref=e698]:
+                      - link "دستگاه TDS متر مدل TDS-03" [ref=e700] [cursor=pointer]:
+                        - /url: https://spttrade.com/product/tds-03/
+                        - img "دستگاه TDS متر مدل TDS-03 - بازرگانی اسپوتا" [ref=e701]
+                      - generic [ref=e702]:
+                        - heading [level=3] [ref=e703]:
+                          - link "دستگاه TDS متر مدل TDS-03" [ref=e704] [cursor=pointer]:
+                            - /url: https://spttrade.com/product/tds-03/
+                        - generic [ref=e705]:
+                          - img "امتیاز 0 از 5" [ref=e706]:
+                            - text: 
+                            - generic:
+                              - text:  امتیاز
+                              - strong [ref=e707]: "0"
+                              - text: از 5
+                          - link "(0)" [ref=e708] [cursor=pointer]:
+                            - /url: https://spttrade.com/product/tds-03/#reviews
+                        - paragraph [ref=e709]: موجود در انبار
+                        - link "بیشتر بخوانید درباره “دستگاه TDS متر مدل TDS-03”" [ref=e711] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/tds-03/
+                          - text:  
+                          - generic [ref=e712]: اطلاعات بیشتر
+                        - generic [ref=e713]: "کد محصول: 21582"
+                        - generic: 
+                  - group "8 / 12" [ref=e714]:
+                    - generic [ref=e716]:
+                      - link "دستگاه تصفیه آب نیمه صنعتی" [ref=e718] [cursor=pointer]:
+                        - /url: https://spttrade.com/product/semi-industrial-water-purifier/
+                        - img "دستگاه تصفیه آب نیمه صنعتی | بازرگانی اسپوتا" [ref=e719]
+                      - generic [ref=e720]:
+                        - heading [level=3] [ref=e721]:
+                          - link "دستگاه تصفیه آب نیمه صنعتی" [ref=e722] [cursor=pointer]:
+                            - /url: https://spttrade.com/product/semi-industrial-water-purifier/
+                        - generic [ref=e723]:
+                          - img "امتیاز 0 از 5" [ref=e724]:
+                            - text: 
+                            - generic:
+                              - text:  امتیاز
+                              - strong [ref=e725]: "0"
+                              - text: از 5
+                          - link "(0)" [ref=e726] [cursor=pointer]:
+                            - /url: https://spttrade.com/product/semi-industrial-water-purifier/#reviews
+                        - paragraph [ref=e727]: موجود در انبار
+                        - link "بیشتر بخوانید درباره “دستگاه تصفیه آب نیمه صنعتی”" [ref=e729] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/semi-industrial-water-purifier/
+                          - text:  
+                          - generic [ref=e730]: اطلاعات بیشتر
+                        - generic [ref=e731]: "کد محصول: 5418"
+                        - generic: 
+                  - group "9 / 12" [ref=e732]:
+                    - generic [ref=e734]:
+                      - link "دستگاه تصفیه آب نیمه صنعتی 1200 گالن" [ref=e736] [cursor=pointer]:
+                        - /url: https://spttrade.com/product/1200-gallon-semi-industrial-water-purifier/
+                        - img "دستگاه تصفیه آب نیمه صنعتی 1200 گالن - بازرگانی اسپوتا" [ref=e737]
+                      - generic [ref=e738]:
+                        - heading [level=3] [ref=e739]:
+                          - link "دستگاه تصفیه آب نیمه صنعتی 1200 گالن" [ref=e740] [cursor=pointer]:
+                            - /url: https://spttrade.com/product/1200-gallon-semi-industrial-water-purifier/
+                        - generic [ref=e741]:
+                          - img "امتیاز 5.00 از 5" [ref=e742]:
+                            - text: 
+                            - generic [ref=e743]:
+                              - text:  امتیاز
+                              - strong [ref=e744]: "5.00"
+                              - text: از 5
+                          - link "(1)" [ref=e745] [cursor=pointer]:
+                            - /url: https://spttrade.com/product/1200-gallon-semi-industrial-water-purifier/#reviews
+                        - paragraph [ref=e746]: موجود در انبار
+                        - link "بیشتر بخوانید درباره “دستگاه تصفیه آب نیمه صنعتی 1200 گالن”" [ref=e748] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/1200-gallon-semi-industrial-water-purifier/
+                          - text:  
+                          - generic [ref=e749]: اطلاعات بیشتر
+                        - generic [ref=e750]: "کد محصول: 16683"
+                        - generic: ": : : : : : : : : : : : : : "
+                  - group "10 / 12" [ref=e751]:
+                    - generic [ref=e753]:
+                      - link "دستگاه تصفیه آب نیمه صنعتی 1600 گالن" [ref=e755] [cursor=pointer]:
+                        - /url: https://spttrade.com/product/1600-gallon-semi-industrial-water-purifier/
+                        - img "دستگاه تصفیه آب نیمه صنعتی 1600 گالن - بازرگانی اسپوتا" [ref=e756]
+                      - generic [ref=e757]:
+                        - heading [level=3] [ref=e758]:
+                          - link "دستگاه تصفیه آب نیمه صنعتی 1600 گالن" [ref=e759] [cursor=pointer]:
+                            - /url: https://spttrade.com/product/1600-gallon-semi-industrial-water-purifier/
+                        - generic [ref=e760]:
+                          - img "امتیاز 5.00 از 5" [ref=e761]:
+                            - text: 
+                            - generic [ref=e762]:
+                              - text:  امتیاز
+                              - strong [ref=e763]: "5.00"
+                              - text: از 5
+                          - link "(1)" [ref=e764] [cursor=pointer]:
+                            - /url: https://spttrade.com/product/1600-gallon-semi-industrial-water-purifier/#reviews
+                        - paragraph [ref=e765]: موجود در انبار
+                        - link "بیشتر بخوانید درباره “دستگاه تصفیه آب نیمه صنعتی 1600 گالن”" [ref=e767] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/1600-gallon-semi-industrial-water-purifier/
+                          - text:  
+                          - generic [ref=e768]: اطلاعات بیشتر
+                        - generic [ref=e769]: "کد محصول: 16685"
+                        - generic: ": : : : : : : : : : : : : : "
+                  - group "11 / 12" [ref=e770]:
+                    - generic [ref=e772]:
+                      - link "دستگاه تصفیه آب نیمه صنعتی 2000 گالن" [ref=e774] [cursor=pointer]:
+                        - /url: https://spttrade.com/product/2000-gallon-semi-industrial-water-purifier/
+                        - img "2000 gallon semi industrial water purifier spttrade 1" [ref=e775]
+                      - generic [ref=e776]:
+                        - heading [level=3] [ref=e777]:
+                          - link "دستگاه تصفیه آب نیمه صنعتی 2000 گالن" [ref=e778] [cursor=pointer]:
+                            - /url: https://spttrade.com/product/2000-gallon-semi-industrial-water-purifier/
+                        - generic [ref=e779]:
+                          - img "امتیاز 5.00 از 5" [ref=e780]:
+                            - text: 
+                            - generic [ref=e781]:
+                              - text:  امتیاز
+                              - strong [ref=e782]: "5.00"
+                              - text: از 5
+                          - link "(1)" [ref=e783] [cursor=pointer]:
+                            - /url: https://spttrade.com/product/2000-gallon-semi-industrial-water-purifier/#reviews
+                        - paragraph [ref=e784]: موجود در انبار
+                        - link "بیشتر بخوانید درباره “دستگاه تصفیه آب نیمه صنعتی 2000 گالن”" [ref=e786] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/2000-gallon-semi-industrial-water-purifier/
+                          - text:  
+                          - generic [ref=e787]: اطلاعات بیشتر
+                        - generic [ref=e788]: "کد محصول: 16684"
+                        - generic: ": : : : : : : : : : : : : : "
+                  - group "12 / 12" [ref=e789]:
+                    - generic [ref=e791]:
+                      - link "دستگاه تصفیه آب نیمه صنعتی 800 گالن" [ref=e793] [cursor=pointer]:
+                        - /url: https://spttrade.com/product/800-gallon-semi-industrial-water-purifier/
+                        - img "دستگاه تصفیه آب نیمه صنعتی 800 گالن - بازرگانی اسپوتا" [ref=e794]
+                      - generic [ref=e795]:
+                        - heading [level=3] [ref=e796]:
+                          - link "دستگاه تصفیه آب نیمه صنعتی 800 گالن" [ref=e797] [cursor=pointer]:
+                            - /url: https://spttrade.com/product/800-gallon-semi-industrial-water-purifier/
+                        - generic [ref=e798]:
+                          - img "امتیاز 5.00 از 5" [ref=e799]:
+                            - text: 
+                            - generic [ref=e800]:
+                              - text:  امتیاز
+                              - strong [ref=e801]: "5.00"
+                              - text: از 5
+                          - link "(1)" [ref=e802] [cursor=pointer]:
+                            - /url: https://spttrade.com/product/800-gallon-semi-industrial-water-purifier/#reviews
+                        - paragraph [ref=e803]: موجود در انبار
+                        - link "بیشتر بخوانید درباره “دستگاه تصفیه آب نیمه صنعتی 800 گالن”" [ref=e805] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/800-gallon-semi-industrial-water-purifier/
+                          - text:  
+                          - generic [ref=e806]: اطلاعات بیشتر
+                        - generic [ref=e807]: "کد محصول: 16682"
+                        - generic: ": : : : : : : : : : : : : : "
+                - generic:
+                  - button "Previous slide":
+                    - generic: 
+                  - button "Next slide":
+                    - generic: 
+              - list [ref=e809]:
+                - listitem "Go to slide 1" [ref=e810] [cursor=pointer]
+                - listitem "Go to slide 2" [ref=e812] [cursor=pointer]
+                - listitem "Go to slide 3" [ref=e814] [cursor=pointer]
+            - link "همه محصولات chevron right primary" [ref=e819] [cursor=pointer]:
+              - /url: https://spttrade.com/product-category/water-treatment-equipment/
+              - generic [ref=e820]: همه محصولات
+              - img "chevron right primary" [ref=e822]
+        - generic [ref=e826]:
+          - generic [ref=e827]:
+            - heading "فروش ویژه کربن فعال خوراکی" [level=2] [ref=e830]
+            - paragraph [ref=e833]: با مجوز مصرف از سازمان غذا و دارو
+            - generic [ref=e835]:
+              - paragraph [ref=e836]: ویژه کارخانجات تولید روغن، شرکت‌های داروسازی، صنایع مواد غذایی
+              - paragraph [ref=e837]: مشاوره تخصصی و عرضه بدون واسطه
+              - paragraph [ref=e838]: "هم اکنون تماس بگیرید: 09129533282 – 02126415084"
+          - generic [ref=e839]:
+            - img "جشنواره فروش کربن فعال" [ref=e843]
+            - heading "کربن اکتیو خوراکی" [level=3] [ref=e846]
+        - generic [ref=e848]:
+          - generic [ref=e849]:
+            - heading "مواد تصفیه آب" [level=2] [ref=e854]
+            - link "همه محصولات chevron right primary" [ref=e858] [cursor=pointer]:
+              - /url: https://spttrade.com/product-category/water-treatment-materials/
+              - generic [ref=e859]: همه محصولات
+              - img "chevron right primary" [ref=e861]
+          - generic [ref=e864]:
+            - generic [ref=e865]:
+              - generic [ref=e867]:
+                - group "1 / 12" [ref=e868]:
+                  - generic [ref=e870]:
+                    - link "آب اکسیژنه" [ref=e872] [cursor=pointer]:
+                      - /url: https://spttrade.com/product/hydrogen-peroxide/
+                      - img "آب اکسیژنه هیدروژن پراکسید - بازرگانی اسپوتا" [ref=e873]
+                    - generic [ref=e874]:
+                      - heading [level=3] [ref=e875]:
+                        - link "آب اکسیژنه" [ref=e876] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/hydrogen-peroxide/
+                      - generic [ref=e877]:
+                        - img "امتیاز 0 از 5" [ref=e878]:
+                          - text: 
+                          - generic:
+                            - text:  امتیاز
+                            - strong [ref=e879]: "0"
+                            - text: از 5
+                        - link "(0)" [ref=e880] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/hydrogen-peroxide/#reviews
+                      - paragraph [ref=e881]: موجود در انبار
+                      - link "بیشتر بخوانید درباره “آب اکسیژنه”" [ref=e883] [cursor=pointer]:
+                        - /url: https://spttrade.com/product/hydrogen-peroxide/
+                        - text:  
+                        - generic [ref=e884]: اطلاعات بیشتر
+                      - generic [ref=e885]: "کد محصول: 21427"
+                      - generic: 
+                - group "2 / 12" [ref=e886]:
+                  - generic [ref=e888]:
+                    - link "آنتراسیت" [ref=e890] [cursor=pointer]:
+                      - /url: https://spttrade.com/product/anthracite/
+                      - img "محصول آنتراسیت" [ref=e891]
+                    - generic [ref=e892]:
+                      - heading [level=3] [ref=e893]:
+                        - link "آنتراسیت" [ref=e894] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/anthracite/
+                      - generic [ref=e895]:
+                        - img "امتیاز 5.00 از 5" [ref=e896]:
+                          - text: 
+                          - generic [ref=e897]:
+                            - text:  امتیاز
+                            - strong [ref=e898]: "5.00"
+                            - text: از 5
+                        - link "(1)" [ref=e899] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/anthracite/#reviews
+                      - paragraph [ref=e900]: موجود در انبار
+                      - link "بیشتر بخوانید درباره “آنتراسیت”" [ref=e902] [cursor=pointer]:
+                        - /url: https://spttrade.com/product/anthracite/
+                        - text:  
+                        - generic [ref=e903]: اطلاعات بیشتر
+                      - generic [ref=e904]: "کد محصول: 5442"
+                      - generic: 
+                - group "3 / 12" [ref=e905]:
+                  - generic [ref=e907]:
+                    - link "آنتی اسکالانت آویستا" [ref=e909] [cursor=pointer]:
+                      - /url: https://spttrade.com/product/avista-anti-scalant/
+                      - img "آنتی اسکالانت آویستا" [ref=e910]
+                    - generic [ref=e911]:
+                      - heading [level=3] [ref=e912]:
+                        - link "آنتی اسکالانت آویستا" [ref=e913] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/avista-anti-scalant/
+                      - generic [ref=e914]:
+                        - img "امتیاز 5.00 از 5" [ref=e915]:
+                          - text: 
+                          - generic [ref=e916]:
+                            - text:  امتیاز
+                            - strong [ref=e917]: "5.00"
+                            - text: از 5
+                        - link "(3)" [ref=e918] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/avista-anti-scalant/#reviews
+                      - paragraph [ref=e919]: موجود در انبار
+                      - link "بیشتر بخوانید درباره “آنتی اسکالانت آویستا”" [ref=e921] [cursor=pointer]:
+                        - /url: https://spttrade.com/product/avista-anti-scalant/
+                        - text:  
+                        - generic [ref=e922]: اطلاعات بیشتر
+                      - generic [ref=e923]: "کد محصول: 5663"
+                      - generic: 
+                - group "4 / 12" [ref=e924]:
+                  - generic [ref=e926]:
+                    - link "آنتی اسکالانت جنسیس" [ref=e928] [cursor=pointer]:
+                      - /url: https://spttrade.com/product/genesys-anti-scalant/
+                      - img "آنتی اسکالانت جنسیس بازرگانی اسپوتا" [ref=e929]
+                    - generic [ref=e930]:
+                      - heading [level=3] [ref=e931]:
+                        - link "آنتی اسکالانت جنسیس" [ref=e932] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/genesys-anti-scalant/
+                      - generic [ref=e933]:
+                        - img "امتیاز 5.00 از 5" [ref=e934]:
+                          - text: 
+                          - generic [ref=e935]:
+                            - text:  امتیاز
+                            - strong [ref=e936]: "5.00"
+                            - text: از 5
+                        - link "(2)" [ref=e937] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/genesys-anti-scalant/#reviews
+                      - paragraph [ref=e938]: موجود در انبار
+                      - link "بیشتر بخوانید درباره “آنتی اسکالانت جنسیس”" [ref=e940] [cursor=pointer]:
+                        - /url: https://spttrade.com/product/genesys-anti-scalant/
+                        - text:  
+                        - generic [ref=e941]: اطلاعات بیشتر
+                      - generic [ref=e942]: "کد محصول: 5760"
+                      - generic: ": "
+                - group "5 / 12" [ref=e943]:
+                  - generic [ref=e945]:
+                    - link "آنتی اسکالانت فلوکن 190" [ref=e947] [cursor=pointer]:
+                      - /url: https://spttrade.com/product/flucon-190-anti-scalant/
+                      - img "آنتی اسکالانت فلوکن 190 بازرگانی اسپوتا" [ref=e948]
+                    - generic [ref=e949]:
+                      - heading [level=3] [ref=e950]:
+                        - link "آنتی اسکالانت فلوکن 190" [ref=e951] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/flucon-190-anti-scalant/
+                      - generic [ref=e952]:
+                        - img "امتیاز 5.00 از 5" [ref=e953]:
+                          - text: 
+                          - generic [ref=e954]:
+                            - text:  امتیاز
+                            - strong [ref=e955]: "5.00"
+                            - text: از 5
+                        - link "(2)" [ref=e956] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/flucon-190-anti-scalant/#reviews
+                      - paragraph [ref=e957]: موجود در انبار
+                      - link "بیشتر بخوانید درباره “آنتی اسکالانت فلوکن 190”" [ref=e959] [cursor=pointer]:
+                        - /url: https://spttrade.com/product/flucon-190-anti-scalant/
+                        - text:  
+                        - generic [ref=e960]: اطلاعات بیشتر
+                      - generic [ref=e961]: "کد محصول: 5695"
+                      - generic: ": "
+                - group "6 / 12" [ref=e962]:
+                  - generic [ref=e964]:
+                    - link "آنتی اسکالانت فلوکن 260" [ref=e966] [cursor=pointer]:
+                      - /url: https://spttrade.com/product/antiscalant-flocon-260/
+                      - img "آنتی اسکالانت فلوکن 260" [ref=e967]
+                    - generic [ref=e968]:
+                      - heading [level=3] [ref=e969]:
+                        - link "آنتی اسکالانت فلوکن 260" [ref=e970] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/antiscalant-flocon-260/
+                      - generic [ref=e971]:
+                        - img "امتیاز 5.00 از 5" [ref=e972]:
+                          - text: 
+                          - generic [ref=e973]:
+                            - text:  امتیاز
+                            - strong [ref=e974]: "5.00"
+                            - text: از 5
+                        - link "(3)" [ref=e975] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/antiscalant-flocon-260/#reviews
+                      - paragraph [ref=e976]: موجود در انبار
+                      - link "بیشتر بخوانید درباره “آنتی اسکالانت فلوکن 260”" [ref=e978] [cursor=pointer]:
+                        - /url: https://spttrade.com/product/antiscalant-flocon-260/
+                        - text:  
+                        - generic [ref=e979]: اطلاعات بیشتر
+                      - generic [ref=e980]: "کد محصول: 5545"
+                      - generic: ": "
+                - group "7 / 12" [ref=e981]:
+                  - generic [ref=e983]:
+                    - link "پلی الکترولیت" [ref=e985] [cursor=pointer]:
+                      - /url: https://spttrade.com/product/%d9%be%d9%84%db%8c-%d8%a7%d9%84%da%a9%d8%aa%d8%b1%d9%88%d9%84%db%8c%d8%aa/
+                      - img "پلی الکترولیت بازرگانی اسپوتا" [ref=e986]
+                    - generic [ref=e987]:
+                      - heading [level=3] [ref=e988]:
+                        - link "پلی الکترولیت" [ref=e989] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/%d9%be%d9%84%db%8c-%d8%a7%d9%84%da%a9%d8%aa%d8%b1%d9%88%d9%84%db%8c%d8%aa/
+                      - generic [ref=e990]:
+                        - img "امتیاز 5.00 از 5" [ref=e991]:
+                          - text: 
+                          - generic [ref=e992]:
+                            - text:  امتیاز
+                            - strong [ref=e993]: "5.00"
+                            - text: از 5
+                        - link "(2)" [ref=e994] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/%d9%be%d9%84%db%8c-%d8%a7%d9%84%da%a9%d8%aa%d8%b1%d9%88%d9%84%db%8c%d8%aa/#reviews
+                      - paragraph [ref=e995]: موجود در انبار
+                      - link "بیشتر بخوانید درباره “پلی الکترولیت”" [ref=e997] [cursor=pointer]:
+                        - /url: https://spttrade.com/product/%d9%be%d9%84%db%8c-%d8%a7%d9%84%da%a9%d8%aa%d8%b1%d9%88%d9%84%db%8c%d8%aa/
+                        - text:  
+                        - generic [ref=e998]: اطلاعات بیشتر
+                      - generic [ref=e999]: "کد محصول: 2272"
+                      - generic: 
+                - group "8 / 12" [ref=e1000]:
+                  - generic [ref=e1002]:
+                    - link "خاک دیاتومه" [ref=e1004] [cursor=pointer]:
+                      - /url: https://spttrade.com/product/diatomaceous-earth/
+                      - img "خاک دیاتومه | خاک دیاتومیت" [ref=e1005]
+                    - generic [ref=e1006]:
+                      - heading [level=3] [ref=e1007]:
+                        - link "خاک دیاتومه" [ref=e1008] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/diatomaceous-earth/
+                      - generic [ref=e1009]:
+                        - img "امتیاز 4.50 از 5" [ref=e1010]:
+                          - text: 
+                          - generic [ref=e1011]:
+                            - text:  امتیاز
+                            - strong [ref=e1012]: "4.50"
+                            - text: از 5
+                        - link "(2)" [ref=e1013] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/diatomaceous-earth/#reviews
+                      - paragraph [ref=e1014]: موجود در انبار
+                      - link "بیشتر بخوانید درباره “خاک دیاتومه”" [ref=e1016] [cursor=pointer]:
+                        - /url: https://spttrade.com/product/diatomaceous-earth/
+                        - text:  
+                        - generic [ref=e1017]: اطلاعات بیشتر
+                      - generic [ref=e1018]: "کد محصول: 3245"
+                      - generic: 
+                - group "9 / 12" [ref=e1019]:
+                  - generic [ref=e1021]:
+                    - link "رزین آنیونی" [ref=e1023] [cursor=pointer]:
+                      - /url: https://spttrade.com/product/%d8%b1%d8%b2%db%8c%d9%86-%d8%a2%d9%86%db%8c%d9%88%d9%86%db%8c/
+                      - img "‌رزین آنیونی (Anionic resin)" [ref=e1024]
+                    - generic [ref=e1025]:
+                      - heading [level=3] [ref=e1026]:
+                        - link "رزین آنیونی" [ref=e1027] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/%d8%b1%d8%b2%db%8c%d9%86-%d8%a2%d9%86%db%8c%d9%88%d9%86%db%8c/
+                      - generic [ref=e1028]:
+                        - img "امتیاز 5.00 از 5" [ref=e1029]:
+                          - text: 
+                          - generic [ref=e1030]:
+                            - text:  امتیاز
+                            - strong [ref=e1031]: "5.00"
+                            - text: از 5
+                        - link "(4)" [ref=e1032] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/%d8%b1%d8%b2%db%8c%d9%86-%d8%a2%d9%86%db%8c%d9%88%d9%86%db%8c/#reviews
+                      - paragraph [ref=e1033]: موجود در انبار
+                      - link "بیشتر بخوانید درباره “رزین آنیونی”" [ref=e1035] [cursor=pointer]:
+                        - /url: https://spttrade.com/product/%d8%b1%d8%b2%db%8c%d9%86-%d8%a2%d9%86%db%8c%d9%88%d9%86%db%8c/
+                        - text:  
+                        - generic [ref=e1036]: اطلاعات بیشتر
+                      - generic [ref=e1037]: "کد محصول: 2299"
+                      - generic: ": "
+                - group "10 / 12" [ref=e1038]:
+                  - generic [ref=e1040]:
+                    - link "رزین پرولایت Purolite C150H" [ref=e1042] [cursor=pointer]:
+                      - /url: https://spttrade.com/product/purolite-c150h/
+                      - img "رزین پرولایت Purolite C150H - بازرگانی اسپوتا" [ref=e1043]
+                    - generic [ref=e1044]:
+                      - heading [level=3] [ref=e1045]:
+                        - link "رزین پرولایت Purolite C150H" [ref=e1046] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/purolite-c150h/
+                      - generic [ref=e1047]:
+                        - img "امتیاز 0 از 5" [ref=e1048]:
+                          - text: 
+                          - generic:
+                            - text:  امتیاز
+                            - strong [ref=e1049]: "0"
+                            - text: از 5
+                        - link "(0)" [ref=e1050] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/purolite-c150h/#reviews
+                      - paragraph [ref=e1051]: موجود در انبار
+                      - link "بیشتر بخوانید درباره “رزین پرولایت Purolite C150H”" [ref=e1053] [cursor=pointer]:
+                        - /url: https://spttrade.com/product/purolite-c150h/
+                        - text:  
+                        - generic [ref=e1054]: اطلاعات بیشتر
+                      - generic [ref=e1055]: "کد محصول: 22010"
+                      - generic: 
+                - group "11 / 12" [ref=e1056]:
+                  - generic [ref=e1058]:
+                    - link "رزین پرولایت Purolite PFC100H" [ref=e1060] [cursor=pointer]:
+                      - /url: https://spttrade.com/product/purolite-pfc100h/
+                      - img "رزین پرولایت Purolite PFC100H - بازرگانی اسپوتا" [ref=e1061]
+                    - generic [ref=e1062]:
+                      - heading [level=3] [ref=e1063]:
+                        - link "رزین پرولایت Purolite PFC100H" [ref=e1064] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/purolite-pfc100h/
+                      - generic [ref=e1065]:
+                        - img "امتیاز 0 از 5" [ref=e1066]:
+                          - text: 
+                          - generic:
+                            - text:  امتیاز
+                            - strong [ref=e1067]: "0"
+                            - text: از 5
+                        - link "(0)" [ref=e1068] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/purolite-pfc100h/#reviews
+                      - paragraph [ref=e1069]: موجود در انبار
+                      - link "بیشتر بخوانید درباره “رزین پرولایت Purolite PFC100H”" [ref=e1071] [cursor=pointer]:
+                        - /url: https://spttrade.com/product/purolite-pfc100h/
+                        - text:  
+                        - generic [ref=e1072]: اطلاعات بیشتر
+                      - generic [ref=e1073]: "کد محصول: 22014"
+                      - generic: 
+                - group "12 / 12" [ref=e1074]:
+                  - generic [ref=e1076]:
+                    - link "رزین پرولایت مدل C100E" [ref=e1078] [cursor=pointer]:
+                      - /url: https://spttrade.com/product/purolite-c100e/
+                      - img "رزین پرولایت مدل C100E - بازرگانی اسپوتا" [ref=e1079]
+                    - generic [ref=e1080]:
+                      - heading [level=3] [ref=e1081]:
+                        - link "رزین پرولایت مدل C100E" [ref=e1082] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/purolite-c100e/
+                      - generic [ref=e1083]:
+                        - img "امتیاز 0 از 5" [ref=e1084]:
+                          - text: 
+                          - generic:
+                            - text:  امتیاز
+                            - strong [ref=e1085]: "0"
+                            - text: از 5
+                        - link "(0)" [ref=e1086] [cursor=pointer]:
+                          - /url: https://spttrade.com/product/purolite-c100e/#reviews
+                      - paragraph [ref=e1087]: موجود در انبار
+                      - link "بیشتر بخوانید درباره “رزین پرولایت مدل C100E”" [ref=e1089] [cursor=pointer]:
+                        - /url: https://spttrade.com/product/purolite-c100e/
+                        - text:  
+                        - generic [ref=e1090]: اطلاعات بیشتر
+                      - generic [ref=e1091]: "کد محصول: 21263"
+                      - generic: ": : : : : : : : : : : : : : "
+              - generic:
+                - button "Previous slide":
+                  - generic: 
+                - button "Next slide":
+                  - generic: 
+            - list [ref=e1093]:
+              - listitem "Go to slide 1" [ref=e1094] [cursor=pointer]
+              - listitem "Go to slide 2" [ref=e1096] [cursor=pointer]
+              - listitem "Go to slide 3" [ref=e1098] [cursor=pointer]
+        - generic [ref=e1102]:
+          - heading "محصولات پر فروش" [level=2] [ref=e1107]
+          - generic [ref=e1111]:
+            - generic [ref=e1113]:
+              - group "1 / 9" [ref=e1114]:
+                - link "فرمالین 37 درصد" [ref=e1119] [cursor=pointer]:
+                  - /url: https://spttrade.com/product/%d9%81%d8%b1%d9%85%d8%a7%d9%84%db%8c%d9%86/
+                  - img "فرمالین 37 درصد - بازرگانی اسپوتا" [ref=e1120]
+              - group "2 / 9" [ref=e1121]:
+                - link "سود پرک" [ref=e1126] [cursor=pointer]:
+                  - /url: https://spttrade.com/product/caustic-soda-flakes/
+                  - img "سود پرک 98 درصد - بازرگانی اسپوتا" [ref=e1127]
+              - group "3 / 9" [ref=e1128]:
+                - link "آنتی اسکالانت فلوکن 260" [ref=e1133] [cursor=pointer]:
+                  - /url: https://spttrade.com/product/antiscalant-flocon-260/
+                  - img "آنتی اسکالانت فلوکن 260" [ref=e1134]
+              - group "4 / 9" [ref=e1135]:
+                - link "پلی استال FM090" [ref=e1140] [cursor=pointer]:
+                  - /url: https://spttrade.com/product/pom-fm090/
+                  - img "پلی استال FM090 - بازرگانی اسپوتا" [ref=e1141]
+              - group "5 / 9" [ref=e1142]:
+                - link "پلی کربنات PC 1100U" [ref=e1147] [cursor=pointer]:
+                  - /url: https://spttrade.com/product/pc-1100u/
+                  - img "پلی کربنات PC 1100U - بازرگانی اسپوتا" [ref=e1148]
+              - group "6 / 9" [ref=e1149]:
+                - link "کربن اکتیو جاکوبی 1000" [ref=e1154] [cursor=pointer]:
+                  - /url: https://spttrade.com/product/jacobi-aquasorb-1000/
+                  - img "کربن اکتیو جاکوبی 1000 بازرگانی اسپوتا" [ref=e1155]
+              - group "7 / 9" [ref=e1156]:
+                - link "ترموپلاستیک پلی یورتان TPU" [ref=e1161] [cursor=pointer]:
+                  - /url: https://spttrade.com/product/tpu/
+                  - img "ترموپلاستیک پلی یورتان TPU - بازرگانی اسپوتا" [ref=e1162]
+              - group "8 / 9" [ref=e1163]:
+                - link "پارافرمالدهید" [ref=e1168] [cursor=pointer]:
+                  - /url: https://spttrade.com/product/paraformaldehyde/
+                  - img "پارافرمالدهید - بازرگانی اسپوتا" [ref=e1169]
+              - group "9 / 9" [ref=e1170]:
+                - link "رزین پرولایت مدل C100E" [ref=e1175] [cursor=pointer]:
+                  - /url: https://spttrade.com/product/purolite-c100e/
+                  - img "رزین پرولایت مدل C100E - بازرگانی اسپوتا" [ref=e1176]
+            - generic:
+              - button "Previous slide":
+                - generic: 
+              - button "Next slide":
+                - generic: 
+        - heading "مقالات اخیر اسپوتا" [level=2] [ref=e1184]
+        - generic [ref=e1190]:
+          - generic [ref=e1193]:
+            - group "1 / 12" [ref=e1194]:
+              - article [ref=e1195]:
+                - generic [ref=e1197]:
+                  - time [ref=e1200]: 09 شهریور 1405
+                  - heading [level=3] [ref=e1201]:
+                    - link "سود پرک چیست؟" [ref=e1202] [cursor=pointer]:
+                      - /url: https://spttrade.com/caustic-soda/
+            - group "2 / 12" [ref=e1203]:
+              - article [ref=e1204]:
+                - generic [ref=e1205]:
+                  - generic [ref=e1206]:
+                    - img "آنتی اسکالانت چیست؟ - بازرگانی اسپوتا" [ref=e1208]
+                    - link "لینک در نوشته آنتی اسکالانت چیست" [ref=e1209] [cursor=pointer]:
+                      - /url: https://spttrade.com/antiscalant/
+                  - generic [ref=e1210]:
+                    - time [ref=e1213]: 15 مرداد 1405
+                    - heading [level=3] [ref=e1214]:
+                      - link "آنتی اسکالانت چیست" [ref=e1215] [cursor=pointer]:
+                        - /url: https://spttrade.com/antiscalant/
+            - group "3 / 12" [ref=e1216]:
+              - article [ref=e1217]:
+                - generic [ref=e1218]:
+                  - generic [ref=e1219]:
+                    - img "کربن فعال گرانولی GAC" [ref=e1221]
+                    - link "لینک در نوشته کربن فعال گرانولی GAC" [ref=e1222] [cursor=pointer]:
+                      - /url: https://spttrade.com/granular-activated-carbon/
+                  - generic [ref=e1223]:
+                    - time [ref=e1226]: 13 مرداد 1405
+                    - heading [level=3] [ref=e1227]:
+                      - link "کربن فعال گرانولی GAC" [ref=e1228] [cursor=pointer]:
+                        - /url: https://spttrade.com/granular-activated-carbon/
+            - group "4 / 12" [ref=e1229]:
+              - article [ref=e1230]:
+                - generic [ref=e1231]:
+                  - generic [ref=e1232]:
+                    - img "کربن اکتیو خوراکی بازرگانی اسپوتا" [ref=e1234]
+                    - link "لینک در نوشته کربن فعال خوراکی" [ref=e1235] [cursor=pointer]:
+                      - /url: https://spttrade.com/food-grade-activated-carbon/
+                  - generic [ref=e1236]:
+                    - time [ref=e1239]: 06 مرداد 1405
+                    - heading [level=3] [ref=e1240]:
+                      - link "کربن فعال خوراکی" [ref=e1241] [cursor=pointer]:
+                        - /url: https://spttrade.com/food-grade-activated-carbon/
+            - group "5 / 12" [ref=e1242]:
+              - article [ref=e1243]:
+                - generic [ref=e1244]:
+                  - generic [ref=e1245]:
+                    - img "کربن فعال پودری چیست؟" [ref=e1247]
+                    - link "لینک در نوشته کربن فعال پودری" [ref=e1248] [cursor=pointer]:
+                      - /url: https://spttrade.com/powdered-activated-carbon/
+                  - generic [ref=e1249]:
+                    - time [ref=e1252]: 05 مرداد 1405
+                    - heading [level=3] [ref=e1253]:
+                      - link "کربن فعال پودری" [ref=e1254] [cursor=pointer]:
+                        - /url: https://spttrade.com/powdered-activated-carbon/
+            - group "6 / 12" [ref=e1255]:
+              - article [ref=e1256]:
+                - generic [ref=e1257]:
+                  - generic [ref=e1258]:
+                    - img "کربن فعال چیست؟ - بازرگانی اسپوتا" [ref=e1260]
+                    - link "لینک در نوشته کربن فعال چیست؟" [ref=e1261] [cursor=pointer]:
+                      - /url: https://spttrade.com/activated-carbon/
+                  - generic [ref=e1262]:
+                    - time [ref=e1265]: 03 مرداد 1405
+                    - heading [level=3] [ref=e1266]:
+                      - link "کربن فعال چیست؟" [ref=e1267] [cursor=pointer]:
+                        - /url: https://spttrade.com/activated-carbon/
+            - group "7 / 12" [ref=e1268]:
+              - article [ref=e1269]:
+                - generic [ref=e1270]:
+                  - generic [ref=e1271]:
+                    - img "هیدروژن پراکسید در کشاورزی - بازرگانی اسپوتا" [ref=e1273]
+                    - link "لینک در نوشته هیدروژن پراکسید در کشاورزی" [ref=e1274] [cursor=pointer]:
+                      - /url: https://spttrade.com/hydrogen-peroxide-agriculture/
+                  - generic [ref=e1275]:
+                    - time [ref=e1278]: 31 اردیبهشت 1405
+                    - heading [level=3] [ref=e1279]:
+                      - link "هیدروژن پراکسید در کشاورزی" [ref=e1280] [cursor=pointer]:
+                        - /url: https://spttrade.com/hydrogen-peroxide-agriculture/
+            - group "8 / 12" [ref=e1281]:
+              - article [ref=e1282]:
+                - generic [ref=e1283]:
+                  - generic [ref=e1284]:
+                    - img "تنظیم پرشر سوئیچ پمپ آب - بازرگانی اسپوتا" [ref=e1286]
+                    - link "لینک در نوشته تنظیم پرشر سوئیچ پمپ آب" [ref=e1287] [cursor=pointer]:
+                      - /url: https://spttrade.com/adjusting-the-water-switch-pressure/
+                  - generic [ref=e1288]:
+                    - time [ref=e1291]: 26 اردیبهشت 1405
+                    - heading [level=3] [ref=e1292]:
+                      - link "تنظیم پرشر سوئیچ پمپ آب" [ref=e1293] [cursor=pointer]:
+                        - /url: https://spttrade.com/adjusting-the-water-switch-pressure/
+            - group "9 / 12" [ref=e1294]:
+              - article [ref=e1295]:
+                - generic [ref=e1296]:
+                  - generic [ref=e1297]:
+                    - img "نحوه استفاده از پودر کلر برای ضدعفونی - بازرگانی اسپوتا" [ref=e1299]
+                    - link "لینک در نوشته نحوه استفاده از پودر کلر برای ضدعفونی" [ref=e1300] [cursor=pointer]:
+                      - /url: https://spttrade.com/how-to-use-chlorine-powder-for-desinfection/
+                  - generic [ref=e1301]:
+                    - time [ref=e1304]: 23 اردیبهشت 1405
+                    - heading [level=3] [ref=e1305]:
+                      - link "نحوه استفاده از پودر کلر برای ضدعفونی" [ref=e1306] [cursor=pointer]:
+                        - /url: https://spttrade.com/how-to-use-chlorine-powder-for-desinfection/
+            - group "10 / 12" [ref=e1307]:
+              - article [ref=e1308]:
+                - generic [ref=e1309]:
+                  - generic [ref=e1310]:
+                    - img "روش تهیه اسید استیک - بازرگانی اسپوتا" [ref=e1312]
+                    - link "لینک در نوشته روش تهیه اسید استیک" [ref=e1313] [cursor=pointer]:
+                      - /url: https://spttrade.com/how-to-make-acetic-acid/
+                  - generic [ref=e1314]:
+                    - time [ref=e1317]: 22 اردیبهشت 1405
+                    - heading [level=3] [ref=e1318]:
+                      - link "روش تهیه اسید استیک" [ref=e1319] [cursor=pointer]:
+                        - /url: https://spttrade.com/how-to-make-acetic-acid/
+            - group "11 / 12" [ref=e1320]:
+              - article [ref=e1321]:
+                - generic [ref=e1322]:
+                  - generic [ref=e1323]:
+                    - img "کاربرد هیدروژن پراکسید ( آب اکسیژنه) در سفید کردن دندان - بازرگانی اسپوتا" [ref=e1325]
+                    - link "لینک در نوشته سفید کردن دندان با هیدروژن پراکسید" [ref=e1326] [cursor=pointer]:
+                      - /url: https://spttrade.com/teeth-whitening-with-hydrogen-peroxide/
+                  - generic [ref=e1327]:
+                    - time [ref=e1330]: 13 اردیبهشت 1405
+                    - heading [level=3] [ref=e1331]:
+                      - link "سفید کردن دندان با هیدروژن پراکسید" [ref=e1332] [cursor=pointer]:
+                        - /url: https://spttrade.com/teeth-whitening-with-hydrogen-peroxide/
+            - group "12 / 12" [ref=e1333]:
+              - article [ref=e1334]:
+                - generic [ref=e1335]:
+                  - generic [ref=e1336]:
+                    - img "پلی آمید در لباس" [ref=e1338]
+                    - link "لینک در نوشته کاربرد پلی آمید در لباس" [ref=e1339] [cursor=pointer]:
+                      - /url: https://spttrade.com/polyamide-in-clothing/
+                  - generic [ref=e1340]:
+                    - time [ref=e1343]: 29 آبان 1404
+                    - heading [level=3] [ref=e1344]:
+                      - link "کاربرد پلی آمید در لباس" [ref=e1345] [cursor=pointer]:
+                        - /url: https://spttrade.com/polyamide-in-clothing/
+          - list [ref=e1347]:
+            - listitem "Go to slide 1" [ref=e1348] [cursor=pointer]
+            - listitem "Go to slide 2" [ref=e1350] [cursor=pointer]
+            - listitem "Go to slide 3" [ref=e1352] [cursor=pointer]
+        - generic [ref=e1356]:
+          - heading "برند محصولات" [level=2] [ref=e1359]
+          - generic [ref=e1365]:
+            - group "1 / 14" [ref=e1366]:
+              - img "برند آویستا - بازرگانی اسپوتا" [ref=e1370]
+            - group "2 / 14" [ref=e1372]:
+              - generic [ref=e1373]:
+                - img "برند پرولایت - بازرگانی اسپوتا" [ref=e1376]
+                - link "لینک بنر" [ref=e1377] [cursor=pointer]:
+                  - /url: https://spttrade.com/brand/purolite/
+            - group "3 / 14" [ref=e1378]:
+              - generic [ref=e1379]:
+                - img "برند جاکوبی - بازرگانی اسپوتا" [ref=e1382]
+                - link "لینک بنر" [ref=e1383] [cursor=pointer]:
+                  - /url: https://spttrade.com/brand/jacobi/
+            - group "4 / 14" [ref=e1384]:
+              - generic [ref=e1385]:
+                - img "برند جنسیس - بازرگانی اسپوتا" [ref=e1388]
+                - link "لینک بنر" [ref=e1389] [cursor=pointer]:
+                  - /url: https://spttrade.com/brand/genesys/
+            - group "5 / 14" [ref=e1390]:
+              - generic [ref=e1391]:
+                - img "برند فلوکن - بازرگانی اسپوتا" [ref=e1394]
+                - link "لینک بنر" [ref=e1395] [cursor=pointer]:
+                  - /url: https://spttrade.com/brand/flocon/
+            - group "6 / 14" [ref=e1396]:
+              - generic [ref=e1397]:
+                - img "لوگو برند سکو - بازرگانی اسپوتا" [ref=e1400]
+                - link "لینک بنر" [ref=e1401] [cursor=pointer]:
+                  - /url: https://spttrade.com/brand/seko/
+            - group "7 / 14" [ref=e1402]:
+              - generic [ref=e1403]:
+                - img "لوگو برند اتاترون | ETATRON - بازرگانی اسپوتا" [ref=e1406]
+                - link "لینک بنر" [ref=e1407] [cursor=pointer]:
+                  - /url: https://spttrade.com/brand/etatron/
+            - group "8 / 14" [ref=e1408]:
+              - generic [ref=e1409]:
+                - img "برند EURO ADSORBENT - بازرگانی اسپوتا" [ref=e1412]
+                - link "لینک بنر" [ref=e1413] [cursor=pointer]:
+                  - /url: https://spttrade.com/brand/euro-adsorbent/
+            - group "9 / 14" [ref=e1414]:
+              - generic [ref=e1415]:
+                - img "لوگو برند اپسان | epsan - بازرگانی اسپوتا" [ref=e1418]
+                - link "لینک بنر" [ref=e1419] [cursor=pointer]:
+                  - /url: https://spttrade.com/brand/epsan/
+            - group "10 / 14" [ref=e1420]:
+              - generic [ref=e1421]:
+                - img "لوگو برند پالوین - بازرگانی اسپوتا" [ref=e1424]
+                - link "لینک بنر" [ref=e1425] [cursor=pointer]:
+                  - /url: https://spttrade.com/brand/palwin/
+            - group "11 / 14" [ref=e1426]:
+              - generic [ref=e1427]:
+                - img "لوگو برند لونا واتر - بازرگانی اسپوتا" [ref=e1430]
+                - link "لینک بنر" [ref=e1431] [cursor=pointer]:
+                  - /url: https://spttrade.com/brand/luna-water/
+            - group "12 / 14" [ref=e1432]:
+              - generic [ref=e1433]:
+                - img "لوگو برند آکوا وین | Aqua Win - بازرگانی اسپوتا" [ref=e1436]
+                - link "لینک بنر" [ref=e1437] [cursor=pointer]:
+                  - /url: https://spttrade.com/brand/aqua-win/
+            - group "13 / 14" [ref=e1438]:
+              - generic [ref=e1439]:
+                - img "لوگو برند لان شان | LAN SHAN - بازرگانی اسپوتا" [ref=e1442]
+                - link "لینک بنر" [ref=e1443] [cursor=pointer]:
+                  - /url: https://spttrade.com/brand/lan-shan/
+            - group "14 / 14" [ref=e1444]:
+              - generic [ref=e1445]:
+                - img "لوگو برند هکسپول | HEXPOL - بازرگانی اسپوتا" [ref=e1448]
+                - link "لینک بنر" [ref=e1449] [cursor=pointer]:
+                  - /url: https://spttrade.com/brand/hexpol/
+        - generic [ref=e1451]:
+          - generic [ref=e1452]:
+            - heading "مدل سرمایه گذاری در تجارت بین المللی" [level=3] [ref=e1455]
+            - paragraph [ref=e1458]: مدل تجاری بازرگانی اسپوتا، سرمایه گذاری در تجارت‌های بین المللی است. ما با هدف افزایش بهره‌وری متناسب با نیاز مشتری و گسترش صادرات در مناطق تجاری با استفاده از پتانسیل و توان تخصصی هلدینگ تجاری بازرگانی اسپوتا در این مسیر با شما هستیم.هدف ما سرمایه گذاری با اهداف بلند مدت با هدف رشد و گسترش مشاغل و ورود به بازارهای جهانی، همراه با شرکای داخلی و خارجی است.
+          - generic [ref=e1459]:
+            - heading "شرکت تجاری بازرگانی اسپوتا" [level=3] [ref=e1462]
+            - paragraph [ref=e1465]: این بازرگانی دارای متخصصانی هست که کلیه فرآیند صادرات و واردات را بصورت کاملاً حرفه ای پوشش می‌دهند. این شرکت محصولات تولیدی مجاز کشورهای خارجی را خریداری کرده و با توجه به نیاز کشور مقصد آنها را در کشورهای مختلف از طریق شبکه فروش قدرتمند صادر می‌نماید.شرکت تجاری اسپوتا عمدتاً با صادرات مواد اولیه، مواد شیمیایی صنعتی، تجهیزات صنعتی و فرآورده‌های نفتی فعالیت بین المللی در زمینه صادرات را بصورت تخصصی انجام می‌نماید
+        - generic [ref=e1468]:
+          - heading "برخی از مشتریان بازرگانی اسپوتا" [level=2] [ref=e1471]
+          - region "Image Carousel" [ref=e1474]:
+            - generic [ref=e1475]:
+              - group [ref=e1752]:
+                - figure [ref=e1753]
+              - group [ref=e1755]:
+                - figure [ref=e1756]
+              - group [ref=e1758]:
+                - figure [ref=e1759]
+              - group [ref=e1761]:
+                - figure [ref=e1762]
+              - group [ref=e1764]:
+                - figure [ref=e1765]
+              - group [ref=e1767]:
+                - figure [ref=e1768]
+              - group [ref=e1770]:
+                - figure [ref=e1771]
+              - group [ref=e1773]:
+                - figure [ref=e1774]
+              - group [ref=e1776]:
+                - figure [ref=e1777]
+              - group "1 / 16" [ref=e1779]:
+                - figure [ref=e1477]:
+                  - img "صنایع الکترونیک شیراز" [ref=e1478]
+              - group "2 / 16" [ref=e1780]:
+                - figure [ref=e1480]:
+                  - img "سایپا پرس" [ref=e1481]
+              - group "3 / 16" [ref=e1781]:
+                - figure [ref=e1483]:
+                  - img "شیرین عسل" [ref=e1484]
+              - group "4 / 16" [ref=e1782]:
+                - figure [ref=e1486]:
+                  - img "دانشگاه شهید بهشتی" [ref=e1487]
+              - group "5 / 16" [ref=e1783]:
+                - figure [ref=e1489]:
+                  - img "پتروشیمی کرمانشاه" [ref=e1490]
+              - group "6 / 16" [ref=e1784]:
+                - figure [ref=e1492]:
+                  - img "پتروشیمی خراسان" [ref=e1493]
+              - group "7 / 16" [ref=e1785]:
+                - figure [ref=e1495]:
+                  - img "طبیعت سبز" [ref=e1496]
+              - group "8 / 16" [ref=e1786]:
+                - figure [ref=e1498]:
+                  - img "نفت پارس" [ref=e1499]
+              - group "9 / 16" [ref=e1787]:
+                - figure [ref=e1501]:
+                  - img "پتروشیمی ارومیه" [ref=e1502]
+              - group [ref=e1788]:
+                - figure [ref=e1504]
+              - group [ref=e1790]:
+                - figure [ref=e1507]
+              - group [ref=e1792]:
+                - figure [ref=e1510]
+              - group [ref=e1794]:
+                - figure [ref=e1513]
+              - group [ref=e1796]:
+                - figure [ref=e1516]
+              - group [ref=e1798]:
+                - figure [ref=e1519]
+              - group [ref=e1800]:
+                - figure [ref=e1522]
+              - group [ref=e1802]:
+                - figure [ref=e1803]
+              - group [ref=e1805]:
+                - figure [ref=e1806]
+              - group [ref=e1808]:
+                - figure [ref=e1809]
+              - group [ref=e1811]:
+                - figure [ref=e1812]
+              - group [ref=e1814]:
+                - figure [ref=e1815]
+              - group [ref=e1817]:
+                - figure [ref=e1818]
+              - group [ref=e1820]:
+                - figure [ref=e1821]
+              - group [ref=e1823]:
+                - figure [ref=e1824]
+              - group [ref=e1826]:
+                - figure [ref=e1827]
+        - generic [ref=e1527]:
+          - generic [ref=e1528]:
+            - heading "چرا از بازرگانی اسپوتا خرید کنیم؟" [level=2] [ref=e1531]
+            - generic [ref=e1534]:
+              - paragraph [ref=e1535]: بازرگانی اسپوتا با سال‌ها تجربه در زمینه تأمین مواد اولیه صنعتی، تجهیزات تصفیه آب، مواد شیمیایی، پلیمرهای مهندسی و محصولات تخصصی، همواره تلاش کرده است تا محصولاتی با کیفیت، اصالت تضمین‌شده و خدمات حرفه‌ای را در اختیار مشتریان خود قرار دهد.
+              - paragraph [ref=e1536]: همکاری با برندهای معتبر جهانی، تنوع محصولات و همراهی در انتخاب بهترین راهکار، تنها بخشی از دلایلی است که صنایع، شرکت‌ها و مجموعه‌های مختلف، اسپوتا را به عنوان تأمین‌کننده خود انتخاب می‌کنند.
+              - paragraph [ref=e1537]: ما تنها به فروش محصول محدود نمی‌شویم؛ بلکه با ارائه اطلاعات فنی دقیق، پشتیبانی مناسب و تعهد به رضایت مشتری، تلاش می‌کنیم یک همکاری بلندمدت و قابل اعتماد ایجاد کنیم.
+          - list [ref=e1541]:
+            - listitem [ref=e1542]:
+              - generic [ref=e1543]: 
+              - generic [ref=e1545]: تأمین محصولات از برندهای معتبر جهانی
+            - listitem [ref=e1546]:
+              - generic [ref=e1547]: 
+              - generic [ref=e1549]: ارائه مشاوره تخصصی پیش از خرید
+            - listitem [ref=e1550]:
+              - generic [ref=e1551]: 
+              - generic [ref=e1553]: تضمین اصالت و کیفیت کالا
+            - listitem [ref=e1554]:
+              - generic [ref=e1555]: 
+              - generic [ref=e1557]: تنوع گسترده محصولات صنعتی و شیمیایی
+            - listitem [ref=e1558]:
+              - generic [ref=e1559]: 
+              - generic [ref=e1561]: پشتیبانی فنی و همراهی پس از خرید
+    - contentinfo:
+      - generic [ref=e1563]:
+        - generic [ref=e1567]:
+          - paragraph [ref=e1571]: تماس فوری با کارشناس فروش؛ شماره تماس خود را وارد کنید.
+          - generic [ref=e1579]:
+            - generic [ref=e1580]:
+              - generic:
+                - text: شماره تماس
+                - generic: (Required)
+              - textbox "شماره تماس (Required)" [ref=e1582]:
+                - /placeholder: شماره تماس
+            - button "ارسال" [ref=e1584] [cursor=pointer]
+          - list [ref=e1589]:
+            - listitem [ref=e1590]:
+              - link "Telegram" [ref=e1591] [cursor=pointer]:
+                - /url: https://t.me/Spoutatrading
+                - generic [ref=e1593]: 
+            - listitem [ref=e1594]:
+              - link "Whatsapp" [ref=e1595] [cursor=pointer]:
+                - /url: https://wa.me/+989129533282
+                - generic [ref=e1597]: 
+            - listitem [ref=e1598]:
+              - link "Instagram" [ref=e1599] [cursor=pointer]:
+                - /url: https://www.instagram.com/spttrade/
+                - generic [ref=e1601]: 
+        - generic [ref=e1604]:
+          - generic [ref=e1609]:
+            - generic [ref=e1610]:
+              - generic [ref=e1611]: بازرگانی اسپوتا
+              - paragraph [ref=e1620]: شرکت اسپوتا با چندین سال سابقه در زمینه ی ساخت و مونتاژ تجهیزات صنعتی ، عرضه محصولات و مواد تصفیه آب و فاضلاب ، مواد شیمیایی و اسید های صنایع غذایی همراه با تیم مجرب در زمینه فنی و بازرگانی درجهت در جریان ساخت ، هفت روز هفته و 24 ساعته اعلام آمادگی می کند.
+            - generic [ref=e1621]:
+              - generic [ref=e1622]: نقشه سایت
+              - list [ref=e1629]:
+                - listitem [ref=e1630]:
+                  - link "صفحه اصلی" [ref=e1631] [cursor=pointer]:
+                    - /url: https://spttrade.com/
+                - listitem [ref=e1633]:
+                  - link "محصولات" [ref=e1634] [cursor=pointer]:
+                    - /url: https://spttrade.com/shop/
+                - listitem [ref=e1636]:
+                  - link "مقالات" [ref=e1637] [cursor=pointer]:
+                    - /url: https://spttrade.com/blog/
+                - listitem [ref=e1639]:
+                  - link "تماس با ما" [ref=e1640] [cursor=pointer]:
+                    - /url: https://spttrade.com/contact-us/
+                - listitem [ref=e1642]:
+                  - link "دریاره ما" [ref=e1643] [cursor=pointer]:
+                    - /url: https://spttrade.com/about-us/
+            - generic [ref=e1645]:
+              - generic [ref=e1646]: لینک سریع
+              - list [ref=e1653]:
+                - listitem [ref=e1654]:
+                  - link "برندها" [ref=e1655] [cursor=pointer]:
+                    - /url: https://spttrade.com/brands/
+                - listitem [ref=e1657]:
+                  - link "پادکست ها" [ref=e1658] [cursor=pointer]:
+                    - /url: https://spttrade.com/podcasts/
+                - listitem [ref=e1660]:
+                  - link "ثبت سفارش" [ref=e1661] [cursor=pointer]:
+                    - /url: https://spttrade.com/order/
+            - generic [ref=e1663]:
+              - generic [ref=e1664]: اطلاعات تماس
+              - list [ref=e1671]:
+                - listitem [ref=e1672]:
+                  - link "info@spttrade.com" [ref=e1673] [cursor=pointer]:
+                    - /url: mailto:info@spttrade.com
+                    - generic [ref=e1674]: 
+                - listitem [ref=e1677]:
+                  - link "021-26415084" [ref=e1678] [cursor=pointer]:
+                    - /url: tel:02126415084
+                    - generic [ref=e1679]: 
+                - listitem [ref=e1682]:
+                  - link "0912-9533282" [ref=e1683] [cursor=pointer]:
+                    - /url: tel:09129533282
+                    - generic [ref=e1684]: 
+                - listitem [ref=e1687]:
+                  - link "تهران، خیابان میرداماد، میدان محسنی، خیابان شاه نظری، کوچه دوم، پلاک 22" [ref=e1688] [cursor=pointer]:
+                    - /url: https://maps.app.goo.gl/Ti3uscfq71Kc1T2u8
+                    - generic [ref=e1689]: 
+          - paragraph [ref=e1698]:
+            - text: کپی رایت – تمامی حقوق این وب سایت برای
+            - strong [ref=e1699]: بازرگانی اسپوتا
+            - text: محفوظ می باشد. سال تاسیس سایت 2019
+  - link "دکمه اسکرول به بالا":
+    - /url: "#"
+    - text: 
+  - navigation "منوی موبایل" [ref=e1700]:
+    - list [ref=e1701]:
+      - listitem [ref=e1702]:
+        - link "دسته بندی ها" [ref=e1703] [cursor=pointer]:
+          - /url: "#"
+      - listitem [ref=e1705]:
+        - link "منو" [ref=e1706] [cursor=pointer]:
+          - /url: "#"
+    - list [ref=e1708]:
+      - listitem [ref=e1709]:
+        - link "محصولات" [ref=e1710] [cursor=pointer]:
+          - /url: https://spttrade.com/shop/
+      - listitem [ref=e1712]:
+        - link "برندها" [ref=e1713] [cursor=pointer]:
+          - /url: https://spttrade.com/brands/
+      - listitem [ref=e1715]:
+        - link "پادکست‌ها" [ref=e1716] [cursor=pointer]:
+          - /url: https://spttrade.com/podcasts/
+      - listitem [ref=e1718]:
+        - link "ثبت سفارش" [ref=e1719] [cursor=pointer]:
+          - /url: https://spttrade.com/order/
+      - listitem [ref=e1721]:
+        - link "مقالات" [ref=e1722] [cursor=pointer]:
+          - /url: https://spttrade.com/blog/
+      - listitem [ref=e1724]:
+        - link "تماس با ما" [ref=e1725] [cursor=pointer]:
+          - /url: https://spttrade.com/contact-us/
+      - listitem [ref=e1727]:
+        - link "درباره ما" [ref=e1728] [cursor=pointer]:
+          - /url: https://spttrade.com/about-us/
+    - text:           
+  - text:   
+  - link [ref=e1730] [cursor=pointer]:
+    - /url: tel:09129533282
+  - generic "'واتساپ'" [ref=e1734] [cursor=pointer]
+  - generic [ref=e1735]: desktop
+  - status
+```

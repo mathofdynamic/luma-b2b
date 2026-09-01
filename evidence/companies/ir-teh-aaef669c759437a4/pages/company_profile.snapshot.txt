@@ -1,0 +1,332 @@
+### Page
+- Page URL: https://avval.ir/profile/e539c/%D8%A7%DB%8C%D9%84%DB%8C%D8%A7
+- Page Title: ایلیا - فروش ماشین آلات صنعتی و کشاورزی | کتاب اول
+- Console: 4 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - link "home page" [ref=e5] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - textbox "فعالیت شغلی، نام کسب و کار، خدمات و محصولات و ..." [ref=e11]
+            - generic [ref=e12]: در
+            - generic [ref=e13]:
+              - textbox "شهر، محله، منطقه، خیابان و ..." [ref=e14]
+              - button "جستجو بر اساس موقعیت مکانی" [ref=e16] [cursor=pointer]
+            - button "جستجو" [ref=e19] [cursor=pointer]
+          - list
+      - link "ثبت رایگان اطلاعات شغلی" [ref=e23] [cursor=pointer]:
+        - /url: /%D8%AB%D8%A8%D8%AA-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D8%B4%D8%BA%D9%84%DB%8C
+      - button "ورود | ثبت نام" [ref=e26] [cursor=pointer]
+    - navigation [ref=e30]:
+      - list [ref=e31]:
+        - listitem [ref=e32]:
+          - button "دسته بندی مشاغل" [ref=e33] [cursor=pointer]
+        - listitem [ref=e35]: "|"
+        - listitem [ref=e36]:
+          - link "تبلیغات با ما" [ref=e37] [cursor=pointer]:
+            - /url: /%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-%D9%88%D8%A8-%D8%B3%D8%A7%DB%8C%D8%AA-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+        - listitem [ref=e40]: "|"
+        - listitem [ref=e41]:
+          - link "دسترسی بانک مشاغل" [ref=e42] [cursor=pointer]:
+            - /url: /%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B4%D8%A7%D8%BA%D9%84-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+        - listitem [ref=e45]: "|"
+        - listitem [ref=e46]:
+          - link "پنل اس ام اس" [ref=e47] [cursor=pointer]:
+            - /url: /smspanel
+  - generic [ref=e53]:
+    - main [ref=e54]:
+      - generic [ref=e55]:
+        - img "لوگوی ایلیا - فروش ماشین آلات صنعتی و کشاورزی" [ref=e57]
+        - generic [ref=e58]:
+          - heading "ایلیا" [level=1] [ref=e59]
+          - generic [ref=e60]:
+            - generic [ref=e69]: "4.0"
+            - generic [ref=e70]: (1 نظر)
+          - generic [ref=e71]: فروش ویژه انواع لودر ZL30 و ZL50
+          - list [ref=e72]:
+            - listitem [ref=e73]: فروش ماشین آلات صنعتی و کشاورزی
+      - generic [ref=e74]:
+        - link "تماس" [ref=e75] [cursor=pointer]:
+          - /url: tel:+982188507378
+        - button "ثبت نظر" [ref=e80] [cursor=pointer]
+        - button "ارتقای پروفایل" [ref=e83] [cursor=pointer]
+        - button "ویرایش" [ref=e86] [cursor=pointer]
+        - button "اشتراک گذاری" [ref=e91] [cursor=pointer]
+      - navigation [ref=e99]:
+        - list [ref=e100]:
+          - listitem [ref=e101]:
+            - link "link to home" [ref=e102] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e106]
+          - listitem [ref=e109]:
+            - link "دسته‌بندی مشاغل" [ref=e110] [cursor=pointer]:
+              - /url: /directory
+          - listitem [ref=e111]
+          - listitem [ref=e114]:
+            - link "فروش ماشین آلات صنعتی و کشاورزی" [ref=e115] [cursor=pointer]:
+              - /url: /directory/%D9%81%D8%B1%D9%88%D8%B4-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A2%D9%84%D8%A7%D8%AA-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C-%D9%88-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C
+          - listitem [ref=e116]
+          - listitem [ref=e119]:
+            - link "تهران" [ref=e120] [cursor=pointer]:
+              - /url: /directory/%D9%81%D8%B1%D9%88%D8%B4-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A2%D9%84%D8%A7%D8%AA-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C-%D9%88-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86
+          - listitem [ref=e121]
+          - listitem [ref=e124]:
+            - link "محله نیلوفر" [ref=e125] [cursor=pointer]:
+              - /url: /directory/%D9%81%D8%B1%D9%88%D8%B4-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A2%D9%84%D8%A7%D8%AA-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C-%D9%88-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%85%D8%AD%D9%84%D9%87-%D9%86%DB%8C%D9%84%D9%88%D9%81%D8%B1
+      - generic [ref=e126]:
+        - heading "اطلاعات تماس" [level=2] [ref=e128]
+        - list [ref=e129]:
+          - listitem [ref=e130]:
+            - generic [ref=e131]: "آدرس :"
+            - generic [ref=e135]: تهران، منطقه 7، محله نیلوفر، خیابان سهروردی شمالی، کوچه اشراقی، پلاک 15، زنگ 104، طبقه اول، وحد 4
+          - listitem [ref=e136]:
+            - generic [ref=e137]: "تلفن :"
+            - button "نمایش شماره" [ref=e140] [cursor=pointer]
+            - generic [ref=e141]: XXXXXXXXXX
+          - listitem [ref=e142]:
+            - generic [ref=e143]: "چت :"
+            - link "واتس اپ" [ref=e147] [cursor=pointer]:
+              - /url: http://wa.me/+989123968828
+      - generic [ref=e153]:
+        - heading "توضیحات" [level=2] [ref=e155]
+        - generic [ref=e156]: سنگین ماشین ایلیا میتونه تمام قطعات ماشین سنگین هارو تامین کنهحتی ماشین آلات هم داره برای اطلاعات از همه محصولا با ما همراه باشید.021885073780218851439509123968828 مهندس جهانی
+      - generic [ref=e157]:
+        - heading "نظرات" [level=2] [ref=e159]
+        - generic [ref=e160]:
+          - paragraph [ref=e161]: لطفا به این کسب و کار امتیاز بدید و نظر خودتون رو درباره این کسب و کار بنویسید
+          - generic [ref=e162]:
+            - generic [ref=e165]:
+              - generic [ref=e166]: بدون رای
+              - generic "بدون رای" [ref=e168] [cursor=pointer]:
+                - textbox "امتیاز شما برای این کسب و کار" [ref=e200]
+            - generic [ref=e201]:
+              - generic [ref=e202]: حداکثر 2000 کاراکتر
+              - textbox "به نظر من ..." [ref=e203]
+              - button "ثبت نظر" [ref=e204] [cursor=pointer]
+          - generic [ref=e205]:
+            - generic [ref=e207]:
+              - generic [ref=e211]: حسین گرجی
+              - generic [ref=e212]: 1 سال پیش
+            - generic [ref=e222]:
+              - button "0" [ref=e223] [cursor=pointer]
+              - button "پاسخ" [ref=e227] [cursor=pointer]
+              - button "گزارش تخلف این نظر" [ref=e232] [cursor=pointer]
+          - text: ✕
+    - complementary [ref=e236]:
+      - generic [ref=e238]:
+        - generic [ref=e239]:
+          - generic:
+            - region "Map" [ref=e240]
+            - generic: برای بزرگنمایی نقشه، از ⌘ + پیمایش استفاده کنید
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e241] [cursor=pointer]
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e242] [cursor=pointer]
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e251] [cursor=pointer]
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e265] [cursor=pointer]
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e270] [cursor=pointer]
+          - generic:
+            - generic:
+              - generic [ref=e284]:
+                - button "Zoom in" [ref=e285] [cursor=pointer]
+                - button "Zoom out" [ref=e287] [cursor=pointer]
+              - button "Enter fullscreen" [ref=e290] [cursor=pointer]
+        - generic [ref=e292]:
+          - button "گوگل" [ref=e293] [cursor=pointer]
+          - button [ref=e300] [cursor=pointer]:
+            - img "بلد" [ref=e301]
+            - text: بلد
+          - button [ref=e302] [cursor=pointer]:
+            - img "نشان" [ref=e303]
+            - text: نشان
+      - list [ref=e306]:
+        - listitem [ref=e307]:
+          - paragraph [ref=e308]: نزدیک ترین ایستگاه مترو به ایلیا
+          - link "ایستگاه مترو شهیدقدوسی 917 متر" [ref=e309] [cursor=pointer]:
+            - /url: /profile/269d2/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%85%D8%AA%D8%B1%D9%88-%D8%B4%D9%87%DB%8C%D8%AF%D9%82%D8%AF%D9%88%D8%B3%DB%8C
+        - listitem [ref=e318]:
+          - paragraph [ref=e319]: نزدیک ترین ایستگاه بی آر تی به ایلیا
+          - link "ایستگاه بی آر تی بهشت مادران 661 متر" [ref=e320] [cursor=pointer]:
+            - /url: /profile/1d6c3/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A8%DB%8C-%D8%A2%D8%B1-%D8%AA%DB%8C-%D8%A8%D9%87%D8%B4%D8%AA-%D9%85%D8%A7%D8%AF%D8%B1%D8%A7%D9%86
+        - listitem [ref=e331]:
+          - paragraph [ref=e332]: نزدیک ترین پایانه تاکسی به ایلیا
+          - link "پایانه تاکسیرانی پل سیدخندان 269 متر" [ref=e333] [cursor=pointer]:
+            - /url: /profile/1adfc/%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%D9%87-%D8%AA%D8%A7%DA%A9%D8%B3%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D9%BE%D9%84-%D8%B3%DB%8C%D8%AF%D8%AE%D9%86%D8%AF%D8%A7%D9%86
+        - listitem [ref=e340]:
+          - paragraph [ref=e341]: نزدیک ترین ایستگاه اتوبوس به ایلیا
+          - link "ایستگاه اتوبوس بی سیم - کد 29 - جنوب به شمال 193 متر" [ref=e342] [cursor=pointer]:
+            - /url: /profile/23bd8/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A7%D8%AA%D9%88%D8%A8%D9%88%D8%B3-%D8%A8%DB%8C-%D8%B3%DB%8C%D9%85-%DA%A9%D8%AF-29-%D8%AC%D9%86%D9%88%D8%A8-%D8%A8%D9%87-%D8%B4%D9%85%D8%A7%D9%84
+      - generic [ref=e354]:
+        - heading "تصاویر" [level=2] [ref=e356]
+        - generic [ref=e357]:
+          - link "main image" [ref=e359] [cursor=pointer]:
+            - /url: /filehash/A9zAbaabjhhApsvoCiahhjaDtzq.jpg
+            - img "ایلیا - فروش ماشین آلات صنعتی و کشاورزی شماره 1" [ref=e360]
+          - generic [ref=e361]:
+            - link "Images" [ref=e363] [cursor=pointer]:
+              - /url: /filehash/A9zAbaabjhhApsvoCiahhjbDtzq.jpg
+              - img "ایلیا - فروش ماشین آلات صنعتی و کشاورزی شماره 2" [ref=e364]
+            - link "Images" [ref=e366] [cursor=pointer]:
+              - /url: /filehash/A9zAbaabjhhApsvoCiahhjcDtzq.jpg
+              - img "ایلیا - فروش ماشین آلات صنعتی و کشاورزی شماره 3" [ref=e367]
+      - generic [ref=e368]:
+        - heading "کسب و کارهای مشابه" [level=2] [ref=e370]
+        - navigation [ref=e371]:
+          - list [ref=e372]:
+            - listitem [ref=e373]:
+              - link "شرکت مهاب آرین کوپال (بارینکو) شرکت مهاب آرین کوپال (بارینکو) 4.5 (3 نظر) صنایع نفت و پتروشیمی کرج، شهرک صنعتی بهارستان" [ref=e374] [cursor=pointer]:
+                - /url: /profile/84a00/%D8%B4%D8%B1%DA%A9%D8%AA-%D9%85%D9%87%D8%A7%D8%A8-%D8%A2%D8%B1%DB%8C%D9%86-%DA%A9%D9%88%D9%BE%D8%A7%D9%84-%D8%A8%D8%A7%D8%B1%DB%8C%D9%86%DA%A9%D9%88
+                - img "شرکت مهاب آرین کوپال (بارینکو)" [ref=e375]
+                - generic [ref=e376]:
+                  - heading "شرکت مهاب آرین کوپال (بارینکو)" [level=3] [ref=e377]
+                  - generic [ref=e378]:
+                    - generic [ref=e389]: "4.5"
+                    - generic [ref=e390]: (3 نظر)
+                  - list [ref=e391]:
+                    - listitem [ref=e392]: صنایع نفت و پتروشیمی
+                  - generic [ref=e393]: کرج، شهرک صنعتی بهارستان
+            - listitem [ref=e397]:
+              - link "ایران بابکت ایران بابکت 4.5 (2 نظر) فروش ماشین آلات صنعتی و کشاورزی تهران، منطقه 11، میدان حر" [ref=e398] [cursor=pointer]:
+                - /url: /profile/edmwb/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%D8%A8%DA%A9%D8%AA
+                - img "ایران بابکت" [ref=e399]
+                - generic [ref=e400]:
+                  - heading "ایران بابکت" [level=3] [ref=e401]
+                  - generic [ref=e402]:
+                    - generic [ref=e413]: "4.5"
+                    - generic [ref=e414]: (2 نظر)
+                  - list [ref=e415]:
+                    - listitem [ref=e416]: فروش ماشین آلات صنعتی و کشاورزی
+                  - generic [ref=e417]: تهران، منطقه 11، میدان حر
+            - listitem [ref=e421]:
+              - link "شرکت فراگردان شرکت فراگردان 4.0 (2 نظر) فروش ماشین آلات صنعتی و کشاورزی تهران، منطقه 3، محله سید خندان، میرداماد" [ref=e422] [cursor=pointer]:
+                - /url: /profile/007ca/%D8%B4%D8%B1%DA%A9%D8%AA-%D9%81%D8%B1%D8%A7%DA%AF%D8%B1%D8%AF%D8%A7%D9%86
+                - img "شرکت فراگردان" [ref=e423]
+                - generic [ref=e424]:
+                  - heading "شرکت فراگردان" [level=3] [ref=e425]
+                  - generic [ref=e426]:
+                    - generic [ref=e435]: "4.0"
+                    - generic [ref=e436]: (2 نظر)
+                  - list [ref=e437]:
+                    - listitem [ref=e438]: فروش ماشین آلات صنعتی و کشاورزی
+                  - generic [ref=e439]: تهران، منطقه 3، محله سید خندان، میرداماد
+            - listitem [ref=e443]:
+              - link "دیزل پارت دیزل پارت 4.0 (1 نظر) فروش ماشین آلات صنعتی و کشاورزی تهران، منطقه 12، محله فردوسی ، خیابان سعدی جنوبی" [ref=e444] [cursor=pointer]:
+                - /url: /profile/50b08/%D8%AF%DB%8C%D8%B2%D9%84-%D9%BE%D8%A7%D8%B1%D8%AA
+                - img "دیزل پارت" [ref=e445]
+                - generic [ref=e446]:
+                  - heading "دیزل پارت" [level=3] [ref=e447]
+                  - generic [ref=e448]:
+                    - generic [ref=e457]: "4.0"
+                    - generic [ref=e458]: (1 نظر)
+                  - list [ref=e459]:
+                    - listitem [ref=e460]: فروش ماشین آلات صنعتی و کشاورزی
+                  - generic [ref=e461]: تهران، منطقه 12، محله فردوسی ، خیابان سعدی جنوبی
+            - listitem [ref=e465]:
+              - link "فروشگاه ماشین تراکتور فروشگاه ماشین تراکتور 4.0 (1 نظر) فروش ماشین آلات صنعتی و کشاورزی تهران، منطقه 17، محله گلچین، خیابان سعدی" [ref=e466] [cursor=pointer]:
+                - /url: /profile/40c67/%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%AA%D8%B1%D8%A7%DA%A9%D8%AA%D9%88%D8%B1
+                - img "فروشگاه ماشین تراکتور" [ref=e467]
+                - generic [ref=e468]:
+                  - heading "فروشگاه ماشین تراکتور" [level=3] [ref=e469]
+                  - generic [ref=e470]:
+                    - generic [ref=e479]: "4.0"
+                    - generic [ref=e480]: (1 نظر)
+                  - list [ref=e481]:
+                    - listitem [ref=e482]: فروش ماشین آلات صنعتی و کشاورزی
+                  - generic [ref=e483]: تهران، منطقه 17، محله گلچین، خیابان سعدی
+            - listitem [ref=e487]:
+              - link "گروه صنعتی درویش گروه صنعتی درویش 4.0 (1 نظر) فروش ماشین آلات صنعتی و کشاورزی تهران، منطقه 12، محله بهارستان، خیابان سعدی جنوبی" [ref=e488] [cursor=pointer]:
+                - /url: /profile/414e9/%DA%AF%D8%B1%D9%88%D9%87-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C-%D8%AF%D8%B1%D9%88%DB%8C%D8%B4
+                - img "گروه صنعتی درویش" [ref=e489]
+                - generic [ref=e490]:
+                  - heading "گروه صنعتی درویش" [level=3] [ref=e491]
+                  - generic [ref=e492]:
+                    - generic [ref=e501]: "4.0"
+                    - generic [ref=e502]: (1 نظر)
+                  - list [ref=e503]:
+                    - listitem [ref=e504]: فروش ماشین آلات صنعتی و کشاورزی
+                  - generic [ref=e505]: تهران، منطقه 12، محله بهارستان، خیابان سعدی جنوبی
+            - listitem [ref=e509]:
+              - link "ویسمن - نمایندگی هوندا ویسمن - نمایندگی هوندا 4.0 (1 نظر) فروش دیزل ژنراتور، ژنراتور و موتور برق تهران، منطقه 21، محله ورد آورد، بزرگراه تهران کرج" [ref=e510] [cursor=pointer]:
+                - /url: /profile/a2581/%D9%88%DB%8C%D8%B3%D9%85%D9%86-%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C-%D9%87%D9%88%D9%86%D8%AF%D8%A7
+                - img "ویسمن - نمایندگی هوندا" [ref=e511]
+                - generic [ref=e512]:
+                  - heading "ویسمن - نمایندگی هوندا" [level=3] [ref=e513]
+                  - generic [ref=e514]:
+                    - generic [ref=e523]: "4.0"
+                    - generic [ref=e524]: (1 نظر)
+                  - list [ref=e525]:
+                    - listitem [ref=e526]: فروش دیزل ژنراتور، ژنراتور و موتور برق
+                  - generic [ref=e527]: تهران، منطقه 21، محله ورد آورد، بزرگراه تهران کرج
+    - text: ✕ ✕
+  - contentinfo [ref=e531]:
+    - generic [ref=e532]:
+      - generic [ref=e533]:
+        - link "home page" [ref=e534] [cursor=pointer]:
+          - /url: /
+        - list [ref=e537]:
+          - listitem [ref=e538]:
+            - link "Telegram" [ref=e539] [cursor=pointer]:
+              - /url: https://t.me/avval_ir
+          - listitem [ref=e545]:
+            - link "instagram" [ref=e546] [cursor=pointer]:
+              - /url: https://instagram.com/ketabeavval.officialpage
+          - listitem [ref=e551]:
+            - link "Twitter" [ref=e552] [cursor=pointer]:
+              - /url: https://twitter.com/ketabeavvalir
+          - listitem [ref=e556]:
+            - link "Facebook" [ref=e557] [cursor=pointer]:
+              - /url: https://www.facebook.com/avval/
+          - listitem [ref=e561]:
+            - link "Linkedin" [ref=e562] [cursor=pointer]:
+              - /url: https://linkedin.com/company/ketabeavval/
+      - navigation [ref=e567]:
+        - generic [ref=e568]:
+          - generic [ref=e569]: درباره کتاب اول
+          - list [ref=e570]:
+            - listitem [ref=e571]:
+              - link "درباره کتاب اول" [ref=e572] [cursor=pointer]:
+                - /url: /about-ketabeavval
+            - listitem [ref=e573]:
+              - link "تماس با کتاب اول" [ref=e574] [cursor=pointer]:
+                - /url: /contact-us
+            - listitem [ref=e575]:
+              - link "شرایط استفاده" [ref=e576] [cursor=pointer]:
+                - /url: /terms-conditions
+            - listitem [ref=e577]:
+              - link "حریم شخضی" [ref=e578] [cursor=pointer]:
+                - /url: /privacy-policy
+        - generic [ref=e579]:
+          - generic [ref=e580]: کشف کنید
+          - list [ref=e581]:
+            - listitem [ref=e582]:
+              - link "دسته بندی مشاغل" [ref=e583] [cursor=pointer]:
+                - /url: /directory
+            - listitem [ref=e584]:
+              - link "نقشه سایت" [ref=e585] [cursor=pointer]:
+                - /url: /sitemap
+            - listitem [ref=e586]:
+              - link "دسترسی بانک مشاغل کتاب اول" [ref=e587] [cursor=pointer]:
+                - /url: /%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B4%D8%A7%D8%BA%D9%84-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+            - listitem [ref=e588]:
+              - link "پنل اس ام اس" [ref=e589] [cursor=pointer]:
+                - /url: /smspanel
+        - generic [ref=e590]:
+          - generic [ref=e591]: صاحبین مشاغل در کتاب اول
+          - list [ref=e592]:
+            - listitem [ref=e593]:
+              - link "ثبت اطلاعات شغلی" [ref=e594] [cursor=pointer]:
+                - /url: /%D8%AB%D8%A8%D8%AA-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D8%B4%D8%BA%D9%84%DB%8C
+            - listitem [ref=e595]:
+              - link "تبلیغات با کتاب اول" [ref=e596] [cursor=pointer]:
+                - /url: /%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-%D9%88%D8%A8-%D8%B3%D8%A7%DB%8C%D8%AA-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+    - generic [ref=e597]:
+      - img "samandehi logo" [ref=e599] [cursor=pointer]
+      - link "enamad logo" [ref=e601] [cursor=pointer]:
+        - /url: https://trustseal.enamad.ir/?id=194990&Code=3Y0m3d1djm9fuqjoC8mT
+        - img "logo-enamad" [ref=e602]
+    - generic [ref=e603]: 1373-1403 © تمامی حقوق برای شرکت کتاب اول محفوظ است
+  - text: ✕ *
+```

@@ -1,0 +1,341 @@
+### Page
+- Page URL: https://avval.ir/profile/a5224/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%B2%DB%8C%D8%B3%D8%AA-%D8%A8%D8%A7%D9%86%DB%8C-%D9%BE%D8%A7%DB%8C%D8%A7
+- Page Title: شرکت زیست بانی پایا - فروش ماشین آلات صنعتی و کشاورزی | کتاب اول
+- Console: 4 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - link "home page" [ref=e5] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - textbox "فعالیت شغلی، نام کسب و کار، خدمات و محصولات و ..." [ref=e11]
+            - generic [ref=e12]: در
+            - generic [ref=e13]:
+              - textbox "شهر، محله، منطقه، خیابان و ..." [ref=e14]
+              - button "جستجو بر اساس موقعیت مکانی" [ref=e16] [cursor=pointer]
+            - button "جستجو" [ref=e19] [cursor=pointer]
+          - list
+      - link "ثبت رایگان اطلاعات شغلی" [ref=e23] [cursor=pointer]:
+        - /url: /%D8%AB%D8%A8%D8%AA-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D8%B4%D8%BA%D9%84%DB%8C
+      - button "ورود | ثبت نام" [ref=e26] [cursor=pointer]
+    - navigation [ref=e30]:
+      - list [ref=e31]:
+        - listitem [ref=e32]:
+          - button "دسته بندی مشاغل" [ref=e33] [cursor=pointer]
+        - listitem [ref=e35]: "|"
+        - listitem [ref=e36]:
+          - link "تبلیغات با ما" [ref=e37] [cursor=pointer]:
+            - /url: /%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-%D9%88%D8%A8-%D8%B3%D8%A7%DB%8C%D8%AA-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+        - listitem [ref=e40]: "|"
+        - listitem [ref=e41]:
+          - link "دسترسی بانک مشاغل" [ref=e42] [cursor=pointer]:
+            - /url: /%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B4%D8%A7%D8%BA%D9%84-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+        - listitem [ref=e45]: "|"
+        - listitem [ref=e46]:
+          - link "پنل اس ام اس" [ref=e47] [cursor=pointer]:
+            - /url: /smspanel
+  - generic [ref=e53]:
+    - main [ref=e54]:
+      - generic [ref=e55]:
+        - img "لوگوی شرکت زیست بانی پایا - فروش ماشین آلات صنعتی و کشاورزی" [ref=e57]
+        - generic [ref=e58]:
+          - heading "شرکت زیست بانی پایا" [level=1] [ref=e59]
+          - generic [ref=e60]:
+            - generic [ref=e69]: "4.0"
+            - generic [ref=e70]: (1 نظر)
+          - list [ref=e71]:
+            - listitem [ref=e72]: فروش ماشین آلات صنعتی و کشاورزی
+            - listitem [ref=e73]: گلخانه و پرورش گل و گیاه
+      - generic [ref=e74]:
+        - link "تماس" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+        - button "ثبت نظر" [ref=e80] [cursor=pointer]
+        - button "ارتقای پروفایل" [ref=e83] [cursor=pointer]
+        - button "ویرایش" [ref=e86] [cursor=pointer]
+        - button "اشتراک گذاری" [ref=e91] [cursor=pointer]
+      - navigation [ref=e99]:
+        - list [ref=e100]:
+          - listitem [ref=e101]:
+            - link "link to home" [ref=e102] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e106]
+          - listitem [ref=e109]:
+            - link "دسته‌بندی مشاغل" [ref=e110] [cursor=pointer]:
+              - /url: /directory
+          - listitem [ref=e111]
+          - listitem [ref=e114]:
+            - link "فروش ماشین آلات صنعتی و کشاورزی" [ref=e115] [cursor=pointer]:
+              - /url: /directory/%D9%81%D8%B1%D9%88%D8%B4-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A2%D9%84%D8%A7%D8%AA-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C-%D9%88-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C
+          - listitem [ref=e116]
+          - listitem [ref=e119]:
+            - link "تهران" [ref=e120] [cursor=pointer]:
+              - /url: /directory/%D9%81%D8%B1%D9%88%D8%B4-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A2%D9%84%D8%A7%D8%AA-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C-%D9%88-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86
+          - listitem [ref=e121]
+          - listitem [ref=e124]:
+            - link "محله حسین آباد - مبارک آباد" [ref=e125] [cursor=pointer]:
+              - /url: /directory/%D9%81%D8%B1%D9%88%D8%B4-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A2%D9%84%D8%A7%D8%AA-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C-%D9%88-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%85%D8%AD%D9%84%D9%87-%D8%AD%D8%B3%DB%8C%D9%86-%D8%A2%D8%A8%D8%A7%D8%AF-%D9%85%D8%A8%D8%A7%D8%B1%DA%A9-%D8%A2%D8%A8%D8%A7%D8%AF
+      - generic [ref=e126]:
+        - heading "اطلاعات تماس" [level=2] [ref=e128]
+        - list [ref=e129]:
+          - listitem [ref=e130]:
+            - generic [ref=e131]: "آدرس :"
+            - generic [ref=e135]: تهران، منطقه 4، محله حسین آباد - مبارک آباد، پاسداران، خیابان اخوان، خیابان ساقدوش، کوچه شاهین، پلاک 20
+          - listitem [ref=e136]:
+            - generic [ref=e137]: "تلفن :"
+            - button "نمایش شماره" [ref=e140] [cursor=pointer]
+            - generic [ref=e141]: XXXXXXXXXX
+          - listitem [ref=e142]:
+            - generic [ref=e143]: "فکس :"
+            - button "نمایش شماره" [ref=e148] [cursor=pointer]
+            - generic [ref=e149]: XXXXXXXXXX
+          - listitem [ref=e150]:
+            - generic [ref=e151]: "ایمیل :"
+            - link "banipaya@safineh.net" [ref=e156] [cursor=pointer]:
+              - /url: mailto://banipaya@safineh.net
+          - listitem [ref=e157]:
+            - generic [ref=e158]: "کد پستی :"
+            - generic [ref=e162]: "1667914614"
+      - generic [ref=e164]:
+        - heading "توضیحات" [level=2] [ref=e166]
+        - generic [ref=e167]: برخوردار بودن از بالاترین استانداردهای روز دنیا و رعایت کلیه دستورالعمل های سازمان های کشوری مربوطه، متنوع بودن محصولات بر اساس نیاز مشتری، و همچنین عاری بودن از هر گونه مواد سمی. کیفییت غیر قابل رقابت محصولات ما تضمین کننده موفقیت شما می باشد.نماینده انحصاری کمپانی Barracane ایتالیا سازنده خطوط کامل روغن کشی زیتون در ایران و ماشین آلات فرآوری و بسته بندی زیتون و روغن زیتون
+      - generic [ref=e168]:
+        - heading "نظرات" [level=2] [ref=e170]
+        - generic [ref=e171]:
+          - paragraph [ref=e172]: لطفا به این کسب و کار امتیاز بدید و نظر خودتون رو درباره این کسب و کار بنویسید
+          - generic [ref=e173]:
+            - generic [ref=e176]:
+              - generic [ref=e177]: بدون رای
+              - generic "بدون رای" [ref=e179] [cursor=pointer]:
+                - textbox "امتیاز شما برای این کسب و کار" [ref=e211]
+            - generic [ref=e212]:
+              - generic [ref=e213]: حداکثر 2000 کاراکتر
+              - textbox "به نظر من ..." [ref=e214]
+              - button "ثبت نظر" [ref=e215] [cursor=pointer]
+          - generic [ref=e216]:
+            - generic [ref=e218]:
+              - generic [ref=e222]: حسین گرجی
+              - generic [ref=e223]: 1 سال پیش
+            - generic [ref=e233]:
+              - button "0" [ref=e234] [cursor=pointer]
+              - button "پاسخ" [ref=e238] [cursor=pointer]
+              - button "گزارش تخلف این نظر" [ref=e243] [cursor=pointer]
+          - text: ✕
+    - complementary [ref=e247]:
+      - generic [ref=e249]:
+        - generic [ref=e250]:
+          - generic:
+            - region "Map" [ref=e251]
+            - generic: برای بزرگنمایی نقشه، از ⌘ + پیمایش استفاده کنید
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e252] [cursor=pointer]
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e253] [cursor=pointer]
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e262] [cursor=pointer]
+          - generic:
+            - generic:
+              - generic [ref=e276]:
+                - button "Zoom in" [ref=e277] [cursor=pointer]
+                - button "Zoom out" [ref=e279] [cursor=pointer]
+              - button "Enter fullscreen" [ref=e282] [cursor=pointer]
+        - generic [ref=e284]:
+          - button "گوگل" [ref=e285] [cursor=pointer]
+          - button [ref=e292] [cursor=pointer]:
+            - img "بلد" [ref=e293]
+            - text: بلد
+          - button [ref=e294] [cursor=pointer]:
+            - img "نشان" [ref=e295]
+            - text: نشان
+      - list [ref=e298]:
+        - listitem [ref=e299]:
+          - paragraph [ref=e300]: نزدیک ترین ایستگاه مترو به شرکت زیست بانی پایا
+          - link "ایستگاه مترو میدان هروی 604 متر" [ref=e301] [cursor=pointer]:
+            - /url: /profile/26758/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%85%D8%AA%D8%B1%D9%88-%D9%85%DB%8C%D8%AF%D8%A7%D9%86-%D9%87%D8%B1%D9%88%DB%8C
+        - listitem [ref=e310]:
+          - paragraph [ref=e311]: نزدیک ترین ایستگاه اتوبوس به شرکت زیست بانی پایا
+          - link "ایستگاه اتوبوس گلستان پنجم - کد 233 - جنوب به شمال 115 متر" [ref=e312] [cursor=pointer]:
+            - /url: /profile/2fb0d/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A7%D8%AA%D9%88%D8%A8%D9%88%D8%B3-%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86-%D9%BE%D9%86%D8%AC%D9%85-%DA%A9%D8%AF-233-%D8%AC%D9%86%D9%88%D8%A8-%D8%A8%D9%87-%D8%B4%D9%85%D8%A7%D9%84
+      - generic [ref=e324]:
+        - heading "تصاویر" [level=2] [ref=e326]
+        - generic [ref=e327]:
+          - link "main image" [ref=e329] [cursor=pointer]:
+            - /url: /filehash/A9zAeihdhjApsvoCegbcggDtzq.jpg
+            - img "شرکت زیست بانی پایا - فروش ماشین آلات صنعتی و کشاورزی شماره 1" [ref=e330]
+          - generic [ref=e331]:
+            - link "Images" [ref=e333] [cursor=pointer]:
+              - /url: /filehash/A9zAeihdhjApsvoCegbcgfDtzq.jpg
+              - img "شرکت زیست بانی پایا - فروش ماشین آلات صنعتی و کشاورزی شماره 2" [ref=e334]
+            - link "Images" [ref=e336] [cursor=pointer]:
+              - /url: /filehash/A9zAeihdhjApsvoCegbcgdDtzq.jpg
+              - img "شرکت زیست بانی پایا - فروش ماشین آلات صنعتی و کشاورزی شماره 3" [ref=e337]
+            - link "Images" [ref=e339] [cursor=pointer]:
+              - /url: /filehash/A9zAeihdhjApsvoCegbcgcDtzq.jpg
+              - img "شرکت زیست بانی پایا - فروش ماشین آلات صنعتی و کشاورزی شماره 4" [ref=e340]
+            - link "Images" [ref=e342] [cursor=pointer]:
+              - /url: /filehash/A9zAeihdhjApsvoCegbcgbDtzq.jpg
+              - img "شرکت زیست بانی پایا - فروش ماشین آلات صنعتی و کشاورزی شماره 5" [ref=e343]
+            - link "More images" [ref=e344] [cursor=pointer]:
+              - /url: "#"
+      - generic [ref=e348]:
+        - generic [ref=e349]:
+          - generic [ref=e350]: آیا شما مالک یا مدیر این کسب و کار هستید؟
+          - button "مالک هستم" [ref=e351] [cursor=pointer]
+        - text: ✕
+      - generic [ref=e352]:
+        - heading "کسب و کارهای مشابه" [level=2] [ref=e354]
+        - navigation [ref=e355]:
+          - list [ref=e356]:
+            - listitem [ref=e357]:
+              - link "شرکت مهاب آرین کوپال (بارینکو) شرکت مهاب آرین کوپال (بارینکو) 4.5 (3 نظر) صنایع نفت و پتروشیمی کرج، شهرک صنعتی بهارستان" [ref=e358] [cursor=pointer]:
+                - /url: /profile/84a00/%D8%B4%D8%B1%DA%A9%D8%AA-%D9%85%D9%87%D8%A7%D8%A8-%D8%A2%D8%B1%DB%8C%D9%86-%DA%A9%D9%88%D9%BE%D8%A7%D9%84-%D8%A8%D8%A7%D8%B1%DB%8C%D9%86%DA%A9%D9%88
+                - img "شرکت مهاب آرین کوپال (بارینکو)" [ref=e359]
+                - generic [ref=e360]:
+                  - heading "شرکت مهاب آرین کوپال (بارینکو)" [level=3] [ref=e361]
+                  - generic [ref=e362]:
+                    - generic [ref=e373]: "4.5"
+                    - generic [ref=e374]: (3 نظر)
+                  - list [ref=e375]:
+                    - listitem [ref=e376]: صنایع نفت و پتروشیمی
+                  - generic [ref=e377]: کرج، شهرک صنعتی بهارستان
+            - listitem [ref=e381]:
+              - link "ایران بابکت ایران بابکت 4.5 (2 نظر) فروش ماشین آلات صنعتی و کشاورزی تهران، منطقه 11، میدان حر" [ref=e382] [cursor=pointer]:
+                - /url: /profile/edmwb/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%D8%A8%DA%A9%D8%AA
+                - img "ایران بابکت" [ref=e383]
+                - generic [ref=e384]:
+                  - heading "ایران بابکت" [level=3] [ref=e385]
+                  - generic [ref=e386]:
+                    - generic [ref=e397]: "4.5"
+                    - generic [ref=e398]: (2 نظر)
+                  - list [ref=e399]:
+                    - listitem [ref=e400]: فروش ماشین آلات صنعتی و کشاورزی
+                  - generic [ref=e401]: تهران، منطقه 11، میدان حر
+            - listitem [ref=e405]:
+              - link "شرکت سبزآفرین شرکت سبزآفرین 4.5 (2 نظر) گلخانه و پرورش گل و گیاه تهران، منطقه 2، محله صادقيه - آرياشهر، فلکه اول صادقیه" [ref=e406] [cursor=pointer]:
+                - /url: /profile/58e8a/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%B3%D8%A8%D8%B2%D8%A2%D9%81%D8%B1%DB%8C%D9%86
+                - img "شرکت سبزآفرین" [ref=e407]
+                - generic [ref=e408]:
+                  - heading "شرکت سبزآفرین" [level=3] [ref=e409]
+                  - generic [ref=e410]:
+                    - generic [ref=e421]: "4.5"
+                    - generic [ref=e422]: (2 نظر)
+                  - list [ref=e423]:
+                    - listitem [ref=e424]: گلخانه و پرورش گل و گیاه
+                  - generic [ref=e425]: تهران، منطقه 2، محله صادقيه - آرياشهر، فلکه اول صادقیه
+            - listitem [ref=e429]:
+              - link "گلخانه آرالیا 3.5 (1 نظر) گلخانه و پرورش گل و گیاه مرکزی، محلات، خیابان 15 خرداد" [ref=e430] [cursor=pointer]:
+                - /url: /profile/5385b/%DA%AF%D9%84%D8%AE%D8%A7%D9%86%D9%87-%D8%A2%D8%B1%D8%A7%D9%84%DB%8C%D8%A7
+                - generic [ref=e452]:
+                  - heading "گلخانه آرالیا" [level=3] [ref=e453]
+                  - generic [ref=e454]:
+                    - generic [ref=e463]: "3.5"
+                    - generic [ref=e464]: (1 نظر)
+                  - list [ref=e465]:
+                    - listitem [ref=e466]: گلخانه و پرورش گل و گیاه
+                  - generic [ref=e467]: مرکزی، محلات، خیابان 15 خرداد
+            - listitem [ref=e471]:
+              - link "شرکت ترسیم راه سبز شرکت ترسیم راه سبز 5.0 (1 نظر) گلخانه و پرورش گل و گیاه کرج، جاده محمد شهر" [ref=e472] [cursor=pointer]:
+                - /url: /profile/xmtct/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%AA%D8%B1%D8%B3%DB%8C%D9%85-%D8%B1%D8%A7%D9%87-%D8%B3%D8%A8%D8%B2
+                - img "شرکت ترسیم راه سبز" [ref=e473]
+                - generic [ref=e474]:
+                  - heading "شرکت ترسیم راه سبز" [level=3] [ref=e475]
+                  - generic [ref=e476]:
+                    - generic [ref=e487]: "5.0"
+                    - generic [ref=e488]: (1 نظر)
+                  - list [ref=e489]:
+                    - listitem [ref=e490]: گلخانه و پرورش گل و گیاه
+                  - generic [ref=e491]: کرج، جاده محمد شهر
+            - listitem [ref=e495]:
+              - link "گلخانه ساز گل سبز میثاق گلخانه ساز گل سبز میثاق 5.0 (1 نظر) گلخانه و پرورش گل و گیاه تهران، منطقه 6، محله جمالزاده، بلوار کشاورز" [ref=e496] [cursor=pointer]:
+                - /url: /profile/07797/%DA%AF%D9%84%D8%AE%D8%A7%D9%86%D9%87-%D8%B3%D8%A7%D8%B2-%DA%AF%D9%84-%D8%B3%D8%A8%D8%B2-%D9%85%DB%8C%D8%AB%D8%A7%D9%82
+                - img "گلخانه ساز گل سبز میثاق" [ref=e497]
+                - generic [ref=e498]:
+                  - heading "گلخانه ساز گل سبز میثاق" [level=3] [ref=e499]
+                  - generic [ref=e500]:
+                    - generic [ref=e511]: "5.0"
+                    - generic [ref=e512]: (1 نظر)
+                  - list [ref=e513]:
+                    - listitem [ref=e514]: گلخانه و پرورش گل و گیاه
+                  - generic [ref=e515]: تهران، منطقه 6، محله جمالزاده، بلوار کشاورز
+            - listitem [ref=e519]:
+              - link "خانه گیاه افرا خانه گیاه افرا 5.0 (1 نظر) گلخانه و پرورش گل و گیاه تهران، منطقه 5، محله آپادانا، شهرک اکباتان" [ref=e520] [cursor=pointer]:
+                - /url: /profile/716bd/%D8%AE%D8%A7%D9%86%D9%87-%DA%AF%DB%8C%D8%A7%D9%87-%D8%A7%D9%81%D8%B1%D8%A7
+                - img "خانه گیاه افرا" [ref=e521]
+                - generic [ref=e522]:
+                  - heading "خانه گیاه افرا" [level=3] [ref=e523]
+                  - generic [ref=e524]:
+                    - generic [ref=e535]: "5.0"
+                    - generic [ref=e536]: (1 نظر)
+                  - list [ref=e537]:
+                    - listitem [ref=e538]: گلخانه و پرورش گل و گیاه
+                  - generic [ref=e539]: تهران، منطقه 5، محله آپادانا، شهرک اکباتان
+    - text: ✕ ✕
+  - contentinfo [ref=e543]:
+    - generic [ref=e544]:
+      - generic [ref=e545]:
+        - link "home page" [ref=e546] [cursor=pointer]:
+          - /url: /
+        - list [ref=e549]:
+          - listitem [ref=e550]:
+            - link "Telegram" [ref=e551] [cursor=pointer]:
+              - /url: https://t.me/avval_ir
+          - listitem [ref=e557]:
+            - link "instagram" [ref=e558] [cursor=pointer]:
+              - /url: https://instagram.com/ketabeavval.officialpage
+          - listitem [ref=e563]:
+            - link "Twitter" [ref=e564] [cursor=pointer]:
+              - /url: https://twitter.com/ketabeavvalir
+          - listitem [ref=e568]:
+            - link "Facebook" [ref=e569] [cursor=pointer]:
+              - /url: https://www.facebook.com/avval/
+          - listitem [ref=e573]:
+            - link "Linkedin" [ref=e574] [cursor=pointer]:
+              - /url: https://linkedin.com/company/ketabeavval/
+      - navigation [ref=e579]:
+        - generic [ref=e580]:
+          - generic [ref=e581]: درباره کتاب اول
+          - list [ref=e582]:
+            - listitem [ref=e583]:
+              - link "درباره کتاب اول" [ref=e584] [cursor=pointer]:
+                - /url: /about-ketabeavval
+            - listitem [ref=e585]:
+              - link "تماس با کتاب اول" [ref=e586] [cursor=pointer]:
+                - /url: /contact-us
+            - listitem [ref=e587]:
+              - link "شرایط استفاده" [ref=e588] [cursor=pointer]:
+                - /url: /terms-conditions
+            - listitem [ref=e589]:
+              - link "حریم شخضی" [ref=e590] [cursor=pointer]:
+                - /url: /privacy-policy
+        - generic [ref=e591]:
+          - generic [ref=e592]: کشف کنید
+          - list [ref=e593]:
+            - listitem [ref=e594]:
+              - link "دسته بندی مشاغل" [ref=e595] [cursor=pointer]:
+                - /url: /directory
+            - listitem [ref=e596]:
+              - link "نقشه سایت" [ref=e597] [cursor=pointer]:
+                - /url: /sitemap
+            - listitem [ref=e598]:
+              - link "دسترسی بانک مشاغل کتاب اول" [ref=e599] [cursor=pointer]:
+                - /url: /%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B4%D8%A7%D8%BA%D9%84-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+            - listitem [ref=e600]:
+              - link "پنل اس ام اس" [ref=e601] [cursor=pointer]:
+                - /url: /smspanel
+        - generic [ref=e602]:
+          - generic [ref=e603]: صاحبین مشاغل در کتاب اول
+          - list [ref=e604]:
+            - listitem [ref=e605]:
+              - link "ثبت اطلاعات شغلی" [ref=e606] [cursor=pointer]:
+                - /url: /%D8%AB%D8%A8%D8%AA-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D8%B4%D8%BA%D9%84%DB%8C
+            - listitem [ref=e607]:
+              - link "تبلیغات با کتاب اول" [ref=e608] [cursor=pointer]:
+                - /url: /%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-%D9%88%D8%A8-%D8%B3%D8%A7%DB%8C%D8%AA-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+    - generic [ref=e609]:
+      - img "samandehi logo" [ref=e611] [cursor=pointer]
+      - link "enamad logo" [ref=e613] [cursor=pointer]:
+        - /url: https://trustseal.enamad.ir/?id=194990&Code=3Y0m3d1djm9fuqjoC8mT
+        - img "logo-enamad" [ref=e614]
+    - generic [ref=e615]: 1373-1403 © تمامی حقوق برای شرکت کتاب اول محفوظ است
+  - text: ✕ *
+```

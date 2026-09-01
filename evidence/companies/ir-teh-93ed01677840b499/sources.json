@@ -1,0 +1,94 @@
+{
+  "company_id": "ir-teh-93ed01677840b499",
+  "errors": [],
+  "generated_at": "2026-09-01T08:21:57Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [
+    {
+      "bytes": 1793229,
+      "captured_at": "2026-09-01T08:21:55Z",
+      "company_id": "ir-teh-93ed01677840b499",
+      "headless": true,
+      "page_title": "فروشگاه اینترنتی آرکابست",
+      "path": "companies/ir-teh-93ed01677840b499/screenshots/homepage.png",
+      "reason_this_matters": "Public company homepage is the primary visual evidence surface.",
+      "screenshot_type": "homepage",
+      "source_url": "https://arkabast.com/"
+    }
+  ],
+  "sources": [
+    {
+      "discovered_at": "2026-09-01T06:32:18Z",
+      "discovery_reason": "Book-e Avval category: تجهیزات برق صنعتی",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "آرکا بست : مرجع تخصصی انواع بست فشار قوی عمده محصولات این مجموعه : خرید بست فلزی در برندهای: بست فلزی TORK ،بست فلزی اف اف FF-CO، بست فلزی اف ام ای FMI، و مدل تایوان خرید",
+      "source_quality": "directory",
+      "source_title": "تجهیزات برق صنعتی در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D8%AA%D8%AC%D9%87%DB%8C%D8%B2%D8%A7%D8%AA%20%D8%A8%D8%B1%D9%82%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:32:18Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-8515f11c36a8d1e7",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "آرکا بست : مرجع تخصصی انواع بست فشار قوی عمده محصولات این مجموعه : خرید بست فلزی در برندهای: بست فلزی TORK ،بست فلزی اف اف FF-CO، بست فلزی اف ام ای FMI، و مدل تایوان خرید",
+      "source_quality": "directory",
+      "source_title": "تجهیزات برق صنعتی در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D8%AA%D8%AC%D9%87%DB%8C%D8%B2%D8%A7%D8%AA%20%D8%A8%D8%B1%D9%82%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:53Z",
+      "claim": "Directory profile lists آرکا بست with a public Tehran business listing.",
+      "confidence": 0.82,
+      "evidence_id": "ev-9b4aa65541b90b30",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "آرکا بست - تولید بست فلزی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس آرکا بست 5.0 (2 نظر) آرکابست نماینده اصلی بست TORK در کشور انواع بست فشار قوی تولید بست فلزی تجهیزات برق صنعتی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل تولید بست فلزی تهران محله پامنار اطلاعات تماس آدرس : تهران، منطقه 12، محله پامنار، خیابان امیرکبیر، خیابان ناظم الاطبا جنوبی، کوچه ناهید، پلاک 2، واحد 3 تلفن : نمایش شمار",
+      "source_quality": "directory",
+      "source_title": "آرکا بست - تولید بست فلزی | کتاب اول",
+      "source_url": "https://avval.ir/profile/njesl/%D8%A2%D8%B1%DA%A9%D8%A7-%D8%A8%D8%B3%D8%AA"
+    },
+    {
+      "captured_at": "2026-09-01T07:15:02Z",
+      "claim": "Public website signal: rfq_or_quote",
+      "confidence": 0.86,
+      "evidence_id": "ev-90f5820e0e74e441",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "استعلام قیمت; تماس با فروش | فروشگاه اینترنتی آرکابست آرکابست – مرکز جامع تولید و توزیع محصولات صنعتی و یدکی توجه: قبل از سفارش حتما استعلام قیمت بگیرید. خانه دسته ها 0 علاقه مندی ها حساب کاربری منو ورود/ثبت نام وارد شوید کاربر جدید هستید؟ ثبت نام پیشخوان سفارش ها دانلود ها آدرس اطلاعات حساب كاربری اعلانات من نظرات پیگیری سفارش خروج 0 دسته بندی محصولات ابزارآلات برقی دریل اره برقی پیچ گوشتی و دریل شارژی آچار ضربه ای پروفیل بر جاروبرقی صنعتی دستگ",
+      "signal": "rfq_or_quote",
+      "source_quality": "company_site",
+      "source_title": "فروشگاه اینترنتی آرکابست",
+      "source_url": "https://arkabast.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:15:02Z",
+      "claim": "Public website signal: catalog_or_products",
+      "confidence": 0.86,
+      "evidence_id": "ev-c7a13ee19faa005b",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "کاتالوگ; محصولات; محصول | فروشگاه اینترنتی آرکابست آرکابست – مرکز جامع تولید و توزیع محصولات صنعتی و یدکی توجه: قبل از سفارش حتما استعلام قیمت بگیرید. خانه دسته ها 0 علاقه مندی ها حساب کاربری منو ورود/ثبت نام وارد شوید کاربر جدید هستید؟ ثبت نام پیشخوان سفارش ها دانلود ها آدرس اطلاعات حساب كاربری اعلانات من نظرات پیگیری سفارش خروج 0 دسته بندی محصولات ابزارآلات برقی دریل اره برقی پیچ گوشتی و دریل شارژی آچار ضربه ای پروفیل بر جاروبرقی صنعتی دستگ",
+      "signal": "catalog_or_products",
+      "source_quality": "company_site",
+      "source_title": "فروشگاه اینترنتی آرکابست",
+      "source_url": "https://arkabast.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:15:02Z",
+      "claim": "Public website signal: order_or_contact_form",
+      "confidence": 0.72,
+      "evidence_id": "ev-5399160e9797f1ca",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "ثبت سفارش; تماس با ما | فروشگاه اینترنتی آرکابست آرکابست – مرکز جامع تولید و توزیع محصولات صنعتی و یدکی توجه: قبل از سفارش حتما استعلام قیمت بگیرید. خانه دسته ها 0 علاقه مندی ها حساب کاربری منو ورود/ثبت نام وارد شوید کاربر جدید هستید؟ ثبت نام پیشخوان سفارش ها دانلود ها آدرس اطلاعات حساب كاربری اعلانات من نظرات پیگیری سفارش خروج 0 دسته بندی محصولات ابزارآلات برقی دریل اره برقی پیچ گوشتی و دریل شارژی آچار ضربه ای پروفیل بر جاروبرقی صنعتی دستگ",
+      "signal": "order_or_contact_form",
+      "source_quality": "company_site",
+      "source_title": "فروشگاه اینترنتی آرکابست",
+      "source_url": "https://arkabast.com/"
+    }
+  ]
+}

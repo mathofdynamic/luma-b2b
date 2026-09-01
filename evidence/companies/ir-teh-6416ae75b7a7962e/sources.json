@@ -1,0 +1,85 @@
+{
+  "company_id": "ir-teh-6416ae75b7a7962e",
+  "errors": [
+    {
+      "error": "### Browser `luma-b2b-ir-teh-6416ae75b7a7962e-attempt-1` opened with pid 45001.\n### Error\nError: net::ERR_TIMED_OUT at https://api.whatsapp.com/send?text=avval.ir/profile/f96e1/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%AA%D9%88%D9%84%DB%8C%D8%AF%DB%8C-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA%DB%8C-%D8%B1%D8%B3%D8%A7%D9%86-%D8%BA%D8%B0%D8%A7%DB%8C-%D8%A2%D9%85%D8%A7%D8%AF%D9%87\nCall log:\n\u001b[2m  - navigating to \"https://api.whatsapp.com/send?text=avval.ir/profile/f96e1/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%AA%D9%88%D9%84%DB%8C%D8%AF%DB%8C-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA%DB%8C-%D8%B1%D8%B3%D8%A7%D9%86-%D8%BA%D8%B0%D8%A7%DB%8C-%D8%A2%D9%85%D8%A7%D8%AF%D9%87\", waiting until \"domcontentloaded\"\u001b[22m\n\n",
+      "source_url": "https://api.whatsapp.com/send?text=avval.ir/profile/f96e1/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%AA%D9%88%D9%84%DB%8C%D8%AF%DB%8C-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA%DB%8C-%D8%B1%D8%B3%D8%A7%D9%86-%D8%BA%D8%B0%D8%A7%DB%8C-%D8%A2%D9%85%D8%A7%D8%AF%D9%87",
+      "stage": "open"
+    }
+  ],
+  "generated_at": "2026-09-01T08:49:23Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [
+    {
+      "bytes": 48098,
+      "captured_at": "2026-09-01T08:49:21Z",
+      "company_id": "ir-teh-6416ae75b7a7962e",
+      "headless": true,
+      "page_title": ".:: نماد تجارت الکترونیکی ::. خطا",
+      "path": "companies/ir-teh-6416ae75b7a7962e/screenshots/homepage_candidate-2.png",
+      "reason_this_matters": "Public company-site candidate; capture verifies whether it is reachable.",
+      "screenshot_type": "homepage_candidate_fallback",
+      "source_url": "https://trustseal.enamad.ir/?id=194990&Code=3Y0m3d1djm9fuqjoC8mT"
+    }
+  ],
+  "sources": [
+    {
+      "discovered_at": "2026-09-01T06:31:45Z",
+      "discovery_reason": "Book-e Avval category: تولید مواد غذایی",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "شرکت تولیدی خدماتی رسان (غذای آماده)",
+      "source_quality": "directory",
+      "source_title": "تولید مواد غذایی در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/search/%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D9%85%D9%88%D8%A7%D8%AF-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86?page=2"
+    },
+    {
+      "discovered_at": "2026-09-01T06:31:45Z",
+      "discovery_reason": "Book-e Avval category: بسته بندی مواد غذایی",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "تولید مواد غذایی - بسته بندی مواد غذایی",
+      "source_quality": "directory",
+      "source_title": "بسته بندی مواد غذایی در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D8%A8%D8%B3%D8%AA%D9%87%20%D8%A8%D9%86%D8%AF%DB%8C%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:31:45Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-c4ead74af029d41c",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "شرکت تولیدی خدماتی رسان (غذای آماده)",
+      "source_quality": "directory",
+      "source_title": "تولید مواد غذایی در تهران | کتاب اول",
+      "source_url": "https://avval.ir/search/%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D9%85%D9%88%D8%A7%D8%AF-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86?page=2"
+    },
+    {
+      "captured_at": "2026-09-01T06:31:45Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-c4c81d4258f1e5c3",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "تولید مواد غذایی - بسته بندی مواد غذایی",
+      "source_quality": "directory",
+      "source_title": "بسته بندی مواد غذایی در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D8%A8%D8%B3%D8%AA%D9%87%20%D8%A8%D9%86%D8%AF%DB%8C%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:53Z",
+      "claim": "Directory profile lists شرکت تولیدی خدماتی رسان (غذای آماده) with a public Tehran business listing.",
+      "confidence": 0.82,
+      "evidence_id": "ev-b0c306775afdae05",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "شرکت تولیدی خدماتی رسان (غذای آماده) - تولید مواد غذایی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس شرکت تولیدی خدماتی رسان (غذای آماده) تولید مواد غذایی بسته بندی مواد غذایی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل تولید مواد غذایی تهران محله مجید آباد اطلاعات تماس آدرس : تهران، منطقه 4، محله مجید آباد، دماوند، خیابان سازمان آب، کوچه نیلی، پلاک 7 تلفن : نمایش شماره XXXXXXXXXX فکس : نمایش ",
+      "source_quality": "directory",
+      "source_title": "شرکت تولیدی خدماتی رسان (غذای آماده) - تولید مواد غذایی | کتاب اول",
+      "source_url": "https://avval.ir/profile/f96e1/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%AA%D9%88%D9%84%DB%8C%D8%AF%DB%8C-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA%DB%8C-%D8%B1%D8%B3%D8%A7%D9%86-%D8%BA%D8%B0%D8%A7%DB%8C-%D8%A2%D9%85%D8%A7%D8%AF%D9%87"
+    }
+  ]
+}

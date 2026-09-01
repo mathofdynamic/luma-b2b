@@ -1,0 +1,809 @@
+### Page
+- Page URL: https://otcgroup.ir/
+- Page Title: مرکز آپشن و تیونینگ محصولات کرمان موتور
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e7]:
+          - link "Site logo" [ref=e10] [cursor=pointer]:
+            - /url: https://otcgroup.ir/
+            - img "مرکز آپشن و تیونینگ محصولات کرمان موتور" [ref=e11]
+          - search [ref=e14]:
+            - textbox "جستجو" [ref=e15]:
+              - /placeholder: جستجوی محصولات
+            - text: 
+            - link "انتخاب دسته بندی " [ref=e17] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e18]: انتخاب دسته بندی
+              - text: 
+            - button "جستجو " [ref=e19] [cursor=pointer]:
+              - generic: جستجو
+              - text: 
+          - generic [ref=e20]:
+            - link "ورود / ثبت نام" [ref=e22] [cursor=pointer]:
+              - /url: https://otcgroup.ir/my-account/
+              - text: 
+            - generic [ref=e24]:
+              - link "لینک شبکه اجتماعی اینستاگرام" [ref=e25] [cursor=pointer]:
+                - /url: https://www.instagram.com/otc.group
+                - generic [ref=e26]: 
+              - link "لینک شبکه اجتماعی واتساپ" [ref=e27] [cursor=pointer]:
+                - /url: https://wa.me/989381221999
+                - generic [ref=e28]: 
+              - text: 
+          - text:     
+        - generic [ref=e31]:
+          - navigation "منوی دسته های هدر" [ref=e33]:
+            - generic [ref=e34]:
+              - generic [ref=e35]: 
+              - generic [ref=e36]: مرور دسته ها
+              - text: 
+          - navigation "ناوبری اصلی" [ref=e38]:
+            - list [ref=e39]:
+              - listitem [ref=e40]:
+                - link "صفحه اصلی" [ref=e41] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/
+              - listitem [ref=e43]:
+                - link "محصولات" [ref=e44] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+              - listitem [ref=e46]:
+                - link "خدمات otc " [ref=e47] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-otc/
+                  - generic [ref=e48]: خدمات otc
+                  - text: 
+              - listitem [ref=e49]:
+                - link "نمونه کارها" [ref=e50] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/%da%af%d8%a7%d9%84%d8%b1%db%8c-%d8%aa%d8%b5%d8%a7%d9%88%db%8c%d8%b1/
+              - listitem [ref=e52]:
+                - link "بلاگ " [ref=e53] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/blog/
+                  - generic [ref=e54]: بلاگ
+                  - text: 
+              - listitem [ref=e55]:
+                - link "درباره ما " [ref=e56] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e57]: درباره ما
+                  - text: 
+              - listitem [ref=e58]:
+                - link "راهنما " [ref=e59] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e60]: راهنما
+                  - text: 
+          - generic [ref=e61]:
+            - generic [ref=e63]:
+              - img "bf-call-icon" [ref=e67]
+              - generic [ref=e69]:
+                - generic [ref=e70]: سفارش تلفنی
+                - paragraph [ref=e71]: 021-44991748-9
+            - generic "علاقه مندی های من" [ref=e72]:
+              - link " 0" [ref=e73] [cursor=pointer]:
+                - /url: https://otcgroup.ir/wishlist/
+                - generic [ref=e74]:
+                  - text: 
+                  - generic [ref=e75]: "0"
+    - main [ref=e77]:
+      - article [ref=e79]:
+        - generic [ref=e80]:
+          - generic [ref=e82]:
+            - region "کاروسل تصویر" [ref=e87]:
+              - generic [ref=e88]:
+                - group [ref=e89]:
+                  - link [ref=e90] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+                    - figure [ref=e91]
+                - group "1 / 3" [ref=e93]:
+                  - link [ref=e94] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+                    - figure [ref=e95]:
+                      - img "خدمات گروه OTC - تیونینگ و آپشن خودرو" [ref=e96]
+                - group [ref=e97]:
+                  - link [ref=e98] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+                    - figure [ref=e99]
+                - group [ref=e101]:
+                  - link [ref=e102] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+                    - figure [ref=e103]
+                - group [ref=e105]:
+                  - link [ref=e106] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+                    - figure [ref=e107]
+              - button "اسلاید قبلی" [ref=e109] [cursor=pointer]:
+                - generic [ref=e110]: 
+              - button "اسلاید بعدی" [ref=e111] [cursor=pointer]:
+                - generic [ref=e112]: 
+              - generic [ref=e113]:
+                - button "به اسلاید بروید 1" [ref=e114] [cursor=pointer]
+                - button "به اسلاید بروید 2" [ref=e115] [cursor=pointer]
+                - button "به اسلاید بروید 3" [ref=e116] [cursor=pointer]
+            - generic [ref=e118]:
+              - link [ref=e121] [cursor=pointer]:
+                - /url: https://otcgroup.ir/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+                - img "نمونه آپشن و تیونینگ" [ref=e122]
+              - img "مرکز آپشن و تیونینگ" [ref=e125]
+            - generic [ref=e127]:
+              - link [ref=e130] [cursor=pointer]:
+                - /url: https://otcgroup.ir/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+                - img "لوازم یدکی خودرو" [ref=e131]
+              - link [ref=e134] [cursor=pointer]:
+                - /url: tel:02144991748
+                - img "سفارش تلفنی محصولات" [ref=e135]
+          - generic [ref=e137]:
+            - generic [ref=e143]:
+              - img "shield" [ref=e147]
+              - generic [ref=e148]:
+                - generic [ref=e149]: محصولات اورجینال
+                - generic [ref=e150]: ضمانت اورجینال بودن
+              - link "Infobox link" [ref=e151] [cursor=pointer]:
+                - /url: "#"
+            - generic [ref=e157]:
+              - img "like" [ref=e161]
+              - generic [ref=e162]:
+                - generic [ref=e163]: محصولات بروز
+                - generic [ref=e164]: جدیدترین های دنیا
+              - link "Infobox link" [ref=e165] [cursor=pointer]:
+                - /url: "#"
+            - generic [ref=e171]:
+              - img "delivery-truck" [ref=e175]
+              - generic [ref=e176]:
+                - generic [ref=e177]: ارسال درب منزل
+                - generic [ref=e178]: پیک موتوری ، پست
+              - link "Infobox link" [ref=e179] [cursor=pointer]:
+                - /url: "#"
+            - generic [ref=e185]:
+              - img "telephone(1)" [ref=e189]
+              - generic [ref=e190]:
+                - generic [ref=e191]: پشتیبانی سریع
+                - generic [ref=e192]: تماس در ساعات اداری
+              - link "Infobox link" [ref=e193] [cursor=pointer]:
+                - /url: "#"
+            - generic [ref=e199]:
+              - img "credit-card(1)" [ref=e203]
+              - generic [ref=e204]:
+                - generic [ref=e205]: پرداخت امن
+                - generic [ref=e206]: همه کارتهای عضو شتاب
+              - link "Infobox link" [ref=e207] [cursor=pointer]:
+                - /url: "#"
+            - generic [ref=e213]:
+              - img "love" [ref=e217]
+              - generic [ref=e218]:
+                - generic [ref=e219]: اینستاگرام ما
+                - generic [ref=e220]: تخفیف های ویژه در اینستاگرام
+              - link "Infobox link" [ref=e221] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=e225]:
+            - heading "برند محصولات" [level=2] [ref=e230]
+            - generic [ref=e234]:
+              - generic [ref=e236]:
+                - link "Category image" [ref=e238] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product-category/%d8%a8%d8%b1%d9%86%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%da%a9-%d8%a7%d9%85-%d8%b3%db%8c/
+                  - img "کی ام سی" [ref=e239]
+                - generic [ref=e240]:
+                  - heading "کی ام سی" [level=3] [ref=e241]
+                  - link "90 محصول" [ref=e243] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product-category/%d8%a8%d8%b1%d9%86%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%da%a9-%d8%a7%d9%85-%d8%b3%db%8c/
+                - link "دسته بندی محصولات %da%a9-%d8%a7%d9%85-%d8%b3%db%8c" [ref=e244] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product-category/%d8%a8%d8%b1%d9%86%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%da%a9-%d8%a7%d9%85-%d8%b3%db%8c/
+              - generic [ref=e246]:
+                - link "Category image" [ref=e248] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product-category/%d8%a8%d8%b1%d9%86%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%ac%da%a9/
+                  - img "خودرو جک" [ref=e249]
+                - generic [ref=e250]:
+                  - heading "جک" [level=3] [ref=e251]
+                  - link "130 محصول" [ref=e253] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product-category/%d8%a8%d8%b1%d9%86%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%ac%da%a9/
+                - link "دسته بندی محصولات %d8%ac%da%a9" [ref=e254] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product-category/%d8%a8%d8%b1%d9%86%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d8%ac%da%a9/
+              - generic [ref=e256]:
+                - link "Category image" [ref=e258] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product-category/%d8%a8%d8%b1%d9%86%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d9%87%db%8c%d9%88%d9%86%d8%af%d8%a7/
+                  - img "خودرو هیوندای" [ref=e259]
+                - generic [ref=e260]:
+                  - heading "هیوندای" [level=3] [ref=e261]
+                  - link "53 محصول" [ref=e263] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product-category/%d8%a8%d8%b1%d9%86%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d9%87%db%8c%d9%88%d9%86%d8%af%d8%a7/
+                - link "دسته بندی محصولات %d9%87%db%8c%d9%88%d9%86%d8%af%d8%a7" [ref=e264] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product-category/%d8%a8%d8%b1%d9%86%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88/%d9%87%db%8c%d9%88%d9%86%d8%af%d8%a7/
+          - generic [ref=e268]:
+            - heading "آپشن و تیونینگ محصولات کرمان موتور" [level=1] [ref=e271]
+            - generic [ref=e273]:
+              - button "درباره پخش ویدیو تیونینگ OTC" [ref=e281] [cursor=pointer]:
+                - generic [ref=e282]: 
+              - button "درباره پخش ویدیو محصولات سوناکس" [ref=e290] [cursor=pointer]:
+                - generic [ref=e291]: 
+              - button "درباره پخش ویدیو مرکز OTC" [ref=e299] [cursor=pointer]:
+                - generic [ref=e300]: 
+              - button "درباره پخش ویدیو همکاری otc spot" [ref=e308] [cursor=pointer]:
+                - generic [ref=e309]: 
+            - heading "لوازم آپشن و تیونینگ" [level=2] [ref=e314]
+            - generic [ref=e318]:
+              - generic [ref=e320]:
+                - link [ref=e322] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product/%d8%ac%d8%b9%d8%a8%d9%87-%da%a9%d9%85%da%a9%d9%87%d8%a7%db%8c-%d8%a7%d9%88%d9%84%db%8c%d9%87-%d9%87%d8%a7%d8%b1%d8%aa%d9%85%d9%86-%d9%85%d8%b4%da%a9%db%8c/
+                - heading [level=3] [ref=e323]:
+                  - link "جعبه کمکهای اولیه هارتمن مشکی" [ref=e324] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product/%d8%ac%d8%b9%d8%a8%d9%87-%da%a9%d9%85%da%a9%d9%87%d8%a7%db%8c-%d8%a7%d9%88%d9%84%db%8c%d9%87-%d9%87%d8%a7%d8%b1%d8%aa%d9%85%d9%86-%d9%85%d8%b4%da%a9%db%8c/
+              - generic [ref=e326]:
+                - link [ref=e328] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product/%d8%af%d9%88%d8%b1%d8%a8%db%8c%d9%86-360-kh/
+                  - img "دوربین ۳۶۰ KH" [ref=e329]
+                - heading [level=3] [ref=e330]:
+                  - link "دوربین ۳۶۰ KH" [ref=e331] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product/%d8%af%d9%88%d8%b1%d8%a8%db%8c%d9%86-360-kh/
+              - generic [ref=e333]:
+                - link [ref=e335] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product/%d8%af%d9%88%d8%b1%d8%a8%db%8c%d9%86-360-super-hd-3d-4/
+                  - img "دوربین ۳۶۰ درجه خودرو Super HD 3D" [ref=e336]
+                - heading [level=3] [ref=e337]:
+                  - link "دوربین ۳۶۰ درجه خودرو Super HD 3D" [ref=e338] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product/%d8%af%d9%88%d8%b1%d8%a8%db%8c%d9%86-360-super-hd-3d-4/
+              - generic [ref=e340]:
+                - link [ref=e342] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product/%d8%af%d9%88%d8%b1%d8%a8%db%8c%d9%86-%d8%ab%d8%a8%d8%aa-%d9%88%d9%82%d8%a7%db%8c%d8%b9-%d8%ae%d9%88%d8%af%d8%b1%d9%88-otc-%d9%85%d8%af%d9%84-v8/
+                - heading [level=3] [ref=e343]:
+                  - link "دوربین ثبت وقایع خودرو OTC – مدل V8" [ref=e344] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product/%d8%af%d9%88%d8%b1%d8%a8%db%8c%d9%86-%d8%ab%d8%a8%d8%aa-%d9%88%d9%82%d8%a7%db%8c%d8%b9-%d8%ae%d9%88%d8%af%d8%b1%d9%88-otc-%d9%85%d8%af%d9%84-v8/
+              - generic [ref=e346]:
+                - link [ref=e348] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product/%d8%af%d9%88%d8%b1%d8%a8%db%8c%d9%86-%d8%ab%d8%a8%d8%aa-%d9%88%d9%82%d8%a7%db%8c%d8%b9-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%b3%db%8c%d9%85-%da%a9%d8%a7%d8%b1%d8%aa-%d8%ae%d9%88%d8%b1-otc/
+                  - img "دوربین ثبت وقایع خودرو سیم کارت خور OTC – مدل 4G K19" [ref=e349]
+                - heading [level=3] [ref=e350]:
+                  - link "دوربین ثبت وقایع خودرو سیم کارت خور OTC – مدل 4G K19" [ref=e351] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product/%d8%af%d9%88%d8%b1%d8%a8%db%8c%d9%86-%d8%ab%d8%a8%d8%aa-%d9%88%d9%82%d8%a7%db%8c%d8%b9-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%b3%db%8c%d9%85-%da%a9%d8%a7%d8%b1%d8%aa-%d8%ae%d9%88%d8%b1-otc/
+              - generic [ref=e353]:
+                - link [ref=e355] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product/%d8%b1%d8%a7%d8%af%d8%a7%d8%b1-%d8%ac%d8%a7%d9%86%d8%a8%db%8c-%d9%86%d9%82%d8%b7%d9%87-%da%a9%d9%88%d8%b1/
+                  - img "رادار جانبی نقطه کور" [ref=e356]
+                - heading [level=3] [ref=e357]:
+                  - link "رادار جانبی نقطه کور" [ref=e358] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product/%d8%b1%d8%a7%d8%af%d8%a7%d8%b1-%d8%ac%d8%a7%d9%86%d8%a8%db%8c-%d9%86%d9%82%d8%b7%d9%87-%da%a9%d9%88%d8%b1/
+            - heading "لوازم صوتی و تصویری" [level=2] [ref=e363]
+            - generic [ref=e367]:
+              - generic [ref=e369]:
+                - link [ref=e371] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product/%d8%a2%d9%85%d9%be%db%8c%d9%84%db%8c-%d9%be%d8%a7%db%8c%d9%88%d9%86%db%8c%d8%b1-3702/
+                - heading [level=3] [ref=e372]:
+                  - link "آمپیلی پایونیر 3702" [ref=e373] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product/%d8%a2%d9%85%d9%be%db%8c%d9%84%db%8c-%d9%be%d8%a7%db%8c%d9%88%d9%86%db%8c%d8%b1-3702/
+              - generic [ref=e375]:
+                - link [ref=e377] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product/%d8%a2%d9%85%d9%be%db%8c%d9%84%db%8c-%d9%85%db%8c%d9%86%db%8c%d8%a7%d8%aa%d9%88%d8%b1%db%8c-%da%a9%d9%86%d9%88%d9%88%d8%af/
+                - heading [level=3] [ref=e378]:
+                  - link "آمپیلی مینیاتوری کنوود" [ref=e379] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product/%d8%a2%d9%85%d9%be%db%8c%d9%84%db%8c-%d9%85%db%8c%d9%86%db%8c%d8%a7%d8%aa%d9%88%d8%b1%db%8c-%da%a9%d9%86%d9%88%d9%88%d8%af/
+              - generic [ref=e381]:
+                - generic [ref=e382]:
+                  - link [ref=e383] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product/%d8%a2%d9%86%d8%aa%d9%86-%d8%af%db%8c%d8%ac%db%8c%d8%aa%d8%a7%d9%84-%d9%88%db%8c%d9%86%da%a9%d8%a7/
+                    - img "آنتن دیجیتال وینکا" [ref=e384]
+                  - link "تصویر محصول" [ref=e386] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product/%d8%a2%d9%86%d8%aa%d9%86-%d8%af%db%8c%d8%ac%db%8c%d8%aa%d8%a7%d9%84-%d9%88%db%8c%d9%86%da%a9%d8%a7/
+                - heading [level=3] [ref=e387]:
+                  - link "آنتن دیجیتال وینکا" [ref=e388] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product/%d8%a2%d9%86%d8%aa%d9%86-%d8%af%db%8c%d8%ac%db%8c%d8%aa%d8%a7%d9%84-%d9%88%db%8c%d9%86%da%a9%d8%a7/
+              - generic [ref=e390]:
+                - link [ref=e392] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product/%d8%a8%d8%a7%d9%86%d8%af-%d8%a2%d9%84%d9%be%d8%a7%db%8c%d9%86-spg-17cs/
+                - heading [level=3] [ref=e393]:
+                  - link "باند آلپاین ( SPG-17CS )" [ref=e394] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product/%d8%a8%d8%a7%d9%86%d8%af-%d8%a2%d9%84%d9%be%d8%a7%db%8c%d9%86-spg-17cs/
+              - generic [ref=e396]:
+                - link [ref=e398] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product/%d8%a8%d8%a7%d9%86%d8%af-%d9%be%d8%a7%db%8c%d9%88%d9%86%db%8c%d8%b1-1306/
+                - heading [level=3] [ref=e399]:
+                  - link "باند پایونیر 1306" [ref=e400] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product/%d8%a8%d8%a7%d9%86%d8%af-%d9%be%d8%a7%db%8c%d9%88%d9%86%db%8c%d8%b1-1306/
+              - generic [ref=e402]:
+                - link [ref=e404] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product/%d8%a8%d8%a7%d9%86%d8%af-%d9%be%d8%a7%db%8c%d9%88%d9%86%db%8c%d8%b11345/
+                - heading [level=3] [ref=e405]:
+                  - link "باند پایونیر1345" [ref=e406] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product/%d8%a8%d8%a7%d9%86%d8%af-%d9%be%d8%a7%db%8c%d9%88%d9%86%db%8c%d8%b11345/
+          - generic [ref=e408]:
+            - img "خرید محصولات خودرو OTC" [ref=e413]
+            - generic [ref=e415]:
+              - heading "برات بهترین نوع کالا و سریع ترین ارسال رو داریم!" [level=3] [ref=e418]
+              - generic [ref=e420]:
+                - paragraph [ref=e421]: یک خرید خاطره انگیز و خوب براتون داریم و بهترین برندها و با کیفیت ترین کالاهای موجود در بازار ایران را در یکجا گردآوری کریده ایم.
+                - paragraph [ref=e422]: ما همواره منتظر شنیدن صدای گرم شما هستیم .
+          - generic [ref=e428]:
+            - heading "دسته بندی محصولات" [level=2] [ref=e433]
+            - generic [ref=e437]:
+              - generic [ref=e439]:
+                - link "Category image" [ref=e441] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product-category/%d8%b1%d9%88%d8%b4%d9%86%d8%a7%db%8c%db%8c-%d8%ae%d9%88%d8%af%d8%b1%d9%88/
+                  - img "محصولات روشنایی خودرو" [ref=e442]
+                - generic [ref=e443]:
+                  - heading "روشنایی خودرو" [level=3] [ref=e444]
+                  - link "11 محصول" [ref=e446] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product-category/%d8%b1%d9%88%d8%b4%d9%86%d8%a7%db%8c%db%8c-%d8%ae%d9%88%d8%af%d8%b1%d9%88/
+                - link "دسته بندی محصولات %d8%b1%d9%88%d8%b4%d9%86%d8%a7%db%8c%db%8c-%d8%ae%d9%88%d8%af%d8%b1%d9%88" [ref=e447] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product-category/%d8%b1%d9%88%d8%b4%d9%86%d8%a7%db%8c%db%8c-%d8%ae%d9%88%d8%af%d8%b1%d9%88/
+              - generic [ref=e449]:
+                - link "Category image" [ref=e451] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product-category/%d8%b5%d9%88%d8%aa%db%8c-%d8%aa%d8%b5%d9%88%db%8c%d8%b1%db%8c/
+                  - img "صوتی تصویری" [ref=e452]
+                - generic [ref=e453]:
+                  - heading "صوتی تصویری" [level=3] [ref=e454]
+                  - link "16 محصول" [ref=e456] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product-category/%d8%b5%d9%88%d8%aa%db%8c-%d8%aa%d8%b5%d9%88%db%8c%d8%b1%db%8c/
+                - link "دسته بندی محصولات %d8%b5%d9%88%d8%aa%db%8c-%d8%aa%d8%b5%d9%88%db%8c%d8%b1%db%8c" [ref=e457] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product-category/%d8%b5%d9%88%d8%aa%db%8c-%d8%aa%d8%b5%d9%88%db%8c%d8%b1%db%8c/
+              - generic [ref=e459]:
+                - link "Category image" [ref=e461] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product-category/%d9%82%d8%b7%d8%b9%d8%a7%d8%aa-%d8%b9%d9%85%d9%88%d9%85%db%8c/
+                  - img "قطعات عمومی" [ref=e462]
+                - generic [ref=e463]:
+                  - heading "قطعات عمومی" [level=3] [ref=e464]
+                  - link "31 محصول" [ref=e466] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product-category/%d9%82%d8%b7%d8%b9%d8%a7%d8%aa-%d8%b9%d9%85%d9%88%d9%85%db%8c/
+                - link "دسته بندی محصولات %d9%82%d8%b7%d8%b9%d8%a7%d8%aa-%d8%b9%d9%85%d9%88%d9%85%db%8c" [ref=e467] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product-category/%d9%82%d8%b7%d8%b9%d8%a7%d8%aa-%d8%b9%d9%85%d9%88%d9%85%db%8c/
+              - generic [ref=e469]:
+                - link "Category image" [ref=e471] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product-category/%d9%82%d8%b7%d8%b9%d8%a7%d8%aa-%d9%84%d9%88%da%a9%d8%b3-%d8%ae%d9%88%d8%af%d8%b1%d9%88/
+                  - img "قطعات لوکس خودرو" [ref=e472]
+                - generic [ref=e473]:
+                  - heading "قطعات لوکس خودرو" [level=3] [ref=e474]
+                  - link "6 محصول" [ref=e476] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product-category/%d9%82%d8%b7%d8%b9%d8%a7%d8%aa-%d9%84%d9%88%da%a9%d8%b3-%d8%ae%d9%88%d8%af%d8%b1%d9%88/
+                - link "دسته بندی محصولات %d9%82%d8%b7%d8%b9%d8%a7%d8%aa-%d9%84%d9%88%da%a9%d8%b3-%d8%ae%d9%88%d8%af%d8%b1%d9%88" [ref=e477] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product-category/%d9%82%d8%b7%d8%b9%d8%a7%d8%aa-%d9%84%d9%88%da%a9%d8%b3-%d8%ae%d9%88%d8%af%d8%b1%d9%88/
+              - generic [ref=e479]:
+                - link "Category image" [ref=e481] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product-category/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-%d8%b3%d9%88%d9%86%d8%a7%da%a9%d8%b3/
+                  - img "محصولات سوناکس" [ref=e482]
+                - generic [ref=e483]:
+                  - heading "محصولات سوناکس" [level=3] [ref=e484]
+                  - link "60 محصول" [ref=e486] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product-category/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-%d8%b3%d9%88%d9%86%d8%a7%da%a9%d8%b3/
+                - link "دسته بندی محصولات %d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-%d8%b3%d9%88%d9%86%d8%a7%da%a9%d8%b3" [ref=e487] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product-category/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-%d8%b3%d9%88%d9%86%d8%a7%da%a9%d8%b3/
+              - generic [ref=e489]:
+                - link "Category image" [ref=e491] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product-category/tire/
+                  - img "رینگ و لاستیک" [ref=e492]
+                - generic [ref=e493]:
+                  - heading "رینگ و لاستیک" [level=3] [ref=e494]
+                  - link "1 محصول" [ref=e496] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product-category/tire/
+                - link "دسته بندی محصولات tire" [ref=e497] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product-category/tire/
+              - generic [ref=e499]:
+                - link "Category image" [ref=e501] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product-category/%d8%a7%d9%85%d9%86%db%8c%d8%aa-%d8%ae%d9%88%d8%af%d8%b1%d9%88/
+                  - img "امنیت خودرو" [ref=e502]
+                - generic [ref=e503]:
+                  - heading "امنیت خودرو" [level=3] [ref=e504]
+                  - link "9 محصول" [ref=e506] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product-category/%d8%a7%d9%85%d9%86%db%8c%d8%aa-%d8%ae%d9%88%d8%af%d8%b1%d9%88/
+                - link "دسته بندی محصولات %d8%a7%d9%85%d9%86%db%8c%d8%aa-%d8%ae%d9%88%d8%af%d8%b1%d9%88" [ref=e507] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product-category/%d8%a7%d9%85%d9%86%db%8c%d8%aa-%d8%ae%d9%88%d8%af%d8%b1%d9%88/
+              - generic [ref=e509]:
+                - link "Category image" [ref=e511] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product-category/%d8%a7%db%8c%d9%85%d9%86%db%8c-%d8%ae%d9%88%d8%af%d8%b1%d9%88/
+                  - img "ایمنی خودرو" [ref=e512]
+                - generic [ref=e513]:
+                  - heading "ایمنی خودرو" [level=3] [ref=e514]
+                  - link "13 محصول" [ref=e516] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product-category/%d8%a7%db%8c%d9%85%d9%86%db%8c-%d8%ae%d9%88%d8%af%d8%b1%d9%88/
+                - link "دسته بندی محصولات %d8%a7%db%8c%d9%85%d9%86%db%8c-%d8%ae%d9%88%d8%af%d8%b1%d9%88" [ref=e517] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product-category/%d8%a7%db%8c%d9%85%d9%86%db%8c-%d8%ae%d9%88%d8%af%d8%b1%d9%88/
+              - generic [ref=e519]:
+                - link "Category image" [ref=e521] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product-category/cleaning-supplies/%d8%aa%d9%85%db%8c%d8%b2-%da%a9%d9%86%d9%86%d8%af%d9%87/
+                  - img "تمیز کننده خودرو" [ref=e522]
+                - generic [ref=e523]:
+                  - heading "تمیز کننده خودرو" [level=3] [ref=e524]
+                  - link "25 محصول" [ref=e526] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product-category/cleaning-supplies/%d8%aa%d9%85%db%8c%d8%b2-%da%a9%d9%86%d9%86%d8%af%d9%87/
+                - link "دسته بندی محصولات %d8%aa%d9%85%db%8c%d8%b2-%da%a9%d9%86%d9%86%d8%af%d9%87" [ref=e527] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product-category/cleaning-supplies/%d8%aa%d9%85%db%8c%d8%b2-%da%a9%d9%86%d9%86%d8%af%d9%87/
+              - generic [ref=e529]:
+                - link "Category image" [ref=e531] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product-category/cleaning-supplies/%d8%ae%d9%88%d8%b4%d8%a8%d9%88-%da%a9%d9%86%d9%86%d8%af%d9%87/
+                  - img "خوشبو کننده خودرو" [ref=e532]
+                - generic [ref=e533]:
+                  - heading "خوشبو کننده خودرو" [level=3] [ref=e534]
+                  - link "20 محصول" [ref=e536] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product-category/cleaning-supplies/%d8%ae%d9%88%d8%b4%d8%a8%d9%88-%da%a9%d9%86%d9%86%d8%af%d9%87/
+                - link "دسته بندی محصولات %d8%ae%d9%88%d8%b4%d8%a8%d9%88-%da%a9%d9%86%d9%86%d8%af%d9%87" [ref=e537] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product-category/cleaning-supplies/%d8%ae%d9%88%d8%b4%d8%a8%d9%88-%da%a9%d9%86%d9%86%d8%af%d9%87/
+              - generic [ref=e539]:
+                - link "Category image" [ref=e541] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product-category/%d8%aa%d8%b2%d8%a6%db%8c%d9%86%d8%a7%d8%aa/
+                  - img "تزئینات خودرو" [ref=e542]
+                - generic [ref=e543]:
+                  - heading "تزئینات خودرو" [level=3] [ref=e544]
+                  - link "36 محصول" [ref=e546] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product-category/%d8%aa%d8%b2%d8%a6%db%8c%d9%86%d8%a7%d8%aa/
+                - link "دسته بندی محصولات %d8%aa%d8%b2%d8%a6%db%8c%d9%86%d8%a7%d8%aa" [ref=e547] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product-category/%d8%aa%d8%b2%d8%a6%db%8c%d9%86%d8%a7%d8%aa/
+              - generic [ref=e549]:
+                - link "Category image" [ref=e551] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product-category/spare-part/
+                  - img "لوازم یدکی خودرو" [ref=e552]
+                - generic [ref=e553]:
+                  - heading "لوازم یدکی" [level=3] [ref=e554]
+                  - link "11 محصول" [ref=e556] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product-category/spare-part/
+                - link "دسته بندی محصولات spare-part" [ref=e557] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product-category/spare-part/
+          - generic [ref=e561]:
+            - heading "محصولات اورجینال سوناکس" [level=2] [ref=e566]
+            - generic [ref=e570]:
+              - generic [ref=e572]:
+                - link [ref=e574] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product/%d8%a7%d8%b3%d9%be%d8%b1%db%8c-%d8%a2%d9%86%d8%aa%db%8c-%d8%a8%d8%a7%da%a9%d8%aa%d8%b1%db%8c%d8%a7%d9%84-%da%a9%d9%88%d9%84%d8%b1-%d8%b1%d8%a7%db%8c%d8%ad%d9%87-%d9%87%d8%a7%d9%88%d8%a7%d9%86%d8%a7/
+                  - img "Sonax antibacterial spray" [ref=e575]
+                - heading [level=3] [ref=e576]:
+                  - link "اسپری آنتی باکتریال کولر رایحه هاوانا(سوناکس)" [ref=e577] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product/%d8%a7%d8%b3%d9%be%d8%b1%db%8c-%d8%a2%d9%86%d8%aa%db%8c-%d8%a8%d8%a7%da%a9%d8%aa%d8%b1%db%8c%d8%a7%d9%84-%da%a9%d9%88%d9%84%d8%b1-%d8%b1%d8%a7%db%8c%d8%ad%d9%87-%d9%87%d8%a7%d9%88%d8%a7%d9%86%d8%a7/
+              - generic [ref=e579]:
+                - link [ref=e581] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product/%d8%a7%d8%b3%d9%be%d8%b1%db%8c-%d8%a7%d9%86%d8%af%db%8c%d8%b3%d9%84-%d8%a7%da%a9%d8%b3%d8%aa%d8%b1%db%8c%d9%85-%d8%b3%d9%88%d9%86%d8%a7%da%a9%d8%b3/
+                  - img "اسپری اندیسل اکستریم سوناکس" [ref=e582]
+                - heading [level=3] [ref=e583]:
+                  - link "اسپری اندیسل اکستریم سوناکس" [ref=e584] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product/%d8%a7%d8%b3%d9%be%d8%b1%db%8c-%d8%a7%d9%86%d8%af%db%8c%d8%b3%d9%84-%d8%a7%da%a9%d8%b3%d8%aa%d8%b1%db%8c%d9%85-%d8%b3%d9%88%d9%86%d8%a7%da%a9%d8%b3/
+              - generic [ref=e586]:
+                - link [ref=e588] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product/%d8%a7%d8%b3%d9%be%d8%b1%db%8c-%d8%a8%d8%b1%d8%a7%d9%82-%da%a9%d9%86%d9%86%d8%af%d9%87-%d9%84%d8%a7%d8%b3%d8%aa%db%8c%da%a9-%d8%a7%da%a9%d8%b3%d8%aa%d8%b1%db%8c%d9%85-%d8%b3%d9%88%d9%86%d8%a7%da%a9/
+                - heading [level=3] [ref=e589]:
+                  - link "اسپری براق کننده لاستیک اکستریم (سوناکس)" [ref=e590] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product/%d8%a7%d8%b3%d9%be%d8%b1%db%8c-%d8%a8%d8%b1%d8%a7%d9%82-%da%a9%d9%86%d9%86%d8%af%d9%87-%d9%84%d8%a7%d8%b3%d8%aa%db%8c%da%a9-%d8%a7%da%a9%d8%b3%d8%aa%d8%b1%db%8c%d9%85-%d8%b3%d9%88%d9%86%d8%a7%da%a9/
+              - generic [ref=e592]:
+                - generic [ref=e593]:
+                  - link [ref=e594] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product/%d8%a7%d8%b3%d9%be%d8%b1%db%8c-%d9%be%d9%86%da%86%d8%b1%db%8c-%d8%b3%d9%88%d9%86%d8%a7%da%a9%d8%b3/
+                  - link "تصویر محصول" [ref=e596] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product/%d8%a7%d8%b3%d9%be%d8%b1%db%8c-%d9%be%d9%86%da%86%d8%b1%db%8c-%d8%b3%d9%88%d9%86%d8%a7%da%a9%d8%b3/
+                - heading [level=3] [ref=e597]:
+                  - link "اسپری پنچری سوناکس" [ref=e598] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product/%d8%a7%d8%b3%d9%be%d8%b1%db%8c-%d9%be%d9%86%da%86%d8%b1%db%8c-%d8%b3%d9%88%d9%86%d8%a7%da%a9%d8%b3/
+              - generic [ref=e600]:
+                - link [ref=e602] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product/%d8%a7%d8%b3%d9%be%d8%b1%db%8c-%d8%af%d8%a7%d8%b4%d8%a8%d9%88%d8%b1%d8%af-%da%a9%d8%a7%da%a9%d9%be%db%8c%d8%aa-%d8%a7%d8%b3%d9%be%d8%b1%d8%aa-%d9%81%d8%b1%d8%b4-%d8%b3%d9%88%d9%86%d8%a7%da%a9%d8%b3/
+                - heading [level=3] [ref=e603]:
+                  - link "اسپری داشبورد کاکپیت اسپرت فرش(سوناکس)" [ref=e604] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product/%d8%a7%d8%b3%d9%be%d8%b1%db%8c-%d8%af%d8%a7%d8%b4%d8%a8%d9%88%d8%b1%d8%af-%da%a9%d8%a7%da%a9%d9%be%db%8c%d8%aa-%d8%a7%d8%b3%d9%be%d8%b1%d8%aa-%d9%81%d8%b1%d8%b4-%d8%b3%d9%88%d9%86%d8%a7%da%a9%d8%b3/
+              - generic [ref=e606]:
+                - link [ref=e608] [cursor=pointer]:
+                  - /url: https://otcgroup.ir/product/%d8%a7%d8%b3%d9%be%d8%b1%db%8c-%d8%af%d8%a7%d8%b4%d8%a8%d9%88%d8%b1%d8%af-%da%a9%d8%a7%da%a9%d9%be%db%8c%d8%aa-%d9%87%d8%a7%d9%88%d8%a7%d9%86%d8%a7-%d8%b3%d9%88%d9%86%d8%a7%da%a9%d8%b3/
+                - heading [level=3] [ref=e609]:
+                  - link "اسپری داشبورد کاکپیت هاوانا (سوناکس)" [ref=e610] [cursor=pointer]:
+                    - /url: https://otcgroup.ir/product/%d8%a7%d8%b3%d9%be%d8%b1%db%8c-%d8%af%d8%a7%d8%b4%d8%a8%d9%88%d8%b1%d8%af-%da%a9%d8%a7%da%a9%d9%be%db%8c%d8%aa-%d9%87%d8%a7%d9%88%d8%a7%d9%86%d8%a7-%d8%b3%d9%88%d9%86%d8%a7%da%a9%d8%b3/
+          - generic [ref=e616]:
+            - button "درباره پخش ویدیو سرامیک بدنه" [ref=e624] [cursor=pointer]:
+              - generic [ref=e625]: 
+            - button "درباره پخش ویدیو نانو سرامیک شیشه" [ref=e633] [cursor=pointer]:
+              - generic [ref=e634]: 
+            - button "درباره پخش ویدیو پولیش بدنه" [ref=e642] [cursor=pointer]:
+              - generic [ref=e643]: 
+            - button "درباره پخش ویدیو otc hexis" [ref=e651] [cursor=pointer]:
+              - generic [ref=e652]: 
+          - generic [ref=e656]:
+            - heading "جدیدترین مطالب" [level=2] [ref=e661]
+            - generic [ref=e665]:
+              - article [ref=e666]:
+                - generic [ref=e667]:
+                  - generic [ref=e668]:
+                    - figure [ref=e669]:
+                      - link [ref=e671] [cursor=pointer]:
+                        - /url: https://otcgroup.ir/%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-%d8%af%d9%88%d8%b1%d8%a8%db%8c%d9%86-%db%b3%db%b6%db%b0-%d8%ae%d9%88%d8%af%d8%b1%d9%88/
+                        - img "بهترین دوربین ۳۶۰ خودرو" [ref=e672]
+                    - generic [ref=e673]:
+                      - generic [ref=e674]: "29"
+                      - generic [ref=e675]: مرداد
+                  - heading [level=3] [ref=e677]:
+                    - link "راهنمای انتخاب بهترین دوربین ۳۶۰ برای پارک و رانندگی روزمره" [ref=e678] [cursor=pointer]:
+                      - /url: https://otcgroup.ir/%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-%d8%af%d9%88%d8%b1%d8%a8%db%8c%d9%86-%db%b3%db%b6%db%b0-%d8%ae%d9%88%d8%af%d8%b1%d9%88/
+              - article [ref=e679]:
+                - generic [ref=e680]:
+                  - generic [ref=e681]:
+                    - figure [ref=e682]:
+                      - link [ref=e684] [cursor=pointer]:
+                        - /url: https://otcgroup.ir/%d8%ac%d9%84%d9%88%da%af%db%8c%d8%b1%db%8c-%d8%a7%d8%b2-%d8%a7%d9%81%d8%aa-%d8%b9%d9%85%d9%84%da%a9%d8%b1%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%a8%d8%b9%d8%af-%d8%a7%d8%b2-%d9%86%d8%b5%d8%a8-%d8%a2/
+                        - img "جلوگیری از افت عملکرد خودرو بعد از نصب آپشن‌های برقی" [ref=e685]
+                    - generic [ref=e686]:
+                      - generic [ref=e687]: "24"
+                      - generic [ref=e688]: مرداد
+                  - heading [level=3] [ref=e690]:
+                    - link "چطور از افت عملکرد خودرو بعد از نصب آپشن‌های برقی جلوگیری کنیم؟" [ref=e691] [cursor=pointer]:
+                      - /url: https://otcgroup.ir/%d8%ac%d9%84%d9%88%da%af%db%8c%d8%b1%db%8c-%d8%a7%d8%b2-%d8%a7%d9%81%d8%aa-%d8%b9%d9%85%d9%84%da%a9%d8%b1%d8%af-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%a8%d8%b9%d8%af-%d8%a7%d8%b2-%d9%86%d8%b5%d8%a8-%d8%a2/
+              - article [ref=e692]:
+                - generic [ref=e693]:
+                  - generic [ref=e694]:
+                    - figure [ref=e695]:
+                      - link [ref=e697] [cursor=pointer]:
+                        - /url: https://otcgroup.ir/%d8%a8%d9%87%db%8c%d9%86%d9%87%d8%b3%d8%a7%d8%b2%db%8c-%d8%ae%d9%88%d8%af%d8%b1%d9%88%d9%87%d8%a7%db%8c-kmc-%d8%a8%d8%b1%d8%a7%db%8c-%d8%a7%d8%b3%d8%aa%d9%81%d8%a7%d8%af%d9%87-%d8%b4%d9%87/
+                        - img "بهینه‌سازی خودروهای KMC برای استفاده شهری" [ref=e698]
+                    - generic [ref=e699]:
+                      - generic [ref=e700]: "22"
+                      - generic [ref=e701]: مرداد
+                  - heading [level=3] [ref=e703]:
+                    - link "چطور خودروهای KMC را برای استفاده شهری بهینه کنیم؟" [ref=e704] [cursor=pointer]:
+                      - /url: https://otcgroup.ir/%d8%a8%d9%87%db%8c%d9%86%d9%87%d8%b3%d8%a7%d8%b2%db%8c-%d8%ae%d9%88%d8%af%d8%b1%d9%88%d9%87%d8%a7%db%8c-kmc-%d8%a8%d8%b1%d8%a7%db%8c-%d8%a7%d8%b3%d8%aa%d9%81%d8%a7%d8%af%d9%87-%d8%b4%d9%87/
+              - article [ref=e705]:
+                - generic [ref=e706]:
+                  - generic [ref=e707]:
+                    - figure [ref=e708]:
+                      - link [ref=e710] [cursor=pointer]:
+                        - /url: https://otcgroup.ir/%da%a9%d8%b1%d9%88%d8%b2-%da%a9%d9%86%d8%aa%d8%b1%d9%84-%d8%a8%d8%b1%d8%a7%db%8c-%da%86%d9%87-%d8%b1%d8%a7%d9%86%d9%86%d8%af%d9%87%d9%87%d8%a7%db%8c%db%8c-%d9%85%d9%86%d8%a7%d8%b3%d8%a8/
+                        - img "کروز کنترل برای چه راننده‌هایی مناسب است" [ref=e711]
+                    - generic [ref=e712]:
+                      - generic [ref=e713]: "20"
+                      - generic [ref=e714]: مرداد
+                  - heading [level=3] [ref=e716]:
+                    - link "کروز کنترل برای چه راننده‌هایی مناسب‌تر است؟ مزایا و محدودیت‌ها" [ref=e717] [cursor=pointer]:
+                      - /url: https://otcgroup.ir/%da%a9%d8%b1%d9%88%d8%b2-%da%a9%d9%86%d8%aa%d8%b1%d9%84-%d8%a8%d8%b1%d8%a7%db%8c-%da%86%d9%87-%d8%b1%d8%a7%d9%86%d9%86%d8%af%d9%87%d9%87%d8%a7%db%8c%db%8c-%d9%85%d9%86%d8%a7%d8%b3%d8%a8/
+              - article [ref=e718]:
+                - generic [ref=e719]:
+                  - generic [ref=e720]:
+                    - figure [ref=e721]:
+                      - link [ref=e723] [cursor=pointer]:
+                        - /url: https://otcgroup.ir/%d9%86%d8%b5%d8%a8-%d9%88-%d9%86%da%af%d9%87%d8%af%d8%a7%d8%b1%db%8c-tpms-%d8%ae%d9%88%d8%af%d8%b1%d9%88%d9%87%d8%a7%db%8c-kmc/
+                        - img "نصب و نگهداری TPMS خودروهای KMC" [ref=e724]
+                    - generic [ref=e725]:
+                      - generic [ref=e726]: "18"
+                      - generic [ref=e727]: مرداد
+                  - heading [level=3] [ref=e729]:
+                    - link "راهنمای کامل نصب و نگهداری TPMS برای خودروهای KMC" [ref=e730] [cursor=pointer]:
+                      - /url: https://otcgroup.ir/%d9%86%d8%b5%d8%a8-%d9%88-%d9%86%da%af%d9%87%d8%af%d8%a7%d8%b1%db%8c-tpms-%d8%ae%d9%88%d8%af%d8%b1%d9%88%d9%87%d8%a7%db%8c-kmc/
+              - article [ref=e731]:
+                - generic [ref=e732]:
+                  - generic [ref=e733]:
+                    - figure [ref=e734]:
+                      - link [ref=e736] [cursor=pointer]:
+                        - /url: https://otcgroup.ir/%d8%a2%d9%be%d8%b4%d9%86%d9%87%d8%a7%db%8c-%d9%85%d9%86%d8%a7%d8%b3%d8%a8-%d8%a8%d8%b1%d8%a7%db%8c-%d8%b3%d9%81%d8%b1%d9%87%d8%a7%db%8c-%d8%ae%d8%a7%d9%86%d9%88%d8%a7%d8%af%da%af%db%8c-%d8%a8/
+                        - img "آپشن‌های مناسب برای سفرهای خانوادگی با خودروهای کرمان موتور" [ref=e737]
+                    - generic [ref=e738]:
+                      - generic [ref=e739]: "15"
+                      - generic [ref=e740]: مرداد
+                  - heading [level=3] [ref=e742]:
+                    - link "آپشن‌های مناسب برای سفرهای خانوادگی با خودروهای کرمان موتور" [ref=e743] [cursor=pointer]:
+                      - /url: https://otcgroup.ir/%d8%a2%d9%be%d8%b4%d9%86%d9%87%d8%a7%db%8c-%d9%85%d9%86%d8%a7%d8%b3%d8%a8-%d8%a8%d8%b1%d8%a7%db%8c-%d8%b3%d9%81%d8%b1%d9%87%d8%a7%db%8c-%d8%ae%d8%a7%d9%86%d9%88%d8%a7%d8%af%da%af%db%8c-%d8%a8/
+              - article [ref=e744]:
+                - generic [ref=e745]:
+                  - generic [ref=e746]:
+                    - figure [ref=e747]:
+                      - link [ref=e749] [cursor=pointer]:
+                        - /url: https://otcgroup.ir/%d8%aa%d9%81%d8%a7%d9%88%d8%aa-%d8%af%d9%88%d8%b1%d8%a8%db%8c%d9%86-%d8%ab%d8%a8%d8%aa-%d9%88%d9%82%d8%a7%db%8c%d8%b9-%d8%af%d9%88%d8%b1%d8%a8%db%8c%d9%86-%d8%b9%d9%82%d8%a8-%d9%88-360/
+                        - img "تفاوت دوربین ثبت وقایع با دوربین عقب و دوربین ۳۶۰" [ref=e750]
+                    - generic [ref=e751]:
+                      - generic [ref=e752]: "13"
+                      - generic [ref=e753]: مرداد
+                  - heading [level=3] [ref=e755]:
+                    - link "دوربین ثبت وقایع چه تفاوتی با دوربین عقب و دوربین ۳۶۰ دارد؟" [ref=e756] [cursor=pointer]:
+                      - /url: https://otcgroup.ir/%d8%aa%d9%81%d8%a7%d9%88%d8%aa-%d8%af%d9%88%d8%b1%d8%a8%db%8c%d9%86-%d8%ab%d8%a8%d8%aa-%d9%88%d9%82%d8%a7%db%8c%d8%b9-%d8%af%d9%88%d8%b1%d8%a8%db%8c%d9%86-%d8%b9%d9%82%d8%a8-%d9%88-360/
+              - article [ref=e757]:
+                - generic [ref=e758]:
+                  - generic [ref=e759]:
+                    - figure [ref=e760]:
+                      - link [ref=e762] [cursor=pointer]:
+                        - /url: https://otcgroup.ir/%d9%86%d8%b5%d8%a8-%d8%a7%d8%b5%d9%88%d9%84%db%8c-%d8%a2%d9%be%d8%b4%d9%86-%d8%ae%d9%88%d8%af%d8%b1%d9%88/
+                        - img "نصب اصولی آپشن خودرو" [ref=e763]
+                    - generic [ref=e764]:
+                      - generic [ref=e765]: "11"
+                      - generic [ref=e766]: مرداد
+                  - heading [level=3] [ref=e768]:
+                    - link "چرا نصب اصولی آپشن در خودرو از خود آپشن مهم‌تر است؟" [ref=e769] [cursor=pointer]:
+                      - /url: https://otcgroup.ir/%d9%86%d8%b5%d8%a8-%d8%a7%d8%b5%d9%88%d9%84%db%8c-%d8%a2%d9%be%d8%b4%d9%86-%d8%ae%d9%88%d8%af%d8%b1%d9%88/
+              - article [ref=e770]:
+                - generic [ref=e771]:
+                  - generic [ref=e772]:
+                    - figure [ref=e773]:
+                      - link [ref=e775] [cursor=pointer]:
+                        - /url: https://otcgroup.ir/%d9%85%d8%af%db%8c%d8%b1%db%8c%d8%aa-%d9%85%d8%b5%d8%b1%d9%81-%d8%a8%d8%b1%d9%82-%d8%a2%d9%be%d8%b4%d9%86%d9%87%d8%a7%db%8c-%d8%ae%d9%88%d8%af%d8%b1%d9%88/
+                        - img "مدیریت مصرف برق آپشن‌های خودرو" [ref=e776]
+                    - generic [ref=e777]:
+                      - generic [ref=e778]: "11"
+                      - generic [ref=e779]: مرداد
+                  - heading [level=3] [ref=e781]:
+                    - link "چگونه مصرف برق آپشن‌های خودرو را مدیریت کنیم تا باتری آسیب نبیند؟" [ref=e782] [cursor=pointer]:
+                      - /url: https://otcgroup.ir/%d9%85%d8%af%db%8c%d8%b1%db%8c%d8%aa-%d9%85%d8%b5%d8%b1%d9%81-%d8%a8%d8%b1%d9%82-%d8%a2%d9%be%d8%b4%d9%86%d9%87%d8%a7%db%8c-%d8%ae%d9%88%d8%af%d8%b1%d9%88/
+    - generic [ref=e787]:
+      - generic [ref=e796]:
+        - heading "ارسال سریع" [level=4] [ref=e797]
+        - paragraph [ref=e799]: سریع بدستتان میرسد.
+      - generic [ref=e808]:
+        - heading "خرید مطمئن" [level=4] [ref=e809]
+        - paragraph [ref=e811]: با اطمینان خرید کنید.
+      - generic [ref=e820]:
+        - heading "پشتیبانی 24/7" [level=4] [ref=e821]
+        - paragraph [ref=e823]: همیشه هستیم.
+      - generic [ref=e832]:
+        - heading "محصول اورجینال" [level=4] [ref=e833]
+        - paragraph [ref=e835]: لذت خریدی مطمئن.
+      - generic [ref=e844]:
+        - heading "پرداخت سریع" [level=4] [ref=e845]
+        - paragraph [ref=e847]: پرداخت شتابی.
+    - contentinfo [ref=e848]:
+      - complementary [ref=e850]:
+        - generic [ref=e852]:
+          - generic [ref=e854]:
+            - list [ref=e859]:
+              - listitem [ref=e860]:
+                - link "فروش و بازاریابی" [ref=e861] [cursor=pointer]:
+                  - /url: "#"
+                - list [ref=e862]:
+                  - listitem [ref=e863]:
+                    - link "تماس با ما" [ref=e864] [cursor=pointer]:
+                      - /url: https://otcgroup.ir/contact-us/
+                  - listitem [ref=e865]:
+                    - link "درباره ما" [ref=e866] [cursor=pointer]:
+                      - /url: https://otcgroup.ir/about-us/
+                  - listitem [ref=e867]:
+                    - link "نمونه کارها" [ref=e868] [cursor=pointer]:
+                      - /url: https://otcgroup.ir/%da%af%d8%a7%d9%84%d8%b1%db%8c-%d8%aa%d8%b5%d8%a7%d9%88%db%8c%d8%b1/
+                  - listitem [ref=e869]:
+                    - link "محصولات ما" [ref=e870] [cursor=pointer]:
+                      - /url: https://otcgroup.ir/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+            - list [ref=e875]:
+              - listitem [ref=e876]:
+                - link "قوانین فروشگاه" [ref=e877] [cursor=pointer]:
+                  - /url: "#"
+                - list [ref=e878]:
+                  - listitem [ref=e879]:
+                    - link "حریم خصوصی" [ref=e880] [cursor=pointer]:
+                      - /url: https://otcgroup.ir/%d8%b3%db%8c%d8%a7%d8%b3%d8%aa-%d8%ad%d9%81%d8%b8-%d8%ad%d8%b1%db%8c%d9%85-%d8%ae%d8%b5%d9%88%d8%b5%db%8c/
+                  - listitem [ref=e881]:
+                    - link "قوانین استفاده" [ref=e882] [cursor=pointer]:
+                      - /url: https://otcgroup.ir/terms/
+                  - listitem [ref=e883]:
+                    - link "راهنمای ثبت سفارش" [ref=e884] [cursor=pointer]:
+                      - /url: https://otcgroup.ir/%d8%b1%d8%a7%d9%87%d9%86%d9%85%d8%a7%db%8c-%d8%ab%d8%a8%d8%aa-%d8%b3%d9%81%d8%a7%d8%b1%d8%b4/
+                  - listitem [ref=e885]:
+                    - link "سئوالات متداول" [ref=e886] [cursor=pointer]:
+                      - /url: https://otcgroup.ir/%d8%b3%d8%a6%d9%88%d8%a7%d9%84%d8%aa-%d9%85%d8%aa%d8%af%d8%a7%d9%88%d9%84/
+            - list [ref=e891]:
+              - listitem [ref=e892]:
+                - link "پشتیبانی مشتریان" [ref=e893] [cursor=pointer]:
+                  - /url: "#"
+                - list [ref=e894]:
+                  - listitem [ref=e895]:
+                    - link "حساب کاربری" [ref=e896] [cursor=pointer]:
+                      - /url: https://otcgroup.ir/my-account/
+                  - listitem [ref=e897]:
+                    - link "اطلاعات کاربری" [ref=e898] [cursor=pointer]:
+                      - /url: https://otcgroup.ir/my-account/edit-account/
+                  - listitem [ref=e899]:
+                    - link "سفارشات شما" [ref=e900] [cursor=pointer]:
+                      - /url: https://otcgroup.ir/my-account/orders/
+                  - listitem [ref=e901]:
+                    - link "مشاوره آنلاین" [ref=e902] [cursor=pointer]:
+                      - /url: https://otcgroup.ir/contact-us/
+            - list [ref=e907]:
+              - listitem [ref=e908]:
+                - link "لینک‌های مفید" [ref=e909] [cursor=pointer]:
+                  - /url: "#"
+                - list [ref=e910]:
+                  - listitem [ref=e911]:
+                    - link "شرکت کرمان موتور" [ref=e912] [cursor=pointer]:
+                      - /url: https://kermanmotor.com/
+                  - listitem [ref=e913]:
+                    - link "شرکت خودروسازان بم" [ref=e914] [cursor=pointer]:
+                      - /url: http://www.bamco.ir/
+                  - listitem [ref=e915]:
+                    - link "شرکت مدیران خودرو" [ref=e916] [cursor=pointer]:
+                      - /url: https://www.mvmco.ir/
+                  - listitem [ref=e917]:
+                    - link "شرکت بهمن خودرو" [ref=e918] [cursor=pointer]:
+                      - /url: https://bahman.ir/
+            - generic [ref=e920]:
+              - heading "نمادهای اعتبار فروشگاه" [level=4] [ref=e925]
+              - generic [ref=e927]:
+                - paragraph
+                - generic [ref=e930]:
+                  - generic [ref=e934]:
+                    - img "ssl certificated"
+                  - link [ref=e939] [cursor=pointer]:
+                    - /url: https://trustseal.enamad.ir/?id=269792&Code=enasIB6ASgMdcwp0oDdE
+                    - img "نشان ملی ثبت" [ref=e940]
+                  - link [ref=e946] [cursor=pointer]:
+                    - /url: https://trustseal.enamad.ir/?id=269792&Code=enasIB6ASgMdcwp0oDdE
+                - paragraph
+          - generic [ref=e960]:
+            - img "کی ام سی" [ref=e962]
+            - img "خودرو لیفان" [ref=e964]
+            - img "خودرو جک" [ref=e966]
+            - img "chery-logo" [ref=e968]
+            - img "جیلی" [ref=e970]
+            - img "خودرو هیوندای" [ref=e972]
+            - img "mvm-otpgroup.ir" [ref=e974]
+            - img "michelin_logo" [ref=e976]
+            - img "SsangYong-logo-" [ref=e978]
+            - img "total-logo" [ref=e980]
+            - img "brilliance" [ref=e982]
+            - img "Dongfeng-Logo" [ref=e984]
+            - img "ecocool" [ref=e986]
+            - img "haima-car-logo" [ref=e988]
+            - img "Kia-logo" [ref=e990]
+            - img "KumhoTyres1" [ref=e992]
+          - generic [ref=e994]:
+            - generic [ref=e996]:
+              - heading "با ما همراه باشید" [level=4] [ref=e1001]
+              - list [ref=e1004]:
+                - listitem [ref=e1005]:
+                  - link "Instagram" [ref=e1006] [cursor=pointer]:
+                    - /url: https://www.instagram.com/otc.group
+                    - generic [ref=e1008]: 
+                - listitem [ref=e1009]:
+                  - link "Whatsapp" [ref=e1010] [cursor=pointer]:
+                    - /url: https://wa.me/989381221999
+                    - generic [ref=e1012]: 
+            - generic [ref=e1014]:
+              - heading "از جدیدترین تخفیف‌ها باخبر شوید" [level=4] [ref=e1019]
+              - link [ref=e1023] [cursor=pointer]:
+                - /url: tel:02144991748
+                - generic [ref=e1024]: 
+            - heading "پرداخت توسط کلیه کارت‌های بانکی" [level=4] [ref=e1033]
+      - generic [ref=e1036]: کلیه حقوق نزد اوج تجارت پارت OTC Group محفوظ است.
+  - generic [ref=e1039]:
+    - search [ref=e1041]:
+      - textbox "جستجو" [ref=e1042]:
+        - /placeholder: جستجوی محصولات
+      - text: 
+      - button "جستجو " [ref=e1043] [cursor=pointer]:
+        - generic: جستجو
+        - text: 
+    - list [ref=e1044]:
+      - listitem [ref=e1045]:
+        - link "صفحه اصلی" [ref=e1046] [cursor=pointer]:
+          - /url: https://otcgroup.ir/
+      - listitem [ref=e1048]:
+        - link "محصولات" [ref=e1049] [cursor=pointer]:
+          - /url: https://otcgroup.ir/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+      - listitem [ref=e1051]:
+        - link "نمونه کارها" [ref=e1052] [cursor=pointer]:
+          - /url: https://otcgroup.ir/%da%af%d8%a7%d9%84%d8%b1%db%8c-%d8%aa%d8%b5%d8%a7%d9%88%db%8c%d8%b1/
+      - listitem [ref=e1054]:
+        - link "خدمات ما" [ref=e1055] [cursor=pointer]:
+          - /url: https://otcgroup.ir/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-otc/
+        - generic [ref=e1057] [cursor=pointer]: 
+      - listitem [ref=e1058]:
+        - link "درباره ما" [ref=e1059] [cursor=pointer]:
+          - /url: https://otcgroup.ir/about-us/
+      - listitem [ref=e1061]:
+        - link "تماس با ما" [ref=e1062] [cursor=pointer]:
+          - /url: https://otcgroup.ir/contact-us/
+      - listitem [ref=e1064]:
+        - link " علاقه مندی" [ref=e1065] [cursor=pointer]:
+          - /url: https://otcgroup.ir/wishlist/
+          - text: 
+          - generic [ref=e1066]: علاقه مندی
+      - listitem [ref=e1067]:
+        - link " مقايسه" [ref=e1068] [cursor=pointer]:
+          - /url: https://otcgroup.ir/compare/
+      - listitem [ref=e1069]:
+        - link " ورود / ثبت نام" [ref=e1070] [cursor=pointer]:
+          - /url: https://otcgroup.ir/my-account/
+  - generic [ref=e1071]:
+    - generic [ref=e1072]:
+      - generic [ref=e1073]: سبد خرید
+      - link " بستن" [ref=e1075] [cursor=pointer]:
+        - /url: "#"
+    - generic [ref=e1095]:
+      - text: 
+      - paragraph [ref=e1096]: سبد خرید شما خالی است.
+      - link "بازگشت به فروشگاه" [ref=e1097] [cursor=pointer]:
+        - /url: https://otcgroup.ir/shop/
+  - generic [ref=e1078]:
+    - generic [ref=e1079]:
+      - generic [ref=e1080]: ورود
+      - link " بستن" [ref=e1082] [cursor=pointer]:
+        - /url: "#"
+    - text: 
+    - generic [ref=e1083]:
+      - text: 
+      - paragraph [ref=e1084]: حساب کاربری ندارید؟
+      - link "ایجاد یک حساب کاربری" [ref=e1085] [cursor=pointer]:
+        - /url: https://otcgroup.ir/my-account/?action=register
+  - generic: 
+  - text: 
+  - generic [ref=e1091]: desktop
+  - status
+```

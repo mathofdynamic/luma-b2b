@@ -1,0 +1,324 @@
+### Page
+- Page URL: https://shimitejaratmehravan.com/
+- Page Title: صفحه اصلی - شیمی تجارت مهرآوان
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - link "پرش به محتوا" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=e3]:
+    - generic [ref=e5]:
+      - link [ref=e10] [cursor=pointer]:
+        - /url: https://shimitejaratmehravan.com
+        - img "لوگو شیمی تجارت مهرآوان" [ref=e11]
+      - generic [ref=e15]:
+        - navigation "Menu" [ref=e16]:
+          - list [ref=e17]:
+            - listitem [ref=e18]:
+              - link "خانه" [ref=e19] [cursor=pointer]:
+                - /url: https://shimitejaratmehravan.com/
+            - listitem [ref=e20]:
+              - link [ref=e21] [cursor=pointer]:
+                - /url: "#"
+                - text: محصولات
+                - generic [ref=e22]: 
+            - listitem [ref=e23]:
+              - link "مقالات" [ref=e24] [cursor=pointer]:
+                - /url: https://shimitejaratmehravan.com/blog/
+            - listitem [ref=e25]:
+              - link "درباره ما" [ref=e26] [cursor=pointer]:
+                - /url: https://shimitejaratmehravan.com/about-us/
+            - listitem [ref=e27]:
+              - link "تماس با ما" [ref=e28] [cursor=pointer]:
+                - /url: https://shimitejaratmehravan.com/contact-us/
+        - text:   
+      - link [ref=e34] [cursor=pointer]:
+        - /url: "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjEzODQwIiwidG9nZ2xlIjpmYWxzZX0%3D"
+        - generic [ref=e35]: 
+      - link "09129546641" [ref=e41] [cursor=pointer]:
+        - /url: tel:09129546641
+        - generic [ref=e42]:
+          - generic [ref=e43]: 
+          - generic [ref=e45]: "09129546641"
+  - generic [ref=e46]:
+    - generic [ref=e53]:
+      - heading "تامیـن مـواد اولیـه شیمیایـی دارویی، غذایی، آرایشی و بهداشتی." [level=1] [ref=e56]
+      - paragraph [ref=e59]: شیمی تجارت مهرآوان، تامین کننده تخصصی مواد اولیه شیمیایی مورد نیاز صنایع، و کسب و کار ها با تمرکز بر کیفیت، اصالت و تامین مطمعن.
+      - generic [ref=e61]:
+        - link "استعلام قیمت" [ref=e67] [cursor=pointer]:
+          - /url: tel:09129546641
+        - link "مشاهده محصولات" [ref=e75] [cursor=pointer]:
+          - /url: https://shimitejaratmehravan.com/products/
+          - generic [ref=e76]:
+            - generic [ref=e77]: 
+            - generic [ref=e79]: مشاهده محصولات
+      - generic [ref=e81]:
+        - generic [ref=e86]:
+          - generic [ref=e87]: 
+          - generic [ref=e90]:
+            - heading "10+" [level=3] [ref=e91]
+            - paragraph [ref=e92]: سال تجربه
+        - generic [ref=e97]:
+          - generic [ref=e98]: 
+          - generic [ref=e101]:
+            - heading "800+" [level=3] [ref=e102]
+            - paragraph [ref=e103]: مشتری
+        - generic [ref=e108]:
+          - generic [ref=e109]: 
+          - generic [ref=e112]:
+            - heading "100+" [level=3] [ref=e113]
+            - paragraph [ref=e114]: محصول
+    - generic [ref=e118]:
+      - heading "چه ماده ای نیاز دارید؟" [level=2] [ref=e121]
+      - paragraph [ref=e124]: کافیست نام ماده مورد نظر خود را جستجو کنید.
+      - search [ref=e127]:
+        - generic [ref=e128]:
+          - generic: Search
+          - generic [ref=e130]:
+            - combobox "Search" [ref=e131]
+            - status "Results for search"
+          - button "Search" [ref=e132] [cursor=pointer]:
+            - generic [ref=e133]: 
+      - generic [ref=e135]:
+        - generic [ref=e140]:
+          - generic [ref=e141]: 
+          - heading "صنایع غذایی" [level=3] [ref=e145]
+        - generic [ref=e150]:
+          - generic [ref=e151]: 
+          - heading "صنایع داوریی" [level=3] [ref=e155]
+        - generic [ref=e160]:
+          - generic [ref=e161]: 
+          - heading "آرایشی بهداشتی" [level=3] [ref=e165]
+        - generic [ref=e170]:
+          - generic [ref=e171]: 
+          - heading "صنایع شوینده" [level=3] [ref=e175]
+        - generic [ref=e180]:
+          - generic [ref=e181]: 
+          - heading "کشاورزی" [level=3] [ref=e185]
+        - generic [ref=e190]:
+          - generic [ref=e191]: 
+          - heading "رنگ و رزین" [level=3] [ref=e195]
+        - generic [ref=e200]:
+          - generic [ref=e201]: 
+          - heading "صنعنی" [level=3] [ref=e205]
+        - generic [ref=e210]:
+          - generic [ref=e211]: 
+          - heading "تصفیه آب" [level=3] [ref=e215]
+        - generic [ref=e220]:
+          - generic [ref=e221]: 
+          - heading "حلال های صنعتی" [level=3] [ref=e225]
+    - generic [ref=e231]:
+      - generic [ref=e233]:
+        - heading "محصولات منتخب" [level=3] [ref=e236]
+        - paragraph [ref=e239]: برخی از پر کاربردتری مواد در سبد تامین شیمی تجارت مهرآوان
+      - link "مشاهده همه محصولات" [ref=e245] [cursor=pointer]:
+        - /url: https://shimitejaratmehravan.com/products/
+        - generic [ref=e246]:
+          - generic [ref=e247]: 
+          - generic [ref=e249]: مشاهده همه محصولات
+    - generic [ref=e256]:
+      - heading "مهرآوان را بهتر بشناسید" [level=2] [ref=e260]
+      - paragraph [ref=e263]: شیمی تجارت مهرآوان تامین کننده تخصصی مواد اولیه شیمیایی برای صنایع مختلف است. با تکیه بر تجربه، دانش فنی و شبکه ای گسترده از تامین کنندگان معتبر، بهترین مواد اولیه را با کیفیت و قیمت رقابتی در اختیار شما قرار می دهیم.
+      - generic [ref=e265]:
+        - generic [ref=e270]:
+          - generic [ref=e271]: 
+          - generic [ref=e274]:
+            - heading "تعهد به کیفیت" [level=3] [ref=e275]
+            - paragraph [ref=e276]: رضایت مشتری
+        - generic [ref=e281]:
+          - generic [ref=e282]: 
+          - generic [ref=e285]:
+            - heading "شبکه تامین گسترده" [level=3] [ref=e286]
+            - paragraph [ref=e287]: خارجی و داخلی
+        - generic [ref=e292]:
+          - generic [ref=e293]: 
+          - generic [ref=e296]:
+            - heading "تجربه و تخصص" [level=3] [ref=e297]
+            - paragraph [ref=e298]: بیش از یک دهه
+      - link "آشنایی بیشتر با مهرآوان" [ref=e302] [cursor=pointer]:
+        - /url: https://shimitejaratmehravan.com/about-us/
+    - generic [ref=e308]:
+      - generic [ref=e310]:
+        - generic [ref=e312]:
+          - heading "صنایع تحت پوشش" [level=3] [ref=e315]
+          - paragraph [ref=e318]: ما در تامین مواد اولیه برای صناع مختلف همراه شما هستیم.
+        - link "مشاهده همه دسته ها" [ref=e324] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=e325]:
+            - generic [ref=e326]: 
+            - generic [ref=e328]: مشاهده همه دسته ها
+      - generic [ref=e330]:
+        - generic [ref=e331]: غذایی
+        - generic [ref=e335]: دارویی
+        - generic [ref=e339]: آرایشی
+        - generic [ref=e343]: شوینده
+        - generic [ref=e347]: کشاورزی
+        - generic [ref=e351]: مواد صنعتی
+        - generic [ref=e355]: تصفیه آب
+        - generic [ref=e359]: حلال ها
+    - generic [ref=e368]:
+      - generic [ref=e373]:
+        - generic [ref=e374]: 
+        - generic [ref=e377]:
+          - heading "لجستیک و ارسال" [level=3] [ref=e378]
+          - paragraph [ref=e379]: ارسال سریع و ایمن به تمام نقاط کشور
+      - generic [ref=e384]:
+        - generic [ref=e385]: 
+        - generic [ref=e388]:
+          - heading "مشاوره تخصصی" [level=3] [ref=e389]
+          - paragraph [ref=e390]: تیم فنی مجرب برای انتخاب بهترین راهکار
+      - generic [ref=e395]:
+        - generic [ref=e396]: 
+        - generic [ref=e399]:
+          - heading "کیفیت و اصالت" [level=3] [ref=e400]
+          - paragraph [ref=e401]: ارائه مواد اولیه با آنالیز و گواهی معتبر
+      - generic [ref=e406]:
+        - generic [ref=e407]: 
+        - generic [ref=e410]:
+          - heading "تامین و پایداری" [level=3] [ref=e411]
+          - paragraph [ref=e412]: تضمین موجودی و تحویل به موقع
+    - generic [ref=e416]:
+      - generic [ref=e418]:
+        - generic [ref=e420]:
+          - heading "دانش مواد شیمیایی" [level=3] [ref=e423]
+          - paragraph [ref=e426]: مقالات و نکات تخصصی برای انتخاب بهتر و تصمیم گیری دقیق تر
+        - link "مشاهده همه مقالات" [ref=e432] [cursor=pointer]:
+          - /url: https://shimitejaratmehravan.com/blog/
+          - generic [ref=e433]:
+            - generic [ref=e434]: 
+            - generic [ref=e436]: مشاهده همه مقالات
+      - list [ref=e439]:
+        - listitem [ref=e440]:
+          - link [ref=e441] [cursor=pointer]:
+            - /url: https://shimitejaratmehravan.com/%d8%af%d8%b1%d9%85%d8%a7%d9%86-%d9%81%d8%b4%d8%a7%d8%b1%d9%85%d8%ba%d8%b2/
+            - img "مانیتول فرشته درمان فشار مغز یا تله ای در کمین؟" [ref=e443]
+          - generic [ref=e444]:
+            - heading [level=3] [ref=e445]:
+              - link "مانیتول، فرشته درمان فشار مغز یا تله‌ای در کمین؟" [ref=e446] [cursor=pointer]:
+                - /url: https://shimitejaratmehravan.com/%d8%af%d8%b1%d9%85%d8%a7%d9%86-%d9%81%d8%b4%d8%a7%d8%b1%d9%85%d8%ba%d8%b2/
+            - generic [ref=e447]: خرداد 26, 1404
+        - listitem [ref=e448]:
+          - link [ref=e449] [cursor=pointer]:
+            - /url: https://shimitejaratmehravan.com/%d8%b1%d9%88%d8%ba%d9%86-%d8%b2%db%8c%d8%aa%d9%88%d9%86-%d8%ae%d9%88%d8%b1%d8%a7%da%a9%db%8c-%d8%a8%d8%b1%d8%a7%db%8c-%da%86%db%8c-%d8%ae%d9%88%d8%a8%d9%87%d8%9f/
+            - img "روغن زیتون خوراکی برای چی خوبه ؟" [ref=e451]
+          - generic [ref=e452]:
+            - heading [level=3] [ref=e453]:
+              - link "روغن زیتون خوراکی برای چی خوبه؟" [ref=e454] [cursor=pointer]:
+                - /url: https://shimitejaratmehravan.com/%d8%b1%d9%88%d8%ba%d9%86-%d8%b2%db%8c%d8%aa%d9%88%d9%86-%d8%ae%d9%88%d8%b1%d8%a7%da%a9%db%8c-%d8%a8%d8%b1%d8%a7%db%8c-%da%86%db%8c-%d8%ae%d9%88%d8%a8%d9%87%d8%9f/
+            - generic [ref=e455]: خرداد 21, 1404
+        - listitem [ref=e456]:
+          - link [ref=e457] [cursor=pointer]:
+            - /url: https://shimitejaratmehravan.com/%d8%b1%d9%88%d8%ba%d9%86-%d8%b3%db%8c%d8%a7%d9%87%d8%af%d8%a7%d9%86%d9%87-%d8%a8%d8%b1%d8%a7%db%8c-%da%86%db%8c-%d8%ae%d9%88%d8%a8%d9%87/
+            - img "روغن سیاه دانه برای چی خوبه ؟" [ref=e459]
+          - generic [ref=e460]:
+            - heading [level=3] [ref=e461]:
+              - link "روغن سیاه دانه برای چی خوبه ؟" [ref=e462] [cursor=pointer]:
+                - /url: https://shimitejaratmehravan.com/%d8%b1%d9%88%d8%ba%d9%86-%d8%b3%db%8c%d8%a7%d9%87%d8%af%d8%a7%d9%86%d9%87-%d8%a8%d8%b1%d8%a7%db%8c-%da%86%db%8c-%d8%ae%d9%88%d8%a8%d9%87/
+            - generic [ref=e463]: خرداد 12, 1404
+    - generic [ref=e470]:
+      - generic [ref=e475]:
+        - generic [ref=e476]: 
+        - generic [ref=e479]:
+          - heading "پاسخ سریع" [level=3] [ref=e480]
+          - paragraph [ref=e481]: در کمترین زمان
+      - generic [ref=e486]:
+        - generic [ref=e487]: 
+        - generic [ref=e490]:
+          - heading "مشاوره رایگان" [level=3] [ref=e491]
+          - paragraph [ref=e492]: تخصصی و دقیق
+      - generic [ref=e497]:
+        - generic [ref=e498]: 
+        - generic [ref=e501]:
+          - heading "تامین سفارش" [level=3] [ref=e502]
+          - paragraph [ref=e503]: مطابق نیاز شما
+      - generic [ref=e505]:
+        - heading "ماده مورد نیازتان را پیدا نکردید؟" [level=2] [ref=e508]
+        - paragraph [ref=e511]: نام ماده یا CAS Number مورد نیاز خود را برای ما ارسال کنید.کارشناسان ما در سریع ترین زمان با شما تماس خواهند گرفت.
+        - link "درخواست استعلام سریع" [ref=e515] [cursor=pointer]:
+          - /url: "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjEzOTE3IiwidG9nZ2xlIjpmYWxzZX0%3D"
+          - generic [ref=e516]:
+            - generic [ref=e517]: 
+            - generic [ref=e519]: درخواست استعلام سریع
+  - contentinfo [ref=e520]:
+    - generic [ref=e522]:
+      - generic [ref=e524]:
+        - link [ref=e527] [cursor=pointer]:
+          - /url: https://shimitejaratmehravan.com
+          - img "لوگو شیمی تجارت مهرآوان" [ref=e528]
+        - paragraph [ref=e531]: تامین کننده تخصصی مواد اولیه شیمیایی برای صنایع و کسب و کار ها با قیمت رقابتی، تضمین کیفیت، اصالت و تامین پایدار.
+        - list [ref=e534]:
+          - listitem [ref=e535]:
+            - link "Instagram" [ref=e536] [cursor=pointer]:
+              - /url: https://www.instagram.com/shimitejarat_mehravan
+              - generic [ref=e538]: 
+          - listitem [ref=e539]:
+            - link "Telegram" [ref=e540] [cursor=pointer]:
+              - /url: https://t.me/joinchat/AAAAAE67Ap-Z43u1a_QyIQ
+              - generic [ref=e542]: 
+      - generic [ref=e544]:
+        - generic [ref=e545]: دسترسی سریع
+        - generic [ref=e548]:
+          - paragraph [ref=e549]: خانه
+          - paragraph [ref=e550]: محصولات
+          - paragraph [ref=e551]: مقالات
+          - paragraph [ref=e552]: درباره ما
+          - paragraph [ref=e553]: تماس با ما
+      - generic [ref=e555]:
+        - generic [ref=e556]: محصولات
+        - generic [ref=e559]:
+          - paragraph [ref=e560]: مواد اولیه صنایع غذایی
+          - paragraph [ref=e561]: مواد اولیه صنایع دارویی
+          - paragraph [ref=e562]: مواد اولیه صنایع آرایشی بهداشتی
+          - paragraph [ref=e563]: مواد اولیه صنایع شوینده
+          - paragraph [ref=e564]: سایر مواد شیمیایی
+      - generic [ref=e566]:
+        - generic [ref=e567]: ارتباط با ما
+        - list [ref=e571]:
+          - listitem [ref=e572]:
+            - link "09129546640" [ref=e573] [cursor=pointer]:
+              - /url: tel:09129546640
+              - generic [ref=e574]: 
+          - listitem [ref=e577]:
+            - link "09129546641" [ref=e578] [cursor=pointer]:
+              - /url: tel:09129546641
+              - generic [ref=e579]: 
+          - listitem [ref=e582]:
+            - link "09129546642" [ref=e583] [cursor=pointer]:
+              - /url: tel:09129546642
+              - generic [ref=e584]: 
+          - listitem [ref=e587]:
+            - link "09124355879" [ref=e588] [cursor=pointer]:
+              - /url: tel:09124355879
+              - generic [ref=e589]: 
+      - generic [ref=e593]:
+        - generic [ref=e594]: دفتر مرکزی
+        - list [ref=e598]:
+          - listitem [ref=e599]:
+            - link "021-88687042" [ref=e600] [cursor=pointer]:
+              - /url: tel:02188687042
+              - generic [ref=e601]: 
+          - listitem [ref=e604]:
+            - link "021-88684960" [ref=e605] [cursor=pointer]:
+              - /url: tel:02188684960
+              - generic [ref=e606]: 
+          - listitem [ref=e609]:
+            - link "021-88697361" [ref=e610] [cursor=pointer]:
+              - /url: tel:02188697361
+              - generic [ref=e611]: 
+          - listitem [ref=e614]:
+            - link "021-88683108" [ref=e615] [cursor=pointer]:
+              - /url: tel:02188683108
+              - generic [ref=e616]: 
+    - list [ref=e624]:
+      - listitem [ref=e625]:
+        - generic [ref=e626]: 
+        - generic [ref=e628]: تهران، سعادت آباد، صرافهای جنوبی، خیابان 35 غربی، پلاک 20، واحد 2
+    - generic [ref=e635]:
+      - text: 2026 © تمامی حقوق برای شیمی تجارت مهرآوان محفوظ است. | Made with
+      - img "❤️" [ref=e636]
+      - text: by Lowrezalution
+  - button "چت در واتس اپ" [ref=e638] [cursor=pointer]:
+    - img "WhatsApp" [ref=e639]
+  - generic [ref=e641]: desktop
+  - status [ref=e642]
+```

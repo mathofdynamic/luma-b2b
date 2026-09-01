@@ -1,0 +1,371 @@
+### Page
+- Page URL: https://flco-co.com/
+- Page Title: تامین، تولید و واردات تجهیزات صنعت آب، نفت، گاز و پتروشیمی
+- Console: 1 errors, 2 warnings
+### Snapshot
+```yaml
+- generic [active]:
+  - banner [ref=e1]:
+    - generic [ref=e3]:
+      - link [ref=e6] [cursor=pointer]:
+        - /url: https://flco-co.com/
+        - img "سیال کنترل" [ref=e7]
+      - navigation [ref=e9]:
+        - text: ×
+        - list [ref=e11]:
+          - listitem [ref=e12]:
+            - link "خانه" [ref=e13] [cursor=pointer]:
+              - /url: https://flco-co.com/
+          - listitem [ref=e14]:
+            - link "درباره ما" [ref=e15] [cursor=pointer]:
+              - /url: https://flco-co.com/about-us/
+          - listitem [ref=e16]:
+            - link "محصولات" [ref=e17] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e18]:
+            - link "برندها" [ref=e19] [cursor=pointer]:
+              - /url: https://flco-co.com/brands/
+          - listitem [ref=e20]:
+            - link "خدمات" [ref=e21] [cursor=pointer]:
+              - /url: https://flco-co.com/services/
+          - listitem [ref=e22]:
+            - link "پروژه ها" [ref=e23] [cursor=pointer]:
+              - /url: https://flco-co.com/projects/
+          - listitem [ref=e24]:
+            - link "بلاگ" [ref=e25] [cursor=pointer]:
+              - /url: https://flco-co.com/blog/
+          - listitem [ref=e26]:
+            - link "تماس با ما" [ref=e27] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e28]:
+            - link "ریتاپی | خرید آنلاین" [ref=e29] [cursor=pointer]:
+              - /url: https://retopi.com/
+        - text:   
+      - generic [ref=e31]:
+        - list [ref=e34]:
+          - listitem [ref=e35]:
+            - link "باشگاه مشتریان" [ref=e36] [cursor=pointer]:
+              - /url: /customers
+          - listitem [ref=e37]:
+            - link "۷۴۵۲۵" [ref=e38] [cursor=pointer]:
+              - /url: tel:+982174525
+          - listitem [ref=e39]:
+            - link "" [ref=e40] [cursor=pointer]:
+              - /url: https://t.me/PF_CO
+          - listitem [ref=e42]:
+            - link "" [ref=e43] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/fluid-control-commercial/
+          - listitem [ref=e45]:
+            - link "" [ref=e46] [cursor=pointer]:
+              - /url: https://www.instagram.com/pf_co/
+          - listitem:
+            - link:
+              - /url: https://www.aparat.com/flco/
+          - listitem:
+            - link:
+              - /url: https://www.youtube.com/@fluid-control/
+        - text:  
+        - link "EN" [ref=e49] [cursor=pointer]:
+          - /url: https://flco-co.com/en
+  - generic [ref=e50]:
+    - generic:
+      - generic:
+        - generic [ref=e55]:
+          - generic [ref=e56]: ما راهی را پیدا می‌کنیم
+          - generic [ref=e61]: اسکرول کنید
+        - generic [ref=e72]:
+          - heading "بازرگانی سیال کنترل" [level=1] [ref=e75]
+          - paragraph [ref=e78]:
+            - text: شرکت بازرگانی سیال کنترل به عنوان تامین کننده و وارد کننده
+            - strong [ref=e79]:
+              - link "شیرآلات" [ref=e80] [cursor=pointer]:
+                - /url: https://flco-co.com/products/valves
+            - text: ،
+            - strong [ref=e81]:
+              - link "اتصالات" [ref=e82] [cursor=pointer]:
+                - /url: https://flco-co.com/products/fittinigs
+            - text: و تجهیزات صنعت پایپینگ به ویژه صنعت آب و فاضلاب و
+            - strong [ref=e83]:
+              - link "تجهیزات نفت، گاز و پتروشیمی" [ref=e84] [cursor=pointer]:
+                - /url: https://flco-co.com/blog/articles/equipments-for-oil-gas-and-petrochemicals
+            - text: ، با گسترش محصولات و خدمات خود از لحاظ کمی و کیفی، با تولیدکنندگان مطرح داخلی و خارجی همکاری و به پیشرفت پروژه‌های ملی و صنعتی کمک می‌کند. شرکت سیال کنترل با حضور فعال در بازارهای صنایع مرتبط و تامین تجهیزات مورد نیاز آن‌‌ها و همچنین با کمک نیروی انسانی حرفه‌ای خود توانسته است رضایت مشتریان خود را جلب کند.
+          - link "درباره سیال کنترل" [ref=e88] [cursor=pointer]:
+            - /url: /about-us
+          - region "کاروسل تصویر" [ref=e93]:
+            - generic [ref=e94]:
+              - group "1 / 5" [ref=e95]:
+                - figure [ref=e96]:
+                  - img "شرکت شیمبار" [ref=e97]
+              - group "2 / 5" [ref=e98]:
+                - figure [ref=e99]:
+                  - img "شرکت کاله" [ref=e100]
+              - group "3 / 5" [ref=e101]:
+                - figure [ref=e102]:
+                  - img "مپنا" [ref=e103]
+              - group "4 / 5" [ref=e104]:
+                - figure [ref=e105]:
+                  - img "ژالکه" [ref=e106]
+              - group "5 / 5" [ref=e107]:
+                - figure [ref=e108]:
+                  - img "شرکت آب منطقه ای تهران" [ref=e109]
+            - button "اسلاید قبلی" [disabled] [ref=e110] [cursor=pointer]:
+              - generic [ref=e111]: 
+            - button "اسلاید بعدی" [disabled] [ref=e112] [cursor=pointer]:
+              - generic [ref=e113]: 
+        - generic [ref=e120]:
+          - heading "برندهای ما" [level=2] [ref=e123]
+          - paragraph [ref=e126]: شرکت سیال کنترل نمایندگی بهترین تولیدکنندگان شیرآلات و اتصالات صنعتی، تجهیزات نفت و گاز و پتروشیمی و تجهیزات پایپینگ و آب و فاضلاب در ایران را دارد.
+          - region "کاروسل تصویر" [ref=e129]:
+            - generic [ref=e130]:
+              - group "1 / 13" [ref=e131]:
+                - figure [ref=e132]:
+                  - img "cepex" [ref=e133]
+                  - link [ref=e135] [cursor=pointer]:
+                    - /url: https://demo.flco-co.com/brand/cepex/
+              - group "2 / 13" [ref=e136]:
+                - figure [ref=e137]:
+                  - img "میراب" [ref=e138]
+                  - link [ref=e140] [cursor=pointer]:
+                    - /url: https://demo.flco-co.com/brand/mirab/
+              - group "3 / 13" [ref=e141]:
+                - figure [ref=e142]:
+                  - img "Avand" [ref=e143]
+              - group "4 / 13" [ref=e144]:
+                - figure [ref=e145]:
+                  - img "ارتعاشات صنعتی" [ref=e146]
+                  - link [ref=e148] [cursor=pointer]:
+                    - /url: https://demo.flco-co.com/brand/industrial-vibration/
+              - group "5 / 13" [ref=e149]:
+                - figure [ref=e150]:
+                  - img "فیکو" [ref=e151]
+                  - link [ref=e153] [cursor=pointer]:
+                    - /url: https://demo.flco-co.com/brand/fico-valves/
+              - group [ref=e154]:
+                - figure [ref=e155]:
+                  - link [ref=e158] [cursor=pointer]:
+                    - /url: https://demo.flco-co.com/brand/herbe/
+              - group [ref=e159]:
+                - figure [ref=e160]:
+                  - link [ref=e163] [cursor=pointer]:
+                    - /url: https://demo.flco-co.com/brand/kiz-iran/
+              - group [ref=e164]:
+                - figure [ref=e165]:
+                  - link [ref=e168] [cursor=pointer]:
+                    - /url: https://demo.flco-co.com/brand/negin-tap/
+              - group [ref=e169]:
+                - figure [ref=e170]
+              - group [ref=e172]:
+                - figure [ref=e173]:
+                  - link [ref=e176] [cursor=pointer]:
+                    - /url: https://demo.flco-co.com/brand/takab-etesal-damavand/
+              - group [ref=e177]:
+                - figure [ref=e178]:
+                  - link [ref=e181] [cursor=pointer]:
+                    - /url: https://demo.flco-co.com/brand/pishgam/
+              - group [ref=e182]:
+                - figure [ref=e183]
+              - group [ref=e185]:
+                - figure [ref=e186]
+            - button "اسلاید قبلی" [ref=e188] [cursor=pointer]:
+              - generic [ref=e189]: 
+            - button "اسلاید بعدی" [ref=e190] [cursor=pointer]:
+              - generic [ref=e191]: 
+            - generic [ref=e192]:
+              - button "رفتن به اسلاید 1" [ref=e193] [cursor=pointer]
+              - button "رفتن به اسلاید 2" [ref=e194] [cursor=pointer]
+              - button "رفتن به اسلاید 3" [ref=e195] [cursor=pointer]
+              - button "رفتن به اسلاید 4" [ref=e196] [cursor=pointer]
+              - button "رفتن به اسلاید 5" [ref=e197] [cursor=pointer]
+              - button "رفتن به اسلاید 6" [ref=e198] [cursor=pointer]
+              - button "رفتن به اسلاید 7" [ref=e199] [cursor=pointer]
+              - button "رفتن به اسلاید 8" [ref=e200] [cursor=pointer]
+              - button "رفتن به اسلاید 9" [ref=e201] [cursor=pointer]
+              - button "رفتن به اسلاید 10" [ref=e202] [cursor=pointer]
+              - button "رفتن به اسلاید 11" [ref=e203] [cursor=pointer]
+              - button "رفتن به اسلاید 12" [ref=e204] [cursor=pointer]
+              - button "رفتن به اسلاید 13" [ref=e205] [cursor=pointer]
+        - generic [ref=e211]:
+          - heading "خدمات ما" [level=2] [ref=e214]
+          - paragraph [ref=e217]: شرکت بازرگانی سیال کنترل در راستای تامین تجهیزات پروژه‌های پایپینگ صنایع کشور و درخواست مشتریان، راهکارهای خدماتی خود را با توجه به نیروهای متخصص و کارآمد، برای انجام بهینه فرآیندها ارائه می‌دهد.
+          - generic [ref=e218]:
+            - generic [ref=e221]:
+              - generic:
+                - figure [ref=e222]:
+                  - link [ref=e223] [cursor=pointer]:
+                    - /url: https://flco-co.com/services/
+                    - img "مشاوره یک تیم تخصصی سیال کنترل" [ref=e224]
+                - generic:
+                  - heading [level=3] [ref=e225]:
+                    - link "واحد پروژه‌ها" [ref=e226] [cursor=pointer]:
+                      - /url: https://flco-co.com/services/
+                  - paragraph [ref=e227]: در فرآیند تکمیل پروژه جهت مشاوره یک تیم تخصصی و با تجربه همراه شما خواهد بود.
+            - generic [ref=e230]:
+              - generic:
+                - figure [ref=e231]:
+                  - link [ref=e232] [cursor=pointer]:
+                    - /url: https://flco-co.com/services/
+                    - img "شیرآلات و اتصالات سیال کنترل" [ref=e233]
+                - generic:
+                  - heading [level=3] [ref=e234]:
+                    - link "تدارکات" [ref=e235] [cursor=pointer]:
+                      - /url: https://flco-co.com/services/
+                  - paragraph [ref=e236]: ما با داشتن تجربه در زمینه بازرگانی و شناخت تولیدکنندگان شیرآلات و اتصالات، زنجیره تامین را آسانتر نمودیم.
+            - generic [ref=e239]:
+              - generic:
+                - figure [ref=e240]:
+                  - link [ref=e241] [cursor=pointer]:
+                    - /url: https://flco-co.com/services/
+                    - img "انبارداری سیال کنترل" [ref=e242]
+                - generic:
+                  - heading [level=3] [ref=e243]:
+                    - link "انبار" [ref=e244] [cursor=pointer]:
+                      - /url: https://flco-co.com/services/
+                  - paragraph [ref=e245]: ما با انبار بیش از ۱۰۰ نوع شیرآلات و اتصالات با متریال‌های متنوع مورد مصرف در صنایع مختلف، زمان تحویل را سرعت بخشیدیم.
+            - generic [ref=e248]:
+              - generic:
+                - figure [ref=e249]:
+                  - link [ref=e250] [cursor=pointer]:
+                    - /url: https://flco-co.com/services/
+                    - img "بازرسی سیال کنترل" [ref=e251]
+                - generic:
+                  - heading [level=3] [ref=e252]:
+                    - link "بازرسی" [ref=e253] [cursor=pointer]:
+                      - /url: https://flco-co.com/services/
+                  - paragraph [ref=e254]: ما هرنوع بازرسی را در سطح یک، دو و سه به لحاظ کمی و کیفی، انجام و تسهیل می‌نماییم.
+            - generic [ref=e257]:
+              - generic:
+                - figure [ref=e258]:
+                  - link [ref=e259] [cursor=pointer]:
+                    - /url: https://flco-co.com/services/
+                    - img "حمل و نقل سریع و آسان با سیال کنترل" [ref=e260]
+                - generic:
+                  - heading [level=3] [ref=e261]:
+                    - link "حمل و نقل" [ref=e262] [cursor=pointer]:
+                      - /url: https://flco-co.com/services/
+                  - paragraph [ref=e263]: تمامی سفارشات را در مکان و زمان مورد نظر، به موقع تحویل می‌دهیم.
+            - generic [ref=e266]:
+              - generic:
+                - figure [ref=e267]:
+                  - link [ref=e268] [cursor=pointer]:
+                    - /url: https://flco-co.com/services/
+                    - img "بسته بندی سیال کنترل" [ref=e269]
+                - generic:
+                  - heading [level=3] [ref=e270]:
+                    - link "بسته‌بندی" [ref=e271] [cursor=pointer]:
+                      - /url: https://flco-co.com/services/
+                  - paragraph [ref=e272]: ما برای سفارش شما بسته‌بندی و روش حمل متناسب با ویژگی‌های آن کالا را استفاده خواهیم نمود که شامل پالت چوبی، جعبه و ... می‌باشد.
+            - generic [ref=e275]:
+              - generic:
+                - figure [ref=e276]:
+                  - link [ref=e277] [cursor=pointer]:
+                    - /url: https://flco-co.com/services/
+                    - img "حمل با الزامات تخصصی کامل" [ref=e278]
+                - generic:
+                  - heading [level=3] [ref=e279]:
+                    - link "ارائه اسناد حمل" [ref=e280] [cursor=pointer]:
+                      - /url: https://flco-co.com/services/
+                  - paragraph [ref=e281]: ما قادر به ارائه اسناد حمل با الزامات تخصصی کامل و بدون ایراد هستیم. کالاهای متنوع را از تولیدکنندگان مختلف دریافت و همه را در قالب یک محموله برای شما ارسال می‌کنیم.
+        - generic [ref=e287]:
+          - generic [ref=e288]:
+            - heading "برترین و جدیدترین محصولات سیال کنترل" [level=2] [ref=e291]
+            - paragraph [ref=e294]: شرکت سیال کنترل به عنوان تأمین‌کننده و واردکننده انواع شیرآلات صنعتی، اتصالات صنعتی، لوله‌ها و عملگرها با افتخار در خدمت شماست. ما جدیدترین محصولات را با کیفیت بالا و استانداردهای لازم تضمینی ارائه می‌دهیم. برای مشاهده و خرید محصولات ما، به صفحه محصولات مراجعه کنید و یا روی یکی از محصولات رو به رو کلیک نمایید.
+          - generic [ref=e295]:
+            - generic [ref=e298]:
+              - figure [ref=e299]:
+                - link [ref=e300] [cursor=pointer]:
+                  - /url: /products/valves
+                  - img "شیرآلات صنعتی" [ref=e301]
+              - heading [level=3] [ref=e303]:
+                - link "شیر آلات صنعتی" [ref=e304] [cursor=pointer]:
+                  - /url: /products/valves
+            - generic [ref=e307]:
+              - figure [ref=e308]:
+                - link [ref=e309] [cursor=pointer]:
+                  - /url: /products/fittinigs
+                  - img "اتصالات" [ref=e310]
+              - heading [level=3] [ref=e312]:
+                - link "اتصالات صنعتی" [ref=e313] [cursor=pointer]:
+                  - /url: /products/fittinigs
+            - generic [ref=e316]:
+              - figure [ref=e317]:
+                - link [ref=e318] [cursor=pointer]:
+                  - /url: /products/pipes
+                  - img "لوله آلومینیوم" [ref=e319]
+              - heading [level=3] [ref=e321]:
+                - link "لوله ها" [ref=e322] [cursor=pointer]:
+                  - /url: /products/pipes
+            - generic [ref=e325]:
+              - figure [ref=e326]:
+                - link [ref=e327] [cursor=pointer]:
+                  - /url: /products/actuator
+                  - img "عملگر" [ref=e328]
+              - heading [level=3] [ref=e330]:
+                - link "عملگرها" [ref=e331] [cursor=pointer]:
+                  - /url: /products/actuator
+        - generic [ref=e337]:
+          - heading "آخرین اخبار و مقالات" [level=2] [ref=e340]
+          - generic [ref=e343]:
+            - generic [ref=e344]:
+              - group "1 / 3" [ref=e345]:
+                - article [ref=e346]:
+                  - generic [ref=e347]:
+                    - generic [ref=e348]: 27 مرداد
+                    - link [ref=e350] [cursor=pointer]:
+                      - /url: https://flco-co.com/blog/articles/iran-industrial-rubber-vibration-damper/
+                      - img "لرزه گیر لاستیکی ارتعاشات صنعتی ایران" [ref=e351]
+                  - heading [level=2] [ref=e352]:
+                    - link "لرزه گیر لاستیکی ارتعاشات صنعتی ایران" [ref=e353] [cursor=pointer]:
+                      - /url: https://flco-co.com/blog/articles/iran-industrial-rubber-vibration-damper/
+              - group "2 / 3" [ref=e354]:
+                - article [ref=e355]:
+                  - generic [ref=e356]:
+                    - generic [ref=e357]: 24 مرداد
+                    - link [ref=e359] [cursor=pointer]:
+                      - /url: https://flco-co.com/blog/articles/mirab-wafer-type-butterfly-valve/
+                      - img "شیر پروانه ای بدون فلنج میراب" [ref=e360]
+                  - heading [level=2] [ref=e361]:
+                    - link "شیر پروانه ای بدون فلنج میراب؛ بررسی مشخصات، انواع، کاربردها و قیمت" [ref=e362] [cursor=pointer]:
+                      - /url: https://flco-co.com/blog/articles/mirab-wafer-type-butterfly-valve/
+              - group "3 / 3" [ref=e363]:
+                - article [ref=e364]:
+                  - generic [ref=e365]:
+                    - generic [ref=e366]: 18 مرداد
+                    - link [ref=e368] [cursor=pointer]:
+                      - /url: https://flco-co.com/blog/articles/repair-mirab-valves/
+                      - img "تعمیر شیر کشویی میراب" [ref=e369]
+                  - heading [level=2] [ref=e370]:
+                    - link "تعمیر شیر کشویی میراب؛ راهکاری اقتصادی برای جلوگیری از تعویض شیر" [ref=e371] [cursor=pointer]:
+                      - /url: https://flco-co.com/blog/articles/repair-mirab-valves/
+            - text: next prev
+        - generic [ref=e375]:
+          - generic [ref=e377]:
+            - heading "تماس با ما" [level=3] [ref=e380]
+            - list [ref=e384]:
+              - listitem [ref=e385]:
+                - link "تهران - مدرس - خ وحيد دستگردی - پلاک ۱۹۷ - واحد ۱۱" [ref=e386] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/dir//Zafar+St,+Tehran+Province,+Tehran,+Iran/@35.7671088,51.4249275,19.5z/data=!4m9!4m8!1m0!1m5!1m1!1s0x3f8e069b60165eab:0x529b0c939c168a2c!2m2!1d51.425639!2d35.767059!3e0?entry=ttu
+              - listitem [ref=e388]:
+                - 'link "شماره تلفن : ۰۲۱74525" [ref=e389] [cursor=pointer]':
+                  - /url: tel:%2002174525
+              - listitem [ref=e391]:
+                - 'link "ایمیل : info@flco-co.com" [ref=e392] [cursor=pointer]':
+                  - /url: mailto:%20info@flco-co.com
+          - heading [level=2] [ref=e403]:
+            - link "طراحی سایت" [ref=e404] [cursor=pointer]:
+              - /url: https://hinzaco.com/website-design/
+            - link "و سئو" [ref=e405] [cursor=pointer]:
+              - /url: https://hinzaco.com/seo/
+            - link "توسط هینزا" [ref=e406] [cursor=pointer]:
+              - /url: https://hinzaco.com/
+            - text: . - Copyright 2022 FLUID CONTROL. All rights reserved ©
+          - generic [ref=e407]: "window.RAYCHAT_TOKEN = \"69d479bd-b817-4ddd-b544-1d4a5f590fe4\"; (function () { d = document; s = d.createElement(\"script\"); s.src = \"https://widget-react.raychat.io/install/widget.js\"; s.async = 1; d.getElementsByTagName(\"head\")[0].appendChild(s); })();"
+    - generic [ref=e412]:
+      - generic [ref=e414] [cursor=pointer]
+      - generic [ref=e416] [cursor=pointer]
+      - generic [ref=e418] [cursor=pointer]
+      - generic [ref=e420] [cursor=pointer]
+      - generic [ref=e422] [cursor=pointer]
+      - generic [ref=e424] [cursor=pointer]
+      - generic [ref=e426] [cursor=pointer]
+  - generic [ref=e427]: desktop
+```

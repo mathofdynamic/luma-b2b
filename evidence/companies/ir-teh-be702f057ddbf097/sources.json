@@ -1,0 +1,94 @@
+{
+  "company_id": "ir-teh-be702f057ddbf097",
+  "errors": [],
+  "generated_at": "2026-09-01T08:16:34Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [
+    {
+      "bytes": 840379,
+      "captured_at": "2026-09-01T08:16:32Z",
+      "company_id": "ir-teh-be702f057ddbf097",
+      "headless": true,
+      "page_title": "فروش عمده مواد غذایی - عمده فروشی آنلاین مواد غذایی",
+      "path": "companies/ir-teh-be702f057ddbf097/screenshots/homepage.png",
+      "reason_this_matters": "Public company homepage is the primary visual evidence surface.",
+      "screenshot_type": "homepage",
+      "source_url": "https://bonakdari724.ir/"
+    }
+  ],
+  "sources": [
+    {
+      "discovered_at": "2026-09-01T06:31:44Z",
+      "discovery_reason": "Book-e Avval category: فروش عمده مواد غذایی",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "خدمات ما: - پشتیبانی مشتریان: تیم پشتیبانی ما همیشه آماده پاسخگویی به سوالات و نیازهای شماست. - سفارش آنلاین: به راحتی و با چند کلیک ساده می توانید سفارش خود را ثبت کنید.",
+      "source_quality": "directory",
+      "source_title": "فروش عمده مواد غذایی در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D9%81%D8%B1%D9%88%D8%B4%20%D8%B9%D9%85%D8%AF%D9%87%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:31:44Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-347c503e573174cb",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "خدمات ما: - پشتیبانی مشتریان: تیم پشتیبانی ما همیشه آماده پاسخگویی به سوالات و نیازهای شماست. - سفارش آنلاین: به راحتی و با چند کلیک ساده می توانید سفارش خود را ثبت کنید.",
+      "source_quality": "directory",
+      "source_title": "فروش عمده مواد غذایی در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D9%81%D8%B1%D9%88%D8%B4%20%D8%B9%D9%85%D8%AF%D9%87%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:53Z",
+      "claim": "Directory profile lists بنکداری 724 with a public Tehran business listing.",
+      "confidence": 0.82,
+      "evidence_id": "ev-905eff2070975927",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "بنکداری 724 - فروش عمده مواد غذایی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس بنکداری 724 فروش عمده مواد غذایی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل فروش عمده مواد غذایی تهران محله انبار نفت اطلاعات تماس آدرس : تهران، منطقه 11، محله انبار نفت، میدان رازی (گمرک)، خیابان انبار نفت، روبروی درمانگاه علوی، پلاک 133 تلفن : نمایش شماره XXXXXXXXXX تلفن همراه : نمایش شماره XXXXXXXXXX وب سایت ww",
+      "source_quality": "directory",
+      "source_title": "بنکداری 724 - فروش عمده مواد غذایی | کتاب اول",
+      "source_url": "https://avval.ir/profile/92ec8/%D8%A8%D9%86%DA%A9%D8%AF%D8%A7%D8%B1%DB%8C-724"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:55Z",
+      "claim": "Public website signal: catalog_or_products",
+      "confidence": 0.86,
+      "evidence_id": "ev-28a8e35a13dc86f6",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "محصولات; محصول | فروش عمده مواد غذایی - عمده فروشی آنلاین مواد غذایی Skip to navigation Skip to main content انتخاب دسته بندی انتخاب دسته بندی تنقلات بیسکویت و ویفر چیپس و پفک سایر برندهای تنقلات شکلات و تافی کیک و کلوچه شوینده و بهداشتی شتشوی البسه شیر و لبنیات فست فودی کیک و کلوچه درنا زرکام سایر برندها کیک و کلوچه شیرین عسل کیک نظری نادری مواد غذایی ماکارانی و رشته نوشیدنی آب معدنی و آشامیدنی آبمیوه و شربت انرژی زا چای و قهوه نوشی",
+      "signal": "catalog_or_products",
+      "source_quality": "company_site",
+      "source_title": "فروش عمده مواد غذایی - عمده فروشی آنلاین مواد غذایی",
+      "source_url": "https://bonakdari724.ir/"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:55Z",
+      "claim": "Public website signal: order_or_contact_form",
+      "confidence": 0.72,
+      "evidence_id": "ev-3c0239fe852beb82",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "تماس با ما | فروش عمده مواد غذایی - عمده فروشی آنلاین مواد غذایی Skip to navigation Skip to main content انتخاب دسته بندی انتخاب دسته بندی تنقلات بیسکویت و ویفر چیپس و پفک سایر برندهای تنقلات شکلات و تافی کیک و کلوچه شوینده و بهداشتی شتشوی البسه شیر و لبنیات فست فودی کیک و کلوچه درنا زرکام سایر برندها کیک و کلوچه شیرین عسل کیک نظری نادری مواد غذایی ماکارانی و رشته نوشیدنی آب معدنی و آشامیدنی آبمیوه و شربت انرژی زا چای و قهوه نوشی",
+      "signal": "order_or_contact_form",
+      "source_quality": "company_site",
+      "source_title": "فروش عمده مواد غذایی - عمده فروشی آنلاین مواد غذایی",
+      "source_url": "https://bonakdari724.ir/"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:55Z",
+      "claim": "Public website signal: factory_or_warehouse",
+      "confidence": 0.86,
+      "evidence_id": "ev-5f065b66f6ac8931",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "انبار | فروش عمده مواد غذایی - عمده فروشی آنلاین مواد غذایی Skip to navigation Skip to main content انتخاب دسته بندی انتخاب دسته بندی تنقلات بیسکویت و ویفر چیپس و پفک سایر برندهای تنقلات شکلات و تافی کیک و کلوچه شوینده و بهداشتی شتشوی البسه شیر و لبنیات فست فودی کیک و کلوچه درنا زرکام سایر برندها کیک و کلوچه شیرین عسل کیک نظری نادری مواد غذایی ماکارانی و رشته نوشیدنی آب معدنی و آشامیدنی آبمیوه و شربت انرژی زا چای و قهوه نوشی",
+      "signal": "factory_or_warehouse",
+      "source_quality": "company_site",
+      "source_title": "فروش عمده مواد غذایی - عمده فروشی آنلاین مواد غذایی",
+      "source_url": "https://bonakdari724.ir/"
+    }
+  ]
+}

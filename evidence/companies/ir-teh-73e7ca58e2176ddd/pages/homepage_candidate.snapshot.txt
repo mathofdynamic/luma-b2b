@@ -1,0 +1,183 @@
+### Page
+- Page URL: https://petrogroup.co/fa/
+- Page Title: پترو صنعت جنوب
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - link "پرش به محتوا" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - list [ref=e10]:
+        - listitem [ref=e11]:
+          - generic [ref=e15]: "ایمیل: info [at] petrogroup [dot] co"
+        - listitem [ref=e16]:
+          - generic [ref=e20]: "ساعات کاری: شنبه تا پنجشنبه 8 الی 16"
+      - link [ref=e27] [cursor=pointer]:
+        - /url: https://petrogroup.co/en/
+    - banner [ref=e28]:
+      - generic [ref=e29]:
+        - link [ref=e34] [cursor=pointer]:
+          - /url: https://petrogroup.co/fa
+        - navigation "Menu" [ref=e39]:
+          - list [ref=e40]:
+            - listitem [ref=e41]:
+              - link "صفحه اصلی" [ref=e42] [cursor=pointer]:
+                - /url: https://petrogroup.co/fa/
+            - listitem [ref=e43]:
+              - link [ref=e44] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e48]:
+              - link [ref=e49] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e53]:
+              - link [ref=e54] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e58]:
+              - link "استخدام" [ref=e59] [cursor=pointer]:
+                - /url: https://petrogroup.co/fa/recruitment/
+            - listitem [ref=e60]:
+              - link "پیوندها" [ref=e61] [cursor=pointer]:
+                - /url: https://petrogroup.co/fa/links/
+            - listitem [ref=e62]:
+              - link "خبرنامه پترونیوز" [ref=e63] [cursor=pointer]:
+                - /url: https://petrogroup.co/fa/petronews/
+            - listitem [ref=e64]:
+              - link "گالری تصاویر" [ref=e65] [cursor=pointer]:
+                - /url: https://petrogroup.co/fa/images/
+            - listitem [ref=e66]:
+              - link "تماس با ما" [ref=e67] [cursor=pointer]:
+                - /url: https://petrogroup.co/fa/%d8%aa%d9%85%d8%a7%d8%b3-%d8%a8%d8%a7-%d9%85%d8%a7/
+  - main [ref=e68]:
+    - generic [ref=e70]:
+      - generic [ref=e628]:
+        - generic [ref=e633]: بالندگی فردا
+        - generic [ref=e634]: دانش امروز
+        - generic [ref=e635]: تجربه دیروز
+      - generic [ref=e280]:
+        - paragraph [ref=e281]: شرکت پتروصنعت جنوب در سال 1382 با هدف ارائه خدمات فنی و مهندسی به مجتمع‌ها و کارخانجات صنعتی، توسط جمعی از متخصصین صنایع نفت، گاز و پتروشیمی ایران تأسیس گردید و استراتژی و اهداف خود را اجرای پروژه های صنعتی از مرحله طراحی و نصب تا بهره‌برداری و تعمیرات منظور نمود.
+        - paragraph [ref=e282]: پس از اینکه شرکت به جایگاه متعالی خود در صنایع نفت، گاز و پتروشيمي ایران دست یافت، برنامه خود را بر ارائه خدمات به مجتمع‌ها و کارخانجات صنعتی در قالب یک فعالیت گروهی و تخصصی با توجه به نیاز مشتریان استوار نمود. لذا فعالیت‌های گروه با تکیه بر دانش و تجربه پرسنل مجموعه، تحت عنوان گروه پتروصنعت جنوب ادامه یافت، محور فعاليت‌هاي این گروه بر پايه رضايت مشتري و شعار”تجربه ديروز‌،‌دانش امروز، بالندگي فردا” استوار و کلیه فعالیت‌ها با برنامه‌های منظم و زمانبندی شده، بر اساس اصول نوین و پیشرفته علمی و با توجه به تقاضا و درخواست مشتریان تدوین گردیده است.
+        - paragraph [ref=e283]: این گروه با محوریت شرکت پتروصنعت جنوب در قالب شرکت های تخصصی زیر مجموعه خود ارائه خدمات به جامعه صنعتی را دستور کار خود قرار داده است. این شرکت در حال حاضر علاوه بر ارائه خدمات تخصصی، با توجه به مشارکت با دانشگاه ها و مراکز علم پژوهشی ، پروژه های پژوهشی، تحقیقاتی، آموزشی و بهینه سازی در حوزه های مختلف صنایع را نیز دنبال و مشغول ارائه خدمات به صنایع می باشد.
+        - paragraph [ref=e284]: "فعالیت های اجرایی گروه پتروصنعت جنوب در قالب شرکت های تخصصی و دپارتمان های ذیل بسط وگسترش یافته است:"
+        - list [ref=e285]:
+          - listitem [ref=e286]: "شرکت پتروصنعت کاوه: دپارتمان مهندسی، ساخت و نصب"
+          - listitem [ref=e287]: "شرکت پتروفک خاورمیانه: دپارتمان بهره برداری، نگهداری و تعمیرات شرکت"
+          - listitem [ref=e288]: "پتروپوشش پارس: دپارتمان سرویس های تعمیراتی، عمران، راه، ساختمان، ایمنی و آموزش"
+          - listitem [ref=e289]: "شرکت کاویان صنعت ویرا: دپارتمان بازرگانی و مدیریت زنجیره تامین"
+      - generic [ref=e457]:
+        - article [ref=e458]:
+          - generic [ref=e459]:
+            - link [ref=e460] [cursor=pointer]:
+              - /url: https://petrogroup.co/fa/2024/12/17/%d8%b9%d9%85%d9%84%db%8c%d8%a7%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%a7%d9%87%db%8c/
+            - generic [ref=e462]: تصاویر
+            - generic [ref=e463]:
+              - heading [level=3] [ref=e464]:
+                - link "عملیات کارگاهی" [ref=e465] [cursor=pointer]:
+                  - /url: https://petrogroup.co/fa/2024/12/17/%d8%b9%d9%85%d9%84%db%8c%d8%a7%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%a7%d9%87%db%8c/
+              - link "Read more about عملیات کارگاهی" [ref=e466] [cursor=pointer]:
+                - /url: https://petrogroup.co/fa/2024/12/17/%d8%b9%d9%85%d9%84%db%8c%d8%a7%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%a7%d9%87%db%8c/
+                - text: ادامه »
+            - generic [ref=e467]: دسامبر 17, 2024
+        - article [ref=e468]:
+          - generic [ref=e469]:
+            - link [ref=e470] [cursor=pointer]:
+              - /url: https://petrogroup.co/fa/2024/11/25/%d8%a8%db%8c%d8%b3%d8%aa-%d9%88-%d9%87%d9%81%d8%aa%d9%85%db%8c%d9%86-%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87-%d8%a8%db%8c%d9%86-%d8%a7%d9%84%d9%85%d9%84%d9%84%db%8c-%d9%86%d9%81%d8%aa%d8%8c/
+            - generic [ref=e472]: تصاویر
+            - generic [ref=e473]:
+              - heading [level=3] [ref=e474]:
+                - link "بیست و هفتمین نمایشگاه بین المللی نفت، گاز، پالایش و پتروشیمی تهران 1402" [ref=e475] [cursor=pointer]:
+                  - /url: https://petrogroup.co/fa/2024/11/25/%d8%a8%db%8c%d8%b3%d8%aa-%d9%88-%d9%87%d9%81%d8%aa%d9%85%db%8c%d9%86-%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87-%d8%a8%db%8c%d9%86-%d8%a7%d9%84%d9%85%d9%84%d9%84%db%8c-%d9%86%d9%81%d8%aa%d8%8c/
+              - link "Read more about بیست و هفتمین نمایشگاه بین المللی نفت، گاز، پالایش و پتروشیمی تهران 1402" [ref=e476] [cursor=pointer]:
+                - /url: https://petrogroup.co/fa/2024/11/25/%d8%a8%db%8c%d8%b3%d8%aa-%d9%88-%d9%87%d9%81%d8%aa%d9%85%db%8c%d9%86-%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87-%d8%a8%db%8c%d9%86-%d8%a7%d9%84%d9%85%d9%84%d9%84%db%8c-%d9%86%d9%81%d8%aa%d8%8c/
+                - text: ادامه »
+            - generic [ref=e477]: نوامبر 25, 2024
+        - article [ref=e478]:
+          - generic [ref=e479]:
+            - link [ref=e480] [cursor=pointer]:
+              - /url: https://petrogroup.co/fa/2024/09/03/%d8%af%d9%87%d9%85%db%8c%d9%86-%d8%ac%d8%b4%d9%86%d9%88%d8%a7%d8%b1%d9%87-%d9%82%d9%87%d8%b1%d9%85%d8%a7%d9%86%d8%a7%d9%86-%d8%b5%d9%86%d8%b9%d8%aa-%d9%86%d9%81%d8%aa-%d8%a7%db%8c%d8%b1%d8%a7%d9%86/
+            - generic [ref=e482]: تصاویر
+            - generic [ref=e483]:
+              - heading [level=3] [ref=e484]:
+                - link "دهمین جشنواره قهرمانان صنعت نفت ایران" [ref=e485] [cursor=pointer]:
+                  - /url: https://petrogroup.co/fa/2024/09/03/%d8%af%d9%87%d9%85%db%8c%d9%86-%d8%ac%d8%b4%d9%86%d9%88%d8%a7%d8%b1%d9%87-%d9%82%d9%87%d8%b1%d9%85%d8%a7%d9%86%d8%a7%d9%86-%d8%b5%d9%86%d8%b9%d8%aa-%d9%86%d9%81%d8%aa-%d8%a7%db%8c%d8%b1%d8%a7%d9%86/
+              - link "Read more about دهمین جشنواره قهرمانان صنعت نفت ایران" [ref=e486] [cursor=pointer]:
+                - /url: https://petrogroup.co/fa/2024/09/03/%d8%af%d9%87%d9%85%db%8c%d9%86-%d8%ac%d8%b4%d9%86%d9%88%d8%a7%d8%b1%d9%87-%d9%82%d9%87%d8%b1%d9%85%d8%a7%d9%86%d8%a7%d9%86-%d8%b5%d9%86%d8%b9%d8%aa-%d9%86%d9%81%d8%aa-%d8%a7%db%8c%d8%b1%d8%a7%d9%86/
+                - text: ادامه »
+            - generic [ref=e487]: سپتامبر 3, 2024
+        - article [ref=e488]:
+          - generic [ref=e489]:
+            - link [ref=e490] [cursor=pointer]:
+              - /url: https://petrogroup.co/fa/2024/09/03/ceremony/
+            - generic [ref=e492]: تصاویر
+            - generic [ref=e493]:
+              - heading [level=3] [ref=e494]:
+                - link "مراسم استقرار نظام آراستگی" [ref=e495] [cursor=pointer]:
+                  - /url: https://petrogroup.co/fa/2024/09/03/ceremony/
+              - link "Read more about مراسم استقرار نظام آراستگی" [ref=e496] [cursor=pointer]:
+                - /url: https://petrogroup.co/fa/2024/09/03/ceremony/
+                - text: ادامه »
+            - generic [ref=e497]: سپتامبر 3, 2024
+  - generic [ref=e498]:
+    - generic [ref=e501]:
+      - generic [ref=e503]:
+        - heading "گروه پتروصنعت جنوب" [level=4] [ref=e506]
+        - paragraph [ref=e509]: ارائه خدمات در زمینه‌های طراحی، ساخت، نصب، راه اندازی، بهره برداری، نگهداری و تعمیرات، نوسازی، نظارت و بازرسی دستگاه‌ها، تاسیسات، تجهیزات و ماشین آلات مجتمع‌های صنعتی با بهره گیری از پرسنل با تجربه و کارآزموده.
+      - generic [ref=e511]:
+        - heading "با ما در ارتباط باشید" [level=4] [ref=e514]
+        - generic [ref=e516]:
+          - generic [ref=e518]:
+            - heading "دفتر تهران" [level=4] [ref=e521]
+            - list [ref=e524]:
+              - listitem [ref=e525]:
+                - generic [ref=e529]: شهرک غرب، بلوار دادمان، خیابان فخار مقدم، گلبرگ یکم غربی، پلاک 5.
+              - listitem [ref=e530]:
+                - link "88580657 (021)" [ref=e531] [cursor=pointer]:
+                  - /url: tel:02188580657
+              - listitem [ref=e536]:
+                - link "88079573 (021)" [ref=e537] [cursor=pointer]:
+                  - /url: tel:02188079573
+          - generic [ref=e543]:
+            - heading "دفتر شیراز" [level=4] [ref=e546]
+            - list [ref=e549]:
+              - listitem [ref=e550]:
+                - generic [ref=e554]: خیابان قصردشت، خیابان شهید بهشتی (خلدبرین)، کوچه 1، پلاک17.
+              - listitem [ref=e555]:
+                - link "36294641 (071)" [ref=e556] [cursor=pointer]:
+                  - /url: tel:07136294641
+              - listitem [ref=e561]:
+                - link "36264528 (071)" [ref=e562] [cursor=pointer]:
+                  - /url: tel:07136264528
+      - generic [ref=e568]:
+        - heading "لینک‌های کاربردی" [level=4] [ref=e571]
+        - list [ref=e574]:
+          - listitem [ref=e575]:
+            - link "تماس با ما" [ref=e576] [cursor=pointer]:
+              - /url: https://petrogroup.co/fa/%d8%aa%d9%85%d8%a7%d8%b3-%d8%a8%d8%a7-%d9%85%d8%a7/
+          - listitem [ref=e578]:
+            - link "تقدیرنامه‌ها" [ref=e579] [cursor=pointer]:
+              - /url: https://petrogroup.co/fa/acknowledgment/
+          - listitem [ref=e581]:
+            - link "گواهینامه‌ها" [ref=e582] [cursor=pointer]:
+              - /url: https://petrogroup.co/fa/certificates/
+          - listitem [ref=e584]:
+            - link "ماشین آلات و تجهیزات" [ref=e585] [cursor=pointer]:
+              - /url: https://petrogroup.co/fa/equipments/
+          - listitem [ref=e587]:
+            - link "کاتالوگ" [ref=e588] [cursor=pointer]:
+              - /url: https://petrogroup.co/fa/wp-content/uploads/2024/11/kataloog.pdf
+    - generic [ref=e591]:
+      - list [ref=e598]:
+        - listitem [ref=e599]:
+          - link "info [at] petrogroup [dot] co" [ref=e600] [cursor=pointer]:
+            - /url: mailto:info@petrogroup.co
+      - list [ref=e609]:
+        - listitem [ref=e610]:
+          - link "petrogroup.co" [ref=e611] [cursor=pointer]:
+            - /url: "#"
+    - paragraph [ref=e624]:
+      - text: © تمامی حقوق این وبسایت محفوظ و متعلق به پتروصنعت جنوب است. | طراحی سایت توسط
+      - link "راتا" [ref=e625] [cursor=pointer]:
+        - /url: https://www.ratanet.ir
+  - generic [ref=e626]: desktop
+  - generic: BESbswy
+```

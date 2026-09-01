@@ -1,0 +1,154 @@
+{
+  "company_id": "ir-teh-e746433d36affbdd",
+  "errors": [],
+  "generated_at": "2026-09-01T07:27:27Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [
+    {
+      "bytes": 3901823,
+      "captured_at": "2026-09-01T07:27:25Z",
+      "company_id": "ir-teh-e746433d36affbdd",
+      "headless": true,
+      "page_title": "انبارهای عمومی آتشکار اجاره انبار عمومی",
+      "path": "companies/ir-teh-e746433d36affbdd/screenshots/homepage.png",
+      "reason_this_matters": "Public company homepage is the primary visual evidence surface.",
+      "screenshot_type": "homepage",
+      "source_url": "http://www.atashkarc.ir/index.html/"
+    }
+  ],
+  "sources": [
+    {
+      "discovered_at": "2026-09-01T06:31:54Z",
+      "discovery_reason": "Book-e Avval category: انبارداری",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "انبار های عمومی آتشکار سالن های 110 متری مستقل و عمومی به بالا در انبار عمومی با نگهبانی 24 ساعته دارای 15000 متر مربع فضای سرپوشیده و 28000 متر مربع فضای غیر مسقف امکانا",
+      "source_quality": "directory",
+      "source_title": "انبارداری در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D8%A7%D9%86%D8%A8%D8%A7%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:31:54Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-090681102a616de3",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "انبار های عمومی آتشکار سالن های 110 متری مستقل و عمومی به بالا در انبار عمومی با نگهبانی 24 ساعته دارای 15000 متر مربع فضای سرپوشیده و 28000 متر مربع فضای غیر مسقف امکانا",
+      "source_quality": "directory",
+      "source_title": "انبارداری در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D8%A7%D9%86%D8%A8%D8%A7%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:53Z",
+      "claim": "Directory profile lists آتشکار with a public Tehran business listing.",
+      "confidence": 0.82,
+      "evidence_id": "ev-ab9ed36a6371d2aa",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "آتشکار - انبار عمومی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس آتشکار 5.0 (2 نظر) انبارهای عمومی آتشکار نگهداری کالا با کلیه خدمات انبارداری شمارش تخلیه و بارگیری کالا ترخیص کالا از گمرکات کشور حمل و نقل بار انبار عمومی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل انبار عمومی تهران منطقه 20 اطلاعات تماس آدرس : تهران، منطقه 20، جاده قدیم تهران قم، 60 متری شورآباد تلفن : نمایش شماره XXXXXXXXXX",
+      "source_quality": "directory",
+      "source_title": "آتشکار - انبار عمومی | کتاب اول",
+      "source_url": "https://avval.ir/profile/d75f4/%D8%A2%D8%AA%D8%B4%DA%A9%D8%A7%D8%B1"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:58Z",
+      "claim": "Public website signal: rfq_or_quote",
+      "confidence": 0.86,
+      "evidence_id": "ev-3df6eef0ffa5089f",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "استعلام قیمت | انبارهای عمومی آتشکار اجاره انبار عمومی جاره انبار در تهران,اجاره انبار,انبار,انبار در تهران,تعرفه اجاره انبار در تهران. واقع در کهریزک دارای سوله سرپوشیده، شرکت انبارهای عمومی کثیری دارای انبار عمومی تهران،انبارعمومی, کالاانباری ،انبارداری عمومی ، انبار مواد شیمیایی ،انبارشور آباد و کشتارگاه را دارد, نگهداری کالا , شرکت انبارهای عمومی کثیری, انبارعمومی نهران, انبارداري, نگهداري كالا , ترانزیت کالا, کالابر, دپو, انبا",
+      "signal": "rfq_or_quote",
+      "source_quality": "company_site",
+      "source_title": "انبارهای عمومی آتشکار اجاره انبار عمومی",
+      "source_url": "http://www.atashkarc.ir/index.html/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:58Z",
+      "claim": "Public website signal: catalog_or_products",
+      "confidence": 0.86,
+      "evidence_id": "ev-874770054700e889",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "محصولات; محصول | انبارهای عمومی آتشکار اجاره انبار عمومی جاره انبار در تهران,اجاره انبار,انبار,انبار در تهران,تعرفه اجاره انبار در تهران. واقع در کهریزک دارای سوله سرپوشیده، شرکت انبارهای عمومی کثیری دارای انبار عمومی تهران،انبارعمومی, کالاانباری ،انبارداری عمومی ، انبار مواد شیمیایی ،انبارشور آباد و کشتارگاه را دارد, نگهداری کالا , شرکت انبارهای عمومی کثیری, انبارعمومی نهران, انبارداري, نگهداري كالا , ترانزیت کالا, کالابر, دپو, انبا",
+      "signal": "catalog_or_products",
+      "source_quality": "company_site",
+      "source_title": "انبارهای عمومی آتشکار اجاره انبار عمومی",
+      "source_url": "http://www.atashkarc.ir/index.html/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:58Z",
+      "claim": "Public website signal: factory_or_warehouse",
+      "confidence": 0.86,
+      "evidence_id": "ev-f2037440ac58c4e1",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "کارخانه; کارخانجات; انبار; خط تولید | انبارهای عمومی آتشکار اجاره انبار عمومی جاره انبار در تهران,اجاره انبار,انبار,انبار در تهران,تعرفه اجاره انبار در تهران. واقع در کهریزک دارای سوله سرپوشیده، شرکت انبارهای عمومی کثیری دارای انبار عمومی تهران،انبارعمومی, کالاانباری ،انبارداری عمومی ، انبار مواد شیمیایی ،انبارشور آباد و کشتارگاه را دارد, نگهداری کالا , شرکت انبارهای عمومی کثیری, انبارعمومی نهران, انبارداري, نگهداري كالا , ترانزیت کالا, کالابر, دپو, انبا",
+      "signal": "factory_or_warehouse",
+      "source_quality": "company_site",
+      "source_title": "انبارهای عمومی آتشکار اجاره انبار عمومی",
+      "source_url": "http://www.atashkarc.ir/index.html/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:58Z",
+      "claim": "Public website signal: projects_or_clients",
+      "confidence": 0.72,
+      "evidence_id": "ev-c66183fec38bb65a",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "مشتریان | انبارهای عمومی آتشکار اجاره انبار عمومی جاره انبار در تهران,اجاره انبار,انبار,انبار در تهران,تعرفه اجاره انبار در تهران. واقع در کهریزک دارای سوله سرپوشیده، شرکت انبارهای عمومی کثیری دارای انبار عمومی تهران،انبارعمومی, کالاانباری ،انبارداری عمومی ، انبار مواد شیمیایی ،انبارشور آباد و کشتارگاه را دارد, نگهداری کالا , شرکت انبارهای عمومی کثیری, انبارعمومی نهران, انبارداري, نگهداري كالا , ترانزیت کالا, کالابر, دپو, انبا",
+      "signal": "projects_or_clients",
+      "source_quality": "company_site",
+      "source_title": "انبارهای عمومی آتشکار اجاره انبار عمومی",
+      "source_url": "http://www.atashkarc.ir/index.html/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:58Z",
+      "claim": "Public website signal: certifications",
+      "confidence": 0.72,
+      "evidence_id": "ev-37363a1e9a9583fd",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "مجوز | انبارهای عمومی آتشکار اجاره انبار عمومی جاره انبار در تهران,اجاره انبار,انبار,انبار در تهران,تعرفه اجاره انبار در تهران. واقع در کهریزک دارای سوله سرپوشیده، شرکت انبارهای عمومی کثیری دارای انبار عمومی تهران،انبارعمومی, کالاانباری ،انبارداری عمومی ، انبار مواد شیمیایی ،انبارشور آباد و کشتارگاه را دارد, نگهداری کالا , شرکت انبارهای عمومی کثیری, انبارعمومی نهران, انبارداري, نگهداري كالا , ترانزیت کالا, کالابر, دپو, انبا",
+      "signal": "certifications",
+      "source_quality": "company_site",
+      "source_title": "انبارهای عمومی آتشکار اجاره انبار عمومی",
+      "source_url": "http://www.atashkarc.ir/index.html/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:58Z",
+      "claim": "Public website signal: tender_or_contract",
+      "confidence": 0.72,
+      "evidence_id": "ev-c149ddaa653a7b46",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "قرارداد; بازرگانی | انبارهای عمومی آتشکار اجاره انبار عمومی جاره انبار در تهران,اجاره انبار,انبار,انبار در تهران,تعرفه اجاره انبار در تهران. واقع در کهریزک دارای سوله سرپوشیده، شرکت انبارهای عمومی کثیری دارای انبار عمومی تهران،انبارعمومی, کالاانباری ،انبارداری عمومی ، انبار مواد شیمیایی ،انبارشور آباد و کشتارگاه را دارد, نگهداری کالا , شرکت انبارهای عمومی کثیری, انبارعمومی نهران, انبارداري, نگهداري كالا , ترانزیت کالا, کالابر, دپو, انبا",
+      "signal": "tender_or_contract",
+      "source_quality": "company_site",
+      "source_title": "انبارهای عمومی آتشکار اجاره انبار عمومی",
+      "source_url": "http://www.atashkarc.ir/index.html/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:58Z",
+      "claim": "Public website signal: software_or_erp",
+      "confidence": 0.72,
+      "evidence_id": "ev-f0a21ad1d8a6fad6",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "نرم افزار; نرم‌افزار | انبارهای عمومی آتشکار اجاره انبار عمومی جاره انبار در تهران,اجاره انبار,انبار,انبار در تهران,تعرفه اجاره انبار در تهران. واقع در کهریزک دارای سوله سرپوشیده، شرکت انبارهای عمومی کثیری دارای انبار عمومی تهران،انبارعمومی, کالاانباری ،انبارداری عمومی ، انبار مواد شیمیایی ،انبارشور آباد و کشتارگاه را دارد, نگهداری کالا , شرکت انبارهای عمومی کثیری, انبارعمومی نهران, انبارداري, نگهداري كالا , ترانزیت کالا, کالابر, دپو, انبا",
+      "signal": "software_or_erp",
+      "source_quality": "company_site",
+      "source_title": "انبارهای عمومی آتشکار اجاره انبار عمومی",
+      "source_url": "http://www.atashkarc.ir/index.html/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:58Z",
+      "claim": "Public website signal: expansion_or_activity",
+      "confidence": 0.72,
+      "evidence_id": "ev-e17d55545df956b2",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "توسعه | انبارهای عمومی آتشکار اجاره انبار عمومی جاره انبار در تهران,اجاره انبار,انبار,انبار در تهران,تعرفه اجاره انبار در تهران. واقع در کهریزک دارای سوله سرپوشیده، شرکت انبارهای عمومی کثیری دارای انبار عمومی تهران،انبارعمومی, کالاانباری ،انبارداری عمومی ، انبار مواد شیمیایی ،انبارشور آباد و کشتارگاه را دارد, نگهداری کالا , شرکت انبارهای عمومی کثیری, انبارعمومی نهران, انبارداري, نگهداري كالا , ترانزیت کالا, کالابر, دپو, انبا",
+      "signal": "expansion_or_activity",
+      "source_quality": "company_site",
+      "source_title": "انبارهای عمومی آتشکار اجاره انبار عمومی",
+      "source_url": "http://www.atashkarc.ir/index.html/"
+    }
+  ]
+}

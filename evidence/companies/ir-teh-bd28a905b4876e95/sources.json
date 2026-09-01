@@ -1,0 +1,176 @@
+{
+  "company_id": "ir-teh-bd28a905b4876e95",
+  "errors": [],
+  "generated_at": "2026-09-01T07:27:04Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [
+    {
+      "bytes": 1724484,
+      "captured_at": "2026-09-01T07:27:03Z",
+      "company_id": "ir-teh-bd28a905b4876e95",
+      "headless": true,
+      "page_title": "لیست کارخانه های شهرک صنعتی شمس آباد [ شهریور 10, 1405 ]",
+      "path": "companies/ir-teh-bd28a905b4876e95/screenshots/homepage.png",
+      "reason_this_matters": "Public company homepage is the primary visual evidence surface.",
+      "screenshot_type": "homepage",
+      "source_url": "https://jaigah1.com/8847/"
+    }
+  ],
+  "sources": [
+    {
+      "discovered_at": "2026-09-01T06:32:24Z",
+      "discovery_reason": "DuckDuckGo Persian query: صنعتی شمس آباد تولید کننده تهران",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "خانه / معرفی مراکز / لیست کارخانه های شهرک صنعتی شمس آباد فهرست مطالب نویسنده S0gnd تاریخاسفند 2, 1403 نظرات",
+      "source_quality": "search_index",
+      "source_title": "لیست کارخانه های شهرک صنعتی شمس آباد [ شهریور 10, 1405 ]",
+      "source_type": "search",
+      "source_url": "https://html.duckduckgo.com/html/?q=%D8%B5%D9%86%D8%B9%D8%AA%DB%8C+%D8%B4%D9%85%D8%B3+%D8%A2%D8%A8%D8%A7%D8%AF+%D8%AA%D9%88%D9%84%DB%8C%D8%AF+%DA%A9%D9%86%D9%86%D8%AF%D9%87+%D8%AA%D9%87%D8%B1%D8%A7%D9%86&s=0&kl=ir-fa"
+    },
+    {
+      "discovered_at": "2026-09-01T06:32:24Z",
+      "discovery_reason": "DuckDuckGo Persian query: صنعتی شمس آباد تولید کننده تهران",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "شهرک صنعتی شمس‌آباد به‌عنوان بزرگ‌ترین شهرک صنعتی ایران ، میزبان صدها کارخانه و واحد تولیدی در زمینه‌های مختلف صنعتی، غذایی، دارویی، پتروشیمی، فلزی، شیمیایی و الکترونیکی است. این شهرک که در جنوب تهران و در مسیر ...",
+      "source_quality": "search_index",
+      "source_title": "لیست کارخانه های شهرک صنعتی شمس آباد [ شهریور 10, 1405 ]",
+      "source_type": "search",
+      "source_url": "https://html.duckduckgo.com/html/?q=%D8%B5%D9%86%D8%B9%D8%AA%DB%8C+%D8%B4%D9%85%D8%B3+%D8%A2%D8%A8%D8%A7%D8%AF+%D8%AA%D9%88%D9%84%DB%8C%D8%AF+%DA%A9%D9%86%D9%86%D8%AF%D9%87+%D8%AA%D9%87%D8%B1%D8%A7%D9%86&s=30&kl=ir-fa"
+    },
+    {
+      "captured_at": "2026-09-01T06:32:24Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-f3e12c2ba4586d0b",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "خانه / معرفی مراکز / لیست کارخانه های شهرک صنعتی شمس آباد فهرست مطالب نویسنده S0gnd تاریخاسفند 2, 1403 نظرات",
+      "source_quality": "search_index",
+      "source_title": "لیست کارخانه های شهرک صنعتی شمس آباد [ شهریور 10, 1405 ]",
+      "source_url": "https://html.duckduckgo.com/html/?q=%D8%B5%D9%86%D8%B9%D8%AA%DB%8C+%D8%B4%D9%85%D8%B3+%D8%A2%D8%A8%D8%A7%D8%AF+%D8%AA%D9%88%D9%84%DB%8C%D8%AF+%DA%A9%D9%86%D9%86%D8%AF%D9%87+%D8%AA%D9%87%D8%B1%D8%A7%D9%86&s=0&kl=ir-fa"
+    },
+    {
+      "captured_at": "2026-09-01T06:32:24Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-0a085d1ec19345a4",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "شهرک صنعتی شمس‌آباد به‌عنوان بزرگ‌ترین شهرک صنعتی ایران ، میزبان صدها کارخانه و واحد تولیدی در زمینه‌های مختلف صنعتی، غذایی، دارویی، پتروشیمی، فلزی، شیمیایی و الکترونیکی است. این شهرک که در جنوب تهران و در مسیر ...",
+      "source_quality": "search_index",
+      "source_title": "لیست کارخانه های شهرک صنعتی شمس آباد [ شهریور 10, 1405 ]",
+      "source_url": "https://html.duckduckgo.com/html/?q=%D8%B5%D9%86%D8%B9%D8%AA%DB%8C+%D8%B4%D9%85%D8%B3+%D8%A2%D8%A8%D8%A7%D8%AF+%D8%AA%D9%88%D9%84%DB%8C%D8%AF+%DA%A9%D9%86%D9%86%D8%AF%D9%87+%D8%AA%D9%87%D8%B1%D8%A7%D9%86&s=30&kl=ir-fa"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:31Z",
+      "claim": "Public website signal: catalog_or_products",
+      "confidence": 0.86,
+      "evidence_id": "ev-1da2983c7071a2a0",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "محصولات; محصول | لیست کارخانه های شهرک صنعتی شمس آباد [ شهریور 10, 1405 ] لیست کارخانه های شهرک صنعتی شمس آباد خانه / معرفی مراکز / لیست کارخانه های شهرک صنعتی شمس آباد فهرست مطالب نویسنده S0gnd تاریخ اسفند 2, 1403 نظرات شهرک صنعتی شمس‌آباد به‌عنوان بزرگ‌ترین شهرک صنعتی ایران ، میزبان صدها کارخانه و واحد تولیدی در زمینه‌های مختلف صنعتی، غذایی، دارویی، پتروشیمی، فلزی، شیمیایی و الکترونیکی است. این شهرک که در جنوب تهران و در مسیر اتوبا",
+      "signal": "catalog_or_products",
+      "source_quality": "company_site",
+      "source_title": "لیست کارخانه های شهرک صنعتی شمس آباد [ شهریور 10, 1405 ]",
+      "source_url": "https://jaigah1.com/8847/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:31Z",
+      "claim": "Public website signal: branches_or_dealers",
+      "confidence": 0.72,
+      "evidence_id": "ev-a9dbef61478ab7d7",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "نمایندگی | لیست کارخانه های شهرک صنعتی شمس آباد [ شهریور 10, 1405 ] لیست کارخانه های شهرک صنعتی شمس آباد خانه / معرفی مراکز / لیست کارخانه های شهرک صنعتی شمس آباد فهرست مطالب نویسنده S0gnd تاریخ اسفند 2, 1403 نظرات شهرک صنعتی شمس‌آباد به‌عنوان بزرگ‌ترین شهرک صنعتی ایران ، میزبان صدها کارخانه و واحد تولیدی در زمینه‌های مختلف صنعتی، غذایی، دارویی، پتروشیمی، فلزی، شیمیایی و الکترونیکی است. این شهرک که در جنوب تهران و در مسیر اتوبا",
+      "signal": "branches_or_dealers",
+      "source_quality": "company_site",
+      "source_title": "لیست کارخانه های شهرک صنعتی شمس آباد [ شهریور 10, 1405 ]",
+      "source_url": "https://jaigah1.com/8847/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:31Z",
+      "claim": "Public website signal: factory_or_warehouse",
+      "confidence": 0.86,
+      "evidence_id": "ev-f38631e6b5c19918",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "کارخانه; کارخانجات; شهرک صنعتی | لیست کارخانه های شهرک صنعتی شمس آباد [ شهریور 10, 1405 ] لیست کارخانه های شهرک صنعتی شمس آباد خانه / معرفی مراکز / لیست کارخانه های شهرک صنعتی شمس آباد فهرست مطالب نویسنده S0gnd تاریخ اسفند 2, 1403 نظرات شهرک صنعتی شمس‌آباد به‌عنوان بزرگ‌ترین شهرک صنعتی ایران ، میزبان صدها کارخانه و واحد تولیدی در زمینه‌های مختلف صنعتی، غذایی، دارویی، پتروشیمی، فلزی، شیمیایی و الکترونیکی است. این شهرک که در جنوب تهران و در مسیر اتوبا",
+      "signal": "factory_or_warehouse",
+      "source_quality": "company_site",
+      "source_title": "لیست کارخانه های شهرک صنعتی شمس آباد [ شهریور 10, 1405 ]",
+      "source_url": "https://jaigah1.com/8847/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:31Z",
+      "claim": "Public website signal: service_after_sales",
+      "confidence": 0.72,
+      "evidence_id": "ev-a21d0aed7531a5a4",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "گارانتی; تعمیرات | لیست کارخانه های شهرک صنعتی شمس آباد [ شهریور 10, 1405 ] لیست کارخانه های شهرک صنعتی شمس آباد خانه / معرفی مراکز / لیست کارخانه های شهرک صنعتی شمس آباد فهرست مطالب نویسنده S0gnd تاریخ اسفند 2, 1403 نظرات شهرک صنعتی شمس‌آباد به‌عنوان بزرگ‌ترین شهرک صنعتی ایران ، میزبان صدها کارخانه و واحد تولیدی در زمینه‌های مختلف صنعتی، غذایی، دارویی، پتروشیمی، فلزی، شیمیایی و الکترونیکی است. این شهرک که در جنوب تهران و در مسیر اتوبا",
+      "signal": "service_after_sales",
+      "source_quality": "company_site",
+      "source_title": "لیست کارخانه های شهرک صنعتی شمس آباد [ شهریور 10, 1405 ]",
+      "source_url": "https://jaigah1.com/8847/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:31Z",
+      "claim": "Public website signal: projects_or_clients",
+      "confidence": 0.72,
+      "evidence_id": "ev-219a785ca53430fb",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "پروژه ها; پروژه‌ها; مشتریان | لیست کارخانه های شهرک صنعتی شمس آباد [ شهریور 10, 1405 ] لیست کارخانه های شهرک صنعتی شمس آباد خانه / معرفی مراکز / لیست کارخانه های شهرک صنعتی شمس آباد فهرست مطالب نویسنده S0gnd تاریخ اسفند 2, 1403 نظرات شهرک صنعتی شمس‌آباد به‌عنوان بزرگ‌ترین شهرک صنعتی ایران ، میزبان صدها کارخانه و واحد تولیدی در زمینه‌های مختلف صنعتی، غذایی، دارویی، پتروشیمی، فلزی، شیمیایی و الکترونیکی است. این شهرک که در جنوب تهران و در مسیر اتوبا",
+      "signal": "projects_or_clients",
+      "source_quality": "company_site",
+      "source_title": "لیست کارخانه های شهرک صنعتی شمس آباد [ شهریور 10, 1405 ]",
+      "source_url": "https://jaigah1.com/8847/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:31Z",
+      "claim": "Public website signal: certifications",
+      "confidence": 0.72,
+      "evidence_id": "ev-f520f62b5e6fe8f5",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "استاندارد | لیست کارخانه های شهرک صنعتی شمس آباد [ شهریور 10, 1405 ] لیست کارخانه های شهرک صنعتی شمس آباد خانه / معرفی مراکز / لیست کارخانه های شهرک صنعتی شمس آباد فهرست مطالب نویسنده S0gnd تاریخ اسفند 2, 1403 نظرات شهرک صنعتی شمس‌آباد به‌عنوان بزرگ‌ترین شهرک صنعتی ایران ، میزبان صدها کارخانه و واحد تولیدی در زمینه‌های مختلف صنعتی، غذایی، دارویی، پتروشیمی، فلزی، شیمیایی و الکترونیکی است. این شهرک که در جنوب تهران و در مسیر اتوبا",
+      "signal": "certifications",
+      "source_quality": "company_site",
+      "source_title": "لیست کارخانه های شهرک صنعتی شمس آباد [ شهریور 10, 1405 ]",
+      "source_url": "https://jaigah1.com/8847/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:31Z",
+      "claim": "Public website signal: tender_or_contract",
+      "confidence": 0.72,
+      "evidence_id": "ev-5e8e0c8866acbc52",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "قرارداد | لیست کارخانه های شهرک صنعتی شمس آباد [ شهریور 10, 1405 ] لیست کارخانه های شهرک صنعتی شمس آباد خانه / معرفی مراکز / لیست کارخانه های شهرک صنعتی شمس آباد فهرست مطالب نویسنده S0gnd تاریخ اسفند 2, 1403 نظرات شهرک صنعتی شمس‌آباد به‌عنوان بزرگ‌ترین شهرک صنعتی ایران ، میزبان صدها کارخانه و واحد تولیدی در زمینه‌های مختلف صنعتی، غذایی، دارویی، پتروشیمی، فلزی، شیمیایی و الکترونیکی است. این شهرک که در جنوب تهران و در مسیر اتوبا",
+      "signal": "tender_or_contract",
+      "source_quality": "company_site",
+      "source_title": "لیست کارخانه های شهرک صنعتی شمس آباد [ شهریور 10, 1405 ]",
+      "source_url": "https://jaigah1.com/8847/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:31Z",
+      "claim": "Public website signal: software_or_erp",
+      "confidence": 0.72,
+      "evidence_id": "ev-a96fd21d023d7554",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "نرم افزار; نرم‌افزار | لیست کارخانه های شهرک صنعتی شمس آباد [ شهریور 10, 1405 ] لیست کارخانه های شهرک صنعتی شمس آباد خانه / معرفی مراکز / لیست کارخانه های شهرک صنعتی شمس آباد فهرست مطالب نویسنده S0gnd تاریخ اسفند 2, 1403 نظرات شهرک صنعتی شمس‌آباد به‌عنوان بزرگ‌ترین شهرک صنعتی ایران ، میزبان صدها کارخانه و واحد تولیدی در زمینه‌های مختلف صنعتی، غذایی، دارویی، پتروشیمی، فلزی، شیمیایی و الکترونیکی است. این شهرک که در جنوب تهران و در مسیر اتوبا",
+      "signal": "software_or_erp",
+      "source_quality": "company_site",
+      "source_title": "لیست کارخانه های شهرک صنعتی شمس آباد [ شهریور 10, 1405 ]",
+      "source_url": "https://jaigah1.com/8847/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:31Z",
+      "claim": "Public website signal: expansion_or_activity",
+      "confidence": 0.72,
+      "evidence_id": "ev-bed574717aad334c",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "صادرات; تولید کننده | لیست کارخانه های شهرک صنعتی شمس آباد [ شهریور 10, 1405 ] لیست کارخانه های شهرک صنعتی شمس آباد خانه / معرفی مراکز / لیست کارخانه های شهرک صنعتی شمس آباد فهرست مطالب نویسنده S0gnd تاریخ اسفند 2, 1403 نظرات شهرک صنعتی شمس‌آباد به‌عنوان بزرگ‌ترین شهرک صنعتی ایران ، میزبان صدها کارخانه و واحد تولیدی در زمینه‌های مختلف صنعتی، غذایی، دارویی، پتروشیمی، فلزی، شیمیایی و الکترونیکی است. این شهرک که در جنوب تهران و در مسیر اتوبا",
+      "signal": "expansion_or_activity",
+      "source_quality": "company_site",
+      "source_title": "لیست کارخانه های شهرک صنعتی شمس آباد [ شهریور 10, 1405 ]",
+      "source_url": "https://jaigah1.com/8847/"
+    }
+  ]
+}

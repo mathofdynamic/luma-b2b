@@ -1,0 +1,186 @@
+### Page
+- Page URL: https://behtapack.com/
+- Page Title: خانه اصلی - شرکت بهتا گستر صنعت
+- Console: 1 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - link "پرش به محتوا" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - generic [ref=e12]:
+          - link [ref=e17] [cursor=pointer]:
+            - /url: https://behtapack.com/
+          - generic [ref=e19]:
+            - list [ref=e22]:
+              - listitem [ref=e23]:
+                - link "021-44302745" [ref=e24] [cursor=pointer]:
+                  - /url: tel:02144318605
+                  - generic [ref=e25]: 
+              - listitem [ref=e28]:
+                - generic [ref=e29]: 
+                - generic [ref=e31]: "09124843263"
+            - list [ref=e34]:
+              - listitem [ref=e35]:
+                - link [ref=e36] [cursor=pointer]:
+                  - /url: https://instagram.com/behtapack
+                  - generic [ref=e37]: 
+              - listitem [ref=e39]:
+                - link [ref=e40] [cursor=pointer]:
+                  - /url: https://telegram.me/behtapack
+                  - generic [ref=e41]: 
+              - listitem [ref=e43]:
+                - link [ref=e44] [cursor=pointer]:
+                  - /url: https://wa.me/989124843263
+                  - generic [ref=e45]: 
+          - link "استعلام قیمت" [ref=e56] [cursor=pointer]:
+            - /url: https://behtapack.com/?page_id=1922
+        - navigation [ref=e66]:
+          - list [ref=e67]:
+            - listitem [ref=e68]:
+              - link "صفحه اصلی" [ref=e69] [cursor=pointer]:
+                - /url: https://behtapack.com/
+            - listitem [ref=e70]:
+              - link "خدمات" [ref=e71] [cursor=pointer]:
+                - /url: https://behtapack.com/portfolio/
+            - listitem [ref=e72]:
+              - link "مقالات" [ref=e73] [cursor=pointer]:
+                - /url: https://behtapack.com/articles/
+            - listitem [ref=e74]:
+              - link "ثبت نام تامین کنندگان" [ref=e75] [cursor=pointer]:
+                - /url: https://behtapack.com/supplier-registration/
+            - listitem [ref=e76]:
+              - link "همکاری با ما" [ref=e77] [cursor=pointer]:
+                - /url: https://behtapack.com/work-with-us/
+            - listitem [ref=e78]:
+              - link "درباره ما" [ref=e79] [cursor=pointer]:
+                - /url: https://behtapack.com/about/
+            - listitem [ref=e80]:
+              - link "تماس با ما" [ref=e81] [cursor=pointer]:
+                - /url: https://behtapack.com/contact/
+            - listitem [ref=e82]:
+              - link "English" [ref=e83] [cursor=pointer]:
+                - /url: https://behtapack.com/english/
+    - generic [ref=e86]:
+      - region "اسلایدها" [ref=e94]:
+        - generic [ref=e95]:
+          - group "1 / 2" [ref=e96]:
+            - img "banner site eng0" [ref=e97]
+          - group "2 / 2" [ref=e99]:
+            - img "banner site1" [ref=e100]
+          - group "1 / 2" [ref=e102]:
+            - img "banner site eng0" [ref=e103]
+          - group "2 / 2" [ref=e105]:
+            - img "banner site1" [ref=e106]
+          - group "1 / 2" [ref=e108]:
+            - img "banner site eng0" [ref=e109]
+          - group "2 / 2" [ref=e111]:
+            - img "banner site1" [ref=e112]
+        - button "Previous slide" [ref=e114] [cursor=pointer]:
+          - generic [ref=e115]: 
+        - button "Next slide" [ref=e116] [cursor=pointer]:
+          - generic [ref=e117]: 
+        - generic [ref=e118]:
+          - button "Go to slide 1" [ref=e119] [cursor=pointer]
+          - button "Go to slide 2" [ref=e120] [cursor=pointer]
+      - generic [ref=e124]:
+        - heading "خدمات بهتاپک" [level=2] [ref=e131]
+        - generic [ref=e133]:
+          - generic [ref=e135]:
+            - list [ref=e139]:
+              - listitem [ref=e140]:
+                - generic [ref=e141]: 
+                - generic [ref=e143]: مشاوره تخصصی بسته بندی
+            - paragraph [ref=e146]: ارائه مشاوره و پیشنهاد راه حل های بسته بندی با تکیه بر دانش نیروی کار متخصص و همچنین نوآوری در طراحی به منظور بهینه سازی فرآیند تولید، افزایش بهره وری و ایجاد مزیت رقابتی برای مشتریان
+          - generic [ref=e148]:
+            - list [ref=e152]:
+              - listitem [ref=e153]:
+                - generic [ref=e154]: 
+                - generic [ref=e156]: مهندسی و طراحی بسته بندی
+            - paragraph [ref=e159]: طراحی بهترین ساختار بسته بندی با توجه به نوع محصول و زنجیره فروش آن و بهینه سازی ساختار بر پایه استانداردهای موجود. ساخت نمونه اولیه با بهره گیری از به روزترین نرم افزارهای دنیا و دستگاه نمونه ساز هوشمند
+          - generic [ref=e161]:
+            - list [ref=e165]:
+              - listitem [ref=e166]:
+                - generic [ref=e167]: 
+                - generic [ref=e169]: طراحی و آماده سازی فایل چاپی
+            - paragraph [ref=e172]: طراحی و ارائه طرح گرافیکی متناسب با نوع محصول، دیدگاه و الزامات مشتریان و همچنین آماده سازی فایل طرح مشتری جهت انجام آماده سازی های اولیه و تامین ملزومات چاپ
+        - generic [ref=e174]:
+          - generic [ref=e176]:
+            - list [ref=e180]:
+              - listitem [ref=e181]:
+                - generic [ref=e182]: 
+                - generic [ref=e184]: تولید و کنترل کیفیت
+            - paragraph [ref=e187]: بکارگیری از تکنیک های چاپ فلکسو ، افست و برش و دایکات کارتن با استفاده از مدرنترین ماشین آلات و به یاری نیروی انسانی متخصص و در ادامه کنترل پارامترهای کیفی تولیدات داخل خط در حین فرآیند تولید و محصول نهایی
+          - generic [ref=e189]:
+            - list [ref=e193]:
+              - listitem [ref=e194]:
+                - generic [ref=e195]: 
+                - generic [ref=e197]: بسته بندی و لجستیک
+            - paragraph [ref=e200]: بسته بندی نهایی با توجه به الزامات مشتری و واحد مهندسی به دو صورت تسمه کشی و پالت. آماده سازی و تحویل درب کارخانه مشتری با همکاری معتبرترین شرکت های حمل و نقل کشور
+          - generic [ref=e202]:
+            - list [ref=e206]:
+              - listitem [ref=e207]:
+                - generic [ref=e208]: 
+                - generic [ref=e210]: صدای مشتریان
+            - paragraph [ref=e213]: کارشناسان پشتیبانی، نماینده شما در بهتاپک می باشند. رسیدگی به پیشنهادات و خواسته های مشتریان و همچنین برگزاری نظرسنجی های دوره ای جهت حفظ رضایت مشتریان، رفع نیازها و مشکلات آنان
+      - generic [ref=e217]:
+        - heading "چاپ چهار رنگ سایز چهار و نیم ورقی با ماشین آلات پیشرفته هایدلبرگ آلمان" [level=4] [ref=e224]
+        - button "پخش ویدیو" [ref=e234] [cursor=pointer]:
+          - generic [ref=e235]: 
+      - generic [ref=e247]:
+        - list [ref=e250]:
+          - listitem [ref=e251]:
+            - generic [ref=e252]: 
+            - generic [ref=e254]: چرا بهتا پک؟
+        - generic [ref=e256]:
+          - paragraph [ref=e257]: در هر زمان و مکانی که باشید با ثبت سفارش در بهتا پک سفارش شما در کمترین زمان ممکن انجام خواهد شد و با بهترین کیفیت ممکن به دست شما خواهد رسید.
+          - paragraph [ref=e258]: شعار برند ما همواره بهترین کیفیت با مناسب ترین قیمت بوده است.
+      - generic [ref=e269]:
+        - paragraph [ref=e272]: هدف اصلی بهتا پک
+        - paragraph [ref=e277]: رویکرد بهتا پک از همان آغاز کار به سمت خلق ارزش بهتر برای مشتری بوده است. توجه ما در بهتاپک از مرحله طراحی محصول تا تولید و تحویل انواع بسته بندی جعبه و کارتن، بر روی ایجاد ارزش افزوده بیشتر در جهت جلب حداکثری رضایت مشتری است. بهتاپک با استفاده از پرسنل متخصص و مجرب، ماشین آلات مدرن و پیشرفته، ساختار سازمانی منسجم تلاش دارد تا مشتریان خود را در جهت ارائه بسته بندی مناسب محصول خود یاری نماید. این مجموعه همواره بر آن بوده تا در تمامی موضوعات تولیدی و غیر تولیدی مبتنی بر استاندارد و فرآیند محور حرکت کند.
+        - generic [ref=e282]:
+          - generic [ref=e284]:
+            - list [ref=e287]:
+              - listitem [ref=e288]:
+                - generic [ref=e289]: 
+                - generic [ref=e291]: طراحی و آماده سازی فایل چاپی
+            - list [ref=e294]:
+              - listitem [ref=e295]:
+                - generic [ref=e296]: 
+                - generic [ref=e298]: مشاوره تخصصی بسته بندی
+          - generic [ref=e300]:
+            - list [ref=e303]:
+              - listitem [ref=e304]:
+                - generic [ref=e305]: 
+                - generic [ref=e307]: مهندسی و طراحی بسته بندی
+            - list [ref=e310]:
+              - listitem [ref=e311]:
+                - generic [ref=e312]: 
+                - generic [ref=e314]: تولید و کنترل کیفیت
+      - generic [ref=e322]:
+        - paragraph [ref=e325]: پشتیبانی ۲۴ ساعته همیشگی ….
+        - paragraph [ref=e328]: در هفت روز هفته آماده پاسخ گویی به کاربران از طریق تلگرام ، واتس آپ و تلفن گویا هستیم.
+      - generic [ref=e338]:
+        - paragraph [ref=e343]: پشتیبانی ۲۴ ساعته، ۷ روز هفته | شماره تماس ۰۲۱۴۴۳۰۲۷۴۵ – ۰۹۱۲۴۸۴۳۲۶۳
+        - paragraph [ref=e348]:
+          - link "همین حالا تماس بگیرید" [ref=e349] [cursor=pointer]:
+            - /url: tel:09124843263
+    - contentinfo [ref=e354]:
+      - generic [ref=e369]:
+        - paragraph [ref=e372]: شرکت صنایع چاپ و بسته بندی بهتا گستر صنعت با شماره ثبت 650560 و نشان بهتا پک با درک نیاز مشتریان در صنایع گوناگون جهت تامین بسته بندی محصولات خود، فعالیت خود را در زمینه مشاوره و طراحی بسته بندی، تولید و چاپ انواع جعبه و کارتن محصولات صنایع مختلف شروع کرده است. بهتاپک با همکاری تیم مجرب و متخصص، استفاده از ماشین آلات به روز و پیشرفته سعی در تامین و تولید انواع بسته بندی مناسب با محصولات مشتریان خود دارد. جهت مشاوره رایگان و کسب اطلاعات بیشتر تماس بگیرید.
+        - list [ref=e375]:
+          - listitem [ref=e376]:
+            - generic [ref=e377]: 
+            - generic [ref=e379]: info@behtapack.com
+          - listitem [ref=e380]:
+            - generic [ref=e381]: 
+            - generic [ref=e383]: 021-44302745
+          - listitem [ref=e384]:
+            - generic [ref=e385]: 
+            - generic [ref=e387]: "09124843263"
+  - generic [ref=e390]: desktop
+```
+### Events
+- New console entries: .playwright-cli/console-2026-09-01T08-16-36-233Z.log#L3

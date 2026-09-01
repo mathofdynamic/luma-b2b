@@ -1,0 +1,317 @@
+### Page
+- Page URL: https://avval.ir/profile/57810/%D8%B4%D8%B1%DA%A9%D8%AA-%D9%86%DB%8C%D8%B1%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87
+- Page Title: شرکت نیرو ماشین - کارخانه - واردات ماشین آلات صنعتی و کشاورزی | کتاب اول
+- Console: 4 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - link "home page" [ref=e5] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - textbox "فعالیت شغلی، نام کسب و کار، خدمات و محصولات و ..." [ref=e11]
+            - generic [ref=e12]: در
+            - generic [ref=e13]:
+              - textbox "شهر، محله، منطقه، خیابان و ..." [ref=e14]
+              - button "جستجو بر اساس موقعیت مکانی" [ref=e16] [cursor=pointer]
+            - button "جستجو" [ref=e19] [cursor=pointer]
+          - list
+      - link "ثبت رایگان اطلاعات شغلی" [ref=e23] [cursor=pointer]:
+        - /url: /%D8%AB%D8%A8%D8%AA-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D8%B4%D8%BA%D9%84%DB%8C
+      - button "ورود | ثبت نام" [ref=e26] [cursor=pointer]
+    - navigation [ref=e30]:
+      - list [ref=e31]:
+        - listitem [ref=e32]:
+          - button "دسته بندی مشاغل" [ref=e33] [cursor=pointer]
+        - listitem [ref=e35]: "|"
+        - listitem [ref=e36]:
+          - link "تبلیغات با ما" [ref=e37] [cursor=pointer]:
+            - /url: /%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-%D9%88%D8%A8-%D8%B3%D8%A7%DB%8C%D8%AA-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+        - listitem [ref=e40]: "|"
+        - listitem [ref=e41]:
+          - link "دسترسی بانک مشاغل" [ref=e42] [cursor=pointer]:
+            - /url: /%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B4%D8%A7%D8%BA%D9%84-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+        - listitem [ref=e45]: "|"
+        - listitem [ref=e46]:
+          - link "پنل اس ام اس" [ref=e47] [cursor=pointer]:
+            - /url: /smspanel
+  - generic [ref=e53]:
+    - main [ref=e54]:
+      - generic [ref=e55]:
+        - img "لوگوی شرکت نیرو ماشین - واردات ماشین آلات صنعتی و کشاورزی" [ref=e57]
+        - generic [ref=e58]:
+          - heading "شرکت نیرو ماشین - کارخانه" [level=1] [ref=e59]
+          - list [ref=e60]:
+            - listitem [ref=e61]: واردات ماشین آلات صنعتی و کشاورزی
+            - listitem [ref=e62]: مفتول فلزی
+            - listitem [ref=e63]: کشش مفتول
+            - listitem [ref=e64]: خدمات فنی ماشین ابزار
+      - generic [ref=e65]:
+        - link "تماس" [ref=e66] [cursor=pointer]:
+          - /url: "#"
+        - button "ثبت نظر" [ref=e71] [cursor=pointer]
+        - button "ارتقای پروفایل" [ref=e74] [cursor=pointer]
+        - button "ویرایش" [ref=e77] [cursor=pointer]
+        - button "اشتراک گذاری" [ref=e82] [cursor=pointer]
+      - navigation [ref=e90]:
+        - list [ref=e91]:
+          - listitem [ref=e92]:
+            - link "link to home" [ref=e93] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e97]
+          - listitem [ref=e100]:
+            - link "دسته‌بندی مشاغل" [ref=e101] [cursor=pointer]:
+              - /url: /directory
+          - listitem [ref=e102]
+          - listitem [ref=e105]:
+            - link "واردات ماشین آلات صنعتی و کشاورزی" [ref=e106] [cursor=pointer]:
+              - /url: /directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A2%D9%84%D8%A7%D8%AA-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C-%D9%88-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C
+          - listitem [ref=e107]
+          - listitem [ref=e110]:
+            - link "تهران" [ref=e111] [cursor=pointer]:
+              - /url: /directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A2%D9%84%D8%A7%D8%AA-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C-%D9%88-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86
+          - listitem [ref=e112]
+          - listitem [ref=e115]:
+            - link "محله شهید رجایی" [ref=e116] [cursor=pointer]:
+              - /url: /directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A2%D9%84%D8%A7%D8%AA-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C-%D9%88-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%85%D8%AD%D9%84%D9%87-%D8%B4%D9%87%DB%8C%D8%AF-%D8%B1%D8%AC%D8%A7%DB%8C%DB%8C
+      - generic [ref=e117]:
+        - heading "اطلاعات تماس" [level=2] [ref=e119]
+        - list [ref=e120]:
+          - listitem [ref=e121]:
+            - generic [ref=e122]: "آدرس :"
+            - generic [ref=e126]: تهران، منطقه 18، محله شهید رجایی، بزرگراه سعیدی (جاده ساوه)، کیلومتر 6، نرسیده به کمربندی بزرگراه آزادگان، روبروی بانک ملت، پلاک 162
+          - listitem [ref=e127]:
+            - generic [ref=e128]: "تلفن :"
+            - button "نمایش شماره" [ref=e131] [cursor=pointer]
+            - generic [ref=e132]: XXXXXXXXXX
+          - listitem [ref=e133]:
+            - generic [ref=e134]: "تلفن همراه :"
+            - button "نمایش شماره" [ref=e137] [cursor=pointer]
+            - generic [ref=e138]: XXXXXXXXXX
+          - listitem [ref=e139]:
+            - generic [ref=e140]: "فکس :"
+            - button "نمایش شماره" [ref=e145] [cursor=pointer]
+            - generic [ref=e146]: XXXXXXXXXX
+          - listitem [ref=e147]:
+            - generic [ref=e148]: وب سایت
+            - link "www.nirumachine.com" [ref=e152] [cursor=pointer]:
+              - /url: http://www.nirumachine.com
+          - listitem [ref=e153]:
+            - generic [ref=e154]: "ایمیل :"
+            - link "info@nirumachine.com" [ref=e159] [cursor=pointer]:
+              - /url: mailto://info@nirumachine.com
+          - listitem [ref=e160]:
+            - generic [ref=e161]: "کد پستی :"
+            - generic [ref=e165]: "1375799513"
+      - generic [ref=e166]:
+        - heading "نظرات" [level=2] [ref=e168]
+        - generic [ref=e169]:
+          - paragraph [ref=e170]: لطفا به این کسب و کار امتیاز بدید و نظر خودتون رو درباره این کسب و کار بنویسید
+          - generic [ref=e171]:
+            - generic [ref=e174]:
+              - generic [ref=e175]: بدون رای
+              - generic "بدون رای" [ref=e177] [cursor=pointer]:
+                - textbox "امتیاز شما برای این کسب و کار" [ref=e209]
+            - generic [ref=e210]:
+              - generic [ref=e211]: حداکثر 2000 کاراکتر
+              - textbox "به نظر من ..." [ref=e212]
+              - button "ثبت نظر" [ref=e213] [cursor=pointer]
+          - text: ✕
+    - complementary [ref=e214]:
+      - generic [ref=e216]:
+        - generic [ref=e217]:
+          - generic:
+            - region "Map" [ref=e218]
+            - generic: برای بزرگنمایی نقشه، از ⌘ + پیمایش استفاده کنید
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e219] [cursor=pointer]
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e220] [cursor=pointer]
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e229] [cursor=pointer]
+          - generic:
+            - generic:
+              - generic [ref=e243]:
+                - button "Zoom in" [ref=e244] [cursor=pointer]
+                - button "Zoom out" [ref=e246] [cursor=pointer]
+              - button "Enter fullscreen" [ref=e249] [cursor=pointer]
+        - generic [ref=e251]:
+          - button "گوگل" [ref=e252] [cursor=pointer]
+          - button [ref=e259] [cursor=pointer]:
+            - img "بلد" [ref=e260]
+            - text: بلد
+          - button [ref=e261] [cursor=pointer]:
+            - img "نشان" [ref=e262]
+            - text: نشان
+      - list [ref=e265]:
+        - listitem [ref=e266]:
+          - paragraph [ref=e267]: نزدیک ترین ایستگاه مترو به شرکت نیرو ماشین - کارخانه
+          - link "ایستگاه مترو آزادگان 777 متر" [ref=e268] [cursor=pointer]:
+            - /url: /profile/276a9/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%85%D8%AA%D8%B1%D9%88-%D8%A2%D8%B2%D8%A7%D8%AF%DA%AF%D8%A7%D9%86
+        - listitem [ref=e277]:
+          - paragraph [ref=e278]: نزدیک ترین ایستگاه اتوبوس به شرکت نیرو ماشین - کارخانه
+          - link "ایستگاه اتوبوس بهداری - کد 12 - جنوب به شمال 706 متر" [ref=e279] [cursor=pointer]:
+            - /url: /profile/22fc9/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A7%D8%AA%D9%88%D8%A8%D9%88%D8%B3-%D8%A8%D9%87%D8%AF%D8%A7%D8%B1%DB%8C-%DA%A9%D8%AF-12-%D8%AC%D9%86%D9%88%D8%A8-%D8%A8%D9%87-%D8%B4%D9%85%D8%A7%D9%84
+      - generic [ref=e291]:
+        - heading "تصاویر" [level=2] [ref=e293]
+        - generic [ref=e294]:
+          - link "main image" [ref=e296] [cursor=pointer]:
+            - /url: /filehash/A9zAbiifdiApsvoCgiehcDtzq.jpg
+            - img "شرکت نیرو ماشین - واردات ماشین آلات صنعتی و کشاورزی شماره 1" [ref=e297]
+          - generic [ref=e298]:
+            - link "Images" [ref=e300] [cursor=pointer]:
+              - /url: /filehash/A9zAbiifdiApsvoCgiehdDtzq.jpg
+              - img "شرکت نیرو ماشین - واردات ماشین آلات صنعتی و کشاورزی شماره 2" [ref=e301]
+            - link "Images" [ref=e303] [cursor=pointer]:
+              - /url: /filehash/A9zAbiifdiApsvoCgieheDtzq.jpg
+              - img "شرکت نیرو ماشین - واردات ماشین آلات صنعتی و کشاورزی شماره 3" [ref=e304]
+            - link "Images" [ref=e306] [cursor=pointer]:
+              - /url: /filehash/A9zAbiifdiApsvoCgiehfDtzq.jpg
+              - img "شرکت نیرو ماشین - واردات ماشین آلات صنعتی و کشاورزی شماره 4" [ref=e307]
+      - generic [ref=e309]:
+        - generic [ref=e310]:
+          - generic [ref=e311]: آیا شما مالک یا مدیر این کسب و کار هستید؟
+          - button "مالک هستم" [ref=e312] [cursor=pointer]
+        - text: ✕
+      - generic [ref=e313]:
+        - heading "کسب و کارهای مشابه" [level=2] [ref=e315]
+        - navigation [ref=e316]:
+          - list [ref=e317]:
+            - listitem [ref=e318]:
+              - link [ref=e319] [cursor=pointer]:
+                - /url: /profile/a22ca/%D8%B4%D8%B1%DA%A9%D8%AA-%D9%86%DB%8C%D8%B1%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%AF%D9%81%D8%AA%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C
+                - img "شرکت نیرو ماشین - دفتر مرکزی" [ref=e320]
+                - generic [ref=e321]:
+                  - heading "شرکت نیرو ماشین - دفتر مرکزی" [level=3] [ref=e322]
+                  - list [ref=e323]:
+                    - listitem [ref=e324]: واردات ماشین آلات صنعتی و کشاورزی
+                  - generic [ref=e325]: تهران، منطقه 3، محله کاووسیه، خیابان ولی عصر
+            - listitem [ref=e329]:
+              - link [ref=e330] [cursor=pointer]:
+                - /url: /profile/bfdf7/%D8%A2%D9%87%D9%86-%D8%A8%D8%A7%D9%86
+                - img "آهن بان" [ref=e331]
+                - generic [ref=e332]:
+                  - heading "آهن بان" [level=3] [ref=e333]
+                  - list [ref=e334]:
+                    - listitem [ref=e335]: کشش مفتول
+                    - listitem [ref=e336]: مفتول فلزی
+                    - listitem [ref=e337]: مفتول مسی
+                  - generic [ref=e338]: تهران، منطقه 9، محله شمشیری، خیابان شمشیری
+            - listitem [ref=e342]:
+              - link [ref=e343] [cursor=pointer]:
+                - /url: /profile/srltk/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A2%D8%B1%DB%8C%D8%A7-%D8%AF%D8%A7%D9%86%D8%B4-%D8%A2%D9%88%DB%8C%DA%98%D9%87
+                - generic [ref=e365]:
+                  - heading "شرکت آریا دانش آویژه" [level=3] [ref=e366]
+                  - list [ref=e367]:
+                    - listitem [ref=e368]: کشش مفتول
+                    - listitem [ref=e369]: مفتول فلزی
+                  - generic [ref=e370]: یزد، ابرکوه، شهرک صنعتی ابرکوه
+            - listitem [ref=e374]:
+              - link [ref=e375] [cursor=pointer]:
+                - /url: /profile/e7c16/%D8%B4%D8%B1%DA%A9%D8%AA-%D9%BE%D8%B1%DA%86-%D9%86%DA%AF%DB%8C%D9%86
+                - img "شرکت پرچ نگین" [ref=e376]
+                - generic [ref=e377]:
+                  - heading "شرکت پرچ نگین" [level=3] [ref=e378]
+                  - list [ref=e379]:
+                    - listitem [ref=e380]: تولید پیچ و مهره و میخ و پرچ
+                  - generic [ref=e381]: سمنان، گرمسار، خیابان صنعت 4
+            - listitem [ref=e385]:
+              - link [ref=e386] [cursor=pointer]:
+                - /url: /profile/e1f32/%D9%BE%D8%A7%D8%B1%D8%B3-%D9%81%D9%88%D9%84%D8%A7%D8%AF-%D8%B3%DB%8C%D9%85
+                - img "پارس فولاد سیم" [ref=e387]
+                - generic [ref=e388]:
+                  - heading "پارس فولاد سیم" [level=3] [ref=e389]
+                  - list [ref=e390]:
+                    - listitem [ref=e391]: مفتول فلزی
+                    - listitem [ref=e392]: کشش مفتول
+                  - generic [ref=e393]: کرج، ملاصدرا غربی
+            - listitem [ref=e397]:
+              - link [ref=e398] [cursor=pointer]:
+                - /url: /profile/dsqqr/%D8%AF%D8%A7%D8%B1%DA%A9%D9%88%D8%A8
+                - img "دارکوب" [ref=e399]
+                - generic [ref=e400]:
+                  - heading "دارکوب" [level=3] [ref=e401]
+                  - list [ref=e402]:
+                    - listitem [ref=e403]: کشش مفتول
+                  - generic [ref=e404]: گیلان، آستانه اشرفیه، ناحیه صنعتی پرکاپشت آستانه
+            - listitem [ref=e408]:
+              - link [ref=e409] [cursor=pointer]:
+                - /url: /profile/2a915/%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86
+                - img "صنایع ایران" [ref=e410]
+                - generic [ref=e411]:
+                  - heading "صنایع ایران" [level=3] [ref=e412]
+                  - list [ref=e413]:
+                    - listitem [ref=e414]: کشش مفتول
+                    - listitem [ref=e415]: مفتول فلزی
+                    - listitem [ref=e416]: فلزات رنگین
+                  - generic [ref=e417]: تهران، ری، منطقه 20، محله دولت آباد، خیابان فداییان اسلام
+    - text: ✕ ✕
+  - contentinfo [ref=e421]:
+    - generic [ref=e422]:
+      - generic [ref=e423]:
+        - link "home page" [ref=e424] [cursor=pointer]:
+          - /url: /
+        - list [ref=e427]:
+          - listitem [ref=e428]:
+            - link "Telegram" [ref=e429] [cursor=pointer]:
+              - /url: https://t.me/avval_ir
+          - listitem [ref=e435]:
+            - link "instagram" [ref=e436] [cursor=pointer]:
+              - /url: https://instagram.com/ketabeavval.officialpage
+          - listitem [ref=e441]:
+            - link "Twitter" [ref=e442] [cursor=pointer]:
+              - /url: https://twitter.com/ketabeavvalir
+          - listitem [ref=e446]:
+            - link "Facebook" [ref=e447] [cursor=pointer]:
+              - /url: https://www.facebook.com/avval/
+          - listitem [ref=e451]:
+            - link "Linkedin" [ref=e452] [cursor=pointer]:
+              - /url: https://linkedin.com/company/ketabeavval/
+      - navigation [ref=e457]:
+        - generic [ref=e458]:
+          - generic [ref=e459]: درباره کتاب اول
+          - list [ref=e460]:
+            - listitem [ref=e461]:
+              - link "درباره کتاب اول" [ref=e462] [cursor=pointer]:
+                - /url: /about-ketabeavval
+            - listitem [ref=e463]:
+              - link "تماس با کتاب اول" [ref=e464] [cursor=pointer]:
+                - /url: /contact-us
+            - listitem [ref=e465]:
+              - link "شرایط استفاده" [ref=e466] [cursor=pointer]:
+                - /url: /terms-conditions
+            - listitem [ref=e467]:
+              - link "حریم شخضی" [ref=e468] [cursor=pointer]:
+                - /url: /privacy-policy
+        - generic [ref=e469]:
+          - generic [ref=e470]: کشف کنید
+          - list [ref=e471]:
+            - listitem [ref=e472]:
+              - link "دسته بندی مشاغل" [ref=e473] [cursor=pointer]:
+                - /url: /directory
+            - listitem [ref=e474]:
+              - link "نقشه سایت" [ref=e475] [cursor=pointer]:
+                - /url: /sitemap
+            - listitem [ref=e476]:
+              - link "دسترسی بانک مشاغل کتاب اول" [ref=e477] [cursor=pointer]:
+                - /url: /%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B4%D8%A7%D8%BA%D9%84-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+            - listitem [ref=e478]:
+              - link "پنل اس ام اس" [ref=e479] [cursor=pointer]:
+                - /url: /smspanel
+        - generic [ref=e480]:
+          - generic [ref=e481]: صاحبین مشاغل در کتاب اول
+          - list [ref=e482]:
+            - listitem [ref=e483]:
+              - link "ثبت اطلاعات شغلی" [ref=e484] [cursor=pointer]:
+                - /url: /%D8%AB%D8%A8%D8%AA-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D8%B4%D8%BA%D9%84%DB%8C
+            - listitem [ref=e485]:
+              - link "تبلیغات با کتاب اول" [ref=e486] [cursor=pointer]:
+                - /url: /%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-%D9%88%D8%A8-%D8%B3%D8%A7%DB%8C%D8%AA-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+    - generic [ref=e487]:
+      - img "samandehi logo" [ref=e489] [cursor=pointer]
+      - link "enamad logo" [ref=e491] [cursor=pointer]:
+        - /url: https://trustseal.enamad.ir/?id=194990&Code=3Y0m3d1djm9fuqjoC8mT
+        - img "logo-enamad" [ref=e492]
+    - generic [ref=e493]: 1373-1403 © تمامی حقوق برای شرکت کتاب اول محفوظ است
+  - text: ✕ *
+```

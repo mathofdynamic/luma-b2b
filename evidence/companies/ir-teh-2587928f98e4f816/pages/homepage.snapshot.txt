@@ -1,0 +1,158 @@
+### Page
+- Page URL: https://sabahi.com/
+- Page Title: گروه صباحی
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - generic [ref=e9]:
+          - list [ref=e22]:
+            - listitem [ref=e23]:
+              - generic [ref=e24]: 
+              - generic [ref=e26]:
+                - text: "تلفن تماس:"
+                - strong [ref=e27]: 9-02188740680
+          - generic [ref=e29]:
+            - navigation [ref=e35]:
+              - list [ref=e36]:
+                - listitem [ref=e37]:
+                  - link "صفحه اصلی" [ref=e38] [cursor=pointer]:
+                    - /url: https://sabahi.com/
+                - listitem [ref=e39]:
+                  - button [ref=e40]:
+                    - link "درباره ما ‌ " [ref=e41] [cursor=pointer]:
+                      - /url: "#"
+                      - text: درباره ما ‌
+                      - generic [ref=e42]: 
+                - listitem [ref=e44]:
+                  - button [ref=e45]:
+                    - link "شرکت‌های ما " [ref=e46] [cursor=pointer]:
+                      - /url: "#"
+                      - text: شرکت‌های ما
+                      - generic [ref=e47]: 
+                - listitem [ref=e49]:
+                  - button [ref=e50]:
+                    - link "برندها " [ref=e51] [cursor=pointer]:
+                      - /url: "#"
+                      - text: برندها
+                      - generic [ref=e52]: 
+                - listitem [ref=e54]:
+                  - link "بلاگ" [ref=e55] [cursor=pointer]:
+                    - /url: https://sabahi.com/blog/
+                - listitem [ref=e56]:
+                  - link "ارتباط با ما" [ref=e57] [cursor=pointer]:
+                    - /url: https://sabahi.com/contact/
+            - navigation [ref=e63]:
+              - list [ref=e64]:
+                - listitem [ref=e65]:
+                  - link "English" [ref=e66] [cursor=pointer]:
+                    - /url: https://sabahi.com/en/
+            - link "دانلود کاتالوگ" [ref=e73] [cursor=pointer]:
+              - /url: https://sabahi.com/wp-content/uploads/2026/06/Catalog-1405.pdf
+        - text:    
+    - main [ref=e76]:
+      - generic [ref=e78]:
+        - generic [ref=e90]:
+          - generic [ref=e98]:
+            - heading [level=1] [ref=e99]:
+              - strong [ref=e100]: صباحی
+              - text: / برند مورد اعتماد صنعت
+            - heading "مشتریان ما، کارخانجات ایرانی هستند و اعتبار ما، سرمایه ماست" [level=3] [ref=e101]
+          - generic [ref=e107]:
+            - generic [ref=e112]:
+              - generic [ref=e113]: نسل متوالی
+              - generic [ref=e114]: "3"
+            - generic [ref=e122]:
+              - generic [ref=e123]: سال تجربه
+              - generic [ref=e124]:
+                - generic [ref=e125]: +
+                - generic [ref=e126]: "99"
+            - generic [ref=e132]:
+              - generic [ref=e133]: مشتریان وفادار
+              - generic [ref=e134]:
+                - generic [ref=e135]: +
+                - generic [ref=e136]: "823"
+        - generic [ref=e141]:
+          - paragraph [ref=e146]:
+            - strong [ref=e147]: گروه صباحی
+            - text: با بیش از یک قرن سابقه، متشکل از شرکت‌های فعال در بخش‌های مختلف صنعتی، تجاری و تولیدی به فعالیت می‌پردازد که بنیان‌گذاری و ریاست گروه را آقای ناصر صباحی بر عهده دارند و هم‌اکنون به کمک نسل سوم خانواده در حال رشد و ترقی است. شرکت‌های زیرمجموعه گروه با نام‌های بازرگانی صباحی و پودر‌های میکرونیزه ایران بر پایه کسب‌وکار مستقیم و با استراتژی شفافیت در بازار داخلی و خارجی، به‌صورت مکمل و هم‌سو برای ارائه بهترین‌ها فعالیت می‌کنند. بازرگانی صباحی در شاخه‌های تأمین مواد اولیه دارویی، اقلام بسته‌بندی، تجهیزات و ماشین‌آلات و انتقال تکنولوژی در حال فعالیت است. همچنین شرکت پودرهای میکرونیزه ایران در صنعت پلیمر مشغول می‌باشد. ما با کسب اعتماد مستمر و پایدار که نتیجه آن داشتن زنجیره طولانی‌مدت تجاری با بیش از 2300 مشتری در اقصی نقاط کشور است، آماده خدمت‌رسانی به شما هستیم.
+          - link "پیام ریاست" [ref=e151] [cursor=pointer]:
+            - /url: /about/
+            - generic [ref=e152]:
+              - generic [ref=e153]: 
+              - generic [ref=e155]: پیام ریاست
+        - generic [ref=e159]:
+          - generic [ref=e162]:
+            - generic [ref=e163]: OUR COMPANIES
+            - heading "شرکت‌های ما" [level=1] [ref=e165]
+          - generic [ref=e172]:
+            - generic [ref=e177]:
+              - img "شرکت بازرگانی صباحی" [ref=e180]
+              - generic [ref=e181]:
+                - heading "شرکت بازرگانی صباحی" [level=3] [ref=e182]
+                - generic [ref=e183]: نماینده انحصاری تامین‌کنندگان خارجیExclusive Represention of International Suppliers
+            - generic [ref=e188]:
+              - img "شرکت پودرهای میکرونیزه ایران" [ref=e191]
+              - generic [ref=e192]:
+                - heading "شرکت پودرهای میکرونیزه ایران" [level=3] [ref=e193]
+                - generic [ref=e194]: تولید کننده پیگمنت سیاه، مستربچ و کامپاند سیاه، هیدروکسید آلومینیوم Manufacturing Black Pigment, Black Masterbatch & Coumpand, & Aluminum Hydroxide
+        - generic [ref=e198]:
+          - heading "بلاگ گروه صباحی" [level=2] [ref=e206]
+          - generic [ref=e219]:
+            - generic [ref=e221]:
+              - link "روز داروساز مبارک" [ref=e223] [cursor=pointer]:
+                - /url: https://sabahi.com/pharmacists-day-2026/
+              - generic [ref=e225]:
+                - heading [level=2] [ref=e226]:
+                  - link "روز داروساز مبارک" [ref=e227] [cursor=pointer]:
+                    - /url: https://sabahi.com/pharmacists-day-2026/
+                - paragraph [ref=e229]: گروه صباحی روز داروساز را تبریک می‌گوید.
+            - generic [ref=e231]:
+              - link "بازرگانی صباحی 46 ساله شد" [ref=e233] [cursor=pointer]:
+                - /url: https://sabahi.com/sabahi-enterprises-46th-anniversary/
+              - generic [ref=e235]:
+                - heading [level=2] [ref=e236]:
+                  - link "بازرگانی صباحی 46 ساله شد" [ref=e237] [cursor=pointer]:
+                    - /url: https://sabahi.com/sabahi-enterprises-46th-anniversary/
+                - paragraph [ref=e239]: بازرگانی صباحی 46 ساله شد
+            - generic [ref=e241]:
+              - link "سی و سومین نمایشگاه بین‌المللی آگروفود 1405" [ref=e243] [cursor=pointer]:
+                - /url: https://sabahi.com/33rd-international-iran-agrofood-exhibition-2026/
+              - generic [ref=e245]:
+                - heading [level=2] [ref=e246]:
+                  - link "سی و سومین نمایشگاه بین‌المللی آگروفود 1405" [ref=e247] [cursor=pointer]:
+                    - /url: https://sabahi.com/33rd-international-iran-agrofood-exhibition-2026/
+                - paragraph [ref=e249]: نمایشگاه بین‌المللی ایران آگروفود 1405
+          - link "آرشیو مقالات" [ref=e257] [cursor=pointer]:
+            - /url: /blog/
+            - generic [ref=e258]:
+              - generic [ref=e259]: 
+              - generic [ref=e261]: آرشیو مقالات
+    - contentinfo:
+      - generic [ref=e267]:
+        - generic [ref=e273]:
+          - paragraph [ref=e278]: ما با تداوم تجارت در سه نسل و پایه نهادن ارزش‌ها، مفتخر به خدمت رسانی به تولیدکنندگان ایرانی هستیم.
+          - list [ref=e281]:
+            - listitem [ref=e282]:
+              - link "Facebook" [ref=e283] [cursor=pointer]:
+                - /url: https://www.facebook.com/SabahiGroup/
+                - generic [ref=e285]: 
+            - listitem [ref=e286]:
+              - link "Instagram" [ref=e287] [cursor=pointer]:
+                - /url: https://instagram.com/sabahigroup
+                - generic [ref=e289]: 
+            - listitem [ref=e290]:
+              - link "Linkedin" [ref=e291] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/sabahigroup/
+                - generic [ref=e293]: 
+        - paragraph [ref=e304]:
+          - text: تمامی حقوق مادی و معنوی این وبسایت برای
+          - link "گروه صباحی" [ref=e305] [cursor=pointer]:
+            - /url: https://sabahi.com/
+          - text: محفوظ است.
+  - generic [ref=e306]: desktop
+```

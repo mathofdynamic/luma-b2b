@@ -1,0 +1,264 @@
+### Page
+- Page URL: https://parscenter.com/horizongroup
+- Page Title: گروه مهندسی و ساخت هورایزن - طراحی و ساخت ماشین آلات...
+- Console: 1 errors, 1 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - banner:
+    - navigation [ref=e2]:
+      - generic [ref=e5]:
+        - generic [ref=e6]:
+          - generic [ref=e7]:
+            - link [ref=e8] [cursor=pointer]:
+              - /url: /
+              - img "پارس سنتر" [ref=e9]
+            - form [ref=e11]:
+              - textbox "جستجو در پارس سنتر" [ref=e15]
+          - generic [ref=e16]:
+            - link "ورود اعضاء" [ref=e17] [cursor=pointer]:
+              - /url: /Account/Authentication/LogOn
+            - link "ثبت نام رایگان" [ref=e18] [cursor=pointer]:
+              - /url: /Account/Authentication
+        - generic [ref=e19]:
+          - generic [ref=e20]:
+            - list [ref=e21]:
+              - listitem [ref=e22]:
+                - link "صفحه نخست" [ref=e23] [cursor=pointer]:
+                  - /url: /
+              - listitem [ref=e24]:
+                - link "محصولات" [ref=e25] [cursor=pointer]:
+                  - /url: /Products
+              - listitem [ref=e26]:
+                - link "تامین کننده ها" [ref=e27] [cursor=pointer]:
+                  - /url: /Suppliers
+              - listitem [ref=e28]:
+                - link "آگهی ها (جدید)" [ref=e29] [cursor=pointer]:
+                  - /url: https://parscenter.com/ads
+              - listitem [ref=e31]:
+                - link "درخواست خرید" [ref=e32] [cursor=pointer]:
+                  - /url: /IFB
+            - list [ref=e33]:
+              - listitem [ref=e34]:
+                - link "تعرفه" [ref=e35] [cursor=pointer]:
+                  - /url: /Home/Plans
+              - listitem [ref=e36]:
+                - link "وبلاگ" [ref=e37] [cursor=pointer]:
+                  - /url: https://blog.parscenter.com
+          - generic "راهنما" [ref=e41] [cursor=pointer]: به راهنمایی نیاز دارید؟
+  - generic [ref=e47]:
+    - generic [ref=e48]:
+      - generic [ref=e52]:
+        - heading "گروه مهندسی و ساخت هورایزن" [level=1] [ref=e53]
+        - heading "طراحی و ساخت ماشین آلات, مهندسی معکوس, طراحی سه بعدی" [level=2] [ref=e54]
+      - navigation [ref=e61]:
+        - list [ref=e62]:
+          - listitem [ref=e63]:
+            - link "صفحه نخست" [ref=e64] [cursor=pointer]:
+              - /url: /horizongroup
+          - listitem [ref=e65]:
+            - link "خدمات" [ref=e66] [cursor=pointer]:
+              - /url: /horizongroup/Services
+          - listitem [ref=e67]:
+            - link "مقالات" [ref=e68] [cursor=pointer]:
+              - /url: /horizongroup/Articles
+          - listitem [ref=e69]:
+            - link "درباره ما" [ref=e70] [cursor=pointer]:
+              - /url: /horizongroup/About
+          - listitem [ref=e71]:
+            - link "اطلاعات تماس" [ref=e72] [cursor=pointer]:
+              - /url: /horizongroup/Contact
+    - generic [ref=e77]:
+      - generic [ref=e79]:
+        - article [ref=e81]:
+          - generic [ref=e82]:
+            - generic [ref=e84]:
+              - generic [ref=e86]:
+                - tabpanel [ref=e87]:
+                  - img "گروه مهندسی و ساخت هورایزن" [ref=e90]
+                - tabpanel [ref=e91]
+                - tabpanel [ref=e95]
+              - tablist [ref=e99]:
+                - tab "1 of 3" [selected] [ref=e100] [cursor=pointer]: "1"
+                - tab "2 of 3" [ref=e101] [cursor=pointer]: "2"
+                - tab "3 of 3" [ref=e102] [cursor=pointer]: "3"
+            - generic [ref=e103]:
+              - paragraph [ref=e104]: گروه مهندسی و ساخت هورایزن با برخورداری از استعدادی ذاتی برای حل مشکلات و با تکیه بر خلاقیت، صبوری، تمرکز و اشتیاقی سوزان برای ارائه خدمات فنی- مهندسی و ایجاد هم ذهنی با مشتری در مسیر توسعه کسب و کارها و شرکت ها اهتمام می ورزد. هورایزن خدمات تخصصی متنوعی از مهندسی معکوس تا ساخت نمونه قطعات و ماشین آلات صنعتی، طراحی صنعتی، طراحی دو بعدی و سه بعدی و همچنین طراحی سوله و پلنت و همچنین طراحی و ساخ...
+              - link "ادامه" [ref=e105] [cursor=pointer]:
+                - /url: /horizongroup/About
+        - group [ref=e110]:
+          - heading "جدیدترین اطلاعات «گروه مهندسی و ساخت هورایزن» را دریافت کنید:" [level=4] [ref=e114]
+          - generic [ref=e116]:
+            - textbox "نام و نام خانوادگی" [ref=e120]
+            - textbox "تلفن همراه" [ref=e124]
+            - button "عضویت" [ref=e127] [cursor=pointer]
+        - generic [ref=e129]:
+          - generic [ref=e130]: خدمات
+          - link "خدمات بیشتر" [ref=e133] [cursor=pointer]:
+            - /url: /horizongroup/Services
+          - list [ref=e134]:
+            - listitem [ref=e135]:
+              - link [ref=e136] [cursor=pointer]:
+                - /url: /horizongroup/Service/355836
+                - img "مهندسی معکوس و ساخت ماشین آلات" [ref=e138]
+                - emphasis [ref=e139]: مهندسی معکوس و ساخت ماشین آلات
+            - listitem [ref=e140]:
+              - link [ref=e141] [cursor=pointer]:
+                - /url: /horizongroup/Service/355835
+                - img "طراحی و ساخت قطعات و ماشین آلات صنعتی" [ref=e143]
+                - emphasis [ref=e144]: طراحی و ساخت قطعات و ماشین آلات صنعتی
+      - generic [ref=e145]:
+        - generic [ref=e146]:
+          - generic [ref=e147]: اطلاعات تماس
+          - generic [ref=e148]:
+            - generic [ref=e149]:
+              - link "تماس با تامین کننده" [ref=e150] [cursor=pointer]:
+                - /url: "#"
+              - generic: close
+            - generic [ref=e157]:
+              - link "ارسال پیام به شرکت" [ref=e158] [cursor=pointer]:
+                - /url: "#"
+              - generic: close
+        - generic [ref=e165]:
+          - generic [ref=e166]: بیوگرافی شرکت
+          - heading "گروه مهندسی و ساخت هورایزن" [level=2] [ref=e167]
+          - generic [ref=e168]: تهران
+          - separator [ref=e169]
+          - heading "نوع فعالیت" [level=3] [ref=e170]
+          - paragraph [ref=e171]: تولید کننده، وارد کننده، خرده فروش، صادر کننده، خدمات
+          - heading "خدمات/محصولات" [level=3] [ref=e172]
+          - paragraph [ref=e173]: طراحی و ساخت ماشین آلات، مهندسی معکوس، طراحی سه بعدی، طراحی و ساخت دستگاههای برش لیزر، طراحی صنعتی، طراحی و ساخت قطعات نایاب، سفارش ساخت ماشین آلات، سفارش ساخت قطعات، قطعات صنعتی و غیر صنعتی، طراحی دو بعدی، لیزر برش فلزات، سی ان سی، ساخت فرز CNC، Solidworks، Catia، PDMS
+          - heading "نوع مالکیت:" [level=3] [ref=e174]
+          - paragraph [ref=e175]: شرکت با مسئولیت محدود
+        - generic [ref=e176]:
+          - generic [ref=e177]:
+            - text: دسته‌بندی
+            - link "خدمات" [ref=e178] [cursor=pointer]:
+              - /url: /horizongroup/Services
+          - list [ref=e179]:
+            - listitem [ref=e180]:
+              - link "همه خدمات (2)" [ref=e181] [cursor=pointer]:
+                - /url: /horizongroup/Services
+  - generic [ref=e183]:
+    - generic [ref=e184]:
+      - generic [ref=e185]:
+        - link [ref=e186] [cursor=pointer]:
+          - /url: /
+          - img "پارس سنتر" [ref=e187]
+        - link "صفحه نخست" [ref=e189] [cursor=pointer]:
+          - /url: /
+        - link "آگهی ها (جدید)" [ref=e190] [cursor=pointer]:
+          - /url: https://parscenter.com/ads
+        - link "درباره ما" [ref=e191] [cursor=pointer]:
+          - /url: /Home/About
+        - link "راهنما" [ref=e192] [cursor=pointer]:
+          - /url: /Home/Help
+        - link "حریم خصوصی" [ref=e193] [cursor=pointer]:
+          - /url: /Home/Privacy
+        - link "شرایط استفاده" [ref=e194] [cursor=pointer]:
+          - /url: /Home/Terms
+        - link "پشتیبانی" [ref=e195] [cursor=pointer]:
+          - /url: /Contact/ContactUs
+        - generic [ref=e196]:
+          - link "Instagram" [ref=e197] [cursor=pointer]:
+            - /url: https://www.instagram.com/pars.center/
+          - link "Telegram" [ref=e198] [cursor=pointer]:
+            - /url: https://telegram.me/parscenter
+      - generic [ref=e199]:
+        - heading [level=4] [ref=e200]:
+          - link "پارس سنتر (خرید و فروش محصولات، تجهیزات و خدمات ایرانی در بزرگترین فهرست شرکت‌ها، واردکننده‌ها، تولید‌کننده‌ها و عمده‌فروش‌ها)" [ref=e201] [cursor=pointer]:
+            - /url: /
+        - generic [ref=e202]:
+          - generic [ref=e203]:
+            - link [ref=e204] [cursor=pointer]:
+              - /url: /Products
+              - strong [ref=e205]: لیست محصولات و تجهیزات
+            - link [ref=e206] [cursor=pointer]:
+              - /url: /Suppliers
+              - strong [ref=e207]: لیست شرکت ها
+            - link "ماشین آلات" [ref=e208] [cursor=pointer]:
+              - /url: /Machinery
+            - link "صنایع غذایی" [ref=e209] [cursor=pointer]:
+              - /url: /Products/Food-Machinery_29900
+            - link "مصالح ساختمانی" [ref=e210] [cursor=pointer]:
+              - /url: /Products/Building-Materials_162600
+            - link "دکوراسیون داخلی" [ref=e211] [cursor=pointer]:
+              - /url: /Products/Interior-Decoration_501360
+            - link "سقف کاذب" [ref=e212] [cursor=pointer]:
+              - /url: /Products/False-Ceiling_16263800
+            - link "درب ضد سرقت" [ref=e213] [cursor=pointer]:
+              - /url: /Products/Anti-Theft-Door_16211700
+          - generic [ref=e214]:
+            - link "درب اتوماتیک" [ref=e215] [cursor=pointer]:
+              - /url: /Products/Automatic-Door_8100
+            - link "پنجره دوجداره" [ref=e216] [cursor=pointer]:
+              - /url: /Products/Window_160800
+            - link "کاغذ دیواری" [ref=e217] [cursor=pointer]:
+              - /url: /Products/Wallpaper_16261600
+            - link "پارکت" [ref=e218] [cursor=pointer]:
+              - /url: /Products/Parquet_28041400
+            - link "حفاظ" [ref=e219] [cursor=pointer]:
+              - /url: /Products/Fencing_9400
+            - link "کانکس" [ref=e220] [cursor=pointer]:
+              - /url: /Products/Conex_161910
+            - link "دوربین مداربسته" [ref=e221] [cursor=pointer]:
+              - /url: /Products/CCTV_80500
+            - link "اعلام حریق" [ref=e222] [cursor=pointer]:
+              - /url: /Products/Fire-Alarm_8010200
+            - link "تأسیسات ساختمان" [ref=e223] [cursor=pointer]:
+              - /url: /Products/Building-Installation_160850
+          - generic [ref=e224]:
+            - link "پکیج" [ref=e225] [cursor=pointer]:
+              - /url: /Products/Heater-Package_16085010
+            - link "آسانسور" [ref=e226] [cursor=pointer]:
+              - /url: /Products/Elevator_160200
+            - link "بالابر" [ref=e227] [cursor=pointer]:
+              - /url: /Products/Lift_16240100
+            - link "لوازم آشپزخانه" [ref=e228] [cursor=pointer]:
+              - /url: /Products/Kitchen-Accessories_16300
+            - link "کابینت" [ref=e229] [cursor=pointer]:
+              - /url: /Products/Cabinets_1630200
+            - link "سنگ ساختمانی" [ref=e230] [cursor=pointer]:
+              - /url: /Products/Stone_161400
+            - link "لوله و اتصالات" [ref=e231] [cursor=pointer]:
+              - /url: /Products/Pipe_17600
+            - link "سپتیک تانک" [ref=e232] [cursor=pointer]:
+              - /url: /Products/Septic-Tanks_502225
+            - link "کاشی و سرامیک" [ref=e233] [cursor=pointer]:
+              - /url: /Products/Ceramic-Tiles_16261500
+    - generic [ref=e234]: © 2026 parscenter.com. کلیه حقوق این سایت متعلق به شرکت مدیریت هوشمند تاو می‌باشد. تمامی کالاها و خدمات این سایت، حسب مورد دارای مجوزهای لازم از مراجع مربوطه می‌باشند و فعالیت‌های این سایت تابع قوانین و مقررات ایران است.
+  - generic:
+    - link:
+      - /url: "#"
+      - generic [ref=e235] [cursor=pointer]
+    - generic [ref=e238]:
+      - generic [ref=e239] [cursor=pointer]: close
+      - generic [ref=e243]:
+        - generic [ref=e244]:
+          - heading "چگونه می‌توانیم به شما کمک کنیم؟" [level=5] [ref=e245]
+          - paragraph [ref=e246]: لطفاً هدف خود را مشخص نمایید تا شما را به سریع‌ترین مسیر راهنمایی کنیم.
+        - generic [ref=e247]:
+          - generic [ref=e249] [cursor=pointer]:
+            - generic [ref=e250]:
+              - img "product-info" [ref=e252]
+              - generic [ref=e253]:
+                - paragraph [ref=e254]: می‌خواهم درباره این محصول یا محصولات تأمین‌کننده اطلاعات کسب کنم.
+                - paragraph [ref=e255]: اطلاعات بیشتری درباره ویژگی‌ها، قیمت یا شرایط فروش این محصول یا محصولات مشابه از تأمین‌کننده کسب کنید
+            - generic [ref=e256]: chevron_left
+          - generic [ref=e258] [cursor=pointer]:
+            - generic [ref=e259]:
+              - img "purchase-request" [ref=e261]
+              - generic [ref=e262]:
+                - paragraph [ref=e263]: می‌خواهم درخواست خرید ثبت کنم.
+                - paragraph [ref=e264]: اگر قصد خرید این محصول یا محصولی مشابه را دارید، با ثبت درخواست خرید، پیشنهادهای مستقیم تأمین‌کنندگان را دریافت خواهید کرد.
+            - generic [ref=e265]: chevron_left
+          - generic [ref=e267] [cursor=pointer]:
+            - generic [ref=e268]:
+              - img "customer-support" [ref=e270]
+              - generic [ref=e271]:
+                - paragraph [ref=e272]: سؤالی یا موردی درباره نحوه کارکرد پارس سنتر دارم.
+                - paragraph [ref=e273]: اگر می‌خواهید بدانید پلتفرم پارس سنتر چگونه کار می‌کند یا به پشتیبانی درباره سایت و امکانات آن نیاز دارید، این گزینه برای شما مناسب است.
+            - generic [ref=e274]: chevron_left
+```
+### Events
+- New console entries: .playwright-cli/console-2026-09-01T08-13-05-468Z.log#L3

@@ -1,0 +1,118 @@
+{
+  "company_id": "ir-teh-84086d76b62f386a",
+  "errors": [],
+  "generated_at": "2026-09-01T08:19:49Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [
+    {
+      "bytes": 974521,
+      "captured_at": "2026-09-01T08:19:47Z",
+      "company_id": "ir-teh-84086d76b62f386a",
+      "headless": true,
+      "page_title": "صفحه اصلی - بهساز الکترونیک",
+      "path": "companies/ir-teh-84086d76b62f386a/screenshots/homepage.png",
+      "reason_this_matters": "Public company homepage is the primary visual evidence surface.",
+      "screenshot_type": "homepage",
+      "source_url": "https://behsazelectronic.ir/"
+    }
+  ],
+  "sources": [
+    {
+      "discovered_at": "2026-09-01T06:32:13Z",
+      "discovery_reason": "Book-e Avval category: تولید و پخش لوازم برقی",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "عاملیت محصولات آیلد پرژکتور پنل 60 60پنل روکار و تو کار و لامپ ، اولین مرکز تخصصی سویچینگ و داریو و چیپ در لاله زار",
+      "source_quality": "directory",
+      "source_title": "تولید و پخش لوازم برقی در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D9%88%20%D9%BE%D8%AE%D8%B4%20%D9%84%D9%88%D8%A7%D8%B2%D9%85%20%D8%A8%D8%B1%D9%82%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:32:13Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-bba513bd92b3fece",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "عاملیت محصولات آیلد پرژکتور پنل 60 60پنل روکار و تو کار و لامپ ، اولین مرکز تخصصی سویچینگ و داریو و چیپ در لاله زار",
+      "source_quality": "directory",
+      "source_title": "تولید و پخش لوازم برقی در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D9%88%20%D9%BE%D8%AE%D8%B4%20%D9%84%D9%88%D8%A7%D8%B2%D9%85%20%D8%A8%D8%B1%D9%82%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:53Z",
+      "claim": "Directory profile lists شرکت بهساز الکترونیک with a public Tehran business listing.",
+      "confidence": 0.82,
+      "evidence_id": "ev-811cc85895d40c4e",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "شرکت بهساز الکترونیک - تولید و پخش لوازم برقی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس شرکت بهساز الکترونیک نیاز شما تخصص ماست تولید و پخش لوازم برقی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل تولید و پخش لوازم برقی تهران محله فردوسی اطلاعات تماس آدرس : تهران، منطقه 12، محله فردوسی ، خیابان لاله زار جنوبی، مجتمع تجاری بوشهری، طبقه زیر همکف، پلاک 65 تلفن : نمایش شماره XXXXXXXXXX تلفن همراه",
+      "source_quality": "directory",
+      "source_title": "شرکت بهساز الکترونیک - تولید و پخش لوازم برقی | کتاب اول",
+      "source_url": "https://avval.ir/profile/77af2/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D9%87%D8%B3%D8%A7%D8%B2-%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%D9%88%D9%86%DB%8C%DA%A9"
+    },
+    {
+      "captured_at": "2026-09-01T07:15:14Z",
+      "claim": "Public website signal: catalog_or_products",
+      "confidence": 0.86,
+      "evidence_id": "ev-1d0d373f12321399",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "محصولات; محصول | صفحه اصلی - بهساز الکترونیک پرش به محتوا جستجو ... دسته‌بندی‌ها آداپتور سوئیچینگ آداپتور آداپتور 12 ولت آداپتور پلاستیکی اداپتور 24 ولت پاور سوئیچینگ سویچینگ اسلیم آیلد چراغ ریلی COB لامپ انواع چیپ LED ایفون بدون دسته‌بندی منابع برق اظطراری براکت پروژکتور پروژکتور smd پروژکتور آیلد پروژکتور آیلد سری آسمان پروژکتورCOB پروژکتور مدل نور افشان SMD پنل پنل پنل 60 در 60 پنل گرد توکار پنل گرد 12 وات توکار پنل گرد 18 وات توک",
+      "signal": "catalog_or_products",
+      "source_quality": "company_site",
+      "source_title": "صفحه اصلی - بهساز الکترونیک",
+      "source_url": "https://behsazelectronic.ir/"
+    },
+    {
+      "captured_at": "2026-09-01T07:15:14Z",
+      "claim": "Public website signal: order_or_contact_form",
+      "confidence": 0.72,
+      "evidence_id": "ev-d74f13d1deb4592c",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "تماس با ما | صفحه اصلی - بهساز الکترونیک پرش به محتوا جستجو ... دسته‌بندی‌ها آداپتور سوئیچینگ آداپتور آداپتور 12 ولت آداپتور پلاستیکی اداپتور 24 ولت پاور سوئیچینگ سویچینگ اسلیم آیلد چراغ ریلی COB لامپ انواع چیپ LED ایفون بدون دسته‌بندی منابع برق اظطراری براکت پروژکتور پروژکتور smd پروژکتور آیلد پروژکتور آیلد سری آسمان پروژکتورCOB پروژکتور مدل نور افشان SMD پنل پنل پنل 60 در 60 پنل گرد توکار پنل گرد 12 وات توکار پنل گرد 18 وات توک",
+      "signal": "order_or_contact_form",
+      "source_quality": "company_site",
+      "source_title": "صفحه اصلی - بهساز الکترونیک",
+      "source_url": "https://behsazelectronic.ir/"
+    },
+    {
+      "captured_at": "2026-09-01T07:15:14Z",
+      "claim": "Public website signal: projects_or_clients",
+      "confidence": 0.72,
+      "evidence_id": "ev-5cdc5960d3e51d2f",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "مشتریان | صفحه اصلی - بهساز الکترونیک پرش به محتوا جستجو ... دسته‌بندی‌ها آداپتور سوئیچینگ آداپتور آداپتور 12 ولت آداپتور پلاستیکی اداپتور 24 ولت پاور سوئیچینگ سویچینگ اسلیم آیلد چراغ ریلی COB لامپ انواع چیپ LED ایفون بدون دسته‌بندی منابع برق اظطراری براکت پروژکتور پروژکتور smd پروژکتور آیلد پروژکتور آیلد سری آسمان پروژکتورCOB پروژکتور مدل نور افشان SMD پنل پنل پنل 60 در 60 پنل گرد توکار پنل گرد 12 وات توکار پنل گرد 18 وات توک",
+      "signal": "projects_or_clients",
+      "source_quality": "company_site",
+      "source_title": "صفحه اصلی - بهساز الکترونیک",
+      "source_url": "https://behsazelectronic.ir/"
+    },
+    {
+      "captured_at": "2026-09-01T07:15:14Z",
+      "claim": "Public website signal: certifications",
+      "confidence": 0.72,
+      "evidence_id": "ev-d4c2fe06b62a9e64",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "مجوز | صفحه اصلی - بهساز الکترونیک پرش به محتوا جستجو ... دسته‌بندی‌ها آداپتور سوئیچینگ آداپتور آداپتور 12 ولت آداپتور پلاستیکی اداپتور 24 ولت پاور سوئیچینگ سویچینگ اسلیم آیلد چراغ ریلی COB لامپ انواع چیپ LED ایفون بدون دسته‌بندی منابع برق اظطراری براکت پروژکتور پروژکتور smd پروژکتور آیلد پروژکتور آیلد سری آسمان پروژکتورCOB پروژکتور مدل نور افشان SMD پنل پنل پنل 60 در 60 پنل گرد توکار پنل گرد 12 وات توکار پنل گرد 18 وات توک",
+      "signal": "certifications",
+      "source_quality": "company_site",
+      "source_title": "صفحه اصلی - بهساز الکترونیک",
+      "source_url": "https://behsazelectronic.ir/"
+    },
+    {
+      "captured_at": "2026-09-01T07:15:14Z",
+      "claim": "Public website signal: expansion_or_activity",
+      "confidence": 0.72,
+      "evidence_id": "ev-69693f98b0f2e4e4",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "تولید کننده | صفحه اصلی - بهساز الکترونیک پرش به محتوا جستجو ... دسته‌بندی‌ها آداپتور سوئیچینگ آداپتور آداپتور 12 ولت آداپتور پلاستیکی اداپتور 24 ولت پاور سوئیچینگ سویچینگ اسلیم آیلد چراغ ریلی COB لامپ انواع چیپ LED ایفون بدون دسته‌بندی منابع برق اظطراری براکت پروژکتور پروژکتور smd پروژکتور آیلد پروژکتور آیلد سری آسمان پروژکتورCOB پروژکتور مدل نور افشان SMD پنل پنل پنل 60 در 60 پنل گرد توکار پنل گرد 12 وات توکار پنل گرد 18 وات توک",
+      "signal": "expansion_or_activity",
+      "source_quality": "company_site",
+      "source_title": "صفحه اصلی - بهساز الکترونیک",
+      "source_url": "https://behsazelectronic.ir/"
+    }
+  ]
+}

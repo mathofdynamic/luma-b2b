@@ -1,0 +1,85 @@
+{
+  "company_id": "ir-teh-5689abe5d5d82e86",
+  "errors": [
+    {
+      "error": "### Browser `luma-b2b-ir-teh-5689abe5d5d82e86-attempt-1` opened with pid 48974.\n### Error\nError: net::ERR_CONNECTION_CLOSED at https://api.whatsapp.com/send?text=avval.ir/profile/c184c/%D8%A8%D9%87%D8%B3%D8%A7%D8%B2%D9%BE%DA%A9-%D8%AC%D9%88%D8%A7%D8%AF%DB%8C\nCall log:\n\u001b[2m  - navigating to \"https://api.whatsapp.com/send?text=avval.ir/profile/c184c/%D8%A8%D9%87%D8%B3%D8%A7%D8%B2%D9%BE%DA%A9-%D8%AC%D9%88%D8%A7%D8%AF%DB%8C\", waiting until \"domcontentloaded\"\u001b[22m\n\n",
+      "source_url": "https://api.whatsapp.com/send?text=avval.ir/profile/c184c/%D8%A8%D9%87%D8%B3%D8%A7%D8%B2%D9%BE%DA%A9-%D8%AC%D9%88%D8%A7%D8%AF%DB%8C",
+      "stage": "open"
+    }
+  ],
+  "generated_at": "2026-09-01T09:21:30Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [
+    {
+      "bytes": 48098,
+      "captured_at": "2026-09-01T09:21:28Z",
+      "company_id": "ir-teh-5689abe5d5d82e86",
+      "headless": true,
+      "page_title": ".:: نماد تجارت الکترونیکی ::. خطا",
+      "path": "companies/ir-teh-5689abe5d5d82e86/screenshots/homepage_candidate-2.png",
+      "reason_this_matters": "Public company-site candidate; capture verifies whether it is reachable.",
+      "screenshot_type": "homepage_candidate_fallback",
+      "source_url": "https://trustseal.enamad.ir/?id=194990&Code=3Y0m3d1djm9fuqjoC8mT"
+    }
+  ],
+  "sources": [
+    {
+      "discovered_at": "2026-09-01T06:31:47Z",
+      "discovery_reason": "Book-e Avval category: تولید کارتن مقوایی",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "بهسازپک جوادی",
+      "source_quality": "directory",
+      "source_title": "تولید کارتن مقوایی در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/search/%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%DA%A9%D8%A7%D8%B1%D8%AA%D9%86-%D9%85%D9%82%D9%88%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86?page=2"
+    },
+    {
+      "discovered_at": "2026-09-01T06:31:45Z",
+      "discovery_reason": "Book-e Avval category: تولید جعبه مقوایی",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "جعبه سازی و کارتن سازی ( مقوایی - لمینتی- سه لا - پنج لا- فلوت- سخت - فانتزی ) طراحی و چاپ ( جعبه و کارتن) تولید محصولات مقوایی - تولیدات فانتزی مجموعه بهسازپک جوادی فع",
+      "source_quality": "directory",
+      "source_title": "تولید جعبه مقوایی در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D8%AC%D8%B9%D8%A8%D9%87%20%D9%85%D9%82%D9%88%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:31:47Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-995b966eee531b1d",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "بهسازپک جوادی",
+      "source_quality": "directory",
+      "source_title": "تولید کارتن مقوایی در تهران | کتاب اول",
+      "source_url": "https://avval.ir/search/%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%DA%A9%D8%A7%D8%B1%D8%AA%D9%86-%D9%85%D9%82%D9%88%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86?page=2"
+    },
+    {
+      "captured_at": "2026-09-01T06:31:45Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-726913807bfeef03",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "جعبه سازی و کارتن سازی ( مقوایی - لمینتی- سه لا - پنج لا- فلوت- سخت - فانتزی ) طراحی و چاپ ( جعبه و کارتن) تولید محصولات مقوایی - تولیدات فانتزی مجموعه بهسازپک جوادی فع",
+      "source_quality": "directory",
+      "source_title": "تولید جعبه مقوایی در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D8%AC%D8%B9%D8%A8%D9%87%20%D9%85%D9%82%D9%88%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:53Z",
+      "claim": "Directory profile lists بهسازپک جوادی with a public Tehran business listing.",
+      "confidence": 0.82,
+      "evidence_id": "ev-5bc4af955b64be33",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "بهسازپک جوادی - تولید جعبه مقوایی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس بهسازپک جوادی جعبه سازی و کارتن سازی ( مقوایی - لمینتی- سه لا - پنج لا- فلوت- سخت - فانتزی ) طراحی و چاپ ( جعبه و کارتن) تولید محصولات مقوایی - تولیدات فانتزی تولید جعبه مقوایی تولید کارتن مقوایی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل تولید جعبه مقوایی تهران محله بهارستان اطلاعات تماس آدرس : تهران، منطقه 12، مح",
+      "source_quality": "directory",
+      "source_title": "بهسازپک جوادی - تولید جعبه مقوایی | کتاب اول",
+      "source_url": "https://avval.ir/profile/c184c/%D8%A8%D9%87%D8%B3%D8%A7%D8%B2%D9%BE%DA%A9-%D8%AC%D9%88%D8%A7%D8%AF%DB%8C"
+    }
+  ]
+}

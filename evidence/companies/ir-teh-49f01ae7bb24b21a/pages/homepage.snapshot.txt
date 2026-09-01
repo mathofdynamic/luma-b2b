@@ -1,0 +1,221 @@
+### Page
+- Page URL: https://afcaf.com/
+- Page Title: Financial & Commercial Firm – Nik
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e9]:
+        - generic [ref=e12]:
+          - link [ref=e14] [cursor=pointer]:
+            - /url: https://afcaf.com/
+            - img "Nik" [ref=e15]
+          - link "Financial & Commercial Firm" [ref=e18] [cursor=pointer]:
+            - /url: https://afcaf.com/
+        - navigation "Primary Site Navigation" [ref=e23]:
+          - list [ref=e25]:
+            - listitem [ref=e26]:
+              - link "Home" [ref=e27] [cursor=pointer]:
+                - /url: https://afcaf.com/
+            - listitem [ref=e28]:
+              - link "Introduction" [ref=e29] [cursor=pointer]:
+                - /url: https://afcaf.com/introduction/
+            - listitem [ref=e30]:
+              - link [ref=e31] [cursor=pointer]:
+                - /url: https://afcaf.com/category/financial/
+                - text: Financial
+                - button "Menu Toggle" [ref=e32]
+            - listitem [ref=e36]:
+              - link [ref=e37] [cursor=pointer]:
+                - /url: https://afcaf.com/category/business/
+                - text: Business
+                - button "Menu Toggle" [ref=e38]
+            - listitem [ref=e42]:
+              - link "About Me" [ref=e43] [cursor=pointer]:
+                - /url: https://afcaf.com/about-me/
+            - listitem [ref=e44]:
+              - link "Contact" [ref=e45] [cursor=pointer]:
+                - /url: https://afcaf.com/contact/
+            - listitem [ref=e46]:
+              - link "Blog" [ref=e47] [cursor=pointer]:
+                - /url: https://afcaf.com/blog/
+    - main [ref=e51]:
+      - article [ref=e52]:
+        - generic [ref=e54]:
+          - generic [ref=e56]:
+            - heading "I Work with the Clients on a Long-Term Basis" [level=1] [ref=e60]
+            - heading "Providing Advice for Ongoing Business" [level=2] [ref=e64]
+          - heading "Welcome to Amin Financial & Commercial Advising Firm Page" [level=2] [ref=e69]
+          - paragraph [ref=e74]: For having a long-term cooperation, I invite you to visit the pages of financial and commercial services in order to get acquainted with AFCAF services
+          - generic [ref=e76]:
+            - generic [ref=e80]:
+              - figure [ref=e81]:
+                - link [ref=e82] [cursor=pointer]:
+                  - /url: https://afcaf.com/introduction/
+                  - img "Introduction" [ref=e83]
+              - generic [ref=e84]:
+                - heading [level=3] [ref=e85]:
+                  - link "Introduction" [ref=e86] [cursor=pointer]:
+                    - /url: https://afcaf.com/introduction/
+                - paragraph [ref=e87]: I am proud to be able to cooperate with companies in the mentioned fields in Introduction page as an expert, who has full experience and ability for consulting, training and even implementation
+            - generic [ref=e91]:
+              - figure [ref=e92]:
+                - link [ref=e93] [cursor=pointer]:
+                  - /url: https://afcaf.com/about-me/
+                  - img "Nik" [ref=e94]
+              - generic [ref=e95]:
+                - heading [level=3] [ref=e96]:
+                  - link "About Me" [ref=e97] [cursor=pointer]:
+                    - /url: https://afcaf.com/about-me/
+                - paragraph [ref=e98]: I'm very pleased for your visiting my Site and it would be my great honor of having opportunity to introduce myself and give a brief explanation of my abilities and activity records. Click to Visit About Page
+            - generic [ref=e102]:
+              - figure [ref=e103]:
+                - link [ref=e104] [cursor=pointer]:
+                  - /url: https://afcaf.com/contact/
+                  - img "Contact" [ref=e105]
+              - generic [ref=e106]:
+                - heading [level=3] [ref=e107]:
+                  - link "Contact" [ref=e108] [cursor=pointer]:
+                    - /url: https://afcaf.com/contact/
+                - paragraph [ref=e109]: "Amin Financial & Commercial Advising Firm Manager : Reza Nikkhah Email : info@afcaf.com Leave me message and Let’s be in Touch"
+          - list [ref=e116]:
+            - listitem [ref=e117]:
+              - list [ref=e118]:
+                - listitem [ref=e119]:
+                  - list [ref=e120]:
+                    - listitem [ref=e121]:
+                      - list [ref=e122]:
+                        - listitem [ref=e123]: Financial and tax accounting
+                        - listitem [ref=e124]: Audit and Control of accounts
+                        - listitem [ref=e125]: Managerial Accounting with the view of obtaining the cost price of the product or services before production or implementation
+                        - listitem [ref=e126]: Cost accounting
+                        - listitem [ref=e127]: Consulting and training in the field of finance and tax and cost accounting
+                        - listitem [ref=e128]: Offering or Implementing Productivity Projects
+                        - listitem [ref=e129]: Managing Controllable Direct Overhead Cost Reduction
+                        - listitem [ref=e130]: Inventory Control and Advising
+          - generic [ref=e134]:
+            - generic [ref=e138]:
+              - figure [ref=e139]:
+                - link [ref=e140] [cursor=pointer]:
+                  - /url: https://afcaf.com/accounting/
+                  - img "Accounting" [ref=e141]
+              - generic [ref=e142]:
+                - heading [level=3] [ref=e143]:
+                  - link "Accounting" [ref=e144] [cursor=pointer]:
+                    - /url: https://afcaf.com/accounting/
+                - paragraph [ref=e145]: Accounting provides essential information about a company’s financial health and performance
+            - generic [ref=e149]:
+              - figure [ref=e150]:
+                - link [ref=e151] [cursor=pointer]:
+                  - /url: https://afcaf.com/cost-accounting/
+                  - img "Cost Accounting" [ref=e152]
+              - generic [ref=e153]:
+                - heading [level=3] [ref=e154]:
+                  - link "Cost Accounting" [ref=e155] [cursor=pointer]:
+                    - /url: https://afcaf.com/cost-accounting/
+                - paragraph [ref=e156]: Cost accounting talks about analyzes and records the costs associated with producing goods or services
+            - generic [ref=e160]:
+              - figure [ref=e161]:
+                - link [ref=e162] [cursor=pointer]:
+                  - /url: https://afcaf.com/inventory/
+                  - img "Inventory" [ref=e163]
+              - generic [ref=e164]:
+                - heading [level=3] [ref=e165]:
+                  - link "Inventory" [ref=e166] [cursor=pointer]:
+                    - /url: https://afcaf.com/inventory/
+                - paragraph [ref=e167]: Inventory accounting is the body of accounting that deals with valuing and accounting for changes in inventoried assets
+            - generic [ref=e171]:
+              - figure [ref=e172]:
+                - link [ref=e173] [cursor=pointer]:
+                  - /url: https://afcaf.com/audit-and-control-of-accounts/
+                  - img "Control of Accounts" [ref=e174]
+              - generic [ref=e175]:
+                - heading [level=3] [ref=e176]:
+                  - link "Audit & Control of Accounts" [ref=e177] [cursor=pointer]:
+                    - /url: https://afcaf.com/audit-and-control-of-accounts/
+                - paragraph [ref=e178]: Accounting provides essential financial information that can be used to make informed decisions, while auditing ensures that this information is accurate and reliable
+            - generic [ref=e182]:
+              - figure [ref=e183]:
+                - link [ref=e184] [cursor=pointer]:
+                  - /url: https://afcaf.com/financial-management/
+                  - img "Financial Management" [ref=e185]
+              - generic [ref=e186]:
+                - heading [level=3] [ref=e187]:
+                  - link "Financial Management" [ref=e188] [cursor=pointer]:
+                    - /url: https://afcaf.com/financial-management/
+                - paragraph [ref=e189]: Management accounting involves collecting, analyzing, interpreting, planning and budgeting, evaluating business performance, cost analysis and controls, decision-making, accountability and responsibility
+            - generic [ref=e193]:
+              - figure [ref=e194]:
+                - link [ref=e195] [cursor=pointer]:
+                  - /url: https://afcaf.com/advisory-and-training/
+                  - img "Advisory" [ref=e196]
+              - generic [ref=e197]:
+                - heading [level=3] [ref=e198]:
+                  - link "Advisory & Training" [ref=e199] [cursor=pointer]:
+                    - /url: https://afcaf.com/advisory-and-training/
+                - paragraph [ref=e200]: An advisor typically works with the clients on a long-term basis, providing advice for ongoing business challenges and a consultant solves narrow, well-defined problems on a project basis
+          - list [ref=e207]:
+            - listitem [ref=e208]:
+              - list [ref=e209]:
+                - listitem [ref=e210]:
+                  - list [ref=e211]:
+                    - listitem [ref=e212]:
+                      - list [ref=e213]:
+                        - listitem [ref=e214]: Calculating of actual cost price of the products, inventory, designing production lines, creating a harmony between production lines and other production sections with production lines, evaluating the value of wasted parts and proposal of reducing the rate of them, expenses reduction, quality upgrading and productiveness, production time study and capacity study, assessing the lost times and the method of decreasing them and assessing profitability and increasing profit
+                        - listitem [ref=e215]: Commercial and Trading Affairs
+                        - listitem [ref=e216]: Issuing contracts and preparing reports
+                        - listitem [ref=e217]: Sales and marketing of your products with up-to-dated methods of the world, suitable for the conditions, locations and market capacity and many other things can be effective.
+                        - listitem [ref=e218]: Simultaneous Translation and Interpretation
+          - generic [ref=e222]:
+            - generic [ref=e226]:
+              - figure [ref=e227]:
+                - link [ref=e228] [cursor=pointer]:
+                  - /url: https://afcaf.com/representative-affairs/
+                  - img "Cooperation" [ref=e229]
+              - generic [ref=e230]:
+                - heading [level=3] [ref=e231]:
+                  - link "Representative Affairs" [ref=e232] [cursor=pointer]:
+                    - /url: https://afcaf.com/representative-affairs/
+                - paragraph [ref=e233]: The key to success is discovering your innate power and using it daily. Every success creates new opportunities and so does every failure
+            - generic [ref=e237]:
+              - figure [ref=e238]:
+                - link [ref=e239] [cursor=pointer]:
+                  - /url: https://afcaf.com/commercial-and-trading/
+                  - img "Commercial" [ref=e240]
+              - generic [ref=e241]:
+                - heading [level=3] [ref=e242]:
+                  - link "Commercial & Trading Affairs" [ref=e243] [cursor=pointer]:
+                    - /url: https://afcaf.com/commercial-and-trading/
+                - paragraph [ref=e244]: Anything that works well or has Long-Term success is never done quickly And if you encounter failure, know that the failure is not opposite of success, it’s part of success
+            - generic [ref=e248]:
+              - figure [ref=e249]:
+                - link [ref=e250] [cursor=pointer]:
+                  - /url: https://afcaf.com/future-plan/
+                  - img "Future Plan" [ref=e251]
+              - generic [ref=e252]:
+                - heading [level=3] [ref=e253]:
+                  - link "Future Activity Plan" [ref=e254] [cursor=pointer]:
+                    - /url: https://afcaf.com/future-plan/
+                - paragraph [ref=e255]: The most powerful tool that has emerged as a game-changer in driving business improvement strategies is TECHNOLOGY
+          - generic [ref=e259]:
+            - paragraph [ref=e260]: Accounting refers to the systematic and detailed recording of financial transactions of a business. There are many types, from accounting for small businesses, government, forensic, and management accounting, to accounting for corporations
+            - paragraph [ref=e261]: One critical aspect of running a successful business is compliance with relevant regulations and laws. Whether it is tax compliance or the required up-to-date keeping of records, failure to adhere to these regulations can result in significant financial losses for your business
+            - paragraph [ref=e262]: Accounting plays a critical role in ensuring your business stays compliant with these laws and regulations and helps you avoid making expensive mistakes. With the right accounting practices in place, you can have peace of mind knowing that your business runs smoothly, and you can focus on other essential aspects of your enterprise
+    - contentinfo [ref=e263]:
+      - generic [ref=e266]:
+        - generic [ref=e270]:
+          - paragraph [ref=e271]: info@afcaf.com
+          - paragraph [ref=e272]: www.afcaf.com
+        - region "Footer Widget 1" [ref=e274]:
+          - figure [ref=e276]:
+            - link [ref=e277] [cursor=pointer]:
+              - /url: https://nikfcs.com/
+        - generic [ref=e281]:
+          - paragraph [ref=e282]: +98 (912) 108 5287
+          - paragraph [ref=e283]: +98 (912) 112 0138
+      - paragraph [ref=e290]: Copyright © Financial & Commercial Firm | Powered by Nik FCS
+  - generic [ref=e291]: desktop
+```

@@ -1,0 +1,15 @@
+### Page
+- Page URL: https://bale.ai/rojandroj
+- HTTP status: 404
+- Console: 1 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - paragraph [ref=e4]: ۴۰۴
+    - paragraph [ref=e5]: صفحه مورد نظر یافت نشد
+    - link [ref=e6] [cursor=pointer]:
+      - /url: https://bale.ai
+      - button "بازگشت به صفحه اصلی سایت" [ref=e7]
+  - alert [ref=e9]
+```

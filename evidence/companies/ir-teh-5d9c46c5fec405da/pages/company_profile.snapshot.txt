@@ -1,0 +1,321 @@
+### Page
+- Page URL: https://avval.ir/profile/47bb8/%D8%AA%DA%A9-%D9%88%D9%84%D8%AA%D8%A7%DA%98
+- Page Title: تک ولتاژ - واردات و صادرات لوازم الکتریکی | کتاب اول
+- Console: 4 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - link "home page" [ref=e5] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - textbox "فعالیت شغلی، نام کسب و کار، خدمات و محصولات و ..." [ref=e11]
+            - generic [ref=e12]: در
+            - generic [ref=e13]:
+              - textbox "شهر، محله، منطقه، خیابان و ..." [ref=e14]
+              - button "جستجو بر اساس موقعیت مکانی" [ref=e16] [cursor=pointer]
+            - button "جستجو" [ref=e19] [cursor=pointer]
+          - list
+      - link "ثبت رایگان اطلاعات شغلی" [ref=e23] [cursor=pointer]:
+        - /url: /%D8%AB%D8%A8%D8%AA-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D8%B4%D8%BA%D9%84%DB%8C
+      - button "ورود | ثبت نام" [ref=e26] [cursor=pointer]
+    - navigation [ref=e30]:
+      - list [ref=e31]:
+        - listitem [ref=e32]:
+          - button "دسته بندی مشاغل" [ref=e33] [cursor=pointer]
+        - listitem [ref=e35]: "|"
+        - listitem [ref=e36]:
+          - link "تبلیغات با ما" [ref=e37] [cursor=pointer]:
+            - /url: /%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-%D9%88%D8%A8-%D8%B3%D8%A7%DB%8C%D8%AA-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+        - listitem [ref=e40]: "|"
+        - listitem [ref=e41]:
+          - link "دسترسی بانک مشاغل" [ref=e42] [cursor=pointer]:
+            - /url: /%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B4%D8%A7%D8%BA%D9%84-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+        - listitem [ref=e45]: "|"
+        - listitem [ref=e46]:
+          - link "پنل اس ام اس" [ref=e47] [cursor=pointer]:
+            - /url: /smspanel
+  - generic [ref=e53]:
+    - main [ref=e54]:
+      - generic [ref=e55]:
+        - img "لوگوی تک ولتاژ - واردات و صادرات لوازم الکتریکی" [ref=e57]
+        - generic [ref=e58]:
+          - heading "تک ولتاژ" [level=1] [ref=e59]
+          - generic [ref=e60]:
+            - generic [ref=e69]: "4.0"
+            - generic [ref=e70]: (1 نظر)
+          - list [ref=e71]:
+            - listitem [ref=e72]: واردات و صادرات لوازم الکتریکی
+            - listitem [ref=e73]: فروش ترموکوپل صنعتی
+      - generic [ref=e74]:
+        - link "تماس" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+        - button "ثبت نظر" [ref=e80] [cursor=pointer]
+        - button "ارتقای پروفایل" [ref=e83] [cursor=pointer]
+        - button "ویرایش" [ref=e86] [cursor=pointer]
+        - button "اشتراک گذاری" [ref=e91] [cursor=pointer]
+      - navigation [ref=e99]:
+        - list [ref=e100]:
+          - listitem [ref=e101]:
+            - link "link to home" [ref=e102] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e106]
+          - listitem [ref=e109]:
+            - link "دسته‌بندی مشاغل" [ref=e110] [cursor=pointer]:
+              - /url: /directory
+          - listitem [ref=e111]
+          - listitem [ref=e114]:
+            - link "واردات و صادرات لوازم الکتریکی" [ref=e115] [cursor=pointer]:
+              - /url: /directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D9%88-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%DB%8C%DA%A9%DB%8C
+          - listitem [ref=e116]
+          - listitem [ref=e119]:
+            - link "تهران" [ref=e120] [cursor=pointer]:
+              - /url: /directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D9%88-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%DB%8C%DA%A9%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86
+          - listitem [ref=e121]
+          - listitem [ref=e124]:
+            - link "محله فردوسی" [ref=e125] [cursor=pointer]:
+              - /url: /directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D9%88-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%DB%8C%DA%A9%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%85%D8%AD%D9%84%D9%87-%D9%81%D8%B1%D8%AF%D9%88%D8%B3%DB%8C
+      - generic [ref=e126]:
+        - heading "اطلاعات تماس" [level=2] [ref=e128]
+        - list [ref=e129]:
+          - listitem [ref=e130]:
+            - generic [ref=e131]: "آدرس :"
+            - generic [ref=e135]: تهران، منطقه 12، محله فردوسی ، خیابان لاله زار جنوبی، جنب بانک ملی، پاساژ عزیزی، طبقه دوم، واحد 204
+          - listitem [ref=e136]:
+            - generic [ref=e137]: "تلفن :"
+            - button "نمایش شماره" [ref=e140] [cursor=pointer]
+            - generic [ref=e141]: XXXXXXXXXX
+          - listitem [ref=e142]:
+            - generic [ref=e143]: وب سایت
+            - link "takvoltage.com/" [ref=e147] [cursor=pointer]:
+              - /url: http://takvoltage.com/
+          - listitem [ref=e148]:
+            - generic [ref=e149]: "ایمیل :"
+            - link "mahdiyarnam22@gmail.com" [ref=e154] [cursor=pointer]:
+              - /url: mailto://mahdiyarnam22@gmail.com
+          - listitem [ref=e155]:
+            - generic [ref=e156]: "کد پستی :"
+            - generic [ref=e160]: "1669743333"
+      - generic [ref=e162]:
+        - heading "توضیحات" [level=2] [ref=e164]
+        - generic [ref=e165]: پی ال سی، فشار ضعیف، فشار متوسط، درایو و ابزار دقیق محصولات اتوماسیون صنعتی قطعات اورجینال با قیمت غیر قابل رقابت از واردکننده مستقیم زیمنس
+      - generic [ref=e166]:
+        - heading "نظرات" [level=2] [ref=e168]
+        - generic [ref=e169]:
+          - paragraph [ref=e170]: لطفا به این کسب و کار امتیاز بدید و نظر خودتون رو درباره این کسب و کار بنویسید
+          - generic [ref=e171]:
+            - generic [ref=e174]:
+              - generic [ref=e175]: بدون رای
+              - generic "بدون رای" [ref=e177] [cursor=pointer]:
+                - textbox "امتیاز شما برای این کسب و کار" [ref=e209]
+            - generic [ref=e210]:
+              - generic [ref=e211]: حداکثر 2000 کاراکتر
+              - textbox "به نظر من ..." [ref=e212]
+              - button "ثبت نظر" [ref=e213] [cursor=pointer]
+          - generic [ref=e214]:
+            - generic [ref=e216]:
+              - generic [ref=e220]: حسین گرجی
+              - generic [ref=e221]: 11 ماه پیش
+            - generic [ref=e231]:
+              - button "0" [ref=e232] [cursor=pointer]
+              - button "پاسخ" [ref=e236] [cursor=pointer]
+              - button "گزارش تخلف این نظر" [ref=e241] [cursor=pointer]
+          - text: ✕
+    - complementary [ref=e245]:
+      - generic [ref=e247]:
+        - generic [ref=e248]:
+          - generic:
+            - region "Map" [ref=e249]
+            - generic: برای بزرگنمایی نقشه، از ⌘ + پیمایش استفاده کنید
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e250] [cursor=pointer]
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e251] [cursor=pointer]
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e265] [cursor=pointer]
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e274] [cursor=pointer]
+          - generic:
+            - generic:
+              - generic [ref=e288]:
+                - button "Zoom in" [ref=e289] [cursor=pointer]
+                - button "Zoom out" [ref=e291] [cursor=pointer]
+              - button "Enter fullscreen" [ref=e294] [cursor=pointer]
+        - generic [ref=e296]:
+          - button "گوگل" [ref=e297] [cursor=pointer]
+          - button [ref=e304] [cursor=pointer]:
+            - img "بلد" [ref=e305]
+            - text: بلد
+          - button [ref=e306] [cursor=pointer]:
+            - img "نشان" [ref=e307]
+            - text: نشان
+      - list [ref=e310]:
+        - listitem [ref=e311]:
+          - paragraph [ref=e312]: نزدیک ترین ایستگاه بی آر تی به تک ولتاژ
+          - link "ایستگاه اتوبوس جمهوری - کد 186 - جنوب به شمال 872 متر" [ref=e313] [cursor=pointer]:
+            - /url: /profile/1d357/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A7%D8%AA%D9%88%D8%A8%D9%88%D8%B3-%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C-%DA%A9%D8%AF-186-%D8%AC%D9%86%D9%88%D8%A8-%D8%A8%D9%87-%D8%B4%D9%85%D8%A7%D9%84
+        - listitem [ref=e324]:
+          - paragraph [ref=e325]: نزدیک ترین ایستگاه مترو به تک ولتاژ
+          - link "ایستگاه مترو سعدی تهران 344 متر" [ref=e326] [cursor=pointer]:
+            - /url: /profile/ad52e/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%85%D8%AA%D8%B1%D9%88-%D8%B3%D8%B9%D8%AF%DB%8C-%D8%AA%D9%87%D8%B1%D8%A7%D9%86
+        - listitem [ref=e335]:
+          - paragraph [ref=e336]: نزدیک ترین ایستگاه اتوبوس به تک ولتاژ
+          - link "ایستگاه اتوبوس سکنگر - کد 116 - جنوب به شمال 169 متر" [ref=e337] [cursor=pointer]:
+            - /url: /profile/1e7d2/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A7%D8%AA%D9%88%D8%A8%D9%88%D8%B3-%D8%B3%DA%A9%D9%86%DA%AF%D8%B1-%DA%A9%D8%AF-116-%D8%AC%D9%86%D9%88%D8%A8-%D8%A8%D9%87-%D8%B4%D9%85%D8%A7%D9%84
+      - generic [ref=e348]:
+        - heading "کسب و کارهای مشابه" [level=2] [ref=e350]
+        - navigation [ref=e351]:
+          - list [ref=e352]:
+            - listitem [ref=e353]:
+              - link "فروشگاه اینترنتی لاوان الکتریک فروشگاه اینترنتی لاوان الکتریک 4.5 (2 نظر) صنایع برق و الکترونیک تهران، پاکدشت، منطقه صنعتی خاتون آباد" [ref=e354] [cursor=pointer]:
+                - /url: /profile/1c5ba/%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA%DB%8C-%D9%84%D8%A7%D9%88%D8%A7%D9%86-%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%DB%8C%DA%A9
+                - img "فروشگاه اینترنتی لاوان الکتریک" [ref=e355]
+                - generic [ref=e356]:
+                  - heading "فروشگاه اینترنتی لاوان الکتریک" [level=3] [ref=e357]
+                  - generic [ref=e358]:
+                    - generic [ref=e369]: "4.5"
+                    - generic [ref=e370]: (2 نظر)
+                  - list [ref=e371]:
+                    - listitem [ref=e372]: صنایع برق و الکترونیک
+                  - generic [ref=e373]: تهران، پاکدشت، منطقه صنعتی خاتون آباد
+            - listitem [ref=e377]:
+              - link "شرکت صدرا تجارت پویان البرز شرکت صدرا تجارت پویان البرز 4.0 (1 نظر) واردات و صادرات لوازم الکتریکی تهران، منطقه 7، محله عباس آباد، خیابان احمدقصیر" [ref=e378] [cursor=pointer]:
+                - /url: /profile/8b955/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%B5%D8%AF%D8%B1%D8%A7-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D9%BE%D9%88%DB%8C%D8%A7%D9%86-%D8%A7%D9%84%D8%A8%D8%B1%D8%B2
+                - img "شرکت صدرا تجارت پویان البرز" [ref=e379]
+                - generic [ref=e380]:
+                  - heading "شرکت صدرا تجارت پویان البرز" [level=3] [ref=e381]
+                  - generic [ref=e382]:
+                    - generic [ref=e391]: "4.0"
+                    - generic [ref=e392]: (1 نظر)
+                  - list [ref=e393]:
+                    - listitem [ref=e394]: واردات و صادرات لوازم الکتریکی
+                  - generic [ref=e395]: تهران، منطقه 7، محله عباس آباد، خیابان احمدقصیر
+            - listitem [ref=e399]:
+              - link "شرکت ابزار دقیق مهام - کارگاه شرکت ابزار دقیق مهام - کارگاه 4.0 (1 نظر) اتوماسیون صنعتی مشهد، منطقه 1، محله سعد آباد، خیابان قرنی" [ref=e400] [cursor=pointer]:
+                - /url: /profile/3f887/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%AF%D9%82%DB%8C%D9%82-%D9%85%D9%87%D8%A7%D9%85-%DA%A9%D8%A7%D8%B1%DA%AF%D8%A7%D9%87
+                - img "شرکت ابزار دقیق مهام - کارگاه" [ref=e401]
+                - generic [ref=e402]:
+                  - heading "شرکت ابزار دقیق مهام - کارگاه" [level=3] [ref=e403]
+                  - generic [ref=e404]:
+                    - generic [ref=e413]: "4.0"
+                    - generic [ref=e414]: (1 نظر)
+                  - list [ref=e415]:
+                    - listitem [ref=e416]: اتوماسیون صنعتی
+                  - generic [ref=e417]: مشهد، منطقه 1، محله سعد آباد، خیابان قرنی
+            - listitem [ref=e421]:
+              - link "شرکت ابزار دقیق مهام - دفتر فروش شرکت ابزار دقیق مهام - دفتر فروش 4.0 (1 نظر) تست مکانیکی ابزار دقیق مشهد، منطقه 1، محله سعد آباد، خیابان سنایی" [ref=e422] [cursor=pointer]:
+                - /url: /profile/c79f3/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-%D8%AF%D9%82%DB%8C%D9%82-%D9%85%D9%87%D8%A7%D9%85-%D8%AF%D9%81%D8%AA%D8%B1-%D9%81%D8%B1%D9%88%D8%B4
+                - img "شرکت ابزار دقیق مهام - دفتر فروش" [ref=e423]
+                - generic [ref=e424]:
+                  - heading "شرکت ابزار دقیق مهام - دفتر فروش" [level=3] [ref=e425]
+                  - generic [ref=e426]:
+                    - generic [ref=e435]: "4.0"
+                    - generic [ref=e436]: (1 نظر)
+                  - list [ref=e437]:
+                    - listitem [ref=e438]: تست مکانیکی ابزار دقیق
+                  - generic [ref=e439]: مشهد، منطقه 1، محله سعد آباد، خیابان سنایی
+            - listitem [ref=e443]:
+              - link "فروشگاه صباصنعت فروشگاه صباصنعت 4.0 (1 نظر) صنایع برق و الکترونیک تهران، منطقه 12، محله فردوسی ، لاله زار جنوبی" [ref=e444] [cursor=pointer]:
+                - /url: /profile/975c1/%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87-%D8%B5%D8%A8%D8%A7%D8%B5%D9%86%D8%B9%D8%AA
+                - img "فروشگاه صباصنعت" [ref=e445]
+                - generic [ref=e446]:
+                  - heading "فروشگاه صباصنعت" [level=3] [ref=e447]
+                  - generic [ref=e448]:
+                    - generic [ref=e457]: "4.0"
+                    - generic [ref=e458]: (1 نظر)
+                  - list [ref=e459]:
+                    - listitem [ref=e460]: صنایع برق و الکترونیک
+                  - generic [ref=e461]: تهران، منطقه 12، محله فردوسی ، لاله زار جنوبی
+            - listitem [ref=e465]:
+              - link "دنیای حرارت دنیای حرارت 5.0 (1 نظر) فروش ترموکوپل صنعتی تهران، منطقه 12، محله فردوسی ، خیابان لاله زار جنوبی" [ref=e466] [cursor=pointer]:
+                - /url: /profile/khown/%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA
+                - img "دنیای حرارت" [ref=e467]
+                - generic [ref=e468]:
+                  - heading "دنیای حرارت" [level=3] [ref=e469]
+                  - generic [ref=e470]:
+                    - generic [ref=e481]: "5.0"
+                    - generic [ref=e482]: (1 نظر)
+                  - list [ref=e483]:
+                    - listitem [ref=e484]: فروش ترموکوپل صنعتی
+                  - generic [ref=e485]: تهران، منطقه 12، محله فردوسی ، خیابان لاله زار جنوبی
+            - listitem [ref=e489]:
+              - link "شرکت آرتا الکتریک شرکت آرتا الکتریک 4.0 (1 نظر) فروش و تعمیر لوازم برقی تهران، منطقه 12، محله فردوسی ، لاله زار نو" [ref=e490] [cursor=pointer]:
+                - /url: /profile/58f8d/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A2%D8%B1%D8%AA%D8%A7-%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%DB%8C%DA%A9
+                - img "شرکت آرتا الکتریک" [ref=e491]
+                - generic [ref=e492]:
+                  - heading "شرکت آرتا الکتریک" [level=3] [ref=e493]
+                  - generic [ref=e494]:
+                    - generic [ref=e503]: "4.0"
+                    - generic [ref=e504]: (1 نظر)
+                  - list [ref=e505]:
+                    - listitem [ref=e506]: فروش و تعمیر لوازم برقی
+                  - generic [ref=e507]: تهران، منطقه 12، محله فردوسی ، لاله زار نو
+    - text: ✕ ✕
+  - contentinfo [ref=e511]:
+    - generic [ref=e512]:
+      - generic [ref=e513]:
+        - link "home page" [ref=e514] [cursor=pointer]:
+          - /url: /
+        - list [ref=e517]:
+          - listitem [ref=e518]:
+            - link "Telegram" [ref=e519] [cursor=pointer]:
+              - /url: https://t.me/avval_ir
+          - listitem [ref=e525]:
+            - link "instagram" [ref=e526] [cursor=pointer]:
+              - /url: https://instagram.com/ketabeavval.officialpage
+          - listitem [ref=e531]:
+            - link "Twitter" [ref=e532] [cursor=pointer]:
+              - /url: https://twitter.com/ketabeavvalir
+          - listitem [ref=e536]:
+            - link "Facebook" [ref=e537] [cursor=pointer]:
+              - /url: https://www.facebook.com/avval/
+          - listitem [ref=e541]:
+            - link "Linkedin" [ref=e542] [cursor=pointer]:
+              - /url: https://linkedin.com/company/ketabeavval/
+      - navigation [ref=e547]:
+        - generic [ref=e548]:
+          - generic [ref=e549]: درباره کتاب اول
+          - list [ref=e550]:
+            - listitem [ref=e551]:
+              - link "درباره کتاب اول" [ref=e552] [cursor=pointer]:
+                - /url: /about-ketabeavval
+            - listitem [ref=e553]:
+              - link "تماس با کتاب اول" [ref=e554] [cursor=pointer]:
+                - /url: /contact-us
+            - listitem [ref=e555]:
+              - link "شرایط استفاده" [ref=e556] [cursor=pointer]:
+                - /url: /terms-conditions
+            - listitem [ref=e557]:
+              - link "حریم شخضی" [ref=e558] [cursor=pointer]:
+                - /url: /privacy-policy
+        - generic [ref=e559]:
+          - generic [ref=e560]: کشف کنید
+          - list [ref=e561]:
+            - listitem [ref=e562]:
+              - link "دسته بندی مشاغل" [ref=e563] [cursor=pointer]:
+                - /url: /directory
+            - listitem [ref=e564]:
+              - link "نقشه سایت" [ref=e565] [cursor=pointer]:
+                - /url: /sitemap
+            - listitem [ref=e566]:
+              - link "دسترسی بانک مشاغل کتاب اول" [ref=e567] [cursor=pointer]:
+                - /url: /%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B4%D8%A7%D8%BA%D9%84-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+            - listitem [ref=e568]:
+              - link "پنل اس ام اس" [ref=e569] [cursor=pointer]:
+                - /url: /smspanel
+        - generic [ref=e570]:
+          - generic [ref=e571]: صاحبین مشاغل در کتاب اول
+          - list [ref=e572]:
+            - listitem [ref=e573]:
+              - link "ثبت اطلاعات شغلی" [ref=e574] [cursor=pointer]:
+                - /url: /%D8%AB%D8%A8%D8%AA-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D8%B4%D8%BA%D9%84%DB%8C
+            - listitem [ref=e575]:
+              - link "تبلیغات با کتاب اول" [ref=e576] [cursor=pointer]:
+                - /url: /%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-%D9%88%D8%A8-%D8%B3%D8%A7%DB%8C%D8%AA-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+    - generic [ref=e577]:
+      - img "samandehi logo" [ref=e579] [cursor=pointer]
+      - link "enamad logo" [ref=e581] [cursor=pointer]:
+        - /url: https://trustseal.enamad.ir/?id=194990&Code=3Y0m3d1djm9fuqjoC8mT
+        - img "logo-enamad" [ref=e582]
+    - generic [ref=e583]: 1373-1403 © تمامی حقوق برای شرکت کتاب اول محفوظ است
+  - text: ✕ *
+```

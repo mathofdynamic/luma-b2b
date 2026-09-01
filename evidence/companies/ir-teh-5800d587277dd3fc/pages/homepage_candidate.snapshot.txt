@@ -1,0 +1,59 @@
+### Page
+- Page URL: https://www.nikanco.com/
+- Page Title: Home
+- Console: 3 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - link "Mobirise Website Builder" [ref=e3] [cursor=pointer]:
+      - /url: https://mobirise.ws
+    - text: v4.12.3
+  - navigation [ref=e4]:
+    - img "Mobirise" [ref=e8]
+    - list [ref=e10]:
+      - listitem [ref=e11]:
+        - link "Home" [ref=e12] [cursor=pointer]:
+          - /url: index.html#header16-a
+      - listitem [ref=e13]:
+        - link "Projects" [ref=e14] [cursor=pointer]:
+          - /url: index.html#header16-e
+      - listitem [ref=e15]:
+        - link "Product" [ref=e16] [cursor=pointer]:
+          - /url: https://mobiri.se
+      - listitem [ref=e17]:
+        - link "Our activities" [ref=e18] [cursor=pointer]:
+          - /url: https://mobiri.se
+      - listitem [ref=e19]:
+        - link "Services" [ref=e20] [cursor=pointer]:
+          - /url: https://mobiri.se
+      - listitem [ref=e21]:
+        - link "Partner" [ref=e22] [cursor=pointer]:
+          - /url: index.html#header16-1m
+      - listitem [ref=e23]:
+        - link "Overseas offices" [ref=e24] [cursor=pointer]:
+          - /url: https://mobiri.se
+      - listitem [ref=e25]:
+        - link "About Us" [ref=e26] [cursor=pointer]:
+          - /url: https://mobiri.se
+      - listitem [ref=e27]:
+        - link "Careers" [ref=e28] [cursor=pointer]:
+          - /url: index.html#header16-1u
+  - link "bootstrap templates" [ref=e29] [cursor=pointer]:
+    - /url: https://mobirise.info/r
+  - link "LEARN MORE" [ref=e35] [cursor=pointer]:
+    - /url: https://mobiri.se
+  - figure [ref=e37]:
+    - img "Mobirise" [ref=e39]
+  - generic [ref=e43]:
+    - heading "Home > Introduction NIKAN F .M. ENGINEERING Co.Ltd" [level=1] [ref=e44]
+    - paragraph [ref=e45]: Introduction NIKAN F .M. ENGINEERING Co.Ltd NIKAN, using technical software and hardware facilities, works in the fields of designing and fabricating fuel tanks, and fire extinguishing and fuel carrying systems. It also designs, installs, implements, and provides support for water and waste water treatment systems. NIKAN also designs and fabricates desalination systems, makes and installs industrial equipment in the form of EPC, and participates in industrial projects as management consultant (MC). NIKAN constantly strives to satisfy its clients and ensure that its products are of the highest quality. With our attention to detail we have been able to successfully accomplish a wide variety of technically difficult MC and EPC projects.
+  - generic [ref=e274]:
+    - heading "About us > Certificate" [level=3] [ref=e275]
+    - heading "NIKAN F .M. ENGINEERING Co.Ltd" [level=4] [ref=e276]
+    - generic [ref=e277]:
+      - generic [ref=e279] [cursor=pointer]
+      - generic [ref=e281] [cursor=pointer]
+      - generic [ref=e283] [cursor=pointer]
+    - text:   
+```

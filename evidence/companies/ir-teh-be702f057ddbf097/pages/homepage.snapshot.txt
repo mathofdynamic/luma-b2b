@@ -1,0 +1,379 @@
+### Page
+- Page URL: https://bonakdari724.ir/
+- Page Title: فروش عمده مواد غذایی - عمده فروشی آنلاین مواد غذایی
+- Console: 1 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - link "Skip to navigation" [ref=e3] [cursor=pointer]:
+      - /url: "#menu-%d9%81%d9%87%d8%b1%d8%b3%d8%aa-%d8%a7%d8%b5%d9%84%db%8c"
+    - link "Skip to main content" [ref=e4] [cursor=pointer]:
+      - /url: "#main-content"
+  - generic [ref=e5]:
+    - banner [ref=e6]:
+      - generic [ref=e7]:
+        - generic [ref=e8]:   
+        - generic [ref=e14]:
+          - link "لوگو سایت" [ref=e17] [cursor=pointer]:
+            - /url: https://bonakdari724.ir/
+            - img "بنکداری آنلاین 724" [ref=e18]
+          - search [ref=e21]:
+            - textbox "جستجو" [ref=e22]:
+              - /placeholder: جستجوی محصولات
+            - text: 
+            - generic "انتخاب دسته بندی" [ref=e24] [cursor=pointer]: 
+            - button "جستجو " [ref=e26] [cursor=pointer]:
+              - generic: جستجو
+              - text: 
+          - generic [ref=e27]:
+            - generic [ref=e28]:
+              - link "" [ref=e29] [cursor=pointer]:
+                - /url: https://bonakdari724.ir/my-account/
+              - text: "* *"
+            - link " 0 ۰ تومان" [ref=e32] [cursor=pointer]:
+              - /url: https://bonakdari724.ir/cart/
+              - generic [ref=e33]:
+                - text: 
+                - generic [ref=e605]: "0"
+              - generic [ref=e35]: ۰ تومان
+          - text:  
+        - navigation "ناوبری اصلی" [ref=e43]:
+          - list [ref=e44]:
+            - listitem [ref=e45]:
+              - link "صفحه اصلی" [ref=e46] [cursor=pointer]:
+                - /url: https://bonakdari724.ir/
+            - listitem [ref=e48]:
+              - link "درباره بنکداری 724" [ref=e49] [cursor=pointer]:
+                - /url: https://bonakdari724.ir/about-us/
+            - listitem [ref=e51]:
+              - link "تماس با ما" [ref=e52] [cursor=pointer]:
+                - /url: https://bonakdari724.ir/contact-us/
+            - listitem [ref=e54]:
+              - link "قوانین و مقررات" [ref=e55] [cursor=pointer]:
+                - /url: https://bonakdari724.ir/terms-and-conditions/
+            - listitem [ref=e57]:
+              - link "سوالات متداول بنکداری 724" [ref=e58] [cursor=pointer]:
+                - /url: https://bonakdari724.ir/faq/
+            - listitem [ref=e60]:
+              - link "وبلاگ" [ref=e61] [cursor=pointer]:
+                - /url: https://bonakdari724.ir/blog/
+    - main [ref=e65]:
+      - generic [ref=e66]:
+        - img "نودل شفت هو" [ref=e73]
+        - generic [ref=e77]:
+          - heading "دسته بندی محصولات" [level=3] [ref=e80]
+          - generic [ref=e86]:
+            - generic [ref=e88]:
+              - link [ref=e91] [cursor=pointer]:
+                - /url: https://bonakdari724.ir/product-category/food/
+                - img "cereal" [ref=e92]
+              - generic [ref=e97]: کالاهای خواروبار
+            - generic [ref=e100]:
+              - link [ref=e103] [cursor=pointer]:
+                - /url: https://bonakdari724.ir/product-category/milk-and-dairy-products/
+                - img "dairy-products" [ref=e104]
+              - generic [ref=e105]: شیر و لبنیات
+            - generic [ref=e108]:
+              - link [ref=e111] [cursor=pointer]:
+                - /url: https://bonakdari724.ir/product-category/drink/
+                - img "soft-drink" [ref=e112]
+              - generic [ref=e113]: نوشیدنی ها
+            - generic [ref=e116]:
+              - link [ref=e119] [cursor=pointer]:
+                - /url: https://bonakdari724.ir/product-category/drink/juice-and-syrup/
+                - img "drink" [ref=e120]
+              - generic [ref=e121]: آب میوه و شربت
+            - generic [ref=e124]:
+              - link [ref=e127] [cursor=pointer]:
+                - /url: https://bonakdari724.ir/product-category/snacks/
+                - img "cashew" [ref=e128]
+              - generic [ref=e129]: تنقلات
+          - generic [ref=e132]:
+            - generic [ref=e134]:
+              - link [ref=e137] [cursor=pointer]:
+                - /url: https://bonakdari724.ir/product-category/chips-and-puffs/
+                - img "products" [ref=e138]
+              - generic [ref=e139]: چیپس و پفک
+            - generic [ref=e142]:
+              - link [ref=e145] [cursor=pointer]:
+                - /url: https://bonakdari724.ir/product-category/cakes-and-cookies/
+                - img "cupcake" [ref=e146]
+              - generic [ref=e147]: کیک و کلوچه
+            - generic [ref=e150]:
+              - link [ref=e153] [cursor=pointer]:
+                - /url: https://bonakdari724.ir/product-category/detergent-and-hygiene/
+                - img "basket" [ref=e154]
+              - generic [ref=e155]: شوینده و بهداشتی
+            - generic [ref=e158]:
+              - link [ref=e161] [cursor=pointer]:
+                - /url: https://bonakdari724.ir/product-category/consumer-goods/
+                - img "cup" [ref=e162]
+              - generic [ref=e163]: لوازم مصرفی
+            - generic [ref=e166]:
+              - link [ref=e169] [cursor=pointer]:
+                - /url: https://bonakdari724.ir/product-category/drink/energy-drink/
+                - img "energy-drink" [ref=e170]
+              - generic [ref=e171]: انرژی زا
+        - generic [ref=e173]: / / / / / / / / / / / / /
+        - text: / / / / / / / / /   / / / / / / / / /  
+        - generic [ref=e178]:
+          - link [ref=e183] [cursor=pointer]:
+            - /url: https://bonakdari724.ir/product-category/%d8%aa%d9%86%d9%82%d9%84%d8%a7%d8%aa/%d9%85%db%8c%d9%86%d9%88/
+            - img "ساقه طلایی" [ref=e184]
+          - link [ref=e189] [cursor=pointer]:
+            - /url: https://bonakdari724.ir/product-category/%d8%a2%d8%a8-%d9%85%db%8c%d9%88%d9%87-%d9%88-%d8%b4%d8%b1%d8%a8%d8%aa/%d8%b1%d8%a7%d9%86%db%8c/
+            - img "RaniFloat DublleChunk" [ref=e190]
+          - link [ref=e195] [cursor=pointer]:
+            - /url: https://bonakdari724.ir/product-category/%d8%a2%d8%a8-%d9%85%db%8c%d9%88%d9%87-%d9%88-%d8%b4%d8%b1%d8%a8%d8%aa/%d8%b3%d9%86-%d8%a7%db%8c%da%86/
+            - img "alifard about fa 2 ap" [ref=e196]
+          - link [ref=e201] [cursor=pointer]:
+            - /url: https://bonakdari724.ir/product-category/%d8%aa%d9%86%d9%82%d9%84%d8%a7%d8%aa/
+            - img "های_بای" [ref=e202]
+        - text: / / / / / / / / /   / / / / / / / / /  
+        - generic [ref=e210]:
+          - list [ref=e213]:
+            - listitem [ref=e214]:
+              - generic [ref=e215]: برندهای همکار
+          - region "اسلایدها" [ref=e219]:
+            - generic [ref=e220]:
+              - group "1 / 11" [ref=e221]:
+                - img "logo" [ref=e222]
+              - group "2 / 11" [ref=e223]:
+                - img "cheetoz-لوگو" [ref=e224]
+              - group "3 / 11" [ref=e225]:
+                - img "مزمز" [ref=e226]
+              - group "4 / 11" [ref=e227]:
+                - img "نوشابه زمزم" [ref=e228]
+              - group "5 / 11" [ref=e229]:
+                - img "کوکاکولا" [ref=e230]
+              - group "6 / 11" [ref=e231]:
+                - img "پچ پچ" [ref=e232]
+              - group "7 / 11" [ref=e233]:
+                - img "ایستیرم" [ref=e234]
+              - group "8 / 11" [ref=e235]:
+                - img "Albina-cake" [ref=e236]
+              - group "9 / 11" [ref=e237]:
+                - img "Ti-Top" [ref=e238]
+              - group "10 / 11" [ref=e239]:
+                - img "HiCake" [ref=e240]
+              - group "11 / 11" [ref=e241]:
+                - img "hi-bye-kake" [ref=e242]
+        - generic [ref=e250]:
+          - generic [ref=e251]: خواندنی ها
+          - generic [ref=e256]:
+            - article [ref=e257]:
+              - generic [ref=e258]:
+                - generic [ref=e259]:
+                  - img "irs01 s3old 10531456520617213923 1" [ref=e261]
+                  - link "لینک در نوشته رنگ خوراکی و مزایا و معایب آن" [ref=e262] [cursor=pointer]:
+                    - /url: https://bonakdari724.ir/nut-consumption-and-dental-health/
+                  - generic [ref=e263]:
+                    - generic [ref=e264]: "26"
+                    - generic [ref=e265]: آذر
+                - heading [level=3] [ref=e267]:
+                  - link "رنگ خوراکی و مزایا و معایب آن" [ref=e268] [cursor=pointer]:
+                    - /url: https://bonakdari724.ir/nut-consumption-and-dental-health/
+            - article [ref=e269]:
+              - generic [ref=e270]:
+                - generic [ref=e271]:
+                  - img "924858 459" [ref=e273]
+                  - link "لینک در نوشته کافئین چای ؟ خواص و مزایا کافئین" [ref=e274] [cursor=pointer]:
+                    - /url: https://bonakdari724.ir/how-to-store-frozen-products/
+                  - generic [ref=e275]:
+                    - generic [ref=e276]: "26"
+                    - generic [ref=e277]: آذر
+                - heading [level=3] [ref=e279]:
+                  - link "کافئین چای ؟ خواص و مزایا کافئین" [ref=e280] [cursor=pointer]:
+                    - /url: https://bonakdari724.ir/how-to-store-frozen-products/
+            - article [ref=e281]:
+              - generic [ref=e282]:
+                - generic [ref=e283]:
+                  - img "مانستر2" [ref=e285]
+                  - link "لینک در نوشته 0 تا 100 نوشابه های انرژی زا" [ref=e286] [cursor=pointer]:
+                    - /url: https://bonakdari724.ir/how-to-properly-cook-vegetables/
+                  - generic [ref=e287]:
+                    - generic [ref=e288]: "24"
+                    - generic [ref=e289]: آبان
+                - heading [level=3] [ref=e291]:
+                  - link "0 تا 100 نوشابه های انرژی زا" [ref=e292] [cursor=pointer]:
+                    - /url: https://bonakdari724.ir/how-to-properly-cook-vegetables/
+            - article [ref=e293]:
+              - generic [ref=e294]:
+                - generic [ref=e295]:
+                  - img "01" [ref=e297]
+                  - link "لینک در نوشته بهترین زمان مصرف شکلات تلخ" [ref=e298] [cursor=pointer]:
+                    - /url: https://bonakdari724.ir/the-best-detergent-brands/
+                  - generic [ref=e299]:
+                    - generic [ref=e300]: "01"
+                    - generic [ref=e301]: تیر
+                - heading [level=3] [ref=e303]:
+                  - link "بهترین زمان مصرف شکلات تلخ" [ref=e304] [cursor=pointer]:
+                    - /url: https://bonakdari724.ir/the-best-detergent-brands/
+    - contentinfo [ref=e305]:
+      - generic [ref=e309]:
+        - generic [ref=e313]:
+          - link [ref=e316] [cursor=pointer]:
+            - /url: https://bonakdari724.ir
+            - img "بنکداری آنلاین 724" [ref=e317]
+          - paragraph [ref=e320]:
+            - text: "تلفن پشتیبانی:"
+            - link "09304172572" [ref=e321] [cursor=pointer]:
+              - /url: http://09304172572
+            - text: "|"
+            - link "55664339-021" [ref=e322] [cursor=pointer]:
+              - /url: http://02155664339
+            - text: "| هفت روز هفته، ۲۴ ساعت شبانه‌روز پاسخگوی شما هستیم."
+        - generic [ref=e324]:
+          - generic [ref=e329]:
+            - img "truck" [ref=e332]
+            - heading "ارسال در شهر تهران" [level=3] [ref=e353]
+          - heading "۷ روز هفته، ۲۴ ساعته" [level=3] [ref=e371]
+          - generic [ref=e376]:
+            - img "telephone" [ref=e379]
+            - generic [ref=e385]:
+              - heading "سفارش تلفنی" [level=3] [ref=e386]
+              - paragraph [ref=e387]: "02155664339"
+          - heading "ضمانت اصل بودن کالا" [level=3] [ref=e404]
+        - generic [ref=e410]:
+          - generic [ref=e412]:
+            - generic [ref=e413]: دسترسی سریع
+            - list [ref=e417]:
+              - listitem [ref=e418]:
+                - link "صفحه اصلی" [ref=e419] [cursor=pointer]:
+                  - /url: https://bonakdari724.ir/woodmart_layout/single-page-product/
+                  - generic [ref=e420]: 
+              - listitem [ref=e423]:
+                - link "فروشگاه" [ref=e424] [cursor=pointer]:
+                  - /url: https://bonakdari724.ir/shop/
+                  - generic [ref=e425]: 
+              - listitem [ref=e428]:
+                - link "وبلاگ" [ref=e429] [cursor=pointer]:
+                  - /url: https://bonakdari724.ir/blog/
+                  - generic [ref=e430]: 
+              - listitem [ref=e433]:
+                - link "درباره ما" [ref=e434] [cursor=pointer]:
+                  - /url: https://bonakdari724.ir/about-us/
+                  - generic [ref=e435]: 
+              - listitem [ref=e438]:
+                - link "تماس با ما" [ref=e439] [cursor=pointer]:
+                  - /url: https://bonakdari724.ir/contact-us/
+                  - generic [ref=e440]: 
+              - listitem [ref=e443]:
+                - link "قوانین و مقررات" [ref=e444] [cursor=pointer]:
+                  - /url: https://bonakdari724.ir/terms-and-conditions/
+                  - generic [ref=e445]: 
+              - listitem [ref=e448]:
+                - generic [ref=e449]: 
+                - generic [ref=e451]: سوالات متداول
+          - generic [ref=e453]:
+            - generic [ref=e454]: دسته بندی محصولات
+            - list [ref=e458]:
+              - listitem [ref=e459]:
+                - link "کیک و کلوچه" [ref=e460] [cursor=pointer]:
+                  - /url: https://bonakdari724.ir/product-category/cakes-and-cookies/
+                  - generic [ref=e461]: 
+              - listitem [ref=e464]:
+                - link "آبمیوه و شربت" [ref=e465] [cursor=pointer]:
+                  - /url: https://bonakdari724.ir/terms-and-conditions/
+                  - generic [ref=e466]: 
+              - listitem [ref=e469]:
+                - link "تنقلات" [ref=e470] [cursor=pointer]:
+                  - /url: https://bonakdari724.ir/product-category/snacks/
+                  - generic [ref=e471]: 
+              - listitem [ref=e474]:
+                - link "چیپس و پفک" [ref=e475] [cursor=pointer]:
+                  - /url: https://bonakdari724.ir/product-category/chips-and-puffs/
+                  - generic [ref=e476]: 
+              - listitem [ref=e479]:
+                - link "چای و قهوه" [ref=e480] [cursor=pointer]:
+                  - /url: https://bonakdari724.ir/product-category/drink/tea-and-coffee/
+                  - generic [ref=e481]: 
+              - listitem [ref=e484]:
+                - link "انرژی زا" [ref=e485] [cursor=pointer]:
+                  - /url: https://bonakdari724.ir/product-category/drink/energy-drink/
+                  - generic [ref=e486]: 
+              - listitem [ref=e489]:
+                - link "شیر و لبنیات" [ref=e490] [cursor=pointer]:
+                  - /url: https://bonakdari724.ir/product-category/milk-and-dairy-products/
+                  - generic [ref=e491]: 
+              - listitem [ref=e494]:
+                - link "نوشابه و ماءالشعیر" [ref=e495] [cursor=pointer]:
+                  - /url: https://bonakdari724.ir/product-category/drink/
+                  - generic [ref=e496]: 
+          - generic [ref=e500]:
+            - generic [ref=e501]: اینجا رو اسکن کنید تا در اینستاگرام همراه ما باشید
+            - img "اینستاگرام بنکداری 724" [ref=e505]
+            - generic [ref=e506]: از جدیدترین تخفیف ها باخبر شوید
+            - form "footerform" [ref=e510]:
+              - generic [ref=e511]:
+                - textbox "فقط شماره ها و کاراکترهای تلفن (#, -, *, etc) پذیرفته می شوند." [ref=e513]:
+                  - /placeholder: شماره تماس خود را وارد کنید .
+                - button "ثبت" [ref=e515] [cursor=pointer]
+        - generic [ref=e519]:
+          - generic [ref=e521]:
+            - generic [ref=e522]: فروشگاه اینترنتی بنکداری 724 ، بررسی ، انتخاب و خرید آنلاین
+            - generic [ref=e525]:
+              - paragraph [ref=e526]: بنکداری آنلاین 724 یکی از معتبرترین مراکز عمده فروشی مواد غذایی در خیابان انبار نفت تهران است در حال فعالیت می باشد.
+              - paragraph [ref=e527]: که با سال‌ها تجربه، تمرکز خود را بر عرضه‌ی کالاهای باکیفیت، قیمت مناسب و خدمات حرفه‌ای گذاشته‌ایم.
+              - paragraph [ref=e528]: با بهره‌گیری از سامانه فروش آنلاین، توانسته‌ایم امکان خرید عمده مواد غذایی را برای تمام فروشگاه‌داران، رستوران‌ها و خریداران
+              - paragraph [ref=e529]: و حتی خانوارهای ساکن شهر تهران را آسان کنیم.
+              - paragraph [ref=e530]: پخش عمده مواد غذایی با تنوع بالا، برندهای معتبر و ارسال سریع در تهران از جمله خدمات اصلی ماست.
+          - link [ref=e543] [cursor=pointer]:
+            - /url: https://trustseal.enamad.ir/?id=462830&Code=8JtA1bqOaKipTk6J3fN7ovMU8zuwHewn
+      - paragraph [ref=e554]: کلیه حقوق این سایت متعلق به بنکداری 724 می باشد .
+  - link "دکمه اسکرول به بالا":
+    - /url: "#"
+    - text: 
+  - navigation "ناوبری موبایل" [ref=e557]:
+    - search [ref=e559]:
+      - textbox "جستجو" [ref=e560]:
+        - /placeholder: جستجوی محصولات
+      - text: 
+      - button "جستجو " [ref=e561] [cursor=pointer]:
+        - generic: جستجو
+        - text: 
+    - list [ref=e562]:
+      - listitem [ref=e563]:
+        - link "منو" [ref=e564] [cursor=pointer]:
+          - /url: "#"
+      - listitem [ref=e566]:
+        - link "دسته بندی‌ها" [ref=e567] [cursor=pointer]:
+          - /url: "#"
+    - generic [ref=e569]: منوی دسته‌های خود را در هدرساز -> موبایل -> منوی اصلی موبایل -> نمایش/مخفی -> انتخاب منو، تنظیم کنید
+    - list [ref=e570]:
+      - listitem [ref=e571]:
+        - link "صفحه اصلی" [ref=e572] [cursor=pointer]:
+          - /url: https://bonakdari724.ir/
+      - listitem [ref=e574]:
+        - link "وبلاگ" [ref=e575] [cursor=pointer]:
+          - /url: https://bonakdari724.ir/blog/
+      - listitem [ref=e577]:
+        - link "درباره بنکداری 724" [ref=e578] [cursor=pointer]:
+          - /url: https://bonakdari724.ir/about-us/
+      - listitem [ref=e580]:
+        - link "تماس با ما" [ref=e581] [cursor=pointer]:
+          - /url: https://bonakdari724.ir/contact-us/
+      - listitem [ref=e583]:
+        - link "سوالات متداول بنکداری 724" [ref=e584] [cursor=pointer]:
+          - /url: https://bonakdari724.ir/faq/
+      - listitem [ref=e586]:
+        - link "قوانین و مقررات" [ref=e587] [cursor=pointer]:
+          - /url: https://bonakdari724.ir/terms-and-conditions/
+      - listitem [ref=e589]:
+        - link "حساب کاربری من" [ref=e590] [cursor=pointer]:
+          - /url: https://bonakdari724.ir/my-account/
+      - listitem [ref=e592]:
+        - link " ورود / ثبت نام" [ref=e593] [cursor=pointer]:
+          - /url: https://bonakdari724.ir/my-account/
+  - complementary "Shopping cart sidebar" [ref=e594]:
+    - generic [ref=e595]:
+      - generic [ref=e596]: سبد خرید
+      - link " بستن" [ref=e598] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e599]: 
+        - generic [ref=e600]: بستن
+    - generic [ref=e601]: هیچ محصولی در سبدخرید نیست.
+  - text:   
+  - generic [ref=e603]: desktop
+```

@@ -1,0 +1,643 @@
+### Page
+- Page URL: https://tipaxco.com/
+- Page Title: تیپاکس | اولین پست خصوصی ایران با 66 سال سابقه
+- Console: 1 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - generic:
+      - generic:
+        - banner:
+          - generic [ref=e5]:
+            - generic [ref=e6]:
+              - generic [ref=e7] [cursor=pointer]
+              - link [ref=e11] [cursor=pointer]:
+                - /url: /
+                - img "Tipax Logo" [ref=e12]
+            - generic [ref=e13]:
+              - link "ورود | ثبت‌نام" [ref=e15] [cursor=pointer]:
+                - /url: /login
+              - link "EN" [ref=e18] [cursor=pointer]:
+                - /url: /EN
+              - link [ref=e20] [cursor=pointer]:
+                - /url: tel:0218457
+              - img [ref=e27] [cursor=pointer]
+    - generic [ref=e33]:
+      - generic [ref=e37]:
+        - list [ref=e38]:
+          - listitem [ref=e39] [cursor=pointer]
+          - listitem [ref=e40] [cursor=pointer]
+          - listitem [ref=e41] [cursor=pointer]
+          - listitem [ref=e42] [cursor=pointer]
+          - listitem [ref=e43] [cursor=pointer]
+          - listitem [ref=e44] [cursor=pointer]
+          - listitem [ref=e45] [cursor=pointer]
+        - generic [ref=e49]:
+          - img "ارسال‌های به‌صرفه تیپاکس" [ref=e51]
+          - link "ارسال‌های به‌صرفه تیپاکس 1405" [ref=e53] [cursor=pointer]:
+            - /url: https://tipaxco.com/discount
+        - link "Previous" [ref=e54] [cursor=pointer]:
+          - /url: "#simpleCarousel1525"
+        - link "Next" [ref=e57] [cursor=pointer]:
+          - /url: "#simpleCarousel1525"
+      - generic [ref=e70]:
+        - generic [ref=e71]:
+          - img "تیپاکس" [ref=e75] [cursor=pointer]
+          - generic [ref=e76]: تیپاکس
+        - generic [ref=e77]:
+          - img "ویژه کسب‌وکارها" [ref=e81] [cursor=pointer]
+          - generic [ref=e82]: ویژه کسب‌وکارها
+        - generic [ref=e83]:
+          - img "جذب نمایندگی" [ref=e87] [cursor=pointer]
+          - generic [ref=e88]: جذب نمایندگی
+        - generic [ref=e89]:
+          - img "روایت‌های کوتاه" [ref=e93] [cursor=pointer]
+          - generic [ref=e94]: روایت‌های کوتاه
+      - generic [ref=e101]:
+        - heading "تیپاکس" [level=1] [ref=e103]
+        - generic [ref=e104]:
+          - link "ارسال بسته ارسال بسته" [ref=e105] [cursor=pointer]:
+            - /url: /sending-parcel
+            - generic [ref=e106]:
+              - img "ارسال بسته" [ref=e107]
+              - generic [ref=e108]: ارسال بسته
+          - generic [ref=e110] [cursor=pointer]:
+            - img "برآورد قیمت ارسال مرسوله پستی" [ref=e111]
+            - generic [ref=e112]: برآورد قیمت
+          - generic [ref=e114] [cursor=pointer]:
+            - img "برآورد زمان ارسال مرسوله پستی" [ref=e115]
+            - link "برآورد زمان" [ref=e116]:
+              - /url: /transit-time-calculator
+          - generic [ref=e118] [cursor=pointer]:
+            - img "رهگیری مرسوله پستی" [ref=e119]
+            - generic [ref=e120]: رهگیری
+          - generic [ref=e122] [cursor=pointer]:
+            - img "نمایندگی‌ها" [ref=e123]
+            - link "نمایندگی‌ها" [ref=e124]:
+              - /url: /branches/standardpoint
+          - generic [ref=e126] [cursor=pointer]:
+            - img "جبران خسارت" [ref=e127]
+            - link "جبران خسارت" [ref=e128]:
+              - /url: /value-added-services/compensation
+          - generic [ref=e130] [cursor=pointer]:
+            - img "ارسال کالا" [ref=e131]
+            - generic [ref=e132]: ارسال کالا
+      - generic [ref=e140]:
+        - heading "روش‌های ثبت سفارش" [level=2] [ref=e142]
+        - generic [ref=e143]:
+          - generic [ref=e145]:
+            - generic [ref=e147]:
+              - img "ثبت در مای تیپاکس" [ref=e148]
+              - paragraph [ref=e149]: مای‌تیپاکس
+            - paragraph [ref=e151]:
+              - text: امکان ثبت سفارش از طریق
+              - link "اپلیکیشن" [ref=e152] [cursor=pointer]:
+                - /url: https://tipaxco.com/mytipax
+              - text: و
+              - link "وب‌سایت مای‌تیپاکس" [ref=e153] [cursor=pointer]:
+                - /url: https://mytipax.tipaxco.com/
+          - generic [ref=e155]:
+            - generic [ref=e157]:
+              - img "ثبت در مای تیپاکس" [ref=e158]
+              - paragraph [ref=e159]: تماس با دفتر مرکزی
+            - paragraph [ref=e161]:
+              - text: امکان ثبت سفارش از طریق تماس با شماره
+              - link "0218457" [ref=e162] [cursor=pointer]:
+                - /url: tel:0218457
+          - generic [ref=e164]:
+            - generic [ref=e166]:
+              - img "تماس با نمایندگی ها" [ref=e167]
+              - paragraph [ref=e168]: تماس با نمایندگی‌ها
+            - paragraph [ref=e170]:
+              - text: امکان ثبت سفارش از طریق تماس با
+              - link "نمایندگی‌ها" [ref=e171] [cursor=pointer]:
+                - /url: https://tipaxco.com/branches/standardpoint
+              - text: در سراسر کشور
+          - generic [ref=e173]:
+            - generic [ref=e175]:
+              - img "مراجعه حضوری به نمایندگی" [ref=e176]
+              - paragraph [ref=e177]: مراجعه حضوری
+            - paragraph [ref=e179]:
+              - text: امکان ثبت سفارش از طریق مراجعه حضوری به
+              - link "بیش از 1300 نمایندگی" [ref=e180] [cursor=pointer]:
+                - /url: https://tipaxco.com/branches/standardpoint
+              - text: در سراسر کشور
+      - generic [ref=e183]:
+        - heading "رهگیری بسته" [level=2] [ref=e185]
+        - generic [ref=e192]:
+          - table [ref=e194]:
+            - rowgroup [ref=e195]:
+              - row [ref=e196]:
+                - cell "شماره سفارش" [ref=e197]:
+                  - radio "شماره سفارش" [ref=e198]
+              - row [ref=e200]:
+                - cell "شماره قرارداد" [ref=e201]:
+                  - radio "شماره قرارداد" [checked] [ref=e202]
+              - row [ref=e204]:
+                - cell "بارکد" [ref=e205]:
+                  - radio "بارکد" [ref=e206]
+          - generic [ref=e209]:
+            - text: شماره رهگیری خود را وارد نمائید | آیا برای رهگیری به راهنمایی نیاز دارید
+            - generic [ref=e210]: "?"
+          - textbox "کد رهگیری خود را وارد کنید" [ref=e214]
+          - link "رهگیری" [ref=e216] [cursor=pointer]:
+            - /url: javascript:__doPostBack('ctl16$ctl27$ctl01$Tracking2969$_btnTracking','')
+      - generic [ref=e218]:
+        - heading "برآورد قیمت ارسال بسته" [level=2] [ref=e220]
+        - generic [ref=e224]:
+          - generic:
+            - generic [ref=e225]:
+              - generic [ref=e226]: "مبدا:"
+              - generic [ref=e228]:
+                - table "combobox" [ref=e230]:
+                  - rowgroup [ref=e231]:
+                    - row [ref=e232]:
+                      - cell [ref=e233]:
+                        - textbox [ref=e234]: انتخاب کنید
+                      - cell "select" [ref=e235]
+                - generic [ref=e237]: شهر
+              - generic [ref=e238]: "مقصد:"
+              - generic [ref=e240]:
+                - table "combobox" [ref=e242]:
+                  - rowgroup [ref=e243]:
+                    - row [ref=e244]:
+                      - cell [ref=e245]:
+                        - textbox [ref=e246]: انتخاب کنید
+                      - cell "select" [ref=e247]
+                - generic [ref=e249]: شهر
+            - generic [ref=e250]:
+              - table:
+                - rowgroup
+            - generic [ref=e251]:
+              - generic [ref=e252]: "نوع:"
+              - generic [ref=e255]:
+                - table [ref=e257]:
+                  - rowgroup [ref=e258]:
+                    - row [ref=e259]:
+                      - cell "پاکت" [ref=e260]:
+                        - radio "پاکت" [ref=e261]
+                      - cell "مینی‌پک" [ref=e263]:
+                        - radio "مینی‌پک" [ref=e264]
+                      - cell "بسته" [ref=e266]:
+                        - radio "بسته" [checked] [ref=e267]
+                - generic [ref=e269]: "?"
+              - generic [ref=e273]:
+                - generic [ref=e274]: "وزن:"
+                - generic [ref=e277]:
+                  - textbox "وزن:" [ref=e278]
+                  - generic [ref=e279]: کیلوگرم
+              - generic [ref=e280]:
+                - generic [ref=e281]: "ارزش:"
+                - generic [ref=e284]:
+                  - textbox "ارزش:" [ref=e285]
+                  - generic [ref=e286]:
+                    - text: ریال
+                    - generic [ref=e287]: "?"
+            - generic [ref=e290]:
+              - generic [ref=e291]: "بسته بندی:"
+              - table [ref=e295]:
+                - rowgroup [ref=e296]:
+                  - row [ref=e297]:
+                    - cell "می‌خواهم" [ref=e298]:
+                      - radio "می‌خواهم" [ref=e299]
+                    - cell "نمی‌خواهم" [ref=e301]:
+                      - radio "نمی‌خواهم" [checked] [ref=e302]
+              - generic [ref=e304]: "نوع بسته بندی:"
+              - table "combobox" [ref=e308]:
+                - rowgroup [ref=e309]:
+                  - row [ref=e310]:
+                    - cell [ref=e311]:
+                      - textbox [disabled] [ref=e312]: انتخاب کنید
+                    - cell "select" [ref=e313]
+            - generic [ref=e315]:
+              - generic [ref=e316]: "طول:"
+              - generic [ref=e319]:
+                - textbox "طول:" [ref=e320]
+                - generic [ref=e321]: CM
+              - generic [ref=e322]: "عرض :"
+              - generic [ref=e325]:
+                - textbox "عرض :" [ref=e326]
+                - generic [ref=e327]: CM
+              - generic [ref=e328]: "ارتفاع :"
+              - generic [ref=e331]:
+                - textbox "ارتفاع :" [ref=e332]
+                - generic [ref=e333]: CM
+            - link "ثبت بسته" [ref=e336] [cursor=pointer]:
+              - /url: javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl16$ctl30$ctl01$Estimate1643$_lbAddNewPackage", "", true, "vgAddPackage44a84b96", "", false, true))
+            - generic [ref=e337]:
+              - generic [ref=e338]: "نوع پرداخت:"
+              - table "combobox" [ref=e342]:
+                - rowgroup [ref=e343]:
+                  - row [ref=e344]:
+                    - cell [ref=e345]:
+                      - textbox [ref=e346]: انتخاب کنید
+                    - cell "select" [ref=e347]
+              - generic [ref=e349]: "نوع جمع آوری:"
+              - table "combobox" [ref=e353]:
+                - rowgroup [ref=e354]:
+                  - row [ref=e355]:
+                    - cell [ref=e356]:
+                      - textbox [ref=e357]: انتخاب کنید
+                    - cell "select" [ref=e358]
+            - link "برآورد قیمت و زمان حمل" [ref=e362] [cursor=pointer]:
+              - /url: javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl16$ctl30$ctl01$Estimate1643$_btnGetPrice", "", true, "vgGetPrice44a84b96", "", false, true))
+      - generic [ref=e370]:
+        - heading "ارسال کالا" [level=2] [ref=e373]
+        - generic [ref=e374]:
+          - generic [ref=e375]:
+            - paragraph [ref=e377]: ارسال کالا به‌کمک پلتفرم ای‌تیپاکس، موجب آسان شدن فرایند لجستیک برای فروشگاه‌های اینترنتی می‌شود. همچنین شما می‌توانید به کمک وب‌سرویس یا نصب افزونه‌ی وردپرس، امکان یکپارچه‌سازی وب‌سایت خود را با پلتفرم ای‌تیپاکس فراهم کنید.
+            - generic [ref=e378]:
+              - paragraph [ref=e387]: پنل مدیریت مالی
+              - paragraph [ref=e394]: محاسبه قیمت و زمان
+              - paragraph [ref=e403]: مدیریت سفارشات
+              - paragraph [ref=e409]: رهگیری آنلاین
+              - link [ref=e410] [cursor=pointer]:
+                - /url: /etipax
+                - paragraph [ref=e411]: اطلاعات بیشتر در مورد ای‌تیپاکس
+          - generic [ref=e417]: "Default preview for : Video"
+      - generic [ref=e425]:
+        - heading "خدمات پستی" [level=2] [ref=e427]
+        - generic [ref=e430]:
+          - generic [ref=e431]:
+            - img "ارسال درون شهری" [ref=e433]
+            - generic [ref=e434]:
+              - link [ref=e435] [cursor=pointer]:
+                - /url: /services/domestic-express
+                - heading "ارسال درون‌شهری" [level=3] [ref=e436]
+              - paragraph [ref=e437]: ارسال 1 روزه
+          - generic [ref=e438]:
+            - img "ارسال بین شهری" [ref=e440]
+            - generic [ref=e441]:
+              - link [ref=e442] [cursor=pointer]:
+                - /url: /services/intercity
+                - heading "ارسال بین‌شهری" [level=3] [ref=e443]
+              - paragraph [ref=e444]: ارسال پلاک به پلاک
+          - generic [ref=e445]:
+            - img "لاکر هوشمند" [ref=e447]
+            - generic [ref=e448]:
+              - link [ref=e449] [cursor=pointer]:
+                - /url: /smartlocker
+                - heading "لاکر هوشمند" [level=3] [ref=e450]
+              - paragraph [ref=e451]: امن و راحت
+          - generic [ref=e452]:
+            - img "ارسال همان‌روز" [ref=e454]
+            - generic [ref=e455]:
+              - link [ref=e456] [cursor=pointer]:
+                - /url: /services/same-day
+                - heading "ارسال همان‌روز" [level=3] [ref=e457]
+              - paragraph [ref=e458]: امروز بسته‌تو تحویل بگیر
+          - generic [ref=e459]:
+            - img "ارسال بار" [ref=e461]
+            - generic [ref=e462]:
+              - link [ref=e463] [cursor=pointer]:
+                - /url: /services/box-line
+                - heading "باکس‌لاین" [level=3] [ref=e464]
+              - paragraph [ref=e465]: اندازه‌ی نیازت جا هست
+          - generic [ref=e466]:
+            - img "لجستیک معکوس" [ref=e468]
+            - generic [ref=e469]:
+              - link [ref=e470] [cursor=pointer]:
+                - /url: /services/reverse-logistics
+                - heading "لجستیک معکوس" [level=3] [ref=e471]
+              - paragraph [ref=e472]: ارسال‌های مرجوعی کسب‌وکارت با ما
+          - generic [ref=e473]:
+            - img "پس کرایه" [ref=e475]
+            - generic [ref=e476]:
+              - link [ref=e477] [cursor=pointer]:
+                - /url: /value-added-services/postpaid
+                - heading "پس‌کرایه" [level=3] [ref=e478]
+              - paragraph [ref=e479]: پرداخت هزینه ارسال هنگام تحویل
+          - generic [ref=e480]:
+            - img "پرداخت در محل" [ref=e482]
+            - generic [ref=e483]:
+              - link [ref=e484] [cursor=pointer]:
+                - /url: /value-added-services/payexpress
+                - heading "پرداخت در محل" [level=3] [ref=e485]
+              - paragraph [ref=e486]: پرداخت هزینه کالا هنگام تحویل
+          - generic [ref=e487]:
+            - img "لینک پرداخت آنلاین" [ref=e489]
+            - generic [ref=e490]:
+              - link [ref=e491] [cursor=pointer]:
+                - /url: /value-added-services/paymentlink
+                - heading "لینک پرداخت آنلاین" [level=3] [ref=e492]
+              - paragraph [ref=e493]: آنلاین پرداخت کنید
+          - generic [ref=e494]:
+            - img "بسته بندی" [ref=e496]
+            - generic [ref=e497]:
+              - link [ref=e498] [cursor=pointer]:
+                - /url: /value-added-services/packingexpress
+                - heading "بسته‌بندی" [level=3] [ref=e499]
+              - paragraph [ref=e500]: برای هر اندازه‌ای
+          - generic [ref=e501]:
+            - img "جبران خسارت" [ref=e503]
+            - generic [ref=e504]:
+              - link [ref=e505] [cursor=pointer]:
+                - /url: /value-added-services/compensation
+                - heading "جبران خسارت" [level=3] [ref=e506]
+              - paragraph [ref=e507]: خیالتان راحت
+          - generic [ref=e508]:
+            - img "خدمات آنلاین ای‌تیپاکس" [ref=e510]
+            - generic [ref=e511]:
+              - link [ref=e512] [cursor=pointer]:
+                - /url: /etipax
+                - heading "ای‌تیپاکس" [level=3] [ref=e513]
+              - paragraph [ref=e514]: ارسال حرفه‌ای، برای هر حرفه‌ای
+      - generic [ref=e523]:
+        - heading "مای‌تیپاکس، اپلیکیشن تخصصی جابه‌جایی بسته" [level=2] [ref=e525]
+        - generic [ref=e526]:
+          - img "بسته" [ref=e527]
+          - img "بسته" [ref=e528]
+          - img "بسته" [ref=e529]
+          - img "بسته" [ref=e530]
+        - generic [ref=e531]:
+          - img "گوشی هوشمند" [ref=e532]
+          - generic [ref=e533]:
+            - img "لوگو مای تیپاکس" [ref=e534]
+            - generic [ref=e535]: دانلود مای تیپاکس
+        - generic [ref=e539]:
+          - link [ref=e540] [cursor=pointer]:
+            - /url: https://play.google.com/store/apps/details?id=ir.tipax.mytipax
+            - img "دانلود مای تیپاکس از گوگل پلی" [ref=e541]
+          - link [ref=e542] [cursor=pointer]:
+            - /url: https://cafebazaar.ir/app/ir.tipax.mytipax
+            - img "دانلود مای تیپاکس از کافه بازار" [ref=e543]
+          - link [ref=e544] [cursor=pointer]:
+            - /url: https://mytipax.tipaxco.com/?utm_source=tipax&utm_medium=referral&utm_campaign=homepage
+            - img "وب اپلیکیشن مای تیپاکس" [ref=e545]
+      - generic [ref=e553]:
+        - heading "سفر بسته" [level=2] [ref=e555]
+        - generic [ref=e557]:
+          - generic [ref=e558]:
+            - heading "ثبت سفارش:" [level=3] [ref=e559]
+            - paragraph [ref=e561]: ابتدا از طریق یکی از روش‌های ثبت درخواست، سفارش ارسال بسته خود را ثبت کنید
+          - generic [ref=e562]:
+            - heading "جمع‌آوری:" [level=3] [ref=e563]
+            - paragraph [ref=e565]: بعد از تایید سفارش، مرحله جمع‌آوری در پلاک مبدا شروع می‌شود
+          - generic [ref=e566]:
+            - heading "پردازش و ارسال:" [level=3] [ref=e567]
+            - paragraph [ref=e569]: بسته‌ شما در هاب‌های مکانیزه پردازش می‌شود و سپس به‌صورت زمینی یا هوایی ارسال خواهد شد
+          - generic [ref=e570]:
+            - heading "تحویل:" [level=3] [ref=e571]
+            - paragraph [ref=e573]: بسته در پلاک مقصد، لاکر هوشمند یا نمایندگی، تحویل گیرنده خواهد شد
+      - generic [ref=e580]:
+        - generic [ref=e581]: زمان تقریبی ارسال بسته پستی
+        - generic [ref=e582]:
+          - generic [ref=e583]:
+            - generic [ref=e584]:
+              - text: درون شهری
+              - paragraph [ref=e585]: 1 روزی کاری
+            - generic [ref=e586]:
+              - paragraph [ref=e587]: در تهران
+              - paragraph [ref=e588]: بسته تا 100 کیلوگرم
+            - paragraph [ref=e590]: هزینه ارسال
+          - generic [ref=e591]:
+            - generic [ref=e592]:
+              - text: درون شهری
+              - paragraph [ref=e593]: 1 روز کاری
+            - generic [ref=e594]:
+              - paragraph [ref=e595]: در مشهد
+              - paragraph [ref=e596]: بسته تا 100 کیلوگرم
+            - paragraph [ref=e598]: هزینه ارسال
+          - generic [ref=e599]:
+            - generic [ref=e600]:
+              - text: درون شهری
+              - paragraph [ref=e601]: 1 روز کاری
+            - generic [ref=e602]:
+              - paragraph [ref=e603]: در اصفهان
+              - paragraph [ref=e604]: بسته تا 100 کیلوگرم
+            - paragraph [ref=e606]: هزینه ارسال
+          - generic [ref=e607]:
+            - generic [ref=e608]:
+              - text: بین شهری
+              - paragraph [ref=e609]: 2 روز کاری
+            - generic [ref=e610]:
+              - paragraph [ref=e611]: از تهران به مشهد
+              - paragraph [ref=e612]: بسته تا 100 کیلوگرم
+            - paragraph [ref=e614]: هزینه ارسال
+          - generic [ref=e615]:
+            - generic [ref=e616]:
+              - text: بین شهری
+              - paragraph [ref=e617]: 1 روز کاری
+            - generic [ref=e618]:
+              - paragraph [ref=e619]: از تهران به اصفهان
+              - paragraph [ref=e620]: بسته تا 100 کیلوگرم
+            - paragraph [ref=e622]: هزینه ارسال
+          - generic [ref=e623]:
+            - generic [ref=e624]:
+              - text: اکسپرس ویژه
+              - paragraph [ref=e625]: 1 روز کاری
+            - generic [ref=e626]:
+              - paragraph [ref=e627]: از تهران به کیش
+              - paragraph [ref=e628]: بسته تا 30 کیلوگرم
+            - paragraph [ref=e630]: هزینه ارسال
+          - generic [ref=e631]:
+            - link "محاسبه هزینه ارسال" [ref=e633] [cursor=pointer]:
+              - /url: /transit-cost-calculator
+            - link "محاسبه زمان ارسال" [ref=e635] [cursor=pointer]:
+              - /url: /transit-time-calculator
+          - link:
+            - /url: /transit-cost-calculator
+      - generic [ref=e643]:
+        - generic [ref=e644]:
+          - generic [ref=e645]: تیپاکس در یک نگاه
+          - generic [ref=e646]: تیپاکس اولین پست خصوصی ایران با 66 سال تجربه
+          - generic [ref=e647]:
+            - generic [ref=e648] [cursor=pointer]: ثبت سفارش
+            - link "درخواست نمایندگی" [ref=e649] [cursor=pointer]:
+              - /url: /tipaxisho
+        - generic [ref=e650]:
+          - generic [ref=e652]:
+            - generic [ref=e653]: "+1300"
+            - generic [ref=e654]: نمایندگی
+          - generic [ref=e656]:
+            - generic [ref=e657]: "+3500"
+            - generic [ref=e658]: حامل
+          - generic [ref=e660]:
+            - generic [ref=e661]: "+220000"
+            - generic [ref=e662]: ارسال بسته در روز
+          - generic [ref=e664]:
+            - generic [ref=e665]: "+15000000"
+            - generic [ref=e666]: مشتری
+      - generic [ref=e673]:
+        - generic [ref=e674]: با تیپاکس
+        - generic [ref=e677]:
+          - generic [ref=e678]:
+            - img "اخبار تیپاکس"
+            - link "اخبار" [ref=e679] [cursor=pointer]:
+              - /url: /news
+          - generic [ref=e680]:
+            - img "فصلنامه"
+            - link "فصلنامه" [ref=e681] [cursor=pointer]:
+              - /url: /articles
+          - generic [ref=e682]:
+            - img "بلاگ تیپاکس"
+            - link "تی‌مگ" [ref=e683] [cursor=pointer]:
+              - /url: /blog
+          - generic [ref=e684]:
+            - img "درباره ما"
+            - link "درباره تیپاکس" [ref=e685] [cursor=pointer]:
+              - /url: /abouttipax
+      - generic [ref=e688]:
+        - generic [ref=e689]: آخرین‌های تی‌مگ
+        - link [ref=e692] [cursor=pointer]:
+          - /url: https://tipaxco.com/blog/post-shipping-cost
+          - article [ref=e693]:
+            - img "لجستیک و حمل‎‌و‎نقل-هزینه ارسال پستی چقدر است؟ نرخنامه و تعرفه 1405" [ref=e694]
+            - heading "هزینه ارسال پستی چقدر است؟ نرخنامه و تعرفه 1405" [level=2] [ref=e695]
+        - link [ref=e697] [cursor=pointer]:
+          - /url: https://tipaxco.com/blog/what-is-delivery-exception
+          - article [ref=e698]:
+            - img "لجستیک و حمل‎‌و‎نقل-استثنای تحویل چیست؟ دلایل و راهکارهای رفع وقفه در ارسال بسته‌ها" [ref=e699]
+            - heading "استثنای تحویل چیست؟ دلایل و راهکارهای رفع وقفه در ارسال بسته‌ها" [level=2] [ref=e700]
+        - link [ref=e702] [cursor=pointer]:
+          - /url: https://tipaxco.com/blog/perishable-goods-food-shipping-guide
+          - article [ref=e703]:
+            - img "لجستیک و حمل‎‌و‎نقل-روش ارسال مرسولات فاسدشدنی و مواد غذایی و نکات مهم آن" [ref=e704]
+            - heading "روش ارسال مرسولات فاسدشدنی و مواد غذایی و نکات مهم آن" [level=2] [ref=e705]
+        - link [ref=e707] [cursor=pointer]:
+          - /url: https://tipaxco.com/blog/what-is-postage-due
+          - article [ref=e708]:
+            - img "لجستیک و حمل‎‌و‎نقل-پس کرایه چیست؟ چه تفاوتی با پرداخت در محل دارد؟" [ref=e709]
+            - heading "پس کرایه چیست؟ چه تفاوتی با پرداخت در محل دارد؟" [level=2] [ref=e710]
+    - generic [ref=e723]:
+      - heading "سوالات متداول" [level=2] [ref=e725]
+      - generic [ref=e736]:
+        - heading [level=4] [ref=e738]:
+          - link "ساعت کاری نمایندگی های تیپاکس چگونه است؟" [ref=e739] [cursor=pointer]:
+            - /url: "#faq_id7205"
+        - separator [ref=e740]
+        - heading [level=4] [ref=e742]:
+          - link "آیا برای ارسال بسته با تیپاکس داشتن کد پستی گیرنده الزامی است؟" [ref=e743] [cursor=pointer]:
+            - /url: "#faq_id7206"
+        - separator [ref=e744]
+        - heading [level=4] [ref=e746]:
+          - link "چگونه می توان هزینه پستی را قبل از ارسال بسته محاسبه نمود؟" [ref=e747] [cursor=pointer]:
+            - /url: "#faq_id7207"
+        - separator [ref=e748]
+        - heading [level=4] [ref=e750]:
+          - link "آیا می شود بسته را در محلی غیر از آدرس مقصد دریافت کرد؟" [ref=e751] [cursor=pointer]:
+            - /url: "#faq_id7208"
+        - separator [ref=e752]
+        - heading [level=4] [ref=e754]:
+          - link "مدت زمان رسیدن بسته با تیپاکس چقدر است؟" [ref=e755] [cursor=pointer]:
+            - /url: "#faq_id7209"
+        - separator [ref=e756]
+        - heading [level=4] [ref=e758]:
+          - link "چگونه بسته ارسال شده‌ام را رهگیری کنم؟" [ref=e759] [cursor=pointer]:
+            - /url: "#faq_id7210"
+        - separator [ref=e760]
+    - contentinfo [ref=e773]:
+      - generic [ref=e775]:
+        - generic [ref=e777]:
+          - link "خدمات مشتریان" [ref=e778] [cursor=pointer]:
+            - /url: https://tipaxco.com/contactus
+          - text: ": 8457 - 021"
+        - list [ref=e780]:
+          - listitem [ref=e781]:
+            - img "accounts" [ref=e782]
+          - listitem [ref=e783]:
+            - link [ref=e784] [cursor=pointer]:
+              - /url: https://www.aparat.com/tipaxco
+          - listitem [ref=e794]:
+            - link [ref=e795] [cursor=pointer]:
+              - /url: https://t.me/Tipaxco
+          - listitem [ref=e800]:
+            - link [ref=e801] [cursor=pointer]:
+              - /url: https://twitter.com/tipaxco?lang=en
+          - listitem [ref=e806]:
+            - link [ref=e807] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/tipaxco/
+          - listitem [ref=e812]:
+            - link [ref=e813] [cursor=pointer]:
+              - /url: https://www.instagram.com/tipaxco/
+      - generic [ref=e817]:
+        - generic [ref=e818]:
+          - generic [ref=e827]:
+            - generic [ref=e828]:
+              - paragraph [ref=e829]: تیپاکس
+              - list [ref=e830]:
+                - listitem [ref=e831]:
+                  - link "درباره ما" [ref=e832] [cursor=pointer]:
+                    - /url: /abouttipax
+                - listitem [ref=e833]:
+                  - link "تماس با ما" [ref=e834] [cursor=pointer]:
+                    - /url: /contactus
+                - listitem [ref=e835]:
+                  - link "سوالات متداول" [ref=e836] [cursor=pointer]:
+                    - /url: /customersupport#faq
+                - listitem [ref=e837]:
+                  - link "قوانین و مقررات" [ref=e838] [cursor=pointer]:
+                    - /url: /rules
+                - listitem [ref=e839]:
+                  - link "ممنوعات ارسال" [ref=e840] [cursor=pointer]:
+                    - /url: /forbidden
+                - listitem [ref=e841]:
+                  - link "حریم خصوصی" [ref=e842] [cursor=pointer]:
+                    - /url: /privacy
+            - generic [ref=e843]:
+              - paragraph [ref=e844]: دسترسی سریع
+              - list [ref=e845]:
+                - listitem [ref=e846]:
+                  - link "رهگیری بسته" [ref=e847] [cursor=pointer]:
+                    - /url: /tracking
+                - listitem [ref=e848]:
+                  - link "برآورد زمان ارسال" [ref=e849] [cursor=pointer]:
+                    - /url: /transit-time-calculator
+                - listitem [ref=e850]:
+                  - link "نمایندگی‌ها" [ref=e851] [cursor=pointer]:
+                    - /url: /branches/standardpoint
+                - listitem [ref=e852]:
+                  - link "ارسال بسته" [ref=e853] [cursor=pointer]:
+                    - /url: /sending-parcel
+                - listitem [ref=e854]:
+                  - link "ارسال بسته به شهرستان" [ref=e855] [cursor=pointer]:
+                    - /url: /services/intercity
+                - listitem [ref=e856]:
+                  - link "هزینه ارسال پستی" [ref=e857] [cursor=pointer]:
+                    - /url: https://tipaxco.com/transit-cost-calculator
+          - table [ref=e864]:
+            - rowgroup [ref=e865]:
+              - row [ref=e866]:
+                - cell [ref=e867]:
+                  - generic [ref=e870]:
+                    - generic [ref=e872]:
+                      - group "ثبت نام در خبرنامه" [ref=e880]:
+                        - generic [ref=e885]:
+                          - generic [ref=e886]: از جدیدترین اخبار و تخفیفات تیپاکس با خبر شوید
+                          - textbox "لطفا ایمیل خود را وارد کنید" [ref=e887]:
+                            - /placeholder: " لطفا ایمیل خود را وارد کنید   "
+                        - button "ثبت نام" [ref=e890] [cursor=pointer]
+                      - generic [ref=e893]:
+                        - generic [ref=e894]:
+                          - link [ref=e896] [cursor=pointer]:
+                            - /url: https://cafebazaar.ir/app/ir.tipax.mytipax
+                            - img "دانلود مای تیپاکس از بازار" [ref=e897]
+                          - link [ref=e899] [cursor=pointer]:
+                            - /url: https://play.google.com/store/apps/details?id=ir.tipax.mytipax
+                            - img "دانلود مای تیپاکس از گوگل پلی" [ref=e900]
+                        - generic [ref=e901]:
+                          - link [ref=e903] [cursor=pointer]:
+                            - /url: https://mytipax.tipaxco.com/?campaign=site&adgroup=footer&creative=footer
+                            - img "وب سرویس (ios)" [ref=e904]
+                          - link [ref=e906] [cursor=pointer]:
+                            - /url: https://myket.ir/app/ir.tipax.mytipax
+                            - img "دانلود مای تیپاکس از مایکت" [ref=e907]
+                    - generic [ref=e908]:
+                      - link [ref=e909] [cursor=pointer]:
+                        - /url: https://fakher.ir/fa
+                        - img "هلدینگ فاخر" [ref=e910]
+                      - link [ref=e911] [cursor=pointer]:
+                        - /url: https://195.cra1.ir/
+                        - img "سامانه ۱۹۵" [ref=e912]
+                      - link [ref=e913] [cursor=pointer]:
+                        - /url: https://voc.postaval.ir
+                        - img "پست اول" [ref=e914]
+                      - link [ref=e915] [cursor=pointer]:
+                        - /url: https://trustseal.enamad.ir/?id=137782&Code=mt49MGxIwqIXYCQIVgPx
+                        - img "نماد اعتماد الکترونیکی (اینماد) تیپاکس" [ref=e916]
+        - generic [ref=e917]: تمامی حقوق این سایت متعلق به شرکت تیپاکس اکسپرس پارس است
+  - text:    
+```
+### Events
+- New console entries: .playwright-cli/console-2026-09-01T08-28-39-125Z.log#L2

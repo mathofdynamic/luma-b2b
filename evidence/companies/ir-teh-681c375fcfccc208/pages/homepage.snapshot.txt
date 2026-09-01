@@ -1,0 +1,603 @@
+### Page
+- Page URL: https://saropart.ir/
+- Page Title: سارو پارت | پخش قطعات خودرو
+- Console: 11 errors, 2 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - list [ref=e5]:
+        - listitem [ref=e6]:
+          - link [ref=e7] [cursor=pointer]:
+            - /url: /
+            - img "logo" [ref=e8]
+        - listitem [ref=e9]:
+          - generic [ref=e10]:
+            - heading "سارو پارت" [level=4] [ref=e11]
+            - text: پخش قطعات خودرو
+        - listitem [ref=e12]:
+          - link "جستجو در محصولات..." [ref=e13] [cursor=pointer]:
+            - /url: /Search
+      - list [ref=e19]:
+        - listitem [ref=e20]:
+          - link [ref=e21] [cursor=pointer]:
+            - /url: /cart
+        - listitem [ref=e23]:
+          - link "ورود | ثبت‌نام" [ref=e24] [cursor=pointer]:
+            - /url: /login
+    - list [ref=e31]:
+      - listitem [ref=e32]:
+        - link " دسته‌بندی کالاها" [ref=e33] [cursor=pointer]:
+          - /url: /categories/mobile
+          - generic [ref=e34]: 
+          - generic [ref=e36]: دسته‌بندی کالاها
+      - listitem [ref=e37]:
+        - link " برندها" [ref=e38] [cursor=pointer]:
+          - /url: /brand/mobile
+          - generic [ref=e39]: 
+          - generic [ref=e41]: برندها
+  - generic [ref=e45]:
+    - generic [ref=e46]:
+      - generic [ref=e50]:
+        - generic [ref=e51]:
+          - group "2 / 10" [ref=e52]:
+            - link "سوپاپ ساوه" [ref=e53] [cursor=pointer]:
+              - /url: https://saropart.ir/Search?Brand=99522
+              - img "سوپاپ ساوه" [ref=e54]
+          - group "3 / 10" [ref=e55]:
+            - link "تبلیغات سارو پارت" [ref=e56] [cursor=pointer]:
+              - /url: /search
+              - img "تبلیغات سارو پارت" [ref=e57]
+          - group "4 / 10" [ref=e58]:
+            - link "اسلایدر لنت" [ref=e59] [cursor=pointer]:
+              - /url: https://saropart.ir/Search?keyword=%D9%84%D9%86%D8%AA
+              - img "اسلایدر لنت" [ref=e60]
+          - group "5 / 10" [ref=e61]:
+            - link "رینگ مارموت" [ref=e62] [cursor=pointer]:
+              - /url: https://saropart.ir/Search?Brand=9911
+              - img "رینگ مارموت" [ref=e63]
+          - group "6 / 10" [ref=e64]:
+            - link "بنر گارانتی" [ref=e65] [cursor=pointer]:
+              - /url: /search
+              - img "بنر گارانتی" [ref=e66]
+          - group "7 / 10" [ref=e67]:
+            - link "رفیع نیا" [ref=e68] [cursor=pointer]:
+              - /url: https://saropart.ir/Search?Brand=99514
+              - img "رفیع نیا" [ref=e69]
+          - group "8 / 10" [ref=e70]:
+            - link "امیر نیا" [ref=e71] [cursor=pointer]:
+              - /url: https://saropart.ir/Search?Brand=99512
+              - img "امیر نیا" [ref=e72]
+          - group "9 / 10" [ref=e73]:
+            - link "قائم" [ref=e74] [cursor=pointer]:
+              - /url: https://saropart.ir/Search?Brand=99505
+              - img "قائم" [ref=e75]
+          - group "10 / 10" [ref=e76]:
+            - link "تسمه تایم ها" [ref=e77] [cursor=pointer]:
+              - /url: https://saropart.ir/Search?keyword=%DA%A9%DB%8C%D8%AA+%D8%AA%D8%A7%DB%8C
+              - img "تسمه تایم ها" [ref=e78]
+          - group "1 / 10" [ref=e79]:
+            - link "یاتاقان بوش" [ref=e80] [cursor=pointer]:
+              - /url: https://saropart.ir/Search?Brand=99523
+              - img "یاتاقان بوش" [ref=e81]
+        - generic:
+          - button "Go to slide 1" [ref=e82] [cursor=pointer]
+          - button "Go to slide 2" [ref=e83] [cursor=pointer]
+          - button "Go to slide 3" [ref=e84] [cursor=pointer]
+          - button "Go to slide 4" [ref=e85] [cursor=pointer]
+          - button "Go to slide 5" [ref=e86] [cursor=pointer]
+          - button "Go to slide 6" [ref=e87] [cursor=pointer]
+          - button "Go to slide 7" [ref=e88] [cursor=pointer]
+          - button "Go to slide 8" [ref=e89] [cursor=pointer]
+          - button "Go to slide 9" [ref=e90] [cursor=pointer]
+          - button "Go to slide 10" [ref=e91] [cursor=pointer]
+        - button "Next slide" [ref=e92] [cursor=pointer]:
+          - generic [ref=e93]: 
+        - button "Previous slide" [ref=e94] [cursor=pointer]:
+          - generic [ref=e95]: 
+      - generic [ref=e97]:
+        - generic [ref=e98]:
+          - group "1 / 7" [ref=e99]:
+            - link [ref=e101] [cursor=pointer]:
+              - /url: /Search?Category=63
+              - img "مکانیکی" [ref=e104]
+              - heading "مکانیکی" [level=6] [ref=e105]
+          - group "2 / 7" [ref=e106]:
+            - link [ref=e108] [cursor=pointer]:
+              - /url: /Search?Category=70
+              - img "جلوبندی" [ref=e111]
+              - heading "جلوبندی" [level=6] [ref=e112]
+          - group "3 / 7" [ref=e113]:
+            - link [ref=e115] [cursor=pointer]:
+              - /url: /Search?Category=62
+              - img "برقی و تنظیم موتور" [ref=e118]
+              - heading "برقی و تنظیم موتور" [level=6] [ref=e119]
+          - group "4 / 7" [ref=e120]:
+            - link [ref=e122] [cursor=pointer]:
+              - /url: /Search?Category=506
+              - img "اگزوز ساز" [ref=e125]
+              - heading "اگزوز ساز" [level=6] [ref=e126]
+          - group "5 / 7" [ref=e127]:
+            - link [ref=e129] [cursor=pointer]:
+              - /url: /Search?Category=120
+              - img "بدنه" [ref=e132]
+              - heading "بدنه" [level=6] [ref=e133]
+          - group "6 / 7" [ref=e134]:
+            - link [ref=e136] [cursor=pointer]:
+              - /url: /Search?Category=457
+              - img "قطعات داخل اتاق" [ref=e139]
+              - heading "قطعات داخل اتاق" [level=6] [ref=e140]
+          - group "7 / 7" [ref=e141]:
+            - link [ref=e143] [cursor=pointer]:
+              - /url: /Search?Category=316
+              - img "تعویض روغنی و سرویس" [ref=e146]
+              - heading "تعویض روغنی و سرویس" [level=6] [ref=e147]
+        - text:  
+      - generic [ref=e151]:
+        - generic [ref=e152]:
+          - generic [ref=e153]:
+            - generic [ref=e154]:
+              - generic [ref=e155]: 
+              - text: فقط امروز
+            - heading "پیشنهادهای شگفت انگیز" [level=3] [ref=e156]
+            - paragraph [ref=e157]: انتخاب‌های محدود با قیمت ویژه تا پایان امروز
+          - generic [ref=e158]:
+            - generic [ref=e159]:
+              - generic [ref=e160]: "12"
+              - generic [ref=e161]: ":"
+              - generic [ref=e162]: "15"
+              - generic [ref=e163]: ":"
+              - generic [ref=e164]: "15"
+            - link "مشاهده همه " [ref=e165] [cursor=pointer]:
+              - /url: /Search?filter=amazing
+              - text: مشاهده همه
+              - generic [ref=e166]: 
+        - generic [ref=e167]:
+          - generic [ref=e168]:
+            - group "1 / 12" [ref=e169]:
+              - generic [ref=e170]:
+                - generic [ref=e171]:
+                  - generic [ref=e172]: ویترین تخفیف روز
+                  - heading "قبل از پایان زمان انتخاب کن" [level=3] [ref=e173]
+                - link "همه پیشنهادها " [ref=e175] [cursor=pointer]:
+                  - /url: /Search?filter=amazing
+                  - text: همه پیشنهادها
+                  - generic [ref=e176]: 
+            - group "2 / 12" [ref=e177]:
+              - generic [ref=e178]:
+                - link [ref=e179] [cursor=pointer]:
+                  - /url: /Product/275429/پروانه -فن -توربو
+                  - img "پروانه فن توربو" [ref=e180]
+                - generic [ref=e181]:
+                  - heading "پروانه فن توربو" [level=6] [ref=e182]
+                  - text: تماس بگیرید
+                  - generic [ref=e184]:
+                    - button "افزودن به سبد" [disabled]
+                    - text: 
+            - group "3 / 12" [ref=e185]:
+              - generic [ref=e186]:
+                - link [ref=e187] [cursor=pointer]:
+                  - /url: /Product/254193/تسمه -دینام -زانتیا -6pk1650
+                  - img "تسمه دینام زانتیا 6pk1650" [ref=e188]
+                - generic [ref=e189]:
+                  - heading "تسمه دینام زانتیا 6pk1650" [level=6] [ref=e190]
+                  - text: تماس بگیرید
+                  - generic [ref=e192]:
+                    - button "افزودن به سبد" [disabled]
+                    - text: 
+            - group "4 / 12" [ref=e193]:
+              - generic [ref=e194]:
+                - link [ref=e195] [cursor=pointer]:
+                  - /url: /Product/254196/تسمه -دینام -تارا -برقی -6pk1065
+                  - img "تسمه دینام تارا برقی 6pk1065" [ref=e196]
+                - generic [ref=e197]:
+                  - heading "تسمه دینام تارا برقی 6pk1065" [level=6] [ref=e198]
+                  - text: تماس بگیرید
+                  - generic [ref=e200]:
+                    - button "افزودن به سبد" [disabled]
+                    - text: 
+            - group "5 / 12" [ref=e201]:
+              - generic [ref=e202]:
+                - link [ref=e203] [cursor=pointer]:
+                  - /url: /Product/207162/لنت -ترمزجلوسمندكالیپر57 -IREMCO
+                  - img "لنت ترمزجلوسمندكالیپر57 IREMCO" [ref=e204]
+                - generic [ref=e205]:
+                  - heading "لنت ترمزجلوسمندكالیپر57 IREMCO" [level=6] [ref=e206]
+                  - text: تماس بگیرید
+                  - generic [ref=e208]:
+                    - button "افزودن به سبد" [disabled]
+                    - text: 
+            - group "6 / 12" [ref=e209]:
+              - generic [ref=e210]:
+                - link [ref=e211] [cursor=pointer]:
+                  - /url: /Product/252847/6PK -1663 -C -R --PR -EMIUM -- -دینام -موتور -پژو -405
+                  - img "6PK 1663 C R -PR EMIUM - دینام موتور پژو 405" [ref=e212]
+                - generic [ref=e213]:
+                  - heading "6PK 1663 C R -PR EMIUM - دینام موتور پژو 405" [level=6] [ref=e214]
+                  - text: تماس بگیرید
+                  - generic [ref=e216]:
+                    - button "افزودن به سبد" [disabled]
+                    - text: 
+            - group "7 / 12" [ref=e217]:
+              - generic [ref=e218]:
+                - link [ref=e219] [cursor=pointer]:
+                  - /url: /Product/252830/تسمه -تایم -پراید -گیتس -(سبز)
+                  - img "تسمه تایم پراید گیتس (سبز)" [ref=e220]
+                - generic [ref=e221]:
+                  - heading "تسمه تایم پراید گیتس (سبز)" [level=6] [ref=e222]
+                  - text: تماس بگیرید
+                  - generic [ref=e224]:
+                    - button "افزودن به سبد" [disabled]
+                    - text: 
+            - group "8 / 12" [ref=e225]:
+              - generic [ref=e226]:
+                - link [ref=e227] [cursor=pointer]:
+                  - /url: /Product/252827/تسمه -تایم -پژو -206 -تیپ -5 -گیتس
+                  - img "تسمه تایم پژو 206 تیپ 5 گیتس" [ref=e228]
+                - generic [ref=e229]:
+                  - heading "تسمه تایم پژو 206 تیپ 5 گیتس" [level=6] [ref=e230]
+                  - text: تماس بگیرید
+                  - generic [ref=e232]:
+                    - button "افزودن به سبد" [disabled]
+                    - text: 
+            - group "9 / 12" [ref=e233]:
+              - generic [ref=e234]:
+                - link [ref=e235] [cursor=pointer]:
+                  - /url: /Product/188719/سیم -اکسیژن -37 -سانتیمتر -زیمنس -اصلی -BOSCH
+                  - img "سیم اکسیژن 37 سانتیمتر زیمنس اصلی BOSCH" [ref=e236]
+                - generic [ref=e237]:
+                  - heading "سیم اکسیژن 37 سانتیمتر زیمنس اصلی BOSCH" [level=6] [ref=e238]
+                  - text: تماس بگیرید
+                  - generic [ref=e240]:
+                    - button "افزودن به سبد" [disabled]
+                    - text: 
+            - group "10 / 12" [ref=e241]:
+              - generic [ref=e242]:
+                - link [ref=e243] [cursor=pointer]:
+                  - /url: /Product/255728/رینگ -روآ -مارموت
+                  - img "رینگ روآ مارموت" [ref=e244]
+                - generic [ref=e245]:
+                  - heading "رینگ روآ مارموت" [level=6] [ref=e246]
+                  - text: تماس بگیرید
+                  - generic [ref=e248]:
+                    - button "افزودن به سبد" [disabled]
+                    - text: 
+            - group "11 / 12" [ref=e249]:
+              - generic [ref=e250]:
+                - link [ref=e251] [cursor=pointer]:
+                  - /url: /Product/252840/6PK -2045 -C -R --PR -EMIUM -- -دینام -سوزوکی -ویتارا -2400
+                  - img "6PK 2045 C R -PR EMIUM - دینام سوزوکی ویتارا 2400" [ref=e252]
+                - generic [ref=e253]:
+                  - heading "6PK 2045 C R -PR EMIUM - دینام سوزوکی ویتارا 2400" [level=6] [ref=e254]
+                  - text: تماس بگیرید
+                  - generic [ref=e256]:
+                    - button "افزودن به سبد" [disabled]
+                    - text: 
+            - group "12 / 12" [ref=e257]:
+              - link " مشاهده همه" [ref=e258] [cursor=pointer]:
+                - /url: /Search?filter=amazing
+                - generic [ref=e259]:
+                  - generic [ref=e260]: 
+                  - generic [ref=e262]: مشاهده همه
+          - button "Next slide" [ref=e263] [cursor=pointer]:
+            - generic [ref=e264]: 
+            - text: prev
+          - text: next
+      - link [ref=e269] [cursor=pointer]:
+        - /url: https://saropart.ir/Search?keyword=%DA%A9%DB%8C%D8%AA+%DA%A9%D9%84%D8%A7%DA%86
+        - img "تبلیغ1" [ref=e271]
+      - generic [ref=e273]:
+        - heading "ورودی های جدید" [level=5] [ref=e276]
+        - generic [ref=e277]:
+          - generic [ref=e278]:
+            - group "1 / 11" [ref=e279]:
+              - checkbox [ref=e282] [cursor=pointer]
+              - generic [ref=e285]:
+                - link [ref=e286] [cursor=pointer]:
+                  - /url: /Product/252822/تسمه -تایم -رنو -L90 -گیتس)
+                  - img "تسمه تایم رنو L90 گیتس" [ref=e287]
+                - generic [ref=e288]:
+                  - heading "تسمه تایم رنو L90 گیتس" [level=6] [ref=e289]
+                  - text: تماس بگیرید
+                  - generic [ref=e291]:
+                    - button "افزودن به سبد" [disabled]
+                    - text: 
+            - group "2 / 11" [ref=e292]:
+              - checkbox [ref=e295] [cursor=pointer]
+              - generic [ref=e298]:
+                - link [ref=e299] [cursor=pointer]:
+                  - /url: /Product/207161/لنت -ترمزجلوتندر -IREMCO -90وساندرو -و -لیفان520)
+                  - img "لنت ترمزجلوتندر IREMCO 90وساندرو و لیفان520" [ref=e300]
+                - generic [ref=e301]:
+                  - heading "لنت ترمزجلوتندر IREMCO 90وساندرو و لیفان520" [level=6] [ref=e302]
+                  - text: تماس بگیرید
+                  - generic [ref=e304]:
+                    - button "افزودن به سبد" [disabled]
+                    - text: 
+            - group "3 / 11" [ref=e305]:
+              - checkbox [ref=e308] [cursor=pointer]
+              - generic [ref=e311]:
+                - link [ref=e312] [cursor=pointer]:
+                  - /url: /Product/255726/رینگ -نیسان -مارموت)
+                  - img "رینگ نیسان مارموت" [ref=e313]
+                - generic [ref=e314]:
+                  - heading "رینگ نیسان مارموت" [level=6] [ref=e315]
+                  - text: تماس بگیرید
+                  - generic [ref=e317]:
+                    - button "افزودن به سبد" [disabled]
+                    - text: 
+            - group "4 / 11" [ref=e318]:
+              - checkbox [ref=e321] [cursor=pointer]
+              - generic [ref=e324]:
+                - link [ref=e325] [cursor=pointer]:
+                  - /url: /Product/252860/6PK -1055 -C -R --PR -EMIUM -- -تسمه -دینام -206فرمان -برقی)
+                  - img "6PK 1055 C R -PR EMIUM - تسمه دینام 206فرمان برقی" [ref=e326]
+                - generic [ref=e327]:
+                  - heading "6PK 1055 C R -PR EMIUM - تسمه دینام 206فرمان برقی" [level=6] [ref=e328]
+                  - text: تماس بگیرید
+                  - generic [ref=e330]:
+                    - button "افزودن به سبد" [disabled]
+                    - text: 
+            - group "5 / 11" [ref=e331]:
+              - checkbox [ref=e334] [cursor=pointer]
+              - generic [ref=e337]:
+                - link [ref=e338] [cursor=pointer]:
+                  - /url: /Product/252866/5PK -1330 -C -R --PR -EMIUM -- -تسمه -دینام -جک -J5اتوماتیک)
+                  - img "5PK 1330 C R -PR EMIUM - تسمه دینام جک J5اتوماتیک" [ref=e339]
+                - generic [ref=e340]:
+                  - heading "5PK 1330 C R -PR EMIUM - تسمه دینام جک J5اتوماتیک" [level=6] [ref=e341]
+                  - text: تماس بگیرید
+                  - generic [ref=e343]:
+                    - button "افزودن به سبد" [disabled]
+                    - text: 
+            - group "6 / 11" [ref=e344]:
+              - checkbox [ref=e347] [cursor=pointer]
+              - generic [ref=e350]:
+                - link [ref=e351] [cursor=pointer]:
+                  - /url: /Product/206942/مشعلی -پژو -۲۰۶ -بلند، -۲۲ -خار -ABS)
+                  - img "مشعلی پژو ۲۰۶ بلند، ۲۲ خار ABS" [ref=e352]
+                - generic [ref=e353]:
+                  - heading "مشعلی پژو ۲۰۶ بلند، ۲۲ خار ABS" [level=6] [ref=e354]
+                  - text: تماس بگیرید
+                  - generic [ref=e356]:
+                    - button "افزودن به سبد" [disabled]
+                    - text: 
+            - group "7 / 11" [ref=e357]:
+              - checkbox [ref=e360] [cursor=pointer]
+              - generic [ref=e363]:
+                - link [ref=e364] [cursor=pointer]:
+                  - /url: /Product/252901/تسمه -تایم -موتور -L90-HNBR -- -132دندانه -موتور --L90ساندرو -– -مگان -1600)
+                  - img "تسمه تایم موتور L90-HNBR - 132دندانه موتور -L90ساندرو – مگان 1600" [ref=e365]
+                - generic [ref=e366]:
+                  - heading "تسمه تایم موتور L90-HNBR - 132دندانه موتور -L90ساندرو – مگان 1600" [level=6] [ref=e367]
+                  - text: تماس بگیرید
+                  - generic [ref=e369]:
+                    - button "افزودن به سبد" [disabled]
+                    - text: 
+            - group "8 / 11" [ref=e370]:
+              - checkbox [ref=e373] [cursor=pointer]
+              - generic [ref=e376]:
+                - link [ref=e377] [cursor=pointer]:
+                  - /url: /Product/254210/تسمه -دینام -پراید -تیبا -4pk885)
+                  - img "تسمه دینام پراید تیبا 4pk885" [ref=e378]
+                - generic [ref=e379]:
+                  - heading "تسمه دینام پراید تیبا 4pk885" [level=6] [ref=e380]
+                  - text: تماس بگیرید
+                  - generic [ref=e382]:
+                    - button "افزودن به سبد" [disabled]
+                    - text: 
+            - group "9 / 11" [ref=e383]:
+              - checkbox [ref=e386] [cursor=pointer]
+              - generic [ref=e389]:
+                - link [ref=e390] [cursor=pointer]:
+                  - /url: /Product/188735/سیم -اکسیژن -27 -سانتیمتر -زیمنس -اصلی -NTK)
+                  - img "سیم اکسیژن 27 سانتیمتر زیمنس اصلی NTK" [ref=e391]
+                - generic [ref=e392]:
+                  - heading "سیم اکسیژن 27 سانتیمتر زیمنس اصلی NTK" [level=6] [ref=e393]
+                  - text: تماس بگیرید
+                  - generic [ref=e395]:
+                    - button "افزودن به سبد" [disabled]
+                    - text: 
+            - group "10 / 11" [ref=e396]:
+              - checkbox [ref=e399] [cursor=pointer]
+              - generic [ref=e402]:
+                - link [ref=e403] [cursor=pointer]:
+                  - /url: /Product/252882/4PK -1335 -C -R --PR -EMIUM -- -هیدرولیک -آریسان)
+                  - img "4PK 1335 C R -PR EMIUM - هیدرولیک آریسان" [ref=e404]
+                - generic [ref=e405]:
+                  - heading "4PK 1335 C R -PR EMIUM - هیدرولیک آریسان" [level=6] [ref=e406]
+                  - text: تماس بگیرید
+                  - generic [ref=e408]:
+                    - button "افزودن به سبد" [disabled]
+                    - text: 
+            - group "11 / 11" [ref=e409]:
+              - link " مشاهده همه" [ref=e410] [cursor=pointer]:
+                - /url: /Search?filter=Installment
+                - generic [ref=e411]:
+                  - generic [ref=e412]: 
+                  - generic [ref=e414]: مشاهده همه
+          - button "Next slide" [ref=e415] [cursor=pointer]:
+            - generic [ref=e416]: 
+            - text: prev
+          - text: next
+      - generic [ref=e418]:
+        - heading "پرفروش" [level=5] [ref=e421]
+        - generic [ref=e422]:
+          - generic [ref=e423]:
+            - group "1 / 11" [ref=e424]:
+              - checkbox [ref=e427] [cursor=pointer]
+              - generic [ref=e430]:
+                - link [ref=e431] [cursor=pointer]:
+                  - /url: /Product/189664/درجه -تكي -پمپ -بنزين -پراید)
+                - generic [ref=e432]:
+                  - heading "درجه تكي پمپ بنزين پراید" [level=6] [ref=e433]
+                  - text: تماس بگیرید
+                  - generic [ref=e435]:
+                    - button "افزودن به سبد" [disabled]
+                    - text: 
+            - group "2 / 11" [ref=e436]:
+              - checkbox [ref=e439] [cursor=pointer]
+              - generic [ref=e442]:
+                - link [ref=e443] [cursor=pointer]:
+                  - /url: /Product/189673/درجه -تكي -پمپ -بنزين206)
+                - generic [ref=e444]:
+                  - heading "درجه تكي پمپ بنزين206" [level=6] [ref=e445]
+                  - text: تماس بگیرید
+                  - generic [ref=e447]:
+                    - button "افزودن به سبد" [disabled]
+                    - text: 
+            - group "3 / 11" [ref=e448]:
+              - checkbox [ref=e451] [cursor=pointer]
+              - generic [ref=e454]:
+                - link [ref=e455] [cursor=pointer]:
+                  - /url: /Product/229443/لاستیک -نر -و -مادگی -پراید)
+                - generic [ref=e456]:
+                  - heading "لاستیک نر و مادگی پراید" [level=6] [ref=e457]
+                  - text: تماس بگیرید
+                  - generic [ref=e459]:
+                    - button "افزودن به سبد" [disabled]
+                    - text: 
+            - group "4 / 11" [ref=e460]:
+              - checkbox [ref=e463] [cursor=pointer]
+              - generic [ref=e466]:
+                - link [ref=e467] [cursor=pointer]:
+                  - /url: /Product/229449/گردگیر -کمک -جلو -پراید)
+                - generic [ref=e468]:
+                  - heading "گردگیر کمک جلو پراید" [level=6] [ref=e469]
+                  - text: تماس بگیرید
+                  - generic [ref=e471]:
+                    - button "افزودن به سبد" [disabled]
+                    - text: 
+            - group "5 / 11" [ref=e472]:
+              - checkbox [ref=e475] [cursor=pointer]
+              - generic [ref=e478]:
+                - link [ref=e479] [cursor=pointer]:
+                  - /url: /Product/229450/گردگیر -کمک -عقب -پراید)
+                - generic [ref=e480]:
+                  - heading "گردگیر کمک عقب پراید" [level=6] [ref=e481]
+                  - text: تماس بگیرید
+                  - generic [ref=e483]:
+                    - button "افزودن به سبد" [disabled]
+                    - text: 
+            - group "6 / 11" [ref=e484]:
+              - checkbox [ref=e487] [cursor=pointer]
+              - generic [ref=e490]:
+                - link [ref=e491] [cursor=pointer]:
+                  - /url: /Product/229430/سیبک -فرمان -پراید)
+                - generic [ref=e492]:
+                  - heading "سیبک فرمان پراید" [level=6] [ref=e493]
+                  - text: تماس بگیرید
+                  - generic [ref=e495]:
+                    - button "افزودن به سبد" [disabled]
+                    - text: 
+            - group "7 / 11" [ref=e496]:
+              - checkbox [ref=e499] [cursor=pointer]
+              - generic [ref=e502]:
+                - link [ref=e503] [cursor=pointer]:
+                  - /url: /Product/229423/بوش -پایه -کمک -پراید)
+                - generic [ref=e504]:
+                  - heading "بوش پایه کمک پراید" [level=6] [ref=e505]
+                  - text: تماس بگیرید
+                  - generic [ref=e507]:
+                    - button "افزودن به سبد" [disabled]
+                    - text: 
+            - group "8 / 11" [ref=e508]:
+              - checkbox [ref=e511] [cursor=pointer]
+              - generic [ref=e514]:
+                - link [ref=e515] [cursor=pointer]:
+                  - /url: /Product/229395/بوش -پایه -کمک -۴۰۵)
+                - generic [ref=e516]:
+                  - heading "بوش پایه کمک ۴۰۵" [level=6] [ref=e517]
+                  - text: تماس بگیرید
+                  - generic [ref=e519]:
+                    - button "افزودن به سبد" [disabled]
+                    - text: 
+            - group "9 / 11" [ref=e520]:
+              - checkbox [ref=e523] [cursor=pointer]
+              - generic [ref=e526]:
+                - link [ref=e527] [cursor=pointer]:
+                  - /url: /Product/229363/لاستیک -کمر -باریک -پیکان)
+                  - img "لاستیک کمر باریک پیکان" [ref=e528]
+                - generic [ref=e529]:
+                  - heading "لاستیک کمر باریک پیکان" [level=6] [ref=e530]
+                  - text: تماس بگیرید
+                  - generic [ref=e532]:
+                    - button "افزودن به سبد" [disabled]
+                    - text: 
+            - group "10 / 11" [ref=e533]:
+              - checkbox [ref=e536] [cursor=pointer]
+              - generic [ref=e539]:
+                - link [ref=e540] [cursor=pointer]:
+                  - /url: /Product/229432/طبق -کامل -پراید -با -بوش -فلزی)
+                  - img "طبق کامل پراید با بوش فلزی" [ref=e541]
+                - generic [ref=e542]:
+                  - heading "طبق کامل پراید با بوش فلزی" [level=6] [ref=e543]
+                  - text: تماس بگیرید
+                  - generic [ref=e545]:
+                    - button "افزودن به سبد" [disabled]
+                    - text: 
+            - group "11 / 11" [ref=e546]:
+              - link " مشاهده همه" [ref=e547] [cursor=pointer]:
+                - /url: /Search?filter=best_selling
+                - generic [ref=e548]:
+                  - generic [ref=e549]: 
+                  - generic [ref=e551]: مشاهده همه
+          - button "Next slide" [ref=e552] [cursor=pointer]:
+            - generic [ref=e553]: 
+            - text: prev
+          - text: next
+      - link [ref=e558] [cursor=pointer]:
+        - /url: https://saropart.ir/Search?keyword=%DA%86%D8%B1%D8%A7%D8%BA
+        - img "بنر چراغ" [ref=e560]
+    - contentinfo [ref=e561]:
+      - generic [ref=e562]:
+        - generic [ref=e563]:
+          - generic [ref=e564]:
+            - heading "درباره شرکت" [level=6] [ref=e565]
+            - paragraph [ref=e566]: سارو پارت فروشگاه تخصصی فروش عمده قطعات خودرو برای همکاران و فروشندگان سراسر کشور می‌باشد.
+            - text: مرجع تخصصی تامین قطعات خودرو برای فروشگاه های لوازم یدکی و همکاران ، استادکاران و مصرف کنندگان سراسر کشور خرید آسان تامین مطمئن و دسترسی به برندهای معتبر
+          - generic [ref=e567]:
+            - heading "اطلاعات تماس" [level=6] [ref=e568]
+            - paragraph [ref=e569]:
+              - text: "تلفن شرکت:"
+              - link "09192193451 02133918759" [ref=e570] [cursor=pointer]:
+                - /url: tel:09192193451 02133918759
+            - paragraph [ref=e571]:
+              - text: "روبیکا پشتیبانی:"
+              - link "0919-219-3451" [ref=e572] [cursor=pointer]:
+                - /url: https://wa.me/09192193451
+            - paragraph [ref=e573]:
+              - text: "آدرس :"
+              - link "خیابان ملت کوچه آهنین زیر زمین اول" [ref=e574] [cursor=pointer]:
+                - /url: "خیابان ملت کوچه آهنین زیر زمین اول "
+          - generic [ref=e575]:
+            - heading "شبکه‌های اجتماعی" [level=6] [ref=e576]
+            - list [ref=e578]:
+              - listitem [ref=e579]:
+                - link [ref=e580] [cursor=pointer]:
+                  - /url: ""
+              - listitem [ref=e581]:
+                - link [ref=e582] [cursor=pointer]:
+                  - /url: ""
+              - listitem [ref=e583]:
+                - link [ref=e584] [cursor=pointer]:
+                  - /url: ""
+              - listitem [ref=e585]:
+                - link [ref=e586] [cursor=pointer]:
+                  - /url: ""
+            - list [ref=e587]:
+              - listitem [ref=e588]:
+                - link [ref=e589] [cursor=pointer]:
+                  - /url: https://trustseal.enamad.ir/?id=749311&Code=F6evN5QZgLoYPQSQwiEiYZe74tR9HxYu
+            - generic [ref=e591]:
+              - generic [ref=e592]:
+                - generic [ref=e593]: 📲
+                - generic [ref=e594]:
+                  - strong [ref=e595]: نصب اپلیکیشن سارو پارت
+                  - text: دسترسی سریع از صفحه اصلی موبایل
+              - button "نصب" [ref=e596] [cursor=pointer]
+        - generic [ref=e597]: © 2026 سارو پارت – کلیه حقوق محفوظ است
+  - contentinfo [ref=e598]
+  - progressbar "در حال بارگذاری صفحه"
+```

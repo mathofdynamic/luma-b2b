@@ -1,0 +1,297 @@
+### Page
+- Page URL: https://parsianfoolad.ir/
+- Page Title: پارسیان فولاد - مرکز فروش لوله و اتصالات پارسیان فولاد
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - link [ref=e9] [cursor=pointer]:
+          - /url: https://parsianfoolad.ir/
+          - img "مرکز فروش لوله و اتصالات پارسیان فولاد" [ref=e10]
+        - generic [ref=e14]:
+          - generic [ref=e15] [cursor=pointer]
+          - textbox "کلید واژه مورد نظر ..." [ref=e21]
+        - generic [ref=e22]:
+          - link [ref=e25] [cursor=pointer]:
+            - /url: https://parsianfoolad.ir/my-account/
+            - text: user
+            - paragraph [ref=e26]: ورود / عضویت
+          - generic [ref=e29] [cursor=pointer]:
+            - link "0":
+              - /url: https://parsianfoolad.ir/cart/
+        - generic [ref=e34]:
+          - link [ref=e35] [cursor=pointer]:
+            - /url: "#"
+          - link [ref=e38] [cursor=pointer]:
+            - /url: "#"
+      - generic [ref=e41]:
+        - generic [ref=e45]:
+          - list:
+            - listitem [ref=e46]:
+              - link "دسته محصولات" [ref=e47] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e52]:
+              - link "پارسیان فولاد" [ref=e53] [cursor=pointer]:
+                - /url: https://parsianfoolad.ir/
+            - listitem [ref=e58]:
+              - link "فروشگاه" [ref=e59] [cursor=pointer]:
+                - /url: https://parsianfoolad.ir/shop/
+            - listitem [ref=e61]:
+              - link "بست داربست" [ref=e62] [cursor=pointer]:
+                - /url: https://parsianfoolad.ir/%d8%a8%d8%b3%d8%aa-%d8%af%d8%a7%d8%b1%d8%a8%d8%b3%d8%aa/
+            - listitem [ref=e64]:
+              - link "مقالات" [ref=e65] [cursor=pointer]:
+                - /url: https://parsianfoolad.ir/%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa/
+            - listitem [ref=e67]:
+              - link "تماس با ما" [ref=e68] [cursor=pointer]:
+                - /url: https://parsianfoolad.ir/%d8%aa%d9%85%d8%a7%d8%b3-%d8%a8%d8%a7-%d9%85%d8%a7/
+            - listitem [ref=e70]:
+              - link "درباره ما" [ref=e71] [cursor=pointer]:
+                - /url: https://parsianfoolad.ir/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/
+        - generic [ref=e77]:
+          - strong [ref=e78]: "66154412"
+          - generic [ref=e79]: "021"
+  - generic [ref=e80]:
+    - generic [ref=e85]:
+      - link [ref=e91] [cursor=pointer]:
+        - /url: https://parsianfoolad.ir//product-category/%d8%a8%d8%b3%d8%aa-%d8%af%d8%a7%d8%b1%d8%a8%d8%b3%d8%aa/
+        - heading "بست داربست" [level=4] [ref=e94]
+      - link [ref=e100] [cursor=pointer]:
+        - /url: https://parsianfoolad.ir//product-category/%d8%a7%d8%aa%d8%b5%d8%a7%d9%84%d8%a7%d8%aa/
+        - heading "انواع لوله ها" [level=4] [ref=e103]
+      - link [ref=e109] [cursor=pointer]:
+        - /url: /product-category/%d9%84%d9%88%d8%a7%d8%b2%d9%85-%d8%ae%d8%a7%d9%86%da%af%db%8c/%d8%b5%d9%88%d8%aa%db%8c-%d8%aa%d8%b5%d9%88%db%8c%d8%b1%db%8c/
+        - heading "اتصالات" [level=4] [ref=e112]
+      - link [ref=e118] [cursor=pointer]:
+        - /url: https://parsianfoolad.ir//product-category/%d8%b4%db%8c%d8%b1%d8%a2%d9%84%d8%a7%d8%aa/
+        - heading "شیرآلات" [level=4] [ref=e121]
+      - link [ref=e127] [cursor=pointer]:
+        - /url: https://parsianfoolad.ir//product-category/%d8%aa%d8%ac%d9%87%db%8c%d8%b2%d8%a7%d8%aa-%d8%a2%d8%aa%d8%b4-%d9%86%d8%b4%d8%a7%d9%86%db%8c/
+        - heading "لرزه گیر" [level=4] [ref=e130]
+      - link [ref=e136] [cursor=pointer]:
+        - /url: /learning/product-category/%d8%a7%d8%a8%d8%b2%d8%a7%d8%b1-%d9%88-%d8%a7%d9%84%da%a9%d8%aa%d8%b1%d9%88%d9%86%db%8c%da%a9/
+        - heading "تجهیرات آتش نشانی" [level=4] [ref=e139]
+    - generic [ref=e149]:
+      - link [ref=e155] [cursor=pointer]:
+        - /url: https://parsianfoolad.ir//product-category/%d8%a7%d9%86%d9%88%d8%a7%d8%b9-%d9%84%d9%88%d9%84%d9%87/
+      - link [ref=e161] [cursor=pointer]:
+        - /url: https://parsianfoolad.ir//product-category/%d8%a8%d8%b3%d8%aa-%d8%af%d8%a7%d8%b1%d8%a8%d8%b3%d8%aa/
+    - generic [ref=e173]:
+      - generic [ref=e174]: بست داربست
+      - link "مشاهده همه" [ref=e175] [cursor=pointer]:
+        - /url: https://parsianfoolad.ir/product-category/%d8%a8%d8%b3%d8%aa-%d8%af%d8%a7%d8%b1%d8%a8%d8%b3%d8%aa/
+    - generic [ref=e179]:
+      - link [ref=e184] [cursor=pointer]:
+        - /url: https://parsianfoolad.ir//product-category/%d8%aa%d8%ac%d9%87%db%8c%d8%b2%d8%a7%d8%aa-%d8%a2%d8%aa%d8%b4-%d9%86%d8%b4%d8%a7%d9%86%db%8c/
+      - link [ref=e189] [cursor=pointer]:
+        - /url: https://parsianfoolad.ir//product-category/%d8%a7%d8%aa%d8%b5%d8%a7%d9%84%d8%a7%d8%aa/
+      - link [ref=e194] [cursor=pointer]:
+        - /url: https://parsianfoolad.ir//product-category/%d8%b4%db%8c%d8%b1%d8%a2%d9%84%d8%a7%d8%aa/
+    - generic [ref=e198]:
+      - generic [ref=e202]:
+        - generic [ref=e203]: انواع لوله ها
+        - link "مشاهده همه" [ref=e204] [cursor=pointer]:
+          - /url: https://parsianfoolad.ir/product-category/%d8%a7%d9%86%d9%88%d8%a7%d8%b9-%d9%84%d9%88%d9%84%d9%87/
+      - generic [ref=e210]:
+        - generic [ref=e211]: اتصالات
+        - link "مشاهده همه" [ref=e212] [cursor=pointer]:
+          - /url: https://parsianfoolad.ir/product-category/%d8%a7%d8%aa%d8%b5%d8%a7%d9%84%d8%a7%d8%aa/
+      - link [ref=e222] [cursor=pointer]:
+        - /url: https://parsianfoolad.ir//
+      - generic [ref=e226]:
+        - generic [ref=e227]: شیرآلات
+        - link "مشاهده همه" [ref=e228] [cursor=pointer]:
+          - /url: https://parsianfoolad.ir/product-category/%d8%b4%db%8c%d8%b1%d8%a2%d9%84%d8%a7%d8%aa/
+      - generic [ref=e234]:
+        - generic [ref=e235]: لرزه گیر
+        - link "مشاهده همه" [ref=e236] [cursor=pointer]:
+          - /url: https://parsianfoolad.ir//product-category/%d9%84%d8%b1%d8%b2%d9%87-%da%af%db%8c%d8%b1/
+      - generic [ref=e240]:
+        - link [ref=e246] [cursor=pointer]:
+          - /url: https://parsianfoolad.ir//product-category/%d8%b4%db%8c%d8%b1%d8%a2%d9%84%d8%a7%d8%aa/%d8%b4%db%8c%d8%b1-%d8%a7%d9%84%d8%a7%d8%aa-%da%a9%d9%86%d8%aa%d8%b1%d9%84%db%8c/
+        - link [ref=e252] [cursor=pointer]:
+          - /url: https://parsianfoolad.ir//product-category/%d8%b4%db%8c%d8%b1%d8%a2%d9%84%d8%a7%d8%aa/%d8%b4%db%8c%d8%b1-%d8%a2%d9%84%d8%a7%d8%aa-%da%86%d9%88%d8%af%d9%86%db%8c/
+        - link [ref=e258] [cursor=pointer]:
+          - /url: https://parsianfoolad.ir//product-category/%d8%b4%db%8c%d8%b1%d8%a2%d9%84%d8%a7%d8%aa/
+      - generic [ref=e262]:
+        - generic [ref=e263]: تجهیزات آتش نشانی
+        - link "مشاهده همه" [ref=e264] [cursor=pointer]:
+          - /url: https://parsianfoolad.ir//product-category/%D8%AA%D8%AC%D9%87%DB%8C%D8%B2%D8%A7%D8%AA-%D8%A2%D8%AA%D8%B4-%D9%86%D8%B4%D8%A7%D9%86%DB%8C
+      - generic [ref=e270]:
+        - generic [ref=e271]: متعلقات
+        - link "مشاهده همه" [ref=e272] [cursor=pointer]:
+          - /url: https://parsianfoolad.ir//product-category/%d9%85%d8%aa%d8%b9%d9%84%d9%82%d8%a7%d8%aa/
+      - generic [ref=e277]:
+        - generic [ref=e278]: همه محصولات
+        - generic [ref=e281]:
+          - generic [ref=e283]:
+            - link [ref=e286] [cursor=pointer]:
+              - /url: https://parsianfoolad.ir/product/%d8%aa%d8%a8%d8%af%db%8c%d9%84-%d9%85%d8%a7%d8%b1%da%a9%d8%af%d8%a7%d8%b1-%d8%af%d8%b1%d8%b2%d8%af%d8%a7%d8%b1-1-2-14-%d8%a7%db%8c%d9%86%da%86-%d9%81%d9%88/
+              - img "تبدیل جوشی امین درزدار 2×4 اینچ" [ref=e287]
+            - generic [ref=e288]:
+              - heading [level=2] [ref=e289]:
+                - link "تبدیل مارکدار درزدار 1/2 1*4 اینچ فولاد صنعت امین جوشی" [ref=e290] [cursor=pointer]:
+                  - /url: https://parsianfoolad.ir/product/%d8%aa%d8%a8%d8%af%db%8c%d9%84-%d9%85%d8%a7%d8%b1%da%a9%d8%af%d8%a7%d8%b1-%d8%af%d8%b1%d8%b2%d8%af%d8%a7%d8%b1-1-2-14-%d8%a7%db%8c%d9%86%da%86-%d9%81%d9%88/
+              - generic [ref=e291]: 115,200 تومان
+          - generic [ref=e296]:
+            - link [ref=e299] [cursor=pointer]:
+              - /url: https://parsianfoolad.ir/product/%d8%aa%d8%a8%d8%af%db%8c%d9%84-%d8%ac%d9%88%d8%b4%db%8c-%d8%a7%d9%85%db%8c%d9%86-%d8%af%d8%b1%d8%b2%d8%af%d8%a7%d8%b1-2x4-%d8%a7%db%8c%d9%86%da%86/
+              - img "تبدیل جوشی امین درزدار 2×4 اینچ" [ref=e300]
+            - generic [ref=e301]:
+              - heading [level=2] [ref=e302]:
+                - link "تبدیل مارکدار درزدار 2*4 اینچ فولاد صنعت امین جوشی" [ref=e303] [cursor=pointer]:
+                  - /url: https://parsianfoolad.ir/product/%d8%aa%d8%a8%d8%af%db%8c%d9%84-%d8%ac%d9%88%d8%b4%db%8c-%d8%a7%d9%85%db%8c%d9%86-%d8%af%d8%b1%d8%b2%d8%af%d8%a7%d8%b1-2x4-%d8%a7%db%8c%d9%86%da%86/
+              - generic [ref=e304]: 108,000 تومان
+          - generic [ref=e309]:
+            - link [ref=e312] [cursor=pointer]:
+              - /url: https://parsianfoolad.ir/product/%d8%aa%d8%a8%d8%af%db%8c%d9%84-%d8%ac%d9%88%d8%b4%db%8c-%d8%a7%d9%85%db%8c%d9%86-%d8%af%d8%b1%d8%b2%d8%af%d8%a7%d8%b1-2-5-x-4-%d8%a7%db%8c%d9%86%da%86/
+              - img "تبدیل جوشی امین درزدار 2×4 اینچ" [ref=e313]
+            - generic [ref=e314]:
+              - heading [level=2] [ref=e315]:
+                - link "تبدیل مارکدار درزدار 2 1/2 * 4 اینچ فولاد صنعت امین جوشی" [ref=e316] [cursor=pointer]:
+                  - /url: https://parsianfoolad.ir/product/%d8%aa%d8%a8%d8%af%db%8c%d9%84-%d8%ac%d9%88%d8%b4%db%8c-%d8%a7%d9%85%db%8c%d9%86-%d8%af%d8%b1%d8%b2%d8%af%d8%a7%d8%b1-2-5-x-4-%d8%a7%db%8c%d9%86%da%86/
+              - generic [ref=e317]: 104,000 تومان
+          - generic [ref=e322]:
+            - link [ref=e325] [cursor=pointer]:
+              - /url: https://parsianfoolad.ir/product/%d8%aa%d8%a8%d8%af%db%8c%d9%84-%d8%ac%d9%88%d8%b4%db%8c-%d8%a7%d9%85%db%8c%d9%86-%d8%af%d8%b1%d8%b2%d8%af%d8%a7%d8%b1-4x3-%d8%a7%db%8c%d9%86%da%86/
+              - img "تبدیل جوشی امین درزدار 2×4 اینچ" [ref=e326]
+            - generic [ref=e327]:
+              - heading [level=2] [ref=e328]:
+                - link "تبدیل مارکدار درزدار 4*3 اینچ فولاد صنعت امین جوشی" [ref=e329] [cursor=pointer]:
+                  - /url: https://parsianfoolad.ir/product/%d8%aa%d8%a8%d8%af%db%8c%d9%84-%d8%ac%d9%88%d8%b4%db%8c-%d8%a7%d9%85%db%8c%d9%86-%d8%af%d8%b1%d8%b2%d8%af%d8%a7%d8%b1-4x3-%d8%a7%db%8c%d9%86%da%86/
+              - generic [ref=e330]: 98,400 تومان
+          - generic [ref=e335]:
+            - link [ref=e338] [cursor=pointer]:
+              - /url: https://parsianfoolad.ir/product/%d8%aa%d8%a8%d8%af%db%8c%d9%84-%d9%85%d8%a7%d8%b1%da%a9%d8%af%d8%a7%d8%b1-%d8%af%d8%b1%d8%b2%d8%af%d8%a7%d8%b1-1-4-1-3-%d8%a7%db%8c%d9%86%da%86-%d9%81%d9%88%d9%84/
+              - img "تبدیل جوشی امین درزدار 2×4 اینچ" [ref=e339]
+            - generic [ref=e340]:
+              - heading [level=2] [ref=e341]:
+                - link "تبدیل مارکدار درزدار 1/4 1 * 3 اینچ فولاد صنعت امین جوشی" [ref=e342] [cursor=pointer]:
+                  - /url: https://parsianfoolad.ir/product/%d8%aa%d8%a8%d8%af%db%8c%d9%84-%d9%85%d8%a7%d8%b1%da%a9%d8%af%d8%a7%d8%b1-%d8%af%d8%b1%d8%b2%d8%af%d8%a7%d8%b1-1-4-1-3-%d8%a7%db%8c%d9%86%da%86-%d9%81%d9%88%d9%84/
+              - generic [ref=e343]: 74,400 تومان
+          - generic [ref=e348]:
+            - link [ref=e351] [cursor=pointer]:
+              - /url: https://parsianfoolad.ir/product/%d8%aa%d8%a8%d8%af%db%8c%d9%84-%d9%85%d8%a7%d8%b1%da%a9%d8%af%d8%a7%d8%b1-%d8%af%d8%b1%d8%b2%d8%af%d8%a7%d8%b1-1-2-1-3-%d8%a7%db%8c%d9%86%da%86-%d9%81%d9%88/
+              - img "تبدیل جوشی امین درزدار 2×4 اینچ" [ref=e352]
+            - generic [ref=e353]:
+              - heading [level=2] [ref=e354]:
+                - link "تبدیل مارکدار درزدار 1/2 1 * 3 اینچ فولاد صنعت امین جوشی" [ref=e355] [cursor=pointer]:
+                  - /url: https://parsianfoolad.ir/product/%d8%aa%d8%a8%d8%af%db%8c%d9%84-%d9%85%d8%a7%d8%b1%da%a9%d8%af%d8%a7%d8%b1-%d8%af%d8%b1%d8%b2%d8%af%d8%a7%d8%b1-1-2-1-3-%d8%a7%db%8c%d9%86%da%86-%d9%81%d9%88/
+              - generic [ref=e356]: 68,800 تومان
+          - generic [ref=e361]:
+            - link [ref=e364] [cursor=pointer]:
+              - /url: https://parsianfoolad.ir/product/%d8%aa%d8%a8%d8%af%db%8c%d9%84-%d9%85%d8%a7%d8%b1%da%a9%d8%af%d8%a7%d8%b1-%d8%af%d8%b1%d8%b2%d8%af%d8%a7%d8%b12-3-%d8%a7%db%8c%d9%86%da%86-%d9%81%d9%88%d9%84%d8%a7/
+              - img "تبدیل جوشی امین درزدار 2×4 اینچ" [ref=e365]
+            - generic [ref=e366]:
+              - heading [level=2] [ref=e367]:
+                - link "تبدیل مارکدار درزدار2 * 3 اینچ فولاد صنعت امین جوشی" [ref=e368] [cursor=pointer]:
+                  - /url: https://parsianfoolad.ir/product/%d8%aa%d8%a8%d8%af%db%8c%d9%84-%d9%85%d8%a7%d8%b1%da%a9%d8%af%d8%a7%d8%b1-%d8%af%d8%b1%d8%b2%d8%af%d8%a7%d8%b12-3-%d8%a7%db%8c%d9%86%da%86-%d9%81%d9%88%d9%84%d8%a7/
+              - generic [ref=e369]: 68,800 تومان
+          - generic [ref=e374]:
+            - link [ref=e377] [cursor=pointer]:
+              - /url: https://parsianfoolad.ir/product/%d8%aa%d8%a8%d8%af%db%8c%d9%84-%d9%85%d8%a7%d8%b1%da%a9%d8%af%d8%a7%d8%b1-%d8%af%d8%b1%d8%b2%d8%af%d8%a7%d8%b1-1-2-2-1-4-1-%d8%a7%db%8c%d9%86%da%86-%d9%81/
+              - img "تبدیل جوشی امین درزدار 2×4 اینچ" [ref=e378]
+            - generic [ref=e379]:
+              - heading [level=2] [ref=e380]:
+                - link "تبدیل مارکدار درزدار 1/2 2 * 1/4 1 اینچ فولاد صنعت امین جوشی" [ref=e381] [cursor=pointer]:
+                  - /url: https://parsianfoolad.ir/product/%d8%aa%d8%a8%d8%af%db%8c%d9%84-%d9%85%d8%a7%d8%b1%da%a9%d8%af%d8%a7%d8%b1-%d8%af%d8%b1%d8%b2%d8%af%d8%a7%d8%b1-1-2-2-1-4-1-%d8%a7%db%8c%d9%86%da%86-%d9%81/
+              - generic [ref=e382]: 67,200 تومان
+          - generic [ref=e387]:
+            - link [ref=e390] [cursor=pointer]:
+              - /url: https://parsianfoolad.ir/product/%d8%aa%d8%a8%d8%af%db%8c%d9%84-%d9%85%d8%a7%d8%b1%da%a9%d8%af%d8%a7%d8%b1-%d8%af%d8%b1%d8%b2%d8%af%d8%a7%d8%b1-1-2-2-3-%d8%a7%db%8c%d9%86%da%86-%d9%81%d9%88/
+              - img "تبدیل جوشی امین درزدار 2×4 اینچ" [ref=e391]
+            - generic [ref=e392]:
+              - heading [level=2] [ref=e393]:
+                - link "تبدیل مارکدار درزدار 1/2 2 * 3 اینچ فولاد صنعت امین جوشی" [ref=e394] [cursor=pointer]:
+                  - /url: https://parsianfoolad.ir/product/%d8%aa%d8%a8%d8%af%db%8c%d9%84-%d9%85%d8%a7%d8%b1%da%a9%d8%af%d8%a7%d8%b1-%d8%af%d8%b1%d8%b2%d8%af%d8%a7%d8%b1-1-2-2-3-%d8%a7%db%8c%d9%86%da%86-%d9%81%d9%88/
+              - generic [ref=e395]: 61,600 تومان
+      - generic [ref=e400]:
+        - link [ref=e406] [cursor=pointer]:
+          - /url: https://parsianfoolad.ir//product-category/%d8%a7%d9%86%d9%88%d8%a7%d8%b9-%d9%84%d9%88%d9%84%d9%87/%d9%84%d9%88%d9%84%d9%87-%d9%87%d8%a7%db%8c-%d9%be%d9%84%db%8c%da%a9%d8%a7-%d9%88-%d9%be%d9%88%d8%b4%db%8c%d9%81%d8%aa/
+        - link [ref=e412] [cursor=pointer]:
+          - /url: https://parsianfoolad.ir//product-category/%d8%a7%d9%86%d9%88%d8%a7%d8%b9-%d9%84%d9%88%d9%84%d9%87/%d9%84%d9%88%d9%84%d9%87-%d9%87%d8%a7%db%8c-%d9%be%d9%84%db%8c%da%a9%d8%a7-%d9%88-%d9%be%d9%88%d8%b4%db%8c%d9%81%d8%aa/
+      - generic [ref=e416]:
+        - generic [ref=e417]: مقالات
+        - link "مشاهده همه" [ref=e418] [cursor=pointer]:
+          - /url: https://parsianfoolad.ir//%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa/
+  - generic:
+    - list:
+      - listitem:
+        - link "0":
+          - /url: https://parsianfoolad.ir/compare/
+      - listitem:
+        - link "0":
+          - /url: https://parsianfoolad.ir/cart/
+      - listitem:
+        - link "رفتن به بالا":
+          - /url: "#"
+  - generic [ref=e421]:
+    - table [ref=e423]:
+      - rowgroup [ref=e424]:
+        - row [ref=e425]:
+          - cell [ref=e426]:
+            - heading "مقایسه محصولات 0 محصول" [level=5] [ref=e427]:
+              - generic [ref=e428]: مقایسه محصولات
+              - paragraph [ref=e429]: 0 محصول
+          - cell [ref=e430]:
+            - generic [ref=e431]:
+              - img "مقایسه محصول" [ref=e559]
+              - img "مقایسه محصول" [ref=e560]
+              - img "مقایسه محصول" [ref=e561]
+              - img "مقایسه محصول" [ref=e562]
+          - cell [ref=e448]
+    - link [ref=e449] [cursor=pointer]:
+      - /url: "#"
+  - contentinfo [ref=e452]:
+    - generic [ref=e455]:
+      - form "فرم جدید" [ref=e458]:
+        - generic [ref=e459]:
+          - textbox "ایمیل" [ref=e461]
+          - button "عضویت" [ref=e463] [cursor=pointer]
+      - heading "در خبر نامه ما عضو شوید و از آخرین اخبار ما آگاه شوید" [level=2] [ref=e468]
+    - generic [ref=e470]:
+      - link [ref=e473] [cursor=pointer]:
+        - /url: https://parsianfoolad.ir
+      - generic [ref=e474]:
+        - paragraph [ref=e477]: پارسیان فولاد را درفضای مجازی دنبال کنید
+        - list [ref=e480]:
+          - listitem [ref=e481]:
+            - generic [ref=e482] [cursor=pointer]: Facebook
+          - listitem [ref=e485]:
+            - generic [ref=e486] [cursor=pointer]: Twitter
+          - listitem [ref=e489]:
+            - generic [ref=e490] [cursor=pointer]: Youtube
+          - listitem [ref=e493]:
+            - generic [ref=e494] [cursor=pointer]: Whatsapp
+          - listitem [ref=e497]:
+            - generic [ref=e498] [cursor=pointer]: Instagram
+    - generic [ref=e504]:
+      - generic [ref=e507]:
+        - heading "درباره پارسیان فولاد" [level=4] [ref=e508]
+        - generic [ref=e509]:
+          - paragraph [ref=e510]: تهیه وتوزیع انواع لوله ،شیرآلات ،اتصالات صنعتی وساختمانی
+          - paragraph [ref=e511]: تجهیزات آتشنشانی،
+          - paragraph [ref=e512]: تولید کننده ی بست داربست
+      - generic [ref=e516]:
+        - heading "تماس با ما" [level=5] [ref=e517]
+        - generic [ref=e518]: تهران، بازار آهن شاد آباد،مجتمع پارسیان ،بلوک آبان،پلاک52
+        - generic [ref=e522] [cursor=pointer]:
+          - strong [ref=e525]: "0216"
+          - text: 6153759 - 02166154227- 02166154412
+        - generic [ref=e526]: info@parsianfoolad.ir
+      - link [ref=e530] [cursor=pointer]:
+        - /url: https://trustseal.enamad.ir/?id=284529&Code=g8Zq6FTSQ0I1KwRaJfUO
+      - generic [ref=e531]:
+        - img "logo-samandehi" [ref=e534] [cursor=pointer]
+        - link [ref=e537] [cursor=pointer]:
+          - /url: https://trustseal.enamad.ir/?id=583825&Code=TeiNzsVyjZxsVlY12IgnT4tF1mojgEuW
+    - generic [ref=e539]:
+      - paragraph [ref=e548]:
+        - text: کلیه حقوق مادی و معنوی برای این سایت محفوظ می باشد.
+        - link "طراحی و پشتیبانی سایت کارووب" [ref=e549] [cursor=pointer]:
+          - /url: http://karooweb.ir
+      - generic [ref=e550]: رفتن به بالا
+  - generic [ref=e558]: desktop
+```

@@ -1,0 +1,348 @@
+### Page
+- Page URL: https://avval.ir/profile/dfcbe/%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%DA%86%D8%A7%D9%BE-%D9%88-%D8%A8%D8%B3%D8%AA%D9%87-%D8%A8%D9%86%D8%AF%DB%8C-%D8%A8%D8%A7%DA%A9%D8%B3-%DB%8C%D8%A7%D8%B1
+- Page Title: صنایع چاپ و بسته بندی باکس یار - چاپ و جعبه سازی | کتاب اول
+- Console: 4 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - link "home page" [ref=e5] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - textbox "فعالیت شغلی، نام کسب و کار، خدمات و محصولات و ..." [ref=e11]
+            - generic [ref=e12]: در
+            - generic [ref=e13]:
+              - textbox "شهر، محله، منطقه، خیابان و ..." [ref=e14]
+              - button "جستجو بر اساس موقعیت مکانی" [ref=e16] [cursor=pointer]
+            - button "جستجو" [ref=e19] [cursor=pointer]
+          - list
+      - link "ثبت رایگان اطلاعات شغلی" [ref=e23] [cursor=pointer]:
+        - /url: /%D8%AB%D8%A8%D8%AA-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D8%B4%D8%BA%D9%84%DB%8C
+      - button "ورود | ثبت نام" [ref=e26] [cursor=pointer]
+    - navigation [ref=e30]:
+      - list [ref=e31]:
+        - listitem [ref=e32]:
+          - button "دسته بندی مشاغل" [ref=e33] [cursor=pointer]
+        - listitem [ref=e35]: "|"
+        - listitem [ref=e36]:
+          - link "تبلیغات با ما" [ref=e37] [cursor=pointer]:
+            - /url: /%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-%D9%88%D8%A8-%D8%B3%D8%A7%DB%8C%D8%AA-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+        - listitem [ref=e40]: "|"
+        - listitem [ref=e41]:
+          - link "دسترسی بانک مشاغل" [ref=e42] [cursor=pointer]:
+            - /url: /%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B4%D8%A7%D8%BA%D9%84-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+        - listitem [ref=e45]: "|"
+        - listitem [ref=e46]:
+          - link "پنل اس ام اس" [ref=e47] [cursor=pointer]:
+            - /url: /smspanel
+  - generic [ref=e53]:
+    - main [ref=e54]:
+      - generic [ref=e55]:
+        - img "لوگوی صنایع چاپ و بسته بندی باکس یار - چاپ و جعبه سازی" [ref=e57]
+        - generic [ref=e58]:
+          - heading "صنایع چاپ و بسته بندی باکس یار" [level=1] [ref=e59]
+          - generic [ref=e60]: چاپ و بسته بندی جعبه پیتزا، جعبه فست فود، جعبه شیرینی،جعبه سفارشی، پاکت بیرون بر، سینگل فیس، پاکت عمومی ساندویچ و همبرگر
+          - list [ref=e61]:
+            - listitem [ref=e62]: چاپ و جعبه سازی
+            - listitem [ref=e63]: بسته بندی مواد غذایی
+      - generic [ref=e64]:
+        - link "تماس" [ref=e65] [cursor=pointer]:
+          - /url: "#"
+        - button "ثبت نظر" [ref=e70] [cursor=pointer]
+        - button "ارتقای پروفایل" [ref=e73] [cursor=pointer]
+        - button "ویرایش" [ref=e76] [cursor=pointer]
+        - button "اشتراک گذاری" [ref=e81] [cursor=pointer]
+      - navigation [ref=e89]:
+        - list [ref=e90]:
+          - listitem [ref=e91]:
+            - link "link to home" [ref=e92] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e96]
+          - listitem [ref=e99]:
+            - link "دسته‌بندی مشاغل" [ref=e100] [cursor=pointer]:
+              - /url: /directory
+          - listitem [ref=e101]
+          - listitem [ref=e104]:
+            - link "چاپ و جعبه سازی" [ref=e105] [cursor=pointer]:
+              - /url: /directory/%DA%86%D8%A7%D9%BE-%D9%88-%D8%AC%D8%B9%D8%A8%D9%87-%D8%B3%D8%A7%D8%B2%DB%8C
+          - listitem [ref=e106]
+          - listitem [ref=e109]:
+            - link "تهران" [ref=e110] [cursor=pointer]:
+              - /url: /directory/%DA%86%D8%A7%D9%BE-%D9%88-%D8%AC%D8%B9%D8%A8%D9%87-%D8%B3%D8%A7%D8%B2%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86
+          - listitem [ref=e111]
+          - listitem [ref=e114]:
+            - link "محله امامزاده یحیی" [ref=e115] [cursor=pointer]:
+              - /url: /directory/%DA%86%D8%A7%D9%BE-%D9%88-%D8%AC%D8%B9%D8%A8%D9%87-%D8%B3%D8%A7%D8%B2%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%85%D8%AD%D9%84%D9%87-%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87-%DB%8C%D8%AD%DB%8C%DB%8C
+      - generic [ref=e116]:
+        - heading "اطلاعات تماس" [level=2] [ref=e118]
+        - list [ref=e119]:
+          - listitem [ref=e120]:
+            - generic [ref=e121]: "آدرس :"
+            - generic [ref=e125]: تهران، منطقه 12، محله امامزاده یحیی، بزرگراه محلاتی، نرسیده چهارراه سیروس، بعد از پل ری، خیابان جمشیدپور، پلاک 34
+          - listitem [ref=e126]:
+            - generic [ref=e127]: "تلفن :"
+            - button "نمایش شماره" [ref=e130] [cursor=pointer]
+            - generic [ref=e131]: XXXXXXXXXX
+          - listitem [ref=e132]:
+            - generic [ref=e133]: "تلفن همراه :"
+            - button "نمایش شماره" [ref=e136] [cursor=pointer]
+            - generic [ref=e137]: XXXXXXXXXX
+          - listitem [ref=e138]:
+            - generic [ref=e139]: "ایمیل :"
+            - link "v.hekmat@gmail.com" [ref=e144] [cursor=pointer]:
+              - /url: mailto://v.hekmat@gmail.com
+          - listitem [ref=e145]:
+            - generic [ref=e146]: "صفحات اجتماعی :"
+            - list [ref=e152]:
+              - listitem [ref=e153]:
+                - link "link to instagram" [ref=e154] [cursor=pointer]:
+                  - /url: http://instagram.com/boxyar
+              - listitem [ref=e162]:
+                - link "link to telegram" [ref=e163] [cursor=pointer]:
+                  - /url: http://t.me/boxyar
+                  - img "Telegram" [ref=e164]
+      - generic [ref=e170]:
+        - heading "توضیحات" [level=2] [ref=e172]
+        - generic [ref=e173]: محصولات ارائه شده کاملا منطبق با سلیقه شما مشتریان گرامی از نظر چاپ و بسته بندی خواهد بود.اجناس مذکور با مناسب ترین قیمت و در کوتاه ترین زمان ممکن آماده تحویل به سراسر کشور می باشد.همچنین ما متضمن کنترل کیفی محصول خود و ارجاع آن در صورت بروز مشکل خواهیم بود.محصولات مذکور با گرماژهای مختلف به سلیقه مشتری و 2 نوع چاپ(سیلک و افست) می باشد.حداقل تیراژ چاپ سیلک از هر نوع محصول هزار عدد و حداقل تیراژ چاپ افست پنج هزار عدد می باشد.زمان سفارش جهت چاپ سیلک حدودا یک هفته کاری و جهت چاپ افست حدودا پانزده روز کاری می باشد.در خصوص طراحی، نوع و تعداد رنگ محصول درخواستی و هزینه های مربوطه لطفا با تلفن های ذکر شده، تماس حاصل فرمایید.
+      - generic [ref=e174]:
+        - heading "نظرات" [level=2] [ref=e176]
+        - generic [ref=e177]:
+          - paragraph [ref=e178]: لطفا به این کسب و کار امتیاز بدید و نظر خودتون رو درباره این کسب و کار بنویسید
+          - generic [ref=e179]:
+            - generic [ref=e182]:
+              - generic [ref=e183]: بدون رای
+              - generic "بدون رای" [ref=e185] [cursor=pointer]:
+                - textbox "امتیاز شما برای این کسب و کار" [ref=e217]
+            - generic [ref=e218]:
+              - generic [ref=e219]: حداکثر 2000 کاراکتر
+              - textbox "به نظر من ..." [ref=e220]
+              - button "ثبت نظر" [ref=e221] [cursor=pointer]
+          - text: ✕
+    - complementary [ref=e222]:
+      - generic [ref=e224]:
+        - generic [ref=e225]:
+          - generic:
+            - region "Map" [ref=e226]
+            - generic: برای بزرگنمایی نقشه، از ⌘ + پیمایش استفاده کنید
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e227] [cursor=pointer]
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e228] [cursor=pointer]
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e242] [cursor=pointer]
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e251] [cursor=pointer]
+          - generic:
+            - generic:
+              - generic [ref=e265]:
+                - button "Zoom in" [ref=e266] [cursor=pointer]
+                - button "Zoom out" [ref=e268] [cursor=pointer]
+              - button "Enter fullscreen" [ref=e271] [cursor=pointer]
+        - generic [ref=e273]:
+          - button "گوگل" [ref=e274] [cursor=pointer]
+          - button [ref=e281] [cursor=pointer]:
+            - img "بلد" [ref=e282]
+            - text: بلد
+          - button [ref=e283] [cursor=pointer]:
+            - img "نشان" [ref=e284]
+            - text: نشان
+      - list [ref=e287]:
+        - listitem [ref=e288]:
+          - paragraph [ref=e289]: نزدیک ترین ایستگاه بی آر تی به صنایع چاپ و بسته بندی باکس یار
+          - link "ایستگاه اتوبوس میدان قیام - کد 5175 و 52 716 متر" [ref=e290] [cursor=pointer]:
+            - /url: /profile/23695/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A7%D8%AA%D9%88%D8%A8%D9%88%D8%B3-%D9%85%DB%8C%D8%AF%D8%A7%D9%86-%D9%82%DB%8C%D8%A7%D9%85-%DA%A9%D8%AF-5175-%D9%88-52
+        - listitem [ref=e301]:
+          - paragraph [ref=e302]: نزدیک ترین ایستگاه مترو به صنایع چاپ و بسته بندی باکس یار
+          - link "ایستگاه مترو میدان قیام 651 متر" [ref=e303] [cursor=pointer]:
+            - /url: /profile/a58dd/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%85%D8%AA%D8%B1%D9%88-%D9%85%DB%8C%D8%AF%D8%A7%D9%86-%D9%82%DB%8C%D8%A7%D9%85
+        - listitem [ref=e312]:
+          - paragraph [ref=e313]: نزدیک ترین ایستگاه اتوبوس به صنایع چاپ و بسته بندی باکس یار
+          - link "ایستگاه اتوبوس آبشار - کد 164 - شمال به جنوب 102 متر" [ref=e314] [cursor=pointer]:
+            - /url: /profile/1cee3/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A7%D8%AA%D9%88%D8%A8%D9%88%D8%B3-%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1-%DA%A9%D8%AF-164-%D8%B4%D9%85%D8%A7%D9%84-%D8%A8%D9%87-%D8%AC%D9%86%D9%88%D8%A8
+      - generic [ref=e326]:
+        - heading "تصاویر" [level=2] [ref=e328]
+        - generic [ref=e329]:
+          - link "main image" [ref=e331] [cursor=pointer]:
+            - /url: /filehash/A9zAjbcbiaApsvoCfhgbbgDtzq.jpg
+            - img "صنایع چاپ و بسته بندی باکس یار - چاپ و جعبه سازی شماره 1" [ref=e332]
+          - generic [ref=e333]:
+            - link "Images" [ref=e335] [cursor=pointer]:
+              - /url: /filehash/A9zAjbcbiaApsvoCfhgbbfDtzq.jpg
+              - img "صنایع چاپ و بسته بندی باکس یار - چاپ و جعبه سازی شماره 2" [ref=e336]
+            - link "Images" [ref=e338] [cursor=pointer]:
+              - /url: /filehash/A9zAjbcbiaApsvoCfhgbbdDzxq.png
+              - img "صنایع چاپ و بسته بندی باکس یار - چاپ و جعبه سازی شماره 3" [ref=e339]
+            - link "Images" [ref=e341] [cursor=pointer]:
+              - /url: /filehash/A9zAjbcbiaApsvoCfhgcbeDtzq.jpg
+              - img "صنایع چاپ و بسته بندی باکس یار - چاپ و جعبه سازی شماره 4" [ref=e342]
+            - link "Images" [ref=e344] [cursor=pointer]:
+              - /url: /filehash/A9zAjbcbiaApsvoCfhgbbhDtzq.jpg
+              - img "صنایع چاپ و بسته بندی باکس یار - چاپ و جعبه سازی شماره 5" [ref=e345]
+            - link "More images" [ref=e346] [cursor=pointer]:
+              - /url: "#"
+      - generic [ref=e349]:
+        - heading "کسب و کارهای مشابه" [level=2] [ref=e351]
+        - navigation [ref=e352]:
+          - list [ref=e353]:
+            - listitem [ref=e354]:
+              - link "کارتن سازی و جعبه سازی آرمن پک کارتن سازی و جعبه سازی آرمن پک 5.0 (1 نظر) چاپ و جعبه سازی تولید کارتن مقوایی تهران، منطقه صنعتی خرمدشت، بلوار اصلی" [ref=e355] [cursor=pointer]:
+                - /url: /profile/471c9/%DA%A9%D8%A7%D8%B1%D8%AA%D9%86-%D8%B3%D8%A7%D8%B2%DB%8C-%D9%88-%D8%AC%D8%B9%D8%A8%D9%87-%D8%B3%D8%A7%D8%B2%DB%8C-%D8%A2%D8%B1%D9%85%D9%86-%D9%BE%DA%A9
+                - img "کارتن سازی و جعبه سازی آرمن پک" [ref=e356]
+                - generic [ref=e357]:
+                  - heading "کارتن سازی و جعبه سازی آرمن پک" [level=3] [ref=e358]
+                  - generic [ref=e359]:
+                    - generic [ref=e370]: "5.0"
+                    - generic [ref=e371]: (1 نظر)
+                  - list [ref=e372]:
+                    - listitem [ref=e373]: چاپ و جعبه سازی
+                    - listitem [ref=e374]: تولید کارتن مقوایی
+                  - generic [ref=e375]: تهران، منطقه صنعتی خرمدشت، بلوار اصلی
+            - listitem [ref=e379]:
+              - link "تولید انواع جعبه و کارتن بهتاپک تولید انواع جعبه و کارتن بهتاپک 5.0 (1 نظر) تولید کارتن مقوایی لیتوگرافی چاپخانه تهران، منطقه 18، بزرگراه فتح" [ref=e380] [cursor=pointer]:
+                - /url: /profile/nabge/%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%AC%D8%B9%D8%A8%D9%87-%D9%88-%DA%A9%D8%A7%D8%B1%D8%AA%D9%86-%D8%A8%D9%87%D8%AA%D8%A7%D9%BE%DA%A9
+                - img "تولید انواع جعبه و کارتن بهتاپک" [ref=e381]
+                - generic [ref=e382]:
+                  - heading "تولید انواع جعبه و کارتن بهتاپک" [level=3] [ref=e383]
+                  - generic [ref=e384]:
+                    - generic [ref=e395]: "5.0"
+                    - generic [ref=e396]: (1 نظر)
+                  - list [ref=e397]:
+                    - listitem [ref=e398]: تولید کارتن مقوایی
+                    - listitem [ref=e399]: لیتوگرافی
+                    - listitem [ref=e400]: چاپخانه
+                  - generic [ref=e401]: تهران، منطقه 18، بزرگراه فتح
+            - listitem [ref=e405]:
+              - link "طراحی و چاپ صفوی طراحی و چاپ صفوی 5.0 (1 نظر) چاپ کاتالوگ و بروشور چاپ دیجیتال تهران، منطقه 6، خیابان انقلاب" [ref=e406] [cursor=pointer]:
+                - /url: /profile/31c5d/%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D9%88-%DA%86%D8%A7%D9%BE-%D8%B5%D9%81%D9%88%DB%8C
+                - img "طراحی و چاپ صفوی" [ref=e407]
+                - generic [ref=e408]:
+                  - heading "طراحی و چاپ صفوی" [level=3] [ref=e409]
+                  - generic [ref=e410]:
+                    - generic [ref=e421]: "5.0"
+                    - generic [ref=e422]: (1 نظر)
+                  - list [ref=e423]:
+                    - listitem [ref=e424]: چاپ کاتالوگ و بروشور
+                    - listitem [ref=e425]: چاپ دیجیتال
+                  - generic [ref=e426]: تهران، منطقه 6، خیابان انقلاب
+            - listitem [ref=e430]:
+              - link "چای شمال سبزگامان هستی چای شمال سبزگامان هستی 5.0 (1 نظر) تولید چای بسته بندی مواد غذایی گیلان، لنگرود، خیابان 17 شهریور" [ref=e431] [cursor=pointer]:
+                - /url: /profile/262f7/%DA%86%D8%A7%DB%8C-%D8%B4%D9%85%D8%A7%D9%84-%D8%B3%D8%A8%D8%B2%DA%AF%D8%A7%D9%85%D8%A7%D9%86-%D9%87%D8%B3%D8%AA%DB%8C
+                - img "چای شمال سبزگامان هستی" [ref=e432]
+                - generic [ref=e433]:
+                  - heading "چای شمال سبزگامان هستی" [level=3] [ref=e434]
+                  - generic [ref=e435]:
+                    - generic [ref=e446]: "5.0"
+                    - generic [ref=e447]: (1 نظر)
+                  - list [ref=e448]:
+                    - listitem [ref=e449]: تولید چای
+                    - listitem [ref=e450]: بسته بندی مواد غذایی
+                  - generic [ref=e451]: گیلان، لنگرود، خیابان 17 شهریور
+            - listitem [ref=e455]:
+              - link "الماس آبی الماس آبی 5.0 (2 نظر) چاپ و جعبه سازی چاپ صنعتی چاپ تامپو تهران، منطقه 12، محله سیروس، چهارراه سیرویس" [ref=e456] [cursor=pointer]:
+                - /url: /profile/a6467/%D8%A7%D9%84%D9%85%D8%A7%D8%B3-%D8%A2%D8%A8%DB%8C
+                - img "الماس آبی" [ref=e457]
+                - generic [ref=e458]:
+                  - heading "الماس آبی" [level=3] [ref=e459]
+                  - generic [ref=e460]:
+                    - generic [ref=e471]: "5.0"
+                    - generic [ref=e472]: (2 نظر)
+                  - list [ref=e473]:
+                    - listitem [ref=e474]: چاپ و جعبه سازی
+                    - listitem [ref=e475]: چاپ صنعتی
+                    - listitem [ref=e476]: چاپ تامپو
+                  - generic [ref=e477]: تهران، منطقه 12، محله سیروس، چهارراه سیرویس
+            - listitem [ref=e481]:
+              - link "مجموعه چاپ و بسته بندی سانی چاپ مجموعه چاپ و بسته بندی سانی چاپ 5.0 (1 نظر) چاپ تقویم چاپ کاتالوگ و بروشور تهران، منطقه 12، محله بهارستان، خیابان جمهوری" [ref=e482] [cursor=pointer]:
+                - /url: /profile/4995a/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%DA%86%D8%A7%D9%BE-%D9%88-%D8%A8%D8%B3%D8%AA%D9%87-%D8%A8%D9%86%D8%AF%DB%8C-%D8%B3%D8%A7%D9%86%DB%8C-%DA%86%D8%A7%D9%BE
+                - img "مجموعه چاپ و بسته بندی سانی چاپ" [ref=e483]
+                - generic [ref=e484]:
+                  - heading "مجموعه چاپ و بسته بندی سانی چاپ" [level=3] [ref=e485]
+                  - generic [ref=e486]:
+                    - generic [ref=e497]: "5.0"
+                    - generic [ref=e498]: (1 نظر)
+                  - list [ref=e499]:
+                    - listitem [ref=e500]: چاپ تقویم
+                    - listitem [ref=e501]: چاپ کاتالوگ و بروشور
+                  - generic [ref=e502]: تهران، منطقه 12، محله بهارستان، خیابان جمهوری
+            - listitem [ref=e506]:
+              - link "چاپ زرین چاپ زرین 5.0 (1 نظر) چاپ کاتالوگ و بروشور چاپ و جعبه سازی تهران، منطقه 14، محله شکوفه، خیابان پیروزی" [ref=e507] [cursor=pointer]:
+                - /url: /profile/a9fb6/%DA%86%D8%A7%D9%BE-%D8%B2%D8%B1%DB%8C%D9%86
+                - img "چاپ زرین" [ref=e508]
+                - generic [ref=e509]:
+                  - heading "چاپ زرین" [level=3] [ref=e510]
+                  - generic [ref=e511]:
+                    - generic [ref=e522]: "5.0"
+                    - generic [ref=e523]: (1 نظر)
+                  - list [ref=e524]:
+                    - listitem [ref=e525]: چاپ کاتالوگ و بروشور
+                    - listitem [ref=e526]: چاپ و جعبه سازی
+                  - generic [ref=e527]: تهران، منطقه 14، محله شکوفه، خیابان پیروزی
+    - text: ✕ ✕
+  - contentinfo [ref=e531]:
+    - generic [ref=e532]:
+      - generic [ref=e533]:
+        - link "home page" [ref=e534] [cursor=pointer]:
+          - /url: /
+        - list [ref=e537]:
+          - listitem [ref=e538]:
+            - link "Telegram" [ref=e539] [cursor=pointer]:
+              - /url: https://t.me/avval_ir
+          - listitem [ref=e545]:
+            - link "instagram" [ref=e546] [cursor=pointer]:
+              - /url: https://instagram.com/ketabeavval.officialpage
+          - listitem [ref=e551]:
+            - link "Twitter" [ref=e552] [cursor=pointer]:
+              - /url: https://twitter.com/ketabeavvalir
+          - listitem [ref=e556]:
+            - link "Facebook" [ref=e557] [cursor=pointer]:
+              - /url: https://www.facebook.com/avval/
+          - listitem [ref=e561]:
+            - link "Linkedin" [ref=e562] [cursor=pointer]:
+              - /url: https://linkedin.com/company/ketabeavval/
+      - navigation [ref=e567]:
+        - generic [ref=e568]:
+          - generic [ref=e569]: درباره کتاب اول
+          - list [ref=e570]:
+            - listitem [ref=e571]:
+              - link "درباره کتاب اول" [ref=e572] [cursor=pointer]:
+                - /url: /about-ketabeavval
+            - listitem [ref=e573]:
+              - link "تماس با کتاب اول" [ref=e574] [cursor=pointer]:
+                - /url: /contact-us
+            - listitem [ref=e575]:
+              - link "شرایط استفاده" [ref=e576] [cursor=pointer]:
+                - /url: /terms-conditions
+            - listitem [ref=e577]:
+              - link "حریم شخضی" [ref=e578] [cursor=pointer]:
+                - /url: /privacy-policy
+        - generic [ref=e579]:
+          - generic [ref=e580]: کشف کنید
+          - list [ref=e581]:
+            - listitem [ref=e582]:
+              - link "دسته بندی مشاغل" [ref=e583] [cursor=pointer]:
+                - /url: /directory
+            - listitem [ref=e584]:
+              - link "نقشه سایت" [ref=e585] [cursor=pointer]:
+                - /url: /sitemap
+            - listitem [ref=e586]:
+              - link "دسترسی بانک مشاغل کتاب اول" [ref=e587] [cursor=pointer]:
+                - /url: /%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B4%D8%A7%D8%BA%D9%84-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+            - listitem [ref=e588]:
+              - link "پنل اس ام اس" [ref=e589] [cursor=pointer]:
+                - /url: /smspanel
+        - generic [ref=e590]:
+          - generic [ref=e591]: صاحبین مشاغل در کتاب اول
+          - list [ref=e592]:
+            - listitem [ref=e593]:
+              - link "ثبت اطلاعات شغلی" [ref=e594] [cursor=pointer]:
+                - /url: /%D8%AB%D8%A8%D8%AA-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D8%B4%D8%BA%D9%84%DB%8C
+            - listitem [ref=e595]:
+              - link "تبلیغات با کتاب اول" [ref=e596] [cursor=pointer]:
+                - /url: /%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-%D9%88%D8%A8-%D8%B3%D8%A7%DB%8C%D8%AA-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+    - generic [ref=e597]:
+      - img "samandehi logo" [ref=e599] [cursor=pointer]
+      - link "enamad logo" [ref=e601] [cursor=pointer]:
+        - /url: https://trustseal.enamad.ir/?id=194990&Code=3Y0m3d1djm9fuqjoC8mT
+        - img "logo-enamad" [ref=e602]
+    - generic [ref=e603]: 1373-1403 © تمامی حقوق برای شرکت کتاب اول محفوظ است
+  - text: ✕ *
+```

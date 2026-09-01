@@ -1,0 +1,792 @@
+### Page
+- Page URL: https://takvoltage.com/
+- Page Title: اتوماسیون صنعتی و نمایندگی زیمنس، خرید تجهیزات اتوماسیون صنعتی تک ولتاژ
+- Console: 3 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - link "رد کردن به ناوبری" [ref=e3] [cursor=pointer]:
+      - /url: "#menu-main-navigation"
+    - link "رد کردن به محتوای اصلی" [ref=e4] [cursor=pointer]:
+      - /url: "#main-content"
+  - generic [ref=e5]:
+    - banner [ref=e6]:
+      - generic [ref=e7]:
+        - generic [ref=e10]:
+          - generic [ref=e11]: محصولات اتوماسیون صنعتی با قیمت غیر قابل رقابت
+          - generic [ref=e14]:
+            - generic [ref=e15]:
+              - link "Facebook link" [ref=e16] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e17]: 
+              - link "لینک اینستاگرام" [ref=e18] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e19]: 
+              - link "Linkedin link" [ref=e20] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e21]: 
+              - link "لینک تلگرام" [ref=e22] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e23]: 
+            - navigation "Top Bar Right" [ref=e25]:
+              - list [ref=e26]:
+                - listitem [ref=e27]:
+                  - link " خبرنامه" [ref=e28] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=e29]: 
+                    - generic [ref=e30]: خبرنامه
+                - listitem [ref=e31]:
+                  - link "تماس با ما" [ref=e32] [cursor=pointer]:
+                    - /url: /contact-us/
+                - listitem [ref=e34]:
+                  - link "سوالات متداول" [ref=e35] [cursor=pointer]:
+                    - /url: /faqs/
+        - generic [ref=e40]:
+          - link "لوگوی وب سایت" [ref=e43] [cursor=pointer]:
+            - /url: https://takvoltage.com/
+            - img "تک ولتاژ" [ref=e44]
+          - search [ref=e47]:
+            - textbox "جستجو" [ref=e48]:
+              - /placeholder: جستجوی محصولات
+            - text: 
+            - generic "انتخاب دسته بندی" [ref=e50] [cursor=pointer]: 
+            - button "جستجو " [ref=e52] [cursor=pointer]:
+              - generic: جستجو
+              - text: 
+          - generic [ref=e53]:
+            - generic "لیست علاقمندی های من" [ref=e54]:
+              - link " 0" [ref=e55] [cursor=pointer]:
+                - /url: https://takvoltage.com/wishlist/
+                - generic [ref=e56]:
+                  - text: 
+                  - generic [ref=e57]: "0"
+            - link " 0" [ref=e59] [cursor=pointer]:
+              - /url: ""
+              - generic [ref=e60]:
+                - text: 
+                - generic [ref=e61]: "0"
+          - text:  
+        - generic [ref=e64]:
+          - navigation "منوی دسته بندی های سربرگ" [ref=e66]:
+            - generic [ref=e67]:
+              - generic [ref=e68]: 
+              - generic [ref=e69]: دسته بندی کالاها
+              - text: 
+            - list [ref=e71]:
+              - listitem [ref=e72]:
+                - link "محصولات زیمنس محصولات زیمنس " [ref=e73] [cursor=pointer]:
+                  - /url: https://takvoltage.com/product-category/siemens/
+                  - img "محصولات زیمنس" [ref=e74]
+                  - generic [ref=e75]: محصولات زیمنس
+                  - text: 
+              - listitem [ref=e76]:
+                - link "اشنایدر اشنایدر " [ref=e77] [cursor=pointer]:
+                  - /url: https://takvoltage.com/product-category/schneider/
+                  - img "اشنایدر" [ref=e79]
+                  - generic [ref=e80]: اشنایدر
+                  - text: 
+              - listitem [ref=e81]:
+                - link "ال اس LS ال اس LS " [ref=e82] [cursor=pointer]:
+                  - /url: https://takvoltage.com/product-category/ls/
+                  - img "ال اس LS" [ref=e84]
+                  - generic [ref=e85]: ال اس LS
+                  - text: 
+              - listitem [ref=e86]:
+                - link "ABB ABB " [ref=e87] [cursor=pointer]:
+                  - /url: https://takvoltage.com/product-category/abb/
+                  - img "ABB" [ref=e88]
+                  - generic [ref=e89]: ABB
+                  - text: 
+              - listitem [ref=e90]:
+                - link "آلن بردلی آلن بردلی " [ref=e91] [cursor=pointer]:
+                  - /url: https://takvoltage.com/product-category/allen-bradley/
+                  - img "آلن بردلی" [ref=e93]
+                  - generic [ref=e94]: آلن بردلی
+                  - text: 
+              - listitem [ref=e95]:
+                - link "هیوندا هیوندا" [ref=e96] [cursor=pointer]:
+                  - /url: https://takvoltage.com/product-category/hyundai/
+                  - img "هیوندا" [ref=e98]
+                  - generic [ref=e99]: هیوندا
+              - listitem [ref=e100]:
+                - generic [ref=e101]:
+                  - generic [ref=e102]: ابزار دقیق
+                  - text: 
+          - navigation "منوی اصلی" [ref=e104]:
+            - list [ref=e105]:
+              - listitem [ref=e106]:
+                - link "صفحه اصلی" [ref=e107] [cursor=pointer]:
+                  - /url: /
+              - listitem [ref=e109]:
+                - link "محصولات اتوماسیون زیمنس " [ref=e110] [cursor=pointer]:
+                  - /url: https://takvoltage.com/product-category/siemens/
+                  - generic [ref=e111]: محصولات اتوماسیون زیمنس
+                  - text: 
+              - listitem [ref=e112]:
+                - link "تعمیرات اتوماسیون صنعتی" [ref=e113] [cursor=pointer]:
+                  - /url: /تعمیرات-اتوماسیون-صنعتی/
+              - listitem [ref=e115]:
+                - link "تعمیرات PLC زیمنس" [ref=e116] [cursor=pointer]:
+                  - /url: https://takvoltage.com/post/%d8%aa%d8%b9%d9%85%db%8c%d8%b1%d8%a7%d8%aa-plc-%d8%b2%d9%85%db%8c%d9%86%d8%b3/
+              - listitem [ref=e118]:
+                - link "بلاگ" [ref=e119] [cursor=pointer]:
+                  - /url: https://takvoltage.com/blog/
+              - listitem [ref=e121]:
+                - link "درباره تک ولتاژ" [ref=e122] [cursor=pointer]:
+                  - /url: /about-us/
+              - listitem [ref=e124]:
+                - link "تماس با ما" [ref=e125] [cursor=pointer]:
+                  - /url: /contact-us/
+    - main [ref=e128]:
+      - article [ref=e130]:
+        - generic [ref=e139]:
+          - generic [ref=e141]:
+            - generic:
+              - link [ref=e144] [cursor=pointer]:
+                - /url: https://takvoltage.com/wp-content/uploads/2022/09/siemens.webp
+                - img "siemens" [ref=e145]
+              - link [ref=e148] [cursor=pointer]:
+                - /url: https://takvoltage.com/wp-content/uploads/2022/09/schneider.webp
+                - img "schneider" [ref=e149]
+          - text: ‹
+          - link "›" [ref=e150] [cursor=pointer]:
+            - /url: "#vc_images-carousel-1-1788251199"
+        - generic [ref=e157]:
+          - heading "نمایندگی زیمنس | فروش اتوماسیون صنعتی زیمنس | تعمیرات اتوماسیون صنعتی در ایران | سیماتیک | خدمات اتوماسیون صنعتی و ابزار دقیق | پروژه های اتوماسیون صنعتی | شرکت اتوماسیون صنعتی" [level=1] [ref=e158]
+          - link "راهنمای خرید" [ref=e160] [cursor=pointer]:
+            - /url: https://takvoltage.com/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C-%D8%AE%D8%B1%DB%8C%D8%AF/
+        - generic [ref=e164]:
+          - generic [ref=e165]:
+            - generic [ref=e166]:
+              - text: مجموعه محصولات
+              - link "اتوماسیون صنعتی" [ref=e167] [cursor=pointer]:
+                - /url: https://takvoltage.com/
+              - text: تک ولتاژ
+            - heading "برندهای مطرح در اتوماسیون صنعتی" [level=4] [ref=e169]
+            - generic [ref=e170]: محصولات اورجینال و با کیفیت از مطرح ترین سازنده ها
+          - generic [ref=e171]:
+            - figure [ref=e176]:
+              - link [ref=e177] [cursor=pointer]:
+                - /url: https://takvoltage.com/product-category/abb/
+                - img "نمایندگی abb" [ref=e178]
+            - figure [ref=e183]:
+              - link [ref=e184] [cursor=pointer]:
+                - /url: https://takvoltage.com/product-category/ls/
+            - figure [ref=e189]:
+              - link [ref=e190] [cursor=pointer]:
+                - /url: https://takvoltage.com/product-category/schneider/
+            - figure [ref=e195]:
+              - link [ref=e196] [cursor=pointer]:
+                - /url: https://takvoltage.com/product-category/siemens/
+                - img "نمایندگی زیمنس" [ref=e197]
+        - generic [ref=e201]:
+          - generic [ref=e202]:
+            - generic [ref=e203]: پی ال سی، فشار ضعیف، فشار متوسط، درایو و ابزار دقیق
+            - heading "محصولات اتوماسیون صنعتی" [level=2] [ref=e205]
+            - generic [ref=e206]: قطعات اورجینال با قیمت غیر قابل رقابت از واردکننده مستقیم محصولات اتوماسیون صنعتی و ابزار دقیق
+          - generic [ref=e207]:
+            - list [ref=e210]:
+              - listitem [ref=e211]:
+                - link "جدیدترین محصولات" [ref=e212] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e214]:
+                - link "محصولات ویژه" [ref=e215] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e217]:
+                - link "پرمخاطب ترین" [ref=e218] [cursor=pointer]:
+                  - /url: "#"
+            - generic [ref=e222]:
+              - generic [ref=e224]:
+                - link "کلید اتوماتیک هوایی ال اس" [ref=e226] [cursor=pointer]:
+                  - /url: https://takvoltage.com/product/%da%a9%d9%84%db%8c%d8%af-%d8%a7%d8%aa%d9%88%d9%85%d8%a7%d8%aa%db%8c%da%a9-%d9%87%d9%88%d8%a7%db%8c%db%8c-%d8%a7%d9%84-%d8%a7%d8%b3/
+                  - img "کلید اتوماتیک هوایی ال اس" [ref=e228]
+                - heading [level=3] [ref=e230]:
+                  - link "کلید اتوماتیک هوایی ال اس" [ref=e231] [cursor=pointer]:
+                    - /url: https://takvoltage.com/product/%da%a9%d9%84%db%8c%d8%af-%d8%a7%d8%aa%d9%88%d9%85%d8%a7%d8%aa%db%8c%da%a9-%d9%87%d9%88%d8%a7%db%8c%db%8c-%d8%a7%d9%84-%d8%a7%d8%b3/
+              - generic [ref=e233]:
+                - link "کنتاکتور AF برند ABB" [ref=e235] [cursor=pointer]:
+                  - /url: https://takvoltage.com/product/abb-contactors-af/
+                  - img "کنتاکتور AF برند ABB" [ref=e237]
+                - heading [level=3] [ref=e239]:
+                  - link "کنتاکتور AF برند ABB" [ref=e240] [cursor=pointer]:
+                    - /url: https://takvoltage.com/product/abb-contactors-af/
+              - generic [ref=e242]:
+                - link "کلید مینیاتوری اشنایدر" [ref=e244] [cursor=pointer]:
+                  - /url: https://takvoltage.com/product/schneider-miniature-circuit-breaker/
+                  - img "schneider-miniature-circuit-breaker" [ref=e246]
+                - heading [level=3] [ref=e248]:
+                  - link "کلید مینیاتوری اشنایدر" [ref=e249] [cursor=pointer]:
+                    - /url: https://takvoltage.com/product/schneider-miniature-circuit-breaker/
+              - generic [ref=e251]:
+                - link "کنتاکتور 3RT زیمنس" [ref=e253] [cursor=pointer]:
+                  - /url: https://takvoltage.com/product/siemens-3rt-contactors/
+                  - img "کنتاکتور 3rt زیمنس کد فنی 3rt2016-1ap01" [ref=e255]
+                - heading [level=3] [ref=e257]:
+                  - link "کنتاکتور 3RT زیمنس" [ref=e258] [cursor=pointer]:
+                    - /url: https://takvoltage.com/product/siemens-3rt-contactors/
+              - generic [ref=e260]:
+                - link "کنتاکتور LC1D اشنایدر" [ref=e262] [cursor=pointer]:
+                  - /url: https://takvoltage.com/product/schneider-lc1d-contactors/
+                  - img "کنتاکتور LC1D اشنایدر" [ref=e264]
+                - heading [level=3] [ref=e266]:
+                  - link "کنتاکتور LC1D اشنایدر" [ref=e267] [cursor=pointer]:
+                    - /url: https://takvoltage.com/product/schneider-lc1d-contactors/
+              - generic [ref=e269]:
+                - link "سافت استارتر دیجیتال زیمنس" [ref=e271] [cursor=pointer]:
+                  - /url: https://takvoltage.com/product/siemens-digital-soft-starter/
+                  - img "سافت استارتر دیجیتال زیمنس - دریافت قیمت" [ref=e272]
+                - heading [level=3] [ref=e274]:
+                  - link "سافت استارتر دیجیتال زیمنس" [ref=e275] [cursor=pointer]:
+                    - /url: https://takvoltage.com/product/siemens-digital-soft-starter/
+              - generic [ref=e277]:
+                - link "کنتاکتور LC1F اشنایدر" [ref=e279] [cursor=pointer]:
+                  - /url: https://takvoltage.com/product/%da%a9%d9%86%d8%aa%d8%a7%da%a9%d8%aa%d9%88%d8%b1-lc1f-%d8%a7%d8%b4%d9%86%d8%a7%db%8c%d8%af%d8%b1/
+                  - img "کنتاکتور LC1F اشنایدر" [ref=e281]
+                - heading [level=3] [ref=e283]:
+                  - link "کنتاکتور LC1F اشنایدر" [ref=e284] [cursor=pointer]:
+                    - /url: https://takvoltage.com/product/%da%a9%d9%86%d8%aa%d8%a7%da%a9%d8%aa%d9%88%d8%b1-lc1f-%d8%a7%d8%b4%d9%86%d8%a7%db%8c%d8%af%d8%b1/
+              - generic [ref=e286]:
+                - link "پی ال سی لوگو زیمنس" [ref=e288] [cursor=pointer]:
+                  - /url: https://takvoltage.com/product/siemens-plc-logo/
+                  - img "خرید انواع پی ال سی لوگو زیمنس" [ref=e289]
+                - heading [level=3] [ref=e291]:
+                  - link "پی ال سی لوگو زیمنس" [ref=e292] [cursor=pointer]:
+                    - /url: https://takvoltage.com/product/siemens-plc-logo/
+        - generic [ref=e293]:
+          - generic [ref=e296]:
+            - generic [ref=e298]:
+              - paragraph [ref=e299]: از گروه پی ال سی های زیمنس
+              - paragraph [ref=e300]: Siemens PLC Logo
+            - link "مشاهده محصول" [ref=e302] [cursor=pointer]:
+              - /url: /product/siemens-plc-logo/
+          - figure [ref=e307]:
+            - img "پی ال سی لوگو ورژن 8" [ref=e309]
+        - generic [ref=e310]:
+          - generic [ref=e313]:
+            - heading "هر قطعه ای درمورد اتوماسیون صنعتی نیاز دارید" [level=4] [ref=e314]
+            - heading "از تک ولتاژ کمک بگیرید" [level=4] [ref=e315]
+            - generic [ref=e317]:
+              - paragraph [ref=e318]:
+                - text: تک ولتاژ، واردکننده، تامین کننده و عرضه کننده کلیه
+                - link "تجهیزات اتوماسیون صنعتی" [ref=e319] [cursor=pointer]:
+                  - /url: https://takvoltage.com/
+                - text: ، با بهترین قیمت و کیفیت در خدمت شماست. با خرید محصولات مورد نیاز خود از تک ولتاژ شما بدون واسطه خرید می‌کنید.
+              - paragraph [ref=e320]: هرنوع سوالی در مورد محصولات کلیه برندهای معتبر اتوماسیون صنعتی، فشار ضعیف، فشار متوسط و درایو دارید، کارشناسان ما در خدمت شما هستند. همین حالا با ما تماس بگیرید.
+            - link "تماس با تک ولتاژ" [ref=e322] [cursor=pointer]:
+              - /url: "#"
+            - link "درباره تک ولتاژ" [ref=e324] [cursor=pointer]:
+              - /url: "#"
+          - figure [ref=e329]:
+            - img "قطعات اتوماسیون صنعتی" [ref=e331]
+        - generic [ref=e335]:
+          - generic [ref=e336]:
+            - generic [ref=e337]: به روز باشید
+            - heading "آخرین آموزش ها و مقالات در حوزه اتوماسیون صنعتی" [level=4] [ref=e339]
+          - generic [ref=e341]:
+            - article [ref=e342]:
+              - generic [ref=e343]:
+                - generic [ref=e344]:
+                  - img "بهترین plc" [ref=e346]
+                  - link "لینک در نوشته بهترین PLC – راهنمای انتخاب بهترین پی ال سی" [ref=e347] [cursor=pointer]:
+                    - /url: https://takvoltage.com/post/%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-plc/
+                  - generic [ref=e348]:
+                    - generic [ref=e349]: "06"
+                    - generic [ref=e350]: مه
+                - generic [ref=e351]:
+                  - link "آموزش اتوماسیون صنعتی" [ref=e353] [cursor=pointer]:
+                    - /url: https://takvoltage.com/post/category/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%a7%d8%aa%d9%88%d9%85%d8%a7%d8%b3%db%8c%d9%88%d9%86-%d8%b5%d9%86%d8%b9%d8%aa%db%8c/
+                  - heading [level=3] [ref=e354]:
+                    - link "بهترین PLC – راهنمای انتخاب بهترین پی ال سی" [ref=e355] [cursor=pointer]:
+                      - /url: https://takvoltage.com/post/%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-plc/
+                  - generic [ref=e356]:
+                    - generic [ref=e357]:
+                      - generic [ref=e358]: ارسال توسط
+                      - link "علیرضا فراهانی" [ref=e359] [cursor=pointer]:
+                        - /url: https://takvoltage.com/post/author/alirezafarahani/
+                    - generic [ref=e360]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - link "Facebook link":
+                              - /url: https://www.facebook.com/sharer/sharer.php?u=https://takvoltage.com/post/%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-plc/
+                              - generic: 
+                            - link "لینک شبکه X":
+                              - /url: https://x.com/share?url=https://takvoltage.com/post/%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-plc/
+                              - generic: 
+                            - link "Linkedin link":
+                              - /url: https://www.linkedin.com/shareArticle?mini=true&url=https://takvoltage.com/post/%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-plc/
+                              - generic: 
+                            - link "لینک تلگرام":
+                              - /url: https://telegram.me/share/url?url=https://takvoltage.com/post/%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-plc/
+                              - generic: 
+                      - text: 
+                    - link "0 " [ref=e362] [cursor=pointer]:
+                      - /url: https://takvoltage.com/post/%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-plc/#respond
+                      - generic [ref=e363]: "0"
+                      - text: 
+                  - generic [ref=e364]: فناوری های خودکار مردم را قادر می سازد تا بتوانند نوآوری های جدید در تولید را افزایش دهند. امروزه نیز اتوماسیون صنعتی نقش مهمی در بهره ...
+                  - link "ادامه مطلب" [ref=e366] [cursor=pointer]:
+                    - /url: https://takvoltage.com/post/%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-plc/
+            - article [ref=e367]:
+              - generic [ref=e368]:
+                - generic [ref=e369]:
+                  - img "برندهای PLC" [ref=e371]
+                  - link "لینک در نوشته معرفی انواع برندهای پی ال سی (PLC)" [ref=e372] [cursor=pointer]:
+                    - /url: https://takvoltage.com/post/%d9%85%d8%b9%d8%b1%d9%81%db%8c-%d8%a7%d9%86%d9%88%d8%a7%d8%b9-%d8%a8%d8%b1%d9%86%d8%af%d9%87%d8%a7%db%8c-%d9%be%db%8c-%d8%a7%d9%84-%d8%b3%db%8c-plc/
+                  - generic [ref=e373]:
+                    - generic [ref=e374]: "18"
+                    - generic [ref=e375]: ژوئن
+                - generic [ref=e376]:
+                  - link "دسته‌بندی نشده" [ref=e378] [cursor=pointer]:
+                    - /url: https://takvoltage.com/post/category/%d8%af%d8%b3%d8%aa%d9%87%d8%a8%d9%86%d8%af%db%8c-%d9%86%d8%b4%d8%af%d9%87/
+                  - heading [level=3] [ref=e379]:
+                    - link "معرفی انواع برندهای پی ال سی (PLC)" [ref=e380] [cursor=pointer]:
+                      - /url: https://takvoltage.com/post/%d9%85%d8%b9%d8%b1%d9%81%db%8c-%d8%a7%d9%86%d9%88%d8%a7%d8%b9-%d8%a8%d8%b1%d9%86%d8%af%d9%87%d8%a7%db%8c-%d9%be%db%8c-%d8%a7%d9%84-%d8%b3%db%8c-plc/
+                  - generic [ref=e381]:
+                    - generic [ref=e382]:
+                      - generic [ref=e383]: ارسال توسط
+                      - link "علیرضا فراهانی" [ref=e384] [cursor=pointer]:
+                        - /url: https://takvoltage.com/post/author/alirezafarahani/
+                    - generic [ref=e385]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - link "Facebook link":
+                              - /url: https://www.facebook.com/sharer/sharer.php?u=https://takvoltage.com/post/%d9%85%d8%b9%d8%b1%d9%81%db%8c-%d8%a7%d9%86%d9%88%d8%a7%d8%b9-%d8%a8%d8%b1%d9%86%d8%af%d9%87%d8%a7%db%8c-%d9%be%db%8c-%d8%a7%d9%84-%d8%b3%db%8c-plc/
+                              - generic: 
+                            - link "لینک شبکه X":
+                              - /url: https://x.com/share?url=https://takvoltage.com/post/%d9%85%d8%b9%d8%b1%d9%81%db%8c-%d8%a7%d9%86%d9%88%d8%a7%d8%b9-%d8%a8%d8%b1%d9%86%d8%af%d9%87%d8%a7%db%8c-%d9%be%db%8c-%d8%a7%d9%84-%d8%b3%db%8c-plc/
+                              - generic: 
+                            - link "Linkedin link":
+                              - /url: https://www.linkedin.com/shareArticle?mini=true&url=https://takvoltage.com/post/%d9%85%d8%b9%d8%b1%d9%81%db%8c-%d8%a7%d9%86%d9%88%d8%a7%d8%b9-%d8%a8%d8%b1%d9%86%d8%af%d9%87%d8%a7%db%8c-%d9%be%db%8c-%d8%a7%d9%84-%d8%b3%db%8c-plc/
+                              - generic: 
+                            - link "لینک تلگرام":
+                              - /url: https://telegram.me/share/url?url=https://takvoltage.com/post/%d9%85%d8%b9%d8%b1%d9%81%db%8c-%d8%a7%d9%86%d9%88%d8%a7%d8%b9-%d8%a8%d8%b1%d9%86%d8%af%d9%87%d8%a7%db%8c-%d9%be%db%8c-%d8%a7%d9%84-%d8%b3%db%8c-plc/
+                              - generic: 
+                      - text: 
+                    - link "0 " [ref=e387] [cursor=pointer]:
+                      - /url: https://takvoltage.com/post/%d9%85%d8%b9%d8%b1%d9%81%db%8c-%d8%a7%d9%86%d9%88%d8%a7%d8%b9-%d8%a8%d8%b1%d9%86%d8%af%d9%87%d8%a7%db%8c-%d9%be%db%8c-%d8%a7%d9%84-%d8%b3%db%8c-plc/#respond
+                      - generic [ref=e388]: "0"
+                      - text: 
+                  - generic [ref=e389]: انواع برندهای پی ال سی (PLC) کنترلگرهای الکترونیکی هستند که اجزای مختلفی دارند و با توجه به ورودی هایی که به آن ها داده می شود و پردازش...
+                  - link "ادامه مطلب" [ref=e391] [cursor=pointer]:
+                    - /url: https://takvoltage.com/post/%d9%85%d8%b9%d8%b1%d9%81%db%8c-%d8%a7%d9%86%d9%88%d8%a7%d8%b9-%d8%a8%d8%b1%d9%86%d8%af%d9%87%d8%a7%db%8c-%d9%be%db%8c-%d8%a7%d9%84-%d8%b3%db%8c-plc/
+            - article [ref=e392]:
+              - generic [ref=e393]:
+                - generic [ref=e394]:
+                  - img "کاربرد PLC در صنعت برق" [ref=e396]
+                  - link "لینک در نوشته کاربرد پی ال سی PLC در صنعت برق" [ref=e397] [cursor=pointer]:
+                    - /url: https://takvoltage.com/post/%da%a9%d8%a7%d8%b1%d8%a8%d8%b1%d8%af-plc-%d8%af%d8%b1-%d8%b5%d9%86%d8%b9%d8%aa-%d8%a8%d8%b1%d9%82/
+                  - generic [ref=e398]:
+                    - generic [ref=e399]: "16"
+                    - generic [ref=e400]: مه
+                - generic [ref=e401]:
+                  - link "آموزش اتوماسیون صنعتی" [ref=e403] [cursor=pointer]:
+                    - /url: https://takvoltage.com/post/category/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%a7%d8%aa%d9%88%d9%85%d8%a7%d8%b3%db%8c%d9%88%d9%86-%d8%b5%d9%86%d8%b9%d8%aa%db%8c/
+                  - heading [level=3] [ref=e404]:
+                    - link "کاربرد پی ال سی PLC در صنعت برق" [ref=e405] [cursor=pointer]:
+                      - /url: https://takvoltage.com/post/%da%a9%d8%a7%d8%b1%d8%a8%d8%b1%d8%af-plc-%d8%af%d8%b1-%d8%b5%d9%86%d8%b9%d8%aa-%d8%a8%d8%b1%d9%82/
+                  - generic [ref=e406]:
+                    - generic [ref=e407]:
+                      - generic [ref=e408]: ارسال توسط
+                      - link "علیرضا فراهانی" [ref=e409] [cursor=pointer]:
+                        - /url: https://takvoltage.com/post/author/alirezafarahani/
+                    - generic [ref=e410]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - link "Facebook link":
+                              - /url: https://www.facebook.com/sharer/sharer.php?u=https://takvoltage.com/post/%da%a9%d8%a7%d8%b1%d8%a8%d8%b1%d8%af-plc-%d8%af%d8%b1-%d8%b5%d9%86%d8%b9%d8%aa-%d8%a8%d8%b1%d9%82/
+                              - generic: 
+                            - link "لینک شبکه X":
+                              - /url: https://x.com/share?url=https://takvoltage.com/post/%da%a9%d8%a7%d8%b1%d8%a8%d8%b1%d8%af-plc-%d8%af%d8%b1-%d8%b5%d9%86%d8%b9%d8%aa-%d8%a8%d8%b1%d9%82/
+                              - generic: 
+                            - link "Linkedin link":
+                              - /url: https://www.linkedin.com/shareArticle?mini=true&url=https://takvoltage.com/post/%da%a9%d8%a7%d8%b1%d8%a8%d8%b1%d8%af-plc-%d8%af%d8%b1-%d8%b5%d9%86%d8%b9%d8%aa-%d8%a8%d8%b1%d9%82/
+                              - generic: 
+                            - link "لینک تلگرام":
+                              - /url: https://telegram.me/share/url?url=https://takvoltage.com/post/%da%a9%d8%a7%d8%b1%d8%a8%d8%b1%d8%af-plc-%d8%af%d8%b1-%d8%b5%d9%86%d8%b9%d8%aa-%d8%a8%d8%b1%d9%82/
+                              - generic: 
+                      - text: 
+                    - link "0 " [ref=e412] [cursor=pointer]:
+                      - /url: https://takvoltage.com/post/%da%a9%d8%a7%d8%b1%d8%a8%d8%b1%d8%af-plc-%d8%af%d8%b1-%d8%b5%d9%86%d8%b9%d8%aa-%d8%a8%d8%b1%d9%82/#respond
+                      - generic [ref=e413]: "0"
+                      - text: 
+                  - generic [ref=e414]: از زمانی که PLC پا به عرصه گذاشت، کمتر کسانی بودند که فکر می کردند که بعد از گذشت سال ها این تکنولوژی کاربردی به این وسعت و فراوانی در ...
+                  - link "ادامه مطلب" [ref=e416] [cursor=pointer]:
+                    - /url: https://takvoltage.com/post/%da%a9%d8%a7%d8%b1%d8%a8%d8%b1%d8%af-plc-%d8%af%d8%b1-%d8%b5%d9%86%d8%b9%d8%aa-%d8%a8%d8%b1%d9%82/
+            - article [ref=e417]:
+              - generic [ref=e418]:
+                - generic [ref=e419]:
+                  - img "تعمیر و نگهداری PLC" [ref=e421]
+                  - link "لینک در نوشته تعمیرات PLC زیمنس" [ref=e422] [cursor=pointer]:
+                    - /url: https://takvoltage.com/post/%d8%aa%d8%b9%d9%85%db%8c%d8%b1%d8%a7%d8%aa-plc-%d8%b2%d9%85%db%8c%d9%86%d8%b3/
+                  - generic [ref=e423]:
+                    - generic [ref=e424]: "17"
+                    - generic [ref=e425]: فوریه
+                - generic [ref=e426]:
+                  - link "دسته‌بندی نشده" [ref=e428] [cursor=pointer]:
+                    - /url: https://takvoltage.com/post/category/%d8%af%d8%b3%d8%aa%d9%87%d8%a8%d9%86%d8%af%db%8c-%d9%86%d8%b4%d8%af%d9%87/
+                  - heading [level=3] [ref=e429]:
+                    - link "تعمیرات PLC زیمنس" [ref=e430] [cursor=pointer]:
+                      - /url: https://takvoltage.com/post/%d8%aa%d8%b9%d9%85%db%8c%d8%b1%d8%a7%d8%aa-plc-%d8%b2%d9%85%db%8c%d9%86%d8%b3/
+                  - generic [ref=e431]:
+                    - generic [ref=e432]:
+                      - generic [ref=e433]: ارسال توسط
+                      - link "علیرضا فراهانی" [ref=e434] [cursor=pointer]:
+                        - /url: https://takvoltage.com/post/author/alirezafarahani/
+                    - generic [ref=e435]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - link "Facebook link":
+                              - /url: https://www.facebook.com/sharer/sharer.php?u=https://takvoltage.com/post/%d8%aa%d8%b9%d9%85%db%8c%d8%b1%d8%a7%d8%aa-plc-%d8%b2%d9%85%db%8c%d9%86%d8%b3/
+                              - generic: 
+                            - link "لینک شبکه X":
+                              - /url: https://x.com/share?url=https://takvoltage.com/post/%d8%aa%d8%b9%d9%85%db%8c%d8%b1%d8%a7%d8%aa-plc-%d8%b2%d9%85%db%8c%d9%86%d8%b3/
+                              - generic: 
+                            - link "Linkedin link":
+                              - /url: https://www.linkedin.com/shareArticle?mini=true&url=https://takvoltage.com/post/%d8%aa%d8%b9%d9%85%db%8c%d8%b1%d8%a7%d8%aa-plc-%d8%b2%d9%85%db%8c%d9%86%d8%b3/
+                              - generic: 
+                            - link "لینک تلگرام":
+                              - /url: https://telegram.me/share/url?url=https://takvoltage.com/post/%d8%aa%d8%b9%d9%85%db%8c%d8%b1%d8%a7%d8%aa-plc-%d8%b2%d9%85%db%8c%d9%86%d8%b3/
+                              - generic: 
+                      - text: 
+                    - link "0 " [ref=e437] [cursor=pointer]:
+                      - /url: https://takvoltage.com/post/%d8%aa%d8%b9%d9%85%db%8c%d8%b1%d8%a7%d8%aa-plc-%d8%b2%d9%85%db%8c%d9%86%d8%b3/#respond
+                      - generic [ref=e438]: "0"
+                      - text: 
+                  - generic [ref=e439]: در عصر صنعتی امروز، دستگاه‌های PLC یا کنترل‌کننده منطقی برنامه‌پذیر، به عنوان یکی از تکنولوژی‌های حیاتی در سیستم‌های کنترل و اتوماسیون ...
+                  - link "ادامه مطلب" [ref=e441] [cursor=pointer]:
+                    - /url: https://takvoltage.com/post/%d8%aa%d8%b9%d9%85%db%8c%d8%b1%d8%a7%d8%aa-plc-%d8%b2%d9%85%db%8c%d9%86%d8%b3/
+            - article [ref=e442]:
+              - generic [ref=e443]:
+                - generic [ref=e444]:
+                  - img "محصولات زیمنس خانگی" [ref=e446]
+                  - link "لینک در نوشته زیمنس خانگی | محصولات زیمنس خانگی" [ref=e447] [cursor=pointer]:
+                    - /url: https://takvoltage.com/post/%d8%b2%db%8c%d9%85%d9%86%d8%b3-%d8%ae%d8%a7%d9%86%da%af%db%8c-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-%d8%b2%db%8c%d9%85%d9%86%d8%b3-%d8%ae%d8%a7%d9%86%da%af%db%8c/
+                  - generic [ref=e448]:
+                    - generic [ref=e449]: "21"
+                    - generic [ref=e450]: مه
+                - generic [ref=e451]:
+                  - link "آموزش اتوماسیون صنعتی" [ref=e453] [cursor=pointer]:
+                    - /url: https://takvoltage.com/post/category/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%a7%d8%aa%d9%88%d9%85%d8%a7%d8%b3%db%8c%d9%88%d9%86-%d8%b5%d9%86%d8%b9%d8%aa%db%8c/
+                  - heading [level=3] [ref=e454]:
+                    - link "زیمنس خانگی | محصولات زیمنس خانگی" [ref=e455] [cursor=pointer]:
+                      - /url: https://takvoltage.com/post/%d8%b2%db%8c%d9%85%d9%86%d8%b3-%d8%ae%d8%a7%d9%86%da%af%db%8c-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-%d8%b2%db%8c%d9%85%d9%86%d8%b3-%d8%ae%d8%a7%d9%86%da%af%db%8c/
+                  - generic [ref=e456]:
+                    - generic [ref=e457]:
+                      - generic [ref=e458]: ارسال توسط
+                      - link "علیرضا فراهانی" [ref=e459] [cursor=pointer]:
+                        - /url: https://takvoltage.com/post/author/alirezafarahani/
+                    - generic [ref=e460]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - link "Facebook link":
+                              - /url: https://www.facebook.com/sharer/sharer.php?u=https://takvoltage.com/post/%d8%b2%db%8c%d9%85%d9%86%d8%b3-%d8%ae%d8%a7%d9%86%da%af%db%8c-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-%d8%b2%db%8c%d9%85%d9%86%d8%b3-%d8%ae%d8%a7%d9%86%da%af%db%8c/
+                              - generic: 
+                            - link "لینک شبکه X":
+                              - /url: https://x.com/share?url=https://takvoltage.com/post/%d8%b2%db%8c%d9%85%d9%86%d8%b3-%d8%ae%d8%a7%d9%86%da%af%db%8c-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-%d8%b2%db%8c%d9%85%d9%86%d8%b3-%d8%ae%d8%a7%d9%86%da%af%db%8c/
+                              - generic: 
+                            - link "Linkedin link":
+                              - /url: https://www.linkedin.com/shareArticle?mini=true&url=https://takvoltage.com/post/%d8%b2%db%8c%d9%85%d9%86%d8%b3-%d8%ae%d8%a7%d9%86%da%af%db%8c-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-%d8%b2%db%8c%d9%85%d9%86%d8%b3-%d8%ae%d8%a7%d9%86%da%af%db%8c/
+                              - generic: 
+                            - link "لینک تلگرام":
+                              - /url: https://telegram.me/share/url?url=https://takvoltage.com/post/%d8%b2%db%8c%d9%85%d9%86%d8%b3-%d8%ae%d8%a7%d9%86%da%af%db%8c-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-%d8%b2%db%8c%d9%85%d9%86%d8%b3-%d8%ae%d8%a7%d9%86%da%af%db%8c/
+                              - generic: 
+                      - text: 
+                    - link "0 " [ref=e462] [cursor=pointer]:
+                      - /url: https://takvoltage.com/post/%d8%b2%db%8c%d9%85%d9%86%d8%b3-%d8%ae%d8%a7%d9%86%da%af%db%8c-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-%d8%b2%db%8c%d9%85%d9%86%d8%b3-%d8%ae%d8%a7%d9%86%da%af%db%8c/#respond
+                      - generic [ref=e463]: "0"
+                      - text: 
+                  - generic [ref=e464]: زیمنس یکی از شرکت‌های معتبر در زمینه محصولات خانگی است و مجموعه‌ای گسترده از محصولات برای استفاده در خانه ارائه می‌دهد. برخی از انواع م...
+                  - link "ادامه مطلب" [ref=e466] [cursor=pointer]:
+                    - /url: https://takvoltage.com/post/%d8%b2%db%8c%d9%85%d9%86%d8%b3-%d8%ae%d8%a7%d9%86%da%af%db%8c-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-%d8%b2%db%8c%d9%85%d9%86%d8%b3-%d8%ae%d8%a7%d9%86%da%af%db%8c/
+            - article [ref=e467]:
+              - generic [ref=e468]:
+                - generic [ref=e469]:
+                  - img "خانه هوشمند زیمنس" [ref=e471]
+                  - link "لینک در نوشته زیمنس هوشمند چیست | یک خانه هوشمند زیمنس چگونه است" [ref=e472] [cursor=pointer]:
+                    - /url: https://takvoltage.com/post/%d8%b2%db%8c%d9%85%d9%86%d8%b3-%d9%87%d9%88%d8%b4%d9%85%d9%86%d8%af-%da%86%db%8c%d8%b3%d8%aa-%db%8c%da%a9-%d8%ae%d8%a7%d9%86%d9%87-%d9%87%d9%88%d8%b4%d9%85%d9%86%d8%af-%d8%b2%db%8c%d9%85%d9%86%d8%b3/
+                  - generic [ref=e473]:
+                    - generic [ref=e474]: "18"
+                    - generic [ref=e475]: مه
+                - generic [ref=e476]:
+                  - link "آموزش اتوماسیون صنعتی" [ref=e478] [cursor=pointer]:
+                    - /url: https://takvoltage.com/post/category/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%a7%d8%aa%d9%88%d9%85%d8%a7%d8%b3%db%8c%d9%88%d9%86-%d8%b5%d9%86%d8%b9%d8%aa%db%8c/
+                  - heading [level=3] [ref=e479]:
+                    - link "زیمنس هوشمند چیست | یک خانه هوشمند زیمنس چگونه است" [ref=e480] [cursor=pointer]:
+                      - /url: https://takvoltage.com/post/%d8%b2%db%8c%d9%85%d9%86%d8%b3-%d9%87%d9%88%d8%b4%d9%85%d9%86%d8%af-%da%86%db%8c%d8%b3%d8%aa-%db%8c%da%a9-%d8%ae%d8%a7%d9%86%d9%87-%d9%87%d9%88%d8%b4%d9%85%d9%86%d8%af-%d8%b2%db%8c%d9%85%d9%86%d8%b3/
+                  - generic [ref=e481]:
+                    - generic [ref=e482]:
+                      - generic [ref=e483]: ارسال توسط
+                      - link "علیرضا فراهانی" [ref=e484] [cursor=pointer]:
+                        - /url: https://takvoltage.com/post/author/alirezafarahani/
+                    - generic [ref=e485]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - link "Facebook link":
+                              - /url: https://www.facebook.com/sharer/sharer.php?u=https://takvoltage.com/post/%d8%b2%db%8c%d9%85%d9%86%d8%b3-%d9%87%d9%88%d8%b4%d9%85%d9%86%d8%af-%da%86%db%8c%d8%b3%d8%aa-%db%8c%da%a9-%d8%ae%d8%a7%d9%86%d9%87-%d9%87%d9%88%d8%b4%d9%85%d9%86%d8%af-%d8%b2%db%8c%d9%85%d9%86%d8%b3/
+                              - generic: 
+                            - link "لینک شبکه X":
+                              - /url: https://x.com/share?url=https://takvoltage.com/post/%d8%b2%db%8c%d9%85%d9%86%d8%b3-%d9%87%d9%88%d8%b4%d9%85%d9%86%d8%af-%da%86%db%8c%d8%b3%d8%aa-%db%8c%da%a9-%d8%ae%d8%a7%d9%86%d9%87-%d9%87%d9%88%d8%b4%d9%85%d9%86%d8%af-%d8%b2%db%8c%d9%85%d9%86%d8%b3/
+                              - generic: 
+                            - link "Linkedin link":
+                              - /url: https://www.linkedin.com/shareArticle?mini=true&url=https://takvoltage.com/post/%d8%b2%db%8c%d9%85%d9%86%d8%b3-%d9%87%d9%88%d8%b4%d9%85%d9%86%d8%af-%da%86%db%8c%d8%b3%d8%aa-%db%8c%da%a9-%d8%ae%d8%a7%d9%86%d9%87-%d9%87%d9%88%d8%b4%d9%85%d9%86%d8%af-%d8%b2%db%8c%d9%85%d9%86%d8%b3/
+                              - generic: 
+                            - link "لینک تلگرام":
+                              - /url: https://telegram.me/share/url?url=https://takvoltage.com/post/%d8%b2%db%8c%d9%85%d9%86%d8%b3-%d9%87%d9%88%d8%b4%d9%85%d9%86%d8%af-%da%86%db%8c%d8%b3%d8%aa-%db%8c%da%a9-%d8%ae%d8%a7%d9%86%d9%87-%d9%87%d9%88%d8%b4%d9%85%d9%86%d8%af-%d8%b2%db%8c%d9%85%d9%86%d8%b3/
+                              - generic: 
+                      - text: 
+                    - link "0 " [ref=e487] [cursor=pointer]:
+                      - /url: https://takvoltage.com/post/%d8%b2%db%8c%d9%85%d9%86%d8%b3-%d9%87%d9%88%d8%b4%d9%85%d9%86%d8%af-%da%86%db%8c%d8%b3%d8%aa-%db%8c%da%a9-%d8%ae%d8%a7%d9%86%d9%87-%d9%87%d9%88%d8%b4%d9%85%d9%86%d8%af-%d8%b2%db%8c%d9%85%d9%86%d8%b3/#respond
+                      - generic [ref=e488]: "0"
+                      - text: 
+                  - generic [ref=e489]: زیمنس هوشمند یا "زیمنس سیمنس" (Siemens Smart) به مجموعه‌ای از فناوری‌ها، محصولات و سیستم‌های هوشمند اشاره دارد که توسط شرکت زیمنس (Siem...
+                  - link "ادامه مطلب" [ref=e491] [cursor=pointer]:
+                    - /url: https://takvoltage.com/post/%d8%b2%db%8c%d9%85%d9%86%d8%b3-%d9%87%d9%88%d8%b4%d9%85%d9%86%d8%af-%da%86%db%8c%d8%b3%d8%aa-%db%8c%da%a9-%d8%ae%d8%a7%d9%86%d9%87-%d9%87%d9%88%d8%b4%d9%85%d9%86%d8%af-%d8%b2%db%8c%d9%85%d9%86%d8%b3/
+        - generic [ref=e497]:
+          - paragraph [ref=e498]: سال 1913 را سال پیدایش اتوماسیون صنعتی در دنیا می‌دانند زیرا شرکت فورد، از معروف ترین شرکت های ساخت ماشین در جهان یک خط نیمه اتوماتیک برای تولید اتوموبیل های خود راه اندازی کرد. بنابر نتایج مطلوبی که در ایجاد این خط تولید بدست آمد هر روز اتوماسیون صنعتی گسترش پیدا کرد و به عنوان یک علم شناخته شد.
+          - paragraph [ref=e499]: برای اداره فراینده های مختلف و ماشین آلات صنعتی در یک صنعت از اتوماسیون صنعتی استفاده می شود. اتوماسیون صنعتی استفاده از سیستم‌های کنترلی مثل روبات ها، رایانه و اطلاعات و دستورالعمل برای جایگزینی انسان جهت هدایت فرایند تولید است که در آن هدف کاهش دخالت انسان و بالا بردن دقت در کار است. در نتیجه رسیدن به این هدف، هدف‌های دیگری مثل کاهش هزینه و تولید انبوه نیز قابل دستیابی است.
+          - paragraph [ref=e500]: شاید تصور شود که با بکار گیری اتوماسیون صنعتی نیروی کار، بیکار می‌شود اما چنین نیست و واقعیت اینست که حتی جایگاه شغلی نیروی کار ارتقا می یابد چون با با وارد شدن اتوماسیون صنعتی موقعیت های شغلی جدیدی شکل می گیرد. با توجه به رقابتی که در صنایع مختلف وجود دارد دیگر پذیرفته نیست که یک نیروی کار مشغول انجام یک کار تکراری و طاقت فرسا باشد.
+          - paragraph [ref=e501]: بنابراین؛ در یک محیط کار صنعتی برای افزایش بهره وری، کیفیت، ایمنی و انعطاف پذیری همچنین کاهش خطا و ضایعات و همچنین فرایندهای تکراری اتوماسیون صنعتی بهترین راه حل است.
+          - heading [level=2] [ref=e502]:
+            - strong [ref=e504]: انواع اتوماسیون صنعتی
+          - list [ref=e505]:
+            - listitem [ref=e506]:
+              - generic [ref=e507]:
+                - strong [ref=e508]: "اتوماسیون ثابت:"
+                - text: این اتوماسیون ها برای عملیات تکرای و محکم به کار گرفته می شوند و برای افزایش تولید کارآمد است.
+            - listitem [ref=e509]:
+              - generic [ref=e510]:
+                - strong [ref=e511]: "اتوماسیون قابل برنامه‌ریزی:"
+                - text: این نوع اتوماسیون برخلاف اتوماسیون ثابت، قابلیت برنامه دهی و تغییرات در محصول را داراست. به عبارتی می توان تغییراتی در برنامه عملیاتی اسمبل کردن و یا پردازش را برای محصول اولیه ایجاد کرد.
+            - listitem [ref=e512]:
+              - generic [ref=e513]:
+                - strong [ref=e514]: "اتوماسیون انعطاف پذیر:"
+                - text: این اتوماسیون قادر است محصولات مختلف را با هم ترکیب کند و محصول جدیدی با استفاده از دستورهای کد شده به سرعت ایجاد کند
+            - listitem [ref=e515]:
+              - generic [ref=e516]:
+                - strong [ref=e517]: "اتوماسیون یکپارچه :"
+                - text: این اتوماسیون شامل اتوماسیون کل کارخانه تولید است که تمام فرایندها و پردازش اطلاعات و کنترل رایانه تحت هماهنگی این اتوماسیون عمل می کنند.
+          - heading "فروش تجهیزات اتوماسیون صنعتی" [level=2] [ref=e518]
+          - paragraph [ref=e519]: در صنایع و اتوماسیون صنعتی تجهیزات متنوعی توسط شرکت ها و اشخاص مختلف ارائه می‌شود، اما مهمترین عاملی که برای همه‌ی افراد مهم است اصالت و یا اورجینال بودن محصول است در تک ولتاژ محصولات با ضمانت اصالت کالا و در کمترین زمان ممکن به دست شما می‌رسد، به همین دلیل خرید تجهیزات اتوماسیون صنعتی، برای همه افراد آسان شده است.
+          - heading "نمایندگی زیمنس" [level=2] [ref=e520]
+          - paragraph [ref=e521]: زیمنس (Siemens) شرکتی زنجیره ای و آلمانی چند ملیتی می باشد که دفتر مرکزی و اصلی آن در شهر مونیخ واقع شده است و بزرگترین شرکت تولیدی صنعتی در حوزه اروپا شناخته شده است. در خارج از آلمان، زیمنس دارای دفاتر شعبه ای زیادی می باشد.
+          - heading "تاریخچه شرکت زیمنس" [level=2] [ref=e522]
+          - paragraph [ref=e523]:
+            - text: زیمنس در سال 1847 توسط ارنست زیمنس تاسیس شد. این ابرشرکت را در آغاز به ‌نام Bauanstalt
+            - emphasis [ref=e524]: von Siemens & Halske
+            - text: افتتاح شده بود. ورنر در سال 1848 طولانی ترین و اولین خط تلگراف بین برلین تا فرانکفورت را ساخته و در سال 1850 برادر خود ویلهلم زیمنس را نماینده شرکت زیمنس در لندن معرفی کرد.
+          - paragraph [ref=e525]: در حال حاضر بزرگترین نمایندگی زیمنس در کشور آلمان می باشد اما در نظر داشته باشید در کشورهای دیگر و شهرهای مختلف نیز نمایندگی دارد.
+          - heading "مزایای محصولات زیمنس" [level=2] [ref=e526]
+          - paragraph [ref=e527]: "محصولات زیمنس مزایای زیادی دارد که از جمله آنها می توانیم به بازدهی بالا، پایدار و کارآمد بودن، مقاوم در برابر ارتعاش و شوک ها، قیمت مناسب، مستحکم و قوی بودن آنها اشاره کنیم همچنین در این قسمت توضیحی مختصر راجع به هر یک ارائه می دهیم:"
+          - heading "کاهش هزینه های تولید" [level=3] [ref=e528]
+          - paragraph [ref=e529]: هزینه های تولید با به کارگیری اتوماسیون صنعتی زیمنس به دلیل کاهش خطا و بهبود کارایی کاهش خواهد یافت.
+          - heading "افزایش کیفیت محصولات" [level=3] [ref=e530]
+          - paragraph [ref=e531]: اتوماسیون زیمنس باعث کم شدن اشتباهات انسانی شده و همچنین سبب بهبود کیفیت محصولات می شود.
+          - paragraph [ref=e532]: امنیت
+          - paragraph [ref=e533]: محصولات و اتوماسیون زیمنس در فرآیندهای تولید باعث افزایش امنیت می شوند و از میزان خطرات احتمالی کاسته می شود.
+          - heading "قابلیت پذیرش تغییرات" [level=3] [ref=e534]
+          - paragraph [ref=e535]: محصولات اتوماسیون صنعتی زیمنس دارای قابلیت پذیرش تغییرات هستند همچنین قادر بوده تا در آینده نیز رشد کنند و به عنوان راهکاری پایدار برای تولید محصولات صنعتی در نظر گرفته شوند.
+          - heading "انواع محصولات زیمنس" [level=3] [ref=e536]
+          - paragraph [ref=e537]: "همانطور که بالاتر اشاره کردیم نمایندگی های زیمنس انواع محصولات مختلف را در اختیار مصرف کنندگان قرار می دهند که چند نمونه از آنها عبارت اند از:"
+          - heading "PLC زیمنس" [level=3] [ref=e538]
+          - paragraph [ref=e539]:
+            - text: بر خلاف انواع plc های دیگر،
+            - link "پی ال سی زیمنس" [ref=e540] [cursor=pointer]:
+              - /url: https://takvoltage.com/product-category/siemens/plc/
+            - text: به راحتی قابل نگهداری می باشد. اگر قصد دارید بخشی از آن را تغییر دهید و روند را ادامه دهید، نیازی به برنامه ریزی مجدد و یا دانلود کل کد نیست. زیمنس نسبتاً ارزان و مقرون به صرفه است و اغلب می تواند به دلیل نگهداری آسان، عملکرد مشترک هر plc را انجام دهد.
+          - heading "کنتاکتور زیمنس" [level=2] [ref=e541]
+          - paragraph [ref=e542]: کنتاکتور ابزاری برای قطع و وصل کردن وسایل برقی می باشد که از آن به عنوان کلید مغناطیسی استفاده می کنند. طرز کار آن به این صورت است که جریان کوچکی به آن ارسال می‌شود و یک جریان بزرگ را قطع و وصل می‌کند. در واقع یک نوع سوییچ است که برای کنترل کردن الکتریکی قطعات جهت کلید زنی یک مدار الکتریکی به کار گرفته می شود.
+          - heading "کلید اتوماتیک زیمنس" [level=2] [ref=e543]
+          - paragraph [ref=e544]:
+            - text: از
+            - link "کلید اتوماتیک زیمنس" [ref=e545] [cursor=pointer]:
+              - /url: https://takvoltage.com/product-category/siemens/siemens-circuit-breaker/
+            - text: به منظورهای مختلف استفاده می شود که چند نمونه از آنها شامل حفاظت از تجهیزات، تاسیسات، دستگاه های برق صنعتی و قطع و وصل جریان به صورت ایمن و همچنین محافظت در برابر اضافه بار و اتصال کوتاه می باشد.
+          - paragraph [ref=e546]: اینها تنها چند نمونه از محصولات زیمنس می باشد که ما در اینجا به آنها اشاره کردیم. برای اطلاعات بیشتر و آشنایی با نمایندگی های زیمنس و محصولات آن می توانید با کارشناسان ما در تک ولتاژ در تماس باشید.
+          - heading "نمایندگی زیمنس در ایران" [level=2] [ref=e547]
+          - paragraph [ref=e548]: زیمنس از شرکت بسیار بزرگ در سرتاسر دنیا می باشد که در همه کشورها و همچنین ایران نمایندگی دارد. مجموعه تک ولتاژ به عنوان یکی از نمایندگی محصولات زیمنس در ایران، کالاهای مرغوب این شرکت را با مناسب ترین قیمت در اختیار مصرف کنندگان قرار می دهد. مجموعه ما انواع محصولات زیمنس از قبیل plc زیمنس، سافت استارتر زیمنس، کلید اتوماتیک زیمنس، کلید حرارتی زیمنس، کنتاکتور زیمنس، کلید مینیاتوری زیمنس و غیره را تامین می کند و افراد در صورت نیاز می توانند آنها را تهیه نمایند.
+          - heading "نمایندگی زیمنس در تهران" [level=2] [ref=e549]
+          - paragraph [ref=e550]: مراجعه به مجموعه تک ولتاژ یا خرید از شرکت ما یکی از بهترین راه های تامین محصولات زیمنس در تهران می باشد زیرا تک ولتاژ
+          - paragraph [ref=e551]: به عنوان نمایندگی زیمنس در تهران شناخته شده است. تمامی محصولات با کیفیت بالا و قیمت مناسب به مصرف کنندگان ارائه می شود. همچنین خریداران می توانند جدید ترین تولیدات شرکت زیمنس را از مجموعه ما به عنوان نمایندگی زیمنس در تهران سفارش دهند. در صورت نیاز به مشاوره می توانید با کارشناسان ما در این زمینه تماس بگیرید تا شما را به طور کامل راهنمای نمایند.
+          - paragraph [ref=e552]: از مهم ترین مزایای خرید از مجموعه تک ولتاژ به عنوان نمایندگی زیمنس در تهران اطمینان از کیفیت کالا و برخورداری از خدمات پس از فروش است. از طرف دیگر قیمت محصولات مجموعه به عنوان نمایندگی به بهترین قیمت رقابتی عرضه می شود.
+          - paragraph [ref=e553]: تک ولتاژ به عنوان نمایندگی زیمنس شامل تمام محصولات زیمنس، اتوماسیون صنعتی زیمنس و غیره می باشد.
+          - heading "قیمت محصولات زیمنس" [level=2] [ref=e554]
+          - paragraph [ref=e555]: در نظر داشته باشید خرید محصولات زیمنس از نمایندگی معتبر آن می تواند هزینه ی تمام شده ی این محصولات را تا حد قابل توجهی کاهش دهد، زیرا در این نوع خرید دست سایر واسطه ها کوتاه می شود. نکته ی مهم دیگر در رابطه ما نمایندگی های زیمنس این موضوع می باشد که محصولات آن به صورت کاملا مستقیم از شرکت زیمنس آلمان خریداری شده و در اختیار صرف کنندگان در سرتاسر کشور قرار می گیرند.
+          - paragraph [ref=e556]: امروزه طیف بسیار گسترده ای از محصولات و تکنولوژی های مدرن و به روز اتوماسیون صنعتی زیمنس در سطح بازارهای جهانی عرضه می گردد که از میان محصولات این شرکت مشهور آلمانی می توان به انواع محصولات اتوماسیون صنعتی زیمنس نظیر PLC ها، HMI ها، رله، کنتاکتور، سیستم های کنترلی، سیستم های سیموشن یا به عبارتی سیستم های کنترل حرکت پیشرفته و بسیاری دیگر نام برد.
+          - paragraph
+        - generic [ref=e562]:
+          - generic [ref=e564]:
+            - group "1 / 6" [ref=e565]:
+              - generic [ref=e566]:
+                - link "زیمنس" [ref=e567] [cursor=pointer]:
+                  - /url: https://takvoltage.com/shop/?filter_brand=siemens
+                - img "نمایندگی زیمنس" [ref=e568]
+            - group "2 / 6" [ref=e569]:
+              - link "اشنایدر" [ref=e571] [cursor=pointer]:
+                - /url: https://takvoltage.com/shop/?filter_brand=schneider
+            - group "3 / 6" [ref=e572]:
+              - link "ال اس LS" [ref=e574] [cursor=pointer]:
+                - /url: https://takvoltage.com/shop/?filter_brand=ls
+            - group "4 / 6" [ref=e575]:
+              - generic [ref=e576]:
+                - link "ABB" [ref=e577] [cursor=pointer]:
+                  - /url: https://takvoltage.com/shop/?filter_brand=abb
+                - img "نمایندگی abb" [ref=e578]
+            - group "5 / 6" [ref=e579]:
+              - generic [ref=e580]:
+                - link "آلن بردلی" [ref=e581] [cursor=pointer]:
+                  - /url: https://takvoltage.com/shop/?filter_brand=allen-bradley
+                - img "محصولات اتوماسیون صنعتی آلن بردلی" [ref=e582]
+            - group "6 / 6" [ref=e583]:
+              - generic [ref=e584]:
+                - link "هیوندا" [ref=e585] [cursor=pointer]:
+                  - /url: https://takvoltage.com/shop/?filter_brand=hyundai
+                - img "محصولات اتوماسیون صنعتی هیوندا" [ref=e586]
+          - generic:
+            - button "اسلاید قبل" [disabled]:
+              - generic: 
+            - button "اسلاید بعد" [disabled]:
+              - generic: 
+    - contentinfo [ref=e587]:
+      - complementary [ref=e589]:
+        - generic [ref=e591]:
+          - heading "فروشگاه تک ولتاژ، محصولات برترین برندهای اتوماسیون صنعتی" [level=5] [ref=e592]
+          - paragraph [ref=e594]: فروشگاه تک ولتاژ افتخار دارد تا آخرین تکنولوژی های مورد استفاده در اتوماسیون صنعتی را خدمت شما هموطنان گرامی ارائه نماید.
+        - generic [ref=e597]:
+          - heading "آخرین مطالب وبلاگ" [level=5] [ref=e598]
+          - list [ref=e599]:
+            - listitem [ref=e600]:
+              - link "تصویر بند انگشتی نوشته" [ref=e601] [cursor=pointer]:
+                - /url: https://takvoltage.com/post/%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-plc/
+                - img "بهترین plc" [ref=e602]
+              - generic [ref=e603]:
+                - link "بهترین PLC – راهنمای انتخاب بهترین پی ال سی" [ref=e605] [cursor=pointer]:
+                  - /url: https://takvoltage.com/post/%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-plc/
+                - time [ref=e606]: 6 می 2025
+                - link "۱ دیدگاه" [ref=e607] [cursor=pointer]:
+                  - /url: https://takvoltage.com/post/%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-plc/#respond
+            - listitem [ref=e608]:
+              - link "تصویر بند انگشتی نوشته" [ref=e609] [cursor=pointer]:
+                - /url: https://takvoltage.com/post/%d9%85%d8%b9%d8%b1%d9%81%db%8c-%d8%a7%d9%86%d9%88%d8%a7%d8%b9-%d8%a8%d8%b1%d9%86%d8%af%d9%87%d8%a7%db%8c-%d9%be%db%8c-%d8%a7%d9%84-%d8%b3%db%8c-plc/
+                - img "برندهای PLC" [ref=e610]
+              - generic [ref=e611]:
+                - link "معرفی انواع برندهای پی ال سی (PLC)" [ref=e613] [cursor=pointer]:
+                  - /url: https://takvoltage.com/post/%d9%85%d8%b9%d8%b1%d9%81%db%8c-%d8%a7%d9%86%d9%88%d8%a7%d8%b9-%d8%a8%d8%b1%d9%86%d8%af%d9%87%d8%a7%db%8c-%d9%be%db%8c-%d8%a7%d9%84-%d8%b3%db%8c-plc/
+                - time [ref=e614]: 18 ژوئن 2024
+                - link "۱ دیدگاه" [ref=e615] [cursor=pointer]:
+                  - /url: https://takvoltage.com/post/%d9%85%d8%b9%d8%b1%d9%81%db%8c-%d8%a7%d9%86%d9%88%d8%a7%d8%b9-%d8%a8%d8%b1%d9%86%d8%af%d9%87%d8%a7%db%8c-%d9%be%db%8c-%d8%a7%d9%84-%d8%b3%db%8c-plc/#respond
+            - listitem [ref=e616]:
+              - link "تصویر بند انگشتی نوشته" [ref=e617] [cursor=pointer]:
+                - /url: https://takvoltage.com/post/%da%a9%d8%a7%d8%b1%d8%a8%d8%b1%d8%af-plc-%d8%af%d8%b1-%d8%b5%d9%86%d8%b9%d8%aa-%d8%a8%d8%b1%d9%82/
+                - img "کاربرد PLC در صنعت برق" [ref=e618]
+              - generic [ref=e619]:
+                - link "کاربرد پی ال سی PLC در صنعت برق" [ref=e621] [cursor=pointer]:
+                  - /url: https://takvoltage.com/post/%da%a9%d8%a7%d8%b1%d8%a8%d8%b1%d8%af-plc-%d8%af%d8%b1-%d8%b5%d9%86%d8%b9%d8%aa-%d8%a8%d8%b1%d9%82/
+                - time [ref=e622]: 16 می 2024
+                - link "۱ دیدگاه" [ref=e623] [cursor=pointer]:
+                  - /url: https://takvoltage.com/post/%da%a9%d8%a7%d8%b1%d8%a8%d8%b1%d8%af-plc-%d8%af%d8%b1-%d8%b5%d9%86%d8%b9%d8%aa-%d8%a8%d8%b1%d9%82/#respond
+            - listitem [ref=e624]:
+              - link "تصویر بند انگشتی نوشته" [ref=e625] [cursor=pointer]:
+                - /url: https://takvoltage.com/post/%d8%aa%d8%b9%d9%85%db%8c%d8%b1%d8%a7%d8%aa-plc-%d8%b2%d9%85%db%8c%d9%86%d8%b3/
+                - img "تعمیر و نگهداری PLC" [ref=e626]
+              - generic [ref=e627]:
+                - link "تعمیرات PLC زیمنس" [ref=e629] [cursor=pointer]:
+                  - /url: https://takvoltage.com/post/%d8%aa%d8%b9%d9%85%db%8c%d8%b1%d8%a7%d8%aa-plc-%d8%b2%d9%85%db%8c%d9%86%d8%b3/
+                - time [ref=e630]: 17 فوریه 2024
+                - link "۱ دیدگاه" [ref=e631] [cursor=pointer]:
+                  - /url: https://takvoltage.com/post/%d8%aa%d8%b9%d9%85%db%8c%d8%b1%d8%a7%d8%aa-plc-%d8%b2%d9%85%db%8c%d9%86%d8%b3/#respond
+        - generic [ref=e632]:
+          - figure [ref=e634]:
+            - img "تک ولتاژ، عرضه کننده اتوماسیون صنعتی زیمنس، اشنایدر ABB" [ref=e635]
+          - paragraph [ref=e637]:
+            - strong [ref=e638]: "آدرس:"
+            - text: خیابان لاله زار جنوبی، پاساژ عزیزی، طبقه دوم، پلاک 204
+          - paragraph [ref=e640]:
+            - strong [ref=e641]: "تلفن:"
+            - link "02133928000" [ref=e642] [cursor=pointer]:
+              - /url: "tel:"
+            - text: "-"
+            - link "02133009920" [ref=e643] [cursor=pointer]:
+              - /url: "tel:"
+          - paragraph [ref=e645]:
+            - strong [ref=e646]: "ایمیل:"
+            - text: info@takvoltage.com
+      - generic [ref=e648]:
+        - generic [ref=e650]:
+          - link [ref=e651] [cursor=pointer]:
+            - /url: /
+            - strong [ref=e652]: تک ولتاژ
+          - text: استفاده از اطلاعات و محتوای این سایت به هر صورت غیرمجاز است.
+        - generic [ref=e654]:
+          - link "Facebook link" [ref=e655] [cursor=pointer]:
+            - /url: https://www.facebook.com/sharer/sharer.php?u=https://takvoltage.com/
+            - generic [ref=e656]: 
+          - link "لینک شبکه X" [ref=e657] [cursor=pointer]:
+            - /url: https://x.com/share?url=https://takvoltage.com/
+            - generic [ref=e658]: 
+          - link "Linkedin link" [ref=e659] [cursor=pointer]:
+            - /url: https://www.linkedin.com/shareArticle?mini=true&url=https://takvoltage.com/
+            - generic [ref=e660]: 
+          - link "لینک تلگرام" [ref=e661] [cursor=pointer]:
+            - /url: https://telegram.me/share/url?url=https://takvoltage.com/
+            - generic [ref=e662]: 
+  - link "دکمه اسکرول به بالا":
+    - /url: "#"
+    - text: 
+  - navigation "منوی موبایل" [ref=e663]:
+    - search [ref=e665]:
+      - textbox "جستجو" [ref=e666]:
+        - /placeholder: جستجوی محصولات
+      - text: 
+      - button "جستجو " [ref=e667] [cursor=pointer]:
+        - generic: جستجو
+        - text: 
+    - list [ref=e668]:
+      - listitem [ref=e669]:
+        - link "منو" [ref=e670] [cursor=pointer]:
+          - /url: "#"
+      - listitem [ref=e672]:
+        - link "دسته بندی ها" [ref=e673] [cursor=pointer]:
+          - /url: "#"
+    - text: 
+    - list [ref=e675]:
+      - listitem [ref=e676]:
+        - link "صفحه اصلی" [ref=e677] [cursor=pointer]:
+          - /url: /
+      - listitem [ref=e679]:
+        - link "محصولات اتوماسیون زیمنس" [ref=e680] [cursor=pointer]:
+          - /url: https://takvoltage.com/product-category/siemens/
+        - text: 
+      - listitem [ref=e682]:
+        - link "تعمیرات اتوماسیون صنعتی" [ref=e683] [cursor=pointer]:
+          - /url: /تعمیرات-اتوماسیون-صنعتی/
+      - listitem [ref=e685]:
+        - link "تعمیرات PLC زیمنس" [ref=e686] [cursor=pointer]:
+          - /url: https://takvoltage.com/post/%d8%aa%d8%b9%d9%85%db%8c%d8%b1%d8%a7%d8%aa-plc-%d8%b2%d9%85%db%8c%d9%86%d8%b3/
+      - listitem [ref=e688]:
+        - link "بلاگ" [ref=e689] [cursor=pointer]:
+          - /url: https://takvoltage.com/blog/
+      - listitem [ref=e691]:
+        - link "درباره تک ولتاژ" [ref=e692] [cursor=pointer]:
+          - /url: /about-us/
+      - listitem [ref=e694]:
+        - link "تماس با ما" [ref=e695] [cursor=pointer]:
+          - /url: /contact-us/
+      - listitem [ref=e697]:
+        - link " علاقه مندی" [ref=e698] [cursor=pointer]:
+          - /url: https://takvoltage.com/wishlist/
+          - text: 
+          - generic [ref=e699]: علاقه مندی
+      - listitem [ref=e700]:
+        - link " مقایسه" [ref=e701] [cursor=pointer]:
+          - /url: ""
+      - listitem [ref=e702]:
+        - link " ورود / ثبت نام" [ref=e703] [cursor=pointer]:
+          - /url: https://takvoltage.com/?page_id=9
+```

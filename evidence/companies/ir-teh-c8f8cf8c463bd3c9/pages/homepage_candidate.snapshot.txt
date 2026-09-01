@@ -1,0 +1,236 @@
+### Page
+- Page URL: https://nirumachine.com/
+- Page Title: واردات دستگاه برش لیزر - نیروماشین - نیرولیزر - سازه های فولادی - جوش رباتیک - خط تولید سازه فولادی
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e5]:
+        - generic [ref=e6]:
+          - figure [ref=e9]:
+            - img "نیرولیزر" [ref=e10]
+          - navigation [ref=e13]:
+            - list [ref=e14]:
+              - listitem [ref=e15]:
+                - link "صفحه نخست " [ref=e16] [cursor=pointer]:
+                  - /url: https://nirumachine.com/
+              - listitem [ref=e17]:
+                - link "تماس با ما " [ref=e18] [cursor=pointer]:
+                  - /url: https://nirumachine.com/%d8%aa%d9%85%d8%a7%d8%b3-%d8%a8%d8%a7-%d9%85%d8%a7
+              - listitem [ref=e19]:
+                - link "درباره ما " [ref=e20] [cursor=pointer]:
+                  - /url: https://nirumachine.com/about-us
+              - listitem [ref=e21]:
+                - link "لیزر " [ref=e22] [cursor=pointer]:
+                  - /url: https://nirumachine.com/%d9%84%db%8c%d8%b2%d8%b1
+              - listitem [ref=e23]:
+                - link "سازه فولادی " [ref=e24] [cursor=pointer]:
+                  - /url: https://nirumachine.com/steel-structure
+              - listitem [ref=e25]:
+                - link "ماشین ابزار " [ref=e26] [cursor=pointer]:
+                  - /url: https://nirumachine.com/%da%af%d8%a7%d9%84%d8%b1%db%8c-%d9%88%db%8c%d8%af%d8%a6%d9%88
+              - listitem [ref=e27]:
+                - link "خدمات پس از فروش " [ref=e28] [cursor=pointer]:
+                  - /url: https://nirumachine.com/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d9%be%d8%b3-%d8%a7%d8%b2-%d9%81%d8%b1%d9%88%d8%b4
+              - listitem [ref=e29]:
+                - link "گالری ویدئو " [ref=e30] [cursor=pointer]:
+                  - /url: https://nirumachine.com/%da%af%d8%a7%d9%84%d8%b1%db%8c-%d9%88%db%8c%d8%af%d8%a6%d9%88
+              - listitem [ref=e31]:
+                - link "گالری عکس" [ref=e32] [cursor=pointer]:
+                  - /url: https://nirumachine.com/%da%af%d8%a7%d9%84%d8%b1%db%8c-%d8%b9%da%a9%d8%b3
+        - generic [ref=e36]:
+          - heading [level=1] [ref=e39]:
+            - link "تأمین و خدمات پس از فروش ماشین‌آلات لیزری" [ref=e40] [cursor=pointer]:
+              - /url: http://nirumachine.com
+          - heading [level=1] [ref=e43]:
+            - link "شركت نيروماشين سهامی خاص" [ref=e44] [cursor=pointer]:
+              - /url: http://nirumachine.com
+    - generic [ref=e46]:
+      - generic [ref=e48]:
+        - heading "شركت نيروماشين سهامی خاص" [level=1] [ref=e51]
+        - heading "تأمین و خدمات پس از فروش ماشین‌آلات لیزری" [level=1] [ref=e54]
+      - generic [ref=e55]:
+        - region "اسلاید ها" [ref=e59]:
+          - generic [ref=e60]:
+            - group "1 / 3" [ref=e61]:
+              - img "پخ زن 3 بعدی" [ref=e62]
+              - generic [ref=e64]:
+                - generic [ref=e65]: ما پیشتاز
+                - generic [ref=e66]: فناوری لیزر در سازه های فولادی هستیم
+                - generic [ref=e67]: واردکننده ماشین آلات صنعتی از سال 1371
+            - group "2 / 3" [ref=e68]:
+              - img "لیزر برش ورق 3 کیلوواتی" [ref=e69]
+              - link "تامین و خدمات پس از فروش خطوط تولید سازه های فولادی با گرایش فناوری لیزر تماس با ما" [ref=e70] [cursor=pointer]:
+                - /url: https://web.whatsapp.com/send?phone=989121139528
+                - generic [ref=e71]:
+                  - generic [ref=e72]: تامین و خدمات پس از فروش
+                  - generic [ref=e73]: خطوط تولید سازه های فولادی با گرایش فناوری لیزر
+                  - generic [ref=e74]: تماس با ما
+            - group "3 / 3" [ref=e75]:
+              - img "خط تولید سازه فولادی" [ref=e76]
+              - link "اجرای خط تولید کلید در دست طراحی و اجرای خط تولید سازه فولادی را به ما بسپارید تماس با ما" [ref=e77] [cursor=pointer]:
+                - /url: https://web.whatsapp.com/send?phone=989121139528
+                - generic [ref=e78]:
+                  - generic [ref=e79]: اجرای خط تولید کلید در دست
+                  - generic [ref=e80]: طراحی و اجرای خط تولید سازه فولادی را به ما بسپارید
+                  - generic [ref=e81]: تماس با ما
+            - group "1 / 3" [ref=e82]:
+              - img "پخ زن 3 بعدی" [ref=e83]
+              - generic [ref=e85]:
+                - generic [ref=e86]: ما پیشتاز
+                - generic [ref=e87]: فناوری لیزر در سازه های فولادی هستیم
+                - generic [ref=e88]: واردکننده ماشین آلات صنعتی از سال 1371
+            - group "2 / 3" [ref=e89]:
+              - img "لیزر برش ورق 3 کیلوواتی" [ref=e90]
+              - link "تامین و خدمات پس از فروش خطوط تولید سازه های فولادی با گرایش فناوری لیزر تماس با ما" [ref=e91] [cursor=pointer]:
+                - /url: https://web.whatsapp.com/send?phone=989121139528
+                - generic [ref=e92]:
+                  - generic [ref=e93]: تامین و خدمات پس از فروش
+                  - generic [ref=e94]: خطوط تولید سازه های فولادی با گرایش فناوری لیزر
+                  - generic [ref=e95]: تماس با ما
+            - group "3 / 3" [ref=e96]:
+              - img "خط تولید سازه فولادی" [ref=e97]
+              - link "اجرای خط تولید کلید در دست طراحی و اجرای خط تولید سازه فولادی را به ما بسپارید تماس با ما" [ref=e98] [cursor=pointer]:
+                - /url: https://web.whatsapp.com/send?phone=989121139528
+                - generic [ref=e99]:
+                  - generic [ref=e100]: اجرای خط تولید کلید در دست
+                  - generic [ref=e101]: طراحی و اجرای خط تولید سازه فولادی را به ما بسپارید
+                  - generic [ref=e102]: تماس با ما
+            - group "1 / 3" [ref=e103]:
+              - img "پخ زن 3 بعدی" [ref=e104]
+              - generic [ref=e106]:
+                - generic [ref=e107]: ما پیشتاز
+                - generic [ref=e108]: فناوری لیزر در سازه های فولادی هستیم
+                - generic [ref=e109]: واردکننده ماشین آلات صنعتی از سال 1371
+            - group "2 / 3" [ref=e110]:
+              - img "لیزر برش ورق 3 کیلوواتی" [ref=e111]
+              - link "تامین و خدمات پس از فروش خطوط تولید سازه های فولادی با گرایش فناوری لیزر تماس با ما" [ref=e112] [cursor=pointer]:
+                - /url: https://web.whatsapp.com/send?phone=989121139528
+                - generic [ref=e113]:
+                  - generic [ref=e114]: تامین و خدمات پس از فروش
+                  - generic [ref=e115]: خطوط تولید سازه های فولادی با گرایش فناوری لیزر
+                  - generic [ref=e116]: تماس با ما
+            - group "3 / 3" [ref=e117]:
+              - img "خط تولید سازه فولادی" [ref=e118]
+              - link "اجرای خط تولید کلید در دست طراحی و اجرای خط تولید سازه فولادی را به ما بسپارید تماس با ما" [ref=e119] [cursor=pointer]:
+                - /url: https://web.whatsapp.com/send?phone=989121139528
+                - generic [ref=e120]:
+                  - generic [ref=e121]: اجرای خط تولید کلید در دست
+                  - generic [ref=e122]: طراحی و اجرای خط تولید سازه فولادی را به ما بسپارید
+                  - generic [ref=e123]: تماس با ما
+          - button "Previous slide" [ref=e124] [cursor=pointer]
+          - button "Next slide" [ref=e127] [cursor=pointer]
+          - generic [ref=e130]:
+            - button "Go to slide 1"
+            - button "Go to slide 2"
+            - button "Go to slide 3"
+        - heading "متن سربرگ خود را وارد کنید" [level=2] [ref=e133]
+      - generic [ref=e135]:
+        - generic [ref=e143]:
+          - heading "ساعات فعالیت" [level=3] [ref=e144]
+          - paragraph [ref=e145]: "شنبه تا پنجشنبه : 08:30 الی 17:30"
+        - generic [ref=e153]:
+          - heading "آدرس ما" [level=3] [ref=e154]
+          - paragraph [ref=e155]: ایران – تهران – اندرزگو
+        - generic [ref=e159]:
+          - link "پشتیبانی" [ref=e161] [cursor=pointer]:
+            - /url: http://wa.me/989121139528
+          - generic [ref=e163]:
+            - heading [level=3] [ref=e164]:
+              - link "پشتیبانی" [ref=e165] [cursor=pointer]:
+                - /url: http://wa.me/989121139528
+            - paragraph [ref=e166]: "09121139528"
+      - generic [ref=e167]:
+        - heading "سوابق و اهداف ما" [level=2] [ref=e171]
+        - generic [ref=e172]:
+          - generic [ref=e175]:
+            - img "نمایندگی" [ref=e176]
+            - generic [ref=e177]:
+              - heading "مجموعه تجربیات ما" [level=3] [ref=e178]
+              - paragraph [ref=e179]: "46 سال تجربه در زمینه های: 1-طراحی و ساخت و تولید ماشین الات صنعتی 2- خدمات فنی ماشین های ابزار 3-واردات و خدمات پس از فروش ماشین های ابزار 4- طراحی، ساخت و تولید ابزارهای بروچ 5 -طراحی خطوط تولید، واردات و خدمات پس از فروش ماشین آلات و خطوط تولید سازه های فلزی 6 -واردات و خدمات پس از فروش ماشین های لیزری"
+          - generic [ref=e182]:
+            - img "نمایندگی" [ref=e183]
+            - generic [ref=e184]:
+              - heading "سوابق نمایندگی" [level=3] [ref=e185]
+              - paragraph [ref=e186]: دایتو از ژاپنهاتالی از ژاپنتاکدا از ژاپنکوم کوانگ از کرهورنت–بهرینگر از فرانسه و آلمانمورگسی از ایتالیافین سی ام از چینووشی هوالیان از چیناچ جی تک از چین
+          - generic [ref=e189]:
+            - img "اهداف ما" [ref=e190]
+            - generic [ref=e191]:
+              - heading "اهداف ما" [level=3] [ref=e192]
+              - paragraph [ref=e193]: توسعه فناوری جوش و برش لیزر و جوشکاری رباتیک در صنعت ساخت و تولید سازه های فولادی ، لوازم خانگی و قطعات خودرو، اصلی ترین هدف ماست در همین راستا روز بروز در در حال جذب فناوری های نوین و انتقال به مشترایان گرامی هستیم
+      - generic [ref=e194]:
+        - heading "ما به عنوان مجموعه |" [level=3] [ref=e352]
+        - generic [ref=e201]:
+          - paragraph [ref=e202]: تلاش ما در جهت توسعه فناوری های نوین لیزر و جوش رباتیک در فرایند ساخت و تولید سازه های فولادی، لوازم خانگی و قطعات خودرو است
+          - paragraph [ref=e203]: در همین راستا، پیاده سازی اینترنت اشیا صنعتی و در مراحل بعدی پیاده سازی انقلاب صنعتی چهارم ، در چشم انداز ماست
+          - paragraph [ref=e204]: چالش های شما عزیزان، بی شک بر توان ما می افزاید و بهمین جهت از چالش ها استقبال می کنیم و ارج می نهیم
+      - generic [ref=e205]:
+        - heading "چرا انتخاب مــا" [level=2] [ref=e209]
+        - generic [ref=e210]:
+          - generic [ref=e223]:
+            - heading "بهترین قیمت ها با شرایط پرداخت عالی" [level=3] [ref=e224]
+            - paragraph [ref=e225]: قیمت های ما قابل رقابت و با شرایط پرداخت عالی و بدون اضافه شدن بهره در اقساط یک ساله است
+          - generic [ref=e241]:
+            - heading "تیم حرفه ای" [level=3] [ref=e242]
+            - paragraph [ref=e243]: هر یک از همکاران ما در رشته های مهندسی مکانیک، جوش ، برق و الکترونیک از مهندسین باسابقه و مجرب هستند
+          - generic [ref=e252]:
+            - heading "پشتیبانی 24 ساعته" [level=3] [ref=e253]
+            - paragraph [ref=e254]: پشتیبانی فنی ما در 24 ساعت هفته و بدون تعطیلی در خدمت مشتریان برقرار است
+      - heading "نمونه هائی از تصاویر ماشین های لیزری" [level=2] [ref=e259]
+      - generic [ref=e262]:
+        - heading "ما همیشه آماده بازدید از خط تولید شما و مشاوره برای بهینه سازی، هستیم" [level=2] [ref=e266]
+        - link "ثبت درخواست" [ref=e271] [cursor=pointer]:
+          - /url: https://web.whatsapp.com/send?phone=989121139528
+      - generic [ref=e275]:
+        - heading "بازدید از سایت شرکت های معروف بین المللی مانند بایسترونیک سویس، خالی از لطف نیست:" [level=2] [ref=e279]
+        - link "سایت بایسترونیک" [ref=e284] [cursor=pointer]:
+          - /url: https://www.bystronic.com/int/en
+    - contentinfo:
+      - generic [ref=e288]:
+        - img "نیرولیزر" [ref=e292]
+        - generic [ref=e295]:
+          - paragraph [ref=e296]: لینک های سریع
+          - list [ref=e297]:
+            - listitem [ref=e298]:
+              - link "صفحه نخست" [ref=e299] [cursor=pointer]:
+                - /url: http://nirumachine.com/
+            - listitem [ref=e300]:
+              - link "تماس با ما" [ref=e301] [cursor=pointer]:
+                - /url: http://nirumachine.com/contact-us/
+            - listitem [ref=e302]:
+              - link "گالری ویدئو" [ref=e303] [cursor=pointer]:
+                - /url: http://nirumachine.com/%da%af%d8%a7%d9%84%d8%b1%db%8c-%d9%88%db%8c%d8%af%d8%a6%d9%88
+            - listitem [ref=e304]:
+              - link "گالری عکس" [ref=e305] [cursor=pointer]:
+                - /url: http://nirumachine.com/2024/01/09/photo-gallery/
+        - list [ref=e309]:
+          - listitem [ref=e310]:
+            - link "Facebook" [ref=e311] [cursor=pointer]:
+              - /url: http://facebook.com
+          - listitem [ref=e315]:
+            - link "Youtube" [ref=e316] [cursor=pointer]:
+              - /url: https://www.youtube.com/@nirumachine
+          - listitem [ref=e320]:
+            - link "Eaparat" [ref=e321] [cursor=pointer]:
+              - /url: http://www.aparat.com/nirulaser
+              - generic [ref=e323]: 
+          - listitem [ref=e324]:
+            - link "Skype" [ref=e325] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e329]:
+            - link "Telegram" [ref=e330] [cursor=pointer]:
+              - /url: https://t.me/nirumachine
+          - listitem [ref=e334]:
+            - link "Whatsapp" [ref=e335] [cursor=pointer]:
+              - /url: https://web.whatsapp.com/send?phone=989121139528
+          - listitem [ref=e339]:
+            - link "Instagram" [ref=e340] [cursor=pointer]:
+              - /url: https://www.instagram.com/nirulaser
+        - generic [ref=e346]:
+          - paragraph [ref=e347]: "آدرس :"
+          - paragraph [ref=e348]: تهران، خیابان انقلاب، خیابان 12 فروردین، چهارراه وحید نظری، پلاک 104، واحد 2
+          - paragraph [ref=e349]: "تلفن ثابت: 88856703-021"
+          - paragraph [ref=e350]: "همراه: 09121139528"
+  - generic [ref=e351]: desktop
+```

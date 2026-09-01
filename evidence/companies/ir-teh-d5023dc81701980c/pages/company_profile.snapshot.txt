@@ -1,0 +1,282 @@
+### Page
+- Page URL: https://avval.ir/profile/12213/%D9%85%D9%88%D8%B3%D8%B3%D9%87-%D8%A7%D9%85%DB%8C%D9%86
+- Page Title: موسسه امین - حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی | کتاب اول
+- Console: 4 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - link "home page" [ref=e5] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - textbox "فعالیت شغلی، نام کسب و کار، خدمات و محصولات و ..." [ref=e11]
+            - generic [ref=e12]: در
+            - generic [ref=e13]:
+              - textbox "شهر، محله، منطقه، خیابان و ..." [ref=e14]
+              - button "جستجو بر اساس موقعیت مکانی" [ref=e16] [cursor=pointer]
+            - button "جستجو" [ref=e19] [cursor=pointer]
+          - list
+      - link "ثبت رایگان اطلاعات شغلی" [ref=e23] [cursor=pointer]:
+        - /url: /%D8%AB%D8%A8%D8%AA-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D8%B4%D8%BA%D9%84%DB%8C
+      - button "ورود | ثبت نام" [ref=e26] [cursor=pointer]
+    - navigation [ref=e30]:
+      - list [ref=e31]:
+        - listitem [ref=e32]:
+          - button "دسته بندی مشاغل" [ref=e33] [cursor=pointer]
+        - listitem [ref=e35]: "|"
+        - listitem [ref=e36]:
+          - link "تبلیغات با ما" [ref=e37] [cursor=pointer]:
+            - /url: /%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-%D9%88%D8%A8-%D8%B3%D8%A7%DB%8C%D8%AA-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+        - listitem [ref=e40]: "|"
+        - listitem [ref=e41]:
+          - link "دسترسی بانک مشاغل" [ref=e42] [cursor=pointer]:
+            - /url: /%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B4%D8%A7%D8%BA%D9%84-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+        - listitem [ref=e45]: "|"
+        - listitem [ref=e46]:
+          - link "پنل اس ام اس" [ref=e47] [cursor=pointer]:
+            - /url: /smspanel
+  - generic [ref=e53]:
+    - main [ref=e54]:
+      - generic [ref=e55]:
+        - img "لوگوی موسسه امین - حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی" [ref=e57]
+        - generic [ref=e58]:
+          - heading "موسسه امین" [level=1] [ref=e59]
+          - generic [ref=e60]: تصمیم بگیرید و بقیه کارها را به ما بسپارید.
+          - list [ref=e61]:
+            - listitem [ref=e62]: حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی
+      - generic [ref=e63]:
+        - link "تماس" [ref=e64] [cursor=pointer]:
+          - /url: "#"
+        - button "ثبت نظر" [ref=e69] [cursor=pointer]
+        - button "ارتقای پروفایل" [ref=e72] [cursor=pointer]
+        - button "ویرایش" [ref=e75] [cursor=pointer]
+        - button "اشتراک گذاری" [ref=e80] [cursor=pointer]
+      - navigation [ref=e88]:
+        - list [ref=e89]:
+          - listitem [ref=e90]:
+            - link "link to home" [ref=e91] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e95]
+          - listitem [ref=e98]:
+            - link "دسته‌بندی مشاغل" [ref=e99] [cursor=pointer]:
+              - /url: /directory
+          - listitem [ref=e100]
+          - listitem [ref=e103]:
+            - link "حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی" [ref=e104] [cursor=pointer]:
+              - /url: /directory/%D8%AD%D8%B3%D8%A7%D8%A8%D8%AF%D8%A7%D8%B1%DB%8C-%D8%AD%D8%B3%D8%A7%D8%A8%D8%B1%D8%B3%DB%8C-%D9%85%D8%B4%D8%A7%D9%88%D8%B1%D9%87-%D9%85%D8%A7%D9%84%DB%8C%D8%A7%D8%AA%DB%8C-%D9%88-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D9%85%D8%A7%D9%84%DB%8C
+          - listitem [ref=e105]
+          - listitem [ref=e108]:
+            - link "تهران" [ref=e109] [cursor=pointer]:
+              - /url: /directory/%D8%AD%D8%B3%D8%A7%D8%A8%D8%AF%D8%A7%D8%B1%DB%8C-%D8%AD%D8%B3%D8%A7%D8%A8%D8%B1%D8%B3%DB%8C-%D9%85%D8%B4%D8%A7%D9%88%D8%B1%D9%87-%D9%85%D8%A7%D9%84%DB%8C%D8%A7%D8%AA%DB%8C-%D9%88-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D9%85%D8%A7%D9%84%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86
+          - listitem [ref=e110]
+          - listitem [ref=e113]:
+            - link "منطقه 3" [ref=e114] [cursor=pointer]:
+              - /url: /search/%D8%AD%D8%B3%D8%A7%D8%A8%D8%AF%D8%A7%D8%B1%DB%8C-%D8%AD%D8%B3%D8%A7%D8%A8%D8%B1%D8%B3%DB%8C-%D9%85%D8%B4%D8%A7%D9%88%D8%B1%D9%87-%D9%85%D8%A7%D9%84%DB%8C%D8%A7%D8%AA%DB%8C-%D9%88-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D9%85%D8%A7%D9%84%DB%8C-%D8%AF%D8%B1-%D9%85%D9%86%D8%B7%D9%82%D9%87-3
+      - generic [ref=e115]:
+        - heading "اطلاعات تماس" [level=2] [ref=e117]
+        - list [ref=e118]:
+          - listitem [ref=e119]:
+            - generic [ref=e120]: "آدرس :"
+            - generic [ref=e124]: تهران، منطقه 3، خیابان کلاهدوز (دولت)، خیابان شریعتی، پلاک 3، واحد 8، روبروی جامبو
+          - listitem [ref=e125]:
+            - generic [ref=e126]: "تلفن :"
+            - button "نمایش شماره" [ref=e129] [cursor=pointer]
+            - generic [ref=e130]: XXXXXXXXXX
+          - listitem [ref=e131]:
+            - generic [ref=e132]: "تلفن همراه :"
+            - button "نمایش شماره" [ref=e135] [cursor=pointer]
+            - generic [ref=e136]: XXXXXXXXXX
+      - generic [ref=e137]:
+        - heading "نظرات" [level=2] [ref=e139]
+        - generic [ref=e140]:
+          - paragraph [ref=e141]: لطفا به این کسب و کار امتیاز بدید و نظر خودتون رو درباره این کسب و کار بنویسید
+          - generic [ref=e142]:
+            - generic [ref=e145]:
+              - generic [ref=e146]: بدون رای
+              - generic "بدون رای" [ref=e148] [cursor=pointer]:
+                - textbox "امتیاز شما برای این کسب و کار" [ref=e180]
+            - generic [ref=e181]:
+              - generic [ref=e182]: حداکثر 2000 کاراکتر
+              - textbox "به نظر من ..." [ref=e183]
+              - button "ثبت نظر" [ref=e184] [cursor=pointer]
+          - text: ✕
+    - complementary [ref=e185]:
+      - generic [ref=e187]:
+        - heading "تصاویر" [level=2] [ref=e189]
+        - generic [ref=e190]:
+          - link "main image" [ref=e192] [cursor=pointer]:
+            - /url: /filehash/A9zAifadfbApsvoCeffjjeDtzq.jpg
+            - img "موسسه امین - حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی شماره 1" [ref=e193]
+          - generic [ref=e194]:
+            - link "Images" [ref=e196] [cursor=pointer]:
+              - /url: /filehash/A9zAifadfbApsvoCeffjjfDtzq.jpg
+              - img "موسسه امین - حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی شماره 2" [ref=e197]
+            - link "Images" [ref=e199] [cursor=pointer]:
+              - /url: /filehash/A9zAifadfbApsvoCeffjjgDtzq.jpg
+              - img "موسسه امین - حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی شماره 3" [ref=e200]
+      - generic [ref=e202]:
+        - generic [ref=e203]:
+          - generic [ref=e204]: آیا شما مالک یا مدیر این کسب و کار هستید؟
+          - button "مالک هستم" [ref=e205] [cursor=pointer]
+        - text: ✕
+      - generic [ref=e206]:
+        - heading "کسب و کارهای مشابه" [level=2] [ref=e208]
+        - navigation [ref=e209]:
+          - list [ref=e210]:
+            - listitem [ref=e211]:
+              - link "شرکت دارا حساب ایرانیان شرکت دارا حساب ایرانیان 5.0 (12 نظر) حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی تهران، شهریار، بلوار انقلاب" [ref=e212] [cursor=pointer]:
+                - /url: /profile/fb5f2/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%AF%D8%A7%D8%B1%D8%A7-%D8%AD%D8%B3%D8%A7%D8%A8-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%D8%A7%D9%86
+                - img "شرکت دارا حساب ایرانیان" [ref=e213]
+                - generic [ref=e214]:
+                  - heading "شرکت دارا حساب ایرانیان" [level=3] [ref=e215]
+                  - generic [ref=e216]:
+                    - generic [ref=e227]: "5.0"
+                    - generic [ref=e228]: (12 نظر)
+                  - list [ref=e229]:
+                    - listitem [ref=e230]: حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی
+                  - generic [ref=e231]: تهران، شهریار، بلوار انقلاب
+            - listitem [ref=e235]:
+              - link "خدمات مالی و بازرگانی امین خدمات مالی و بازرگانی امین 5.0 (2 نظر) حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی تهران، منطقه 2، محله صادقيه - آرياشهر، ستارخان" [ref=e236] [cursor=pointer]:
+                - /url: /profile/e771d/%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D9%85%D8%A7%D9%84%DB%8C-%D9%88-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%A7%D9%85%DB%8C%D9%86
+                - img "خدمات مالی و بازرگانی امین" [ref=e237]
+                - generic [ref=e238]:
+                  - heading "خدمات مالی و بازرگانی امین" [level=3] [ref=e239]
+                  - generic [ref=e240]:
+                    - generic [ref=e251]: "5.0"
+                    - generic [ref=e252]: (2 نظر)
+                  - list [ref=e253]:
+                    - listitem [ref=e254]: حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی
+                  - generic [ref=e255]: تهران، منطقه 2، محله صادقيه - آرياشهر، ستارخان
+            - listitem [ref=e259]:
+              - link "شرکت حسابداری دانش پژوهان محاسب شرکت حسابداری دانش پژوهان محاسب 3.0 (1 نظر) حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی تهران، منطقه 4، محله تهرانپارس غربی، بزرگراه باقری" [ref=e260] [cursor=pointer]:
+                - /url: /profile/i0m0q/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%AD%D8%B3%D8%A7%D8%A8%D8%AF%D8%A7%D8%B1%DB%8C-%D8%AF%D8%A7%D9%86%D8%B4-%D9%BE%DA%98%D9%88%D9%87%D8%A7%D9%86-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8
+                - img "شرکت حسابداری دانش پژوهان محاسب" [ref=e261]
+                - generic [ref=e262]:
+                  - heading "شرکت حسابداری دانش پژوهان محاسب" [level=3] [ref=e263]
+                  - generic [ref=e264]:
+                    - generic [ref=e271]: "3.0"
+                    - generic [ref=e272]: (1 نظر)
+                  - list [ref=e273]:
+                    - listitem [ref=e274]: حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی
+                  - generic [ref=e275]: تهران، منطقه 4، محله تهرانپارس غربی، بزرگراه باقری
+            - listitem [ref=e279]:
+              - link "موسسه حسابداری مالیاتی ایلیا نو موسسه حسابداری مالیاتی ایلیا نو 5.0 (1 نظر) حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی تهران، منطقه 6، خیابان فاطمی نبش شیخلر ششم پلاک 136 طبقه ششم واحد 33" [ref=e280] [cursor=pointer]:
+                - /url: /profile/ojbqh/%D9%85%D9%88%D8%B3%D8%B3%D9%87-%D8%AD%D8%B3%D8%A7%D8%A8%D8%AF%D8%A7%D8%B1%DB%8C-%D9%85%D8%A7%D9%84%DB%8C%D8%A7%D8%AA%DB%8C-%D8%A7%DB%8C%D9%84%DB%8C%D8%A7-%D9%86%D9%88
+                - img "موسسه حسابداری مالیاتی ایلیا نو" [ref=e281]
+                - generic [ref=e282]:
+                  - heading "موسسه حسابداری مالیاتی ایلیا نو" [level=3] [ref=e283]
+                  - generic [ref=e284]:
+                    - generic [ref=e295]: "5.0"
+                    - generic [ref=e296]: (1 نظر)
+                  - list [ref=e297]:
+                    - listitem [ref=e298]: حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی
+                  - generic [ref=e299]: تهران، منطقه 6، خیابان فاطمی نبش شیخلر ششم پلاک 136 طبقه ششم واحد 33
+            - listitem [ref=e303]:
+              - link "موسسه مالیاتی پیشگامان موسسه مالیاتی پیشگامان 5.0 (1 نظر) حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی تهران، منطقه 6، میدان ولی عصر" [ref=e304] [cursor=pointer]:
+                - /url: /profile/tbrqm/%D9%85%D9%88%D8%B3%D8%B3%D9%87-%D9%85%D8%A7%D9%84%DB%8C%D8%A7%D8%AA%DB%8C-%D9%BE%DB%8C%D8%B4%DA%AF%D8%A7%D9%85%D8%A7%D9%86
+                - img "موسسه مالیاتی پیشگامان" [ref=e305]
+                - generic [ref=e306]:
+                  - heading "موسسه مالیاتی پیشگامان" [level=3] [ref=e307]
+                  - generic [ref=e308]:
+                    - generic [ref=e319]: "5.0"
+                    - generic [ref=e320]: (1 نظر)
+                  - list [ref=e321]:
+                    - listitem [ref=e322]: حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی
+                  - generic [ref=e323]: تهران، منطقه 6، میدان ولی عصر
+            - listitem [ref=e327]:
+              - link "سپیدار سامانه سپید آسیا سپیدار سامانه سپید آسیا 5.0 (2 نظر) حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی شیراز، منطقه 1، محله فلسطین، خیابان باغشاه" [ref=e328] [cursor=pointer]:
+                - /url: /profile/603e5/%D8%B3%D9%BE%DB%8C%D8%AF%D8%A7%D8%B1-%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87-%D8%B3%D9%BE%DB%8C%D8%AF-%D8%A2%D8%B3%DB%8C%D8%A7
+                - img "سپیدار سامانه سپید آسیا" [ref=e329]
+                - generic [ref=e330]:
+                  - heading "سپیدار سامانه سپید آسیا" [level=3] [ref=e331]
+                  - generic [ref=e332]:
+                    - generic [ref=e343]: "5.0"
+                    - generic [ref=e344]: (2 نظر)
+                  - list [ref=e345]:
+                    - listitem [ref=e346]: حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی
+                  - generic [ref=e347]: شیراز، منطقه 1، محله فلسطین، خیابان باغشاه
+            - listitem [ref=e351]:
+              - link "شرکت آراد حساب نیکان آریا شرکت آراد حساب نیکان آریا 5.0 (1 نظر) حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی تهران، منطقه 21، محله باشگاه نفت، تهرانسر" [ref=e352] [cursor=pointer]:
+                - /url: /profile/9c8d2/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A2%D8%B1%D8%A7%D8%AF-%D8%AD%D8%B3%D8%A7%D8%A8-%D9%86%DB%8C%DA%A9%D8%A7%D9%86-%D8%A2%D8%B1%DB%8C%D8%A7
+                - img "شرکت آراد حساب نیکان آریا" [ref=e353]
+                - generic [ref=e354]:
+                  - heading "شرکت آراد حساب نیکان آریا" [level=3] [ref=e355]
+                  - generic [ref=e356]:
+                    - generic [ref=e367]: "5.0"
+                    - generic [ref=e368]: (1 نظر)
+                  - list [ref=e369]:
+                    - listitem [ref=e370]: حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی
+                  - generic [ref=e371]: تهران، منطقه 21، محله باشگاه نفت، تهرانسر
+    - text: ✕ ✕
+  - contentinfo [ref=e375]:
+    - generic [ref=e376]:
+      - generic [ref=e377]:
+        - link "home page" [ref=e378] [cursor=pointer]:
+          - /url: /
+        - list [ref=e381]:
+          - listitem [ref=e382]:
+            - link "Telegram" [ref=e383] [cursor=pointer]:
+              - /url: https://t.me/avval_ir
+          - listitem [ref=e389]:
+            - link "instagram" [ref=e390] [cursor=pointer]:
+              - /url: https://instagram.com/ketabeavval.officialpage
+          - listitem [ref=e395]:
+            - link "Twitter" [ref=e396] [cursor=pointer]:
+              - /url: https://twitter.com/ketabeavvalir
+          - listitem [ref=e400]:
+            - link "Facebook" [ref=e401] [cursor=pointer]:
+              - /url: https://www.facebook.com/avval/
+          - listitem [ref=e405]:
+            - link "Linkedin" [ref=e406] [cursor=pointer]:
+              - /url: https://linkedin.com/company/ketabeavval/
+      - navigation [ref=e411]:
+        - generic [ref=e412]:
+          - generic [ref=e413]: درباره کتاب اول
+          - list [ref=e414]:
+            - listitem [ref=e415]:
+              - link "درباره کتاب اول" [ref=e416] [cursor=pointer]:
+                - /url: /about-ketabeavval
+            - listitem [ref=e417]:
+              - link "تماس با کتاب اول" [ref=e418] [cursor=pointer]:
+                - /url: /contact-us
+            - listitem [ref=e419]:
+              - link "شرایط استفاده" [ref=e420] [cursor=pointer]:
+                - /url: /terms-conditions
+            - listitem [ref=e421]:
+              - link "حریم شخضی" [ref=e422] [cursor=pointer]:
+                - /url: /privacy-policy
+        - generic [ref=e423]:
+          - generic [ref=e424]: کشف کنید
+          - list [ref=e425]:
+            - listitem [ref=e426]:
+              - link "دسته بندی مشاغل" [ref=e427] [cursor=pointer]:
+                - /url: /directory
+            - listitem [ref=e428]:
+              - link "نقشه سایت" [ref=e429] [cursor=pointer]:
+                - /url: /sitemap
+            - listitem [ref=e430]:
+              - link "دسترسی بانک مشاغل کتاب اول" [ref=e431] [cursor=pointer]:
+                - /url: /%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B4%D8%A7%D8%BA%D9%84-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+            - listitem [ref=e432]:
+              - link "پنل اس ام اس" [ref=e433] [cursor=pointer]:
+                - /url: /smspanel
+        - generic [ref=e434]:
+          - generic [ref=e435]: صاحبین مشاغل در کتاب اول
+          - list [ref=e436]:
+            - listitem [ref=e437]:
+              - link "ثبت اطلاعات شغلی" [ref=e438] [cursor=pointer]:
+                - /url: /%D8%AB%D8%A8%D8%AA-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D8%B4%D8%BA%D9%84%DB%8C
+            - listitem [ref=e439]:
+              - link "تبلیغات با کتاب اول" [ref=e440] [cursor=pointer]:
+                - /url: /%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-%D9%88%D8%A8-%D8%B3%D8%A7%DB%8C%D8%AA-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+    - generic [ref=e441]:
+      - img "samandehi logo" [ref=e443] [cursor=pointer]
+      - link "enamad logo" [ref=e445] [cursor=pointer]:
+        - /url: https://trustseal.enamad.ir/?id=194990&Code=3Y0m3d1djm9fuqjoC8mT
+        - img "logo-enamad" [ref=e446]
+    - generic [ref=e447]: 1373-1403 © تمامی حقوق برای شرکت کتاب اول محفوظ است
+  - text: ✕ *
+```

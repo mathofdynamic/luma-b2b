@@ -1,0 +1,396 @@
+### Page
+- Page URL: https://kimyagaran.com/
+- Page Title: صفحه اصلی * - کیمیاگران
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - link [ref=e7] [cursor=pointer]:
+      - /url: https://kimyagaran.com
+    - navigation "Menu" [ref=e11]:
+      - list [ref=e12]:
+        - listitem [ref=e13]:
+          - link "صفحه اصلی" [ref=e14] [cursor=pointer]:
+            - /url: https://kimyagaran.com/
+        - listitem [ref=e15]:
+          - link [ref=e16] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=e20]:
+          - link [ref=e21] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=e25]:
+          - link [ref=e26] [cursor=pointer]:
+            - /url: "#"
+    - list [ref=e37]:
+      - listitem [ref=e38]:
+        - link "English" [ref=e39] [cursor=pointer]:
+          - /url: https://kimyagaran.com/en/
+  - main [ref=e40]:
+    - main [ref=e42]:
+      - generic [ref=e47]:
+        - generic [ref=e58]:
+          - generic: شرکت صنایع شیمیایی کیمیاگران امروز
+          - link "اطلاعات بیشتر ..." [ref=e62] [cursor=pointer]:
+            - /url: https://kimyagaran.com/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/
+          - generic: پیشرو در تامین مواد اولیه دارویی و شیمیایی
+        - generic [ref=e66]:
+          - generic [ref=e67]:
+            - generic [ref=e68]:
+              - link [ref=e71] [cursor=pointer]:
+                - /url: https://kimyagaran.com/flt-40406/jsf/epro-loop-builder/tax/category:60/
+              - heading [level=4] [ref=e74]:
+                - link "محصولات" [ref=e75] [cursor=pointer]:
+                  - /url: https://kimyagaran.com/flt-40406/jsf/epro-loop-builder/tax/category:60/
+            - generic [ref=e76]:
+              - link [ref=e79] [cursor=pointer]:
+                - /url: https://kimyagaran.com/medias/
+              - heading [level=4] [ref=e82]:
+                - link "رسانه" [ref=e83] [cursor=pointer]:
+                  - /url: https://kimyagaran.com/medias/
+            - generic [ref=e84]:
+              - link [ref=e87] [cursor=pointer]:
+                - /url: https://kimyagaran.com/%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D8%A7%D9%86%D8%B3%D8%A7%D9%86%DB%8C/
+              - heading [level=4] [ref=e90]:
+                - link "سرمایه انسانی" [ref=e91] [cursor=pointer]:
+                  - /url: https://kimyagaran.com/%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D8%A7%D9%86%D8%B3%D8%A7%D9%86%DB%8C/
+            - generic [ref=e92]:
+              - link [ref=e95] [cursor=pointer]:
+                - /url: https://kimyagaran.com/%D9%85%D8%A7%D9%84%DB%8C-%D9%88-%D8%A8%D9%88%D8%B1%D8%B3/
+              - heading [level=4] [ref=e98]:
+                - link "مالی و بورس" [ref=e99] [cursor=pointer]:
+                  - /url: https://kimyagaran.com/%D9%85%D8%A7%D9%84%DB%8C-%D9%88-%D8%A8%D9%88%D8%B1%D8%B3/
+          - generic [ref=e100]:
+            - generic [ref=e101]:
+              - link [ref=e104] [cursor=pointer]:
+                - /url: https://kimyagaran.com/category/%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa/
+              - heading [level=4] [ref=e107]:
+                - link "مقالات" [ref=e108] [cursor=pointer]:
+                  - /url: https://kimyagaran.com/category/%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa/
+            - generic [ref=e109]:
+              - link [ref=e112] [cursor=pointer]:
+                - /url: https://kimyagaran.com/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/
+              - heading [level=4] [ref=e115]:
+                - link "اخبار" [ref=e116] [cursor=pointer]:
+                  - /url: https://kimyagaran.com/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/
+            - generic [ref=e117]:
+              - link [ref=e120] [cursor=pointer]:
+                - /url: https://kimyagaran.com/contact-us/
+              - heading [level=4] [ref=e123]:
+                - link "تماس با ما" [ref=e124] [cursor=pointer]:
+                  - /url: https://kimyagaran.com/contact-us/
+            - generic [ref=e125]:
+              - link [ref=e128] [cursor=pointer]:
+                - /url: https://kimyagaran.com/%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%85%D8%A7/
+              - heading [level=4] [ref=e131]:
+                - link "درباره ما" [ref=e132] [cursor=pointer]:
+                  - /url: https://kimyagaran.com/%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%85%D8%A7/
+        - generic [ref=e136]:
+          - generic [ref=e139]:
+            - heading "محصولات کیمیاگران امروز" [level=3] [ref=e140]
+            - paragraph [ref=e141]: کیمیاگران امروز، تولیدکننده‌ی مواد اولیه شیمیایی و دارویی
+          - link "مشاهده محصولات" [ref=e146] [cursor=pointer]:
+            - /url: https://kimyagaran.com/flt-40406/jsf/epro-loop-builder/tax/category:60/
+        - generic [ref=e164]:
+          - generic [ref=e165]:
+            - heading [level=3] [ref=e169]:
+              - link "اخبار" [ref=e170] [cursor=pointer]:
+                - /url: https://kimyagaran.com/%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1/
+            - link "مشاهده همه" [ref=e175] [cursor=pointer]:
+              - /url: https://kimyagaran.com/%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1/
+          - generic [ref=e178]:
+            - generic [ref=e179]:
+              - list [ref=e182]:
+                - generic [ref=e184]:
+                  - list [ref=e187]:
+                    - listitem [ref=e188]:
+                      - link [ref=e189] [cursor=pointer]:
+                        - /url: https://kimyagaran.com/2026/07/26/
+                        - time [ref=e194]: 4 مرداد 1405
+                    - listitem [ref=e195]:
+                      - time [ref=e200]: 6:42 ب.ظ
+                    - listitem [ref=e201]:
+                      - generic [ref=e206]:
+                        - link "اخبار" [ref=e207] [cursor=pointer]:
+                          - /url: https://kimyagaran.com/category/%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1/
+                        - text: ","
+                        - link "امور سهام" [ref=e208] [cursor=pointer]:
+                          - /url: https://kimyagaran.com/category/%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1/stock/
+                  - heading [level=4] [ref=e211]:
+                    - link "گزارش تصویری مجمع عمومی عادی سالیانه شکام ۱۴۰۵" [ref=e212] [cursor=pointer]:
+                      - /url: https://kimyagaran.com/%da%af%d8%b2%d8%a7%d8%b1%d8%b4-%d8%aa%d8%b5%d9%88%db%8c%d8%b1%db%8c-%d9%85%d8%ac%d9%85%d8%b9-%d8%b9%d9%85%d9%88%d9%85%db%8c-%d8%b9%d8%a7%d8%af%db%8c-%d8%b3%d8%a7%d9%84%db%8c%d8%a7%d9%86%d9%87-1405/
+              - list [ref=e215]:
+                - generic [ref=e217]:
+                  - list [ref=e220]:
+                    - listitem [ref=e221]:
+                      - link [ref=e222] [cursor=pointer]:
+                        - /url: https://kimyagaran.com/2026/07/18/
+                        - time [ref=e227]: 27 تیر 1405
+                    - listitem [ref=e228]:
+                      - time [ref=e233]: 5:43 ب.ظ
+                    - listitem [ref=e234]:
+                      - link "اخبار" [ref=e240] [cursor=pointer]:
+                        - /url: https://kimyagaran.com/category/%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1/
+                  - heading [level=4] [ref=e243]:
+                    - link "گزارش تصویری حضور در سی وسومین نمایشگاه ایران بیوتی" [ref=e244] [cursor=pointer]:
+                      - /url: https://kimyagaran.com/%da%af%d8%b2%d8%a7%d8%b1%d8%b4-%d8%aa%d8%b5%d9%88%db%8c%d8%b1%db%8c-%d8%ad%d8%b6%d9%88%d8%b1-%d8%af%d8%b1-%d8%b3%db%8c-%d9%88%d8%b3%d9%88%d9%85%db%8c%d9%86-%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7/
+                - generic [ref=e246]:
+                  - list [ref=e249]:
+                    - listitem [ref=e250]:
+                      - link [ref=e251] [cursor=pointer]:
+                        - /url: https://kimyagaran.com/2026/07/12/
+                        - time [ref=e256]: 21 تیر 1405
+                    - listitem [ref=e257]:
+                      - time [ref=e262]: 12:09 ق.ظ
+                    - listitem [ref=e263]:
+                      - link "اخبار" [ref=e269] [cursor=pointer]:
+                        - /url: https://kimyagaran.com/category/%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1/
+                  - heading [level=4] [ref=e272]:
+                    - link "دعوت به بازدید از سی و سومین نمایشگاه ایران بیوتی" [ref=e273] [cursor=pointer]:
+                      - /url: https://kimyagaran.com/%d8%af%d8%b9%d9%88%d8%aa%d9%86%d8%a7%d9%85%d9%87-%d8%a7%db%8c%d8%b1%d8%a7%d9%86-%d8%a8%db%8c%d9%88%d8%aa%db%8c-1405/
+            - list [ref=e277]:
+              - generic [ref=e280]:
+                - link [ref=e284] [cursor=pointer]:
+                  - /url: https://kimyagaran.com/%d9%81%d8%b1%d9%85%d9%88%d9%84-%d8%aa%d8%b9%d8%af%db%8c%d9%84-%d8%ae%d9%88%d8%af%da%a9%d8%a7%d8%b1-%d9%82%db%8c%d9%85%d8%aa-%d8%af%d8%a7%d8%b1%d9%88/
+                - generic [ref=e286]:
+                  - link "فرمول تعدیل خودکار قیمت دارو" [ref=e290] [cursor=pointer]:
+                    - /url: https://kimyagaran.com/%d9%81%d8%b1%d9%85%d9%88%d9%84-%d8%aa%d8%b9%d8%af%db%8c%d9%84-%d8%ae%d9%88%d8%af%da%a9%d8%a7%d8%b1-%d9%82%db%8c%d9%85%d8%aa-%d8%af%d8%a7%d8%b1%d9%88/
+                  - list [ref=e293]:
+                    - listitem [ref=e294]:
+                      - link [ref=e295] [cursor=pointer]:
+                        - /url: https://kimyagaran.com/2026/06/27/
+                        - time [ref=e300]: 6 تیر 1405
+                    - listitem [ref=e301]:
+                      - link "اخبار" [ref=e307] [cursor=pointer]:
+                        - /url: https://kimyagaran.com/category/%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1/
+              - generic [ref=e310]:
+                - link [ref=e314] [cursor=pointer]:
+                  - /url: https://kimyagaran.com/%da%a9%db%8c%d9%85%db%8c%d8%a7%da%af%d8%b1%d8%a7%d9%86-%d8%a7%d9%85%d8%b1%d9%88%d8%b2-%d8%b3%d9%87-%d8%b3%d8%aa%d8%a7%d8%b1%d9%87-%d8%b4%d8%af/
+                - generic [ref=e316]:
+                  - link "ثمره همدلی یک خانواده؛ کیمیاگران امروز سه ستاره شد" [ref=e320] [cursor=pointer]:
+                    - /url: https://kimyagaran.com/%da%a9%db%8c%d9%85%db%8c%d8%a7%da%af%d8%b1%d8%a7%d9%86-%d8%a7%d9%85%d8%b1%d9%88%d8%b2-%d8%b3%d9%87-%d8%b3%d8%aa%d8%a7%d8%b1%d9%87-%d8%b4%d8%af/
+                  - list [ref=e323]:
+                    - listitem [ref=e324]:
+                      - link [ref=e325] [cursor=pointer]:
+                        - /url: https://kimyagaran.com/2026/06/15/
+                        - time [ref=e330]: 25 خرداد 1405
+                    - listitem [ref=e331]:
+                      - link "اخبار" [ref=e337] [cursor=pointer]:
+                        - /url: https://kimyagaran.com/category/%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1/
+              - generic [ref=e340]:
+                - link [ref=e344] [cursor=pointer]:
+                  - /url: https://kimyagaran.com/%d8%ac%d8%b4%d9%86-%d8%b3%db%8c-%d8%b3%d8%a7%d9%84%da%af%db%8c-%da%a9%db%8c%d9%85%db%8c%d8%a7%da%af%d8%b1%d8%a7%d9%86-%d8%a7%d9%85%d8%b1%d9%88%d8%b2/
+                - generic [ref=e346]:
+                  - link "برگزاری آیین گرامی‌داشت سی‌سالگی شرکت صنایع شیمیایی کیمیاگران امروز" [ref=e350] [cursor=pointer]:
+                    - /url: https://kimyagaran.com/%d8%ac%d8%b4%d9%86-%d8%b3%db%8c-%d8%b3%d8%a7%d9%84%da%af%db%8c-%da%a9%db%8c%d9%85%db%8c%d8%a7%da%af%d8%b1%d8%a7%d9%86-%d8%a7%d9%85%d8%b1%d9%88%d8%b2/
+                  - list [ref=e353]:
+                    - listitem [ref=e354]:
+                      - link [ref=e355] [cursor=pointer]:
+                        - /url: https://kimyagaran.com/2025/12/17/
+                        - time [ref=e360]: 26 آذر 1404
+                    - listitem [ref=e361]:
+                      - link "اخبار" [ref=e367] [cursor=pointer]:
+                        - /url: https://kimyagaran.com/category/%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1/
+              - generic [ref=e370]:
+                - link [ref=e374] [cursor=pointer]:
+                  - /url: https://kimyagaran.com/%d8%af%d8%b9%d9%88%d8%aa%d9%86%d8%a7%d9%85%d9%87-%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87-%d8%b1%d9%86%da%af-%d8%a7%d8%b2%d8%a8%da%a9%d8%b3%d8%aa%d8%a7%d9%86-2025/
+                - generic [ref=e376]:
+                  - link "دعوت به بازدید از غرفه کیمیاگران در نمایشگاه رنگ و رزین ازبکستان" [ref=e380] [cursor=pointer]:
+                    - /url: https://kimyagaran.com/%d8%af%d8%b9%d9%88%d8%aa%d9%86%d8%a7%d9%85%d9%87-%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87-%d8%b1%d9%86%da%af-%d8%a7%d8%b2%d8%a8%da%a9%d8%b3%d8%aa%d8%a7%d9%86-2025/
+                  - list [ref=e383]:
+                    - listitem [ref=e384]:
+                      - link [ref=e385] [cursor=pointer]:
+                        - /url: https://kimyagaran.com/2025/12/14/
+                        - time [ref=e390]: 23 آذر 1404
+                    - listitem [ref=e391]:
+                      - link "اخبار" [ref=e397] [cursor=pointer]:
+                        - /url: https://kimyagaran.com/category/%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1/
+        - generic [ref=e400]:
+          - heading "شرکت صنایع شیمیایی کیمیاگران امروز" [level=3] [ref=e405]
+          - generic [ref=e408]:
+            - paragraph [ref=e411]: شرکت صنایع شیمیایی کیمیاگران امروز به عنوان شرکتی پیشرو در تولید محصولات اتوکسیله و پروپوکسیله در منطقه خاورمیانه، فعالیت خود را از سال 1374 پس از سال ها تلاش بی وقفه، پژوهش های مستمر و سرمایه گذاری عظیم بخش خصوصی با تولید انواع پلی اتیلن گلایکول های دارویی آغاز کرد و در گام های بعدی اقدام به تولید و عرضه انواع مختلف محصولات اتوکسیله و پروپوکسیله از جمله نونیل فنول های اتوکسیله، الکل های چرب اتوکسیله و اسیدهای چرب اتوکسیله اقدام نمود. در سال های اخیر، شرکت صنایع شیمیایی کیمیاگران امروز در راستای تلاش برای خودکفایی کشور و صرفه جویی ارزی، برای اولین بار در ایران موفق به تولید مونوپروپیلن گلایکول پایه شیمیایی و دارویی و نیز سایر مواد اولیه دارویی از جمله مترونیدازول شد.
+            - link "درباره ما" [ref=e415] [cursor=pointer]:
+              - /url: https://kimyagaran.com/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/
+        - generic [ref=e424]:
+          - generic [ref=e426]:
+            - heading "معرفی محصولات کیمیاگران امروز" [level=3] [ref=e427]
+            - paragraph [ref=e428]
+          - link "مشاهده محصولات" [ref=e432] [cursor=pointer]:
+            - /url: https://kimyagaran.com/flt-40406/jsf/epro-loop-builder/tax/category:60/
+        - generic [ref=e439]:
+          - heading "کیمیاگران امروز در یک نگاه" [level=2] [ref=e442]
+          - generic [ref=e443]:
+            - generic [ref=e449]:
+              - generic [ref=e450]: تعداد مقاصد صادراتی
+              - generic [ref=e451]:
+                - generic [ref=e453]: "0"
+                - generic [ref=e454]: کشور
+            - generic [ref=e460]:
+              - generic [ref=e461]: شرکتهای زیرمجموعه
+              - generic [ref=e462]: "0"
+            - generic [ref=e471]:
+              - generic [ref=e472]: کارکنان دفتر مرکزی
+              - generic [ref=e473]: "0"
+            - generic [ref=e482]:
+              - generic [ref=e483]: کارکنان کارخانه
+              - generic [ref=e484]: "0"
+          - generic [ref=e488]:
+            - generic [ref=e494]:
+              - generic [ref=e495]: ارزش بازار
+              - generic [ref=e496]:
+                - generic [ref=e498]: "0"
+                - generic [ref=e499]: همت
+            - generic [ref=e505]:
+              - generic [ref=e506]: تعداد محصولات
+              - generic [ref=e507]: "0"
+            - generic [ref=e516]:
+              - generic [ref=e517]: دفاتر استانی
+              - generic [ref=e518]: "0"
+            - generic [ref=e527]:
+              - generic [ref=e528]: محصولات داروسازی
+              - generic [ref=e529]: "0"
+        - generic [ref=e534]:
+          - generic [ref=e535]:
+            - heading "آخرین مقالات" [level=2] [ref=e538]
+            - link "مشاهده همه" [ref=e542] [cursor=pointer]:
+              - /url: https://kimyagaran.com/category/%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa/
+          - list [ref=e548]:
+            - generic [ref=e550]:
+              - list [ref=e553]:
+                - listitem [ref=e554]:
+                  - link [ref=e555] [cursor=pointer]:
+                    - /url: https://kimyagaran.com/2022/03/12/
+                    - time [ref=e560]: 21 اسفند 1400
+                - listitem [ref=e561]:
+                  - link "مقالات" [ref=e567] [cursor=pointer]:
+                    - /url: https://kimyagaran.com/category/%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa/
+              - heading [level=4] [ref=e570]:
+                - link "کاربرد های پلی سوربات 80 در صنایع مختلف" [ref=e571] [cursor=pointer]:
+                  - /url: https://kimyagaran.com/%da%a9%d8%a7%d8%b1%d8%a8%d8%b1%d8%af%d9%87%d8%a7%db%8c-%d9%be%d9%84%db%8c-%d8%b3%d9%88%d8%b1%d8%a8%d8%a7%d8%aa-%db%b8%db%b0-%d8%af%d8%b1-%d8%b5%d9%86%d8%a7%db%8c%d8%b9/
+            - generic [ref=e573]:
+              - list [ref=e576]:
+                - listitem [ref=e577]:
+                  - link [ref=e578] [cursor=pointer]:
+                    - /url: https://kimyagaran.com/2022/01/08/
+                    - time [ref=e583]: 18 دی 1400
+                - listitem [ref=e584]:
+                  - link "مقالات" [ref=e590] [cursor=pointer]:
+                    - /url: https://kimyagaran.com/category/%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa/
+              - heading [level=4] [ref=e593]:
+                - link "کاربرد اسیدهای چرب اتوکسیله در صنایع مختلف" [ref=e594] [cursor=pointer]:
+                  - /url: https://kimyagaran.com/%da%a9%d8%a7%d8%b1%d8%a8%d8%b1%d8%af-%d8%a7%d8%b3%db%8c%d8%af%d9%87%d8%a7%db%8c-%da%86%d8%b1%d8%a8-%d8%a7%d8%aa%d9%88%da%a9%d8%b3%db%8c%d9%84%d9%87-%d8%af%d8%b1-%d8%b5%d9%86%d8%a7%db%8c%d8%b9/
+            - generic [ref=e596]:
+              - list [ref=e599]:
+                - listitem [ref=e600]:
+                  - link [ref=e601] [cursor=pointer]:
+                    - /url: https://kimyagaran.com/2021/12/08/
+                    - time [ref=e606]: 17 آذر 1400
+                - listitem [ref=e607]:
+                  - link "مقالات" [ref=e613] [cursor=pointer]:
+                    - /url: https://kimyagaran.com/category/%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa/
+              - heading [level=4] [ref=e616]:
+                - link "کاربردهای مونواتیلن گلایکول (MEG) در صنایع مختلف" [ref=e617] [cursor=pointer]:
+                  - /url: https://kimyagaran.com/%da%a9%d8%a7%d8%b1%d8%a8%d8%b1%d8%af%d9%87%d8%a7%db%8c-%d9%85%d9%88%d9%86%d9%88%d8%a7%d8%aa%db%8c%d9%84%d9%86-%da%af%d9%84%d8%a7%db%8c%da%a9%d9%88%d9%84-meg-%d8%af%d8%b1-%d8%b5%d9%86%d8%a7%db%8c%d8%b9/
+            - generic [ref=e619]:
+              - list [ref=e622]:
+                - listitem [ref=e623]:
+                  - link [ref=e624] [cursor=pointer]:
+                    - /url: https://kimyagaran.com/2021/11/10/
+                    - time [ref=e629]: 19 آبان 1400
+                - listitem [ref=e630]:
+                  - link "مقالات" [ref=e636] [cursor=pointer]:
+                    - /url: https://kimyagaran.com/category/%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa/
+              - heading [level=4] [ref=e639]:
+                - link "کاربرد های دی پروپیلن گلایکول (DPG) در صنایع مختلف" [ref=e640] [cursor=pointer]:
+                  - /url: https://kimyagaran.com/%da%a9%d8%a7%d8%b1%d8%a8%d8%b1%d8%af%d9%87%d8%a7%db%8c-dpg-%d8%af%d8%b1-%d8%b5%d9%86%d8%a7%db%8c%d8%b9-%d9%85%d8%ae%d8%aa%d9%84%d9%81/
+  - generic [ref=e644]:
+    - generic [ref=e647]:
+      - generic [ref=e650]:
+        - paragraph [ref=e651]:
+          - strong [ref=e652]: دسترسی سریع
+        - paragraph [ref=e653]:
+          - link "صفحه اصلی" [ref=e654] [cursor=pointer]:
+            - /url: https://kimyagaran.com/
+          - link "سرمایه انسانی" [ref=e655] [cursor=pointer]:
+            - /url: https://kimyagaran.com/%d8%b3%d8%b1%d9%85%d8%a7%db%8c%d9%87-%d8%a7%d9%86%d8%b3%d8%a7%d9%86%db%8c/
+          - link "مالی و بورس" [ref=e656] [cursor=pointer]:
+            - /url: https://kimyagaran.com/%d9%85%d8%a7%d9%84%db%8c-%d9%88-%d8%a8%d9%88%d8%b1%d8%b3/
+          - link "تماس با ما" [ref=e657] [cursor=pointer]:
+            - /url: https://kimyagaran.com/contact-us/
+      - generic [ref=e660]:
+        - paragraph [ref=e661]:
+          - strong [ref=e662]: محصولات
+        - paragraph [ref=e663]:
+          - link "اتوکسیلات‌ها" [ref=e664] [cursor=pointer]:
+            - /url: https://kimyagaran.com/flt-40406/jsf/epro-loop-builder/tax/category:62/
+          - link "اتیلن گلایکول‌ها" [ref=e665] [cursor=pointer]:
+            - /url: https://kimyagaran.com/flt-40406/jsf/epro-loop-builder/tax/category:88/
+          - link "پروپیلن گلایکول‌ها" [ref=e666] [cursor=pointer]:
+            - /url: https://kimyagaran.com/flt-40406/jsf/epro-loop-builder/tax/category:76/
+          - link "پلی اتیلن گلایکول‌ها" [ref=e667] [cursor=pointer]:
+            - /url: https://kimyagaran.com/flt-40406/jsf/epro-loop-builder/tax/category:75/
+          - link:
+            - /url: https://kimyagaran.com/flt-40406/jsf/epro-loop-builder/tax/category:73/
+          - link "محصولات فرموله شده" [ref=e668] [cursor=pointer]:
+            - /url: https://kimyagaran.com/flt-40406/jsf/epro-loop-builder/tax/category:73/
+          - link "مواد موثره دارویی" [ref=e669] [cursor=pointer]:
+            - /url: https://kimyagaran.com/flt-40406/jsf/epro-loop-builder/tax/category:61/
+      - generic [ref=e672]:
+        - paragraph [ref=e673]:
+          - strong [ref=e674]: رسانه
+        - paragraph [ref=e675]:
+          - link "ویدئو" [ref=e676] [cursor=pointer]:
+            - /url: https://kimyagaran.com/medias/
+          - link "گالری تصاویر" [ref=e677] [cursor=pointer]:
+            - /url: https://kimyagaran.com/tag/%da%af%d8%b2%d8%a7%d8%b1%d8%b4-%d8%aa%d8%b5%d9%88%db%8c%d8%b1%db%8c/
+          - link "هویت بصری" [ref=e678] [cursor=pointer]:
+            - /url: https://kimyagaran.com/%d9%87%d9%88%db%8c%d8%aa-%d8%a8%d8%b5%d8%b1%db%8c/
+      - generic [ref=e681]:
+        - paragraph [ref=e682]:
+          - strong [ref=e683]: درباره کیمیاگران امروز
+        - paragraph [ref=e684]:
+          - link "درباره شرکت" [ref=e685] [cursor=pointer]:
+            - /url: https://kimyagaran.com/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/
+          - link "تاریخچه شرکت" [ref=e686] [cursor=pointer]:
+            - /url: https://kimyagaran.com/%d8%aa%d8%a7%d8%b1%db%8c%d8%ae%da%86%d9%87/
+          - link "همکاری با ما" [ref=e687] [cursor=pointer]:
+            - /url: https://kimyagaran.com/%d9%87%d9%85%da%a9%d8%a7%d8%b1%db%8c-%d8%a8%d8%a7-%d9%85%d8%a7/
+          - link "همکاری با دانشگاه‌ها" [ref=e688] [cursor=pointer]:
+            - /url: https://kimyagaran.com/%d9%87%d9%85%da%a9%d8%a7%d8%b1%db%8c-%d8%a8%d8%a7-%d8%af%d8%a7%d9%86%d8%b4%da%af%d8%a7%d9%87/
+    - generic [ref=e690]:
+      - generic [ref=e691]:
+        - paragraph [ref=e695]:
+          - generic [ref=e696]: "دفتر مرکزی: تهران، خیابان سهروردی شمالی، خیابان هویزه غربی پلاک ۱۳۳"
+        - paragraph [ref=e700]:
+          - generic [ref=e701]: "کارخانه: اراک، جاده ملایر، خروجی ازنا، ناحیه صنعتی شهید بابایی، خیابان یاس سوم"
+      - generic [ref=e702]:
+        - paragraph [ref=e706]:
+          - generic [ref=e707]: "دفتر مرکزی : ۴۱۷۶۹۰۰۰ – ۸۸۷۴۶۵۶۵ (۰۲۱)"
+        - paragraph [ref=e711]:
+          - generic [ref=e712]: "کارخانه: ۸_۳۸۲۳۲۰۵۴ (۰۸۶)"
+        - paragraph [ref=e716]:
+          - generic [ref=e717]: ۸۸۷۴۶۵۶۴ (۰۲۱)
+        - paragraph [ref=e721]:
+          - generic [ref=e722]: info@kimyagaran.com
+    - generic [ref=e724]:
+      - generic [ref=e729]:
+        - link [ref=e730] [cursor=pointer]:
+          - /url: https://wa.me/989125700700?text=Kimyagaran_Website
+          - img "whatsapp" [ref=e731]
+        - link [ref=e732] [cursor=pointer]:
+          - /url: "#"
+          - img "youtube" [ref=e733]
+        - link [ref=e734] [cursor=pointer]:
+          - /url: "#"
+          - img "Facebook" [ref=e735]
+        - link [ref=e736] [cursor=pointer]:
+          - /url: https://instagram.com/kimyagaranemrooz?igshid=9e1g0gv4prrx
+          - img "instagram" [ref=e737]
+        - link [ref=e738] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/kimyagaran-emrooz/
+          - img "Linkedin" [ref=e739]
+        - link [ref=e740] [cursor=pointer]:
+          - /url: "#"
+          - img "Aparat" [ref=e741]
+      - paragraph [ref=e745]: Copyright @2024 Kimyagaran Emrooz, All rights reserved.
+  - generic [ref=e746]: desktop
+```

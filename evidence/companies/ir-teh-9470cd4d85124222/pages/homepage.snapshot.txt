@@ -1,0 +1,131 @@
+### Page
+- Page URL: https://arsamtejarat.ir/
+- Page Title: آرسام تجارت جاوید – واردات و ترخیص کالا
+- Console: 0 errors, 2 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e4]:
+      - heading "آرسام تجارت جاوید" [level=2] [ref=e13]
+      - generic [ref=e17]:
+        - navigation [ref=e18]:
+          - list [ref=e19]:
+            - listitem [ref=e20]:
+              - link "صفحه اصلی" [ref=e21] [cursor=pointer]:
+                - /url: https://arsamtejarat.ir/
+            - listitem [ref=e22]:
+              - link [ref=e23] [cursor=pointer]:
+                - /url: "#"
+                - text: واردات
+                - generic [ref=e24]: 
+              - text: 
+            - listitem [ref=e25]:
+              - link "ترخیص کالا" [ref=e26] [cursor=pointer]:
+                - /url: https://arsamtejarat.ir/%d8%aa%d8%b1%d8%ae%db%8c%d8%b5-%da%a9%d8%a7%d9%84%d8%a7/
+            - listitem [ref=e27]:
+              - link "درباره ما" [ref=e28] [cursor=pointer]:
+                - /url: https://arsamtejarat.ir/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/
+            - listitem [ref=e29]:
+              - link "تماس با ما" [ref=e30] [cursor=pointer]:
+                - /url: https://arsamtejarat.ir/%d8%aa%d9%85%d8%a7%d8%b3-%d8%a8%d8%a7-%d9%85%d8%a7/
+        - text:    
+    - text:      
+  - generic [ref=e31]:
+    - generic [ref=e40]:
+      - generic [ref=e47]:
+        - generic [ref=e51]:
+          - heading [level=3] [ref=e52]: واردات تخصصی کامیون های کشنده نو و مستعمل
+          - generic [ref=e53]: واردات ، ثبت سفارش ، اخذ کد ساتا و پلاک تخصصی
+        - heading [level=2] [ref=e60]: کامیون های کشنده مدل های بنز ، رنو ، داف ، ولوو نو و مستعمل
+      - generic [ref=e71]:
+        - heading "واردات تخصصی کلیه کالاهای بازرگانی و تولیدی" [level=3] [ref=e72]
+        - generic [ref=e73]: واردات و اخذ تخصصی مجوز های واردات ، ثبت سفارش ، امور بانکی و ترخیص کلیه کالاهای مجاز بازرگانی و تولیدی
+      - generic [ref=e90]:
+        - heading [level=3] [ref=e91]: واردات ماشین الات صنعتی نو و مستعمل
+        - generic [ref=e92]: واردات انواع ماشین آلات نو و مستعمل اعم از انواع دستگاه های CNC ، ژنراتور ، لیفتراک ، جرثقیل ، گیربکس صنعتی و ....
+      - generic [ref=e105]:
+        - generic [ref=e109]:
+          - heading [level=3] [ref=e110]: واردات تخصصی کامیون های کشنده نو و مستعمل
+          - generic [ref=e111]: واردات ، ثبت سفارش ، اخذ کد ساتا و پلاک تخصصی
+        - heading [level=2] [ref=e118]: کامیون های کشنده مدل های بنز ، رنو ، داف ، ولوو نو و مستعمل
+      - generic [ref=e129]:
+        - heading [level=3] [ref=e130]: واردات تخصصی کلیه کالاهای بازرگانی و تولیدی
+        - generic [ref=e131]: واردات و اخذ تخصصی مجوز های واردات ، ثبت سفارش ، امور بانکی و ترخیص کلیه کالاهای مجاز بازرگانی و تولیدی
+      - generic [ref=e148]:
+        - heading [level=3] [ref=e149]: واردات ماشین الات صنعتی نو و مستعمل
+        - generic [ref=e150]: واردات انواع ماشین آلات نو و مستعمل اعم از انواع دستگاه های CNC ، ژنراتور ، لیفتراک ، جرثقیل ، گیربکس صنعتی و ....
+      - generic [ref=e163]:
+        - generic [ref=e167]:
+          - heading [level=3] [ref=e168]: واردات تخصصی کامیون های کشنده نو و مستعمل
+          - generic [ref=e169]: واردات ، ثبت سفارش ، اخذ کد ساتا و پلاک تخصصی
+        - heading [level=2] [ref=e176]: کامیون های کشنده مدل های بنز ، رنو ، داف ، ولوو نو و مستعمل
+    - generic [ref=e182]:
+      - generic [ref=e184]:
+        - generic [ref=e187]:
+          - heading "خدمات" [level=3] [ref=e188]
+          - heading [level=2]
+        - heading "آنچه ما ارائه میدهیم" [level=3] [ref=e193]
+        - heading "واردات و ترخیص کالا" [level=2] [ref=e198]
+        - button "دریافت کد تعرفه کالاها" [ref=e202] [cursor=pointer]:
+          - generic [ref=e203]:
+            - generic [ref=e204]: 
+            - generic [ref=e206]: دریافت کد تعرفه کالاها
+      - generic [ref=e208]:
+        - heading "واردات" [level=2] [ref=e211]
+        - paragraph [ref=e218]: واردات کالا از کشورهای مختلف یک فعالیت تجاری و اقتصادی مهم می باشد که از دیرباز به منظور تامین نیازهای جامعه در میان جوامع مختلف رواج داشته است. در واقع همانطور که می دانید تولید برخی کالاها به دلیل نبود امکانات کافی یا تنوع موقعیت جغرافیایی کشورها، به راحتی قابل انجام نبوده و لذا برای تولید این دسته از کالاهای خاص باید هزینه های سنگینی پرداخته شوند، به همین جهت دولت ها سعی دارند با فراهم آوردن شرایط مناسب برای انجام فرآیند واردات کالا، نیازهای جامعه خود را تامین نمایند. شرکت آرسام تجارت با بیش از 13 سال سابقه در زمینه واردات کالا در کوتاهترین زمان و با مناسبترین قیمت، بهترین خدمات را به مشتریان اراِئه میدهد.
+    - generic [ref=e220]:
+      - button "مشاوره رایگان" [ref=e226] [cursor=pointer]
+      - button "09330307171" [ref=e234] [cursor=pointer]
+    - generic [ref=e244]:
+      - generic [ref=e247]:
+        - generic [ref=e248]:
+          - generic [ref=e250]: "0"
+          - generic [ref=e251]: +
+        - generic [ref=e252]: سال تجربه
+      - generic [ref=e255]:
+        - generic [ref=e256]:
+          - generic [ref=e258]: "0"
+          - generic [ref=e259]: +
+        - generic [ref=e260]: رضایت مشتریان
+      - generic [ref=e263]:
+        - generic [ref=e264]:
+          - generic [ref=e266]: "0"
+          - generic [ref=e267]: +
+        - generic [ref=e268]: پروژه های انجام شده
+    - generic [ref=e280]:
+      - heading "بهترین راه برای انجام مراحل واردات کالا چیست؟" [level=2] [ref=e283]
+      - paragraph [ref=e286]: در پاسخ به این سوال باید بگوییم برای انجام هرچه بهتر فرآیندهای مربوط به واردات کالا بهتر آن است که از متخصصین با تجربه در این زمینه کمک بگیرید، کسانی که علاوه بر شناخت قوانین و مراحل انجام واردات کالا با قوانین و مقرراتی بین الملل آشنا بوده و تجربه ی کافی نیز در این زمینه را داشته باشند.گروه آرسام تجارت از جمله شرکت هایی است که می تواند در زمینه واردات کالا به شما کمک کند.
+    - text:                                                         
+    - generic [ref=e288]:
+      - button "سامانه جامع تجارت ایران" [ref=e294] [cursor=pointer]
+      - button "وزارت صنعت ، معدن و تجارت" [ref=e302] [cursor=pointer]
+      - button "سامانه جامع امور گمرکی" [ref=e310] [cursor=pointer]
+    - generic [ref=e313]: 
+  - generic [ref=e319]:
+    - text: 
+    - generic [ref=e321]:
+      - generic [ref=e323]:
+        - heading "آدرس شرکت" [level=2] [ref=e326]
+        - paragraph [ref=e329]: تهران – میدان آرژانتین – خیابان وزرا – نبش کوچه 8 – پلاک 4 – واحد 4
+        - heading "ساعت کاری" [level=2] [ref=e332]
+        - 'heading "شنبه تا چهارشنبه : 8 صبح تا 5 عصر" [level=2] [ref=e335]'
+        - 'heading "پنجشنبه ها : 8 صبح تا 1 بعدازظهر" [level=2] [ref=e338]'
+      - generic [ref=e340]:
+        - heading "تلفن تماس" [level=2] [ref=e343]
+        - heading "02188555287" [level=2] [ref=e346]
+        - heading "0912-5069206" [level=2] [ref=e349]
+        - heading "0912-8265796" [level=2] [ref=e352]
+        - heading "نشانی ایمیل" [level=2] [ref=e355]
+        - heading "admin@arsamtejarat.ir" [level=2] [ref=e358]
+      - iframe [ref=e365]:
+        - link "Open in Maps (opens in new tab)" [ref=f1e4] [cursor=pointer]:
+          - /url: about:invalid#zClosurez
+          - text: Open in Maps
+    - paragraph [ref=e372]:
+      - text: طراحی سایت توسط
+      - strong [ref=e373]:
+        - link "wpfarda" [ref=e374] [cursor=pointer]:
+          - /url: https://www.wpfarda.com/
+  - generic [ref=e375]: widescreen
+```

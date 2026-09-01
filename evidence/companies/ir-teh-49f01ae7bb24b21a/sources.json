@@ -1,0 +1,142 @@
+{
+  "company_id": "ir-teh-49f01ae7bb24b21a",
+  "errors": [],
+  "generated_at": "2026-09-01T08:29:01Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [
+    {
+      "bytes": 716205,
+      "captured_at": "2026-09-01T08:29:00Z",
+      "company_id": "ir-teh-49f01ae7bb24b21a",
+      "headless": true,
+      "page_title": "Financial & Commercial Firm – Nik",
+      "path": "companies/ir-teh-49f01ae7bb24b21a/screenshots/homepage.png",
+      "reason_this_matters": "Public company homepage is the primary visual evidence surface.",
+      "screenshot_type": "homepage",
+      "source_url": "https://afcaf.com/"
+    }
+  ],
+  "sources": [
+    {
+      "discovered_at": "2026-09-01T06:31:54Z",
+      "discovery_reason": "Book-e Avval category: انبارداری",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "با ما تماس بگیرید.",
+      "source_quality": "directory",
+      "source_title": "انبارداری در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D8%A7%D9%86%D8%A8%D8%A7%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:31:54Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-82f13f36c86fd795",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "با ما تماس بگیرید.",
+      "source_quality": "directory",
+      "source_title": "انبارداری در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D8%A7%D9%86%D8%A8%D8%A7%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:53Z",
+      "claim": "Directory profile lists خدمات مالی و بازرگانی امین with a public Tehran business listing.",
+      "confidence": 0.82,
+      "evidence_id": "ev-77a97b61f0b02b08",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "خدمات مالی و بازرگانی امین - حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس خدمات مالی و بازرگانی امین 5.0 (2 نظر) با ما تماس بگیرید. حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی تماس ثبت نظر ویرایش اشتراک گذاری دسته‌بندی مشاغل حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی تهران محله صادقيه - آرياشهر اطلاعات تماس آدرس : تهران، منطقه 2، محله صادقيه - آرياشهر، ستارخان، نرسی",
+      "source_quality": "directory",
+      "source_title": "خدمات مالی و بازرگانی امین - حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی | کتاب اول",
+      "source_url": "https://avval.ir/profile/e771d/%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D9%85%D8%A7%D9%84%DB%8C-%D9%88-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%A7%D9%85%DB%8C%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T07:15:50Z",
+      "claim": "Public website signal: catalog_or_products",
+      "confidence": 0.86,
+      "evidence_id": "ev-bcd5e9ee0752f908",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "products | Financial & Commercial Firm – Nik Skip to content Financial & Commercial Firm Home Introduction Financial Accounting Cost Accounting Inventory Audit & Control of Accounts Financial Management Advisory & Training Business Commercial & Trading Future Plan Representative Affairs About Me Contact Blog Financial & Commercial Firm About Me Accounting Advisory & Training Audit & Control of Accounts Blog Commercial & Trading",
+      "signal": "catalog_or_products",
+      "source_quality": "company_site",
+      "source_title": "Financial & Commercial Firm – Nik",
+      "source_url": "https://afcaf.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:15:50Z",
+      "claim": "Public website signal: factory_or_warehouse",
+      "confidence": 0.86,
+      "evidence_id": "ev-38a554475fe55856",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "production line | Financial & Commercial Firm – Nik Skip to content Financial & Commercial Firm Home Introduction Financial Accounting Cost Accounting Inventory Audit & Control of Accounts Financial Management Advisory & Training Business Commercial & Trading Future Plan Representative Affairs About Me Contact Blog Financial & Commercial Firm About Me Accounting Advisory & Training Audit & Control of Accounts Blog Commercial & Trading",
+      "signal": "factory_or_warehouse",
+      "source_quality": "company_site",
+      "source_title": "Financial & Commercial Firm – Nik",
+      "source_url": "https://afcaf.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:15:50Z",
+      "claim": "Public website signal: service_after_sales",
+      "confidence": 0.72,
+      "evidence_id": "ev-b6d55fea6ad7e435",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "service | Financial & Commercial Firm – Nik Skip to content Financial & Commercial Firm Home Introduction Financial Accounting Cost Accounting Inventory Audit & Control of Accounts Financial Management Advisory & Training Business Commercial & Trading Future Plan Representative Affairs About Me Contact Blog Financial & Commercial Firm About Me Accounting Advisory & Training Audit & Control of Accounts Blog Commercial & Trading",
+      "signal": "service_after_sales",
+      "source_quality": "company_site",
+      "source_title": "Financial & Commercial Firm – Nik",
+      "source_url": "https://afcaf.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:15:50Z",
+      "claim": "Public website signal: projects_or_clients",
+      "confidence": 0.72,
+      "evidence_id": "ev-959e578b02a0f0d5",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "clients; projects | Financial & Commercial Firm – Nik Skip to content Financial & Commercial Firm Home Introduction Financial Accounting Cost Accounting Inventory Audit & Control of Accounts Financial Management Advisory & Training Business Commercial & Trading Future Plan Representative Affairs About Me Contact Blog Financial & Commercial Firm About Me Accounting Advisory & Training Audit & Control of Accounts Blog Commercial & Trading",
+      "signal": "projects_or_clients",
+      "source_quality": "company_site",
+      "source_title": "Financial & Commercial Firm – Nik",
+      "source_url": "https://afcaf.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:15:50Z",
+      "claim": "Public website signal: certifications",
+      "confidence": 0.72,
+      "evidence_id": "ev-696024821b601bbf",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "iso | Financial & Commercial Firm – Nik Skip to content Financial & Commercial Firm Home Introduction Financial Accounting Cost Accounting Inventory Audit & Control of Accounts Financial Management Advisory & Training Business Commercial & Trading Future Plan Representative Affairs About Me Contact Blog Financial & Commercial Firm About Me Accounting Advisory & Training Audit & Control of Accounts Blog Commercial & Trading",
+      "signal": "certifications",
+      "source_quality": "company_site",
+      "source_title": "Financial & Commercial Firm – Nik",
+      "source_url": "https://afcaf.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:15:50Z",
+      "claim": "Public website signal: tender_or_contract",
+      "confidence": 0.72,
+      "evidence_id": "ev-f933f9926e6a40dd",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "contract | Financial & Commercial Firm – Nik Skip to content Financial & Commercial Firm Home Introduction Financial Accounting Cost Accounting Inventory Audit & Control of Accounts Financial Management Advisory & Training Business Commercial & Trading Future Plan Representative Affairs About Me Contact Blog Financial & Commercial Firm About Me Accounting Advisory & Training Audit & Control of Accounts Blog Commercial & Trading",
+      "signal": "tender_or_contract",
+      "source_quality": "company_site",
+      "source_title": "Financial & Commercial Firm – Nik",
+      "source_url": "https://afcaf.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:15:50Z",
+      "claim": "Public website signal: software_or_erp",
+      "confidence": 0.72,
+      "evidence_id": "ev-695051fac47fe832",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "erp | Financial & Commercial Firm – Nik Skip to content Financial & Commercial Firm Home Introduction Financial Accounting Cost Accounting Inventory Audit & Control of Accounts Financial Management Advisory & Training Business Commercial & Trading Future Plan Representative Affairs About Me Contact Blog Financial & Commercial Firm About Me Accounting Advisory & Training Audit & Control of Accounts Blog Commercial & Trading",
+      "signal": "software_or_erp",
+      "source_quality": "company_site",
+      "source_title": "Financial & Commercial Firm – Nik",
+      "source_url": "https://afcaf.com/"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "company_id": "ir-teh-8da66a71c80de014",
+  "errors": [
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "TimeoutExpired: Command '['/Users/mohammad/.codex/skills/playwright/scripts/playwright_cli.sh', '-s=luma-b2b-ir-teh-8da66a71c80de014-attempt-1', 'open', 'https://api.whatsapp.com/send?text=avval.ir/profile/qlkch/%D8%A2%D8%B1%D8%A7%D8%AF-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D9%BE%DB%8C%D8%B4%D8%B1%D9%88-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%A2%D8%B1%D8%A7%D9%86%D9%88%D8%A7', '--config', 'config/playwright.headless.json']' timed out after 15 seconds",
+      "source_url": "https://api.whatsapp.com/send?text=avval.ir/profile/qlkch/%D8%A2%D8%B1%D8%A7%D8%AF-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D9%BE%DB%8C%D8%B4%D8%B1%D9%88-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%A2%D8%B1%D8%A7%D9%86%D9%88%D8%A7",
+      "stage": "browser"
+    }
+  ],
+  "generated_at": "2026-09-01T09:28:43Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [
+    {
+      "bytes": 48098,
+      "captured_at": "2026-09-01T09:28:41Z",
+      "company_id": "ir-teh-8da66a71c80de014",
+      "headless": true,
+      "page_title": ".:: نماد تجارت الکترونیکی ::. خطا",
+      "path": "companies/ir-teh-8da66a71c80de014/screenshots/homepage_candidate-2.png",
+      "reason_this_matters": "Public company-site candidate; capture verifies whether it is reachable.",
+      "screenshot_type": "homepage_candidate_fallback",
+      "source_url": "https://trustseal.enamad.ir/?id=194990&Code=3Y0m3d1djm9fuqjoC8mT"
+    }
+  ],
+  "sources": [
+    {
+      "discovered_at": "2026-09-01T06:31:58Z",
+      "discovery_reason": "Book-e Avval category: واردات صادرات مواد غذایی",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "شرکت آراد تجارت پیشرو پارس برند تجاری: ARANOVA آرانوا تأمین کننده و واردکننده انواع مواد اولیه صنایع غذایی با تمرکز بر کیفیت، اصالت کالا و تأمین مطمئن نیاز ت",
+      "source_quality": "directory",
+      "source_title": "واردات صادرات مواد غذایی در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "discovered_at": "2026-09-01T06:31:59Z",
+      "discovery_reason": "Book-e Avval category: واردات صادرات مواد شیمیایی",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "شرکت آراد تجارت پیشرو پارس برند تجاری: ARANOVA آرانوا تأمین کننده و واردکننده انواع مواد اولیه صنایع غذایی با تمرکز بر کیفیت، اصالت کالا و تأمین مطمئن نیاز ت",
+      "source_quality": "directory",
+      "source_title": "واردات صادرات مواد شیمیایی در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%B4%DB%8C%D9%85%DB%8C%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "discovered_at": "2026-09-01T06:32:02Z",
+      "discovery_reason": "Book-e Avval category: واردات صادرات کالا",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "آراد تجارت پیشرو پارس ( بازرگانی آرانوا)",
+      "source_quality": "directory",
+      "source_title": "واردات صادرات کالا در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/search/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%DA%A9%D8%A7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86?page=2"
+    },
+    {
+      "captured_at": "2026-09-01T06:31:58Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-efd4fed898f00c43",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "شرکت آراد تجارت پیشرو پارس برند تجاری: ARANOVA آرانوا تأمین کننده و واردکننده انواع مواد اولیه صنایع غذایی با تمرکز بر کیفیت، اصالت کالا و تأمین مطمئن نیاز ت",
+      "source_quality": "directory",
+      "source_title": "واردات صادرات مواد غذایی در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:31:59Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-d06512e9f7170f37",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "شرکت آراد تجارت پیشرو پارس برند تجاری: ARANOVA آرانوا تأمین کننده و واردکننده انواع مواد اولیه صنایع غذایی با تمرکز بر کیفیت، اصالت کالا و تأمین مطمئن نیاز ت",
+      "source_quality": "directory",
+      "source_title": "واردات صادرات مواد شیمیایی در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%B4%DB%8C%D9%85%DB%8C%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:32:02Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-5622521c92e41ed2",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "آراد تجارت پیشرو پارس ( بازرگانی آرانوا)",
+      "source_quality": "directory",
+      "source_title": "واردات صادرات کالا در تهران | کتاب اول",
+      "source_url": "https://avval.ir/search/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%DA%A9%D8%A7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86?page=2"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:53Z",
+      "claim": "Directory profile lists آراد تجارت پیشرو پارس ( بازرگانی آرانوا) with a public Tehran business listing.",
+      "confidence": 0.82,
+      "evidence_id": "ev-8fcec126b67c513e",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "آراد تجارت پیشرو پارس ( بازرگانی آرانوا) - واردات صادرات مواد شیمیایی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس آراد تجارت پیشرو پارس ( بازرگانی آرانوا) 5.0 (1 نظر) شرکت آراد تجارت پیشرو پارس برند تجاری: ARANOVA آرانوا واردکننده و تأمین کننده تخصصی انواع مواد اولیه صنایع غذایی با کیفیت و قیمت رقابتی. واردات صادرات مواد شیمیایی اسید و باز واردات و صادرات مواد اولیه غذایی تماس ثبت نظر ارتقای پروفایل ویرایش اشترا",
+      "source_quality": "directory",
+      "source_title": "آراد تجارت پیشرو پارس ( بازرگانی آرانوا) - واردات صادرات مواد شیمیایی | کتاب اول",
+      "source_url": "https://avval.ir/profile/qlkch/%D8%A2%D8%B1%D8%A7%D8%AF-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D9%BE%DB%8C%D8%B4%D8%B1%D9%88-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%A2%D8%B1%D8%A7%D9%86%D9%88%D8%A7"
+    }
+  ]
+}

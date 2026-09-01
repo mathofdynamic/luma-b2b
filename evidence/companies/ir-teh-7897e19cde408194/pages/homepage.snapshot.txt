@@ -1,0 +1,172 @@
+### Page
+- Page URL: https://www.atlasfarabarjahan.com/
+- Page Title: شرکت حمل و نقل اطلس فرابر جهان | حمل بار زمینی، هوایی و ریلی به سراسر جهان
+- Console: 5 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - img "لوگو شرکت حمل و نقل" [ref=e5]
+        - heading "اطلس فرابر جهان" [level=1] [ref=e6]
+      - navigation [ref=e7]:
+        - list [ref=e8]:
+          - listitem [ref=e9]:
+            - link "صفحه اصلی" [ref=e10] [cursor=pointer]:
+              - /url: index.html
+          - listitem [ref=e11]:
+            - link "خدمات" [ref=e12] [cursor=pointer]:
+              - /url: services.html
+          - listitem [ref=e13]:
+            - link "مقالات شرکت" [ref=e14] [cursor=pointer]:
+              - /url: articles.html
+          - listitem [ref=e15]:
+            - link "گالری تصاویر" [ref=e16] [cursor=pointer]:
+              - /url: gallary.html
+          - listitem [ref=e17]:
+            - link "درباره ما" [ref=e18] [cursor=pointer]:
+              - /url: about.html
+          - listitem [ref=e19]:
+            - link "تماس با ما" [ref=e20] [cursor=pointer]:
+              - /url: contact.html
+          - listitem [ref=e21]:
+            - link "EN" [ref=e22] [cursor=pointer]:
+              - /url: english.html
+          - listitem [ref=e23]:
+            - link "TR" [ref=e24] [cursor=pointer]:
+              - /url: turkish.html
+      - link "ورود" [ref=e26] [cursor=pointer]:
+        - /url: login.html
+  - generic [ref=e28]:
+    - generic [ref=e29]:
+      - heading "حمل و نقل مطمئن و سریع بار به تمام نقاط دنیا" [level=2] [ref=e30]
+      - paragraph [ref=e31]: با بیش از 20 سال تجربه در زمینه حمل و نقل بار و کالا با بهترین کیفیت و مناسب‌ترین قیمت
+      - link "ثبت درخواست آنلاین حمل زمینی" [ref=e33] [cursor=pointer]:
+        - /url: order.html
+    - img "کامیون حمل بار" [ref=e35]
+  - generic [ref=e37]:
+    - generic [ref=e38]:
+      - heading "چرا ما را انتخاب می‌کنند؟" [level=3] [ref=e39]
+      - paragraph [ref=e40]: مزیت‌های رقابتی شرکت حمل و نقل اطلس فرابر جهان
+    - generic [ref=e41]:
+      - generic [ref=e42]:
+        - img "تحویل سریع" [ref=e43]
+        - heading "تحویل سریع" [level=4] [ref=e44]
+        - paragraph [ref=e45]: حمل بار در کوتاه‌ترین زمان ممکن با برنامه‌ریزی دقیق
+      - generic [ref=e46]:
+        - img "قیمت مناسب" [ref=e47]
+        - heading "قیمت مناسب" [level=4] [ref=e48]
+        - paragraph [ref=e49]: بهترین قیمت‌ها با توجه به مسافت و نوع بار
+      - generic [ref=e50]:
+        - img "بیمه بار" [ref=e51]
+        - heading "بیمه بار" [level=4] [ref=e52]
+        - paragraph [ref=e53]: پوشش بیمه‌ای کامل برای تمامی محموله‌ها
+      - generic [ref=e54]:
+        - img "پشتیبانی 24/7" [ref=e55]
+        - heading "پشتیبانی 24/7" [level=4] [ref=e56]
+        - paragraph [ref=e57]: پشتیبانی آنلاین و تلفنی در تمام ساعات
+  - generic [ref=e59]:
+    - generic [ref=e60]:
+      - heading "خدمات ما" [level=3] [ref=e61]
+      - paragraph [ref=e62]: انواع خدمات حمل و نقل بار و کالا
+    - generic [ref=e63]:
+      - generic [ref=e64]:
+        - img "حمل جاده‌ای" [ref=e65]
+        - heading "حمل جاده‌ای" [level=4] [ref=e66]
+        - paragraph [ref=e67]: حمل بار با انواع کامیون و تریلی به تمام نقاط کشور
+        - link "جزئیات بیشتر" [ref=e68] [cursor=pointer]:
+          - /url: services.html
+      - generic [ref=e69]:
+        - img "حمل ریلی" [ref=e70]
+        - heading "حمل ریلی" [level=4] [ref=e71]
+        - paragraph [ref=e72]: حمل بار با قطار برای مسافت‌های طولانی و بارهای حجیم
+        - link "جزئیات بیشتر" [ref=e73] [cursor=pointer]:
+          - /url: services.html
+      - generic [ref=e74]:
+        - img "حمل هوایی" [ref=e75]
+        - heading "حمل هوایی" [level=4] [ref=e76]
+        - paragraph [ref=e77]: حمل سریع بار با هواپیما برای مواقع ضروری
+        - link "جزئیات بیشتر" [ref=e78] [cursor=pointer]:
+          - /url: services.html
+    - link "مشاهده تمام خدمات" [ref=e80] [cursor=pointer]:
+      - /url: services.html
+  - generic [ref=e83]:
+    - heading "چشم‌انداز ما" [level=3] [ref=e84]
+    - paragraph [ref=e85]: در شرکت اطلس فرابر جهان، چشم‌انداز ما تبدیل‌شدن به یکی از پیشروترین و قابل‌اعتمادترین شرکت‌های حمل و نقل بین‌المللی در منطقه و جهان است. ما با تکیه بر نوآوری، بهره‌گیری از فناوری‌های روز، توسعه پایدار و ارائه خدمات مشتری‌محور، در پی آن هستیم تا مرزهای لجستیک را فراتر ببریم و پلی امن، سریع و هوشمند میان بازارهای جهانی بسازیم. ما باور داریم که تحرک جهانی، نیروی محرکه اقتصاد و توسعه است. از این رو، با گسترش شبکه حمل‌ونقل زمینی، دریایی و هوایی، ارتقای کیفیت خدمات و پایبندی به اصول اخلاقی و حرفه‌ای، به‌دنبال خلق ارزشی پایدار برای مشتریان، همکاران و جامعه جهانی هستیم.
+  - generic [ref=e88]:
+    - generic [ref=e89]:
+      - generic [ref=e90]: 20+
+      - text: سال تجربه
+    - generic [ref=e91]:
+      - generic [ref=e92]: 100+
+      - text: مشتری دائمی
+    - generic [ref=e93]:
+      - generic [ref=e94]: 5000+
+      - text: حمل موفق
+    - generic [ref=e95]:
+      - generic [ref=e96]: 30+
+      - text: کشور تحت پوشش
+  - contentinfo [ref=e97]:
+    - generic [ref=e98]:
+      - generic [ref=e99]:
+        - generic [ref=e100]:
+          - heading "درباره شرکت" [level=4] [ref=e101]
+          - paragraph [ref=e102]: شرکت حمل و نقل اطلس فرابر جهان با بیش از 20 سال سابقه در زمینه حمل و نقل بار و کالا در سطح جهانی فعالیت می‌کند. ما با بهره‌گیری از ناوگان مدرن و کادری مجرب آماده ارائه خدمات به شما هستیم.
+          - generic [ref=e103]:
+            - link [ref=e104] [cursor=pointer]:
+              - /url: "#"
+              - img "اینستاگرام" [ref=e105]
+            - link [ref=e106] [cursor=pointer]:
+              - /url: "#"
+              - img "تلگرام" [ref=e107]
+            - link [ref=e108] [cursor=pointer]:
+              - /url: "#"
+              - img "واتساپ" [ref=e109]
+            - link [ref=e110] [cursor=pointer]:
+              - /url: "#"
+              - img "لینکدین" [ref=e111]
+        - generic [ref=e112]:
+          - heading "لینک‌های مفید" [level=4] [ref=e113]
+          - list [ref=e114]:
+            - listitem [ref=e115]:
+              - link "صفحه اصلی" [ref=e116] [cursor=pointer]:
+                - /url: index.html
+            - listitem [ref=e117]:
+              - link "خدمات" [ref=e118] [cursor=pointer]:
+                - /url: services.html
+            - listitem [ref=e119]:
+              - link "مقالات" [ref=e120] [cursor=pointer]:
+                - /url: articles.html
+            - listitem [ref=e121]:
+              - link "گالری تصاویر" [ref=e122] [cursor=pointer]:
+                - /url: gallary.html
+            - listitem [ref=e123]:
+              - link "درباره ما" [ref=e124] [cursor=pointer]:
+                - /url: about.html
+            - listitem [ref=e125]:
+              - link "تماس با ما" [ref=e126] [cursor=pointer]:
+                - /url: contact.html
+        - generic [ref=e127]:
+          - heading "تماس با ما" [level=4] [ref=e128]
+          - list [ref=e129]:
+            - listitem [ref=e130]:
+              - img "آدرس" [ref=e131]
+              - text: تهران، میدان فاطمی، خیابان فتحی شقاقی، به سمت بزرگراه شهید گمنام، پلاک ۸۵، طبقه ۲، واحد۴
+            - listitem [ref=e132]:
+              - img "تلفن" [ref=e133]
+              - text: 021-88018692
+            - listitem [ref=e134]:
+              - img "موبایل" [ref=e135]
+              - text: "09125038824"
+            - listitem [ref=e136]:
+              - img "ایمیل" [ref=e137]
+              - text: info@atlasfarabarjahan.com
+      - generic [ref=e138]:
+        - paragraph [ref=e139]: © 1404 کلیه حقوق برای شرکت حمل و نقل اطلس فرابر جهان محفوظ است.
+        - generic [ref=e140]:
+          - link "قوانین و مقررات" [ref=e141] [cursor=pointer]:
+            - /url: terms.html
+          - link "حریم خصوصی" [ref=e142] [cursor=pointer]:
+            - /url: privacy.html
+```

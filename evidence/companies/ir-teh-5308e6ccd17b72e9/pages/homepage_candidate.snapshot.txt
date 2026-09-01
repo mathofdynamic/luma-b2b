@@ -1,0 +1,286 @@
+### Page
+- Page URL: http://alizadehnik.ir/
+- Page Title: صفحه اصلی - بازرگانی علیزاده نیک پایتخت شرکت بازرگانی علیزاده نیک پایتخت
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - text: 
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e4]:
+    - generic [ref=e14]:
+      - generic [ref=e16]:
+        - link [ref=e19] [cursor=pointer]:
+          - /url: https://alizadehnik.ir/
+          - img "بازرگانی علیزاده نیک پایتخت" [ref=e20]
+        - link "navsearch-button" [ref=e24] [cursor=pointer]:
+          - /url: "#ekit_modal-popup-0191fc5"
+      - paragraph [ref=e29]: شرکت بازرگانی علیزاده نیک پایتخت (سهامی خاص ) تاسیس 1388
+      - generic [ref=e34]:
+        - generic [ref=e35]: ارتباط با ما
+        - link "88926390" [ref=e36] [cursor=pointer]:
+          - /url: "tel:        88926390"
+          - text: 
+    - generic [ref=e39]:
+      - navigation [ref=e45]:
+        - generic [ref=e47] [cursor=pointer]:
+          - generic [ref=e48]: 
+          - generic [ref=e49]: دسترسی سریع
+        - list [ref=e51]:
+          - listitem [ref=e52]:
+            - link "صفحه اصلی" [ref=e53] [cursor=pointer]:
+              - /url: https://alizadehnik.ir/
+          - listitem [ref=e54]:
+            - link "فروشگاه" [ref=e55] [cursor=pointer]:
+              - /url: http://alizadehnik.ir/shop/
+          - listitem [ref=e56]:
+            - link "صادرات" [ref=e57] [cursor=pointer]:
+              - /url: https://alizadehnik.ir/
+            - list:
+              - listitem:
+                - link "چین":
+                  - /url: http://alizadehnik.ir/category/%da%86%db%8c%d9%86/
+          - listitem [ref=e58]:
+            - link "گمرک" [ref=e59] [cursor=pointer]:
+              - /url: http://alizadehnik.ir/category/%da%af%d9%85%d8%b1%da%a9/
+            - list:
+              - listitem:
+                - link "صادرات":
+                  - /url: http://alizadehnik.ir/category/%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa/
+              - listitem:
+                - link "واردات":
+                  - /url: "#"
+          - listitem [ref=e60]:
+            - link "کالاهای تخصصی" [ref=e61] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e62]:
+            - link "درباره ما" [ref=e63] [cursor=pointer]:
+              - /url: http://alizadehnik.ir/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/
+          - listitem [ref=e64]:
+            - link "تماس با ما" [ref=e65] [cursor=pointer]:
+              - /url: http://alizadehnik.ir/%d8%aa%d9%85%d8%a7%d8%b3-%d8%a8%d8%a7-%d9%85%d8%a7/
+      - generic [ref=e66]: سوالات متداول
+  - main [ref=e72]:
+    - generic [ref=e73]:
+      - generic [ref=e85]:
+        - generic [ref=e86]:
+          - generic [ref=e87]:
+            - generic [ref=e88]: ارائه کلیه
+            - heading "خدمات صادرات و واردات بصورت تخصصی" [level=1] [ref=e89]
+            - paragraph [ref=e90]: با شرکت علیزاده نیک ، سریعتر ترخیص کنیـد
+          - generic [ref=e91]:
+            - link "مشاوره امور بازارگانی" [ref=e92] [cursor=pointer]:
+              - /url: ""
+            - link "خدمات ما" [ref=e93] [cursor=pointer]:
+              - /url: ""
+        - img "خدمات صادرات و واردات بصورت تخصصی" [ref=e95]
+      - generic [ref=e110]:
+        - generic [ref=e111]: خدمات بازرگانی علیزاده نیک
+        - article [ref=e113]:
+          - generic [ref=e115]:
+            - link [ref=e117] [cursor=pointer]:
+              - /url: "#"
+              - img "ترخیص کالا" [ref=e118]
+              - heading "ترخیص کالا" [level=3] [ref=e119]
+              - paragraph [ref=e120]: از کلیه گمرکات زمینی، دریایی و هوایی در سریع‌ترین زمان ممکن
+            - link [ref=e122] [cursor=pointer]:
+              - /url: ""
+              - img "صادرات کالا" [ref=e123]
+              - heading "صادرات کالا" [level=3] [ref=e124]
+              - paragraph [ref=e125]: فرآیند ورود به بازارهای جهانی و صادرات کالای شما را سرعت می‌بخشیم
+            - link [ref=e127] [cursor=pointer]:
+              - /url: ""
+              - img "واردات کالا" [ref=e128]
+              - heading "واردات کالا" [level=3] [ref=e129]
+              - paragraph [ref=e130]: فرآیند ورود به بازارهای جهانی و صادرات کالای شما را سرعت می‌بخشیم
+            - link [ref=e132] [cursor=pointer]:
+              - /url: ""
+              - img "حمل و نقل" [ref=e133]
+              - heading "حمل و نقل" [level=3] [ref=e134]
+              - paragraph [ref=e135]: جابجایی و حمل کالا از نقطه‌ای در داخل یک کشور به نقطه‌ای در داخل کشور
+      - generic [ref=e143]:
+        - generic [ref=e146]:
+          - generic [ref=e147]:
+            - img "شرکت بازرگانی علیزاده نیک پایتخت (سهامی خاص ) تاسیس 1388 در تهران"
+            - generic [ref=e148]:
+              - heading "شرکت بازرگانی علیزاده نیک پایتخت (سهامی خاص ) تاسیس 1388 در تهران" [level=2] [ref=e149]
+              - img "شرکت بازرگانی علیزاده نیک پایتخت (سهامی خاص ) تاسیس 1388 در تهران" [ref=e150]
+            - paragraph [ref=e151]: کسب وکارهای تقاضا محور به شدت اقتصاد سنتی را متحوّل کرده اند. علی رغم این واقعیت که اقتصاد تقاضا محور پدیده ی تازه ای است، بسیاری از شرکت ها سرمایه ای میلیونی بابت آن گرفته اند. مدل کسب وکار تقاضا محور، مدل های کسب وکار تجمّعی و بازار برخط را با هم ادغام می کند. این مدل در سال های اخیر تقاضای زیادی به وجود آورده است، چراکه برای تأمین نیازهای ویژه بازار روزمره ی مشتریان سهولت را به ارمغان آورده است. شرکت بازرگانی علیزاده نیک از ابتدا در دوبخش الکترونیک و پلیمر فعالیت خود را آغاز نمود .در ادامه فعالیت خود بعنوان تامین کننده پروژه های متعدد در حوزه های گوناگون به سرانجام رساند ، همواره دغدغه مدیران توسعه فعالیت های بازرگانی علیزاده بوده لذا اقدام به تاسیس شعبه در خارج از کشور در دستور کار قرار گرفت . از سال 2020 بغیر از دفتر مرکزی خدمات دفتر استانبول بصورت برون مرزی در حال انجام است
+          - generic [ref=e152]:
+            - generic [ref=e153]:
+              - img "خرید کالا" [ref=e154]
+              - generic [ref=e155]:
+                - heading "خرید کالا" [level=3] [ref=e156]
+                - paragraph [ref=e157]: خرید کلیه کالاها شما از کشور چین ، هند و آلمان و ترکیه
+            - generic [ref=e158]:
+              - img "تشریفات گمرکی" [ref=e159]
+              - generic [ref=e160]:
+                - heading "تشریفات گمرکی" [level=3] [ref=e161]
+                - paragraph [ref=e162]: خرید کلیه کالاها شما از کشور آلمان ،ترکیه ، چین ، هند و آفریقا
+        - generic [ref=e173]:
+          - generic [ref=e174]:
+            - generic [ref=e175]:
+              - generic [ref=e176]: 
+              - generic [ref=e177]: ویدیو ها دانشنامه گمرکی
+            - link "همه ویدیو ها" [ref=e179] [cursor=pointer]:
+              - /url: ""
+          - generic [ref=e180]:
+            - link " ترخیص کالا و خدمات پس از آن در بازرگانی علیزاده نیک 16دقیقه" [ref=e181] [cursor=pointer]:
+              - /url: http://alizadehnik.ir/%d8%aa%d8%b1%d8%ae%db%8c%d8%b5-%da%a9%d8%a7%d9%84%d8%a7-%d9%88-%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d9%be%d8%b3-%d8%a7%d8%b2-%d8%a2%d9%86/
+              - generic [ref=e182]: 
+              - heading "ترخیص کالا و خدمات پس از آن در بازرگانی علیزاده نیک" [level=2]
+              - generic: 16دقیقه
+            - link " معرفی خدمات شرکت علیزاده نیک 25دقیقه" [ref=e183] [cursor=pointer]:
+              - /url: http://alizadehnik.ir/%d9%85%d8%b9%d8%b1%d9%81%db%8c-%d8%b4%d8%b1%da%a9%d8%aa-%d9%85%d8%b9%d8%aa%d8%a8%d8%b1-%da%a9%d8%a7%d8%b1%da%af%d9%88-%d8%a7%d8%b2-%da%86%db%8c%d9%86/
+              - generic [ref=e184]: 
+              - heading "معرفی خدمات شرکت علیزاده نیک" [level=2] [ref=e185]
+              - generic [ref=e186]: 25دقیقه
+            - link " واردات انواع دستگاه تزریق پلاستیک از چین 25دقیقه" [ref=e187] [cursor=pointer]:
+              - /url: http://alizadehnik.ir/%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa-%d8%a7%d9%86%d9%88%d8%a7%d8%b9-%d8%af%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d8%aa%d8%b2%d8%b1%db%8c%d9%82-%d9%be%d9%84%d8%a7%d8%b3%d8%aa%db%8c%da%a9-%d8%a7%d8%b2-%da%86/
+              - generic [ref=e188]: 
+              - heading "واردات انواع دستگاه تزریق پلاستیک از چین" [level=2] [ref=e189]
+              - generic [ref=e190]: 25دقیقه
+            - link " واردات ماشین آلات تزریق دایکاست از چین 16دقیقه" [ref=e191] [cursor=pointer]:
+              - /url: http://alizadehnik.ir/%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa-%d9%85%d8%a7%d8%b4%db%8c%d9%86-%d8%a2%d9%84%d8%a7%d8%aa-%d8%aa%d8%b2%d8%b1%db%8c%d9%82-%d8%af%d8%a7%db%8c%da%a9%d8%a7%d8%b3%d8%aa-%d8%a7%d8%b2-%da%86%db%8c%d9%86/
+              - generic [ref=e192]: 
+              - heading "واردات ماشین آلات تزریق دایکاست از چین" [level=2] [ref=e193]
+              - generic [ref=e194]: 16دقیقه
+      - generic [ref=e205]:
+        - generic [ref=e206]:
+          - generic [ref=e207]:
+            - generic [ref=e208]: 
+            - generic [ref=e209]: آخرین اخبار مقالات
+          - link "همه نوشته ها" [ref=e211] [cursor=pointer]:
+            - /url: ""
+        - generic [ref=e212]:
+          - link [ref=e214] [cursor=pointer]:
+            - /url: ""
+          - generic [ref=e215]:
+            - generic [ref=e216]:
+              - link [ref=e217] [cursor=pointer]:
+                - /url: http://alizadehnik.ir/%d9%be%db%8c%d8%a7%d9%85-%d9%85%d8%af%db%8c%d8%b1-%d8%b9%d8%a7%d9%85%d9%84-%d8%b4%d8%b1%da%a9%d8%aa-%d8%b3%d9%87%d8%a7%d9%85%db%8c-%d8%b9%d9%84%db%8c%d8%b2%d8%a7%d8%af%d9%87-%d9%86%db%8c%da%a9-%d9%be/
+                - heading "پیام مدیر عامل شرکت سهامی علیزاده نیک پایتخت" [level=2] [ref=e218]
+              - paragraph [ref=e219]: پیام مدیر عامل شرکت سهامی علیزاده نیک پایتخت پیام مدیر عامل شرکت سهامی علیزاده نیک پایتخت تلفیقی است از دانش، تخصص، تجربه، جهت ارائه ی محصولات با کیفیت و خدمات مناسب به مشتریان. ما بر این باوریم که توسعه ی شرکت جز با اتکا به منابع انسانی توانمند و متخصص، تحقق نخواهد یافت.در همین راستا ...
+            - generic [ref=e220]:
+              - generic [ref=e221]:
+                - generic [ref=e222]: < 1
+                - text: دقیقه
+              - generic [ref=e223]: "نویسنده : بازرگانی علیزاده"
+              - generic [ref=e224]:
+                - button "4" [ref=e225] [cursor=pointer]
+                - link "ادامه مقاله" [ref=e226] [cursor=pointer]:
+                  - /url: http://alizadehnik.ir/%d9%be%db%8c%d8%a7%d9%85-%d9%85%d8%af%db%8c%d8%b1-%d8%b9%d8%a7%d9%85%d9%84-%d8%b4%d8%b1%da%a9%d8%aa-%d8%b3%d9%87%d8%a7%d9%85%db%8c-%d8%b9%d9%84%db%8c%d8%b2%d8%a7%d8%af%d9%87-%d9%86%db%8c%da%a9-%d9%be/
+        - generic [ref=e227]:
+          - 'link "ساماندهی صادرات شمش فولادی به روش القایی پیام مدیر عامل شرکت سهامی علیزاده نیک پایتخت پیام مدیر عامل شرکت سهامی علیزاده نیک پایتخت تلفیقی است از دانش، تخصص، تجربه، جهت ارائه ی محصولات ... 3 دقیقه نویسنده : بازرگانی علیزاده" [ref=e229] [cursor=pointer]':
+            - /url: http://alizadehnik.ir/%d8%b3%d8%a7%d9%85%d8%a7%d9%86%d8%af%d9%87%db%8c-%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa-%d8%b4%d9%85%d8%b4-%d9%81%d9%88%d9%84%d8%a7%d8%af%db%8c-%d8%a8%d9%87-%d8%b1%d9%88%d8%b4-%d8%a7%d9%84%d9%82%d8%a7/
+            - heading "ساماندهی صادرات شمش فولادی به روش القایی" [level=2] [ref=e230]
+            - paragraph [ref=e231]: پیام مدیر عامل شرکت سهامی علیزاده نیک پایتخت پیام مدیر عامل شرکت سهامی علیزاده نیک پایتخت تلفیقی است از دانش، تخصص، تجربه، جهت ارائه ی محصولات ...
+            - generic [ref=e232]:
+              - generic [ref=e233]:
+                - generic [ref=e234]: "3"
+                - text: دقیقه
+              - generic [ref=e235]: "نویسنده : بازرگانی علیزاده"
+          - 'link "تاکید بر معاف بودند ورود ارز مدل های کسب وکار بازار برخط امروزه همه چیز براساس اینترنت اداره می شود و از این رو چندین کسب وکار بازاری وجود دارد که براساس ... 3 دقیقه نویسنده : بازرگانی علیزاده" [ref=e237] [cursor=pointer]':
+            - /url: http://alizadehnik.ir/%d8%aa%d8%a7%da%a9%db%8c%d8%af-%d8%a8%d8%b1-%d9%85%d8%b9%d8%a7%d9%81-%d8%a8%d9%88%d8%af%d9%86%d8%af-%d9%88%d8%b1%d9%88%d8%af-%d8%a7%d8%b1%d8%b2/
+            - heading "تاکید بر معاف بودند ورود ارز" [level=2] [ref=e238]
+            - paragraph [ref=e239]: مدل های کسب وکار بازار برخط امروزه همه چیز براساس اینترنت اداره می شود و از این رو چندین کسب وکار بازاری وجود دارد که براساس ...
+            - generic [ref=e240]:
+              - generic [ref=e241]:
+                - generic [ref=e242]: "3"
+                - text: دقیقه
+              - generic [ref=e243]: "نویسنده : بازرگانی علیزاده"
+          - 'link "ساماندهی محصولات فولادی مقاطع طویل ساماندهی محصولات فولادی مقاطع طویل صنایع فولاد یکی از صنایع مهم و پایه محسوب شده و پس از نفت و گاز پرحجم ترین کالای تولیدی کشور ... 2 دقیقه نویسنده : بازرگانی علیزاده" [ref=e245] [cursor=pointer]':
+            - /url: http://alizadehnik.ir/%d8%b3%d8%a7%d9%85%d8%a7%d9%86%d8%af%d9%87%db%8c-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-%d9%81%d9%88%d9%84%d8%a7%d8%af%db%8c-%d9%85%d9%82%d8%a7%d8%b7%d8%b9-%d8%b7%d9%88%db%8c%d9%84/
+            - heading "ساماندهی محصولات فولادی مقاطع طویل" [level=2] [ref=e246]
+            - paragraph [ref=e247]: ساماندهی محصولات فولادی مقاطع طویل صنایع فولاد یکی از صنایع مهم و پایه محسوب شده و پس از نفت و گاز پرحجم ترین کالای تولیدی کشور ...
+            - generic [ref=e248]:
+              - generic [ref=e249]:
+                - generic [ref=e250]: "2"
+                - text: دقیقه
+              - generic [ref=e251]: "نویسنده : بازرگانی علیزاده"
+      - generic [ref=e263]:
+        - paragraph [ref=e264]: جهت دریافت مشاوره با ما تماس بگیرین
+        - link "05365659658 " [ref=e265] [cursor=pointer]:
+          - /url: tel:05365659658
+          - generic [ref=e266]: "05365659658"
+          - generic [ref=e267]: 
+  - generic [ref=e279]:
+    - generic [ref=e281]:
+      - generic [ref=e283]:
+        - link [ref=e286] [cursor=pointer]:
+          - /url: https://alizadehnik.ir/
+          - img "بازرگانی علیزاده نیک پایتخت" [ref=e287]
+        - navigation [ref=e290]:
+          - list [ref=e291]:
+            - listitem [ref=e292]:
+              - link "English English" [ref=e293] [cursor=pointer]:
+                - /url: https://alizadehnik.ir/en/home/
+                - img "English" [ref=e295]
+                - generic [ref=e296]: English
+            - listitem [ref=e297]:
+              - link "فارسی فارسی" [ref=e298] [cursor=pointer]:
+                - /url: https://alizadehnik.ir/
+                - img "فارسی" [ref=e300]
+                - generic [ref=e301]: فارسی
+      - generic [ref=e303]:
+        - generic [ref=e306]:
+          - generic [ref=e307]: بازرگانی علیزاده ،صادرات ، واردات و ترخیص کالا
+          - generic [ref=e308]:
+            - paragraph
+            - paragraph [ref=e309]: "شرکت بازرگانی علیزاده نیک پایتخت در سال 1388 در اداره ثبت شرکت ها و موسسات غیر تجاری تهران با نام شرکت بازرگانی علیزاده (سهامی خاص ) به شماره 344959به ثبت رسیده و دفتر تغرب تهران در تهران واقع در خیابان ستارخان ، بین فلکه اول و چهارراه خسرو پلاک 110 می باشد . دفتر مرکزی : تهران ، میدان فاطمی ، کوچه غزالی ، پلاک8 واحد 2 کد پستی 1415894756 در حال حاضر این شرکت با بهره گیری از تخصص و تجربه نیروهای کارآمد و ظرفیت های مالی در راستای افزایش منافع سهامداران محترم در عرصه بازرگانی داخلی و بین المللی به فعالیت می پردازد."
+            - paragraph
+        - generic [ref=e312]:
+          - generic [ref=e313]: راه های ارتباطی
+          - generic [ref=e314]:
+            - paragraph [ref=e317] [cursor=pointer]: تهران ، میدان فاطمی ، کوچه غزالی پلاک 8
+            - link [ref=e319] [cursor=pointer]:
+              - /url: tel:1415894756
+              - paragraph [ref=e320]: "1415894756"
+            - link [ref=e322] [cursor=pointer]:
+              - /url: tel:02188926390
+              - paragraph [ref=e323]: "02188926390"
+      - generic [ref=e328]:
+        - generic [ref=e329]: لینک های مفید
+        - generic [ref=e330]:
+          - list [ref=e331]:
+            - listitem [ref=e332]:
+              - link "پرسش و پاسخ" [ref=e333] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=e334]:
+              - link "اخبار گمرک" [ref=e335] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=e336]:
+              - link "ویدئو ها" [ref=e337] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=e338]:
+              - link "مقالات و دانشنامه ها" [ref=e339] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=e340]:
+              - link "پرسش و پاسخ" [ref=e341] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=e342]:
+              - link "ویدئو ها" [ref=e343] [cursor=pointer]:
+                - /url: ""
+          - list [ref=e344]:
+            - listitem [ref=e345]:
+              - link "درباره ما" [ref=e346] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=e347]:
+              - link "مشاوران و کارشناسان" [ref=e348] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=e349]:
+              - link "معرفی اعضا" [ref=e350] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=e351]:
+              - link "انتقادات و پیشنهادات" [ref=e352] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=e353]:
+              - link "درباره ما" [ref=e354] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=e355]:
+              - link "صفحه اصلی" [ref=e356] [cursor=pointer]:
+                - /url: ""
+    - generic [ref=e357]: استفاده از مطالب این صفحه فقط برای مقاصد غیرتجاری و با ذکر منبع بلامانع است
+  - generic [ref=e364]: desktop
+  - status [ref=e365]
+```

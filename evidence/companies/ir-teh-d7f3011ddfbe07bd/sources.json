@@ -1,0 +1,58 @@
+{
+  "company_id": "ir-teh-d7f3011ddfbe07bd",
+  "errors": [],
+  "generated_at": "2026-09-01T07:52:07Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [
+    {
+      "bytes": 763830,
+      "captured_at": "2026-09-01T07:52:06Z",
+      "company_id": "ir-teh-d7f3011ddfbe07bd",
+      "headless": true,
+      "page_title": "گروه صنعتی ویرا - فروشگاه (تکنو ویرا) - صنایع برق و الکترونیک | کتاب اول",
+      "path": "companies/ir-teh-d7f3011ddfbe07bd/screenshots/company_profile.png",
+      "reason_this_matters": "Public directory profile shows the named company and its listed business footprint.",
+      "screenshot_type": "company_profile",
+      "source_url": "https://avval.ir/profile/299e6/%DA%AF%D8%B1%D9%88%D9%87-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C-%D9%88%DB%8C%D8%B1%D8%A7-%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87-%D8%AA%DA%A9%D9%86%D9%88-%D9%88%DB%8C%D8%B1%D8%A7"
+    }
+  ],
+  "sources": [
+    {
+      "discovered_at": "2026-09-01T06:32:18Z",
+      "discovery_reason": "Book-e Avval category: تجهیزات برق صنعتی",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "گروه صنعتی ویرا با داشتن کادر مهندسی در زمینه های تولید فروش و خدمات پس از فروش به کار خود ادامه میدهد این واحد در سال 92 با اخذ نمایندگی های مختلف شروع به کار کرد فروش ع",
+      "source_quality": "directory",
+      "source_title": "تجهیزات برق صنعتی در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D8%AA%D8%AC%D9%87%DB%8C%D8%B2%D8%A7%D8%AA%20%D8%A8%D8%B1%D9%82%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:32:18Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-f4a23b54fbb8cd81",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "گروه صنعتی ویرا با داشتن کادر مهندسی در زمینه های تولید فروش و خدمات پس از فروش به کار خود ادامه میدهد این واحد در سال 92 با اخذ نمایندگی های مختلف شروع به کار کرد فروش ع",
+      "source_quality": "directory",
+      "source_title": "تجهیزات برق صنعتی در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D8%AA%D8%AC%D9%87%DB%8C%D8%B2%D8%A7%D8%AA%20%D8%A8%D8%B1%D9%82%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:53Z",
+      "claim": "Directory profile lists گروه صنعتی ویرا - فروشگاه (تکنو ویرا) with a public Tehran business listing.",
+      "confidence": 0.82,
+      "evidence_id": "ev-089db9cd263a2830",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "گروه صنعتی ویرا - فروشگاه (تکنو ویرا) - صنایع برق و الکترونیک | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس گروه صنعتی ویرا - فروشگاه (تکنو ویرا) 2.5 (1 نظر) گروه صنعتی ویرا نماینده رسمی دانفوس برق صنعتی هیوندا، پارس فانال و تولید کننده شمش رابط کلید ریل مینیاتوری شینه ارت و نول مسی و فانتزی تلفن 36615099 صنایع برق و الکترونیک تجهیزات برق صنعتی فروش تجهیزات برق صنعتی یا ساختمانی تماس ثبت نظر ارتقای پروفایل ویرایش ",
+      "source_quality": "directory",
+      "source_title": "گروه صنعتی ویرا - فروشگاه (تکنو ویرا) - صنایع برق و الکترونیک | کتاب اول",
+      "source_url": "https://avval.ir/profile/299e6/%DA%AF%D8%B1%D9%88%D9%87-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C-%D9%88%DB%8C%D8%B1%D8%A7-%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87-%D8%AA%DA%A9%D9%86%D9%88-%D9%88%DB%8C%D8%B1%D8%A7"
+    }
+  ]
+}

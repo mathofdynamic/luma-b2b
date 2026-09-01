@@ -1,0 +1,775 @@
+### Page
+- Page URL: https://staransar.ir/
+- Page Title: صفحه نخست - فروشگاه اینترنتی انصار استار
+- Console: 2 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e7]:
+          - generic [ref=e8]:
+            - generic [ref=e9]: بنکداری آنلاین استار انصار
+            - navigation "منوی ثانویه" [ref=e11]:
+              - list [ref=e12]:
+                - listitem [ref=e13]:
+                  - link "مجله" [ref=e14] [cursor=pointer]:
+                    - /url: https://staransar.ir/mag/
+                - listitem [ref=e16]:
+                  - link "تماس با ما" [ref=e17] [cursor=pointer]:
+                    - /url: https://staransar.ir/contact-us/
+                - listitem [ref=e19]:
+                  - link "درباره ما" [ref=e20] [cursor=pointer]:
+                    - /url: https://staransar.ir/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/
+                - listitem [ref=e22]:
+                  - link "برندها" [ref=e23] [cursor=pointer]:
+                    - /url: https://staransar.ir/%d8%a8%d8%b1%d9%86%d8%af%d9%87%d8%a7/
+          - generic [ref=e27]:
+            - link "Facebook link" [ref=e28] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e29]: 
+            - link "Twitter link" [ref=e30] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e31]: 
+            - link "لینک اینستاگرام" [ref=e32] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e33]: 
+            - link "Youtube link" [ref=e34] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e35]: 
+            - link "لینک Pinterest" [ref=e36] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e37]: 
+          - text:     
+        - generic [ref=e40]:
+          - generic [ref=e41]:
+            - link " 0 0 تومان" [ref=e43] [cursor=pointer]:
+              - /url: https://staransar.ir/cart/
+              - generic [ref=e44]:
+                - text: 
+                - generic [ref=e45]: "0"
+              - generic [ref=e46]: 0 تومان
+            - generic "لیست علاقمندی های من" [ref=e51]:
+              - link " 0 علاقه مندی" [ref=e52] [cursor=pointer]:
+                - /url: https://staransar.ir/wishlist/
+                - generic [ref=e53]:
+                  - text: 
+                  - generic [ref=e54]: "0"
+                - generic [ref=e55]: علاقه مندی
+            - link " 0 مقایسه" [ref=e59] [cursor=pointer]:
+              - /url: https://staransar.ir/compare/
+              - generic [ref=e60]:
+                - text: 
+                - generic [ref=e61]: "0"
+              - generic [ref=e62]: مقایسه
+            - link " ورود / ثبت نام" [ref=e65] [cursor=pointer]:
+              - /url: https://staransar.ir/my-account/
+              - generic [ref=e66]: 
+              - generic [ref=e67]: ورود / ثبت نام
+          - search [ref=e70]:
+            - textbox "جستجو" [ref=e71]:
+              - /placeholder: جستجوی محصولات
+            - link "انتخاب دسته بندی " [ref=e73] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e74]: انتخاب دسته بندی
+              - text: 
+            - button "جستجو " [ref=e75] [cursor=pointer]:
+              - generic: جستجو
+              - text: 
+          - link [ref=e78] [cursor=pointer]:
+            - /url: https://staransar.ir/
+            - img "فروشگاه اینترنتی انصار استار" [ref=e79]
+          - text:   
+        - generic [ref=e82]:
+          - navigation "منوی دسته بندی های سربرگ" [ref=e84]:
+            - generic [ref=e85]:
+              - generic [ref=e86]: 
+              - generic [ref=e87]: دسته بندی کالاها
+              - text: 
+          - navigation "منوی اصلی" [ref=e90]:
+            - list [ref=e91]:
+              - listitem [ref=e92]:
+                - link "صفحه نخست" [ref=e93] [cursor=pointer]:
+                  - /url: https://staransar.ir/
+              - listitem [ref=e95]:
+                - link "فروشگاه تهران" [ref=e96] [cursor=pointer]:
+                  - /url: https://staransar.ir/shop/
+              - listitem [ref=e98]:
+                - link "فروشگاه شهرستان ها" [ref=e99] [cursor=pointer]:
+                  - /url: https://staransar.ir/product-category/%d9%81%d8%b1%d9%88%d8%b4%da%af%d8%a7%d9%87-%d8%b4%d9%87%d8%b1%d8%b3%d8%aa%d8%a7%d9%86-%d9%87%d8%a7/
+              - listitem [ref=e101]:
+                - link "کافه و رستوران" [ref=e102] [cursor=pointer]:
+                  - /url: https://staransar.ir/product-category/%da%a9%d8%a7%d9%81%d9%87-%d9%88-%d8%b1%d8%b3%d8%aa%d9%88%d8%b1%d8%a7%d9%86/
+              - listitem [ref=e104]:
+                - link "ویژه شرکت ها و ادارات" [ref=e105] [cursor=pointer]:
+                  - /url: https://staransar.ir/product-category/%d9%88%db%8c%da%98%d9%87-%d8%b4%d8%b1%da%a9%d8%aa-%d9%87%d8%a7-%d9%88-%d8%a7%d8%af%d8%a7%d8%b1%d8%a7%d8%aa/
+              - listitem [ref=e107]:
+                - link "محصولات صادراتی" [ref=e108] [cursor=pointer]:
+                  - /url: https://staransar.ir/product-category/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa%db%8c/
+              - listitem [ref=e110]:
+                - link "برندها" [ref=e111] [cursor=pointer]:
+                  - /url: https://staransar.ir/%d8%a8%d8%b1%d9%86%d8%af%d9%87%d8%a7/
+          - link "تخفیف های روز " [ref=e115] [cursor=pointer]:
+            - /url: https://staransar.ir/shop/?stock_status=onsale
+            - text: تخفیف های روز
+            - generic [ref=e116]: 
+    - main [ref=e121]:
+      - article [ref=e122]:
+        - generic [ref=e126]:
+          - generic [ref=e129]:
+            - generic [ref=e136] [cursor=pointer]
+            - generic [ref=e147]:
+              - generic [ref=e150] [cursor=pointer]: 
+              - generic [ref=e151] [cursor=pointer]: 
+              - generic [ref=e154]:
+                - generic [ref=e155] [cursor=pointer]: محصولات آیدین
+                - generic [ref=e157] [cursor=pointer]: محصولات فرخنده
+                - generic [ref=e159] [cursor=pointer]: محصولات ماندیرو
+          - generic [ref=e175]:
+            - generic [ref=e176]:
+              - generic [ref=e177]: پیشنهادات استار / برندها
+              - list [ref=e179]:
+                - listitem [ref=e180]:
+                  - link "ماندیرو" [ref=e181] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e183]:
+                  - link "تی هایا" [ref=e184] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e186]:
+                  - link "آیدین" [ref=e187] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e189]:
+                  - link "فرخنده" [ref=e190] [cursor=pointer]:
+                    - /url: "#"
+            - generic [ref=e194]:
+              - generic [ref=e196]:
+                - generic [ref=e200]:
+                  - generic [ref=e201]:
+                    - link [ref=e202] [cursor=pointer]:
+                      - /url: https://staransar.ir/product/mostatil-baghlava/
+                      - img "باقلوای-مستطیلی" [ref=e203]
+                    - generic [ref=e204]:
+                      - link "افزودن “باقلوای مستطیلی ماندیرو” به سبد" [ref=e206] [cursor=pointer]:
+                        - /url: "?add-to-cart=1174"
+                        - text: 
+                        - generic: افزودن به سبد خرید
+                      - link " مشاهده سریع" [ref=e208] [cursor=pointer]:
+                        - /url: https://staransar.ir/product/mostatil-baghlava/
+                      - link " مقایسه" [ref=e210] [cursor=pointer]:
+                        - /url: https://staransar.ir/compare/
+                        - text: 
+                        - generic: مقایسه
+                      - link " افزودن به علاقه مندی" [ref=e212] [cursor=pointer]:
+                        - /url: https://staransar.ir/wishlist/
+                        - text: 
+                        - generic: افزودن به علاقه مندی
+                  - generic [ref=e213]:
+                    - heading [level=3] [ref=e214]:
+                      - link "باقلوای مستطیلی ماندیرو" [ref=e215] [cursor=pointer]:
+                        - /url: https://staransar.ir/product/mostatil-baghlava/
+                    - generic [ref=e216]: 193,750 تومان
+                - generic [ref=e222]:
+                  - generic [ref=e223]:
+                    - link [ref=e224] [cursor=pointer]:
+                      - /url: https://staransar.ir/product/zanet-mandiro-baghlava/
+                      - img "باقلوا-زانت" [ref=e225]
+                    - generic [ref=e226]:
+                      - link "افزودن “باقلوای زانت ماندیرو” به سبد" [ref=e228] [cursor=pointer]:
+                        - /url: "?add-to-cart=1170"
+                        - text: 
+                        - generic: افزودن به سبد خرید
+                      - link " مشاهده سریع" [ref=e230] [cursor=pointer]:
+                        - /url: https://staransar.ir/product/zanet-mandiro-baghlava/
+                      - link " مقایسه" [ref=e232] [cursor=pointer]:
+                        - /url: https://staransar.ir/compare/
+                        - text: 
+                        - generic: مقایسه
+                      - link " افزودن به علاقه مندی" [ref=e234] [cursor=pointer]:
+                        - /url: https://staransar.ir/wishlist/
+                        - text: 
+                        - generic: افزودن به علاقه مندی
+                  - generic [ref=e235]:
+                    - heading [level=3] [ref=e236]:
+                      - link "باقلوای زانت ماندیرو" [ref=e237] [cursor=pointer]:
+                        - /url: https://staransar.ir/product/zanet-mandiro-baghlava/
+                    - generic [ref=e238]: 156,250 تومان
+                - generic [ref=e244]:
+                  - generic [ref=e245]:
+                    - link [ref=e246] [cursor=pointer]:
+                      - /url: https://staransar.ir/product/korki-mandiro/
+                      - img "کرکی-زعفرانی" [ref=e247]
+                    - generic [ref=e248]:
+                      - link "افزودن “شیرینی کرکی زعفرانی ماندیرو” به سبد" [ref=e250] [cursor=pointer]:
+                        - /url: "?add-to-cart=1166"
+                        - text: 
+                        - generic: افزودن به سبد خرید
+                      - link " مشاهده سریع" [ref=e252] [cursor=pointer]:
+                        - /url: https://staransar.ir/product/korki-mandiro/
+                      - link " مقایسه" [ref=e254] [cursor=pointer]:
+                        - /url: https://staransar.ir/compare/
+                        - text: 
+                        - generic: مقایسه
+                      - link " افزودن به علاقه مندی" [ref=e256] [cursor=pointer]:
+                        - /url: https://staransar.ir/wishlist/
+                        - text: 
+                        - generic: افزودن به علاقه مندی
+                  - generic [ref=e257]:
+                    - heading [level=3] [ref=e258]:
+                      - link "شیرینی کرکی زعفرانی ماندیرو" [ref=e259] [cursor=pointer]:
+                        - /url: https://staransar.ir/product/korki-mandiro/
+                    - generic [ref=e260]: 150,000 تومان
+                - generic [ref=e266]:
+                  - generic [ref=e267]:
+                    - link [ref=e268] [cursor=pointer]:
+                      - /url: https://staransar.ir/product/baghlava-4maghz/
+                      - img "باقلوای-4مغز" [ref=e269]
+                    - generic [ref=e270]:
+                      - link "افزودن “باقلوای 4 مغز ماندیرو” به سبد" [ref=e272] [cursor=pointer]:
+                        - /url: "?add-to-cart=1162"
+                        - text: 
+                        - generic: افزودن به سبد خرید
+                      - link " مشاهده سریع" [ref=e274] [cursor=pointer]:
+                        - /url: https://staransar.ir/product/baghlava-4maghz/
+                      - link " مقایسه" [ref=e276] [cursor=pointer]:
+                        - /url: https://staransar.ir/compare/
+                        - text: 
+                        - generic: مقایسه
+                      - link " افزودن به علاقه مندی" [ref=e278] [cursor=pointer]:
+                        - /url: https://staransar.ir/wishlist/
+                        - text: 
+                        - generic: افزودن به علاقه مندی
+                  - generic [ref=e279]:
+                    - heading [level=3] [ref=e280]:
+                      - link "باقلوای 4 مغز ماندیرو" [ref=e281] [cursor=pointer]:
+                        - /url: https://staransar.ir/product/baghlava-4maghz/
+                    - generic [ref=e282]: 243,750 تومان
+                - generic [ref=e288]:
+                  - generic [ref=e289]:
+                    - link [ref=e290] [cursor=pointer]:
+                      - /url: https://staransar.ir/product/chipsi-hyperi/
+                      - img "هایپری-چیپسی" [ref=e291]
+                    - generic [ref=e292]:
+                      - link "افزودن “شیرینی چیپسی هایپری ماندیرو” به سبد" [ref=e294] [cursor=pointer]:
+                        - /url: "?add-to-cart=1157"
+                        - text: 
+                        - generic: افزودن به سبد خرید
+                      - link " مشاهده سریع" [ref=e296] [cursor=pointer]:
+                        - /url: https://staransar.ir/product/chipsi-hyperi/
+                      - link " مقایسه" [ref=e298] [cursor=pointer]:
+                        - /url: https://staransar.ir/compare/
+                        - text: 
+                        - generic: مقایسه
+                      - link " افزودن به علاقه مندی" [ref=e300] [cursor=pointer]:
+                        - /url: https://staransar.ir/wishlist/
+                        - text: 
+                        - generic: افزودن به علاقه مندی
+                  - generic [ref=e301]:
+                    - heading [level=3] [ref=e302]:
+                      - link "شیرینی چیپسی هایپری ماندیرو" [ref=e303] [cursor=pointer]:
+                        - /url: https://staransar.ir/product/chipsi-hyperi/
+                    - generic [ref=e304]: 68,750 تومان
+                - generic [ref=e310]:
+                  - generic [ref=e311]:
+                    - link [ref=e312] [cursor=pointer]:
+                      - /url: https://staransar.ir/product/tart-finger-mandiro/
+                      - img "تارت-فینگر" [ref=e313]
+                    - generic [ref=e314]:
+                      - link "افزودن “تارت فینگر ماندیرو” به سبد" [ref=e316] [cursor=pointer]:
+                        - /url: "?add-to-cart=1154"
+                        - text: 
+                        - generic: افزودن به سبد خرید
+                      - link " مشاهده سریع" [ref=e318] [cursor=pointer]:
+                        - /url: https://staransar.ir/product/tart-finger-mandiro/
+                      - link " مقایسه" [ref=e320] [cursor=pointer]:
+                        - /url: https://staransar.ir/compare/
+                        - text: 
+                        - generic: مقایسه
+                      - link " افزودن به علاقه مندی" [ref=e322] [cursor=pointer]:
+                        - /url: https://staransar.ir/wishlist/
+                        - text: 
+                        - generic: افزودن به علاقه مندی
+                  - generic [ref=e323]:
+                    - heading [level=3] [ref=e324]:
+                      - link "تارت فینگر ماندیرو" [ref=e325] [cursor=pointer]:
+                        - /url: https://staransar.ir/product/tart-finger-mandiro/
+                    - generic [ref=e326]: 187,500 تومان
+                - generic [ref=e332]:
+                  - generic [ref=e333]:
+                    - link [ref=e334] [cursor=pointer]:
+                      - /url: https://staransar.ir/product/berenji-hayperi/
+                      - img "برنجی-هایپری" [ref=e335]
+                    - generic [ref=e336]:
+                      - link "افزودن “شیرینی برنجی هایپری ماندیرو” به سبد" [ref=e338] [cursor=pointer]:
+                        - /url: "?add-to-cart=1150"
+                        - text: 
+                        - generic: افزودن به سبد خرید
+                      - link " مشاهده سریع" [ref=e340] [cursor=pointer]:
+                        - /url: https://staransar.ir/product/berenji-hayperi/
+                      - link " مقایسه" [ref=e342] [cursor=pointer]:
+                        - /url: https://staransar.ir/compare/
+                        - text: 
+                        - generic: مقایسه
+                      - link " افزودن به علاقه مندی" [ref=e344] [cursor=pointer]:
+                        - /url: https://staransar.ir/wishlist/
+                        - text: 
+                        - generic: افزودن به علاقه مندی
+                  - generic [ref=e345]:
+                    - heading [level=3] [ref=e346]:
+                      - link "شیرینی برنجی هایپری ماندیرو" [ref=e347] [cursor=pointer]:
+                        - /url: https://staransar.ir/product/berenji-hayperi/
+                    - generic [ref=e348]: 62,500 تومان
+              - generic [ref=e351]:
+                - generic [ref=e352] [cursor=pointer]: 
+                - generic [ref=e353] [cursor=pointer]: 
+              - generic [ref=e354]:
+                - generic [ref=e355] [cursor=pointer]
+                - generic [ref=e357] [cursor=pointer]
+          - generic [ref=e364]:
+            - heading "خرید اینترنتی از استار انصار چه مزایایی دارد؟" [level=4] [ref=e369]
+            - generic [ref=e375]:
+              - generic [ref=e378]:
+                - img "fresh" [ref=e381]
+                - generic [ref=e382]:
+                  - heading "محصولات تازه" [level=6] [ref=e383]
+                  - link "مشاهده" [ref=e386] [cursor=pointer]:
+                    - /url: "#"
+              - generic [ref=e390]:
+                - img "best-price" [ref=e393]
+                - generic [ref=e394]:
+                  - heading "بهترین قیمت" [level=6] [ref=e395]
+                  - link "مشاهده" [ref=e398] [cursor=pointer]:
+                    - /url: "#"
+              - generic [ref=e402]:
+                - img "fast-delivey" [ref=e405]
+                - generic [ref=e406]:
+                  - heading "ارسال سریع" [level=6] [ref=e407]
+                  - link "مشاهده" [ref=e410] [cursor=pointer]:
+                    - /url: "#"
+              - generic [ref=e414]:
+                - img "selected" [ref=e417]
+                - generic [ref=e418]:
+                  - heading "گلچینی از محصولات" [level=6] [ref=e419]
+                  - link "مشاهده" [ref=e422] [cursor=pointer]:
+                    - /url: "#"
+              - generic [ref=e426]:
+                - img "jashnvare" [ref=e429]
+                - generic [ref=e430]:
+                  - heading "جشنواره های مناسبتی" [level=6] [ref=e431]
+                  - link "مشاهده" [ref=e434] [cursor=pointer]:
+                    - /url: "#"
+              - generic [ref=e438]:
+                - img "fresh" [ref=e441]
+                - generic [ref=e442]:
+                  - heading "محصولات تازه" [level=6] [ref=e443]
+                  - link "مشاهده" [ref=e446] [cursor=pointer]:
+                    - /url: "#"
+              - generic [ref=e450]:
+                - img "best-price" [ref=e453]
+                - generic [ref=e454]:
+                  - heading "بهترین قیمت" [level=6] [ref=e455]
+                  - link "مشاهده" [ref=e458] [cursor=pointer]:
+                    - /url: "#"
+              - generic [ref=e462]:
+                - img "fast-delivey" [ref=e465]
+                - generic [ref=e466]:
+                  - heading "ارسال سریع" [level=6] [ref=e467]
+                  - link "مشاهده" [ref=e470] [cursor=pointer]:
+                    - /url: "#"
+              - generic [ref=e474]:
+                - img "selected" [ref=e477]
+                - generic [ref=e478]:
+                  - heading "گلچینی از محصولات" [level=6] [ref=e479]
+                  - link "مشاهده" [ref=e482] [cursor=pointer]:
+                    - /url: "#"
+              - generic [ref=e486]:
+                - img "jashnvare" [ref=e489]
+                - generic [ref=e490]:
+                  - heading "جشنواره های مناسبتی" [level=6] [ref=e491]
+                  - link "مشاهده" [ref=e494] [cursor=pointer]:
+                    - /url: "#"
+              - generic [ref=e498]:
+                - img "fresh" [ref=e501]
+                - generic [ref=e502]:
+                  - heading "محصولات تازه" [level=6] [ref=e503]
+                  - link "مشاهده" [ref=e506] [cursor=pointer]:
+                    - /url: "#"
+              - generic [ref=e510]:
+                - img "best-price" [ref=e513]
+                - generic [ref=e514]:
+                  - heading "بهترین قیمت" [level=6] [ref=e515]
+                  - link "مشاهده" [ref=e518] [cursor=pointer]:
+                    - /url: "#"
+              - generic [ref=e522]:
+                - img "fast-delivey" [ref=e525]
+                - generic [ref=e526]:
+                  - heading "ارسال سریع" [level=6] [ref=e527]
+                  - link "مشاهده" [ref=e530] [cursor=pointer]:
+                    - /url: "#"
+              - generic [ref=e534]:
+                - img "selected" [ref=e537]
+                - generic [ref=e538]:
+                  - heading "گلچینی از محصولات" [level=6] [ref=e539]
+                  - link "مشاهده" [ref=e542] [cursor=pointer]:
+                    - /url: "#"
+              - generic [ref=e546]:
+                - img "jashnvare" [ref=e549]
+                - generic [ref=e550]:
+                  - heading "جشنواره های مناسبتی" [level=6] [ref=e551]
+                  - link "مشاهده" [ref=e554] [cursor=pointer]:
+                    - /url: "#"
+          - generic [ref=e558]:
+            - generic [ref=e565] [cursor=pointer]
+            - generic [ref=e575] [cursor=pointer]
+            - generic [ref=e585] [cursor=pointer]
+          - generic [ref=e597]:
+            - list [ref=e600]:
+              - listitem [ref=e601]:
+                - link "آجیل و خشکبار" [ref=e602] [cursor=pointer]:
+                  - /url: "#"
+            - generic [ref=e606]:
+              - generic [ref=e608]:
+                - generic [ref=e609]:
+                  - link [ref=e610] [cursor=pointer]:
+                    - /url: https://staransar.ir/product/maghz-gerdoo/
+                  - link " مقایسه" [ref=e613] [cursor=pointer]:
+                    - /url: https://staransar.ir/compare/
+                    - text: 
+                    - generic: مقایسه
+                - generic [ref=e614]:
+                  - heading [level=3] [ref=e615]:
+                    - link "مغز گردو اعلاء" [ref=e616] [cursor=pointer]:
+                      - /url: https://staransar.ir/product/maghz-gerdoo/
+                  - generic [ref=e617]: 360,000 تومان
+              - generic [ref=e623]:
+                - generic [ref=e624]:
+                  - link [ref=e625] [cursor=pointer]:
+                    - /url: https://staransar.ir/product/maghz-peste/
+                  - link " مقایسه" [ref=e628] [cursor=pointer]:
+                    - /url: https://staransar.ir/compare/
+                    - text: 
+                    - generic: مقایسه
+                - generic [ref=e629]:
+                  - heading [level=3] [ref=e630]:
+                    - link "مغز پسته" [ref=e631] [cursor=pointer]:
+                      - /url: https://staransar.ir/product/maghz-peste/
+                  - generic [ref=e632]: 1,250,000 تومان
+              - generic [ref=e638]:
+                - generic [ref=e639]:
+                  - link [ref=e640] [cursor=pointer]:
+                    - /url: https://staransar.ir/product/peste-kham-akbari/
+                  - link " مقایسه" [ref=e643] [cursor=pointer]:
+                    - /url: https://staransar.ir/compare/
+                    - text: 
+                    - generic: مقایسه
+                - generic [ref=e644]:
+                  - heading [level=3] [ref=e645]:
+                    - link "پسته خام اکبری" [ref=e646] [cursor=pointer]:
+                      - /url: https://staransar.ir/product/peste-kham-akbari/
+                  - generic [ref=e647]: 950,000 تومان
+              - generic [ref=e653]:
+                - generic [ref=e654]:
+                  - link [ref=e655] [cursor=pointer]:
+                    - /url: https://staransar.ir/product/peste-shoor-akbari/
+                  - link " مقایسه" [ref=e658] [cursor=pointer]:
+                    - /url: https://staransar.ir/compare/
+                    - text: 
+                    - generic: مقایسه
+                - generic [ref=e659]:
+                  - heading [level=3] [ref=e660]:
+                    - link "پسته اکبری شور" [ref=e661] [cursor=pointer]:
+                      - /url: https://staransar.ir/product/peste-shoor-akbari/
+                  - generic [ref=e662]: 950,000 تومان
+          - generic [ref=e678]:
+            - heading "در مورد خوراکی ها بیشتر بدانید" [level=4] [ref=e683]
+            - generic [ref=e687]:
+              - generic [ref=e689]:
+                - article [ref=e692]:
+                  - generic [ref=e693]:
+                    - generic [ref=e694]:
+                      - figure [ref=e695]:
+                        - link [ref=e697] [cursor=pointer]:
+                          - /url: https://staransar.ir/%d9%85%d8%b9%d8%b1%d9%81%db%8c-%d8%a8%d8%b1%d9%86%d8%af-%d8%b4%d9%87%d8%b1%d8%b2%d8%a7%d8%af/
+                      - generic [ref=e700]:
+                        - generic [ref=e701]: "02"
+                        - generic [ref=e702]: بهمن
+                    - generic [ref=e703]:
+                      - link "دسته‌بندی نشده" [ref=e706] [cursor=pointer]:
+                        - /url: https://staransar.ir/category/%d8%af%d8%b3%d8%aa%d9%87%e2%80%8c%d8%a8%d9%86%d8%af%db%8c-%d9%86%d8%b4%d8%af%d9%87/
+                      - heading [level=3] [ref=e707]:
+                        - link "معرفی برند شهرزاد" [ref=e708] [cursor=pointer]:
+                          - /url: https://staransar.ir/%d9%85%d8%b9%d8%b1%d9%81%db%8c-%d8%a8%d8%b1%d9%86%d8%af-%d8%b4%d9%87%d8%b1%d8%b2%d8%a7%d8%af/
+                      - list [ref=e710]:
+                        - listitem:
+                          - time: 3 بهمن 1401
+                        - listitem [ref=e711]:
+                          - text: ارسال توسط
+                          - img "author-avatar" [ref=e712]
+                          - link "مدیریت سایت" [ref=e713] [cursor=pointer]:
+                            - /url: https://staransar.ir/author/sefiy/
+                        - listitem [ref=e715]:
+                          - link "0 " [ref=e716] [cursor=pointer]:
+                            - /url: https://staransar.ir/%d9%85%d8%b9%d8%b1%d9%81%db%8c-%d8%a8%d8%b1%d9%86%d8%af-%d8%b4%d9%87%d8%b1%d8%b2%d8%a7%d8%af/#respond
+                            - generic [ref=e717]: "0"
+                            - text: 
+                      - generic [ref=e718]: 
+                      - generic [ref=e719]:
+                        - text: برند شهرزاد ، انواع چای را با طعم ها و بسته بندی های جذاب و مختلف در اختیار مصرف کنندگان قرار می دهد...
+                        - paragraph [ref=e720]:
+                          - link "ادامه مطلب " [ref=e721] [cursor=pointer]:
+                            - /url: https://staransar.ir/%d9%85%d8%b9%d8%b1%d9%81%db%8c-%d8%a8%d8%b1%d9%86%d8%af-%d8%b4%d9%87%d8%b1%d8%b2%d8%a7%d8%af/
+                - article [ref=e724]:
+                  - generic [ref=e725]:
+                    - generic [ref=e726]:
+                      - figure [ref=e727]:
+                        - link [ref=e729] [cursor=pointer]:
+                          - /url: https://staransar.ir/%d8%aa%d9%86%d9%82%d9%84%d8%a7%d8%aa-%d8%b1%da%98%db%8c%d9%85%db%8c-%da%86%db%8c%d8%b3%d8%aa%d8%9f/
+                      - generic [ref=e732]:
+                        - generic [ref=e733]: "02"
+                        - generic [ref=e734]: بهمن
+                    - generic [ref=e735]:
+                      - link "دسته‌بندی نشده" [ref=e738] [cursor=pointer]:
+                        - /url: https://staransar.ir/category/%d8%af%d8%b3%d8%aa%d9%87%e2%80%8c%d8%a8%d9%86%d8%af%db%8c-%d9%86%d8%b4%d8%af%d9%87/
+                      - heading [level=3] [ref=e739]:
+                        - link "تنقلات رژیمی چیست؟" [ref=e740] [cursor=pointer]:
+                          - /url: https://staransar.ir/%d8%aa%d9%86%d9%82%d9%84%d8%a7%d8%aa-%d8%b1%da%98%db%8c%d9%85%db%8c-%da%86%db%8c%d8%b3%d8%aa%d8%9f/
+                      - list [ref=e742]:
+                        - listitem:
+                          - time: 3 بهمن 1401
+                        - listitem [ref=e743]:
+                          - text: ارسال توسط
+                          - img "author-avatar" [ref=e744]
+                          - link "مدیریت سایت" [ref=e745] [cursor=pointer]:
+                            - /url: https://staransar.ir/author/sefiy/
+                        - listitem [ref=e747]:
+                          - link "0 " [ref=e748] [cursor=pointer]:
+                            - /url: https://staransar.ir/%d8%aa%d9%86%d9%82%d9%84%d8%a7%d8%aa-%d8%b1%da%98%db%8c%d9%85%db%8c-%da%86%db%8c%d8%b3%d8%aa%d8%9f/#respond
+                            - generic [ref=e749]: "0"
+                            - text: 
+                      - generic [ref=e750]: 
+                      - generic [ref=e751]:
+                        - text: این روزها خوراکی ها و تنقلات و به طور کلی رژیم غذایی اکثر افراد به سمتی کشیده شده که شامل مقدار زی...
+                        - paragraph [ref=e752]:
+                          - link "ادامه مطلب " [ref=e753] [cursor=pointer]:
+                            - /url: https://staransar.ir/%d8%aa%d9%86%d9%82%d9%84%d8%a7%d8%aa-%d8%b1%da%98%db%8c%d9%85%db%8c-%da%86%db%8c%d8%b3%d8%aa%d8%9f/
+                - article [ref=e756]:
+                  - generic [ref=e757]:
+                    - generic [ref=e758]:
+                      - figure [ref=e759]:
+                        - link [ref=e761] [cursor=pointer]:
+                          - /url: https://staransar.ir/%d9%85%db%8c%d9%84-%d8%b4%d8%af%db%8c%d8%af-%d8%a8%d9%87-%d8%a8%d8%b1%d8%ae%db%8c-%d8%a7%d8%b2-%d8%aa%d9%86%d9%82%d9%84%d8%a7%d8%aa-%d9%86%d8%b4%d8%a7%d9%86%d9%87-%da%86%db%8c%d8%b3%d8%aa%d8%9f/
+                      - generic [ref=e764]:
+                        - generic [ref=e765]: "02"
+                        - generic [ref=e766]: بهمن
+                    - generic [ref=e767]:
+                      - link "دسته‌بندی نشده" [ref=e770] [cursor=pointer]:
+                        - /url: https://staransar.ir/category/%d8%af%d8%b3%d8%aa%d9%87%e2%80%8c%d8%a8%d9%86%d8%af%db%8c-%d9%86%d8%b4%d8%af%d9%87/
+                      - heading [level=3] [ref=e771]:
+                        - link "میل شدید به برخی از تنقلات" [ref=e772] [cursor=pointer]:
+                          - /url: https://staransar.ir/%d9%85%db%8c%d9%84-%d8%b4%d8%af%db%8c%d8%af-%d8%a8%d9%87-%d8%a8%d8%b1%d8%ae%db%8c-%d8%a7%d8%b2-%d8%aa%d9%86%d9%82%d9%84%d8%a7%d8%aa-%d9%86%d8%b4%d8%a7%d9%86%d9%87-%da%86%db%8c%d8%b3%d8%aa%d8%9f/
+                      - list [ref=e774]:
+                        - listitem:
+                          - time: 3 بهمن 1401
+                        - listitem [ref=e775]:
+                          - text: ارسال توسط
+                          - img "author-avatar" [ref=e776]
+                          - link "مدیریت سایت" [ref=e777] [cursor=pointer]:
+                            - /url: https://staransar.ir/author/sefiy/
+                        - listitem [ref=e779]:
+                          - link "0 " [ref=e780] [cursor=pointer]:
+                            - /url: https://staransar.ir/%d9%85%db%8c%d9%84-%d8%b4%d8%af%db%8c%d8%af-%d8%a8%d9%87-%d8%a8%d8%b1%d8%ae%db%8c-%d8%a7%d8%b2-%d8%aa%d9%86%d9%82%d9%84%d8%a7%d8%aa-%d9%86%d8%b4%d8%a7%d9%86%d9%87-%da%86%db%8c%d8%b3%d8%aa%d8%9f/#respond
+                            - generic [ref=e781]: "0"
+                            - text: 
+                      - generic [ref=e782]: 
+                      - generic [ref=e783]:
+                        - text: "گروه علمی: ممکن است روز‌ها با فکر خوردن شکلات‌های خوشمزه به خواب رفته و با این فکر از خواب بیدار شوی..."
+                        - paragraph [ref=e784]:
+                          - link "ادامه مطلب " [ref=e785] [cursor=pointer]:
+                            - /url: https://staransar.ir/%d9%85%db%8c%d9%84-%d8%b4%d8%af%db%8c%d8%af-%d8%a8%d9%87-%d8%a8%d8%b1%d8%ae%db%8c-%d8%a7%d8%b2-%d8%aa%d9%86%d9%82%d9%84%d8%a7%d8%aa-%d9%86%d8%b4%d8%a7%d9%86%d9%87-%da%86%db%8c%d8%b3%d8%aa%d8%9f/
+                - article [ref=e788]:
+                  - generic [ref=e789]:
+                    - generic [ref=e790]:
+                      - figure [ref=e791]:
+                        - link [ref=e793] [cursor=pointer]:
+                          - /url: https://staransar.ir/%d8%b4%da%a9%d9%84%d8%a7%d8%aa-%d9%88-%d8%a7%d9%86%d9%88%d8%a7%d8%b9-%d8%a2%d9%86/
+                      - generic [ref=e796]:
+                        - generic [ref=e797]: "02"
+                        - generic [ref=e798]: بهمن
+                    - generic [ref=e799]:
+                      - link "دسته‌بندی نشده" [ref=e802] [cursor=pointer]:
+                        - /url: https://staransar.ir/category/%d8%af%d8%b3%d8%aa%d9%87%e2%80%8c%d8%a8%d9%86%d8%af%db%8c-%d9%86%d8%b4%d8%af%d9%87/
+                      - heading [level=3] [ref=e803]:
+                        - link "شکلات و انواع آن" [ref=e804] [cursor=pointer]:
+                          - /url: https://staransar.ir/%d8%b4%da%a9%d9%84%d8%a7%d8%aa-%d9%88-%d8%a7%d9%86%d9%88%d8%a7%d8%b9-%d8%a2%d9%86/
+                      - list [ref=e806]:
+                        - listitem:
+                          - time: 3 بهمن 1401
+                        - listitem [ref=e807]:
+                          - text: ارسال توسط
+                          - img "author-avatar" [ref=e808]
+                          - link "مدیریت سایت" [ref=e809] [cursor=pointer]:
+                            - /url: https://staransar.ir/author/sefiy/
+                        - listitem [ref=e811]:
+                          - link "0 " [ref=e812] [cursor=pointer]:
+                            - /url: https://staransar.ir/%d8%b4%da%a9%d9%84%d8%a7%d8%aa-%d9%88-%d8%a7%d9%86%d9%88%d8%a7%d8%b9-%d8%a2%d9%86/#respond
+                            - generic [ref=e813]: "0"
+                            - text: 
+                      - generic [ref=e814]: 
+                      - generic [ref=e815]:
+                        - text: شکلات انواع بسیار زیادی راداست که تا سال ۱۹۳۰ حدود ۴۰ هزار نوع شکلات خلق شده و تاکنون بسیاری دیگر از...
+                        - paragraph [ref=e816]:
+                          - link "ادامه مطلب " [ref=e817] [cursor=pointer]:
+                            - /url: https://staransar.ir/%d8%b4%da%a9%d9%84%d8%a7%d8%aa-%d9%88-%d8%a7%d9%86%d9%88%d8%a7%d8%b9-%d8%a2%d9%86/
+                - article [ref=e820]:
+                  - generic [ref=e821]:
+                    - generic [ref=e822]:
+                      - figure [ref=e823]:
+                        - link [ref=e825] [cursor=pointer]:
+                          - /url: https://staransar.ir/vafer/
+                      - generic [ref=e828]:
+                        - generic [ref=e829]: "02"
+                        - generic [ref=e830]: بهمن
+                    - generic [ref=e831]:
+                      - link "خواص خوراکی ها" [ref=e834] [cursor=pointer]:
+                        - /url: https://staransar.ir/category/%d8%ae%d9%88%d8%a7%d8%b5-%d8%ae%d9%88%d8%b1%d8%a7%da%a9%db%8c-%d9%87%d8%a7/
+                      - heading [level=3] [ref=e835]:
+                        - link "خواص ویفر" [ref=e836] [cursor=pointer]:
+                          - /url: https://staransar.ir/vafer/
+                      - list [ref=e838]:
+                        - listitem:
+                          - time: 18 بهمن 1401
+                        - listitem [ref=e839]:
+                          - text: ارسال توسط
+                          - img "author-avatar" [ref=e840]
+                          - link "مدیریت سایت" [ref=e841] [cursor=pointer]:
+                            - /url: https://staransar.ir/author/sefiy/
+                        - listitem [ref=e843]:
+                          - link "0 " [ref=e844] [cursor=pointer]:
+                            - /url: https://staransar.ir/vafer/#respond
+                            - generic [ref=e845]: "0"
+                            - text: 
+                      - generic [ref=e846]: 
+                      - generic [ref=e847]:
+                        - text: خواص ویفر خیلی‌ها فکر می‌کنند که ویفر، یک بیسکویت کاملاً امروزی و بدون پیشینه‌ی تاریخی است در صورتی...
+                        - paragraph [ref=e848]:
+                          - link "ادامه مطلب " [ref=e849] [cursor=pointer]:
+                            - /url: https://staransar.ir/vafer/
+              - generic [ref=e850]:
+                - generic [ref=e851] [cursor=pointer]
+                - generic [ref=e853] [cursor=pointer]
+    - paragraph [ref=e874]: همیشه اولین نفر باشید! برای اطلاع از آخرین تخفیف‌ها و جدیدترین کالاها در خبرنامه ثبت‌نام کنید.
+    - contentinfo [ref=e875]:
+      - complementary [ref=e877]:
+        - generic [ref=e880]:
+          - heading "جشنواره ها" [level=5] [ref=e881]
+          - list [ref=e883]:
+            - listitem [ref=e884]: جشنواره برندها
+            - listitem [ref=e885]: مناسبت ها
+            - listitem [ref=e886]: عیدانه
+            - listitem [ref=e887]: پیشنهادات ویژه
+        - generic [ref=e889]:
+          - heading "استار کالا" [level=5] [ref=e890]
+          - list [ref=e892]:
+            - listitem [ref=e893]: کالاهای خاص
+        - generic [ref=e895]:
+          - heading "قوانین و مقررات" [level=5] [ref=e896]
+          - list [ref=e898]:
+            - listitem [ref=e899]:
+              - link "ثبت، پردازش و ارسال سفارش" [ref=e900] [cursor=pointer]:
+                - /url: https://staransar.ir/elementor-615/
+            - listitem [ref=e901]:
+              - link "رویه های مرجوعی" [ref=e902] [cursor=pointer]:
+                - /url: https://staransar.ir/refund_returns/
+            - listitem [ref=e903]:
+              - link "ارسال به تهران و شهرستان ها" [ref=e904] [cursor=pointer]:
+                - /url: https://staransar.ir/elementor-1082/
+        - generic [ref=e906]:
+          - heading "پوشش جغرافیایی" [level=5] [ref=e907]
+          - list [ref=e909]:
+            - listitem [ref=e910]: فروشگاه تهران
+            - listitem [ref=e911]: فروشگاه شهرستان ها
+        - generic [ref=e913]:
+          - heading "اعتماد شما افتخار ماست" [level=5] [ref=e914]
+          - paragraph [ref=e916]:
+            - link [ref=e917] [cursor=pointer]:
+              - /url: https://trustseal.enamad.ir/?id=224078&Code=hil3skNArlo2arQ6NAc6
+      - generic [ref=e921]:
+        - text: تمام حقوق برای
+        - link "استار انصار" [ref=e922] [cursor=pointer]:
+          - /url: https://i-wp.ir/
+        - text: محفوظ است.
+  - link "دکمه اسکرول به بالا" [ref=e925] [cursor=pointer]:
+    - /url: "#"
+    - text: 
+  - generic [ref=e926]:
+    - search [ref=e928]:
+      - textbox "جستجو" [ref=e929]:
+        - /placeholder: جستجوی محصولات
+      - button "جستجو " [ref=e930] [cursor=pointer]:
+        - generic: جستجو
+        - text: 
+    - list [ref=e931]:
+      - listitem [ref=e932]:
+        - link "منو" [ref=e933] [cursor=pointer]:
+          - /url: "#"
+      - listitem [ref=e935]:
+        - link "دسته بندی ها" [ref=e936] [cursor=pointer]:
+          - /url: "#"
+    - list [ref=e938]:
+      - listitem [ref=e939]:
+        - link "صفحه نخست" [ref=e940] [cursor=pointer]:
+          - /url: https://staransar.ir/
+      - listitem [ref=e942]:
+        - link "فروشگاه تهران" [ref=e943] [cursor=pointer]:
+          - /url: https://staransar.ir/shop/
+      - listitem [ref=e945]:
+        - link "فروشگاه شهرستان ها" [ref=e946] [cursor=pointer]:
+          - /url: https://staransar.ir/product-category/%d9%81%d8%b1%d9%88%d8%b4%da%af%d8%a7%d9%87-%d8%b4%d9%87%d8%b1%d8%b3%d8%aa%d8%a7%d9%86-%d9%87%d8%a7/
+      - listitem [ref=e948]:
+        - link "کافه و رستوران" [ref=e949] [cursor=pointer]:
+          - /url: https://staransar.ir/product-category/%da%a9%d8%a7%d9%81%d9%87-%d9%88-%d8%b1%d8%b3%d8%aa%d9%88%d8%b1%d8%a7%d9%86/
+      - listitem [ref=e951]:
+        - link "ویژه شرکت ها و ادارات" [ref=e952] [cursor=pointer]:
+          - /url: https://staransar.ir/product-category/%d9%88%db%8c%da%98%d9%87-%d8%b4%d8%b1%da%a9%d8%aa-%d9%87%d8%a7-%d9%88-%d8%a7%d8%af%d8%a7%d8%b1%d8%a7%d8%aa/
+      - listitem [ref=e954]:
+        - link "محصولات صادراتی" [ref=e955] [cursor=pointer]:
+          - /url: https://staransar.ir/product-category/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa%db%8c/
+      - listitem [ref=e957]:
+        - link "برندها" [ref=e958] [cursor=pointer]:
+          - /url: https://staransar.ir/%d8%a8%d8%b1%d9%86%d8%af%d9%87%d8%a7/
+      - listitem [ref=e960]:
+        - link " علاقه مندی" [ref=e961] [cursor=pointer]:
+          - /url: https://staransar.ir/wishlist/
+          - text: 
+          - generic [ref=e962]: علاقه مندی
+      - listitem [ref=e963]:
+        - link " مقایسه" [ref=e964] [cursor=pointer]:
+          - /url: https://staransar.ir/compare/
+      - listitem [ref=e965]:
+        - link " ورود / ثبت نام" [ref=e966] [cursor=pointer]:
+          - /url: https://staransar.ir/my-account/
+  - generic [ref=e967]:
+    - generic [ref=e968]:
+      - generic [ref=e969]: سبد خرید
+      - link " بستن" [ref=e971] [cursor=pointer]:
+        - /url: "#"
+    - generic [ref=e976]:
+      - text: 
+      - paragraph [ref=e977]: هیچ محصولی در سبد خرید نیست.
+      - link "بازگشت به فروشگاه" [ref=e978] [cursor=pointer]:
+        - /url: https://staransar.ir/shop/
+  - generic [ref=e980]:
+    - generic [ref=e981]:
+      - heading "ورود" [level=3] [ref=e982]
+      - link " بستن" [ref=e984] [cursor=pointer]:
+        - /url: "#"
+    - generic [ref=e985]:
+      - text: 
+      - paragraph [ref=e986]: هنوز حساب کاربری ندارید؟
+      - link "ایجاد حساب کاربری" [ref=e987] [cursor=pointer]:
+        - /url: https://staransar.ir/my-account/?action=register
+  - text:    
+  - generic [ref=e988]: widescreen
+```
+### Events
+- New console entries: .playwright-cli/console-2026-09-01T08-14-24-214Z.log#L7-L9

@@ -1,0 +1,295 @@
+### Page
+- Page URL: https://avval.ir/profile/f16e4/%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%B1%DB%8C%D8%A7%D8%AD%DB%8C
+- Page Title: بازرگانی ریاحی - تولید مواد اولیه دارو | کتاب اول
+- Console: 4 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - link "home page" [ref=e5] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - textbox "فعالیت شغلی، نام کسب و کار، خدمات و محصولات و ..." [ref=e11]
+            - generic [ref=e12]: در
+            - generic [ref=e13]:
+              - textbox "شهر، محله، منطقه، خیابان و ..." [ref=e14]
+              - button "جستجو بر اساس موقعیت مکانی" [ref=e16] [cursor=pointer]
+            - button "جستجو" [ref=e19] [cursor=pointer]
+          - list
+      - link "ثبت رایگان اطلاعات شغلی" [ref=e23] [cursor=pointer]:
+        - /url: /%D8%AB%D8%A8%D8%AA-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D8%B4%D8%BA%D9%84%DB%8C
+      - button "ورود | ثبت نام" [ref=e26] [cursor=pointer]
+    - navigation [ref=e30]:
+      - list [ref=e31]:
+        - listitem [ref=e32]:
+          - button "دسته بندی مشاغل" [ref=e33] [cursor=pointer]
+        - listitem [ref=e35]: "|"
+        - listitem [ref=e36]:
+          - link "تبلیغات با ما" [ref=e37] [cursor=pointer]:
+            - /url: /%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-%D9%88%D8%A8-%D8%B3%D8%A7%DB%8C%D8%AA-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+        - listitem [ref=e40]: "|"
+        - listitem [ref=e41]:
+          - link "دسترسی بانک مشاغل" [ref=e42] [cursor=pointer]:
+            - /url: /%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B4%D8%A7%D8%BA%D9%84-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+        - listitem [ref=e45]: "|"
+        - listitem [ref=e46]:
+          - link "پنل اس ام اس" [ref=e47] [cursor=pointer]:
+            - /url: /smspanel
+  - generic [ref=e53]:
+    - main [ref=e54]:
+      - generic [ref=e78]:
+        - heading "بازرگانی ریاحی" [level=1] [ref=e79]
+        - list [ref=e80]:
+          - listitem [ref=e81]: تولید مواد اولیه دارو
+      - generic [ref=e82]:
+        - link "تماس" [ref=e83] [cursor=pointer]:
+          - /url: tel:+982188678915~7
+        - button "ثبت نظر" [ref=e88] [cursor=pointer]
+        - button "ارتقای پروفایل" [ref=e91] [cursor=pointer]
+        - button "ویرایش" [ref=e94] [cursor=pointer]
+        - button "اشتراک گذاری" [ref=e99] [cursor=pointer]
+      - navigation [ref=e107]:
+        - list [ref=e108]:
+          - listitem [ref=e109]:
+            - link "link to home" [ref=e110] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e114]
+          - listitem [ref=e117]:
+            - link "دسته‌بندی مشاغل" [ref=e118] [cursor=pointer]:
+              - /url: /directory
+          - listitem [ref=e119]
+          - listitem [ref=e122]:
+            - link "تولید مواد اولیه دارو" [ref=e123] [cursor=pointer]:
+              - /url: /directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D9%85%D9%88%D8%A7%D8%AF-%D8%A7%D9%88%D9%84%DB%8C%D9%87-%D8%AF%D8%A7%D8%B1%D9%88
+          - listitem [ref=e124]
+          - listitem [ref=e127]:
+            - link "تهران" [ref=e128] [cursor=pointer]:
+              - /url: /directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D9%85%D9%88%D8%A7%D8%AF-%D8%A7%D9%88%D9%84%DB%8C%D9%87-%D8%AF%D8%A7%D8%B1%D9%88/%D8%AA%D9%87%D8%B1%D8%A7%D9%86
+          - listitem [ref=e129]
+          - listitem [ref=e132]:
+            - link "محله کاووسیه" [ref=e133] [cursor=pointer]:
+              - /url: /directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D9%85%D9%88%D8%A7%D8%AF-%D8%A7%D9%88%D9%84%DB%8C%D9%87-%D8%AF%D8%A7%D8%B1%D9%88/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%85%D8%AD%D9%84%D9%87-%DA%A9%D8%A7%D9%88%D9%88%D8%B3%DB%8C%D9%87
+      - generic [ref=e134]:
+        - heading "اطلاعات تماس" [level=2] [ref=e136]
+        - list [ref=e137]:
+          - listitem [ref=e138]:
+            - generic [ref=e139]: "آدرس :"
+            - generic [ref=e143]: تهران، منطقه 3، محله کاووسیه، خیابان ولی عصر، بلوار اسفندیار، پلاک 30، طبقه سوم، واحد 7
+          - listitem [ref=e144]:
+            - generic [ref=e145]: "تلفن :"
+            - button "نمایش شماره" [ref=e148] [cursor=pointer]
+            - generic [ref=e149]: XXXXXXXXXX
+          - listitem [ref=e150]:
+            - generic [ref=e151]: وب سایت
+            - link "mahbangroup.com/" [ref=e155] [cursor=pointer]:
+              - /url: http://mahbangroup.com/
+      - generic [ref=e157]:
+        - heading "توضیحات" [level=2] [ref=e159]
+        - generic [ref=e160]: بازرگانی ریاحی با بیش از چهار دهه تجربه از سال 1360 فعالیت خود را در زمینه واردات داروهای ساخته شده، مواد موثره دارویی و مواد جانبی آغاز نمود. این شرکت نمایندگی انحصاری بسیاری از شرکت های معتبر آمریکایی، اروپایی و آسیایی را در ایران به عهده دارد. لازم بذکر است اکثر محصولات شرکت های مذکور دارای گواهی های FDA، CEP و سایر گواهی های معتبر بین المللی بوده که در سازمان غذا و دارو به ثبت رسیده اند. بازرگانی ریاحی با تجربه ای طولانی در امر خدمت رسانی به کلیه شرکت های دارویی، مشاوره و انتخاب بهترین منابع تامین کننده داروهای ساخته شده، مواد موثره دارویی و مواد جانبی موفق به کسب حداکثر سهم بازار در ایران گردیده است.
+      - generic [ref=e161]:
+        - heading "نظرات" [level=2] [ref=e163]
+        - generic [ref=e164]:
+          - paragraph [ref=e165]: لطفا به این کسب و کار امتیاز بدید و نظر خودتون رو درباره این کسب و کار بنویسید
+          - generic [ref=e166]:
+            - generic [ref=e169]:
+              - generic [ref=e170]: بدون رای
+              - generic "بدون رای" [ref=e172] [cursor=pointer]:
+                - textbox "امتیاز شما برای این کسب و کار" [ref=e204]
+            - generic [ref=e205]:
+              - generic [ref=e206]: حداکثر 2000 کاراکتر
+              - textbox "به نظر من ..." [ref=e207]
+              - button "ثبت نظر" [ref=e208] [cursor=pointer]
+          - text: ✕
+    - complementary [ref=e209]:
+      - generic [ref=e211]:
+        - generic [ref=e212]:
+          - generic:
+            - region "Map" [ref=e213]
+            - generic: برای بزرگنمایی نقشه، از ⌘ + پیمایش استفاده کنید
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e214] [cursor=pointer]
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e215] [cursor=pointer]
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e229] [cursor=pointer]
+          - generic:
+            - generic:
+              - generic [ref=e243]:
+                - button "Zoom in" [ref=e244] [cursor=pointer]
+                - button "Zoom out" [ref=e246] [cursor=pointer]
+              - button "Enter fullscreen" [ref=e249] [cursor=pointer]
+        - generic [ref=e251]:
+          - button "گوگل" [ref=e252] [cursor=pointer]
+          - button [ref=e259] [cursor=pointer]:
+            - img "بلد" [ref=e260]
+            - text: بلد
+          - button [ref=e261] [cursor=pointer]:
+            - img "نشان" [ref=e262]
+            - text: نشان
+      - list [ref=e265]:
+        - listitem [ref=e266]:
+          - paragraph [ref=e267]: نزدیک ترین ایستگاه اتوبوس به بازرگانی ریاحی
+          - link "ایستگاه اتوبوس بیمارستان قلب - کد 118 - شمال به جنوب 145 متر" [ref=e268] [cursor=pointer]:
+            - /url: /profile/31e5d/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A7%D8%AA%D9%88%D8%A8%D9%88%D8%B3-%D8%A8%DB%8C%D9%85%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D9%82%D9%84%D8%A8-%DA%A9%D8%AF-118-%D8%B4%D9%85%D8%A7%D9%84-%D8%A8%D9%87-%D8%AC%D9%86%D9%88%D8%A8
+        - listitem [ref=e279]:
+          - paragraph [ref=e280]: نزدیک ترین ایستگاه بی آر تی به بازرگانی ریاحی
+          - link "ایستگاه بی آر تی نیایش - کد 2175 85 متر" [ref=e281] [cursor=pointer]:
+            - /url: /profile/1cbd4/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A8%DB%8C-%D8%A2%D8%B1-%D8%AA%DB%8C-%D9%86%DB%8C%D8%A7%DB%8C%D8%B4-%DA%A9%D8%AF-2175
+      - generic [ref=e293]:
+        - generic [ref=e294]:
+          - generic [ref=e295]: آیا شما مالک یا مدیر این کسب و کار هستید؟
+          - button "مالک هستم" [ref=e296] [cursor=pointer]
+        - text: ✕
+      - generic [ref=e297]:
+        - heading "کسب و کارهای مشابه" [level=2] [ref=e299]
+        - navigation [ref=e300]:
+          - list [ref=e301]:
+            - listitem [ref=e302]:
+              - link "رستا فارمد پارسیان رستا فارمد پارسیان 5.0 (1 نظر) تولید مواد اولیه دارو تهران، منطقه 4، محله پاسداران - ضرابخانه، پاسداران" [ref=e303] [cursor=pointer]:
+                - /url: /profile/4333b/%D8%B1%D8%B3%D8%AA%D8%A7-%D9%81%D8%A7%D8%B1%D9%85%D8%AF-%D9%BE%D8%A7%D8%B1%D8%B3%DB%8C%D8%A7%D9%86
+                - img "رستا فارمد پارسیان" [ref=e304]
+                - generic [ref=e305]:
+                  - heading "رستا فارمد پارسیان" [level=3] [ref=e306]
+                  - generic [ref=e307]:
+                    - generic [ref=e318]: "5.0"
+                    - generic [ref=e319]: (1 نظر)
+                  - list [ref=e320]:
+                    - listitem [ref=e321]: تولید مواد اولیه دارو
+                  - generic [ref=e322]: تهران، منطقه 4، محله پاسداران - ضرابخانه، پاسداران
+            - listitem [ref=e326]:
+              - link "شرکت شیمی تبادل هادیان خمسه شرکت شیمی تبادل هادیان خمسه 4.0 (1 نظر) واردات صادرات مواد شیمیایی زنجان، شهرک صنعتی نوآوران" [ref=e327] [cursor=pointer]:
+                - /url: /profile/f0e88/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%B4%DB%8C%D9%85%DB%8C-%D8%AA%D8%A8%D8%A7%D8%AF%D9%84-%D9%87%D8%A7%D8%AF%DB%8C%D8%A7%D9%86-%D8%AE%D9%85%D8%B3%D9%87
+                - img "شرکت شیمی تبادل هادیان خمسه" [ref=e328]
+                - generic [ref=e329]:
+                  - heading "شرکت شیمی تبادل هادیان خمسه" [level=3] [ref=e330]
+                  - generic [ref=e331]:
+                    - generic [ref=e340]: "4.0"
+                    - generic [ref=e341]: (1 نظر)
+                  - list [ref=e342]:
+                    - listitem [ref=e343]: واردات صادرات مواد شیمیایی
+                  - generic [ref=e344]: زنجان، شهرک صنعتی نوآوران
+            - listitem [ref=e348]:
+              - link "کیمیا صنعت آتامان - دفتر مرکزی کیمیا صنعت آتامان - دفتر مرکزی 5.0 (1 نظر) مواد اولیه پاک کننده و شوینده تهران، منطقه 5، محله جنت آباد مرکزی، بزرگراه ستاری" [ref=e349] [cursor=pointer]:
+                - /url: /profile/25b7e/%DA%A9%DB%8C%D9%85%DB%8C%D8%A7-%D8%B5%D9%86%D8%B9%D8%AA-%D8%A2%D8%AA%D8%A7%D9%85%D8%A7%D9%86-%D8%AF%D9%81%D8%AA%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C
+                - img "کیمیا صنعت آتامان - دفتر مرکزی" [ref=e350]
+                - generic [ref=e351]:
+                  - heading "کیمیا صنعت آتامان - دفتر مرکزی" [level=3] [ref=e352]
+                  - generic [ref=e353]:
+                    - generic [ref=e364]: "5.0"
+                    - generic [ref=e365]: (1 نظر)
+                  - list [ref=e366]:
+                    - listitem [ref=e367]: مواد اولیه پاک کننده و شوینده
+                  - generic [ref=e368]: تهران، منطقه 5، محله جنت آباد مرکزی، بزرگراه ستاری
+            - listitem [ref=e372]:
+              - link "شرکت ایمن سبز صنعت پرشیا شرکت ایمن سبز صنعت پرشیا 4.0 (1 نظر) تولید مواد اولیه دارو تهران، منطقه 6، محله سنائی، خیابان بهشتی" [ref=e373] [cursor=pointer]:
+                - /url: /profile/eff5a/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A7%DB%8C%D9%85%D9%86-%D8%B3%D8%A8%D8%B2-%D8%B5%D9%86%D8%B9%D8%AA-%D9%BE%D8%B1%D8%B4%DB%8C%D8%A7
+                - img "شرکت ایمن سبز صنعت پرشیا" [ref=e374]
+                - generic [ref=e375]:
+                  - heading "شرکت ایمن سبز صنعت پرشیا" [level=3] [ref=e376]
+                  - generic [ref=e377]:
+                    - generic [ref=e386]: "4.0"
+                    - generic [ref=e387]: (1 نظر)
+                  - list [ref=e388]:
+                    - listitem [ref=e389]: تولید مواد اولیه دارو
+                  - generic [ref=e390]: تهران، منطقه 6، محله سنائی، خیابان بهشتی
+            - listitem [ref=e394]:
+              - link [ref=e395] [cursor=pointer]:
+                - /url: /profile/esp4a/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%AA%D9%88%D9%81%DB%8C%D9%82-%D8%AF%D8%A7%D8%B1%D9%88
+                - img "شرکت توفیق دارو" [ref=e396]
+                - generic [ref=e397]:
+                  - heading "شرکت توفیق دارو" [level=3] [ref=e398]
+                  - list [ref=e399]:
+                    - listitem [ref=e400]: تولید مواد اولیه دارو
+                  - generic [ref=e401]: تهران، منطقه 21، محله ورد آورد، بزرگراه لشگری
+            - listitem [ref=e405]:
+              - link "شرکت سیناژن - کارخانه شرکت سیناژن - کارخانه 3.3 (3 نظر) داروسازی تولید مواد اولیه دارو البرز، کرج، شهرک صنعتی سیمین دشت، بین خیابان پنجم و ششم غربی" [ref=e406] [cursor=pointer]:
+                - /url: /profile/5vyjh/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%B3%DB%8C%D9%86%D8%A7%DA%98%D9%86-%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87
+                - img "شرکت سیناژن - کارخانه" [ref=e407]
+                - generic [ref=e408]:
+                  - heading "شرکت سیناژن - کارخانه" [level=3] [ref=e409]
+                  - generic [ref=e410]:
+                    - generic [ref=e417]: "3.3"
+                    - generic [ref=e418]: (3 نظر)
+                  - list [ref=e419]:
+                    - listitem [ref=e420]: داروسازی
+                    - listitem [ref=e421]: تولید مواد اولیه دارو
+                  - generic [ref=e422]: البرز، کرج، شهرک صنعتی سیمین دشت، بین خیابان پنجم و ششم غربی
+            - listitem [ref=e426]:
+              - link [ref=e427] [cursor=pointer]:
+                - /url: /profile/73f3b/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%AE%D8%A7%DA%A9%D8%B3%D8%A7%D8%B1-%D8%B4%DB%8C%D9%85%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%D8%A7%D9%86
+                - img "شرکت خاکسار شیمی ایرانیان" [ref=e428]
+                - generic [ref=e429]:
+                  - heading "شرکت خاکسار شیمی ایرانیان" [level=3] [ref=e430]
+                  - list [ref=e431]:
+                    - listitem [ref=e432]: تولید مواد اولیه دارو
+                  - generic [ref=e433]: تهران، منطقه 6، محله سنائی، خیابان مطهری
+    - text: ✕ ✕
+  - contentinfo [ref=e437]:
+    - generic [ref=e438]:
+      - generic [ref=e439]:
+        - link "home page" [ref=e440] [cursor=pointer]:
+          - /url: /
+        - list [ref=e443]:
+          - listitem [ref=e444]:
+            - link "Telegram" [ref=e445] [cursor=pointer]:
+              - /url: https://t.me/avval_ir
+          - listitem [ref=e451]:
+            - link "instagram" [ref=e452] [cursor=pointer]:
+              - /url: https://instagram.com/ketabeavval.officialpage
+          - listitem [ref=e457]:
+            - link "Twitter" [ref=e458] [cursor=pointer]:
+              - /url: https://twitter.com/ketabeavvalir
+          - listitem [ref=e462]:
+            - link "Facebook" [ref=e463] [cursor=pointer]:
+              - /url: https://www.facebook.com/avval/
+          - listitem [ref=e467]:
+            - link "Linkedin" [ref=e468] [cursor=pointer]:
+              - /url: https://linkedin.com/company/ketabeavval/
+      - navigation [ref=e473]:
+        - generic [ref=e474]:
+          - generic [ref=e475]: درباره کتاب اول
+          - list [ref=e476]:
+            - listitem [ref=e477]:
+              - link "درباره کتاب اول" [ref=e478] [cursor=pointer]:
+                - /url: /about-ketabeavval
+            - listitem [ref=e479]:
+              - link "تماس با کتاب اول" [ref=e480] [cursor=pointer]:
+                - /url: /contact-us
+            - listitem [ref=e481]:
+              - link "شرایط استفاده" [ref=e482] [cursor=pointer]:
+                - /url: /terms-conditions
+            - listitem [ref=e483]:
+              - link "حریم شخضی" [ref=e484] [cursor=pointer]:
+                - /url: /privacy-policy
+        - generic [ref=e485]:
+          - generic [ref=e486]: کشف کنید
+          - list [ref=e487]:
+            - listitem [ref=e488]:
+              - link "دسته بندی مشاغل" [ref=e489] [cursor=pointer]:
+                - /url: /directory
+            - listitem [ref=e490]:
+              - link "نقشه سایت" [ref=e491] [cursor=pointer]:
+                - /url: /sitemap
+            - listitem [ref=e492]:
+              - link "دسترسی بانک مشاغل کتاب اول" [ref=e493] [cursor=pointer]:
+                - /url: /%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B4%D8%A7%D8%BA%D9%84-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+            - listitem [ref=e494]:
+              - link "پنل اس ام اس" [ref=e495] [cursor=pointer]:
+                - /url: /smspanel
+        - generic [ref=e496]:
+          - generic [ref=e497]: صاحبین مشاغل در کتاب اول
+          - list [ref=e498]:
+            - listitem [ref=e499]:
+              - link "ثبت اطلاعات شغلی" [ref=e500] [cursor=pointer]:
+                - /url: /%D8%AB%D8%A8%D8%AA-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D8%B4%D8%BA%D9%84%DB%8C
+            - listitem [ref=e501]:
+              - link "تبلیغات با کتاب اول" [ref=e502] [cursor=pointer]:
+                - /url: /%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-%D9%88%D8%A8-%D8%B3%D8%A7%DB%8C%D8%AA-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+    - generic [ref=e503]:
+      - img "samandehi logo" [ref=e505] [cursor=pointer]
+      - link "enamad logo" [ref=e507] [cursor=pointer]:
+        - /url: https://trustseal.enamad.ir/?id=194990&Code=3Y0m3d1djm9fuqjoC8mT
+        - img "logo-enamad" [ref=e508]
+    - generic [ref=e509]: 1373-1403 © تمامی حقوق برای شرکت کتاب اول محفوظ است
+  - text: ✕ *
+```

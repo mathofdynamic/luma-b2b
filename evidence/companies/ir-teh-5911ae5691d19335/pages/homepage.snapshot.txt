@@ -1,0 +1,1095 @@
+### Page
+- Page URL: https://iluxbox.com/
+- Page Title: فروشگاه ظروف چوبی پذیرایی و جعبه های چوبی، مقوایی (هاردباکس) کادو، هدیه
+- Console: 1 errors, 1 warnings
+### Snapshot
+```yaml
+- generic [active]:
+  - banner [ref=e1]:
+    - generic:
+      - generic:
+        - generic [ref=e2]:
+          - generic [ref=e3]:
+            - generic:
+              - link [ref=e6] [cursor=pointer]:
+                - /url: https://iluxbox.com
+                - img "لوکس باکس" [ref=e7]
+              - generic [ref=e11]:
+                - searchbox "برای جستجوی محصول تایپ کنید…" [ref=e12]
+                - generic [ref=e13]:
+                  - button "" [ref=e14] [cursor=pointer]
+                  - generic [ref=e17] [cursor=pointer]:
+                    - text: جستجوی دسته‌بندی
+                    - list:
+                      - listitem: جستجوی دسته‌بندی
+                      - listitem: همه دسته ها
+                      - listitem: قیمت جعبه ساعت و جواهرات
+                      - listitem: جعبه های شیشه ای
+                      - listitem: قیمت خرید سفارش سینی چوبی سرو و پذیرایی
+                      - listitem: جعبه قاشق و چنگال
+                      - listitem: قیمت جعبه کادویی مقوایی چوبی سفارش عمده تک
+                      - listitem: قیمت سفارش خرید جعبه دمنوش و پذیرایی
+                      - listitem: قیمت سفارش خرید جعبه آجیل و خشکبار
+                      - listitem: خرید قیمت سفارش ظروف چوبی و اکسسوری
+                      - listitem: خرید قیمت سفارش جعبه وارمردار پذیرایی
+                      - listitem: محصولات لوکس باکس
+                      - listitem: متفرقه
+                      - listitem: هارد باکس تولید سفارش عمده قیمت خرید جعبه هاردباکس آماده
+                      - listitem: هدیه تبلیغاتی سازمانی
+                      - listitem: قوطی مقوایی استوانه تولید سفارش عمده قیمت خرید انواع قوطی مقوایی آماده
+                      - listitem: سفارش و قیمت خرید تولید جعبه عطر ادکلن پرفیوم سفارشی
+                      - listitem: قیمت،خرید،سفارش تک و عمده جعبه چوبی لیزر کات
+                      - listitem: سفارش قیمت خرید جعبه مقوایی
+                  - text: 
+          - generic [ref=e21] [cursor=pointer]:
+            - link "ورود" [ref=e22]:
+              - /url: https://iluxbox.com/login
+            - text: /
+            - link "ثبت نام" [ref=e23]:
+              - /url: https://iluxbox.com/register
+        - navigation [ref=e24]:
+          - list [ref=e27]:
+            - listitem [ref=e28]:
+              - link "جعبه کادویی مقوایی چوبی" [ref=e29] [cursor=pointer]:
+                - /url: https://iluxbox.com/products/category/Wooden-gift-box
+            - listitem [ref=e30]:
+              - link "جعبه آجیل خشکبار" [ref=e31] [cursor=pointer]:
+                - /url: https://iluxbox.com/products/category/nuts-box
+            - listitem [ref=e32]:
+              - link "جعبه دمنوش و پذیرایی" [ref=e33] [cursor=pointer]:
+                - /url: https://iluxbox.com/products/category/Herbal-and-tea-box
+            - listitem [ref=e34]:
+              - link "جعبه وارمردار" [ref=e35] [cursor=pointer]:
+                - /url: https://iluxbox.com/products/category/Warmer-box
+            - listitem [ref=e36]:
+              - link "جعبه هارد باکس" [ref=e37] [cursor=pointer]:
+                - /url: https://iluxbox.com/products/category/hard%20box
+            - listitem [ref=e38]:
+              - link "جعبه عطر ادکلن پرفیوم" [ref=e39] [cursor=pointer]:
+                - /url: https://iluxbox.com/products/category/perfume-box
+            - listitem [ref=e40]:
+              - link "قوطی مقوایی" [ref=e41] [cursor=pointer]:
+                - /url: https://iluxbox.com/products/category/paper-can
+            - listitem [ref=e42]:
+              - link "ظروف چوبی اکسسوری" [ref=e43] [cursor=pointer]:
+                - /url: https://iluxbox.com/products/category/tissue-box
+            - listitem [ref=e44]:
+              - link "جعبه ساعت جواهرات" [ref=e45] [cursor=pointer]:
+                - /url: https://iluxbox.com/products/category/Watch-and-jewelry-box
+            - listitem [ref=e46]:
+              - link "سینی سرو و پذیرایی چوبی" [ref=e47] [cursor=pointer]:
+                - /url: https://iluxbox.com/products/category/serving-trays
+            - listitem [ref=e48]:
+              - link "هدیه تبلیغاتی سازمانی" [ref=e49] [cursor=pointer]:
+                - /url: https://iluxbox.com/products/category/Corporate%20promotional%20gifts
+            - listitem [ref=e50]:
+              - link "جعبه چوبی لیزر کات" [ref=e51] [cursor=pointer]:
+                - /url: https://iluxbox.com/products/category/laser%20cut%20wooden%20boxes
+            - listitem [ref=e52]:
+              - link "وبلاگ" [ref=e53] [cursor=pointer]:
+                - /url: https://iluxbox.com/blog
+            - link " سبد خرید 0 تومان 0" [ref=e56] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e57]: 
+              - generic [ref=e59]: سبد خرید
+              - generic [ref=e60]: 0 تومان
+              - generic [ref=e61]: "0"
+        - navigation [ref=e62]:
+          - link [ref=e66] [cursor=pointer]:
+            - /url: "#"
+            - img "logo-icon" [ref=e67]
+          - list [ref=e68]:
+            - listitem [ref=e69]:
+              - link "جعبه کادویی مقوایی چوبی" [ref=e70] [cursor=pointer]:
+                - /url: https://iluxbox.com/products/category/Wooden-gift-box
+            - listitem [ref=e71]:
+              - link "جعبه آجیل خشکبار" [ref=e72] [cursor=pointer]:
+                - /url: https://iluxbox.com/products/category/nuts-box
+            - listitem [ref=e73]:
+              - link "جعبه دمنوش و پذیرایی" [ref=e74] [cursor=pointer]:
+                - /url: https://iluxbox.com/products/category/Herbal-and-tea-box
+            - listitem [ref=e75]:
+              - link "جعبه وارمردار" [ref=e76] [cursor=pointer]:
+                - /url: https://iluxbox.com/products/category/Warmer-box
+            - listitem [ref=e77]:
+              - link "جعبه هارد باکس" [ref=e78] [cursor=pointer]:
+                - /url: https://iluxbox.com/products/category/hard%20box
+            - listitem [ref=e79]:
+              - link "جعبه عطر ادکلن پرفیوم" [ref=e80] [cursor=pointer]:
+                - /url: https://iluxbox.com/products/category/perfume-box
+            - listitem [ref=e81]:
+              - link "قوطی مقوایی" [ref=e82] [cursor=pointer]:
+                - /url: https://iluxbox.com/products/category/paper-can
+            - listitem [ref=e83]:
+              - link "ظروف چوبی اکسسوری" [ref=e84] [cursor=pointer]:
+                - /url: https://iluxbox.com/products/category/tissue-box
+            - listitem [ref=e85]:
+              - link "جعبه ساعت جواهرات" [ref=e86] [cursor=pointer]:
+                - /url: https://iluxbox.com/products/category/Watch-and-jewelry-box
+            - listitem [ref=e87]:
+              - link "سینی سرو و پذیرایی چوبی" [ref=e88] [cursor=pointer]:
+                - /url: https://iluxbox.com/products/category/serving-trays
+            - listitem [ref=e89]:
+              - link "هدیه تبلیغاتی سازمانی" [ref=e90] [cursor=pointer]:
+                - /url: https://iluxbox.com/products/category/Corporate%20promotional%20gifts
+            - listitem [ref=e91]:
+              - link "جعبه چوبی لیزر کات" [ref=e92] [cursor=pointer]:
+                - /url: https://iluxbox.com/products/category/laser%20cut%20wooden%20boxes
+            - listitem [ref=e93]:
+              - link "وبلاگ" [ref=e94] [cursor=pointer]:
+                - /url: https://iluxbox.com/blog
+  - generic:
+    - generic:
+      - generic [ref=e97] [cursor=pointer]:
+        - list [ref=e98]:
+          - listitem [ref=e99]
+          - listitem [ref=e100]
+          - listitem [ref=e101]
+          - listitem [ref=e102]
+          - listitem [ref=e103]
+        - link [ref=e106]:
+          - /url: https://iluxbox.com/
+          - img "..." [ref=e107]
+        - button "Previous" [ref=e108]:
+          - generic [ref=e109]: 
+        - button "Next" [ref=e111]:
+          - generic [ref=e112]: 
+      - generic [ref=e114]:
+        - generic:
+          - link:
+            - /url: https://iluxbox.com/product/621
+            - generic [ref=e115] [cursor=pointer]
+          - link:
+            - /url: https://iluxbox.com/product/609
+            - generic [ref=e117] [cursor=pointer]
+      - generic [ref=e119]:
+        - generic:
+          - link:
+            - /url: https://iluxbox.com/products/category/hard%20box
+            - generic [ref=e120] [cursor=pointer]
+      - generic [ref=e125]:
+        - list [ref=e126]:
+          - listitem [ref=e127] [cursor=pointer]:
+            - heading "جعبه دمنوش پذیرایی چای کیسه ای تی بگ چوبی لوکس باکس کد LB18-1" [level=3] [ref=e129]
+          - listitem [ref=e130] [cursor=pointer]:
+            - heading "سینی سرو و پذیرایی چوبی آجیل و خشکبار لوکس باکس کدLB400" [level=3] [ref=e132]
+          - listitem [ref=e133] [cursor=pointer]:
+            - heading "کاسه چوبی خراطی گردو مدل لبه گرد لوکس باکس کد LBL468" [level=3] [ref=e135]
+          - listitem [ref=e136] [cursor=pointer]:
+            - heading "سینی پذیرایی چوبی لوکس باکس کد LBL501" [level=3] [ref=e138]
+          - listitem [ref=e139] [cursor=pointer]:
+            - heading "جعبه ادویه چوبی لوکس باکس همراه با 6 عدد شیشه کد LB117" [level=3] [ref=e141]
+          - listitem [ref=e142] [cursor=pointer]:
+            - heading "جعبه پذیرایی آجیل و خشکبار چوبی لوکس باکس کد LB23-1" [level=3] [ref=e144]
+          - listitem [ref=e145] [cursor=pointer]:
+            - heading "جعبه وارمردار دمنوش تی بگ کافی میکس لوکس باکس کد LB113-11" [level=3] [ref=e147]
+          - listitem [ref=e148] [cursor=pointer]:
+            - heading "جعبه گل هدیه کادو چوبی لوکس باکس کد LB271" [level=3] [ref=e150]
+        - generic [ref=e151]:
+          - generic [ref=e153]:
+            - link [ref=e155] [cursor=pointer]:
+              - /url: https://iluxbox.com/product/111
+              - img "جعبه دمنوش پذیرایی چای کیسه ای تی بگ چوبی لوکس باکس کد LB18-1" [ref=e156]
+            - generic [ref=e157]:
+              - generic [ref=e158]:
+                - text: 
+                - generic [ref=e159]:
+                  - text: "3"
+                  - generic [ref=e160]: 
+              - heading [level=3] [ref=e161]:
+                - 'link "جعبه دمنوش پذیرایی چای کیسه ای تی بگ چوبی لوکس باکس کد LB18-1 کد محصول: LB18-1" [ref=e162] [cursor=pointer]':
+                  - /url: https://iluxbox.com/product/111
+              - generic [ref=e163]:
+                - deletion [ref=e164]:
+                  - generic [ref=e165]: 575,000تومان
+                - insertion [ref=e166]:
+                  - generic [ref=e167]: 555,000تومان
+              - list [ref=e168]:
+                - listitem [ref=e169]:
+                  - generic [ref=e170]: 
+                  - text: "ابعاد : 5 * 18 * 18"
+                - listitem [ref=e171]:
+                  - generic [ref=e172]: 
+                  - text: "ظرفیت : 300 الی 500 گرم انواع خشکبار و تنقلات"
+                - listitem [ref=e173]:
+                  - generic [ref=e174]: 
+                  - text: "جنس : ام دی اف"
+                - listitem [ref=e175]:
+                  - generic [ref=e176]: 
+                  - text: "یراق آلات : ندارد"
+              - generic [ref=e178]:
+                - generic [ref=e179]:
+                  - generic [ref=e180]: "00"
+                  - generic [ref=e181]: روز
+                - generic [ref=e182]:
+                  - generic [ref=e183]: "00"
+                  - generic [ref=e184]: ساعت
+                - generic [ref=e185]:
+                  - generic [ref=e186]: "00"
+                  - generic [ref=e187]: دقیقه
+                - generic [ref=e188]:
+                  - generic [ref=e189]: "00"
+                  - generic [ref=e190]: ثانیه
+          - text:                                        
+  - generic [ref=e191]:
+    - link [ref=e193] [cursor=pointer]:
+      - /url: https://iluxbox.com/products/category/tissue-box
+    - generic [ref=e196]:
+      - link:
+        - /url: https://iluxbox.com/products/category/Herbal-and-tea-box
+        - generic [ref=e197] [cursor=pointer]
+    - generic [ref=e199]:
+      - link:
+        - /url: https://iluxbox.com/product/582
+        - generic [ref=e200] [cursor=pointer]
+    - generic [ref=e202]:
+      - link:
+        - /url: https://iluxbox.com/product/369
+        - generic [ref=e203] [cursor=pointer]
+  - generic:
+    - generic:
+      - generic [ref=e207]:
+        - banner [ref=e208]:
+          - generic [ref=e209]: خرید قیمت سفارش ظروف چوبی و اکسسوری
+          - heading [level=3]
+        - generic [ref=e210]:
+          - generic [ref=e212]:
+            - generic [ref=e214]:
+              - link [ref=e215] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/569
+                - img "سطل زباله چوبی دسته دار فانتزی مدل پایه دار لوکس باکس کد LB850" [ref=e216]
+              - heading [level=3] [ref=e217]:
+                - link [ref=e218] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/569
+                  - heading "سطل زباله چوبی دسته دار فانتزی مدل پایه دار لوکس باکس کد LB850" [level=3] [ref=e219]
+              - generic [ref=e220] [cursor=pointer]:
+                - deletion [ref=e221]:
+                  - generic [ref=e222]: 2,115,000تومان
+                - insertion [ref=e223]:
+                  - generic [ref=e224]: 2,115,000تومان
+            - generic [ref=e226]:
+              - link [ref=e227] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/375
+                - img "جعبه دستمال کاغذی چوبی دورنگ لوکس باکس کد LB832" [ref=e228]
+              - heading [level=3] [ref=e229]:
+                - link [ref=e230] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/375
+                  - heading "جعبه دستمال کاغذی چوبی دورنگ لوکس باکس کد LB832" [level=3] [ref=e231]
+              - generic [ref=e232] [cursor=pointer]:
+                - deletion [ref=e233]:
+                  - generic [ref=e234]: 1,455,000تومان
+                - insertion [ref=e235]:
+                  - generic [ref=e236]: 1,455,000تومان
+            - generic [ref=e238]:
+              - link [ref=e239] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/926
+                - img "ست جعبه دستمال کاغذی و سطل آشغال چوبی اقتصادی لوکس باکس کد LBS833-WP" [ref=e240]
+              - heading [level=3] [ref=e241]:
+                - link [ref=e242] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/926
+                  - heading "ست جعبه دستمال کاغذی و سطل آشغال چوبی اقتصادی لوکس باکس کد LBS833-WP" [level=3] [ref=e243]
+              - generic [ref=e244] [cursor=pointer]:
+                - deletion [ref=e245]:
+                  - generic [ref=e246]: 1,955,000تومان
+                - insertion [ref=e247]:
+                  - generic [ref=e248]: 1,955,000تومان
+            - generic [ref=e250]:
+              - link [ref=e251] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/373
+                - img "جعبه دستمال کاغذی چوبی طرح ساده لوکس باکس کد LB830" [ref=e252]
+              - heading [level=3] [ref=e253]:
+                - link [ref=e254] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/373
+                  - heading "جعبه دستمال کاغذی چوبی طرح ساده لوکس باکس کد LB830" [level=3] [ref=e255]
+              - generic [ref=e256] [cursor=pointer]:
+                - deletion [ref=e257]:
+                  - generic [ref=e258]: 1,455,000تومان
+                - insertion [ref=e259]:
+                  - generic [ref=e260]: 1,455,000تومان
+            - generic [ref=e262]:
+              - link [ref=e263] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/374
+                - img "جعبه دستمال کاغذی چوبی مدل سنتی لوکس باکس طرح فیروزه کد LB831" [ref=e264]
+              - heading [level=3] [ref=e265]:
+                - link [ref=e266] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/374
+                  - heading "جعبه دستمال کاغذی چوبی مدل سنتی لوکس باکس طرح فیروزه کد LB831" [level=3] [ref=e267]
+              - generic [ref=e268] [cursor=pointer]:
+                - deletion [ref=e269]:
+                  - generic [ref=e270]: 1,455,000تومان
+                - insertion [ref=e271]:
+                  - generic [ref=e272]: 1,455,000تومان
+            - generic [ref=e274]:
+              - link [ref=e275] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/795
+                - img "کاسه چوبی خراطی گردو مدل لبه گرد لوکس باکس کد LBL468" [ref=e276]
+              - heading [level=3] [ref=e277]:
+                - link [ref=e278] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/795
+                  - heading "کاسه چوبی خراطی گردو مدل لبه گرد لوکس باکس کد LBL468" [level=3] [ref=e279]
+              - generic [ref=e280] [cursor=pointer]:
+                - deletion [ref=e281]:
+                  - generic [ref=e282]: 645,000تومان
+                - insertion [ref=e283]:
+                  - generic [ref=e284]: 615,000تومان
+            - generic [ref=e286]:
+              - link [ref=e287] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/1588
+                - img "سطل زباله چوبی مدل دسته دار لوکس باکس کد LB851-H" [ref=e288]
+              - heading [level=3] [ref=e289]:
+                - link [ref=e290] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/1588
+                  - heading "سطل زباله چوبی مدل دسته دار لوکس باکس کد LB851-H" [level=3] [ref=e291]
+              - generic [ref=e292] [cursor=pointer]:
+                - deletion [ref=e293]:
+                  - generic [ref=e294]: 641,000تومان
+                - insertion [ref=e295]:
+                  - generic [ref=e296]: 641,000تومان
+            - generic [ref=e298]:
+              - link [ref=e299] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/1587
+                - img "جعبه چوبی دستمال کاغذی لوکس باکس کد LB837-H" [ref=e300]
+              - heading [level=3] [ref=e301]:
+                - link [ref=e302] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/1587
+                  - heading "جعبه چوبی دستمال کاغذی لوکس باکس کد LB837-H" [level=3] [ref=e303]
+              - generic [ref=e304] [cursor=pointer]:
+                - deletion [ref=e305]:
+                  - generic [ref=e306]: 351,000تومان
+                - insertion [ref=e307]:
+                  - generic [ref=e308]: 351,000تومان
+          - generic:
+            - button "" [ref=e309]
+            - button "" [ref=e311] [cursor=pointer]
+          - generic:
+            - button "" [ref=e313]
+            - button "" [ref=e315] [cursor=pointer]
+      - generic [ref=e319]:
+        - banner [ref=e320]:
+          - heading "پیشنهاد لحظه‌ای" [level=3] [ref=e321]
+        - generic [ref=e324]:
+          - generic [ref=e326]:
+            - link [ref=e327] [cursor=pointer]:
+              - /url: https://iluxbox.com/product/115
+              - img "جعبه گل هدیه کادو چوبی لوکس باکس کد LB202" [ref=e328]
+            - heading [level=3] [ref=e329]:
+              - link [ref=e330] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/115
+                - heading "جعبه گل هدیه کادو چوبی لوکس باکس کد LB202" [level=3] [ref=e331]
+            - generic [ref=e332]: 180,600 تومان
+          - generic [ref=e335]:
+            - link [ref=e336] [cursor=pointer]:
+              - /url: https://iluxbox.com/product/121
+              - img "جعبه گل هدیه کادو ولنتاین لوکس باکس کد LB221" [ref=e337]
+            - heading [level=3] [ref=e338]:
+              - link [ref=e339] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/121
+                - heading "جعبه گل هدیه کادو ولنتاین لوکس باکس کد LB221" [level=3] [ref=e340]
+            - generic [ref=e341]: 661,000 تومان
+          - generic [ref=e344]:
+            - link [ref=e345] [cursor=pointer]:
+              - /url: https://iluxbox.com/product/115
+              - img "جعبه گل هدیه کادو چوبی لوکس باکس کد LB202" [ref=e346]
+            - heading [level=3] [ref=e347]:
+              - link [ref=e348] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/115
+                - heading "جعبه گل هدیه کادو چوبی لوکس باکس کد LB202" [level=3] [ref=e349]
+            - generic [ref=e350]: 180,600 تومان
+          - generic [ref=e353]:
+            - link [ref=e354] [cursor=pointer]:
+              - /url: https://iluxbox.com/product/121
+              - img "جعبه گل هدیه کادو ولنتاین لوکس باکس کد LB221" [ref=e355]
+            - heading [level=3] [ref=e356]:
+              - link [ref=e357] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/121
+                - heading "جعبه گل هدیه کادو ولنتاین لوکس باکس کد LB221" [level=3] [ref=e358]
+            - generic [ref=e359]: 661,000 تومان
+      - generic [ref=e365]:
+        - banner [ref=e366]:
+          - generic [ref=e367]: قیمت سفارش خرید جعبه آجیل و خشکبار
+          - heading [level=3]
+        - generic [ref=e368]:
+          - generic [ref=e370]:
+            - generic [ref=e372]:
+              - link [ref=e373] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/275
+                - img "جعبه پذیرایی آجیل و خشکبار چوبی لوکس باکس کد LB320-0" [ref=e374]
+              - heading [level=3] [ref=e375]:
+                - link [ref=e376] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/275
+                  - heading "جعبه پذیرایی آجیل و خشکبار چوبی لوکس باکس کد LB320-0" [level=3] [ref=e377]
+              - generic [ref=e378] [cursor=pointer]:
+                - deletion [ref=e379]:
+                  - generic [ref=e380]: 785,000تومان
+                - insertion [ref=e381]:
+                  - generic [ref=e382]: 785,000تومان
+            - generic [ref=e384]:
+              - link [ref=e385] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/276
+                - img "جعبه پذیرایی آجیل و خشکبار چوبی لوکس باکس کد LB320-1" [ref=e386]
+              - heading [level=3] [ref=e387]:
+                - link [ref=e388] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/276
+                  - heading "جعبه پذیرایی آجیل و خشکبار چوبی لوکس باکس کد LB320-1" [level=3] [ref=e389]
+              - generic [ref=e390] [cursor=pointer]:
+                - deletion [ref=e391]:
+                  - generic [ref=e392]: 785,000تومان
+                - insertion [ref=e393]:
+                  - generic [ref=e394]: 785,000تومان
+            - generic [ref=e396]:
+              - link [ref=e397] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/31
+                - img "جعبه آجیل خشکبار پذیرایی چوبی لوکس باکس کد LB131" [ref=e398]
+              - heading [level=3] [ref=e399]:
+                - link [ref=e400] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/31
+                  - heading "جعبه آجیل خشکبار پذیرایی چوبی لوکس باکس کد LB131" [level=3] [ref=e401]
+              - generic [ref=e402] [cursor=pointer]:
+                - deletion [ref=e403]:
+                  - generic [ref=e404]: 1,795,000تومان
+                - insertion [ref=e405]:
+                  - generic [ref=e406]: 1,795,000تومان
+            - generic [ref=e408]:
+              - link [ref=e409] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/57
+                - img "جعبه چوبی پذیرایی آجیل و خشکبار لوکس باکس کد LB136" [ref=e410]
+              - heading [level=3] [ref=e411]:
+                - link [ref=e412] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/57
+                  - heading "جعبه چوبی پذیرایی آجیل و خشکبار لوکس باکس کد LB136" [level=3] [ref=e413]
+              - generic [ref=e414] [cursor=pointer]:
+                - deletion [ref=e415]:
+                  - generic [ref=e416]: 2,185,000تومان
+                - insertion [ref=e417]:
+                  - generic [ref=e418]: 2,185,000تومان
+            - generic [ref=e420]:
+              - link [ref=e421] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/322
+                - img "جعبه آجیل خشکبار پذیرایی چوبی لوکس باکس کد LB321" [ref=e422]
+              - heading [level=3] [ref=e423]:
+                - link [ref=e424] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/322
+                  - heading "جعبه آجیل خشکبار پذیرایی چوبی لوکس باکس کد LB321" [level=3] [ref=e425]
+              - generic [ref=e426] [cursor=pointer]:
+                - deletion [ref=e427]:
+                  - generic [ref=e428]: 2,215,000تومان
+                - insertion [ref=e429]:
+                  - generic [ref=e430]: 2,215,000تومان
+            - generic [ref=e432]:
+              - link [ref=e433] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/62
+                - img "جعبه نفیس آجیل خشکبار پذیرایی چوبی لوکس باکس کد LB102-B" [ref=e434]
+              - heading [level=3] [ref=e435]:
+                - link [ref=e436] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/62
+                  - heading "جعبه نفیس آجیل خشکبار پذیرایی چوبی لوکس باکس کد LB102-B" [level=3] [ref=e437]
+              - generic [ref=e438] [cursor=pointer]:
+                - deletion [ref=e439]:
+                  - generic [ref=e440]: 2,856,000تومان
+                - insertion [ref=e441]:
+                  - generic [ref=e442]: 2,856,000تومان
+            - generic [ref=e444]:
+              - link [ref=e445] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/26
+                - img "جعبه آجیل خشکبار پذیرایی چوبی لوکس باکس کد LB110-LM" [ref=e446]
+              - heading [level=3] [ref=e447]:
+                - link [ref=e448] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/26
+                  - heading "جعبه آجیل خشکبار پذیرایی چوبی لوکس باکس کد LB110-LM" [level=3] [ref=e449]
+              - generic [ref=e450] [cursor=pointer]:
+                - deletion [ref=e451]:
+                  - generic [ref=e452]: 2,710,000تومان
+                - insertion [ref=e453]:
+                  - generic [ref=e454]: 2,710,000تومان
+            - generic [ref=e456]:
+              - link [ref=e457] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/547
+                - img "جعبه آجیل پذیرایی پی وی سی (PVC) لوکس باکس کد LB658" [ref=e458]
+              - heading [level=3] [ref=e459]:
+                - link [ref=e460] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/547
+                  - heading "جعبه آجیل پذیرایی پی وی سی (PVC) لوکس باکس کد LB658" [level=3] [ref=e461]
+              - generic [ref=e462] [cursor=pointer]:
+                - deletion [ref=e463]:
+                  - generic [ref=e464]: 1,135,000تومان
+                - insertion [ref=e465]:
+                  - generic [ref=e466]: 1,135,000تومان
+          - generic:
+            - button "" [ref=e467]
+            - button "" [ref=e469] [cursor=pointer]
+          - generic:
+            - button "" [ref=e471]
+            - button "" [ref=e473] [cursor=pointer]
+      - generic [ref=e476]:
+        - link [ref=e478] [cursor=pointer]:
+          - /url: https://iluxbox.com/product/375
+        - link [ref=e482] [cursor=pointer]:
+          - /url: https://iluxbox.com/product/574
+        - link [ref=e486] [cursor=pointer]:
+          - /url: https://iluxbox.com/products/category/hard%20box
+        - link [ref=e490] [cursor=pointer]:
+          - /url: https://iluxbox.com/products/category/serving-trays
+      - generic [ref=e495]:
+        - banner [ref=e496]:
+          - generic [ref=e497]: قیمت سفارش خرید جعبه دمنوش و پذیرایی
+          - heading [level=3]
+        - generic [ref=e498]:
+          - generic [ref=e500]:
+            - generic [ref=e502]:
+              - link [ref=e503] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/932
+                - img "ست جعبه نظم دهنده 3 تکه لوکس باکس LB835" [ref=e504]
+              - heading [level=3] [ref=e505]:
+                - link [ref=e506] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/932
+                  - heading "ست جعبه نظم دهنده 3 تکه لوکس باکس LB835" [level=3] [ref=e507]
+              - generic [ref=e508] [cursor=pointer]:
+                - deletion [ref=e509]:
+                  - generic [ref=e510]: 1,305,000تومان
+                - insertion [ref=e511]:
+                  - generic [ref=e512]: 1,305,000تومان
+            - generic [ref=e514]:
+              - link [ref=e515] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/931
+                - img "ست جعبه نظم دهنده 3 تکه لوکس باکس LB836" [ref=e516]
+              - heading [level=3] [ref=e517]:
+                - link [ref=e518] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/931
+                  - heading "ست جعبه نظم دهنده 3 تکه لوکس باکس LB836" [level=3] [ref=e519]
+              - generic [ref=e520] [cursor=pointer]:
+                - deletion [ref=e521]:
+                  - generic [ref=e522]: 1,760,000تومان
+                - insertion [ref=e523]:
+                  - generic [ref=e524]: 1,760,000تومان
+            - generic [ref=e526]:
+              - link [ref=e527] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/930
+                - img "ست جعبه دستمال کاغذی و سطل آشغال چوبی اقتصادی لوکس باکس کد LBS833-GW" [ref=e528]
+              - heading [level=3] [ref=e529]:
+                - link [ref=e530] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/930
+                  - heading "ست جعبه دستمال کاغذی و سطل آشغال چوبی اقتصادی لوکس باکس کد LBS833-GW" [level=3] [ref=e531]
+              - generic [ref=e532] [cursor=pointer]:
+                - deletion [ref=e533]:
+                  - generic [ref=e534]: 1,955,000تومان
+                - insertion [ref=e535]:
+                  - generic [ref=e536]: 1,955,000تومان
+            - generic [ref=e538]:
+              - link [ref=e539] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/928
+                - img "ست جعبه دستمال کاغذی و سطل آشغال چوبی اقتصادی لوکس باکس کد LBS833-WG" [ref=e540]
+              - heading [level=3] [ref=e541]:
+                - link [ref=e542] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/928
+                  - heading "ست جعبه دستمال کاغذی و سطل آشغال چوبی اقتصادی لوکس باکس کد LBS833-WG" [level=3] [ref=e543]
+              - generic [ref=e544] [cursor=pointer]:
+                - deletion [ref=e545]:
+                  - generic [ref=e546]: 1,955,000تومان
+                - insertion [ref=e547]:
+                  - generic [ref=e548]: 1,955,000تومان
+            - generic [ref=e550]:
+              - link [ref=e551] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/929
+                - img "ست جعبه دستمال کاغذی و سطل آشغال چوبی اقتصادی لوکس باکس کد LBS833-PW" [ref=e552]
+              - heading [level=3] [ref=e553]:
+                - link [ref=e554] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/929
+                  - heading "ست جعبه دستمال کاغذی و سطل آشغال چوبی اقتصادی لوکس باکس کد LBS833-PW" [level=3] [ref=e555]
+              - generic [ref=e556] [cursor=pointer]:
+                - deletion [ref=e557]:
+                  - generic [ref=e558]: 1,955,000تومان
+                - insertion [ref=e559]:
+                  - generic [ref=e560]: 1,955,000تومان
+            - generic [ref=e562]:
+              - link [ref=e563] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/933
+                - img "ست جعبه نظم دهنده 3 تکه لوکس باکس LB834" [ref=e564]
+              - heading [level=3] [ref=e565]:
+                - link [ref=e566] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/933
+                  - heading "ست جعبه نظم دهنده 3 تکه لوکس باکس LB834" [level=3] [ref=e567]
+              - generic [ref=e568] [cursor=pointer]:
+                - deletion [ref=e569]:
+                  - generic [ref=e570]: 2,605,000تومان
+                - insertion [ref=e571]:
+                  - generic [ref=e572]: 2,605,000تومان
+            - generic [ref=e574]:
+              - link [ref=e575] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/568
+                - img "جعبه پذیرایی دمنوش چای کیسه ای مدل پایه دار لوکس باکس کد LB324-1" [ref=e576]
+              - heading [level=3] [ref=e577]:
+                - link [ref=e578] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/568
+                  - heading "جعبه پذیرایی دمنوش چای کیسه ای مدل پایه دار لوکس باکس کد LB324-1" [level=3] [ref=e579]
+              - generic [ref=e580] [cursor=pointer]:
+                - deletion [ref=e581]:
+                  - generic [ref=e582]: 1,059,000تومان
+                - insertion [ref=e583]:
+                  - generic [ref=e584]: 1,059,000تومان
+            - generic [ref=e586]:
+              - link [ref=e587] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/565
+                - img "باکس هدیه دمنوش تی بگ چای کیسه ای چوبی لوکس باکس کد LB323-0" [ref=e588]
+              - heading [level=3] [ref=e589]:
+                - link [ref=e590] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/565
+                  - heading "باکس هدیه دمنوش تی بگ چای کیسه ای چوبی لوکس باکس کد LB323-0" [level=3] [ref=e591]
+              - generic [ref=e592] [cursor=pointer]:
+                - deletion [ref=e593]:
+                  - generic [ref=e594]: 815,000تومان
+                - insertion [ref=e595]:
+                  - generic [ref=e596]: 815,000تومان
+          - generic:
+            - button "" [ref=e597]
+            - button "" [ref=e599] [cursor=pointer]
+          - generic:
+            - button "" [ref=e601]
+            - button "" [ref=e603] [cursor=pointer]
+      - generic [ref=e607]:
+        - banner [ref=e608]:
+          - generic [ref=e609]: خرید قیمت سفارش جعبه وارمردار پذیرایی
+          - heading [level=3]
+        - generic [ref=e610]:
+          - generic [ref=e612]:
+            - generic [ref=e614]:
+              - link [ref=e615] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/214
+                - img "جعبه پذیرایی چوبی وارمردار تی بگ نبات لوکس باکس کد LB111-W" [ref=e616]
+              - heading [level=3] [ref=e617]:
+                - link [ref=e618] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/214
+                  - heading "جعبه پذیرایی چوبی وارمردار تی بگ نبات لوکس باکس کد LB111-W" [level=3] [ref=e619]
+              - generic [ref=e620] [cursor=pointer]:
+                - deletion [ref=e621]:
+                  - generic [ref=e622]: 2,985,000تومان
+                - insertion [ref=e623]:
+                  - generic [ref=e624]: 2,985,000تومان
+            - generic [ref=e626]:
+              - link [ref=e627] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/223
+                - img "جعبه پذیرایی چوبی وارمردار تی بگ نبات لوکس باکس کد LB111-M0" [ref=e628]
+              - heading [level=3] [ref=e629]:
+                - link [ref=e630] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/223
+                  - heading "جعبه پذیرایی چوبی وارمردار تی بگ نبات لوکس باکس کد LB111-M0" [level=3] [ref=e631]
+              - generic [ref=e632] [cursor=pointer]:
+                - deletion [ref=e633]:
+                  - generic [ref=e634]: 905,000تومان
+                - insertion [ref=e635]:
+                  - generic [ref=e636]: 905,000تومان
+            - generic [ref=e638]:
+              - link [ref=e639] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/205
+                - img "جعبه پذیرایی چوبی وارمردار تی بگ نبات لوکس باکس کد LB111-N" [ref=e640]
+              - heading [level=3] [ref=e641]:
+                - link [ref=e642] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/205
+                  - heading "جعبه پذیرایی چوبی وارمردار تی بگ نبات لوکس باکس کد LB111-N" [level=3] [ref=e643]
+              - generic [ref=e644] [cursor=pointer]:
+                - deletion [ref=e645]:
+                  - generic [ref=e646]: 2,705,000تومان
+                - insertion [ref=e647]:
+                  - generic [ref=e648]: 2,705,000تومان
+            - generic [ref=e650]:
+              - link [ref=e651] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/321
+                - img "جعبه وارمردار دمنوش تی بگ کافی میکس لوکس باکس کد LB113-11" [ref=e652]
+              - heading [level=3] [ref=e653]:
+                - link [ref=e654] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/321
+                  - heading "جعبه وارمردار دمنوش تی بگ کافی میکس لوکس باکس کد LB113-11" [level=3] [ref=e655]
+              - generic [ref=e656] [cursor=pointer]:
+                - deletion [ref=e657]:
+                  - generic [ref=e658]: 799,000تومان
+                - insertion [ref=e659]:
+                  - generic [ref=e660]: 784,000تومان
+            - generic [ref=e662]:
+              - link [ref=e663] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/319
+                - img "جعبه وارمردار دمنوش تی بگ کافی میکس لوکس باکس کد LB113-01" [ref=e664]
+              - heading [level=3] [ref=e665]:
+                - link [ref=e666] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/319
+                  - heading "جعبه وارمردار دمنوش تی بگ کافی میکس لوکس باکس کد LB113-01" [level=3] [ref=e667]
+              - generic [ref=e668] [cursor=pointer]:
+                - deletion [ref=e669]:
+                  - generic [ref=e670]: 553,000تومان
+                - insertion [ref=e671]:
+                  - generic [ref=e672]: 553,000تومان
+            - generic [ref=e674]:
+              - link [ref=e675] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/318
+                - img "جعبه وارمردار دمنوش تی بگ کافی میکس لوکس باکس کد LB113-0" [ref=e676]
+              - heading [level=3] [ref=e677]:
+                - link [ref=e678] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/318
+                  - heading "جعبه وارمردار دمنوش تی بگ کافی میکس لوکس باکس کد LB113-0" [level=3] [ref=e679]
+              - generic [ref=e680] [cursor=pointer]:
+                - deletion [ref=e681]:
+                  - generic [ref=e682]: 553,000تومان
+                - insertion [ref=e683]:
+                  - generic [ref=e684]: 553,000تومان
+            - generic [ref=e686]:
+              - link [ref=e687] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/320
+                - img "جعبه وارمردار دمنوش تی بگ کافی میکس لوکس باکس کد LB113-1" [ref=e688]
+              - heading [level=3] [ref=e689]:
+                - link [ref=e690] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/320
+                  - heading "جعبه وارمردار دمنوش تی بگ کافی میکس لوکس باکس کد LB113-1" [level=3] [ref=e691]
+              - generic [ref=e692] [cursor=pointer]:
+                - deletion [ref=e693]:
+                  - generic [ref=e694]: 553,000تومان
+                - insertion [ref=e695]:
+                  - generic [ref=e696]: 553,000تومان
+            - generic [ref=e698]:
+              - link [ref=e699] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/570
+                - img "جعبه پذیرایی وارمردار دمنوش تی بگ چای کیسه ای مدل کشودار لوکس باکس کد LB114-M1" [ref=e700]
+              - heading [level=3] [ref=e701]:
+                - link [ref=e702] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/570
+                  - heading "جعبه پذیرایی وارمردار دمنوش تی بگ چای کیسه ای مدل کشودار لوکس باکس کد LB114-M1" [level=3] [ref=e703]
+              - generic [ref=e704] [cursor=pointer]:
+                - deletion [ref=e705]:
+                  - generic [ref=e706]: 1,430,000تومان
+                - insertion [ref=e707]:
+                  - generic [ref=e708]: 1,430,000تومان
+          - generic:
+            - button "" [ref=e709]
+            - button "" [ref=e711] [cursor=pointer]
+          - generic:
+            - button "" [ref=e713]
+            - button "" [ref=e715] [cursor=pointer]
+      - generic [ref=e719]:
+        - banner [ref=e720]:
+          - generic [ref=e721]: هارد باکس تولید سفارش عمده قیمت خرید جعبه هاردباکس آماده
+          - heading [level=3]
+        - generic [ref=e722]:
+          - generic [ref=e724]:
+            - generic [ref=e726]:
+              - link [ref=e727] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/1901
+                - img "جعبه هارد باکس مغزیجات مربعی لوکس باکس کد LB0121" [ref=e728]
+              - heading [level=3] [ref=e729]:
+                - link [ref=e730] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/1901
+                  - heading "جعبه هارد باکس مغزیجات مربعی لوکس باکس کد LB0121" [level=3] [ref=e731]
+              - generic [ref=e732] [cursor=pointer]:
+                - deletion [ref=e733]:
+                  - generic [ref=e734]: 140,000تومان
+                - insertion [ref=e735]:
+                  - generic [ref=e736]: 140,000تومان
+            - generic [ref=e738]:
+              - link [ref=e739] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/1900
+                - img "جعبه هارد باکس پسته طرح سنتی مربعی لوکس باکس کد LB0120" [ref=e740]
+              - heading [level=3] [ref=e741]:
+                - link [ref=e742] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/1900
+                  - heading "جعبه هارد باکس پسته طرح سنتی مربعی لوکس باکس کد LB0120" [level=3] [ref=e743]
+              - generic [ref=e744] [cursor=pointer]:
+                - deletion [ref=e745]:
+                  - generic [ref=e746]: 155,000تومان
+                - insertion [ref=e747]:
+                  - generic [ref=e748]: 155,000تومان
+            - generic [ref=e750]:
+              - link [ref=e751] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/1899
+                - img "جعبه هارد باکس مربعی سنتی تنقلات لوکس باکس کد LB0119" [ref=e752]
+              - heading [level=3] [ref=e753]:
+                - link [ref=e754] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/1899
+                  - heading "جعبه هارد باکس مربعی سنتی تنقلات لوکس باکس کد LB0119" [level=3] [ref=e755]
+              - generic [ref=e756] [cursor=pointer]:
+                - deletion [ref=e757]:
+                  - generic [ref=e758]: 155,000تومان
+                - insertion [ref=e759]:
+                  - generic [ref=e760]: 155,000تومان
+            - generic [ref=e762]:
+              - link [ref=e763] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/1190
+                - img "جعبه شکلات و تنقلات هارد باکس لوکس باکس مدل کتابی کد LB0115" [ref=e764]
+              - heading [level=3] [ref=e765]:
+                - link [ref=e766] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/1190
+                  - heading "جعبه شکلات و تنقلات هارد باکس لوکس باکس مدل کتابی کد LB0115" [level=3] [ref=e767]
+              - generic [ref=e768] [cursor=pointer]:
+                - deletion [ref=e769]:
+                  - generic [ref=e770]: 275,000تومان
+                - insertion [ref=e771]:
+                  - generic [ref=e772]: 275,000تومان
+            - generic [ref=e774]:
+              - link [ref=e775] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/1878
+                - img "جعبه هارد باکس طلاکوب سنتی شکلات آجیل لوکس باکس کد LB0116" [ref=e776]
+              - heading [level=3] [ref=e777]:
+                - link [ref=e778] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/1878
+                  - heading "جعبه هارد باکس طلاکوب سنتی شکلات آجیل لوکس باکس کد LB0116" [level=3] [ref=e779]
+              - generic [ref=e780] [cursor=pointer]:
+                - deletion [ref=e781]:
+                  - generic [ref=e782]: 155,000تومان
+                - insertion [ref=e783]:
+                  - generic [ref=e784]: 155,000تومان
+            - generic [ref=e786]:
+              - link [ref=e787] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/1189
+                - img "جعبه هارد باکس تنقلات لوکس باکس مدل کتابی کد LB0114" [ref=e788]
+              - heading [level=3] [ref=e789]:
+                - link [ref=e790] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/1189
+                  - heading "جعبه هارد باکس تنقلات لوکس باکس مدل کتابی کد LB0114" [level=3] [ref=e791]
+              - generic [ref=e792] [cursor=pointer]:
+                - deletion [ref=e793]:
+                  - generic [ref=e794]: 275,000تومان
+                - insertion [ref=e795]:
+                  - generic [ref=e796]: 275,000تومان
+            - generic [ref=e798]:
+              - link [ref=e799] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/1897
+                - img "جعبه هارد باکس ویترین دار تنقلات مستطیلی لوکس باکس کد LB0117" [ref=e800]
+              - heading [level=3] [ref=e801]:
+                - link [ref=e802] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/1897
+                  - heading "جعبه هارد باکس ویترین دار تنقلات مستطیلی لوکس باکس کد LB0117" [level=3] [ref=e803]
+              - generic [ref=e804] [cursor=pointer]:
+                - deletion [ref=e805]:
+                  - generic [ref=e806]: 170,000تومان
+                - insertion [ref=e807]:
+                  - generic [ref=e808]: 170,000تومان
+            - generic [ref=e810]:
+              - link [ref=e811] [cursor=pointer]:
+                - /url: https://iluxbox.com/product/1898
+                - img "جعبه هارد باکس طرحدار مستطیلی پنجره دار لوکس باکس کد LB0118" [ref=e812]
+              - heading [level=3] [ref=e813]:
+                - link [ref=e814] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/1898
+                  - heading "جعبه هارد باکس طرحدار مستطیلی پنجره دار لوکس باکس کد LB0118" [level=3] [ref=e815]
+              - generic [ref=e816] [cursor=pointer]:
+                - deletion [ref=e817]:
+                  - generic [ref=e818]: 170,000تومان
+                - insertion [ref=e819]:
+                  - generic [ref=e820]: 170,000تومان
+          - generic:
+            - button "" [ref=e821]
+            - button "" [ref=e823] [cursor=pointer]
+          - generic:
+            - button "" [ref=e825]
+            - button "" [ref=e827] [cursor=pointer]
+      - tabpanel [ref=e832]:
+        - heading [level=2] [ref=e833]
+        - generic [ref=e835]:
+          - generic [ref=e836]:
+            - paragraph
+            - paragraph [ref=e837]:
+              - strong [ref=e840]: فروشگاه اینترنتی لوکس باکس ، خرید اینترنتی آسان و مطمئن انواع محصولات چوبی با تضمین کیفیت و قیمت
+            - paragraph [ref=e841]:
+              - strong [ref=e844]: فروشگاه اینترنتی لوکس باکس ، به عنوان تنها کارخانه تولید جعبه های نفیس و لوکس، با بیش از یک دهه تجربه و با تکیه بر تیم حرفه ای و متخصص خود، با عرضه بهترین و لوکس ترین مجموعه کامل از انواع جعبه چوبی ، جعبه چوبی هارد باکس مقوایی و شیشه ای پی وی سی ، این امکان را برای مشتریان عزیز خود فراهم نموده است تا به راحتی و با اطمینان از اصالت کالا و قیمت ، بتوانند یک خرید عالی و لذت بخش را در سراسر کشور با دسترسی سریع و کوتاه مدت و با امکان تولید تیراژ بالا به صورت فروش تک و عمده ، تجربه نمایند.
+            - paragraph [ref=e845]:
+              - strong [ref=e848]:
+                - text: محصولات لوکس باکس(
+                - link "تولید کننده انواع جعبه های چوبی سفارشی" [ref=e849] [cursor=pointer]:
+                  - /url: https://iluxbox.com/blog/17
+                - text: ") در دسته بندی و مصارف مختلف عبارت اند از :"
+            - list [ref=e850]:
+              - listitem [ref=e851]:
+                - heading [level=2] [ref=e852]:
+                  - strong [ref=e855]:
+                    - link "جعبه هارد باکس" [ref=e856] [cursor=pointer]:
+                      - /url: https://iluxbox.com/products/category/hard%20box
+                    - text: ":"
+              - listitem [ref=e857]:
+                - paragraph [ref=e858]:
+                  - strong [ref=e861]: جعبه هاردباکس (HARD BOX) ، به جعبه ای سخت و مقوایی گفته میشود که با توجه به نامش سخت تر و مستحکم تر از سایر جعبه های مقوایی دیگر می باشد. با توجه به تنوع و کارآیی زیاد جعبه های مقوایی سخت آماده ، مقاومت بالا و زیبایی منحصر به فرد ، این نوع از جعبه های سخت هاردباکس مقوایی صنعتی ، گزینه بسیار مناسبی برای انواع بسته بندی صادراتی و نفیس محصولات گران بها هستند که در دسته بندی های مختلف مانند جعبه مقوایی کادویی ، جعبه هاردباکس آجیل و خشکبار ، جعبه مقوایی ارزان شیرینی و شکلات ، جعبه هاردباکس ساعت مچی و جعبه هاردباکس مقوایی عطر و ادکلن و ... قابل استفاده هستند. که به دو صورت سفارش ساخت تولید جعبه هاردباکس مقوایی و یا با استفاده از نمونه های جعبه هاردباکس و مقوایی آماده می توان تفاوت زیادی در محصولات خود ایجاد نمود.
+              - listitem [ref=e862]:
+                - heading [level=2] [ref=e863]:
+                  - strong [ref=e866]: "ظروف چوبی :"
+            - paragraph [ref=e867]:
+              - strong [ref=e870]: استفاده از ظروف چوبی که امروزه یکی از بهداشتی ترین و جدید ترین ظروف سرو و پذیرایی هستند ، بسیار مورد استقبال افراد قرار گرفته است و می توان این محبوبیت ظروف چوبی پذیرایی را ناشی از هنر نفیس خراطی ، متریال کاملا طبیعی از چوب گردو و چوب راش ، عدم استفاده از مواد شیمیایی ، استحکام و مقاومت بالا ، ماندگاری و دوام طولانی مدت دانست که همراه با روغن گیاهی food safe درجه یک ضد آب و ضد بو ، قابلیت شست و شو داشته و می توان از این ظروف لوکس چوبی برای سرو و حتی لوازم دکوری و تزیینی در دسته بندی های مختلف مانند کاسه چوبی ، میوه خوری چوبی پایه دار و بدون پایه ، شیرینی خوری چوبی پایه دار دو طبقه و سه طبقه ، آجیل و شکلات خوری چوبی و لیوان چوبی کوکسا (ماگما ) و ... استفاده نمود.
+            - list [ref=e871]:
+              - listitem [ref=e872]:
+                - heading [level=2] [ref=e873]:
+                  - strong [ref=e876]: "جعبه کادویی چوبی :"
+              - listitem [ref=e877]:
+                - paragraph [ref=e878]:
+                  - strong [ref=e881]: جعبه های هدیه گل چوبی لوکس و جایگزین انواع پاکت های کاغذی و پلاستیکی و با جنسی از چوب و یا ام دی اف همراه با طراحی منحصر به فرد ، رنگ بندی و ابعاد مختلف ، مناسب ترین گزینه برای سورپرایز کردن ، هدیه دادن و دو چندان نمودن ارزش هدیه شما در مناسبت های مختلف مانند روز عشق (جعبه کادویی چوبی ولنتاین) ، روز مادر(باکس هدیه روز مادر ) ، روز پدر(باکس هدیه مردانه ) ، هدیه تولد و یا هر مناسبت دیگر .
+              - listitem [ref=e882]:
+                - heading [level=2] [ref=e883]:
+                  - strong [ref=e886]: "جعبه آجیل و خشکبار :"
+            - paragraph [ref=e887]:
+              - strong [ref=e890]:
+                - text: سبکی جدید ، مستحکم و مقاوم برای پذیرایی و بسته بندی صادراتی و نفیس انواع آجیل و خشکبار با تنوع بالا در نوع متریال ، طرح ، ابعاد ، شکل و متناسب با هر نیاز و سلیقه ای .
+                - link "جعبه های پذیرایی چوبی" [ref=e891] [cursor=pointer]:
+                  - /url: https://iluxbox.com/products/category/Herbal-and-tea-box
+                - text: آجیل و شکلات با طراحی داخلی ویژه قرار دادن انواع خشکبار و تنقلات به صورت پرتابل (متحرک ) و دوبل به منظور جلوگیری از مخلوط شدن محتویات داخلی در صورت زاویه پیدا کردن باکس کادویی آجیل ، که با توجه به ارزش هنری بالا و جذابیتی که جعبه های چوبی آجیل و خشکبار دارند ، بهترین پیشنهاد برای انواع هدایای سازمانی تبلیغاتی همراه با برند و نام تجاری شما مشتریان عزیز در مناسبت های مختلف نظیر شب یلدا به عنوان جعبه آجیل شب یلدا (چله) ، عید باستانی نوروزو ... هستند که می توان جعبه های هدیه آجیل و خشکبار چوبی لوکس باکس را یکی از متنوع‌ترین نوع بسته بندی های صادراتی انواع خشکبار ، پسته دانست و از این باکس های رومیزی آجیل و شیرینی برای فروش بیشتر و همراه با کیفیت بیشتر محصولات در قنادی و کافه رستوران ها استفاده نمود.
+            - list [ref=e892]:
+              - listitem [ref=e893]:
+                - heading [level=2] [ref=e894]:
+                  - strong [ref=e897]: "جعبه دمنوش پذیرایی :"
+            - paragraph [ref=e898]:
+              - strong [ref=e901]:
+                - text: پذیرایی منحصر به فرد و متفاوت با انواع باکس های تی بگ دمنوش پذیرایی رومیزی لوکس باکس همراه با تنوع بالا اعم از جعبه دمنوش دستمال کاغذی ، جعبه پذیرایی وارمردار و طراحی داخلی مناسب برای انواع دمنوش ها و ملزومات نوشیدنی که می توانند تکمیل کننده پذیرایی شما عزیزان باشد. طراحی فوق العاده داخلی و همراه با برش های هلالی شکل و مخصوص جعبه های هدیه دمنوش پذیرایی چوبی و
+                - link "جعبه های چوبی لیزری لوکس باکس" [ref=e902] [cursor=pointer]:
+                  - /url: https://iluxbox.com/blog/19
+                - text: برای انواع تی بگ ، دمنوش و کافی میکس این اطمینان را به شما می دهد تا یک خرید هوشمندانه را بتوانید با ما تجربه نمایید.
+            - list [ref=e903]:
+              - listitem [ref=e904]:
+                - heading [level=2] [ref=e905]:
+                  - strong [ref=e908]: "جعبه (باکس)های شیشه ای :"
+            - paragraph [ref=e909]:
+              - strong [ref=e912]: جدیدترین نوع باکس های پذیرایی همراه با ظرافت ، زیبایی و ظاهری شکیل ، جهت مصارف مختلف برای قرار دادن انواع آجیل ، تنقلات ، دمنوش و تی بگ با جنسی از پی وی سی ، نوعی ورقه مقاوم به کدر و لک شدن و همراه با متریال کاملا فلزی، آبکاری شده و رنگ ثابت باکس های شیشه ای لوکس باکس هستند که از آن ها برای زیبایی منزل و یا محیط کار می توان استفاده نمود .
+            - list [ref=e913]:
+              - listitem [ref=e914]:
+                - heading [level=2] [ref=e915]:
+                  - strong [ref=e918]: "جعبه ساعت و جواهرات :"
+            - paragraph [ref=e919]:
+              - strong [ref=e922]: بهترین پیشنهاد برای داشتن یک کلکسیون چوبی و قرار دادن و نگهداری امن و مطمئن از انواع اکسسوری های مختلف مانند طلا ، جواهرات و زیور آلات و ... به منظور نظم و سازمان دادن به کشو و میز آرایشی شما عزیزان در دو نوع نجاری و لیزری همراه با آستر کشی داخلی و بالشتک به منظور فیکس کردن محتویات داخلی که به عنوان جعبه هدیه جواهرات فانتزی بهترین پیشنهاد است.
+            - list [ref=e923]:
+              - listitem [ref=e924]:
+                - heading [level=2] [ref=e925]:
+                  - strong [ref=e928]: "سینی های سرو و پذیرایی و سینی مزه چوبی :"
+            - paragraph [ref=e929]:
+              - strong [ref=e932]: حمل آسان و لوکس انواع نوشیدنی ، فینگر فود و تنقلات با سینی های سرو و پذیرایی چوبی و تخته سرو چوبی لوکس باکس با طرح های چاپی و حک شده و پاسخگوی هر نیاز با داشتن بهترین جنس از متریال با کیفیت از چوب طبیعی و راش.
+            - heading [level=2] [ref=e933]:
+              - strong [ref=e936]:
+                - text: انواع
+                - link "جعبه های نفیس و صادراتی" [ref=e937] [cursor=pointer]:
+                  - /url: https://iluxbox.com/product/54
+                - text: ":"
+            - paragraph [ref=e938]:
+              - strong [ref=e941]:
+                - text: جعبه کنسول قاشق و چنگال، جعبه ست هدیه مردانه ، جعبه ست کیف و کمربند چوبی ، جعبه زعفران و پسته صادراتی، جعبه
+                - link "هدیه تبلیغاتی سازمانی" [ref=e942] [cursor=pointer]:
+                  - /url: https://iluxbox.com/products/category/Corporate%20promotional%20gifts
+                - text: ، جعبه های هارد باکس مقوایی، جعبه ست طلا و جواهرات سفارشی، جعبه شکلات تبلیغاتی، جعبه پذیرایی چوبی، میز چایی چوبی، جعبه وارمردارسفارشی چوبی، انواع جعبه های چای کیسه ای تیبگ( تی بگ) و دمنوش، جعبه ساعت لاکچری، انواع جعبه هدیه کادویی ارزان و سفارشی، جعبه چوبی هدیه گوشی موبایل، باکس شیشه ای گل و تراریم، جعبه جواهرات ، باکس جواهرات لاکچری و خاص، باکس چوبی استند لوازم آرایش عروس، و....
+            - paragraph [ref=e943]
+            - paragraph [ref=e944]:
+              - strong [ref=e947]
+            - paragraph
+          - link "+ ادامه مطلب" [ref=e948] [cursor=pointer]:
+            - /url: "#"
+  - contentinfo [ref=e950]:
+    - generic [ref=e953]:
+      - generic [ref=e954]:
+        - generic [ref=e957]: تحویل اکسپرس
+        - generic [ref=e958]: در کمترین زمان دریافت کنید
+      - generic [ref=e959]:
+        - generic [ref=e962]: پشتیبانی ۲۴ ساعته
+        - generic [ref=e963]: پشتیبانی هفت روز هفته
+      - generic [ref=e964]:
+        - generic [ref=e967]: امکان خرید حضوری
+        - generic [ref=e968]: خرید حضوری در دفتر فروش
+      - generic [ref=e969]:
+        - generic [ref=e972]: 48 ساعت ضمانت بازگشت
+        - generic [ref=e973]: 48 ساعت مهلت دارید
+      - generic [ref=e974]:
+        - generic [ref=e977]: ضمانت اصل‌بودن کالا
+        - generic [ref=e978]: تایید اصالت کالا
+    - generic [ref=e982]:
+      - generic [ref=e983]:
+        - generic:
+          - generic [ref=e986]:
+            - link "با لوکس‌‌باکس" [ref=e988] [cursor=pointer]:
+              - /url: "#"
+            - list [ref=e989]:
+              - listitem [ref=e990]:
+                - link "همکاری با سازمان‌ها" [ref=e991] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e992]:
+                - link "فرصت‌های شغلی" [ref=e993] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e994]:
+                - link "درباره ما" [ref=e995] [cursor=pointer]:
+                  - /url: https://iluxbox.com/about-us
+              - listitem [ref=e996]:
+                - link "ارتباط با ما" [ref=e997] [cursor=pointer]:
+                  - /url: https://iluxbox.com/contact-us
+          - generic [ref=e1000]:
+            - link "خدمات لوکس باکس" [ref=e1002] [cursor=pointer]:
+              - /url: "#"
+            - list [ref=e1003]:
+              - listitem [ref=e1004]:
+                - link "تولید سفارش جعبه هارد باکس مقوایی عطر ادکلن" [ref=e1005] [cursor=pointer]:
+                  - /url: https://iluxbox.com/products/category/hard%20box
+              - listitem [ref=e1006]:
+                - link "ساخت جعبه پذیرایی چوبی شیشه ای" [ref=e1007] [cursor=pointer]:
+                  - /url: https://iluxbox.com/blog/17
+              - listitem [ref=e1008]:
+                - link "تولید جعبه های آجیل خشکبار چوبی" [ref=e1009] [cursor=pointer]:
+                  - /url: https://iluxbox.com/blog/1
+              - listitem [ref=e1010]:
+                - link "طراحی جعبه دمنوش تی بگ چوبی" [ref=e1011] [cursor=pointer]:
+                  - /url: https://iluxbox.com/blog/10
+              - listitem [ref=e1012]:
+                - link "تولید جعبه کادو ساعت و جواهرات" [ref=e1013] [cursor=pointer]:
+                  - /url: https://iluxbox.com/blog/34
+              - listitem [ref=e1014]:
+                - link "ساخت سینی مزه سرو پذیرایی چوبی" [ref=e1015] [cursor=pointer]:
+                  - /url: https://iluxbox.com/blog/7
+          - generic [ref=e1018]:
+            - link "همکاری با سازمان ها" [ref=e1020] [cursor=pointer]:
+              - /url: "#"
+            - list [ref=e1021]:
+              - listitem [ref=e1022]:
+                - link "طراحی تولید انواع بسته بندی چوبی نفیس صادراتی" [ref=e1023] [cursor=pointer]:
+                  - /url: https://iluxbox.com/blog/157
+              - listitem [ref=e1024]:
+                - link "تولید هدیه تبلیغاتی گیفت نمایشگاهی هدایای سازمانی" [ref=e1025] [cursor=pointer]:
+                  - /url: https://iluxbox.com/blog/159
+              - listitem [ref=e1026]:
+                - link "ساخت انواع جعبه چوبی با تیراژ بالا" [ref=e1027] [cursor=pointer]:
+                  - /url: https://iluxbox.com/blog/160
+              - listitem [ref=e1028]:
+                - link "تولید جعبه چوبی سفارشی همراه با درج لوگو" [ref=e1029] [cursor=pointer]:
+                  - /url: https://iluxbox.com/blog/161
+              - listitem [ref=e1030]:
+                - link "عرضه انواع جعبه هاردباکس، چوبی متناسب بانیازشما" [ref=e1031] [cursor=pointer]:
+                  - /url: https://iluxbox.com/products/category/hard%20box
+              - listitem [ref=e1032]:
+                - link "ساخت تولید جعبه هارد باکس سفارشی مگنتی آماده" [ref=e1033] [cursor=pointer]:
+                  - /url: https://iluxbox.com/products/category/hard%20box
+          - generic [ref=e1034]:
+            - paragraph [ref=e1035]: "لوکس باکس را در شبکه‌های اجتماعی دنبال کنید:"
+            - generic [ref=e1036]:
+              - link [ref=e1037] [cursor=pointer]:
+                - /url: https://www.aparat.com/luxbox/luxbox
+              - link [ref=e1039] [cursor=pointer]:
+                - /url: https://www.instagram.com/iluxbox/
+              - link [ref=e1041] [cursor=pointer]:
+                - /url: https://www.youtube.com/channel/UC49QdKnfz4rMtBCjrPTLqJg/featured
+              - link [ref=e1043] [cursor=pointer]:
+                - /url: https://www.linkedin.com/in/iluxbox-com-%D9%84%D9%88%DA%A9%D8%B3-%D8%A8%D8%A7%DA%A9%D8%B3-195a28135/
+              - link [ref=e1045] [cursor=pointer]:
+                - /url: https://twitter.com/iluxbox_com
+              - link [ref=e1047] [cursor=pointer]:
+                - /url: https://www.facebook.com/iluxboxcom/
+      - generic [ref=e1050]:
+        - paragraph [ref=e1052]: "هفت روز هفته ، ۲۴ ساعت شبانه‌روز پاسخگوی شما هستیم شماره تماس: 44051339-021 آدرس ایمیل: info@iluxbox.com"
+        - paragraph [ref=e1054]: "آدرس : ایران ، تهران ، اشرفی اصفهانی، برج نگین رضا واحد 1409"
+      - generic [ref=e1055]:
+        - generic [ref=e1060]:
+          - generic [ref=e1061]:
+            - paragraph
+            - paragraph [ref=e1062]:
+              - strong [ref=e1063]:
+                - text: لوکس باکس تنها کارخانه تخصصی تولید انواع
+                - link "جعبه هارد باکس" [ref=e1064] [cursor=pointer]:
+                  - /url: https://iluxbox.com/products/category/hard%20box
+                - text: (جعبه سخت)،جعبه مقوایی آماده ،جعبه سخت و جعبه های چوبی و
+                - generic [ref=e1065]: باکس های چوبی در تهران است که
+                - text: با بیش از یک دهه تجربه ، بزرگ ترین تولید کننده انواع جعبه های مقوایی و چوبی سفارشی ، باکس های شیشه ای ،جعبه هارد باکس مقوایی عطر ادکلن ، جعبه هدیه گیفت ، هدیه تبلیغاتی سازمانی چوبی ، بسته بندی صادراتی و نفیس و نیز انواع ظروف چوبی پذیرایی دکوری و اکسسوری چوبی ، استند گل چوبی و شیشه ای، میوه خوری چوبی ، شیرینی خوری چوبی پایه دار،شیرینی خوری چوبی دوطبقه سه طبقه، کاسه چوبی ، آجیل و شکلات خوری چوبی ، لیوان کوکسا و ماگمای چوبی در دسته بندی های مختلف و نیز انواع جعبه پذیرایی چوبی، جعبه آجیل و خشکبار ، جعبه کادویی ، جعبه چای کیسه ای دمنوش ، سینی های سرو و پذیرایی و جعبه ساعت و جعبه جواهرات جعبه عطر و ادکلن می باشد و جعبه های نفیس و صادراتی، جعبه های چوبی و مقوایی ارزان بسیار با کیفیت و استانداری را توسط تیم حرفه ای و متخصص خود طراحی و تولید کرده است . لوکس باکس با آغاز فعالیت خود از سال 1385، همواره سعی داشته تا ضمن رفع نیاز و دغدغه شما مشتریان عزیز با تولید جعبه های نجاری، رضایت و نظر شما را هم جلب نماید.
+                - generic [ref=e1066]: بورس جعبه های چوبی مقوایی هارد باکس و ظروف لوکس چوبی
+                - text: ارائه شده از سوی لوکس باکس با بهترین متریال و طراحی خاص و منحصر به فرد توسط طراحان حرفه ای و متخصص ، طراحی و ساخته شده است که همراه با بسته بندی های با کیفیت و لوکس ، قابلیت رقابت با نمونه های خارجی و حتی بالاتر از آن ها را نیز دارند . با ورود به سایت لوکس باکس ، با جعبه های چوبی لیزری بسیار متنوعی که در عین حال کاربردی ، زیبا و لوکس هستند ، مواجه شده و می توانید هر آنچه را که نیاز دارید را انتخاب ، خرید و تهیه نمایید.
+            - paragraph
+          - link "+ ادامه مطلب" [ref=e1067] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=e1069]:
+          - link [ref=e1070] [cursor=pointer]:
+            - /url: "#"
+            - img "آی لوکس باکس" [ref=e1071]
+          - link [ref=e1072] [cursor=pointer]:
+            - /url: https://trustseal.enamad.ir/?id=141698&Code=a8jgEEbfsF5eENAcFoRn
+            - img "جعبه های لوکس باکس" [ref=e1073]
+        - paragraph [ref=e1075]: استفاده از مطالب فروشگاه اینترنتی لوکس باکس فقط برای مقاصد غیرتجاری و با ذکر منبع بلامانع است. کلیه حقوق این سایت متعلق به سایت فروشگاهی لوکس باکس می‌باشد.
+```

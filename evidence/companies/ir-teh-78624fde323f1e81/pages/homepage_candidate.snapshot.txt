@@ -1,0 +1,168 @@
+### Page
+- Page URL: https://tarkhis24co.com/
+- Page Title: ترخیص کالا از گمرک خدمات تخصصی واردات و صادرات ترخیص 24
+- Console: 4 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - banner [ref=e4]:
+        - generic [ref=e5]:
+          - link [ref=e7] [cursor=pointer]:
+            - /url: /
+            - img "image" [ref=e8]
+          - link "تماس با ما 📞" [ref=e10] [cursor=pointer]:
+            - /url: \contact-us
+        - navigation [ref=e11]:
+          - generic [ref=e13]:
+            - link "خدمات" [ref=e15] [cursor=pointer]:
+              - /url: /#
+            - link "ترخیص کالا" [ref=e20] [cursor=pointer]:
+              - /url: /customs-clearance
+            - link "تامین کالا" [ref=e25] [cursor=pointer]:
+              - /url: /#
+            - link "لیست نرخ ارز" [ref=e30] [cursor=pointer]:
+              - /url: /customs-exchange-rate
+            - link "مقالات" [ref=e33] [cursor=pointer]:
+              - /url: /articles
+            - link "تماس با ما" [ref=e36] [cursor=pointer]:
+              - /url: /contact-us
+            - link "درباره ما" [ref=e39] [cursor=pointer]:
+              - /url: /about-us
+            - link "فرم ها" [ref=e42] [cursor=pointer]:
+              - /url: /#
+      - main [ref=e46]:
+        - generic [ref=e50]:
+          - generic [ref=e51]:
+            - heading "ترخیص24 سریع، مطمئن، بی‌دردسر" [level=1] [ref=e52]
+            - generic [ref=e53]: با بیش از ۱۰ سال تجربه در ترخیص کالا، واردات و صادرات، تیم متخصص ترخیص24 همراه مطمئن بازرگانان ایرانی در تمام مراحل گمرکی است.
+            - generic [ref=e54]:
+              - link "مشاوره رایگان فوری" [ref=e55] [cursor=pointer]:
+                - /url: /contact-us
+              - link "مشاهده خدمات" [ref=e60] [cursor=pointer]:
+                - /url: /customs-clearance
+          - generic [ref=e65]:
+            - img "خدمات ترخیص کالا لوکس ترخیص24" [ref=e67]
+            - generic [ref=e68]:
+              - heading "۲۴/۷" [level=4] [ref=e69]
+              - generic [ref=e70]: پشتیبانی تمام‌وقت
+        - generic [ref=e71]:
+          - generic [ref=e72]:
+            - generic [ref=e73]:
+              - generic [ref=e74]: ترخیص کالا چیست؟
+              - generic [ref=e75]: ترخیص کالا فرایند قانونی ورود یا خروج کالا از گمرک است که شامل بررسی و تایید اسناد و مدارک، پرداخت عوارض و مالیات‌ها و بازرسی کالا می‌شود. در این فرایند، کالا تنها پس از رعایت قوانین گمرکی و استانداردهای مربوطه اجازه ورود یا خروج پیدا می‌کند. هدف اصلی ترخیص کالا، تضمین قانونی بودن تجارت، جلوگیری از تخلفات و تأخیرها و حفظ حقوق دولت و تولیدکنندگان است. استفاده از ترخیص‌کار حرفه‌ای، سرعت و دقت این فرایند را افزایش می‌دهد و ریسک خطا را کاهش می‌دهد.
+            - generic [ref=e76]:
+              - heading "چرا ترخیص کالا مهم است؟" [level=1] [ref=e77]
+              - generic [ref=e78]: ترخیص کالا اهمیت بالایی در تجارت دارد زیرا بدون آن کالاها نمی‌توانند قانونی وارد یا صادر شوند. این فرایند تضمین می‌کند که قوانین گمرکی و مالیاتی رعایت شده و حقوق دولت و تولیدکنندگان حفظ شود. همچنین ترخیص سریع و صحیح کالا باعث جلوگیری از تاخیرهای طولانی، هزینه‌های اضافی و مشکلات قانونی می‌شود. همکاری با ترخیص‌کاران حرفه‌ای می‌تواند فرایند را آسان‌تر و سریع‌تر کند و اطمینان دهد که کالا به موقع به دست واردکننده یا صادرکننده می‌رسد.
+          - generic [ref=e79]:
+            - generic [ref=e80]:
+              - generic [ref=e81]: ترخیص کالا در ایران چگونه انجام می‌شود؟
+              - generic [ref=e82]: ترخیص کالا در ایران فرایندی قانونی برای ورود یا خروج کالا از گمرک است. ابتدا صاحب کالا یا ترخیص‌کار، اظهارنامه گمرکی را ثبت می‌کند و مدارک شامل بارنامه، فاکتور، لیست بسته‌بندی، مجوزهای استاندارد و کارت بازرگانی ارائه می‌شود. سپس کالا بازرسی و کنترل می‌شود و عوارض و مالیات‌های مربوطه پرداخت می‌شوند. بعد از تأیید گمرک و صدور مجوز نهایی، کالا آماده تحویل به صاحب کالا یا حمل و نقل داخلی است. زمان انجام، بسته به نوع کالا و همکاری با ترخیص‌کار حرفه‌ای، معمولاً از چند روز تا چند هفته متغیر است.
+            - generic [ref=e83]:
+              - generic [ref=e84]: مراحل، مدارک، هزینه، زمان
+              - generic [ref=e85]: "مراحل ترخیص: ثبت اظهارنامه گمرکی، بازرسی کالا، پرداخت عوارض و مالیات، صدور مجوز نهایی و تحویل کالا."
+              - generic [ref=e86]: "مدارک مورد نیاز: بارنامه، فاکتور خرید، لیست بسته‌بندی، مجوزهای استاندارد و بهداشت (در صورت لزوم)، کارت بازرگانی و سایر اسناد مربوطه."
+              - generic [ref=e87]: "هزینه: شامل عوارض گمرکی، مالیات بر ارزش افزوده و هزینه خدمات ترخیص‌کاران است که با توجه به نوع و ارزش کالا متفاوت است."
+              - generic [ref=e88]: "زمان انجام: بسته به نوع کالا، حجم اسناد و همکاری با ترخیص‌کار حرفه‌ای، معمولاً از چند روز تا چند هفته متغیر است."
+        - generic [ref=e89]:
+          - heading "خدمات تخصصی گروه بازرگانی گمرک24" [level=2] [ref=e90]
+          - generic [ref=e91]:
+            - link "image ترخیص کالا انجام کلیه امور ترخیص کالا از گمرک با کمترین زمان و هزینه ممکن" [ref=e92] [cursor=pointer]:
+              - /url: /customs-clearance
+              - img "image" [ref=e94]
+              - heading "ترخیص کالا" [level=3] [ref=e95]
+              - generic [ref=e96]: انجام کلیه امور ترخیص کالا از گمرک با کمترین زمان و هزینه ممکن
+            - link "image واردات و صادرات مشاوره و اجرای فرآیندهای واردات و صادرات با بهترین روش‌های بازرگانی" [ref=e97] [cursor=pointer]:
+              - /url: /import-export
+              - img "image" [ref=e99]
+              - heading "واردات و صادرات" [level=3] [ref=e100]
+              - generic [ref=e101]: مشاوره و اجرای فرآیندهای واردات و صادرات با بهترین روش‌های بازرگانی
+            - link "image مشاوره تخصصی ارائه مشاوره تخصصی در زمینه مقررات گمرکی، مالیاتی و بازرگانی" [ref=e102] [cursor=pointer]:
+              - /url: /consultation-request
+              - img "image" [ref=e104]
+              - heading "مشاوره تخصصی" [level=3] [ref=e105]
+              - generic [ref=e106]: ارائه مشاوره تخصصی در زمینه مقررات گمرکی، مالیاتی و بازرگانی
+            - link "image مستندات قانونی تهیه و تنظیم کلیه اسناد و مدارک مورد نیاز برای ترخیص کالا" [ref=e107] [cursor=pointer]:
+              - /url: /legal-documents
+              - img "image" [ref=e109]
+              - heading "مستندات قانونی" [level=3] [ref=e110]
+              - generic [ref=e111]: تهیه و تنظیم کلیه اسناد و مدارک مورد نیاز برای ترخیص کالا
+        - generic [ref=e112]:
+          - generic [ref=e113]:
+            - heading "چرا ترخیص با گمرک24؟" [level=2] [ref=e114]
+            - generic [ref=e115]: با تجربه‌ای بیش از 10 سال در زمینه ترخیص کالا و خدمات بازرگانی، آماده ارائه بهترین خدمات به شما هستیم
+          - generic [ref=e116]:
+            - generic [ref=e117]:
+              - heading "5000+" [level=3] [ref=e118]
+              - generic [ref=e119]: پرونده موفق ترخیص
+            - generic [ref=e120]:
+              - heading "10+" [level=3] [ref=e121]
+              - generic [ref=e122]: سال تجربه موفق
+            - generic [ref=e123]:
+              - heading "24/7" [level=3] [ref=e124]
+              - generic [ref=e125]: پشتیبانی تمام وقت
+            - generic [ref=e126]:
+              - heading "100%" [level=3] [ref=e127]
+              - generic [ref=e128]: رضایت مشتریان
+        - generic [ref=e129]:
+          - heading "فرآیند ترخیص کالا" [level=2] [ref=e130]
+          - generic [ref=e131]:
+            - generic [ref=e132]:
+              - generic [ref=e133]: "01"
+              - heading "مشاوره اولیه" [level=3] [ref=e134]
+              - generic [ref=e135]: بررسی نیازهای شما و ارائه مشاوره تخصصی برای بهترین روش ترخیص
+            - generic [ref=e136]:
+              - generic [ref=e137]: "02"
+              - heading "تهیه مدارک" [level=3] [ref=e138]
+              - generic [ref=e139]: گردآوری و تنظیم کلیه اسناد و مدارک مورد نیاز برای ترخیص کالا
+            - generic [ref=e140]:
+              - generic [ref=e141]: "03"
+              - heading "ترخیص از گمرک" [level=3] [ref=e142]
+              - generic [ref=e143]: انجام کلیه مراحل قانونی برای ترخیص کالا از گمرک در سریعترین زمان
+            - generic [ref=e144]:
+              - generic [ref=e145]: "04"
+              - heading "تحویل کالا" [level=3] [ref=e146]
+              - generic [ref=e147]: تحویل کالا به مقصد مورد نظر شما با تضمین کامل سلامت کالا
+        - generic [ref=e149]:
+          - heading "آماده شروع همکاری هستید؟" [level=2] [ref=e151]
+          - generic [ref=e152]: همین حالا با ما تماس بگیرید و از مشاوره رایگان بهره‌مند شوید
+          - link [ref=e155] [cursor=pointer]:
+            - /url: /contact-us
+            - button "تماس با ما" [ref=e189]
+      - contentinfo [ref=e157]:
+        - generic [ref=e158]:
+          - generic [ref=e160]:
+            - paragraph [ref=e161]: دسترسی سریع
+            - link "درباره ما" [ref=e162] [cursor=pointer]:
+              - /url: /about-us
+            - link "تماس با ما" [ref=e163] [cursor=pointer]:
+              - /url: /contact-us
+          - generic [ref=e164]:
+            - generic [ref=e165]: راه های ارتباطی
+            - generic [ref=e166]: "آدرس مجموعه:"
+            - generic [ref=e167]: تهران - شهرک غرب - بلوار دریا - خیابان مطهری شمالی - کوچه گل آذین - پلاک 30 - واحد 13
+            - generic [ref=e168]: "شماره تلفن ثابت:"
+            - link "021-88684328" [ref=e169] [cursor=pointer]:
+              - /url: tel:+982188684328
+            - paragraph [ref=e170]: "شماره تلفن همراه:"
+            - link "0912-215-44-53" [ref=e171] [cursor=pointer]:
+              - /url: tel:+989122154453
+            - generic [ref=e172]: پشتیبانی 24 ساعته
+          - generic [ref=e173]:
+            - paragraph [ref=e174]: همراه ما باشید!
+            - generic [ref=e175]:
+              - link [ref=e176] [cursor=pointer]:
+                - /url: "#"
+              - link [ref=e181] [cursor=pointer]:
+                - /url: "#"
+        - separator [ref=e185]
+        - paragraph [ref=e187]:
+          - link "طراحی سایت" [ref=e190] [cursor=pointer]:
+            - /url: https://webruno.ir
+          - text: توسط وبرانو
+    - region "Notifications alt+T"
+  - alert [ref=e191]
+```
+### Events
+- New console entries: .playwright-cli/console-2026-09-01T08-36-53-210Z.log#L7-L18

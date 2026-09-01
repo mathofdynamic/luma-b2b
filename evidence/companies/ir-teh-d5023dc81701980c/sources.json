@@ -1,0 +1,58 @@
+{
+  "company_id": "ir-teh-d5023dc81701980c",
+  "errors": [],
+  "generated_at": "2026-09-01T07:47:46Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [
+    {
+      "bytes": 483745,
+      "captured_at": "2026-09-01T07:47:44Z",
+      "company_id": "ir-teh-d5023dc81701980c",
+      "headless": true,
+      "page_title": "موسسه امین - حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی | کتاب اول",
+      "path": "companies/ir-teh-d5023dc81701980c/screenshots/company_profile.png",
+      "reason_this_matters": "Public directory profile shows the named company and its listed business footprint.",
+      "screenshot_type": "company_profile",
+      "source_url": "https://avval.ir/profile/12213/%D9%85%D9%88%D8%B3%D8%B3%D9%87-%D8%A7%D9%85%DB%8C%D9%86"
+    }
+  ],
+  "sources": [
+    {
+      "discovered_at": "2026-09-01T06:31:54Z",
+      "discovery_reason": "Book-e Avval category: انبارداری",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی",
+      "source_quality": "directory",
+      "source_title": "انبارداری در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D8%A7%D9%86%D8%A8%D8%A7%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:31:54Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-616d418309c42d51",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی",
+      "source_quality": "directory",
+      "source_title": "انبارداری در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D8%A7%D9%86%D8%A8%D8%A7%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:53Z",
+      "claim": "Directory profile lists موسسه امین with a public Tehran business listing.",
+      "confidence": 0.82,
+      "evidence_id": "ev-2a5f63f8cd72baea",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "موسسه امین - حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس موسسه امین تصمیم بگیرید و بقیه کارها را به ما بسپارید. حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی تهران منطقه 3 اطلاعات تماس آدرس : تهران، منطقه 3، خیابان کلاهدوز (دولت)، خیابان شریعتی، پلاک 3، واحد 8، ",
+      "source_quality": "directory",
+      "source_title": "موسسه امین - حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی | کتاب اول",
+      "source_url": "https://avval.ir/profile/12213/%D9%85%D9%88%D8%B3%D8%B3%D9%87-%D8%A7%D9%85%DB%8C%D9%86"
+    }
+  ]
+}

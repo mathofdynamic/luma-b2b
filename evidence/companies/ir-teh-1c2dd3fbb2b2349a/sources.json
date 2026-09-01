@@ -1,0 +1,111 @@
+{
+  "company_id": "ir-teh-1c2dd3fbb2b2349a",
+  "errors": [
+    {
+      "error": "### Browser `luma-b2b-ir-teh-1c2dd3fbb2b2349a-attempt-1` opened with pid 46847.\n### Error\nError: net::ERR_CONNECTION_CLOSED at http://www.vismanco.com/\nCall log:\n\u001b[2m  - navigating to \"http://www.vismanco.com/\", waiting until \"domcontentloaded\"\u001b[22m\n\n",
+      "source_url": "http://www.vismanco.com",
+      "stage": "open"
+    },
+    {
+      "error": "### Browser `luma-b2b-ir-teh-1c2dd3fbb2b2349a-attempt-2` opened with pid 46889.\n### Error\nError: net::ERR_CONNECTION_CLOSED at https://api.whatsapp.com/send?text=avval.ir/profile/a2581/%D9%88%DB%8C%D8%B3%D9%85%D9%86-%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C-%D9%87%D9%88%D9%86%D8%AF%D8%A7\nCall log:\n\u001b[2m  - navigating to \"https://api.whatsapp.com/send?text=avval.ir/profile/a2581/%D9%88%DB%8C%D8%B3%D9%85%D9%86-%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C-%D9%87%D9%88%D9%86%D8%AF%D8%A7\", waiting until \"domcontentloaded\"\u001b[22m\n\n",
+      "source_url": "https://api.whatsapp.com/send?text=avval.ir/profile/a2581/%D9%88%DB%8C%D8%B3%D9%85%D9%86-%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C-%D9%87%D9%88%D9%86%D8%AF%D8%A7",
+      "stage": "open"
+    }
+  ],
+  "generated_at": "2026-09-01T09:14:10Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [
+    {
+      "bytes": 48098,
+      "captured_at": "2026-09-01T09:14:09Z",
+      "company_id": "ir-teh-1c2dd3fbb2b2349a",
+      "headless": true,
+      "page_title": ".:: نماد تجارت الکترونیکی ::. خطا",
+      "path": "companies/ir-teh-1c2dd3fbb2b2349a/screenshots/homepage_candidate-3.png",
+      "reason_this_matters": "Public company-site candidate; capture verifies whether it is reachable.",
+      "screenshot_type": "homepage_candidate_fallback",
+      "source_url": "https://trustseal.enamad.ir/?id=194990&Code=3Y0m3d1djm9fuqjoC8mT"
+    }
+  ],
+  "sources": [
+    {
+      "discovered_at": "2026-09-01T06:32:03Z",
+      "discovery_reason": "Book-e Avval category: فروش ماشین آلات صنعتی و کشاورزی",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "کلیه محصولات شرکت ویسمن با یکسال ضمانت و خدمات بعد از فروش بلند مدت همراه با لوازم یدکی اصلی عرضه می گردند. کیفیت و اصلی بودن محصولات و تآمین رضایت مصرف کنندگان محترم در",
+      "source_quality": "directory",
+      "source_title": "فروش ماشین آلات صنعتی و کشاورزی در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D9%81%D8%B1%D9%88%D8%B4%20%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D8%A2%D9%84%D8%A7%D8%AA%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D9%88%20%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "discovered_at": "2026-09-01T06:32:04Z",
+      "discovery_reason": "Book-e Avval category: تولید ماشین آلات صنعتی و کشاورزی",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "کلیه محصولات شرکت ویسمن با یکسال ضمانت و خدمات بعد از فروش بلند مدت همراه با لوازم یدکی اصلی عرضه می گردند. کیفیت و اصلی بودن محصولات و تآمین رضایت مصرف کنندگان محترم در",
+      "source_quality": "directory",
+      "source_title": "تولید ماشین آلات صنعتی و کشاورزی در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D8%A2%D9%84%D8%A7%D8%AA%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D9%88%20%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "discovered_at": "2026-09-01T06:32:18Z",
+      "discovery_reason": "Book-e Avval category: خدمات پس از فروش خودرو",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "کلیه محصولات شرکت ویسمن با یکسال ضمانت و خدمات بعد از فروش بلند مدت همراه با لوازم یدکی اصلی عرضه می گردند. کیفیت و اصلی بودن محصولات و تآمین رضایت مصرف کنندگان محترم در",
+      "source_quality": "directory",
+      "source_title": "خدمات پس از فروش خودرو در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D8%AE%D8%AF%D9%85%D8%A7%D8%AA%20%D9%BE%D8%B3%20%D8%A7%D8%B2%20%D9%81%D8%B1%D9%88%D8%B4%20%D8%AE%D9%88%D8%AF%D8%B1%D9%88/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:32:03Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-34531ff1a4746216",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "کلیه محصولات شرکت ویسمن با یکسال ضمانت و خدمات بعد از فروش بلند مدت همراه با لوازم یدکی اصلی عرضه می گردند. کیفیت و اصلی بودن محصولات و تآمین رضایت مصرف کنندگان محترم در",
+      "source_quality": "directory",
+      "source_title": "فروش ماشین آلات صنعتی و کشاورزی در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D9%81%D8%B1%D9%88%D8%B4%20%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D8%A2%D9%84%D8%A7%D8%AA%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D9%88%20%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:32:04Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-e249c0e4dcb41da1",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "کلیه محصولات شرکت ویسمن با یکسال ضمانت و خدمات بعد از فروش بلند مدت همراه با لوازم یدکی اصلی عرضه می گردند. کیفیت و اصلی بودن محصولات و تآمین رضایت مصرف کنندگان محترم در",
+      "source_quality": "directory",
+      "source_title": "تولید ماشین آلات صنعتی و کشاورزی در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D8%A2%D9%84%D8%A7%D8%AA%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D9%88%20%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:32:18Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-d559b34169b62edd",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "کلیه محصولات شرکت ویسمن با یکسال ضمانت و خدمات بعد از فروش بلند مدت همراه با لوازم یدکی اصلی عرضه می گردند. کیفیت و اصلی بودن محصولات و تآمین رضایت مصرف کنندگان محترم در",
+      "source_quality": "directory",
+      "source_title": "خدمات پس از فروش خودرو در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D8%AE%D8%AF%D9%85%D8%A7%D8%AA%20%D9%BE%D8%B3%20%D8%A7%D8%B2%20%D9%81%D8%B1%D9%88%D8%B4%20%D8%AE%D9%88%D8%AF%D8%B1%D9%88/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:53Z",
+      "claim": "Directory profile lists ویسمن - نمایندگی هوندا with a public Tehran business listing.",
+      "confidence": 0.82,
+      "evidence_id": "ev-25f7d45213f0a4f1",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "ویسمن - نمایندگی هوندا - فروش دیزل ژنراتور، ژنراتور و موتور برق | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس ویسمن - نمایندگی هوندا 4.0 (1 نظر) نماینده رسمی هوندا موتور ژاپن و تولید کننده انواع ماشین آلات موتوری فروش دیزل ژنراتور، ژنراتور و موتور برق تولید دیزل ژنراتور، ژنراتور و موتور برق دستگاه چمن زن فروش ماشین آلات صنعتی و کشاورزی تولید ماشین آلات صنعتی و کشاورزی سمپاش تعمیر دیزل ژنراتور، ژنراتور و موتور برق ",
+      "source_quality": "directory",
+      "source_title": "ویسمن - نمایندگی هوندا - فروش دیزل ژنراتور، ژنراتور و موتور برق | کتاب اول",
+      "source_url": "https://avval.ir/profile/a2581/%D9%88%DB%8C%D8%B3%D9%85%D9%86-%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C-%D9%87%D9%88%D9%86%D8%AF%D8%A7"
+    }
+  ]
+}

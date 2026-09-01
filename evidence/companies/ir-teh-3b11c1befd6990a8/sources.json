@@ -1,0 +1,68 @@
+{
+  "company_id": "ir-teh-3b11c1befd6990a8",
+  "errors": [],
+  "generated_at": "2026-09-01T07:29:16Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [
+    {
+      "bytes": 1132525,
+      "captured_at": "2026-09-01T07:29:14Z",
+      "company_id": "ir-teh-3b11c1befd6990a8",
+      "headless": true,
+      "page_title": "شهرک صنعتی شمس آباد تهران",
+      "path": "companies/ir-teh-3b11c1befd6990a8/screenshots/homepage_candidate.png",
+      "reason_this_matters": "Public company-site candidate; capture verifies whether it is reachable.",
+      "screenshot_type": "homepage_candidate",
+      "source_url": "https://sanat.ir/page/شهرک-صنعتی-شمس-آباد-تهران"
+    }
+  ],
+  "sources": [
+    {
+      "discovered_at": "2026-09-01T06:32:24Z",
+      "discovery_reason": "DuckDuckGo Persian query: صنعتی شمس آباد تولید کننده تهران",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "شهرک صنعتی شمس آباد تهران شهرک صنعتی شمس آباد ، واقع در تهران و کیلومتر ۴۵ اتوبان تهران - قم می باشد .مساحت کلی شهرک 2891 هکتار می باشد.",
+      "source_quality": "search_index",
+      "source_title": "شهرک صنعتی شمس آباد تهران - sanat.ir",
+      "source_type": "search",
+      "source_url": "https://html.duckduckgo.com/html/?q=%D8%B5%D9%86%D8%B9%D8%AA%DB%8C+%D8%B4%D9%85%D8%B3+%D8%A2%D8%A8%D8%A7%D8%AF+%D8%AA%D9%88%D9%84%DB%8C%D8%AF+%DA%A9%D9%86%D9%86%D8%AF%D9%87+%D8%AA%D9%87%D8%B1%D8%A7%D9%86&s=0&kl=ir-fa"
+    },
+    {
+      "discovered_at": "2026-09-01T06:32:24Z",
+      "discovery_reason": "DuckDuckGo Persian query: صنعتی شمس آباد تولید کننده تهران",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "شهرک صنعتی شمس آباد ، واقع در تهران و کیلومتر ۴۵ اتوبان تهران - قم می باشد .مساحت کلی شهرک 2891 هکتار می باشد. فاصله تا فرودگاه 40 کیلومتر، فاصله تا راه آهن 9 کیلومتر، فاصله تا مرکزاستان 45 کیلومتر، فاصله تا نزدیکترین بندر 1100 ...",
+      "source_quality": "search_index",
+      "source_title": "شهرک صنعتی شمس آباد تهران - sanat.ir",
+      "source_type": "search",
+      "source_url": "https://html.duckduckgo.com/html/?q=%D8%B5%D9%86%D8%B9%D8%AA%DB%8C+%D8%B4%D9%85%D8%B3+%D8%A2%D8%A8%D8%A7%D8%AF+%D8%AA%D9%88%D9%84%DB%8C%D8%AF+%DA%A9%D9%86%D9%86%D8%AF%D9%87+%D8%AA%D9%87%D8%B1%D8%A7%D9%86&s=30&kl=ir-fa"
+    },
+    {
+      "captured_at": "2026-09-01T06:32:24Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-643f315edbfdcee6",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "شهرک صنعتی شمس آباد تهران شهرک صنعتی شمس آباد ، واقع در تهران و کیلومتر ۴۵ اتوبان تهران - قم می باشد .مساحت کلی شهرک 2891 هکتار می باشد.",
+      "source_quality": "search_index",
+      "source_title": "شهرک صنعتی شمس آباد تهران - sanat.ir",
+      "source_url": "https://html.duckduckgo.com/html/?q=%D8%B5%D9%86%D8%B9%D8%AA%DB%8C+%D8%B4%D9%85%D8%B3+%D8%A2%D8%A8%D8%A7%D8%AF+%D8%AA%D9%88%D9%84%DB%8C%D8%AF+%DA%A9%D9%86%D9%86%D8%AF%D9%87+%D8%AA%D9%87%D8%B1%D8%A7%D9%86&s=0&kl=ir-fa"
+    },
+    {
+      "captured_at": "2026-09-01T06:32:24Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-f52b8e780f097c72",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "شهرک صنعتی شمس آباد ، واقع در تهران و کیلومتر ۴۵ اتوبان تهران - قم می باشد .مساحت کلی شهرک 2891 هکتار می باشد. فاصله تا فرودگاه 40 کیلومتر، فاصله تا راه آهن 9 کیلومتر، فاصله تا مرکزاستان 45 کیلومتر، فاصله تا نزدیکترین بندر 1100 ...",
+      "source_quality": "search_index",
+      "source_title": "شهرک صنعتی شمس آباد تهران - sanat.ir",
+      "source_url": "https://html.duckduckgo.com/html/?q=%D8%B5%D9%86%D8%B9%D8%AA%DB%8C+%D8%B4%D9%85%D8%B3+%D8%A2%D8%A8%D8%A7%D8%AF+%D8%AA%D9%88%D9%84%DB%8C%D8%AF+%DA%A9%D9%86%D9%86%D8%AF%D9%87+%D8%AA%D9%87%D8%B1%D8%A7%D9%86&s=30&kl=ir-fa"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+### Page
+- Page URL: https://fooladpaytakht.com/
+- Page Title: فولاد خوش تراش - فولاد اتومات | شرکت فولاد پایتخت
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e4]:
+      - generic [ref=e7]:
+        - list [ref=e8]:
+          - listitem [ref=e9]: فولاد پایتخت برترین شرکت سازه های فولادی
+          - listitem [ref=e10]:
+            - generic [ref=e11]: 
+            - link "02166674477" [ref=e12] [cursor=pointer]:
+              - /url: tel:02166674477
+          - listitem [ref=e13]:
+            - generic [ref=e14]: 
+            - link "02166674008" [ref=e15] [cursor=pointer]:
+              - /url: tel:02166674008
+          - listitem [ref=e16]:
+            - generic [ref=e17]: 
+            - link "info@fooladpaytakht.com" [ref=e18] [cursor=pointer]:
+              - /url: mailto:info@fooladpaytakht.com
+        - list [ref=e19]:
+          - listitem [ref=e20]:
+            - link "" [ref=e21] [cursor=pointer]:
+              - /url: https://wa.me/+989122890467
+          - listitem [ref=e23]:
+            - link "" [ref=e24] [cursor=pointer]:
+              - /url: https://t.me/+989122890467
+      - text:   
+    - generic [ref=e29]:
+      - generic [ref=e37]:
+        - heading "فولاد خوش تراش تخصص ماست" [level=1] [ref=e42]
+        - generic [ref=e43]:
+          - generic:
+            - paragraph [ref=e47]:
+              - text: فولاد پایتخت فعالیت خود را از سال 1375 به طور رسمی آغاز نموده است. این شرکت در زمینه واردات و توزیع
+              - link "فولاد خوش تراش" [ref=e48] [cursor=pointer]:
+                - /url: https://fooladpaytakht.com/%D8%B9%D9%86%D8%A7%D8%B5%D8%B1-%D9%81%D9%88%D9%84%D8%A7%D8%AF-%D8%AE%D9%88%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4/
+              - text: (اتومات) شروع به کار کرد. و در حال حاضر با بیش از 25 سال سابقه در تامین انواع فولاد های آلیاژی مشغول به فعالیت می باشد.
+            - link " تماس با شرکت 66672439-021" [ref=e51] [cursor=pointer]:
+              - /url: tel:02166672439
+              - generic [ref=e52]: 
+              - generic [ref=e54]: تماس با شرکت 66672439-021
+        - generic [ref=e58]:
+          - link [ref=e59] [cursor=pointer]:
+            - /url: https://fooladpaytakht.com/about-us/
+          - link "" [ref=e62] [cursor=pointer]:
+            - /url: https://fooladpaytakht.com/about-us/
+        - img "فولاد آلیاژی یزد" [ref=e68]
+      - generic [ref=e77]:
+        - generic:
+          - heading "درباره فولاد خوش تراش (فولاد پایتخت)" [level=1] [ref=e80]
+          - generic [ref=e86]:
+            - paragraph [ref=e87]:
+              - strong [ref=e88]: فولاد خوش تراش (فولاد اتومات یا ماشین کاری آزاد)
+              - text: آن دسته از فولاد هایی هستند که در هنگام ماشین کاری تراشه های کوچکی ایجاد می کنند. این فولادها در دسته
+              - strong [ref=e89]: فولاد های کربنی کم آلیاژ
+              - text: قرار می گیرند که در
+              - link "ترکیب" [ref=e90] [cursor=pointer]:
+                - /url: https://fooladpaytakht.com/auto-steel-components/
+              - text: آنها عناصری مانند سرب، بیسموت، سلنیوم، تلوریم، فسفر و گوگرد حضور دارند.
+            - paragraph [ref=e91]:
+              - strong [ref=e92]: قابلیت ماشین کاری عالی
+              - text: ، مهمترین خصوصیت فولاد خوش تراش است.
+              - strong [ref=e93]: قیمت میلگرد
+              - text: و دیگر محصولات فولادی به عناصر حاضر در ترکیب شیمیایی آنها نیز وابسته است.
+            - paragraph [ref=e94]:
+              - text: اغلب در هنگام ساخت فولاد از حضور عناصری مانند
+              - strong [ref=e95]: گوگرد و فسفر
+              - text: در ترکیب شیمیایی آن اجتناب می شود. تا جایی که اغلب فولادها در ترکیب شیمیایی خود دارای حداقل ممکن (۰/۰۴۵) از عناصر گوگرد و فسفر هستند. زیرا حضور این عناصر در ترکیب فولادها منجر به
+              - strong [ref=e96]: تاثیرات سوء در خواص مکانیکی
+              - text: ، چقرمگی و همگنی آنان خواهد شد.
+            - paragraph [ref=e97]:
+              - text: اما امروزه می دانیم حضور عناصر
+              - strong [ref=e98]: گوگرد (تا ۰/۴ درصد)
+              - text: و
+              - strong [ref=e99]: فسفر (تا 5/11 درصد)
+              - text: و همچنین حضور عنصر منگنز و عنصر سرب در مقادیری در بازه
+              - strong [ref=e100]: ۰/۱۵- ۰/۳۵ درصد
+              - text: در ترکیب فولادهای کم کربن و کربن متوسط می تواند منجر به ایجاد قابلیتهای مطلوب ماشین کاری، براده برداری و کیفیت سطحی این فولادها پس از ماشین کاری شود.
+          - separator [ref=e102]
+          - generic [ref=e105]:
+            - paragraph [ref=e106]:
+              - strong [ref=e107]: با حضور گوگرد و تشکیل ناخالصی سولفیدی در مرزدانه ها
+              - text: ، حين ماشین کاری براده ها خرد شده و طول آنها کوتاه تر می شود و در نتیجه منجر به
+              - strong [ref=e108]: افزایش سرعت انجام آن
+              - text: خواهد شد. علاوه بر این به دلیل
+              - strong [ref=e109]: خاصیت روان کاری گوگرد
+              - text: ، با کاسته شدن از شدت اصطکاک در قسمت برنده ابزارهای برشی،
+              - strong [ref=e110]: عمر آنها افزایش
+              - text: خواهد یافت.
+            - paragraph [ref=e111]:
+              - text: علت حضور
+              - strong [ref=e112]: سرب
+              - text: در ترکیب فولادهای خوش تراش به دلیل
+              - strong [ref=e113]: توزیع فوق العاده ریز و یکنواخت
+              - text: آن در بین سایر عناصر است که خرد و ریز شدن براده ها در حین ماشین کاری را سبب می شود.
+            - paragraph [ref=e114]:
+              - text: میان میزان عنصر
+              - strong [ref=e115]: گوگرد
+              - text: و
+              - strong [ref=e116]: سرب
+              - text: در ترکیب شیمیایی فولاد خوش تراش و قابلیت ماشین کاری و براده برداری
+              - strong [ref=e117]: رابطه مستقیمی
+              - text: برقرار است. هر چه درصد حضور این عناصر در ترکیب فولاد بالاتر باشد،
+              - strong [ref=e118]: قابلیت ماشین کاری بهبود بیشتری
+              - text: پیدا خواهد کرد.
+            - paragraph [ref=e119]:
+              - text: به طور کلی به مواد و فلزاتی که دارای
+              - strong [ref=e120]: سختی ۴۲ تا ۶۵ درجه راکول C
+              - text: باشند،
+              - strong [ref=e121]: مواد سخت
+              - text: گفته می شود. از میان فلزات، انواع
+              - link "فولاد" [ref=e122] [cursor=pointer]:
+                - /url: https://fooladpaytakht.com/alloy-steels-differences/
+              - text: از سختی های بسیار بالا برخوردار هستند.
+              - strong [ref=e123]: سختی بالا، مقاومت به سایش و مقاومت در برابر دماهای بالا
+              - text: برای
+              - link "فولادهای سخت" [ref=e124] [cursor=pointer]:
+                - /url: https://fooladpaytakht.com/10-types-of-alloy-steel/
+              - text: یک مزیت بزرگ محسوب می شود.
+          - separator [ref=e129]
+          - generic [ref=e135]:
+            - paragraph [ref=e136]:
+              - text: به طوری که به سبب
+              - strong [ref=e137]: ویژگیهای منحصربه فرد این گروه از فلزات
+              - text: ، بسیاری از قطعات صنعتی مانند
+              - strong [ref=e138]: قطعات خودروها و ماشین آلات
+              - text: از این قبیل
+              - link "فولادهای با سختی بسیار بالا" [ref=e139] [cursor=pointer]:
+                - /url: https://fooladpaytakht.com/%d9%87%d9%85%d9%87-%da%86%db%8c%d8%b2-%d8%af%d8%b1-%d9%85%d9%88%d8%b1%d8%af-%d9%81%d9%88%d9%84%d8%a7%d8%af-%da%a9%d9%85-%d8%a2%d9%84%db%8c%d8%a7%da%98-%d8%a8%d8%a7-%d8%a7%d8%b3%d8%aa%d8%ad%da%a9%d8%a7/
+              - text: تولید میشود.
+            - paragraph [ref=e140]:
+              - text: در تولید انواع قطعات صنعتی یکی از مراحل مهم و تعیین کننده
+              - strong [ref=e141]: پرداخت سطحی نهایی
+              - text: است که برای حذف مواد ناخواسته از سطح فلز و ایجاد سطح نهایی ایده آل صورت می گیرد.
+            - paragraph [ref=e142]:
+              - text: در گذشته تنها روش برای پرداخت سطحی و ماشین کاری مواد سخت،
+              - strong [ref=e143]: سنگ زنی یا ماشین کاری با سرعت بسیار پایین
+              - text: بود. اما امروزه با
+              - strong [ref=e144]: توسعه و تکامل ابزارها و روشهای برشی
+              - text: ، امکان شکل دهی این قطعات نیز با روش
+              - strong [ref=e145]: تراش کاری
+              - text: فراهم شده است. امروزه این عملیات به
+              - strong [ref=e146]: سطوح بالایی از بهره وری و ایمنی
+              - text: رسیده است.
+            - paragraph [ref=e147]:
+              - text: با این حال در حین عملیات تراشکاری برای فولادهای سخت
+              - strong [ref=e148]: مشکلات زیادی
+              - text: وجود خواهد داشت. از جمله ایجاد دمای بالا در منطقه کار و نیاز به نیروی برشی بالاتر در حین ماشین کاری.
+            - paragraph [ref=e149]:
+              - text: این موارد می تواند منجر به
+              - strong [ref=e150]: کاهش عمر تجهیزات ماشین کاری
+              - text: ،
+              - strong [ref=e151]: کاهش سرعت تولید
+              - text: و در نتیجه
+              - strong [ref=e152]: افزایش قیمت قطعات نهایی
+              - text: شود.
+          - separator [ref=e154]
+          - generic [ref=e155]: در چنین شرایطی جهت تولید قطعات فولادی با تیراژ انبوه و سری تراشی، نیاز به فولادهایی با قابلیت ماشین کاری عالی با خوشتراشی است تا قطعات نهایی پس از ماشین کاری از کیفیت سطحی بالایی برخوردار باشند تا به این ترتیب سرعت تولید بالا و هزینه های پایین ماشین کاری را سبب شوند، به فولادهایی که از طریق بهبود عناصر ترکیب شیمیایی دارای این خواص باشند، فولاد خوش تراش یا فولاد اتومات گفته می شود.
+          - separator [ref=e159]
+          - heading "رایج ترین استاندارد معرفی فولاد خوش تراش" [level=1] [ref=e162]
+          - paragraph [ref=e166]: 11smnpb30 =====> 1/0718 ----------------------- 11smn28 =====> 1/0736
+          - heading "گالری تصاویر" [level=1] [ref=e172]
+          - generic [ref=e174]:
+            - term [ref=e176]:
+              - link [ref=e177] [cursor=pointer]:
+                - /url: https://fooladpaytakht.com/wp-content/uploads/2022/07/pic1.jpg
+                - img "فولاد خوش تراش" [ref=e178]
+            - term [ref=e180]:
+              - link [ref=e181] [cursor=pointer]:
+                - /url: https://fooladpaytakht.com/wp-content/uploads/2022/07/pic2.jpg
+                - img "فولاد میلگرد اتومات پایتخت وارداتی" [ref=e182]
+            - term [ref=e184]:
+              - link [ref=e185] [cursor=pointer]:
+                - /url: https://fooladpaytakht.com/wp-content/uploads/2022/07/pic3.jpg
+                - img "میلگرد فولاد شش تراش پایتخت" [ref=e186]
+      - generic [ref=e189]:
+        - generic:
+          - generic [ref=e194]: بخـــــــــش مقــــــــــالات ســـــایت
+          - link " مشاهده مقالات" [ref=e199] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e200]: 
+            - generic [ref=e202]: مشاهده مقالات
+      - generic [ref=e205]:
+        - generic:
+          - generic [ref=e206]:
+            - paragraph
+            - generic [ref=e207]:
+              - generic [ref=e208]:
+                - heading "ماشین حساب وزن میلگرد - محاسبه آنلاین" [level=1] [ref=e209]
+                - paragraph [ref=e210]: وزن میلگرد را بر اساس جنس، شکل مقطع، قطر و طول محاسبه کنید
+              - generic [ref=e211]:
+                - generic [ref=e212]:
+                  - generic [ref=e213]: "جنس میلگرد:"
+                  - combobox "جنس میلگرد:" [ref=e214]:
+                    - 'option "آهن (چگالی: 7.85 g/cm³)" [selected]'
+                    - 'option "فسفر برنز (چگالی: 8.00 g/cm³)"'
+                    - 'option "استیل (چگالی: 7.90 g/cm³)"'
+                    - 'option "برنج (چگالی: 8.47 g/cm³)"'
+                    - 'option "آلومینیوم (چگالی: 2.70 g/cm³)"'
+                    - 'option "مس (چگالی: 8.96 g/cm³)"'
+                - generic [ref=e215]:
+                  - generic [ref=e216]: "سطح مقطع :"
+                  - combobox "سطح مقطع :" [ref=e217]:
+                    - option "میلگرد گرد" [selected]
+                    - option "میلگرد چهارگوش"
+                    - option "میلگرد شش‌گوش"
+                - generic [ref=e218]:
+                  - generic [ref=e219]: "قطر میلگرد (میلی‌متر):"
+                  - spinbutton "قطر میلگرد (میلی‌متر):" [ref=e220]: "5"
+                  - generic [ref=e221]: در میلگرد شش‌گوش، قطر = فاصله بین دو گوشه‌ی مقابل
+                - generic [ref=e222]:
+                  - generic [ref=e223]: "طول میلگرد (متر):"
+                  - spinbutton "طول میلگرد (متر):" [ref=e224]: "10"
+                - generic [ref=e225]:
+                  - generic [ref=e226]: "تعداد شاخه:"
+                  - spinbutton "تعداد شاخه:" [ref=e227]: "1"
+                - button "محاسبه وزن میلگرد" [ref=e228] [cursor=pointer]
+            - paragraph
+          - heading "موقعیت شرکت فولاد پایتخت" [level=1] [ref=e233]
+          - paragraph [ref=e235]:
+            - iframe [ref=e236]: "<span data-mce-type=\"bookmark\" style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\" class=\"mce_SELRES_start\"> </span>":
+              - generic [ref=f1e2]:
+                - generic "Map" [ref=f1e5]
+                - generic:
+                  - generic [ref=f1e6]:
+                    - button "بزرگ‌نمایی" [ref=f1e7] [cursor=pointer]:
+                      - img "icon" [ref=f1e8]
+                    - separator [ref=f1e9]
+                    - button "کوچکنمایی" [ref=f1e10] [cursor=pointer]:
+                      - img "icon" [ref=f1e11]
+                  - link "مشاهده در بلد" [ref=f1e12] [cursor=pointer]:
+                    - /url: https://balad.ir/p/5ZFlvb2UECjbGu
+                - contentinfo [ref=f1e13]:
+                  - list [ref=f1e14]:
+                    - listitem [ref=f1e15]:
+                      - link "©Balad" [ref=f1e16] [cursor=pointer]:
+                        - /url: https://balad.ir
+                    - listitem [ref=f1e17]: "|©OpenStreetMap"
+                    - listitem [ref=f1e18]:
+                      - text: "|"
+                      - link "شرایط استفاده" [ref=f1e19] [cursor=pointer]:
+                        - /url: https://balad.ir/terms
+    - contentinfo [ref=e237]:
+      - generic [ref=e239]:
+        - complementary [ref=e241]:
+          - figure [ref=e242]:
+            - img "لوگو" [ref=e243]
+        - complementary [ref=e245]:
+          - heading "درباره ما" [level=4] [ref=e246]
+          - generic [ref=e247]: مجموعه فولاد پایتخت فعالیت خود را از سال 1380 به طور رسمی آغاز نمود. این شرکت در زمینه واردات و توزیع انواع فولاد های خوش تراش اتومات (0718/1) و انواع فولادهای آلیاژی از قبیل CK45 و 45 s 20 و ترانسمیسیون و انواع میلگردهای کششی ...
+        - complementary [ref=e249]:
+          - heading "محصولات" [level=4] [ref=e250]
+          - list [ref=e252]:
+            - listitem [ref=e253]:
+              - link "خرید میلگرد اتومات" [ref=e254] [cursor=pointer]:
+                - /url: https://fooladpaytakht.com/%d9%85%db%8c%d9%84%da%af%d8%b1%d8%af-%d8%a7%d8%aa%d9%88%d9%85%d8%a7%d8%aa-%d9%88-%d9%86%db%8c%d9%85%d9%87-%d8%a7%d8%aa%d9%88%d9%85%d8%a7%d8%aa/
+            - listitem [ref=e255]:
+              - link "خرید فولاد خوش تراش" [ref=e256] [cursor=pointer]:
+                - /url: https://fooladpaytakht.com/%D8%B9%D9%86%D8%A7%D8%B5%D8%B1-%D9%81%D9%88%D9%84%D8%A7%D8%AF-%D8%AE%D9%88%D8%B4-%D8%AA%D8%B1%D8%A7%D8%B4/
+            - listitem [ref=e257]:
+              - link "خرید فولاد اتومات" [ref=e258] [cursor=pointer]:
+                - /url: https://fooladpaytakht.com/%d9%81%d9%88%d9%84%d8%a7%d8%af-%d8%a7%d8%aa%d9%88%d9%85%d8%a7%d8%aa/
+        - complementary [ref=e260]:
+          - heading "تماس با ما" [level=4] [ref=e261]
+          - generic [ref=e262]:
+            - generic [ref=e263]: 
+            - text: تهران - بازارآهن - شادآباد - بلوک خرداد شمالی - پلاک 93
+            - generic [ref=e264]: 
+            - text: "66672130"
+            - generic [ref=e265]: 
+            - text: "66672140"
+            - generic [ref=e266]: 
+            - text: "66674008"
+            - generic [ref=e267]: 
+            - text: "66674477"
+            - generic [ref=e268]: 
+            - text: "66672439"
+            - generic [ref=e269]: 
+            - text: "09123336499"
+            - generic [ref=e270]: 
+            - text: "09122890467"
+      - generic [ref=e273]:
+        - link "" [ref=e274] [cursor=pointer]:
+          - /url: ""
+        - generic [ref=e276]: تمامی حقوق متعلق به شرکت آرمان تامین فولاد پایتخت می باشد
+        - list [ref=e277]:
+          - listitem [ref=e278]:
+            - link "" [ref=e279] [cursor=pointer]:
+              - /url: https://wa.me/+989122890467
+          - listitem [ref=e281]:
+            - link "" [ref=e282] [cursor=pointer]:
+              - /url: https://t.me/+989122890467
+  - generic [ref=e284]:
+    - link "" [ref=e286] [cursor=pointer]:
+      - /url: "#"
+    - list [ref=e289]:
+      - listitem [ref=e290]:
+        - link "" [ref=e291] [cursor=pointer]:
+          - /url: https://wa.me/+989122890467
+      - listitem [ref=e293]:
+        - link "" [ref=e294] [cursor=pointer]:
+          - /url: https://t.me/+989122890467
+```

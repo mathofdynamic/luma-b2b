@@ -1,0 +1,415 @@
+### Page
+- Page URL: https://tarkhiskara.com/
+- Page Title: ترخیص کالا | ترخیص کار | ترخیص کالا از گمرک | شرکت ترخیص کالا | ترخیص کارا
+- Console: 1 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - text: ► ► ► ► ► ► ► ► ► ► ► ► ► ► ► ► ► ► ►
+    - banner [ref=e3]:
+      - generic [ref=e5]:
+        - navigation [ref=e6]:
+          - list:
+            - listitem:
+              - link "face":
+                - /url: http://#
+          - list [ref=e7]:
+            - listitem [ref=e8]:
+              - link [ref=e9] [cursor=pointer]:
+                - /url: https://tarkhiskara.com/en/
+                - img "English" [ref=e11]
+            - listitem [ref=e12]:
+              - link [ref=e13] [cursor=pointer]:
+                - /url: https://tarkhiskara.com/fr/
+                - img "Français" [ref=e15]
+            - listitem [ref=e16]:
+              - link [ref=e17] [cursor=pointer]:
+                - /url: https://tarkhiskara.com
+                - img "فارسی" [ref=e19]
+        - list [ref=e23]:
+          - listitem [ref=e24]:
+            - text: "Sat - Thu: 09.00 - 19.00"
+            - generic [ref=e25]: 
+          - listitem [ref=e26]:
+            - text: +(98)02122639580
+            - generic [ref=e27]: 
+          - listitem [ref=e28]:
+            - text: info@tarkhiskara.com
+            - generic [ref=e29]: 
+      - generic [ref=e32]:
+        - strong [ref=e33]:
+          - link [ref=e34] [cursor=pointer]:
+            - /url: https://tarkhiskara.com/
+            - img "ترخیص کالا | شرکت ترخیص کار ا" [ref=e35]
+        - text: 
+        - navigation [ref=e36]:
+          - generic [ref=e37]:
+            - list:
+              - listitem [ref=e38]:
+                - link "صفحه اصلی" [ref=e39] [cursor=pointer]:
+                  - /url: https://tarkhiskara.com/
+              - listitem [ref=e40]:
+                - link "خدمات ترخیص" [ref=e41] [cursor=pointer]:
+                  - /url: https://tarkhiskara.com/%d8%a2%d8%b4%d9%86%d8%a7%db%8c%db%8c-%d8%a8%d8%a7-%d8%aa%d8%b1%d8%ae%db%8c%d8%b5/
+              - listitem [ref=e42]:
+                - link "گمرک" [ref=e43] [cursor=pointer]:
+                  - /url: https://tarkhiskara.com/%da%af%d9%85%d8%b1%da%a9/
+              - listitem [ref=e44]:
+                - link "کالا" [ref=e45] [cursor=pointer]:
+                  - /url: https://tarkhiskara.com/%da%a9%d8%a7%d9%84%d8%a7/
+              - listitem [ref=e46]:
+                - link "واردات کالا" [ref=e47] [cursor=pointer]:
+                  - /url: https://tarkhiskara.com/%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa-%da%a9%d8%a7%d9%84%d8%a7/
+              - listitem [ref=e48]:
+                - link "خدمات بازرگانی" [ref=e49] [cursor=pointer]:
+                  - /url: https://tarkhiskara.com/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%a8%d8%a7%d8%b2%d8%b1%da%af%d8%a7%d9%86%db%8c/
+              - listitem [ref=e50]:
+                - generic [ref=e51]: بلاگ ترخیص کارا
+              - listitem [ref=e52]:
+                - link "تماس با ما" [ref=e53] [cursor=pointer]:
+                  - /url: https://tarkhiskara.com/%d8%aa%d9%85%d8%a7%d8%b3-%d8%a8%d8%a7-%d9%85%d8%a7/
+              - listitem [ref=e54]:
+                - link "ماموریت کارا" [ref=e55] [cursor=pointer]:
+                  - /url: https://tarkhiskara.com/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/
+    - generic [ref=e56]:
+      - generic [ref=e60]:
+        - generic [ref=e62]:
+          - img "ترخيص-گمرک-تهران" [ref=e63]
+          - heading "ترخیص کالا از گمرک" [level=1] [ref=e65]
+          - heading "شرکت ترخیص کالا جهان کارا" [level=2] [ref=e66]
+          - heading "ترخیص کالا از گمرک فرودگاه امام خمینی و گمرک شهریار" [level=3] [ref=e67]
+          - heading "ترخیص از گمرک غرب و ترخیص از گمرک پیام" [level=4] [ref=e68]
+        - link "" [ref=e69] [cursor=pointer]:
+          - /url: "#"
+        - link "" [ref=e70] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=e76]:
+        - generic [ref=e77]:
+          - heading "ترخیص کالا" [level=2] [ref=e78]
+          - paragraph [ref=e80]: ترخیص کار گمرکی برای ترخیص کالا از گمرک های کشور
+        - generic [ref=e81]:
+          - generic [ref=e83]:
+            - article [ref=e84]:
+              - text: 
+              - generic [ref=e85]:
+                - generic [ref=e86]:
+                  - link "ترخیص کالا از گمرک" [ref=e88] [cursor=pointer]:
+                    - /url: https://tarkhiskara.com/category/%d8%aa%d8%b1%d8%ae%db%8c%d8%b5-%da%a9%d8%a7%d9%84%d8%a7/
+                  - heading [level=3] [ref=e89]:
+                    - link "ترخیص کالا از دبی | واردات کالا از دبی" [ref=e90] [cursor=pointer]:
+                      - /url: https://tarkhiskara.com/%d8%aa%d8%b1%d8%ae%db%8c%d8%b5-%da%a9%d8%a7%d9%84%d8%a7-%d8%a7%d8%b2-%d8%af%d8%a8%db%8c-%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa-%da%a9%d8%a7%d9%84%d8%a7-%d8%a7%d8%b2-%d8%af%d8%a8%db%8c/
+                - link "ادامه مطلب ..." [ref=e93] [cursor=pointer]:
+                  - /url: https://tarkhiskara.com/%d8%aa%d8%b1%d8%ae%db%8c%d8%b5-%da%a9%d8%a7%d9%84%d8%a7-%d8%a7%d8%b2-%d8%af%d8%a8%db%8c-%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa-%da%a9%d8%a7%d9%84%d8%a7-%d8%a7%d8%b2-%d8%af%d8%a8%db%8c/
+            - article [ref=e94]:
+              - text: 
+              - generic [ref=e95]:
+                - generic [ref=e96]:
+                  - link "ترخیص کالا از گمرک" [ref=e98] [cursor=pointer]:
+                    - /url: https://tarkhiskara.com/category/%d8%aa%d8%b1%d8%ae%db%8c%d8%b5-%da%a9%d8%a7%d9%84%d8%a7/
+                  - heading [level=3] [ref=e99]:
+                    - link "ترخیص کالا از گمرک پیرانشهر" [ref=e100] [cursor=pointer]:
+                      - /url: https://tarkhiskara.com/%d8%aa%d8%b1%d8%ae%db%8c%d8%b5-%da%a9%d8%a7%d9%84%d8%a7-%d8%a7%d8%b2-%da%af%d9%85%d8%b1%da%a9-%d9%be%db%8c%d8%b1%d8%a7%d9%86%d8%b4%d9%87%d8%b1/
+                - link "ادامه مطلب ..." [ref=e103] [cursor=pointer]:
+                  - /url: https://tarkhiskara.com/%d8%aa%d8%b1%d8%ae%db%8c%d8%b5-%da%a9%d8%a7%d9%84%d8%a7-%d8%a7%d8%b2-%da%af%d9%85%d8%b1%da%a9-%d9%be%db%8c%d8%b1%d8%a7%d9%86%d8%b4%d9%87%d8%b1/
+            - article [ref=e104]:
+              - text: 
+              - generic [ref=e105]:
+                - generic [ref=e106]:
+                  - link "ترخیص کالا از گمرک" [ref=e108] [cursor=pointer]:
+                    - /url: https://tarkhiskara.com/category/%d8%aa%d8%b1%d8%ae%db%8c%d8%b5-%da%a9%d8%a7%d9%84%d8%a7/
+                  - heading [level=3] [ref=e109]:
+                    - link "ترخیص کالا با پته" [ref=e110] [cursor=pointer]:
+                      - /url: https://tarkhiskara.com/%d8%aa%d8%b1%d8%ae%db%8c%d8%b5-%da%a9%d8%a7%d9%84%d8%a7-%d8%a8%d8%a7-%d9%be%d8%aa%d9%87/
+                - link "ادامه مطلب ..." [ref=e113] [cursor=pointer]:
+                  - /url: https://tarkhiskara.com/%d8%aa%d8%b1%d8%ae%db%8c%d8%b5-%da%a9%d8%a7%d9%84%d8%a7-%d8%a8%d8%a7-%d9%be%d8%aa%d9%87/
+            - article [ref=e114]:
+              - text: 
+              - generic [ref=e115]:
+                - generic [ref=e116]:
+                  - link "ترخیص کالا از گمرک" [ref=e118] [cursor=pointer]:
+                    - /url: https://tarkhiskara.com/category/%d8%aa%d8%b1%d8%ae%db%8c%d8%b5-%da%a9%d8%a7%d9%84%d8%a7/
+                  - heading [level=3] [ref=e119]:
+                    - link "ترخیص کالا از گمرک بازرگان" [ref=e120] [cursor=pointer]:
+                      - /url: https://tarkhiskara.com/%d8%aa%d8%b1%d8%ae%db%8c%d8%b5-%da%a9%d8%a7%d9%84%d8%a7-%d8%a7%d8%b2-%da%af%d9%85%d8%b1%da%a9-%d8%a8%d8%a7%d8%b2%d8%b1%da%af%d8%a7%d9%86/
+                - link "ادامه مطلب ..." [ref=e123] [cursor=pointer]:
+                  - /url: https://tarkhiskara.com/%d8%aa%d8%b1%d8%ae%db%8c%d8%b5-%da%a9%d8%a7%d9%84%d8%a7-%d8%a7%d8%b2-%da%af%d9%85%d8%b1%da%a9-%d8%a8%d8%a7%d8%b2%d8%b1%da%af%d8%a7%d9%86/
+          - generic:
+            - link [ref=e124] [cursor=pointer]:
+              - /url: "#prev"
+              - text:  قبلی
+            - link [ref=e125] [cursor=pointer]:
+              - /url: "#next"
+              - text:  بعدی
+      - generic [ref=e133]:
+        - heading [level=2] [ref=e134]:
+          - strong [ref=e136]: خدمات بازرگانی، واردات کالا و ترخیص کارا
+        - paragraph [ref=e137]:
+          - generic [ref=e138]:
+            - text: "شرکت ترخیص کالا و بازرگانی جهان کارا خدمات بازرگانی همچون واردات کالا و صادرات کالا را به واردکنندگان و تولید کنندگان سراسر کشور ارائه می نماید. خدمات بازرگانی ما از همان شروع فرایند عبارت است از: تحقیقات بازار، منبع یابی، انجام مکاتبات و مذاکرات بازرگانی بین المللی، دریافت پروفرما، عقد قرارداد بین المللی و انجام بازرسی های حضوری و اعتبار سنجی فروشنده کالا. همچنین انجام"
+            - link "ثبت سفارش کالا" [ref=e139] [cursor=pointer]:
+              - /url: https://tarkhiskara.com/%d8%ab%d8%a8%d8%aa-%d8%b3%d9%81%d8%a7%d8%b1%d8%b4-%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa-%da%a9%d8%a7%d9%84%d8%a7/
+            - text: و دریافت مجوز واردات کالا، ارائه کارت بازرگانی، دریافت معافیت گمرکی از وزارت بازرگانی در سامانه بهین یاب و انجام ترخیص کالا از گمرک جزو خدمات ماست. بازرگانی کارا دارای تیمی متشکل از مجرب ترین ترخیص کاران کشور و حمل و نقل بین المللی کالا است.
+        - paragraph [ref=e140]:
+          - generic [ref=e141]: جهان کارا یکی از بهترین شرکت های ترخیص کالا در ایران می باشد که منافع شما را در در بهترین و سریعترین زمان ممکن تامین می کند. این شرکت با یک دهه تجربه کاری و با اتکاء به نیروی انسانی نخبه خویش جزو شرکت های دانش بنیان می باشد.
+      - generic [ref=e146]:
+        - generic [ref=e151]:
+          - img "ترخیص کالا از گمرک" [ref=e153]
+          - heading "ترخیص کالا از گمرک" [level=3] [ref=e154]
+          - paragraph [ref=e155]:
+            - generic [ref=e156]: ترخیص کارا دارای مدرک رسمی کارگزاری گمرک و پروانه حق العمل کاری گمرک می باشد. این شرکت با تکیه بر دانش، تجربه و تعدد نیروی ترخیص کار خود در گمرکات کشور با دقت ، سرعت و مناسب ترین هزینه ترخیص کالا در خدمت شماست.
+        - generic [ref=e161]:
+          - img "تخصیص ارز دولتی" [ref=e163]
+          - heading [level=3] [ref=e164]:
+            - link "امور بانکی و تخصیص ارز دولتی" [ref=e165] [cursor=pointer]:
+              - /url: https://tarkhiskara.com/%d8%ad%d9%88%d8%a7%d9%84%d9%87-%d8%a7%d8%b1%d8%b2-%d9%85%d8%b1%d8%ac%d8%b9-%d8%aa%d8%b1%d8%ae%db%8c%d8%b5-%da%a9%d8%a7%d9%84%d8%a7-%d8%a8%d8%a7-%d8%a7%d8%b1%d8%b2-%d9%85%d8%a8%d8%a7%d8%af%d9%84/
+          - paragraph [ref=e166]:
+            - generic [ref=e167]:
+              - text: خدمات ارزی و بانکی شامل تخصیص ارز دولتی و دریافت ارز مبادله ای، انجام حواله های ارزی و گشایش ال سی برای انتقال ارز و نیز خدمات کارت بازرگانی شامل صدور و دریافت مجوز
+              - link "واردات کالا" [ref=e168] [cursor=pointer]:
+                - /url: https://tarkhiskara.com/%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa-%da%a9%d8%a7%d9%84%d8%a7/
+              - text: جزو خدمات شرکت ترخیص کارا می باشد.
+        - generic [ref=e173]:
+          - img "ثبت سفارش کالا" [ref=e175]
+          - heading [level=3] [ref=e176]:
+            - link "ثبت سفارش کالا" [ref=e177] [cursor=pointer]:
+              - /url: https://tarkhiskara.com/%d8%ab%d8%a8%d8%aa-%d8%b3%d9%81%d8%a7%d8%b1%d8%b4-%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa-%da%a9%d8%a7%d9%84%d8%a7/
+          - paragraph [ref=e178]:
+            - generic [ref=e179]:
+              - text: خدمات
+              - link "ثبت سفارش واردات کالا" [ref=e180] [cursor=pointer]:
+                - /url: https://tarkhiskara.com/%d8%ab%d8%a8%d8%aa-%d8%b3%d9%81%d8%a7%d8%b1%d8%b4-%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa-%da%a9%d8%a7%d9%84%d8%a7/
+              - text: در وزارت بازرگانی و دریافت مجوز بازرگانی جزو خدمات ماست. اخذ کد فیدا برای فروشنده و ثبت اصلاحیه و جایگزین در ثبت سفارش و اظهار حمل در سامانه ثبتارش جهت ثبت سفارش با ارز دولتی.
+        - generic [ref=e185]:
+          - img "مشاوره بازرگانی" [ref=e187]
+          - heading "مشاوره بازرگانی" [level=3] [ref=e188]
+          - paragraph [ref=e189]: یکی از خدمات کارا، مشاوره بازرگانی در امور صادرات و واردات به مشتریان خود است. تجربه یک دهه ای ما به همراه رویکرد علمی به عنون یک شرکت دانش بنیان می تواند به توسعه بازار و بخش بازرگانی شرکت ها کمک کند.
+        - generic [ref=e194]:
+          - img "ترانزیت داخلی و خارجی" [ref=e196]
+          - heading "ترانزیت داخلی و خارجی" [level=3] [ref=e197]
+          - paragraph [ref=e198]:
+            - generic [ref=e199]: خدمات حمل بار و ترانزیت کالا از راه زمینی، هوایی و دریایی تخصص ماست. همکاری با شرکت های حمل و نقل داخلی و بین المللی مطرح به ما این امکان می دهد که ترانزیت کالای بین گمرکی را از بارگیری و حمل تا تخلیه در کنار شما باشیم.
+        - generic [ref=e204]:
+          - img "واردات و صادرات" [ref=e206]
+          - heading "واردات و صادرات" [level=3] [ref=e207]
+          - paragraph [ref=e208]:
+            - generic [ref=e209]: خدمات ما در زمینه واردات و صادرات شامل عملیات گمرکی همچون ترخیص کالا از گمرک، منبع یابی، انجام مکاتبات و مذاکرات بازرگانی، دریافت پروفرما، عقد قرارداد، انجام بازرسی های حضوری کالا و اعتبار سنجی فروشنده کالا می باشد.
+      - generic [ref=e215]:
+        - generic:
+          - generic:
+            - heading "مطالب سایت ترخیص کالا آموزش ترخیص کالا و بازرگانی خارجی" [level=4]:
+              - generic [ref=e216]: مطالب سایت ترخیص کالا
+              - link "آموزش ترخیص کالا و بازرگانی خارجی" [ref=e218] [cursor=pointer]:
+                - /url: https://tarkhiskara.com/%d8%a8%d9%84%d8%a7%da%af/
+        - generic [ref=e219]:
+          - generic [ref=e481]:
+            - article [ref=e482]:
+              - link "کتاب مقررات صادرات و واردات 1398 " [ref=e483] [cursor=pointer]:
+                - /url: https://tarkhiskara.com/%d8%a8%d8%b1%d9%88%d8%b2-%d8%b1%d8%b3%d8%a7%d9%86%db%8c-%da%a9%d8%aa%d8%a7%d8%a8-%d9%85%d9%82%d8%b1%d8%b1%d8%a7%d8%aa-%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa-%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa-1398/
+                - img "کتاب مقررات صادرات و واردات 1398" [ref=e484]
+                - generic [ref=e485]: 
+              - generic [ref=e487]:
+                - generic [ref=e488]:
+                  - generic [ref=e489]: ","
+                  - heading [level=3] [ref=e490]:
+                    - link "بروز رسانی کتاب مقررات صادرات و واردات سال 1398 در اپلیکیشن تاجریار" [ref=e491] [cursor=pointer]:
+                      - /url: https://tarkhiskara.com/%d8%a8%d8%b1%d9%88%d8%b2-%d8%b1%d8%b3%d8%a7%d9%86%db%8c-%da%a9%d8%aa%d8%a7%d8%a8-%d9%85%d9%82%d8%b1%d8%b1%d8%a7%d8%aa-%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa-%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa-1398/
+                - time [ref=e493]: آوریل 16, 2019
+                - link "ادامه مطلب ..." [ref=e496] [cursor=pointer]:
+                  - /url: https://tarkhiskara.com/%d8%a8%d8%b1%d9%88%d8%b2-%d8%b1%d8%b3%d8%a7%d9%86%db%8c-%da%a9%d8%aa%d8%a7%d8%a8-%d9%85%d9%82%d8%b1%d8%b1%d8%a7%d8%aa-%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa-%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa-1398/
+            - article [ref=e497]:
+              - link "صادرات میلگرد " [ref=e498] [cursor=pointer]:
+                - /url: https://tarkhiskara.com/%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa-%d9%85%db%8c%d9%84%da%af%d8%b1%d8%af-%d8%a8%d9%87-%d8%b9%d8%b1%d8%a7%d9%82-%d8%aa%d8%b1%da%a9%db%8c%d9%87-%d8%a7%d8%b1%d9%88%d9%be%d8%a7/
+                - img "صادرات میلگرد" [ref=e499]
+                - generic [ref=e500]: 
+              - generic [ref=e502]:
+                - generic [ref=e503]:
+                  - generic [ref=e504]: ", ,"
+                  - heading [level=3] [ref=e505]:
+                    - link "صادرات میلگرد به عراق ، ترکیه ، اروپا" [ref=e506] [cursor=pointer]:
+                      - /url: https://tarkhiskara.com/%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa-%d9%85%db%8c%d9%84%da%af%d8%b1%d8%af-%d8%a8%d9%87-%d8%b9%d8%b1%d8%a7%d9%82-%d8%aa%d8%b1%da%a9%db%8c%d9%87-%d8%a7%d8%b1%d9%88%d9%be%d8%a7/
+                - time [ref=e508]: آوریل 16, 2019
+                - generic [ref=e509]:
+                  - text: صادرات میلگرد به عراق ، ترکیه ، اروپا در این مقاله قصد ارائه مطالبی در خ…
+                  - link "ادامه مطلب ..." [ref=e511] [cursor=pointer]:
+                    - /url: https://tarkhiskara.com/%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa-%d9%85%db%8c%d9%84%da%af%d8%b1%d8%af-%d8%a8%d9%87-%d8%b9%d8%b1%d8%a7%d9%82-%d8%aa%d8%b1%da%a9%db%8c%d9%87-%d8%a7%d8%b1%d9%88%d9%be%d8%a7/
+            - article [ref=e512]:
+              - link "صادرات سیب زمینی " [ref=e513] [cursor=pointer]:
+                - /url: https://tarkhiskara.com/%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa-%d8%b3%db%8c%d8%a8-%d8%b2%d9%85%db%8c%d9%86%db%8c-%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa-%d8%b3%db%8c%d8%a8-%d8%b2%d9%85%db%8c%d9%86%db%8c-%d8%b9%d8%b1%d8%a7%d9%82/
+                - img "صادرات سیب زمینی" [ref=e514]
+                - generic [ref=e515]: 
+              - generic [ref=e517]:
+                - generic [ref=e518]:
+                  - generic [ref=e519]: ", ,"
+                  - heading [level=3] [ref=e520]:
+                    - link "صادرات سیب زمینی | صادرات سیب زمینی به عراق | بازرگانی ترخیص کارا" [ref=e521] [cursor=pointer]:
+                      - /url: https://tarkhiskara.com/%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa-%d8%b3%db%8c%d8%a8-%d8%b2%d9%85%db%8c%d9%86%db%8c-%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa-%d8%b3%db%8c%d8%a8-%d8%b2%d9%85%db%8c%d9%86%db%8c-%d8%b9%d8%b1%d8%a7%d9%82/
+                - time [ref=e523]: آوریل 9, 2019
+                - link "ادامه مطلب ..." [ref=e526] [cursor=pointer]:
+                  - /url: https://tarkhiskara.com/%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa-%d8%b3%db%8c%d8%a8-%d8%b2%d9%85%db%8c%d9%86%db%8c-%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa-%d8%b3%db%8c%d8%a8-%d8%b2%d9%85%db%8c%d9%86%db%8c-%d8%b9%d8%b1%d8%a7%d9%82/
+          - generic:
+            - link [ref=e221] [cursor=pointer]:
+              - /url: "#prev"
+              - text:  قبلی
+            - link [ref=e222] [cursor=pointer]:
+              - /url: "#next"
+              - text:  بعدی
+      - generic [ref=e229]:
+        - link [ref=e232] [cursor=pointer]:
+          - /url: tel:+982122639580
+          - text: "22639580"
+          - paragraph [ref=e234]: برای تماس کلیک کنید
+        - paragraph [ref=e241]: همین حالا برای ترخیص کالا از گمرک با ما تماس بگیرید.
+      - generic [ref=e246]:
+        - heading "ترخیص کالا از گمرکات کشور" [level=2] [ref=e248]
+        - generic [ref=e249]:
+          - link "ترخیص کالا از گمرک فرودگاه امام " [ref=e252] [cursor=pointer]:
+            - /url: https://tarkhiskara.com/%d8%aa%d8%b1%d8%ae%db%8c%d8%b5-%da%a9%d8%a7%d9%84%d8%a7-%d8%a7%d8%b2-%da%af%d9%85%d8%b1%da%a9-%d9%81%d8%b1%d9%88%d8%af%da%af%d8%a7%d9%87-%d8%a7%d9%85%d8%a7%d9%85-%d8%ae%d9%85%db%8c%d9%86%db%8c/
+            - img "ترخیص کالا از گمرک فرودگاه امام" [ref=e253]
+            - generic [ref=e254]: 
+          - generic [ref=e257]:
+            - heading "ترخیص کالا از گمرک تهران" [level=3] [ref=e258]
+            - paragraph [ref=e259]: خدمات ترخیص کالا از گمرک تهران شامل گمرکات شهریار ، فرودگاه امام ، گمرک پست، گمرک غرب تهران ، گمرک فرودگاه مهرآباد، گمرک جنوب تهران، گمرک نمایشگاه.
+        - generic [ref=e260]:
+          - link "ترخیص کالا گمرک بندرعباس " [ref=e263] [cursor=pointer]:
+            - /url: https://tarkhiskara.com/%d8%aa%d8%b1%d8%ae%db%8c%d8%b5-%da%a9%d8%a7%d9%84%d8%a7-%d8%a7%d8%b2-%da%af%d9%85%d8%b1%da%a9-%d8%a8%d9%86%d8%af%d8%b1-%d8%b9%d8%a8%d8%a7%d8%b3/
+            - img "ترخیص کالا گمرک بندرعباس" [ref=e264]
+            - generic [ref=e265]: 
+          - generic [ref=e268]:
+            - heading "ترخیص کالا از گمرک بندرعباس" [level=3] [ref=e269]
+            - paragraph [ref=e270]: ترخیص کالا از گمرک بندرعباس شامل گمرک شهید رجایی، گمرک شهید باهنر، منطقه ویژه معادن و فلزات و جاسک جزو خدمات ما در استان هرمزگان می باشد.
+        - generic [ref=e271]:
+          - link "ترخیص کالا از بندر امام " [ref=e274] [cursor=pointer]:
+            - /url: https://tarkhiskara.com/%d8%aa%d8%b1%d8%ae%db%8c%d8%b5-%da%a9%d8%a7%d9%84%d8%a7-%d8%a7%d8%b2-%da%af%d9%85%d8%b1%da%a9-%d8%a8%d9%86%d8%af%d8%b1-%d8%a7%d9%85%d8%a7%d9%85-%d8%ae%d9%85%db%8c%d9%86%db%8c/
+            - img "ترخیص کالا از بندر امام" [ref=e275]
+            - generic [ref=e276]: 
+          - generic [ref=e279]:
+            - heading "ترخیص کالا از گمرک بندر امام" [level=3] [ref=e280]
+            - paragraph [ref=e281]: ترخیص کالا از گمرک بندر امام خمینی، منطقه ویژه پتروشیمی، ماهشهر، اروند کنار، گمرک آبادان و بازارچه اقتصادی، گمرک اهواز جزو خدمات ما در خوزستان است.
+        - generic [ref=e282]:
+          - img "ترخیص کالا از گمرک بوشهر" [ref=e285]
+          - generic [ref=e287]:
+            - heading "ترخیص کالا از گمرک بوشهر" [level=3] [ref=e288]
+            - paragraph [ref=e289]: ترخیص کالا از گمرک بوشهر، بندر بوالخیر، بازارچه بوشهر، بندر خارک، بندر دیلم، بندر ریگ، عسلویه، گمرک منطقه اقتصادی بوشهر، منطقه ویژه انرژی پارس جزو خدمات ماست.
+        - generic [ref=e290]:
+          - img "ترخیص کالا از بندر چابهار" [ref=e293]
+          - generic [ref=e295]:
+            - heading "ترخیص کالا از بندر چابهار" [level=3] [ref=e296]
+            - paragraph [ref=e297]: ترخیص کالا از بنادر چابهار، منطقه آزاد چابهار، میرجاوه، ایرانشهر، سراوان، زابل، گمرک میلک و بازارچه اقتصادی جزو خدمات ما در استان سیستان می باشد.
+      - generic [ref=e302]:
+        - heading "سوالات متداول ترخیص کالا" [level=2] [ref=e304]
+        - generic:
+          - paragraph [ref=e306] [cursor=pointer]: ترخیص کالا چیست؟
+          - paragraph [ref=e311] [cursor=pointer]: کارمزد ترخیص کالا از گمرک چقدر است؟
+          - paragraph [ref=e316] [cursor=pointer]: چارت مراحل ترخیص کالا از گمرک
+          - paragraph [ref=e321] [cursor=pointer]: مدت زمان ترخیص کالا از گمرک چقدر است؟
+          - paragraph [ref=e326] [cursor=pointer]: سامانه و سایت ترخیص کالا
+          - paragraph [ref=e331] [cursor=pointer]: مراحل ترخیص کالا از گمرک فرودگاه امام چگونه است؟
+          - paragraph [ref=e336] [cursor=pointer]: آموزش ترخیص کالا
+          - paragraph [ref=e341] [cursor=pointer]: مراحل قبل از اظهار کالا در گمرک چیست؟
+          - paragraph [ref=e346] [cursor=pointer]: مانیفست گمرکی چیست؟
+          - paragraph [ref=e351] [cursor=pointer]: انتقال کالا به انبار گمرک
+          - paragraph [ref=e356] [cursor=pointer]: اطلاع شرکت حمل و نقل بین المللی به خریدار
+          - paragraph [ref=e361] [cursor=pointer]: پرداخت هزینه های THC و دریافت ترخیصیه
+          - paragraph [ref=e366] [cursor=pointer]: اظهار کالا به گمرک
+          - paragraph [ref=e371] [cursor=pointer]: شماره کوتاژ چیست؟
+          - paragraph [ref=e376] [cursor=pointer]: ارزیابی و کنترل کالای اظهار شده
+          - paragraph [ref=e381] [cursor=pointer]: تعیین ارزش کالا در گمرک
+          - paragraph [ref=e386] [cursor=pointer]: بازبینی و اقدامات بعد از ترخیص
+      - generic [ref=e394]:
+        - heading "تجربه همکاری با بازرگانی و ترخیص کارا" [level=3] [ref=e396]
+        - generic [ref=e400]:
+          - generic [ref=e402]:
+            - paragraph [ref=e404]: ما برای ترخیص کالا از گمرک بندر امام از خدمات شرکت ترخیص کارا استفاده کردیم. در سایه تعهد و مسئولیت پذیری این شرکت همکاری بسیار لذت بخشی را تجربه کردیم.
+            - generic [ref=e406]:
+              - strong [ref=e407]: فاطمه سروی
+              - text: مدیر شرکت بازرگانی بهتاک الوند
+          - generic [ref=e409]:
+            - paragraph [ref=e411]:
+              - text: چندین سال است که امور بازرگانی ، واردات و ترخیص کالاهای وارداتی شرکت بازرگانی توسعه تجارت گیتی توسط شرکت
+              - link "ترخیص کار" [ref=e412] [cursor=pointer]:
+                - /url: https://tarkhiskara.com/
+              - text: ا انجام می شود.
+            - generic [ref=e414]:
+              - strong [ref=e415]: بهرام علیوند
+              - text: مدیرعامل شرکت بازرگانی توسعه تجارت گیتی
+          - generic [ref=e417]:
+            - paragraph [ref=e419]: همکاری ما با شرکت ترخیص کالا و بازرگانی کارا از سال ۱۳۸۹ شروع شده است , سرعت بالای ترخیص کالا از گمرک های مختلف کشور از ویژگی های این شرکت ترخیص کالا می باشد.
+            - generic [ref=e421]:
+              - strong [ref=e422]: رضا سعیدی
+              - text: مدیر بازرگانی شرکت فناوران اندیشه برتر
+      - generic [ref=e424]:
+        - generic [ref=e426]:
+          - heading "شرکت بازرگانی و ترخیص کارا" [level=3] [ref=e427]
+          - paragraph [ref=e429]:
+            - text: شرکت بازرگانی و ترخیص کارا ، با شعب خود در چین ، ترکیه و اروپا در زمینه واردات و
+            - link "ترخیص کالا" [ref=e430] [cursor=pointer]:
+              - /url: https://tarkhiskara.com/
+            - text: به ارائه خدمات بازرگانی به شرکت های بازرگانی صادرات و واردات می پردازد. با ارائه تشریفات گمرکی به عنوان کارگزار گمرکی و حق العمل کار رسمی گمرک به ترخیص کالا از گمرک ها می پردازد. خدمات بازرگانی از ثبت سفارش کالا در سامانه جامع تجارت ایران و سامانه ثبتارش تا واردات کالا , خدمات کارت بازرگانی , اخذ معافیت های گمرکی , مجوز واردات کالا ، مجوز استاندارد و استرداد حقوق و عوارض گمرکی در صادرات کالا در زمره خدمات بازرگانی کارا می باشد. شرکت ترخیص کالا و بازرگانی کارا علاوه بر خدمات
+            - link "ترخیص کالا از گمرک" [ref=e431] [cursor=pointer]:
+              - /url: https://tarkhiskara.com/
+            - text: با ارائه خدمات ترخیص با ارز مبادله ای و حواله یوان و تخصیص ارز مبادلاتی ، گشایش اعتبار اسنادی ، بیمه بین المللی کالا و حمل و نقل بین المللی و خدمات حمل و
+            - link "ترخیص" [ref=e432] [cursor=pointer]:
+              - /url: https://tarkhiskara.com/
+            - text: به شرکت های بازرگانی ارائه می نماید. شرکت بازرگانی کارا مفتخر است از طریق دفاتر خود در چین و ترکیه و اروپا به ارائه خدمات علمی در زمینه بازرگانی و واردات شامل تحقیقات بازار ، تحقیقات بازاریابی ، منبع یابی بلاخص در کشور های چین و ترکیه با انجام مکاتبات بازرگانی و انجام مذاکرات بازرگانی و عقد قرارداد های بین المللی ، دریافت نمایندگی و ارائه مشاوره بازرگانی خارجی به شرکت های بازرگانی واردات و صادرات بپردازد.
+        - generic [ref=e434]:
+          - heading "ارتباط با شرکت بازرگانی و ترخیص کارا" [level=3] [ref=e435]
+          - generic [ref=e436]:
+            - generic [ref=e437]:
+              - generic [ref=e438]:
+                - text: تهران – خ شریعتی تقاطع خ دولت، برج تجاری و اداری نگین
+                - emphasis [ref=e439]: طبقه 11 واحد 113- شرکت بازرگانی کارا
+              - generic [ref=e440]: 02122639579 – 02122639580
+              - generic [ref=e442]: "info{@}karatradecenter.com"
+            - paragraph [ref=e444]:
+              - img "شرکت ترخيص کالا" [ref=e445]
+            - paragraph [ref=e446]
+        - generic [ref=e448]:
+          - heading "مشاوره بازرگانی و ترخیص کالا" [level=3] [ref=e449]
+          - generic [ref=e451]:
+            - generic [ref=e452]:
+              - generic [ref=e453]: "نام و نام خانوادگی :"
+              - textbox [ref=e455]
+            - generic [ref=e456]:
+              - generic [ref=e457]: "شماره تلفن :"
+              - textbox [ref=e459]
+            - generic [ref=e460]:
+              - generic [ref=e461]: "پیام :"
+              - textbox [ref=e462]
+            - button "ارسال" [ref=e463]
+      - contentinfo [ref=e464]:
+        - generic [ref=e465]: کلیه حقوق مادی و معنوی این سایت متعلق به شرکت کارا می باشد (طراحی و سئو سایت توسط تجارت روز)
+        - list [ref=e466]:
+          - listitem [ref=e467]:
+            - link [ref=e468] [cursor=pointer]:
+              - /url: https://twitter.com/tarkhiskara
+              - text: 
+          - listitem [ref=e469]:
+            - link [ref=e470] [cursor=pointer]:
+              - /url: https://www.pinterest.com/0yz43xi474xrxmtzspvgj7kuwil6qr/pins/
+              - text: 
+          - listitem [ref=e471]:
+            - link [ref=e472] [cursor=pointer]:
+              - /url: https://www.linkedin.com/feed/update/urn:li:activity:6290830804427829248/
+              - text: 
+          - listitem [ref=e473]:
+            - link [ref=e474] [cursor=pointer]:
+              - /url: https://www.facebook.com/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%AA%D8%B1%D8%AE%DB%8C%D8%B5-%DA%A9%D8%A7%D8%B1%D8%A7-1746391758993274/
+              - text: 
+          - listitem [ref=e475]:
+            - link [ref=e476] [cursor=pointer]:
+              - /url: https://plus.google.com/u/0/100680709938143978699
+              - text: 
+          - listitem [ref=e477]:
+            - link [ref=e478] [cursor=pointer]:
+              - /url: https://www.instagram.com/tarkhiskara/
+              - text: 
+          - listitem [ref=e479]:
+            - link [ref=e480] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCuwstLUC47jtu5H0-ExGaPA?view_as=subscriber
+              - text: 
+  - generic:
+    - generic:
+      - generic: Open chat
+      - generic: مشاوره با کارشناسان در واتساپ
+```

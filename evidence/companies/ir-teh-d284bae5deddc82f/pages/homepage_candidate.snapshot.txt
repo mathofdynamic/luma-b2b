@@ -1,0 +1,474 @@
+### Page
+- Page URL: https://trading-milad.com/
+- Page Title: شرکت بازرگانی میلاد | تولید کننده انواع محصولات صنایع سیمان
+### Snapshot
+```yaml
+- generic [active] [ref=e73]:
+  - generic [ref=e74]:
+    - banner [ref=e75]:
+      - generic [ref=e77]:
+        - generic [ref=e79]:
+          - link [ref=e84] [cursor=pointer]:
+            - /url: https://trading-milad.com/
+          - generic [ref=e86]:
+            - generic [ref=e94]:
+              - heading "ساعت کاری" [level=6] [ref=e95]
+              - paragraph [ref=e96]: شنبه تا پنجشنبه ، ساعت ۸-۱۶
+            - generic [ref=e104]:
+              - paragraph [ref=e105]: شماره تماس
+              - paragraph [ref=e106]: ۰۲۱-۲۲۳۴۳۰۴۷
+            - generic [ref=e114]:
+              - paragraph [ref=e115]: آدرس شرکت
+              - paragraph [ref=e116]: سعادت آباد سرو غربی، خیابان صدف، پلاک۱۵ واحد ۱۱
+            - link "درخواست مشاوره" [ref=e120] [cursor=pointer]:
+              - /url: "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjIwOTMiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D"
+        - navigation [ref=e129]:
+          - list [ref=e130]:
+            - listitem [ref=e131]:
+              - link "شرکت بازرگانی میلاد" [ref=e132] [cursor=pointer]:
+                - /url: https://trading-milad.com/
+            - listitem [ref=e133]:
+              - link "محصولات" [ref=e134] [cursor=pointer]:
+                - /url: https://trading-milad.com/shop/
+            - listitem [ref=e135]:
+              - link "وبلاگ" [ref=e136] [cursor=pointer]:
+                - /url: https://trading-milad.com/blog/
+            - listitem [ref=e137]:
+              - link "چند رسانه ای " [ref=e138] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e139]:
+              - link "درباره ما" [ref=e140] [cursor=pointer]:
+                - /url: https://trading-milad.com/about-us/
+            - listitem [ref=e141]:
+              - link "ارتباط با ما" [ref=e142] [cursor=pointer]:
+                - /url: https://trading-milad.com/contact-us/
+      - text:   
+    - generic [ref=e143]:
+      - link "" [ref=e144] [cursor=pointer]:
+        - /url: "#"
+      - generic [ref=e151]:
+        - link [ref=e155] [cursor=pointer]:
+          - /url: https://trading-milad.com/
+          - img "شرکت بازرگانی میلاد" [ref=e156]
+        - paragraph [ref=e159]: بیش از 10 سال ما به شرکت ها کمک می کنیم تا به اهداف مالی و برندسازی خود برسند. مکس بیز یک آژانس مشاوره ارزش محور است.
+        - heading "گالری" [level=4] [ref=e162]
+        - generic [ref=e166]:
+          - figure [ref=e167]:
+            - link [ref=e169] [cursor=pointer]:
+              - /url: https://trading-milad.com/wp-content/uploads/2020/09/project-10.jpg
+          - figure [ref=e170]:
+            - link [ref=e172] [cursor=pointer]:
+              - /url: https://trading-milad.com/wp-content/uploads/2020/09/project-12.jpg
+          - figure [ref=e173]:
+            - link [ref=e175] [cursor=pointer]:
+              - /url: https://trading-milad.com/wp-content/uploads/2020/09/project-9.jpg
+          - figure [ref=e176]:
+            - link [ref=e178] [cursor=pointer]:
+              - /url: https://trading-milad.com/wp-content/uploads/2020/09/project-7.jpg
+          - figure [ref=e179]:
+            - link [ref=e181] [cursor=pointer]:
+              - /url: https://trading-milad.com/wp-content/uploads/2020/09/project-6.jpg
+          - figure [ref=e182]:
+            - link [ref=e184] [cursor=pointer]:
+              - /url: https://trading-milad.com/wp-content/uploads/2020/09/project-5.jpg
+        - heading "ارتباط با ما" [level=4] [ref=e187]
+        - generic [ref=e190]:
+          - link [ref=e192] [cursor=pointer]:
+            - /url: tel:+1-800-456-478-23
+          - paragraph [ref=e198]: "02144554455"
+        - paragraph [ref=e209]: ایران ، تهران بزرگ
+        - generic [ref=e212]:
+          - link [ref=e214] [cursor=pointer]:
+            - /url: mailto:%20maxbizz@mail.com
+          - paragraph [ref=e219]: maxbizz@mail.com
+        - generic [ref=e222]:
+          - link "Twitter" [ref=e224] [cursor=pointer]:
+            - /url: "#"
+          - link "Facebook-f" [ref=e229] [cursor=pointer]:
+            - /url: "#"
+          - link "Pinterest-p" [ref=e234] [cursor=pointer]:
+            - /url: "#"
+          - link "Instagram" [ref=e239] [cursor=pointer]:
+            - /url: "#"
+    - generic [ref=e244]:
+      - generic [ref=e249]:
+        - generic [ref=e250]:
+          - group "1 / 3":
+            - generic:
+              - generic:
+                - generic: بازرگانی میلاد
+                - generic: ما یک شرکت بازرگانی در زمینه تهیه و تامین ،ساخت و تولید قطعات صنایع سیمان هستیم.
+                - link "درباره ما":
+                  - /url: https://trading-milad.com/about-us/
+          - group "2 / 3":
+            - generic:
+              - generic:
+                - generic: تامین قطعات
+                - generic: ترکیب کیفیت بالا و قیمت مناسب در تامین قطعات لازم کارخانجات سیمان کشور.
+                - link "تماس با ما":
+                  - /url: https://trading-milad.com/contact-us/
+          - group "3 / 3":
+            - generic:
+              - generic:
+                - generic: همیشه در دسترس
+                - generic: در هر لحظه و هر شرایطی ما برای رفع نیازهای شما آماده ایم حتی در مواقع بحرانی و تعطیلات.
+                - link "تماس با ما":
+                  - /url: https://trading-milad.com/contact-us/
+          - group "1 / 3" [ref=e251]:
+            - generic [ref=e255]:
+              - generic [ref=e256]: بازرگانی میلاد
+              - generic [ref=e257]: ما یک شرکت بازرگانی در زمینه تهیه و تامین ،ساخت و تولید قطعات صنایع سیمان هستیم.
+              - link "درباره ما" [ref=e258] [cursor=pointer]:
+                - /url: https://trading-milad.com/about-us/
+          - group "2 / 3":
+            - generic:
+              - generic:
+                - generic: تامین قطعات
+                - generic: ترکیب کیفیت بالا و قیمت مناسب در تامین قطعات لازم کارخانجات سیمان کشور.
+                - link "تماس با ما":
+                  - /url: https://trading-milad.com/contact-us/
+          - group "3 / 3":
+            - generic:
+              - generic:
+                - generic: همیشه در دسترس
+                - generic: در هر لحظه و هر شرایطی ما برای رفع نیازهای شما آماده ایم حتی در مواقع بحرانی و تعطیلات.
+                - link "تماس با ما":
+                  - /url: https://trading-milad.com/contact-us/
+          - group "1 / 3":
+            - generic:
+              - generic:
+                - generic: بازرگانی میلاد
+                - generic: ما یک شرکت بازرگانی در زمینه تهیه و تامین ،ساخت و تولید قطعات صنایع سیمان هستیم.
+                - link "درباره ما":
+                  - /url: https://trading-milad.com/about-us/
+          - group "2 / 3":
+            - generic:
+              - generic:
+                - generic: تامین قطعات
+                - generic: ترکیب کیفیت بالا و قیمت مناسب در تامین قطعات لازم کارخانجات سیمان کشور.
+                - link "تماس با ما":
+                  - /url: https://trading-milad.com/contact-us/
+          - group "3 / 3":
+            - generic:
+              - generic:
+                - generic: همیشه در دسترس
+                - generic: در هر لحظه و هر شرایطی ما برای رفع نیازهای شما آماده ایم حتی در مواقع بحرانی و تعطیلات.
+                - link "تماس با ما":
+                  - /url: https://trading-milad.com/contact-us/
+        - generic [ref=e259]:
+          - button "Go to slide 1" [ref=e260] [cursor=pointer]
+          - button "Go to slide 2" [ref=e261] [cursor=pointer]
+          - button "Go to slide 3" [ref=e262] [cursor=pointer]
+      - generic [ref=e270]:
+        - generic [ref=e273]:
+          - generic [ref=e274]: درباره شرکت
+          - heading "بازرگانی میلاد" [level=1] [ref=e275]
+        - paragraph [ref=e278]: شرکت بازرگانی میلاد از سال1376 توسط آقای مهندس همایون نژآد با هدف ارایه خدمات بازرگانی تاسیس شد، این مجموعه با تکیه بر تجربیات صنعت به رشد و توسعه خود ادامه میدهد
+        - link "درباره ما بیشتر بخوانید" [ref=e282] [cursor=pointer]:
+          - /url: https://trading-milad.com/about-us/
+      - generic [ref=e290]:
+        - generic [ref=e293]:
+          - generic [ref=e294]: محصولات
+          - heading "مهمترین محصولات ما" [level=3] [ref=e295]
+        - list [ref=e299]:
+          - listitem [ref=e300]:
+            - link [ref=e302] [cursor=pointer]:
+              - /url: https://trading-milad.com/product/%d9%84%d9%86%d8%b3-%d9%88-%d8%b3%d8%b1-%d9%86%d8%a7%d8%b2%d9%84-%d8%a7%d8%b3%d9%be%d8%b1%db%8c-%d8%a2%d8%a8-%da%a9%d9%88%d9%84%db%8c%d9%86%da%af-%d8%aa%d8%a7%d9%88%d8%b1/
+              - img "لنس و سر نازل اسپری آب کولینگ تاور" [ref=e303]
+            - heading [level=2] [ref=e304]:
+              - link "لنس و سر نازل اسپری آب کولینگ تاور" [ref=e305] [cursor=pointer]:
+                - /url: https://trading-milad.com/product/%d9%84%d9%86%d8%b3-%d9%88-%d8%b3%d8%b1-%d9%86%d8%a7%d8%b2%d9%84-%d8%a7%d8%b3%d9%be%d8%b1%db%8c-%d8%a2%d8%a8-%da%a9%d9%88%d9%84%db%8c%d9%86%da%af-%d8%aa%d8%a7%d9%88%d8%b1/
+            - strong [ref=e307]: برای استعلام قیمت و خرید تماس بگیرید
+          - listitem [ref=e308]:
+            - link [ref=e310] [cursor=pointer]:
+              - /url: https://trading-milad.com/product/%d9%86%d8%a7%d8%b2%d9%84-%d9%85%d8%a7%d8%b2%d9%88%d8%aa-%d9%85%d8%b4%d8%b9%d9%84/
+              - img "نازل مازوت مشعل" [ref=e311]
+            - heading [level=2] [ref=e312]:
+              - link "نازل مازوت مشعل" [ref=e313] [cursor=pointer]:
+                - /url: https://trading-milad.com/product/%d9%86%d8%a7%d8%b2%d9%84-%d9%85%d8%a7%d8%b2%d9%88%d8%aa-%d9%85%d8%b4%d8%b9%d9%84/
+            - strong [ref=e315]: برای استعلام قیمت و خرید تماس بگیرید
+          - listitem [ref=e316]:
+            - link [ref=e318] [cursor=pointer]:
+              - /url: https://trading-milad.com/product/%d8%b3%d9%86%d8%b3%d9%88%d8%b1-%d9%88%db%8c%d8%a8%d8%b1%d9%87%d8%a7%d8%b1%d8%aa%d8%b9%d8%a7%d8%b4/
+              - img "سنسور ویبره(ارتعاش)" [ref=e319]
+            - heading [level=2] [ref=e320]:
+              - link "سنسور ویبره(ارتعاش)" [ref=e321] [cursor=pointer]:
+                - /url: https://trading-milad.com/product/%d8%b3%d9%86%d8%b3%d9%88%d8%b1-%d9%88%db%8c%d8%a8%d8%b1%d9%87%d8%a7%d8%b1%d8%aa%d8%b9%d8%a7%d8%b4/
+            - strong [ref=e323]: برای استعلام قیمت و خرید تماس بگیرید
+          - listitem [ref=e324]:
+            - link [ref=e326] [cursor=pointer]:
+              - /url: https://trading-milad.com/product/%d8%b5%d9%81%d8%ad%d9%87-%d8%a8%d8%b1%d8%b4-%d8%a7%d8%b3%d8%aa%db%8c%d9%84-%d8%a8%d8%b1-%d8%a8%d8%b2%d8%b1%da%af-%d9%85%d8%a7%d9%81/
+              - img "صفحه برش استیل بر ماف" [ref=e327]
+            - heading [level=2] [ref=e328]:
+              - link "صفحه برش استیل بر ماف" [ref=e329] [cursor=pointer]:
+                - /url: https://trading-milad.com/product/%d8%b5%d9%81%d8%ad%d9%87-%d8%a8%d8%b1%d8%b4-%d8%a7%d8%b3%d8%aa%db%8c%d9%84-%d8%a8%d8%b1-%d8%a8%d8%b2%d8%b1%da%af-%d9%85%d8%a7%d9%81/
+            - strong [ref=e331]: برای استعلام قیمت و خرید تماس بگیرید
+          - listitem [ref=e332]:
+            - link [ref=e334] [cursor=pointer]:
+              - /url: https://trading-milad.com/product/%d8%b5%d9%81%d8%ad%d9%87-%d8%a8%d8%b1%d8%b4-%d8%a7%d8%b3%d8%aa%db%8c%d9%84-%d8%a8%d8%b1-%d8%a8%d8%b2%d8%b1%da%af-%d9%85%d9%88%d9%84%db%8c%d8%aa%d8%a7%d9%84/
+              - img "صفحه برش استیل بر مولیتال" [ref=e335]
+            - heading [level=2] [ref=e336]:
+              - link "صفحه برش استیل بر مولیتال" [ref=e337] [cursor=pointer]:
+                - /url: https://trading-milad.com/product/%d8%b5%d9%81%d8%ad%d9%87-%d8%a8%d8%b1%d8%b4-%d8%a7%d8%b3%d8%aa%db%8c%d9%84-%d8%a8%d8%b1-%d8%a8%d8%b2%d8%b1%da%af-%d9%85%d9%88%d9%84%db%8c%d8%aa%d8%a7%d9%84/
+            - strong [ref=e339]: برای استعلام قیمت و خرید تماس بگیرید
+          - listitem [ref=e340]:
+            - link [ref=e342] [cursor=pointer]:
+              - /url: https://trading-milad.com/product/%d9%86%d8%a7%d8%b2%d9%84-%d9%88-%d8%af%db%8c%d8%b3%da%a9%d9%87%d8%a7%db%8c-%d8%a7%d8%b3%d8%aa%db%8c%d9%84-%d8%b5%d9%86%d8%b9%d8%aa%db%8c/
+              - img "نازل و دیسک‌های استیل صنعتی" [ref=e343]
+            - heading [level=2] [ref=e344]:
+              - link "نازل و دیسک‌های استیل صنعتی" [ref=e345] [cursor=pointer]:
+                - /url: https://trading-milad.com/product/%d9%86%d8%a7%d8%b2%d9%84-%d9%88-%d8%af%db%8c%d8%b3%da%a9%d9%87%d8%a7%db%8c-%d8%a7%d8%b3%d8%aa%db%8c%d9%84-%d8%b5%d9%86%d8%b9%d8%aa%db%8c/
+            - strong [ref=e347]: برای استعلام قیمت و خرید تماس بگیرید
+          - listitem [ref=e348]:
+            - link [ref=e350] [cursor=pointer]:
+              - /url: https://trading-milad.com/product/%d9%86%d8%a7%d8%b2%d9%84-%d9%85%d8%b4%d8%b9%d9%84-%da%a9%d9%84%d8%b3%d8%a7%db%8c%d9%86%d8%b1/
+              - img "نازل مشعل کلساینر" [ref=e351]
+            - heading [level=2] [ref=e352]:
+              - link "نازل مشعل کلساینر" [ref=e353] [cursor=pointer]:
+                - /url: https://trading-milad.com/product/%d9%86%d8%a7%d8%b2%d9%84-%d9%85%d8%b4%d8%b9%d9%84-%da%a9%d9%84%d8%b3%d8%a7%db%8c%d9%86%d8%b1/
+            - strong [ref=e355]: برای استعلام قیمت و خرید تماس بگیرید
+          - listitem [ref=e356]:
+            - link [ref=e358] [cursor=pointer]:
+              - /url: https://trading-milad.com/product/%d9%86%d8%a7%d8%b2%d9%84-%d9%86%d8%b3%d9%88%d8%b2-%d8%b4%d9%88%da%a9-%d8%a8%d9%84%d8%a7%d8%b3%d8%aa%d8%b1-0/
+              - img "نازل نسوز شوک بلاستر 0" [ref=e359]
+            - heading [level=2] [ref=e360]:
+              - link "نازل نسوز شوک بلاستر 0" [ref=e361] [cursor=pointer]:
+                - /url: https://trading-milad.com/product/%d9%86%d8%a7%d8%b2%d9%84-%d9%86%d8%b3%d9%88%d8%b2-%d8%b4%d9%88%da%a9-%d8%a8%d9%84%d8%a7%d8%b3%d8%aa%d8%b1-0/
+            - strong [ref=e363]: برای استعلام قیمت و خرید تماس بگیرید
+          - listitem [ref=e364]:
+            - link [ref=e366] [cursor=pointer]:
+              - /url: https://trading-milad.com/product/%d9%86%d8%a7%d8%b2%d9%84-%d9%86%d8%b3%d9%88%d8%b2-%d8%b4%d9%88%da%a9-%d8%a8%d9%84%d8%a7%d8%b3%d8%aa%d8%b1-90/
+              - img "نازل نسوز شوک بلاستر 90" [ref=e367]
+            - heading [level=2] [ref=e368]:
+              - link "نازل نسوز شوک بلاستر 90" [ref=e369] [cursor=pointer]:
+                - /url: https://trading-milad.com/product/%d9%86%d8%a7%d8%b2%d9%84-%d9%86%d8%b3%d9%88%d8%b2-%d8%b4%d9%88%da%a9-%d8%a8%d9%84%d8%a7%d8%b3%d8%aa%d8%b1-90/
+            - strong [ref=e371]: برای استعلام قیمت و خرید تماس بگیرید
+          - listitem [ref=e372]:
+            - link [ref=e374] [cursor=pointer]:
+              - /url: https://trading-milad.com/product/%d9%86%d8%a7%d8%b2%d9%84-%d9%86%d8%b3%d9%88%d8%b2-%d8%b4%d9%88%da%a9-%d8%a8%d9%84%d8%a7%d8%b3%d8%aa%d8%b1-45/
+              - img "نازل نسوز شوک بلاستر 45" [ref=e375]
+            - heading [level=2] [ref=e376]:
+              - link "نازل نسوز شوک بلاستر 45" [ref=e377] [cursor=pointer]:
+                - /url: https://trading-milad.com/product/%d9%86%d8%a7%d8%b2%d9%84-%d9%86%d8%b3%d9%88%d8%b2-%d8%b4%d9%88%da%a9-%d8%a8%d9%84%d8%a7%d8%b3%d8%aa%d8%b1-45/
+            - strong [ref=e379]: برای استعلام قیمت و خرید تماس بگیرید
+          - listitem [ref=e380]:
+            - link [ref=e382] [cursor=pointer]:
+              - /url: https://trading-milad.com/product/%d8%af%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%81%d9%86-%d8%ae%d9%86%d9%83-%d9%83%d9%86%d9%86%d8%af%d9%87/
+              - img "دستگاه فن خنك كننده کوره سیمان" [ref=e383]
+            - heading [level=2] [ref=e384]:
+              - link "دستگاه فن خنك كننده کوره سیمان" [ref=e385] [cursor=pointer]:
+                - /url: https://trading-milad.com/product/%d8%af%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%81%d9%86-%d8%ae%d9%86%d9%83-%d9%83%d9%86%d9%86%d8%af%d9%87/
+            - strong [ref=e387]: برای استعلام قیمت و خرید تماس بگیرید
+          - listitem [ref=e388]:
+            - link [ref=e390] [cursor=pointer]:
+              - /url: https://trading-milad.com/product/%d8%af%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d8%a8%db%8c%da%af-%d8%a8%d9%84%d8%a7%d8%b3%d8%aa%d8%b1/
+              - img "دستگاه شوک بلاستر" [ref=e391]
+            - heading [level=2] [ref=e392]:
+              - link "دستگاه شوک بلاستر" [ref=e393] [cursor=pointer]:
+                - /url: https://trading-milad.com/product/%d8%af%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d8%a8%db%8c%da%af-%d8%a8%d9%84%d8%a7%d8%b3%d8%aa%d8%b1/
+            - strong [ref=e395]: برای استعلام قیمت و خرید تماس بگیرید
+          - listitem [ref=e396]:
+            - link [ref=e398] [cursor=pointer]:
+              - /url: https://trading-milad.com/product/%da%a9%db%8c%d8%b3-%d8%af%d9%88%d8%b1%d8%a8%db%8c%d9%86-%da%a9%d9%88%d8%b1%d9%87-%d9%88-%da%af%d8%b1%db%8c%d8%aa/
+              - img "دوربین صنعتی کوره سیمان" [ref=e399]
+            - heading [level=2] [ref=e400]:
+              - link "دوربین صنعتی کوره سیمان" [ref=e401] [cursor=pointer]:
+                - /url: https://trading-milad.com/product/%da%a9%db%8c%d8%b3-%d8%af%d9%88%d8%b1%d8%a8%db%8c%d9%86-%da%a9%d9%88%d8%b1%d9%87-%d9%88-%da%af%d8%b1%db%8c%d8%aa/
+            - strong [ref=e403]: برای استعلام قیمت و خرید تماس بگیرید
+          - listitem [ref=e404]:
+            - link [ref=e406] [cursor=pointer]:
+              - /url: https://trading-milad.com/product/%d9%be%d9%85%d9%be-%d9%87%d8%a7%db%8c-%d8%af%d9%86%d8%af%d9%87-%d8%a7%db%8c/
+              - img "پمپ های دنده ای" [ref=e407]
+            - heading [level=2] [ref=e408]:
+              - link "پمپ های دنده ای" [ref=e409] [cursor=pointer]:
+                - /url: https://trading-milad.com/product/%d9%be%d9%85%d9%be-%d9%87%d8%a7%db%8c-%d8%af%d9%86%d8%af%d9%87-%d8%a7%db%8c/
+            - strong [ref=e411]: برای استعلام قیمت و خرید تماس بگیرید
+          - listitem [ref=e412]:
+            - link [ref=e414] [cursor=pointer]:
+              - /url: https://trading-milad.com/product/%d9%84%d9%86%d8%b2-marshall-%d8%af%d9%88%d8%b1%d8%a8%db%8c%d9%86-%d8%b5%d9%86%d8%b9%d8%aa%db%8c/
+              - img "لنز دوربین صنعتی کوره سیمان" [ref=e415]
+            - heading [level=2] [ref=e416]:
+              - link "لنز دوربین صنعتی کوره سیمان" [ref=e417] [cursor=pointer]:
+                - /url: https://trading-milad.com/product/%d9%84%d9%86%d8%b2-marshall-%d8%af%d9%88%d8%b1%d8%a8%db%8c%d9%86-%d8%b5%d9%86%d8%b9%d8%aa%db%8c/
+            - strong [ref=e419]: برای استعلام قیمت و خرید تماس بگیرید
+          - listitem [ref=e420]:
+            - link [ref=e422] [cursor=pointer]:
+              - /url: https://trading-milad.com/product/%da%a9%d9%88%d9%be%d9%84%db%8c%d9%86%da%af/
+              - img "کوپلینگ کوره سیمان" [ref=e423]
+            - heading [level=2] [ref=e424]:
+              - link "کوپلینگ کوره سیمان" [ref=e425] [cursor=pointer]:
+                - /url: https://trading-milad.com/product/%da%a9%d9%88%d9%be%d9%84%db%8c%d9%86%da%af/
+            - strong [ref=e427]: برای استعلام قیمت و خرید تماس بگیرید
+      - generic [ref=e440]:
+        - generic [ref=e441]: کاری که ما انجام می دهیم
+        - heading "خدمات بازرگانی میلاد" [level=2] [ref=e442]
+      - generic [ref=e451]:
+        - generic [ref=e454]:
+          - generic [ref=e455]: "01"
+          - heading "واردات" [level=4] [ref=e456]
+        - figure [ref=e1]
+        - generic [ref=e459]:
+          - generic [ref=e460]: "02"
+          - heading "مشاوره و طراحی" [level=4] [ref=e461]
+        - generic [ref=e464]:
+          - generic [ref=e465]: "03"
+          - heading "ساخت و تولید" [level=4] [ref=e466]
+        - generic [ref=e469]:
+          - generic [ref=e470]: "04"
+          - heading "نصب و راه اندازی" [level=4] [ref=e471]
+        - generic [ref=e474]:
+          - generic [ref=e475]: "05"
+          - heading "تعمیر و نگهداری" [level=4] [ref=e476]
+      - generic [ref=e480]:
+        - generic [ref=e483]:
+          - generic [ref=e484]: مزایای ما
+          - heading "قدیمی و قابل اعتماد ترین شرکت بازرگانی صنعت سیمان" [level=3] [ref=e485]
+        - generic [ref=e497]:
+          - heading "اشتیاق برای نتایج" [level=5] [ref=e498]
+          - paragraph [ref=e499]: ما با تعهد کامل به نتایج عالی و رضایت مشتریان، همیشه به دنبال بهترین راه‌حل‌ها هستیم .
+        - generic [ref=e514]:
+          - heading "خدمات با کیفیت" [level=5] [ref=e515]
+          - paragraph [ref=e516]: ما با ارائه‌ی محصولات و خدمات با کیفیت، به رشد و موفقیت مشتریانمان کمک می‌کنیم.
+        - generic [ref=e537]:
+          - heading "تنوع و شمول" [level=5] [ref=e538]
+          - paragraph [ref=e539]: ما با ارائه‌ی محصولات متنوع و فراگیر، به نیازهای گوناگون مشتریان پاسخ می‌دهیم.
+      - generic [ref=e547]:
+        - generic [ref=e556]:
+          - generic [ref=e557]: تجارت صحیح
+          - heading "اولویت ما ارایه خدمات و سپس دریافت وجه است." [level=3] [ref=e558]
+        - generic [ref=e567]:
+          - link "فلسفه ما" [ref=e569] [cursor=pointer]:
+            - /url: "#our-philo"
+          - link "ماموریت ما" [ref=e571] [cursor=pointer]:
+            - /url: "#our-mission"
+          - link "دیدگاه ما" [ref=e573] [cursor=pointer]:
+            - /url: "#our-vision"
+      - generic [ref=e581]:
+        - heading "فلسفه ما" [level=4] [ref=e584]
+        - paragraph [ref=e587]: ما با تمرکز بر کیفیت و نوآوری، به دنبال ارائه‌ی قطعات با بالاترین استاندارد هستیم. هدف ما ایجاد شراکت‌های پایدار و کمک به رشد صنعت از طریق تأمین مطمئن و باکیفیت قطعات است.
+        - link "دریافت مشاوره" [ref=e591] [cursor=pointer]:
+          - /url: "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjIwOTMiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D"
+      - generic [ref=e595]:
+        - generic [ref=e597]:
+          - heading "به دنبال یک شرکت بازرگانی درجه یک هستید؟" [level=2] [ref=e600]
+          - paragraph [ref=e603]: ما از دیدگاه‌های مختلف برای کمک به شرکت، مشتریان و افراد خود استقبال می‌کنیم.
+        - link "ارتباط با ما" [ref=e609] [cursor=pointer]:
+          - /url: https://trading-milad.com/contact-us
+      - generic [ref=e613]:
+        - generic [ref=e619]:
+          - generic [ref=e622]:
+            - generic [ref=e623]: نظرات مشتریان
+            - heading "مردم در مورد ما چی میگن" [level=3] [ref=e624]
+          - paragraph [ref=e627]: همواره نظرات مشتریان و کارخانجات برای شرکت ما از اهمین بسیاری برخوردار است.
+        - generic [ref=e633]:
+          - generic [ref=e635]:
+            - generic [ref=e3]:
+              - generic [ref=e4]: با سلام و احترام اینجانب به عنوان مدیر فنی کارخانه سیمان بهبهان، رضایت کامل خود را از عملکرد فن‌های خنک‌کننده کوره اعلام می‌دارم. این تجهیزات با کیفیت بالا، راندمان بسیار خوبی از خود نشان داده‌اند و تأثیر قابل توجهی در بهبود فرآیند خنک‌سازی و پایداری عملیات کوره داشته‌اند. همچنین، میزان مصرف انرژی کاهش یافته و نگهداری آسان‌تری را تجربه کرده‌ایم. از تیم تامین‌کننده بابت محصول باکیفیت و پشتیبانی مناسب، صمیمانه سپاسگزاریم." با احترام
+              - generic [ref=e5]: مدیر فنی کارخانه سیمان بهبهان
+            - generic [ref=e8]:
+              - generic [ref=e9]: با سلام مایلم از طرف تیم فنی کارخانه خود در عراق، مراتب رضایت و قدردانی خود را از کیفیت بالای شوک بلاسترهای دریافتی اعلام کنم. این تجهیزات با عملکرد بسیار خوب، تأثیر چشمگیری در جلوگیری از گرفتگی و بهبود جریان مواد در سیلوها و مسیرهای انتقال ایجاد کرده‌اند. نصب آسان، دوام بالا و کارایی فوق‌العاده این محصول، نشان از تجربه و تخصص بالای شرکت شما دارد. امیدواریم همکاری‌های بیشتری در آینده داشته باشیم.
+              - generic [ref=e10]: مدیر تولید کارخانه سیمان عراق
+          - text:  
+          - generic [ref=e636]:
+            - button [ref=e637] [cursor=pointer]
+            - button [ref=e639] [cursor=pointer]
+            - button [ref=e641] [cursor=pointer]
+      - generic [ref=e644]:
+        - heading "تعداد مشتریان کارخانه سیمان در سراسر کشور" [level=6] [ref=e650]
+        - heading "سال تجربه" [level=6] [ref=e656]
+        - heading "پروژه موفق" [level=6] [ref=e662]
+        - heading "خدمات قابل ارائه" [level=6] [ref=e668]: خدماتقابل ارائه
+      - generic [ref=e672]:
+        - generic [ref=e678]:
+          - generic [ref=e681]:
+            - generic [ref=e682]: وبلاگ ما
+            - heading "آخرین مقالات ما را بخوانید" [level=3] [ref=e683]
+          - paragraph [ref=e686]: ما در بازرگانی میلاد همواره مطالب به روز و جدید این حوزه را در سایت برای مطالعه شما عزیزان منتشر میکنیم.
+        - generic [ref=e692]:
+          - generic [ref=e694]:
+            - article [ref=e13]:
+              - generic [ref=e14]:
+                - generic [ref=e15]:
+                  - link "صنعت سیمان" [ref=e18] [cursor=pointer]:
+                    - /url: https://trading-milad.com/category/cement-factory-parts/
+                  - link [ref=e19] [cursor=pointer]:
+                    - /url: https://trading-milad.com/quality-control-in-the-cement-industry/
+                    - img "کنترل کیفیت در صنعت سیمان" [ref=e20]
+                - heading [level=5] [ref=e23]:
+                  - link "کنترل کیفیت در صنعت سیمان" [ref=e24] [cursor=pointer]:
+                    - /url: https://trading-milad.com/quality-control-in-the-cement-industry/
+                - generic [ref=e25]:
+                  - link [ref=e27] [cursor=pointer]:
+                    - /url: https://trading-milad.com/quality-control-in-the-cement-industry/
+                    - time [ref=e28]: 1405-03-27
+                  - link "" [ref=e29] [cursor=pointer]:
+                    - /url: https://trading-milad.com/quality-control-in-the-cement-industry/
+            - article [ref=e32]:
+              - generic [ref=e33]:
+                - generic [ref=e34]:
+                  - link "صنعت سیمان" [ref=e37] [cursor=pointer]:
+                    - /url: https://trading-milad.com/category/cement-factory-parts/
+                  - link [ref=e38] [cursor=pointer]:
+                    - /url: https://trading-milad.com/air-pollution-in-the-cement-industry/
+                    - img "آلودگی هوا در صنعت سیمان" [ref=e39]
+                - heading [level=5] [ref=e42]:
+                  - link "آلودگی هوا در صنعت سیمان" [ref=e43] [cursor=pointer]:
+                    - /url: https://trading-milad.com/air-pollution-in-the-cement-industry/
+                - generic [ref=e44]:
+                  - link [ref=e46] [cursor=pointer]:
+                    - /url: https://trading-milad.com/air-pollution-in-the-cement-industry/
+                    - time [ref=e47]: 1405-03-26
+                  - link "" [ref=e48] [cursor=pointer]:
+                    - /url: https://trading-milad.com/air-pollution-in-the-cement-industry/
+            - article [ref=e51]:
+              - generic [ref=e52]:
+                - generic [ref=e53]:
+                  - link "صنعت سیمان" [ref=e56] [cursor=pointer]:
+                    - /url: https://trading-milad.com/category/cement-factory-parts/
+                  - link [ref=e57] [cursor=pointer]:
+                    - /url: https://trading-milad.com/largest-producer-of-cement-bags/
+                    - img "بزرگترین تولید کننده پاکت سیمان" [ref=e58]
+                - heading [level=5] [ref=e61]:
+                  - link "بزرگترین تولید کننده پاکت سیمان" [ref=e62] [cursor=pointer]:
+                    - /url: https://trading-milad.com/largest-producer-of-cement-bags/
+                - generic [ref=e63]:
+                  - link [ref=e65] [cursor=pointer]:
+                    - /url: https://trading-milad.com/largest-producer-of-cement-bags/
+                    - time [ref=e66]: 1405-03-24
+                  - link "" [ref=e67] [cursor=pointer]:
+                    - /url: https://trading-milad.com/largest-producer-of-cement-bags/
+          - text:  
+        - link "مشاهده همه مقالات" [ref=e698] [cursor=pointer]:
+          - /url: https://trading-milad.com/blog/
+    - contentinfo:
+      - generic [ref=e699]:
+        - generic [ref=e705]:
+          - paragraph [ref=e710]: مشاوره نیاز دارید؟!
+          - generic [ref=e716]:
+            - generic [ref=e717]:
+              - generic [ref=e718] [cursor=pointer]: نام و نام خانوادگی
+              - textbox "نام و نام خانوادگی" [ref=e719]:
+                - /placeholder: نام  و نام خانوادگی
+            - generic [ref=e720]:
+              - generic [ref=e721] [cursor=pointer]: شماره تماس
+              - textbox "شماره تماس" [ref=e722]
+            - button "ارسال" [ref=e724] [cursor=pointer]
+        - generic [ref=e728]:
+          - generic [ref=e741]:
+            - heading "لینک های مفید" [level=6] [ref=e744]
+            - list [ref=e751]
+          - generic [ref=e753]:
+            - heading "ارتباط با ما" [level=6] [ref=e756]
+            - generic [ref=e761]:
+              - heading "آدرس شرکت" [level=6] [ref=e762]
+              - paragraph [ref=e763]: سعادت آباد سرو غربی، خیابان صدف، پلاک۱۵ واحد ۱۱
+            - generic [ref=e768]:
+              - heading "شماره تماس" [level=6] [ref=e769]
+              - paragraph [ref=e770]: ۰۲۱-۲۲۳۴۳۰۴۷ 09129314137
+            - generic [ref=e775]:
+              - heading "ساعت کاری" [level=6] [ref=e776]
+              - paragraph [ref=e777]: شنبه تا پنجشنبه ، ساعت ۸-۱۶
+  - generic [ref=e788]: desktop
+  - generic [ref=e69]: 100%
+  - status [ref=e789]
+```

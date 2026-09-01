@@ -1,0 +1,345 @@
+### Page
+- Page URL: https://avval.ir/profile/0c1e0/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D9%87%DB%8C%D9%86%D9%87-%D8%AA%D8%B1%D8%A7%D8%A8%D8%B1-%D8%A2%DA%98%D9%88%D8%B1
+- Page Title: شرکت بهینه ترابر آژور - حمل و نقل بین المللی | کتاب اول
+- Console: 4 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - link "home page" [ref=e5] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - textbox "فعالیت شغلی، نام کسب و کار، خدمات و محصولات و ..." [ref=e11]
+            - generic [ref=e12]: در
+            - generic [ref=e13]:
+              - textbox "شهر، محله، منطقه، خیابان و ..." [ref=e14]
+              - button "جستجو بر اساس موقعیت مکانی" [ref=e16] [cursor=pointer]
+            - button "جستجو" [ref=e19] [cursor=pointer]
+          - list
+      - link "ثبت رایگان اطلاعات شغلی" [ref=e23] [cursor=pointer]:
+        - /url: /%D8%AB%D8%A8%D8%AA-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D8%B4%D8%BA%D9%84%DB%8C
+      - button "ورود | ثبت نام" [ref=e26] [cursor=pointer]
+    - navigation [ref=e30]:
+      - list [ref=e31]:
+        - listitem [ref=e32]:
+          - button "دسته بندی مشاغل" [ref=e33] [cursor=pointer]
+        - listitem [ref=e35]: "|"
+        - listitem [ref=e36]:
+          - link "تبلیغات با ما" [ref=e37] [cursor=pointer]:
+            - /url: /%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-%D9%88%D8%A8-%D8%B3%D8%A7%DB%8C%D8%AA-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+        - listitem [ref=e40]: "|"
+        - listitem [ref=e41]:
+          - link "دسترسی بانک مشاغل" [ref=e42] [cursor=pointer]:
+            - /url: /%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B4%D8%A7%D8%BA%D9%84-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+        - listitem [ref=e45]: "|"
+        - listitem [ref=e46]:
+          - link "پنل اس ام اس" [ref=e47] [cursor=pointer]:
+            - /url: /smspanel
+  - generic [ref=e53]:
+    - main [ref=e54]:
+      - generic [ref=e55]:
+        - img "لوگوی شرکت بهینه ترابر آژور - حمل و نقل بین المللی" [ref=e57]
+        - generic [ref=e58]:
+          - heading "شرکت بهینه ترابر آژور" [level=1] [ref=e59]
+          - generic [ref=e60]: ارائه دهنده خدمات حمل و نقل بین المللی ریلی و کانتینتری، ترخیص و انبارداری کالا. ارائه دهنده واگن های خصوصی و دولتی .
+          - list [ref=e61]:
+            - listitem [ref=e62]: حمل و نقل بین المللی
+      - generic [ref=e63]:
+        - link "تماس" [ref=e64] [cursor=pointer]:
+          - /url: tel:+982188757804~5
+        - button "ثبت نظر" [ref=e69] [cursor=pointer]
+        - button "ارتقای پروفایل" [ref=e72] [cursor=pointer]
+        - button "ویرایش" [ref=e75] [cursor=pointer]
+        - button "اشتراک گذاری" [ref=e80] [cursor=pointer]
+      - navigation [ref=e88]:
+        - list [ref=e89]:
+          - listitem [ref=e90]:
+            - link "link to home" [ref=e91] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e95]
+          - listitem [ref=e98]:
+            - link "دسته‌بندی مشاغل" [ref=e99] [cursor=pointer]:
+              - /url: /directory
+          - listitem [ref=e100]
+          - listitem [ref=e103]:
+            - link "حمل و نقل بین المللی" [ref=e104] [cursor=pointer]:
+              - /url: /directory/%D8%AD%D9%85%D9%84-%D9%88-%D9%86%D9%82%D9%84-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C
+          - listitem [ref=e105]
+          - listitem [ref=e108]:
+            - link "تهران" [ref=e109] [cursor=pointer]:
+              - /url: /directory/%D8%AD%D9%85%D9%84-%D9%88-%D9%86%D9%82%D9%84-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86
+          - listitem [ref=e110]
+          - listitem [ref=e113]:
+            - link "محله نیلوفر" [ref=e114] [cursor=pointer]:
+              - /url: /directory/%D8%AD%D9%85%D9%84-%D9%88-%D9%86%D9%82%D9%84-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%85%D8%AD%D9%84%D9%87-%D9%86%DB%8C%D9%84%D9%88%D9%81%D8%B1
+      - generic [ref=e115]:
+        - heading "اطلاعات تماس" [level=2] [ref=e117]
+        - list [ref=e118]:
+          - listitem [ref=e119]:
+            - generic [ref=e120]: "آدرس :"
+            - generic [ref=e124]: تهران، منطقه 7، محله نیلوفر، خیابان آپادانا (خرمشهر)، جنب بانک شهر، پلاک 60، طبقه پنجم، واحد 9
+          - listitem [ref=e125]:
+            - generic [ref=e126]: "تلفن :"
+            - button "نمایش شماره" [ref=e129] [cursor=pointer]
+            - generic [ref=e130]: XXXXXXXXXX
+          - listitem [ref=e131]:
+            - generic [ref=e132]: وب سایت
+            - link "www.btarai.com" [ref=e136] [cursor=pointer]:
+              - /url: http://www.btarai.com
+          - listitem [ref=e137]:
+            - generic [ref=e138]: "ایمیل :"
+            - link "marketing@btarai.com" [ref=e143] [cursor=pointer]:
+              - /url: mailto://marketing@btarai.com
+          - listitem [ref=e144]:
+            - generic [ref=e145]: "ایمیل :"
+            - link "sales@btarai.com" [ref=e150] [cursor=pointer]:
+              - /url: mailto://sales@btarai.com
+          - listitem [ref=e151]:
+            - generic [ref=e152]: "ایمیل :"
+            - link "info@btarai.com" [ref=e157] [cursor=pointer]:
+              - /url: mailto://info@btarai.com
+          - listitem [ref=e158]:
+            - generic [ref=e159]: "کد پستی :"
+            - generic [ref=e163]: "1533645317"
+      - generic [ref=e164]:
+        - heading "نظرات" [level=2] [ref=e166]
+        - generic [ref=e167]:
+          - paragraph [ref=e168]: لطفا به این کسب و کار امتیاز بدید و نظر خودتون رو درباره این کسب و کار بنویسید
+          - generic [ref=e169]:
+            - generic [ref=e172]:
+              - generic [ref=e173]: بدون رای
+              - generic "بدون رای" [ref=e175] [cursor=pointer]:
+                - textbox "امتیاز شما برای این کسب و کار" [ref=e207]
+            - generic [ref=e208]:
+              - generic [ref=e209]: حداکثر 2000 کاراکتر
+              - textbox "به نظر من ..." [ref=e210]
+              - button "ثبت نظر" [ref=e211] [cursor=pointer]
+          - text: ✕
+    - complementary [ref=e212]:
+      - generic [ref=e214]:
+        - generic [ref=e215]:
+          - generic:
+            - region "Map" [ref=e216]
+            - generic: برای بزرگنمایی نقشه، از ⌘ + پیمایش استفاده کنید
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e217] [cursor=pointer]
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e218] [cursor=pointer]
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e223] [cursor=pointer]
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e237] [cursor=pointer]
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e246] [cursor=pointer]
+          - generic:
+            - generic:
+              - generic [ref=e260]:
+                - button "Zoom in" [ref=e261] [cursor=pointer]
+                - button "Zoom out" [ref=e263] [cursor=pointer]
+              - button "Enter fullscreen" [ref=e266] [cursor=pointer]
+        - generic [ref=e268]:
+          - button "گوگل" [ref=e269] [cursor=pointer]
+          - button [ref=e276] [cursor=pointer]:
+            - img "بلد" [ref=e277]
+            - text: بلد
+          - button [ref=e278] [cursor=pointer]:
+            - img "نشان" [ref=e279]
+            - text: نشان
+      - list [ref=e282]:
+        - listitem [ref=e283]:
+          - paragraph [ref=e284]: نزدیک ترین پایانه تاکسی به شرکت بهینه ترابر آژور
+          - link "پایانه تاکسیرانی پل سیدخندان 1021 متر" [ref=e285] [cursor=pointer]:
+            - /url: /profile/1adfc/%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%D9%87-%D8%AA%D8%A7%DA%A9%D8%B3%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D9%BE%D9%84-%D8%B3%DB%8C%D8%AF%D8%AE%D9%86%D8%AF%D8%A7%D9%86
+        - listitem [ref=e292]:
+          - paragraph [ref=e293]: نزدیک ترین ایستگاه بی آر تی به شرکت بهینه ترابر آژور
+          - link "ایستگاه بی آر تی بهشت مادران 803 متر" [ref=e294] [cursor=pointer]:
+            - /url: /profile/1d6c3/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A8%DB%8C-%D8%A2%D8%B1-%D8%AA%DB%8C-%D8%A8%D9%87%D8%B4%D8%AA-%D9%85%D8%A7%D8%AF%D8%B1%D8%A7%D9%86
+        - listitem [ref=e305]:
+          - paragraph [ref=e306]: نزدیک ترین ایستگاه مترو به شرکت بهینه ترابر آژور
+          - link "ایستگاه مترو سهروردی 527 متر" [ref=e307] [cursor=pointer]:
+            - /url: /profile/ihurg/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%85%D8%AA%D8%B1%D9%88-%D8%B3%D9%87%D8%B1%D9%88%D8%B1%D8%AF%DB%8C
+        - listitem [ref=e316]:
+          - paragraph [ref=e317]: نزدیک ترین ایستگاه اتوبوس به شرکت بهینه ترابر آژور
+          - link "ایستگاه اتوبوس نوبخت - کد 116 - جنوب به شمال 269 متر" [ref=e318] [cursor=pointer]:
+            - /url: /profile/24fed/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A7%D8%AA%D9%88%D8%A8%D9%88%D8%B3-%D9%86%D9%88%D8%A8%D8%AE%D8%AA-%DA%A9%D8%AF-116-%D8%AC%D9%86%D9%88%D8%A8-%D8%A8%D9%87-%D8%B4%D9%85%D8%A7%D9%84
+      - generic [ref=e330]:
+        - heading "تصاویر" [level=2] [ref=e332]
+        - generic [ref=e333]:
+          - link "main image" [ref=e335] [cursor=pointer]:
+            - /url: /filehash/A9zAigbcajApsvoCegihejDtzq.jpg
+            - img "شرکت بهینه ترابر آژور - حمل و نقل بین المللی شماره 1" [ref=e336]
+          - generic [ref=e337]:
+            - link "Images" [ref=e339] [cursor=pointer]:
+              - /url: /filehash/A9zAigbcajApsvoCegihfaDtzq.jpg
+              - img "شرکت بهینه ترابر آژور - حمل و نقل بین المللی شماره 2" [ref=e340]
+            - link "Images" [ref=e342] [cursor=pointer]:
+              - /url: /filehash/A9zAigbcajApsvoCegihfbDtzq.jpg
+              - img "شرکت بهینه ترابر آژور - حمل و نقل بین المللی شماره 3" [ref=e343]
+            - link "Images" [ref=e345] [cursor=pointer]:
+              - /url: /filehash/A9zAigbcajApsvoCegihfcDtzq.jpg
+              - img "شرکت بهینه ترابر آژور - حمل و نقل بین المللی شماره 4" [ref=e346]
+            - link "Images" [ref=e348] [cursor=pointer]:
+              - /url: /filehash/A9zAigbcajApsvoCegihfdDtzq.jpg
+              - img "شرکت بهینه ترابر آژور - حمل و نقل بین المللی شماره 5" [ref=e349]
+            - link "More images" [ref=e350] [cursor=pointer]:
+              - /url: "#"
+      - generic [ref=e354]:
+        - generic [ref=e355]:
+          - generic [ref=e356]: آیا شما مالک یا مدیر این کسب و کار هستید؟
+          - button "مالک هستم" [ref=e357] [cursor=pointer]
+        - text: ✕
+      - generic [ref=e358]:
+        - heading "کسب و کارهای مشابه" [level=2] [ref=e360]
+        - navigation [ref=e361]:
+          - list [ref=e362]:
+            - listitem [ref=e363]:
+              - link "شرکت بازرگانی آرتا تجارت شرکت بازرگانی آرتا تجارت 5.0 (13 نظر) واردات صادرات کالا اصفهان، خیابان فلسطین" [ref=e364] [cursor=pointer]:
+                - /url: /profile/dff2b/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%A2%D8%B1%D8%AA%D8%A7-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA
+                - img "شرکت بازرگانی آرتا تجارت" [ref=e365]
+                - generic [ref=e366]:
+                  - heading "شرکت بازرگانی آرتا تجارت" [level=3] [ref=e367]
+                  - generic [ref=e368]:
+                    - generic [ref=e379]: "5.0"
+                    - generic [ref=e380]: (13 نظر)
+                  - list [ref=e381]:
+                    - listitem [ref=e382]: واردات صادرات کالا
+                  - generic [ref=e383]: اصفهان، خیابان فلسطین
+            - listitem [ref=e387]:
+              - link [ref=e388] [cursor=pointer]:
+                - /url: /profile/531fc/%D8%B4%D8%B1%DA%A9%D8%AA-%D9%82%D8%A7%D8%A6%D9%85-%D8%AA%DB%8C%D8%B1%D8%A2%D8%B3%DB%8C%D8%A7
+                - img "شرکت قائم تیرآسیا" [ref=e389]
+                - generic [ref=e390]:
+                  - heading "شرکت قائم تیرآسیا" [level=3] [ref=e391]
+                  - list [ref=e392]:
+                    - listitem [ref=e393]: حمل و نقل بین المللی
+                  - generic [ref=e394]: تبریز، خیابان بهشتی
+            - listitem [ref=e398]:
+              - link "شرکت ترنگ دریا - دفتر مرکزی شرکت ترنگ دریا - دفتر مرکزی 5.0 (2 نظر) حمل و نقل دریایی تهران، منطقه 6، محله سنائی، خیابان مطهری" [ref=e399] [cursor=pointer]:
+                - /url: /profile/bc2a2/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%AA%D8%B1%D9%86%DA%AF-%D8%AF%D8%B1%DB%8C%D8%A7-%D8%AF%D9%81%D8%AA%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C
+                - img "شرکت ترنگ دریا - دفتر مرکزی" [ref=e400]
+                - generic [ref=e401]:
+                  - heading "شرکت ترنگ دریا - دفتر مرکزی" [level=3] [ref=e402]
+                  - generic [ref=e403]:
+                    - generic [ref=e414]: "5.0"
+                    - generic [ref=e415]: (2 نظر)
+                  - list [ref=e416]:
+                    - listitem [ref=e417]: حمل و نقل دریایی
+                  - generic [ref=e418]: تهران، منطقه 6، محله سنائی، خیابان مطهری
+            - listitem [ref=e422]:
+              - link "آپادانا ترابر آپادانا ترابر 3.0 (2 نظر) حمل و نقل بین المللی حمل و نقل بار تهران، منطقه 7، محله عباس آباد، خیابان مطهری" [ref=e423] [cursor=pointer]:
+                - /url: /profile/8fae6/%D8%A2%D9%BE%D8%A7%D8%AF%D8%A7%D9%86%D8%A7-%D8%AA%D8%B1%D8%A7%D8%A8%D8%B1
+                - img "آپادانا ترابر" [ref=e424]
+                - generic [ref=e425]:
+                  - heading "آپادانا ترابر" [level=3] [ref=e426]
+                  - generic [ref=e427]:
+                    - generic [ref=e434]: "3.0"
+                    - generic [ref=e435]: (2 نظر)
+                  - list [ref=e436]:
+                    - listitem [ref=e437]: حمل و نقل بین المللی
+                    - listitem [ref=e438]: حمل و نقل بار
+                  - generic [ref=e439]: تهران، منطقه 7، محله عباس آباد، خیابان مطهری
+            - listitem [ref=e443]:
+              - link "شرکت ابتکار ترابر پارسا شرکت ابتکار ترابر پارسا 4.5 (1 نظر) حمل و نقل بین المللی تهران، منطقه 6، محله یوسف آباد، خیابان ولی عصر" [ref=e444] [cursor=pointer]:
+                - /url: /profile/d78db/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A7%D8%A8%D8%AA%DA%A9%D8%A7%D8%B1-%D8%AA%D8%B1%D8%A7%D8%A8%D8%B1-%D9%BE%D8%A7%D8%B1%D8%B3%D8%A7
+                - img "شرکت ابتکار ترابر پارسا" [ref=e445]
+                - generic [ref=e446]:
+                  - heading "شرکت ابتکار ترابر پارسا" [level=3] [ref=e447]
+                  - generic [ref=e448]:
+                    - generic [ref=e459]: "4.5"
+                    - generic [ref=e460]: (1 نظر)
+                  - list [ref=e461]:
+                    - listitem [ref=e462]: حمل و نقل بین المللی
+                  - generic [ref=e463]: تهران، منطقه 6، محله یوسف آباد، خیابان ولی عصر
+            - listitem [ref=e467]:
+              - link "شرکت بازرگانی زنجیره تجارت اوراسیا شرکت بازرگانی زنجیره تجارت اوراسیا 5.0 (1 نظر) حمل و نقل بین المللی بندرعباس، خیابان دانشگاه" [ref=e468] [cursor=pointer]:
+                - /url: /profile/mriww/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%B2%D9%86%D8%AC%DB%8C%D8%B1%D9%87-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D8%A7%D9%88%D8%B1%D8%A7%D8%B3%DB%8C%D8%A7
+                - img "شرکت بازرگانی زنجیره تجارت اوراسیا" [ref=e469]
+                - generic [ref=e470]:
+                  - heading "شرکت بازرگانی زنجیره تجارت اوراسیا" [level=3] [ref=e471]
+                  - generic [ref=e472]:
+                    - generic [ref=e483]: "5.0"
+                    - generic [ref=e484]: (1 نظر)
+                  - list [ref=e485]:
+                    - listitem [ref=e486]: حمل و نقل بین المللی
+                  - generic [ref=e487]: بندرعباس، خیابان دانشگاه
+            - listitem [ref=e491]:
+              - link "گروه شرکت های حمل و نقل هژیر راه گروه شرکت های حمل و نقل هژیر راه 3.7 (3 نظر) حمل و نقل بین المللی کشتیرانی تهران، منطقه 2، محله سعادت آباد، سعادت آباد" [ref=e492] [cursor=pointer]:
+                - /url: /profile/b20d6/%DA%AF%D8%B1%D9%88%D9%87-%D8%B4%D8%B1%DA%A9%D8%AA-%D9%87%D8%A7%DB%8C-%D8%AD%D9%85%D9%84-%D9%88-%D9%86%D9%82%D9%84-%D9%87%DA%98%DB%8C%D8%B1-%D8%B1%D8%A7%D9%87
+                - img "گروه شرکت های حمل و نقل هژیر راه" [ref=e493]
+                - generic [ref=e494]:
+                  - heading "گروه شرکت های حمل و نقل هژیر راه" [level=3] [ref=e495]
+                  - generic [ref=e496]:
+                    - generic [ref=e505]: "3.7"
+                    - generic [ref=e506]: (3 نظر)
+                  - list [ref=e507]:
+                    - listitem [ref=e508]: حمل و نقل بین المللی
+                    - listitem [ref=e509]: کشتیرانی
+                  - generic [ref=e510]: تهران، منطقه 2، محله سعادت آباد، سعادت آباد
+    - text: ✕ ✕
+  - contentinfo [ref=e514]:
+    - generic [ref=e515]:
+      - generic [ref=e516]:
+        - link "home page" [ref=e517] [cursor=pointer]:
+          - /url: /
+        - list [ref=e520]:
+          - listitem [ref=e521]:
+            - link "Telegram" [ref=e522] [cursor=pointer]:
+              - /url: https://t.me/avval_ir
+          - listitem [ref=e528]:
+            - link "instagram" [ref=e529] [cursor=pointer]:
+              - /url: https://instagram.com/ketabeavval.officialpage
+          - listitem [ref=e534]:
+            - link "Twitter" [ref=e535] [cursor=pointer]:
+              - /url: https://twitter.com/ketabeavvalir
+          - listitem [ref=e539]:
+            - link "Facebook" [ref=e540] [cursor=pointer]:
+              - /url: https://www.facebook.com/avval/
+          - listitem [ref=e544]:
+            - link "Linkedin" [ref=e545] [cursor=pointer]:
+              - /url: https://linkedin.com/company/ketabeavval/
+      - navigation [ref=e550]:
+        - generic [ref=e551]:
+          - generic [ref=e552]: درباره کتاب اول
+          - list [ref=e553]:
+            - listitem [ref=e554]:
+              - link "درباره کتاب اول" [ref=e555] [cursor=pointer]:
+                - /url: /about-ketabeavval
+            - listitem [ref=e556]:
+              - link "تماس با کتاب اول" [ref=e557] [cursor=pointer]:
+                - /url: /contact-us
+            - listitem [ref=e558]:
+              - link "شرایط استفاده" [ref=e559] [cursor=pointer]:
+                - /url: /terms-conditions
+            - listitem [ref=e560]:
+              - link "حریم شخضی" [ref=e561] [cursor=pointer]:
+                - /url: /privacy-policy
+        - generic [ref=e562]:
+          - generic [ref=e563]: کشف کنید
+          - list [ref=e564]:
+            - listitem [ref=e565]:
+              - link "دسته بندی مشاغل" [ref=e566] [cursor=pointer]:
+                - /url: /directory
+            - listitem [ref=e567]:
+              - link "نقشه سایت" [ref=e568] [cursor=pointer]:
+                - /url: /sitemap
+            - listitem [ref=e569]:
+              - link "دسترسی بانک مشاغل کتاب اول" [ref=e570] [cursor=pointer]:
+                - /url: /%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B4%D8%A7%D8%BA%D9%84-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+            - listitem [ref=e571]:
+              - link "پنل اس ام اس" [ref=e572] [cursor=pointer]:
+                - /url: /smspanel
+        - generic [ref=e573]:
+          - generic [ref=e574]: صاحبین مشاغل در کتاب اول
+          - list [ref=e575]:
+            - listitem [ref=e576]:
+              - link "ثبت اطلاعات شغلی" [ref=e577] [cursor=pointer]:
+                - /url: /%D8%AB%D8%A8%D8%AA-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D8%B4%D8%BA%D9%84%DB%8C
+            - listitem [ref=e578]:
+              - link "تبلیغات با کتاب اول" [ref=e579] [cursor=pointer]:
+                - /url: /%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-%D9%88%D8%A8-%D8%B3%D8%A7%DB%8C%D8%AA-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+    - generic [ref=e580]:
+      - img "samandehi logo" [ref=e582] [cursor=pointer]
+      - link "enamad logo" [ref=e584] [cursor=pointer]:
+        - /url: https://trustseal.enamad.ir/?id=194990&Code=3Y0m3d1djm9fuqjoC8mT
+        - img "logo-enamad" [ref=e585]
+    - generic [ref=e586]: 1373-1403 © تمامی حقوق برای شرکت کتاب اول محفوظ است
+  - text: ✕ *
+```

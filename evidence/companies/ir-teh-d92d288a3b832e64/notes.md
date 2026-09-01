@@ -1,0 +1,9 @@
+# پیشگامان تجارت و توسعه پایدار
+
+Score: 87
+Tier: A
+
+Visual evidence is captured from public pages only. Observations remain separate from workflow hypotheses.
+
+Captured 1 headless screenshot(s):
+- `companies/ir-teh-d92d288a3b832e64/screenshots/homepage.png` — homepage: Public company homepage is the primary visual evidence surface.

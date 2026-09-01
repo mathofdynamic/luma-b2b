@@ -1,0 +1,70 @@
+{
+  "company_id": "ir-teh-7af7f22e224559be",
+  "errors": [
+    {
+      "error": "### Browser `luma-b2b-ir-teh-7af7f22e224559be-attempt-1` opened with pid 48232.\n### Error\nError: net::ERR_HTTP_RESPONSE_CODE_FAILURE at http://www.avina9.ir/\nCall log:\n\u001b[2m  - navigating to \"http://www.avina9.ir/\", waiting until \"domcontentloaded\"\u001b[22m\n\n",
+      "source_url": "http://www.avina9.ir",
+      "stage": "open"
+    },
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "TimeoutExpired: Command '['/Users/mohammad/.codex/skills/playwright/scripts/playwright_cli.sh', '-s=luma-b2b-ir-teh-7af7f22e224559be-attempt-2', 'open', 'https://api.whatsapp.com/send?text=avval.ir/profile/69cf2/%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87-%D8%AA%D9%88%D9%84%DB%8C%D8%AF%DB%8C-%D8%B1%D8%B4%D8%AA%D9%87-%D8%A2%D8%B4-%D8%A2%D9%88%DB%8C%D9%86%D8%A7-%D9%86%D9%88%DB%8C%D9%86', '--config', 'config/playwright.headless.json']' timed out after 15 seconds",
+      "source_url": "https://api.whatsapp.com/send?text=avval.ir/profile/69cf2/%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87-%D8%AA%D9%88%D9%84%DB%8C%D8%AF%DB%8C-%D8%B1%D8%B4%D8%AA%D9%87-%D8%A2%D8%B4-%D8%A2%D9%88%DB%8C%D9%86%D8%A7-%D9%86%D9%88%DB%8C%D9%86",
+      "stage": "browser"
+    }
+  ],
+  "generated_at": "2026-09-01T09:19:46Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [
+    {
+      "bytes": 48098,
+      "captured_at": "2026-09-01T09:19:44Z",
+      "company_id": "ir-teh-7af7f22e224559be",
+      "headless": true,
+      "page_title": ".:: نماد تجارت الکترونیکی ::. خطا",
+      "path": "companies/ir-teh-7af7f22e224559be/screenshots/homepage_candidate-3.png",
+      "reason_this_matters": "Public company-site candidate; capture verifies whether it is reachable.",
+      "screenshot_type": "homepage_candidate_fallback",
+      "source_url": "https://trustseal.enamad.ir/?id=194990&Code=3Y0m3d1djm9fuqjoC8mT"
+    }
+  ],
+  "sources": [
+    {
+      "discovered_at": "2026-09-01T06:31:43Z",
+      "discovery_reason": "Book-e Avval category: تولید مواد غذایی",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "کارخانه تولیدی رشته آش آوینا نوین آماده همکاری یا اعطای نمایندگی با مراکز پخش ، بنکداران ،عمده فروشان و صادر کنندگان محترم با قابلیت تولید در ضخامت های مختلف متناسب با سل",
+      "source_quality": "directory",
+      "source_title": "تولید مواد غذایی در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:31:43Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-e9de5a60b453e197",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "کارخانه تولیدی رشته آش آوینا نوین آماده همکاری یا اعطای نمایندگی با مراکز پخش ، بنکداران ،عمده فروشان و صادر کنندگان محترم با قابلیت تولید در ضخامت های مختلف متناسب با سل",
+      "source_quality": "directory",
+      "source_title": "تولید مواد غذایی در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:53Z",
+      "claim": "Directory profile lists کارخانه تولیدی رشته آش آوینا نوین with a public Tehran business listing.",
+      "confidence": 0.82,
+      "evidence_id": "ev-bd000d1e98db36d5",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "کارخانه تولیدی رشته آش آوینا نوین - تولید مواد غذایی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس کارخانه تولیدی رشته آش آوینا نوین کارخانه تولیدی رشته آش آوینا نوین آماده همکاری یا اعطای نمایندگی با مراکز پخش ، بنکداران ،عمده فروشان و صادر کنندگان محترم با قابلیت تولید در ضخامت ها تولید مواد غذایی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل تولید مواد غذایی تهران محله خواجه نصیر اطلاعات تماس ",
+      "source_quality": "directory",
+      "source_title": "کارخانه تولیدی رشته آش آوینا نوین - تولید مواد غذایی | کتاب اول",
+      "source_url": "https://avval.ir/profile/69cf2/%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87-%D8%AA%D9%88%D9%84%DB%8C%D8%AF%DB%8C-%D8%B1%D8%B4%D8%AA%D9%87-%D8%A2%D8%B4-%D8%A2%D9%88%DB%8C%D9%86%D8%A7-%D9%86%D9%88%DB%8C%D9%86"
+    }
+  ]
+}

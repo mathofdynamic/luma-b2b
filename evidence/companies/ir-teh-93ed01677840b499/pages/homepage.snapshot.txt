@@ -1,0 +1,828 @@
+### Page
+- Page URL: https://arkabast.com/
+- Page Title: فروشگاه اینترنتی آرکابست
+- Console: 2 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e5] [cursor=pointer]: ︎
+    - paragraph [ref=e8]: "توجه: قبل از سفارش حتما استعلام قیمت بگیرید."
+  - text:     
+  - banner [ref=e9]:
+    - generic [ref=e12]:
+      - generic [ref=e13]:
+        - link [ref=e15] [cursor=pointer]:
+          - /url: https://arkabast.com
+          - img "آرکابست" [ref=e16]
+        - text: 
+      - generic [ref=e17]:
+        - generic [ref=e20]:
+          - textbox "جستجو در هزاران محصول ..." [ref=e21]
+          - button "" [ref=e22] [cursor=pointer]
+          - text:  
+        - generic [ref=e24]:
+          - generic [ref=e25]:
+            - text: 
+            - generic [ref=e27] [cursor=pointer]:
+              - generic [ref=e28]: 
+              - generic [ref=e30]: ورود/ثبت نام
+              - generic [ref=e31]: 
+            - text:    
+          - link " 0" [ref=e33] [cursor=pointer]:
+            - /url: javascript:void()
+            - generic [ref=e34]:
+              - generic [ref=e35]: 
+              - emphasis [ref=e36]: "0"
+    - navigation [ref=e39]:
+      - list [ref=e40]:
+        - listitem [ref=e41]:
+          - generic [ref=e43]:
+            - img "image-icon-menu" [ref=e44]
+            - generic [ref=e45]: دسته بندی محصولات
+          - text: › › › › › ›
+        - listitem [ref=e46]:
+          - link "image-icon-menu مجله آرکابست" [ref=e47] [cursor=pointer]:
+            - /url: https://arkabast.com/blog/
+            - generic [ref=e48]:
+              - img "image-icon-menu" [ref=e49]
+              - generic [ref=e50]: مجله آرکابست
+        - listitem [ref=e51]:
+          - link "image-icon-menu رویه ارسال سفارش" [ref=e52] [cursor=pointer]:
+            - /url: https://arkabast.com/%d8%b1%d9%88%db%8c%d9%87-%d8%a7%d8%b1%d8%b3%d8%a7%d9%84-%d8%b3%d9%81%d8%a7%d8%b1%d8%b4/
+            - generic [ref=e53]:
+              - img "image-icon-menu" [ref=e54]
+              - generic [ref=e55]: رویه ارسال سفارش
+        - listitem [ref=e56]:
+          - link "image-icon-menu تماس با ما" [ref=e57] [cursor=pointer]:
+            - /url: https://arkabast.com/contact-us/
+            - generic [ref=e58]:
+              - img "image-icon-menu" [ref=e59]
+              - generic [ref=e60]: تماس با ما
+        - listitem [ref=e61]:
+          - link "image-icon-menu پیگیری سفارش" [ref=e62] [cursor=pointer]:
+            - /url: https://arkabast.com/%D9%BE%DB%8C%DA%AF%DB%8C%D8%B1%DB%8C-%D8%B3%D9%81%D8%A7%D8%B1%D8%B4/
+            - generic [ref=e63]:
+              - img "image-icon-menu" [ref=e64]
+              - generic [ref=e65]: پیگیری سفارش
+        - listitem
+  - generic [ref=e67]:
+    - region "اسلاید ها" [ref=e71]:
+      - group [ref=e73]:
+        - img "بنر صفحه اول آرکابست" [ref=e74]
+    - generic [ref=e76]:
+      - generic [ref=e80]:
+        - generic [ref=e82] [cursor=pointer]:
+          - generic [ref=e84]:
+            - link [ref=e87]:
+              - /url: https://arkabast.com/hose/
+              - img "شیلنگ و اتصالات" [ref=e88]
+            - heading "شیلنگ و اتصالات" [level=3] [ref=e91]
+          - link [ref=e92]:
+            - /url: https://arkabast.com/hose/
+        - generic [ref=e94] [cursor=pointer]:
+          - generic [ref=e96]:
+            - link [ref=e99]:
+              - /url: https://arkabast.com/tool-kit/
+              - img "جعبه ابزار" [ref=e100]
+            - heading "جعبه ابزار" [level=3] [ref=e103]
+          - link [ref=e104]:
+            - /url: https://arkabast.com/tool-kit/
+        - generic [ref=e106] [cursor=pointer]:
+          - generic [ref=e108]:
+            - link [ref=e111]:
+              - /url: https://arkabast.com/hand-tools/
+              - img "ابزارآلات دستی" [ref=e112]
+            - heading "ابزارآلات دستی" [level=3] [ref=e115]
+          - link [ref=e116]:
+            - /url: https://arkabast.com/hand-tools/
+        - generic [ref=e118] [cursor=pointer]:
+          - generic [ref=e120]:
+            - link [ref=e123]:
+              - /url: https://arkabast.com/electric-tools/
+              - img "ابزارآلات برقی" [ref=e124]
+            - heading "ابزارآلات برقی" [level=3] [ref=e127]
+          - link [ref=e128]:
+            - /url: https://arkabast.com/electric-tools/
+        - generic [ref=e130] [cursor=pointer]:
+          - generic [ref=e132]:
+            - link [ref=e135]:
+              - /url: https://arkabast.com/measuring-tool/
+              - img "ابزارآلات دقیق" [ref=e136]
+            - heading "ابزارآلات دقیق" [level=3] [ref=e139]
+          - link [ref=e140]:
+            - /url: https://arkabast.com/measuring-tool/
+        - generic [ref=e142] [cursor=pointer]:
+          - generic [ref=e144]:
+            - link [ref=e147]:
+              - /url: https://arkabast.com/safety-equipment/
+              - img "تجهیزات ایمنی" [ref=e148]
+            - heading "تجهیزات ایمنی" [level=3] [ref=e151]
+          - link [ref=e152]:
+            - /url: https://arkabast.com/safety-equipment/
+        - generic [ref=e154] [cursor=pointer]:
+          - generic [ref=e156]:
+            - link [ref=e159]:
+              - /url: https://arkabast.com/industrial-painting-tools/
+              - img "رنگ و ابزار" [ref=e160]
+            - heading "رنگ و ابزار" [level=3] [ref=e163]
+          - link [ref=e164]:
+            - /url: https://arkabast.com/industrial-painting-tools/
+        - generic [ref=e166] [cursor=pointer]:
+          - generic [ref=e168]:
+            - link [ref=e171]:
+              - /url: https://arkabast.com/tool-accessories/
+              - img "لوازم جانبی ابزار" [ref=e172]
+            - heading "لوازم جانبی ابزار" [level=3] [ref=e175]
+          - link [ref=e176]:
+            - /url: https://arkabast.com/tool-accessories/
+        - generic [ref=e178] [cursor=pointer]:
+          - generic [ref=e180]:
+            - link [ref=e183]:
+              - /url: https://arkabast.com/gardening-and-agricultural-tools/
+              - img "ابزارآلات باغبانی" [ref=e184]
+            - heading "ابزارآلات باغبانی" [level=3] [ref=e187]
+          - link [ref=e188]:
+            - /url: https://arkabast.com/gardening-and-agricultural-tools/
+      - generic [ref=e191]:
+        - link [ref=e193] [cursor=pointer]:
+          - /url: https://arkabast.com/tasme/
+          - img "انواع تسمه" [ref=e194]
+        - link [ref=e196] [cursor=pointer]:
+          - /url: https://arkabast.com/car-cleaning/
+          - img "خوشبو کننده" [ref=e197]
+        - link [ref=e199] [cursor=pointer]:
+          - /url: https://arkabast.com/bearing/
+          - img "بلبرینگ" [ref=e200]
+        - link [ref=e202] [cursor=pointer]:
+          - /url: https://arkabast.com/car-spare-parts/
+          - img "انواع لوازم یدکی" [ref=e203]
+      - generic [ref=e204]:
+        - generic [ref=e205]:
+          - generic [ref=e208]:
+            - heading [level=3] [ref=e209]:
+              - link "بست فلزی" [ref=e210] [cursor=pointer]:
+                - /url: https://arkabast.com/metal-clamp/
+            - paragraph [ref=e211]: زارکس ZAREX - ترک TORK
+          - link [ref=e213] [cursor=pointer]:
+            - /url: https://arkabast.com/product-category/%d8%a8%d8%b3%d8%aa-%d9%81%d9%84%d8%b2%db%8c/
+            - img "4 تصویر مختلف از انواع بست کمربندی" [ref=e214]
+          - generic [ref=e216]:
+            - link "مشاهده همه" [ref=e218] [cursor=pointer]:
+              - /url: https://arkabast.com/metal-clamp/
+            - link "مشاهده همه" [ref=e223] [cursor=pointer]:
+              - /url: https://arkabast.com/metal-clamp/
+        - generic [ref=e224]:
+          - generic [ref=e227]:
+            - heading [level=3] [ref=e228]:
+              - link "سرباتری" [ref=e229] [cursor=pointer]:
+                - /url: https://arkabast.com/battery-terminal/
+            - paragraph [ref=e230]: RBC - سراج - تاپ مکس - چکامه - کارنت
+          - link [ref=e232] [cursor=pointer]:
+            - /url: https://arkabast.com/product-category/spare-parts/%d8%b3%d8%b1%d8%a8%d8%a7%d8%aa%d8%b1%db%8c/
+            - img "4 تصویر مختلف از انواع سرباتری" [ref=e233]
+          - generic [ref=e235]:
+            - link "مشاهده همه" [ref=e237] [cursor=pointer]:
+              - /url: https://arkabast.com/battery-terminal/
+            - link "مشاهده همه" [ref=e242] [cursor=pointer]:
+              - /url: https://arkabast.com/battery-terminal/
+        - generic [ref=e243]:
+          - generic [ref=e246]:
+            - heading [level=3] [ref=e247]:
+              - link "گریس و سری گریس پمپ" [ref=e248] [cursor=pointer]:
+                - /url: https://arkabast.com/grease-pump/
+            - paragraph [ref=e249]: میتا - توسن - سوزنی - پرسول - گروز
+          - link [ref=e251] [cursor=pointer]:
+            - /url: https://arkabast.com/product-category/spare-parts/%da%af%d8%b1%db%8c%d8%b3-%d9%be%d9%85%d9%be/
+            - img "4 تصویر مختلف از انواع گریس پمپ" [ref=e252]
+          - generic [ref=e254]:
+            - link "مشاهده همه" [ref=e256] [cursor=pointer]:
+              - /url: https://arkabast.com/grease-pump/
+            - link "مشاهده همه" [ref=e261] [cursor=pointer]:
+              - /url: https://arkabast.com/grease-pump/
+        - generic [ref=e262]:
+          - generic [ref=e265]:
+            - heading [level=3] [ref=e266]:
+              - link "لوازم پنچرگیری" [ref=e267] [cursor=pointer]:
+                - /url: https://arkabast.com/tire-repair-tools/
+            - paragraph [ref=e268]: تفنگ و درجه باد - درفش - نخ پنچرگیری
+          - link [ref=e270] [cursor=pointer]:
+            - /url: https://arkabast.com/product-category/%d9%84%d9%88%d8%a7%d8%b2%d9%85-%d8%a2%d9%be%d8%a7%d8%b1%d8%a7%d8%aa%db%8c-%d9%88-%d9%be%d9%86%da%86%d8%b1%da%af%db%8c%d8%b1%db%8c/
+            - img "4 تصویر مختلف از وسایل پنچرگیری" [ref=e271]
+          - generic [ref=e273]:
+            - link "مشاهده همه" [ref=e275] [cursor=pointer]:
+              - /url: https://arkabast.com/tire-repair-tools/
+            - link "مشاهده همه" [ref=e280] [cursor=pointer]:
+              - /url: https://arkabast.com/tire-repair-tools/
+      - generic [ref=e286]:
+        - heading "پرفروش ترین کالاها" [level=3] [ref=e288]
+        - generic [ref=e290]:
+          - generic [ref=e292]:
+            - generic [ref=e294]:
+              - link "20260618 113326 1 موتور فن دو دور پراید" [ref=e297] [cursor=pointer]:
+                - /url: https://arkabast.com/product/%D9%85%D9%88%D8%AA%D9%88%D8%B1-%D9%81%D9%86-%D8%AF%D9%88-%D8%AF%D9%88%D8%B1-%D9%BE%D8%B1%D8%A7%DB%8C%D8%AF/
+                - img "20260618 113326" [ref=e300]
+                - generic [ref=e301]: "1"
+                - heading "موتور فن دو دور پراید" [level=4] [ref=e303]
+              - link "مجموعه فن کامل ال ۹۰ مارک کلاو چین 2 مجموعه فن کامل ال ۹۰ مارک کلاو چین" [ref=e306] [cursor=pointer]:
+                - /url: https://arkabast.com/product/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%81%D9%86-%DA%A9%D8%A7%D9%85%D9%84-%D8%A7%D9%84-%DB%B9%DB%B0-%D9%85%D8%A7%D8%B1%DA%A9-%DA%A9%D9%84%D8%A7%D9%88-%DA%86%DB%8C%D9%86/
+                - img "مجموعه فن کامل ال ۹۰ مارک کلاو چین" [ref=e309]
+                - generic [ref=e310]: "2"
+                - heading "مجموعه فن کامل ال ۹۰ مارک کلاو چین" [level=4] [ref=e312]
+              - link "شیلنگ استیل سایز 1 اینچ 3 شیلنگ استیل سایز 1 اینچ" [ref=e315] [cursor=pointer]:
+                - /url: https://arkabast.com/product/%D8%B4%DB%8C%D9%84%D9%86%DA%AF-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D8%B3%D8%A7%DB%8C%D8%B2-1%D8%A7%DB%8C%D9%86%DA%86/
+                - img "شیلنگ استیل سایز 1 اینچ" [ref=e318]
+                - generic [ref=e319]: "3"
+                - heading "شیلنگ استیل سایز 1 اینچ" [level=4] [ref=e321]
+            - generic [ref=e323]:
+              - link "شلنگ باد پنوماتیک مدل 8mm 4 شلنگ باد پنوماتیک مدل 8mm" [ref=e326] [cursor=pointer]:
+                - /url: https://arkabast.com/product/%D8%B4%DB%8C%D9%84%D9%86%DA%AF-%D9%BE%D9%86%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D8%B3%D8%A7%DB%8C%D8%B2-8/
+                - img "شلنگ باد پنوماتیک مدل 8mm" [ref=e329]
+                - generic [ref=e330]: "4"
+                - heading "شلنگ باد پنوماتیک مدل 8mm" [level=4] [ref=e332]
+              - link "ضد یخ و ضد جوش سایپا copy 5 ضد یخ و ضد جوش سایپا" [ref=e335] [cursor=pointer]:
+                - /url: https://arkabast.com/product/%D8%B6%D8%AF-%DB%8C%D8%AE-%D9%88-%D8%B6%D8%AF-%D8%AC%D9%88%D8%B4-%D8%B3%D8%A7%DB%8C%D9%BE%D8%A7/
+                - img "ضد یخ و ضد جوش سایپا copy" [ref=e338]
+                - generic [ref=e339]: "5"
+                - heading "ضد یخ و ضد جوش سایپا" [level=4] [ref=e341]
+              - link "اسپری انژکتور شو ام طوسی 6 اسپری انژکتور شو ام طوسی" [ref=e344] [cursor=pointer]:
+                - /url: https://arkabast.com/product/%D8%A7%D8%B3%D9%BE%D8%B1%DB%8C-%D8%A7%D9%86%DA%98%DA%A9%D8%AA%D9%88%D8%B1-%D8%B4%D9%88-%D8%A7%D9%85-%D8%B7%D9%88%D8%B3%DB%8C/
+                - img "اسپری انژکتور شو ام طوسی" [ref=e347]
+                - generic [ref=e348]: "6"
+                - heading "اسپری انژکتور شو ام طوسی" [level=4] [ref=e350]
+            - generic [ref=e352]:
+              - link "1000097089 7 مغزی پمپ بنزین پراید انژکتور" [ref=e355] [cursor=pointer]:
+                - /url: https://arkabast.com/product/%D9%85%D8%BA%D8%B2%DB%8C-%D9%BE%D9%85%D9%BE-%D8%A8%D9%86%D8%B2%DB%8C%D9%86-%D9%BE%D8%B1%D8%A7%DB%8C%D8%AF-%D8%A7%D9%86%DA%98%DA%A9%D8%AA%D9%88%D8%B1/
+                - img "1000097089" [ref=e358]
+                - generic [ref=e359]: "7"
+                - heading "مغزی پمپ بنزین پراید انژکتور" [level=4] [ref=e361]
+              - link "پمپ بنزین پراید کاربراتور 8 پمپ بنزین پراید کاربراتور" [ref=e364] [cursor=pointer]:
+                - /url: https://arkabast.com/product/%D9%BE%D9%85%D9%BE-%D8%A8%D9%86%D8%B2%DB%8C%D9%86-%D9%BE%D8%B1%D8%A7%DB%8C%D8%AF-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%A7%D8%AA%D9%88%D8%B1/
+                - img "پمپ بنزین پراید کاربراتور" [ref=e367]
+                - generic [ref=e368]: "8"
+                - heading "پمپ بنزین پراید کاربراتور" [level=4] [ref=e370]
+              - link "شلنگ ۱/۴ یک لایه سیم 9 شلنگ ۱/۴ یک لایه سیم" [ref=e373] [cursor=pointer]:
+                - /url: https://arkabast.com/product/%D8%B4%D9%84%D9%86%DA%AF-%DB%B1%DB%B4-%DB%8C%DA%A9-%D9%84%D8%A7%DB%8C%D9%87-%D8%B3%DB%8C%D9%85/
+                - img "شلنگ ۱/۴ یک لایه سیم" [ref=e376]
+                - generic [ref=e377]: "9"
+                - heading "شلنگ ۱/۴ یک لایه سیم" [level=4] [ref=e379]
+            - generic [ref=e381]:
+              - link "727477a1efc0f75059052087f2145dca9543b295 1707554030 1 10 پیچ گوشتی ساعتی استارلکس" [ref=e384] [cursor=pointer]:
+                - /url: https://arkabast.com/%D9%BE%DB%8C%DA%86-%DA%AF%D9%88%D8%B4%D8%AA%DB%8C-%D8%B3%D8%A7%D8%B9%D8%AA%DB%8C-%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D9%84%DA%A9%D8%B3/
+                - img "727477a1efc0f75059052087f2145dca9543b295 1707554030 1" [ref=e387]
+                - generic [ref=e388]: "10"
+                - heading "پیچ گوشتی ساعتی استارلکس" [level=4] [ref=e390]
+              - link "قیچی لوله pvc استارمکس 11 قیچی لوله pvc استارمکس" [ref=e393] [cursor=pointer]:
+                - /url: https://arkabast.com/product/%D9%82%DB%8C%DA%86%DB%8C-%D9%84%D9%88%D9%84%D9%87-pvc/
+                - img "قیچی لوله pvc استارمکس" [ref=e396]
+                - generic [ref=e397]: "11"
+                - heading "قیچی لوله pvc استارمکس" [level=4] [ref=e399]
+              - link "انبر کلاغی استارمکس 12 انبر کلاغی استارمکس" [ref=e402] [cursor=pointer]:
+                - /url: https://arkabast.com/product/%D8%A7%D9%86%D8%A8%D8%B1-%DA%A9%D9%84%D8%A7%D8%BA%DB%8C/
+                - img "انبر کلاغی استارمکس" [ref=e405]
+                - generic [ref=e406]: "12"
+                - heading "انبر کلاغی استارمکس" [level=4] [ref=e408]
+            - generic [ref=e410]:
+              - link "ست مغار 4 عددی استارمکس 13 ست مغار ۴ عددی استارمکس" [ref=e413] [cursor=pointer]:
+                - /url: https://arkabast.com/%D8%B3%D8%AA-%D9%85%D8%BA%D8%A7%D8%B1-%DB%B4-%D8%B9%D8%AF%D8%AF%DB%8C-%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D9%85%DA%A9%D8%B3/
+                - img "ست مغار 4 عددی استارمکس" [ref=e416]
+                - generic [ref=e417]: "13"
+                - heading "ست مغار ۴ عددی استارمکس" [level=4] [ref=e419]
+              - link "قیچی حلب بر استارمکس 14 قیچی حلب بر استارمکس" [ref=e422] [cursor=pointer]:
+                - /url: https://arkabast.com/%D9%82%DB%8C%DA%86%DB%8C-%D8%AD%D9%84%D8%A8-%D8%A8%D8%B1-%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D9%85%DA%A9%D8%B3/
+                - img "قیچی حلب بر استارمکس" [ref=e425]
+                - generic [ref=e426]: "14"
+                - heading "قیچی حلب بر استارمکس" [level=4] [ref=e428]
+              - link "انبر درج دسته بلند کارگاهی 15 انبر درج دسته بلند کارگاهی" [ref=e431] [cursor=pointer]:
+                - /url: https://arkabast.com/%D8%A7%D9%86%D8%A8%D8%B1-%D8%AF%D8%B1%D8%AC-%D8%AF%D8%B3%D8%AA%D9%87-%D8%A8%D9%84%D9%86%D8%AF-%DA%A9%D8%A7%D8%B1%DA%AF%D8%A7%D9%87%DB%8C/
+                - img "انبر درج دسته بلند کارگاهی" [ref=e434]
+                - generic [ref=e435]: "15"
+                - heading "انبر درج دسته بلند کارگاهی" [level=4] [ref=e437]
+            - generic [ref=e439]:
+              - link "اره چوب‌ بر غلاف‌دار ۳۵ سانت 16 اره چوب‌ بر غلاف‌دار" [ref=e442] [cursor=pointer]:
+                - /url: https://arkabast.com/product/%D8%A7%D8%B1%D9%87/
+                - img "اره چوب‌ بر غلاف‌دار ۳۵ سانت" [ref=e445]
+                - generic [ref=e446]: "16"
+                - heading "اره چوب‌ بر غلاف‌دار" [level=4] [ref=e448]
+              - link "چاقو پیوندزنی 17 چاقو پیوندزنی" [ref=e451] [cursor=pointer]:
+                - /url: https://arkabast.com/product/%DA%86%D8%A7%D9%82%D9%88-%D9%BE%DB%8C%D9%88%D9%86%D8%AF%D8%B2%D9%86%DB%8C/
+                - img "چاقو پیوندزنی" [ref=e454]
+                - generic [ref=e455]: "17"
+                - heading "چاقو پیوندزنی" [level=4] [ref=e457]
+              - link "قفل آویز سایز ۲۵ میلی‌متر 18 قفل آویز سایز ۲۵ میلی متر" [ref=e460] [cursor=pointer]:
+                - /url: https://arkabast.com/%D9%82%D9%81%D9%84-%D8%A2%D9%88%DB%8C%D8%B2-%D8%B3%D8%A7%DB%8C%D8%B2-%DB%B2%DB%B5-%D9%85%DB%8C%D9%84%DB%8C-%D9%85%D8%AA%D8%B1/
+                - img "قفل آویز سایز ۲۵ میلی‌متر" [ref=e463]
+                - generic [ref=e464]: "18"
+                - heading "قفل آویز سایز ۲۵ میلی متر" [level=4] [ref=e466]
+            - generic [ref=e468]:
+              - link "قفل آویز سایز ۲۵ میلی متر 19 قفل آویز سایز ۲۵ میلی متر" [ref=e471] [cursor=pointer]:
+                - /url: https://arkabast.com/%D9%82%D9%81%D9%84-%D8%A2%D9%88%DB%8C%D8%B2-%D8%B3%D8%A7%DB%8C%D8%B2-%DB%B2%DB%B5-%D9%85%DB%8C%D9%84%DB%8C-%D9%85%D8%AA%D8%B1/
+                - img "قفل آویز سایز ۲۵ میلی متر" [ref=e474]
+                - generic [ref=e475]: "19"
+                - heading "قفل آویز سایز ۲۵ میلی متر" [level=4] [ref=e477]
+              - link "قفل آویز سایز ۳۸ میلی‌ متر 20 قفل آویز سایز ۳۸ میلی متر" [ref=e480] [cursor=pointer]:
+                - /url: https://arkabast.com/%D9%82%D9%81%D9%84-%D8%A2%D9%88%DB%8C%D8%B2-%D8%B3%D8%A7%DB%8C%D8%B2-%DB%B3%DB%B8-%D9%85%DB%8C%D9%84%DB%8C-%D9%85%D8%AA%D8%B1/
+                - img "قفل آویز سایز ۳۸ میلی‌ متر" [ref=e483]
+                - generic [ref=e484]: "20"
+                - heading "قفل آویز سایز ۳۸ میلی متر" [level=4] [ref=e486]
+              - link "قفل آویز سایز ۳۸ میلی‌ متر 21 قفل آویز سایز ۵۰ میلی‌ متر" [ref=e489] [cursor=pointer]:
+                - /url: https://arkabast.com/%D9%82%D9%81%D9%84-%D8%A2%D9%88%DB%8C%D8%B2-%D8%B3%D8%A7%DB%8C%D8%B2-%DB%B5%DB%B0-%D9%85%DB%8C%D9%84%DB%8C-%D9%85%D8%AA%D8%B1/
+                - img "قفل آویز سایز ۳۸ میلی‌ متر" [ref=e492]
+                - generic [ref=e493]: "21"
+                - heading "قفل آویز سایز ۵۰ میلی‌ متر" [level=4] [ref=e495]
+            - generic [ref=e497]:
+              - link "سیلندر (مغزی) در چوبی 22 سیلندر (مغزی) در چوبی" [ref=e500] [cursor=pointer]:
+                - /url: https://arkabast.com/%D8%B3%DB%8C%D9%84%D9%86%D8%AF%D8%B1-%D9%85%D8%BA%D8%B2%DB%8C-%D8%AF%D8%B1-%DA%86%D9%88%D8%A8%DB%8C/
+                - img "سیلندر (مغزی) در چوبی" [ref=e503]
+                - generic [ref=e504]: "22"
+                - heading "سیلندر (مغزی) در چوبی" [level=4] [ref=e506]
+              - link "تیغ کاتر هیوندا 23 تیغ کاتر هیوندا" [ref=e509] [cursor=pointer]:
+                - /url: https://arkabast.com/%D8%AA%DB%8C%D8%BA-%DA%A9%D8%A7%D8%AA%D8%B1-%D9%87%DB%8C%D9%88%D9%86%D8%AF%D8%A7/
+                - img "تیغ کاتر هیوندا" [ref=e512]
+                - generic [ref=e513]: "23"
+                - heading "تیغ کاتر هیوندا" [level=4] [ref=e515]
+              - link "انبردست سایز ۸ اینچ 24 انبردست سایز ۸ اینچ" [ref=e518] [cursor=pointer]:
+                - /url: https://arkabast.com/%D8%A7%D9%86%D8%A8%D8%B1%D8%AF%D8%B3%D8%AA-%D8%B3%D8%A7%DB%8C%D8%B2-%DB%B8-%D8%A7%DB%8C%D9%86%DA%86/
+                - img "انبردست سایز ۸ اینچ" [ref=e521]
+                - generic [ref=e522]: "24"
+                - heading "انبردست سایز ۸ اینچ" [level=4] [ref=e524]
+            - generic [ref=e526]:
+              - link "انبردست سایز ۸ اینچ arg 25 انبردست سایز ۸ اینچ arg" [ref=e529] [cursor=pointer]:
+                - /url: https://arkabast.com/product/%D8%A7%D9%86%D8%A8%D8%B1%D8%AF%D8%B3%D8%AA/
+                - img "انبردست سایز ۸ اینچ arg" [ref=e532]
+                - generic [ref=e533]: "25"
+                - heading "انبردست سایز ۸ اینچ arg" [level=4] [ref=e535]
+              - link "جعبه بکس ۴۰ پارچه 26 جعبه بکس ۴۰ پارچه" [ref=e538] [cursor=pointer]:
+                - /url: https://arkabast.com/product/%D8%A8%DA%A9%D8%B3/
+                - img "جعبه بکس ۴۰ پارچه" [ref=e541]
+                - generic [ref=e542]: "26"
+                - heading "جعبه بکس ۴۰ پارچه" [level=4] [ref=e544]
+              - link "آچار ۷ عددی یکسر جغجغه ای 27 آچار ۷ عددی یکسر جغجغه ای" [ref=e547] [cursor=pointer]:
+                - /url: https://arkabast.com/%D8%A2%DA%86%D8%A7%D8%B1-%DB%B7-%D8%B9%D8%AF%D8%AF%DB%8C/
+                - img "آچار ۷ عددی یکسر جغجغه ای" [ref=e550]
+                - generic [ref=e551]: "27"
+                - heading "آچار ۷ عددی یکسر جغجغه ای" [level=4] [ref=e553]
+            - generic [ref=e555]:
+              - link "انبردست سایز ۸ اینچ 28 انبردست سایز ۸ اینچ" [ref=e558] [cursor=pointer]:
+                - /url: https://arkabast.com/%D8%A7%D9%86%D8%A8%D8%B1%D8%AF%D8%B3%D8%AA-%D8%B3%D8%A7%DB%8C%D8%B2-%DB%B8/
+                - img "انبردست سایز ۸ اینچ" [ref=e561]
+                - generic [ref=e562]: "28"
+                - heading "انبردست سایز ۸ اینچ" [level=4] [ref=e564]
+              - link "انبردست سایز هشت مستحکم 29 انبردست سایز هشت مستحکم" [ref=e567] [cursor=pointer]:
+                - /url: https://arkabast.com/%D8%A7%D9%86%D8%A8%D8%B1%D8%AF%D8%B3%D8%AA-%D8%B3%D8%A7%DB%8C%D8%B2-%D9%87%D8%B4%D8%AA-%D9%85%D8%B3%D8%AA%D8%AD%DA%A9%D9%85/
+                - img "انبردست سایز هشت مستحکم" [ref=e570]
+                - generic [ref=e571]: "29"
+                - heading "انبردست سایز هشت مستحکم" [level=4] [ref=e573]
+              - link "سیم چین سایز ۶ اینچ 30 سیم چین سایز ۶ اینچ" [ref=e576] [cursor=pointer]:
+                - /url: https://arkabast.com/%D8%B3%DB%8C%D9%85-%DA%86%DB%8C%D9%86-%D8%B3%D8%A7%DB%8C%D8%B2-%DB%B6-%D8%A7%DB%8C%D9%86%DA%86/
+                - img "سیم چین سایز ۶ اینچ" [ref=e579]
+                - generic [ref=e580]: "30"
+                - heading "سیم چین سایز ۶ اینچ" [level=4] [ref=e582]
+            - generic [ref=e584]:
+              - link "دمباریک سایز ۶ اینچ arg 31 دمباریک سایز ۶ اینچ arg" [ref=e587] [cursor=pointer]:
+                - /url: https://arkabast.com/%D8%AF%D9%85%D8%A8%D8%A7%D8%B1%DB%8C%DA%A9-%D8%B3%D8%A7%DB%8C%D8%B2-%DB%B6-%D8%A7%DB%8C%D9%86%DA%86-arg/
+                - img "دمباریک سایز ۶ اینچ arg" [ref=e590]
+                - generic [ref=e591]: "31"
+                - heading "دمباریک سایز ۶ اینچ arg" [level=4] [ref=e593]
+              - link "d85825d2 64da 40f1 91b3 3e3f50a45d70 32 انبردست" [ref=e596] [cursor=pointer]:
+                - /url: https://arkabast.com/product/%D8%A7%D9%86%D8%A8%D8%B1%D8%AF%D8%B3%D8%AA/
+                - img "d85825d2 64da 40f1 91b3 3e3f50a45d70" [ref=e599]
+                - generic [ref=e600]: "32"
+                - heading "انبردست" [level=4] [ref=e602]
+              - link "شلاقی دودسته سایز ۱/۵ اینچ 33 شلاقی دودسته سایز ۱/۵ اینچ" [ref=e605] [cursor=pointer]:
+                - /url: https://arkabast.com/%D8%B4%D9%84%D8%A7%D9%82%DB%8C-%D8%AF%D9%88%D8%AF%D8%B3%D8%AA%D9%87-%D8%B3%D8%A7%DB%8C%D8%B2-%DB%B1/%DB%B5-%D8%A7%DB%8C%D9%86%DA%86/
+                - img "شلاقی دودسته سایز ۱/۵ اینچ" [ref=e608]
+                - generic [ref=e609]: "33"
+                - heading "شلاقی دودسته سایز ۱/۵ اینچ" [level=4] [ref=e611]
+            - generic [ref=e613]:
+              - link "a98b48d3 9f28 49e7 b67c afddaf8849f5 34 آچار شلاقی" [ref=e616] [cursor=pointer]:
+                - /url: https://arkabast.com/product/%D8%A2%DA%86%D8%A7%D8%B1-%D8%B4%D9%84%D8%A7%D9%82%DB%8C/
+                - img "a98b48d3 9f28 49e7 b67c afddaf8849f5" [ref=e619]
+                - generic [ref=e620]: "34"
+                - heading "آچار شلاقی" [level=4] [ref=e622]
+              - link "شیلنگ باد فنری سایز ۸ طول ۵ متری 35 شیلنگ باد فنری سایز ۱۲ طول ۱۵ متری" [ref=e625] [cursor=pointer]:
+                - /url: https://arkabast.com/product/%D8%B4%DB%8C%D9%84%D9%86%DA%AF-%D8%A8%D8%A7%D8%AF-%D9%81%D9%86%D8%B1%DB%8C-%D8%B3%D8%A7%DB%8C%D8%B2-%DB%B1%DB%B2-%D8%B7%D9%88%D9%84-%DB%B1%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C/
+                - img "شیلنگ باد فنری سایز ۸ طول ۵ متری" [ref=e628]
+                - generic [ref=e629]: "35"
+                - heading "شیلنگ باد فنری سایز ۱۲ طول ۱۵ متری" [level=4] [ref=e631]
+              - link "شیلنگ باد فنری سایز ۸ طول ۵ متری 36 شیلنگ باد فنری سایز ۱۲ طول ۱۰ متری" [ref=e634] [cursor=pointer]:
+                - /url: https://arkabast.com/product/%D8%B4%DB%8C%D9%84%D9%86%DA%AF-%D8%A8%D8%A7%D8%AF-%D9%81%D9%86%D8%B1%DB%8C-%D8%B3%D8%A7%DB%8C%D8%B2-%DB%B1%DB%B2-%D8%B7%D9%88%D9%84-%DB%B1%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C/
+                - img "شیلنگ باد فنری سایز ۸ طول ۵ متری" [ref=e637]
+                - generic [ref=e638]: "36"
+                - heading "شیلنگ باد فنری سایز ۱۲ طول ۱۰ متری" [level=4] [ref=e640]
+            - generic [ref=e642]:
+              - link "شیلنگ باد فنری سایز ۸ طول ۵ متری 37 شیلنگ باد فنری سایز ۱۲ طول ۵ متری" [ref=e645] [cursor=pointer]:
+                - /url: https://arkabast.com/product/%D8%B4%DB%8C%D9%84%D9%86%DA%AF-%D8%A8%D8%A7%D8%AF-%D9%81%D9%86%D8%B1%DB%8C-%D8%B3%D8%A7%DB%8C%D8%B2-%DB%B1%DB%B2-%D8%B7%D9%88%D9%84-%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C/
+                - img "شیلنگ باد فنری سایز ۸ طول ۵ متری" [ref=e648]
+                - generic [ref=e649]: "37"
+                - heading "شیلنگ باد فنری سایز ۱۲ طول ۵ متری" [level=4] [ref=e651]
+              - link "شیلنگ باد فنری سایز ۸ طول ۵ متری 38 شیلنگ باد فنری سایز ۱۰ طول ۵ متری" [ref=e654] [cursor=pointer]:
+                - /url: https://arkabast.com/product/%D8%B4%DB%8C%D9%84%D9%86%DA%AF-%D8%A8%D8%A7%D8%AF-%D9%81%D9%86%D8%B1%DB%8C-%D8%B3%D8%A7%DB%8C%D8%B2-%DB%B1%DB%B0-%D8%B7%D9%88%D9%84-%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C/
+                - img "شیلنگ باد فنری سایز ۸ طول ۵ متری" [ref=e657]
+                - generic [ref=e658]: "38"
+                - heading "شیلنگ باد فنری سایز ۱۰ طول ۵ متری" [level=4] [ref=e660]
+              - link "شیلنگ باد فنری سایز ۸ طول ۵ متری 39 شیلنگ باد فنری سایز ۱۰ طول ۱۰ متری" [ref=e663] [cursor=pointer]:
+                - /url: https://arkabast.com/product/%D8%B4%DB%8C%D9%84%D9%86%DA%AF-%D8%A8%D8%A7%D8%AF-%D9%81%D9%86%D8%B1%DB%8C-%D8%B3%D8%A7%DB%8C%D8%B2-%DB%B1%DB%B0-%D8%B7%D9%88%D9%84-%DB%B1%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C/
+                - img "شیلنگ باد فنری سایز ۸ طول ۵ متری" [ref=e666]
+                - generic [ref=e667]: "39"
+                - heading "شیلنگ باد فنری سایز ۱۰ طول ۱۰ متری" [level=4] [ref=e669]
+            - generic [ref=e671]:
+              - link "شیلنگ باد فنری سایز ۸ طول ۵ متری 40 شیلنگ باد فنری سایز ۱۰ طول ۱۵ متری" [ref=e674] [cursor=pointer]:
+                - /url: https://arkabast.com/product/%D8%B4%DB%8C%D9%84%D9%86%DA%AF-%D8%A8%D8%A7%D8%AF-%D9%81%D9%86%D8%B1%DB%8C-%D8%B3%D8%A7%DB%8C%D8%B2-%DB%B1%DB%B0-%D8%B7%D9%88%D9%84-%DB%B1%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C/
+                - img "شیلنگ باد فنری سایز ۸ طول ۵ متری" [ref=e677]
+                - generic [ref=e678]: "40"
+                - heading "شیلنگ باد فنری سایز ۱۰ طول ۱۵ متری" [level=4] [ref=e680]
+              - link "شیلنگ باد فنری سایز ۸ طول ۵ متری 41 شیلنگ باد فنری سایز ۸ طول ۱۵ متری" [ref=e683] [cursor=pointer]:
+                - /url: https://arkabast.com/product/%D8%B4%DB%8C%D9%84%D9%86%DA%AF-%D8%A8%D8%A7%D8%AF-%D9%81%D9%86%D8%B1%DB%8C-%D8%B3%D8%A7%DB%8C%D8%B2-%DB%B8-%D8%B7%D9%88%D9%84-%DB%B1%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C/
+                - img "شیلنگ باد فنری سایز ۸ طول ۵ متری" [ref=e686]
+                - generic [ref=e687]: "41"
+                - heading "شیلنگ باد فنری سایز ۸ طول ۱۵ متری" [level=4] [ref=e689]
+              - link "شیلنگ باد فنری سایز ۸ طول ۵ متری 42 شیلنگ باد فنری سایز ۸ طول 10 متری" [ref=e692] [cursor=pointer]:
+                - /url: https://arkabast.com/product/%D8%B4%DB%8C%D9%84%D9%86%DA%AF-%D8%A8%D8%A7%D8%AF-%D9%81%D9%86%D8%B1%DB%8C-%D8%B3%D8%A7%DB%8C%D8%B2-%DB%B8-%D8%B7%D9%88%D9%84-10-%D9%85%D8%AA%D8%B1%DB%8C/
+                - img "شیلنگ باد فنری سایز ۸ طول ۵ متری" [ref=e695]
+                - generic [ref=e696]: "42"
+                - heading "شیلنگ باد فنری سایز ۸ طول 10 متری" [level=4] [ref=e698]
+            - generic [ref=e700]:
+              - link "شیلنگ باد فنری سایز ۸ طول ۵ متری 43 شیلنگ باد فنری سایز ۸ طول ۵ متری" [ref=e703] [cursor=pointer]:
+                - /url: https://arkabast.com/product/%D8%B4%DB%8C%D9%84%D9%86%DA%AF-%D8%A8%D8%A7%D8%AF-%D9%81%D9%86%D8%B1%DB%8C-%D8%B3%D8%A7%DB%8C%D8%B2-%DB%B8-%D8%B7%D9%88%D9%84-%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C/
+                - img "شیلنگ باد فنری سایز ۸ طول ۵ متری" [ref=e706]
+                - generic [ref=e707]: "43"
+                - heading "شیلنگ باد فنری سایز ۸ طول ۵ متری" [level=4] [ref=e709]
+              - link "img 1866 9 44 شیلنگ استیل ۴ اینچ" [ref=e712] [cursor=pointer]:
+                - /url: https://arkabast.com/product/%D8%B4%DB%8C%D9%84%D9%86%DA%AF-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%DB%B4-%D8%A7%DB%8C%D9%86%DA%86/
+                - img "img 1866 9" [ref=e715]
+                - generic [ref=e716]: "44"
+                - heading "شیلنگ استیل ۴ اینچ" [level=4] [ref=e718]
+              - link "img 1866 8 45 شیلنگ استیل ۳ اینج" [ref=e721] [cursor=pointer]:
+                - /url: https://arkabast.com/product/%D8%B4%DB%8C%D9%84%D9%86%DA%AF-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%DB%B3-%D8%A7%DB%8C%D9%86%D8%AC/
+                - img "img 1866 8" [ref=e724]
+                - generic [ref=e725]: "45"
+                - heading "شیلنگ استیل ۳ اینج" [level=4] [ref=e727]
+            - generic [ref=e729]:
+              - link "img 1866 7 46 شیلنگ استیل ۱/۲ ۲ اینچ" [ref=e732] [cursor=pointer]:
+                - /url: https://arkabast.com/product/%D8%B4%DB%8C%D9%84%D9%86%DA%AF-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%DB%B1%DB%B2-%DB%B2-%D8%A7%DB%8C%D9%86%DA%86/
+                - img "img 1866 7" [ref=e735]
+                - generic [ref=e736]: "46"
+                - heading "شیلنگ استیل ۱/۲ ۲ اینچ" [level=4] [ref=e738]
+              - link "img 1866 6 47 شیلنگ استیل ۲ اینچ" [ref=e741] [cursor=pointer]:
+                - /url: https://arkabast.com/product/%D8%B4%DB%8C%D9%84%D9%86%DA%AF-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%DB%B2-%D8%A7%DB%8C%D9%86%DA%86/
+                - img "img 1866 6" [ref=e744]
+                - generic [ref=e745]: "47"
+                - heading "شیلنگ استیل ۲ اینچ" [level=4] [ref=e747]
+              - link "img 1866 5 48 شیلنگ استیل ۱/۲ ۱ اینچ" [ref=e750] [cursor=pointer]:
+                - /url: https://arkabast.com/product/%D8%B4%DB%8C%D9%84%D9%86%DA%AF-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%DB%B1%DB%B2-%DB%B1-%D8%A7%DB%8C%D9%86%DA%86/
+                - img "img 1866 5" [ref=e753]
+                - generic [ref=e754]: "48"
+                - heading "شیلنگ استیل ۱/۲ ۱ اینچ" [level=4] [ref=e756]
+            - generic [ref=e758]:
+              - link "img 1866 4 49 شیلنگ استیل ۱/۴ ۱ اینچ" [ref=e761] [cursor=pointer]:
+                - /url: https://arkabast.com/product/%D8%B4%DB%8C%D9%84%D9%86%DA%AF-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%DB%B1%DB%B4-%DB%B1-%D8%A7%DB%8C%D9%86%DA%86/
+                - img "img 1866 4" [ref=e764]
+                - generic [ref=e765]: "49"
+                - heading "شیلنگ استیل ۱/۴ ۱ اینچ" [level=4] [ref=e767]
+              - link "img 1866 3 50 شیلنگ استیل ۱/۲ اینچ" [ref=e770] [cursor=pointer]:
+                - /url: https://arkabast.com/product/%D8%B4%DB%8C%D9%84%D9%86%DA%AF-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%DB%B1%DB%B2-%D8%A7%DB%8C%D9%86%DA%86/
+                - img "img 1866 3" [ref=e773]
+                - generic [ref=e774]: "50"
+                - heading "شیلنگ استیل ۱/۲ اینچ" [level=4] [ref=e776]
+              - link "img 1866 2 51 شیلنگ استیل ۳/۸ اینچ" [ref=e779] [cursor=pointer]:
+                - /url: https://arkabast.com/product/%D8%B4%DB%8C%D9%84%D9%86%DA%AF-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%DB%B3%DB%B8-%D8%A7%DB%8C%D9%86%DA%86/
+                - img "img 1866 2" [ref=e782]
+                - generic [ref=e783]: "51"
+                - heading "شیلنگ استیل ۳/۸ اینچ" [level=4] [ref=e785]
+          - generic:
+            - generic [ref=e786] [cursor=pointer]: ︎
+            - generic [ref=e787] [cursor=pointer]: ︎
+      - generic [ref=e788]:
+        - generic [ref=e789]:
+          - generic [ref=e792]:
+            - heading [level=3] [ref=e793]:
+              - link "بست پلوس" [ref=e794] [cursor=pointer]:
+                - /url: https://arkabast.com/metal-clamp/
+            - paragraph [ref=e795]: دوقلو - کوتاه - بلند
+          - link [ref=e797] [cursor=pointer]:
+            - /url: https://arkabast.com/car-cv-joint-clamp/
+            - img "چهار تصویر از بست پلوس" [ref=e798]
+          - generic [ref=e800]:
+            - link "مشاهده همه" [ref=e802] [cursor=pointer]:
+              - /url: https://arkabast.com/car-cv-joint-clamp/
+            - link "مشاهده همه" [ref=e807] [cursor=pointer]:
+              - /url: https://arkabast.com/car-cv-joint-clamp/
+        - generic [ref=e808]:
+          - generic [ref=e811]:
+            - heading [level=3] [ref=e812]:
+              - link "گریسخور" [ref=e813] [cursor=pointer]:
+                - /url: https://arkabast.com/battery-terminal/
+            - paragraph [ref=e814]: 90 درجه - 45 درجه - مستقیم
+          - link [ref=e816] [cursor=pointer]:
+            - /url: https://arkabast.com/car-grease-nipple/
+            - img "عکس گریسخور" [ref=e817]
+          - generic [ref=e819]:
+            - link "مشاهده همه" [ref=e821] [cursor=pointer]:
+              - /url: https://arkabast.com/car-grease-nipple/
+            - link "مشاهده همه" [ref=e826] [cursor=pointer]:
+              - /url: https://arkabast.com/car-grease-nipple/
+        - generic [ref=e827]:
+          - generic [ref=e830]:
+            - heading [level=3] [ref=e831]:
+              - link "بست های فشارقوی" [ref=e832] [cursor=pointer]:
+                - /url: https://arkabast.com/grease-pump/
+            - paragraph [ref=e833]: آچاری - شیاردار - کمپرسوری - فنردار
+          - link [ref=e835] [cursor=pointer]:
+            - /url: https://arkabast.com/high-pressure-clamp/
+            - img "چهارتصویر بست فشارقوی" [ref=e836]
+          - generic [ref=e838]:
+            - link "مشاهده همه" [ref=e840] [cursor=pointer]:
+              - /url: https://arkabast.com/high-pressure-clamp/
+            - link "مشاهده همه" [ref=e845] [cursor=pointer]:
+              - /url: https://arkabast.com/high-pressure-clamp/
+        - generic [ref=e846]:
+          - generic [ref=e849]:
+            - heading [level=3] [ref=e850]:
+              - link "واشر" [ref=e851] [cursor=pointer]:
+                - /url: https://arkabast.com/tire-repair-tools/
+            - paragraph [ref=e852]: مسی - آلمینیوم - اورینگدار
+          - link [ref=e854] [cursor=pointer]:
+            - /url: https://arkabast.com/pipe-fittings/
+            - img "واشر" [ref=e855]
+          - generic [ref=e857]:
+            - link "مشاهده همه" [ref=e859] [cursor=pointer]:
+              - /url: https://arkabast.com/car-spare-parts/
+            - link "مشاهده همه" [ref=e864] [cursor=pointer]:
+              - /url: https://arkabast.com/car-spare-parts/
+      - generic [ref=e868]:
+        - heading "محصولات محبوب" [level=3] [ref=e870]
+        - generic [ref=e876]:
+          - generic [ref=e878]:
+            - article [ref=e880]:
+              - generic [ref=e881]:
+                - generic [ref=e882]:
+                  - link "بست استیل فنردار بست استیل فنردار سایز 128-120 405,000 تومان" [ref=e883] [cursor=pointer]:
+                    - /url: https://arkabast.com/product/%D8%A8%D8%B3%D8%AA-%D8%A7%D8%B3%D8%AA%DB%8C%D9%84-%D9%81%D9%86%D8%B1%D8%AF%D8%A7%D8%B1-%D8%B3%D8%A7%DB%8C%D8%B2-128-120/
+                    - img "بست استیل فنردار" [ref=e885]
+                    - heading "بست استیل فنردار سایز 128-120" [level=2] [ref=e887]
+                    - generic [ref=e892]:
+                      - text: 405,000
+                      - generic [ref=e893]: تومان
+                  - generic [ref=e894] [cursor=pointer]: 
+                - button "" [ref=e898] [cursor=pointer]
+            - article [ref=e906]:
+              - generic [ref=e907]:
+                - generic [ref=e908]:
+                  - link [ref=e909] [cursor=pointer]:
+                    - /url: https://arkabast.com/product/%D8%B4%DB%8C%D9%84%D9%86%DA%AF-%D8%A2%D8%A8%D9%86%D9%85%D8%A7-%D9%81%D9%86%D8%B1-%D8%AF%D8%A7%D8%B1-%D8%B3%D8%A7%DB%8C%D8%B2-1-%D8%A7%DB%8C%D9%86%DA%86-%D9%85%D9%88%D8%A7%D8%AF-%D8%BA%D8%B0%D8%A7/
+                    - img "شیلنگ آبنما فنر دار سایز 1 اینچ مواد غذایی سه خط" [ref=e911]
+                    - heading "شیلنگ آبنما فنر دار سایز 1 اینچ مواد غذایی سه خط" [level=2] [ref=e913]
+                    - paragraph [ref=e916]: تماس بگیرید
+                  - generic [ref=e917] [cursor=pointer]: 
+                - button "" [ref=e921] [cursor=pointer]
+            - article [ref=e929]:
+              - generic [ref=e930]:
+                - generic [ref=e931]:
+                  - link "بست شلنگ فلزی اف اف 92-76 بست شلنگ فلزی اف اف 146-130 183,800 تومان" [ref=e932] [cursor=pointer]:
+                    - /url: https://arkabast.com/product/%D8%A8%D8%B3%D8%AA-%D8%B4%D9%84%D9%86%DA%AF-%D9%81%D9%84%D8%B2%DB%8C-%D8%A7%D9%81-%D8%A7%D9%81-146-130/
+                    - img "بست شلنگ فلزی اف اف 92-76" [ref=e934]
+                    - heading "بست شلنگ فلزی اف اف 146-130" [level=2] [ref=e936]
+                    - generic [ref=e941]:
+                      - text: 183,800
+                      - generic [ref=e942]: تومان
+                  - generic [ref=e943] [cursor=pointer]: 
+                - button "" [ref=e947] [cursor=pointer]
+            - article [ref=e955]:
+              - generic [ref=e956]:
+                - generic [ref=e957]:
+                  - link "بست کمپروسور 1/2-1 اینچ بست کمپروسور 1/2-1 اینچ 420,000 تومان" [ref=e958] [cursor=pointer]:
+                    - /url: https://arkabast.com/product/%D8%A8%D8%B3%D8%AA-%DA%A9%D9%85%D9%BE%D8%B1%D9%88%D8%B3%D9%88%D8%B1-1-2-1-%D8%A7%DB%8C%D9%86%DA%86/
+                    - img "بست کمپروسور 1/2-1 اینچ" [ref=e960]
+                    - heading "بست کمپروسور 1/2-1 اینچ" [level=2] [ref=e962]
+                    - generic [ref=e967]:
+                      - text: 420,000
+                      - generic [ref=e968]: تومان
+                  - generic [ref=e969] [cursor=pointer]: 
+                - button "" [ref=e973] [cursor=pointer]
+            - article [ref=e981]:
+              - generic [ref=e982]:
+                - generic [ref=e983]:
+                  - link [ref=e984] [cursor=pointer]:
+                    - /url: https://arkabast.com/product/%D8%A8%D8%B3%D8%AA-%DA%A9%D9%85%D8%B1%D8%A8%D9%86%D8%AF%DB%8C-%D8%A7%D9%86-%D8%A7%D8%B3-%D8%A7%D8%B3-nss-50-4-8/
+                    - img "50 4.8 nss 1" [ref=e986]
+                    - heading "بست کمربندی ان اس اس NSS 50-4/8" [level=2] [ref=e988]
+                  - generic [ref=e990] [cursor=pointer]: 
+                - button "" [ref=e994] [cursor=pointer]
+            - article [ref=e1002]:
+              - generic [ref=e1003]:
+                - generic [ref=e1004]:
+                  - link "کارتک جهت کاشی کاری کارتک جهت کاشی کاری 25,000 تومان" [ref=e1005] [cursor=pointer]:
+                    - /url: https://arkabast.com/product/%DA%A9%D8%A7%D8%B1%D8%AA%DA%A9-%D8%AC%D9%87%D8%AA-%DA%A9%D8%A7%D8%B4%DB%8C-%DA%A9%D8%A7%D8%B1%DB%8C/
+                    - img "کارتک جهت کاشی کاری" [ref=e1007]
+                    - heading "کارتک جهت کاشی کاری" [level=2] [ref=e1009]
+                    - generic [ref=e1014]:
+                      - text: 25,000
+                      - generic [ref=e1015]: تومان
+                  - generic [ref=e1016] [cursor=pointer]: 
+                - button "" [ref=e1020] [cursor=pointer]
+            - article [ref=e1028]:
+              - generic [ref=e1029]:
+                - generic [ref=e1030]:
+                  - link "انبردست سایز ۸ رایجت انبردست سایز ۸ رایجت 510,000 تومان" [ref=e1031] [cursor=pointer]:
+                    - /url: https://arkabast.com/%D8%A7%D9%86%D8%A8%D8%B1%D8%AF%D8%B3%D8%AA-%D8%B3%D8%A7%DB%8C%D8%B2-%DB%B8-%D8%B1%D8%A7%DB%8C%D8%AC%D8%AA/
+                    - img "انبردست سایز ۸ رایجت" [ref=e1033]
+                    - heading "انبردست سایز ۸ رایجت" [level=2] [ref=e1035]
+                    - generic [ref=e1040]:
+                      - text: 510,000
+                      - generic [ref=e1041]: تومان
+                  - generic [ref=e1042] [cursor=pointer]: 
+                - button "" [ref=e1046] [cursor=pointer]
+            - article [ref=e1054]:
+              - generic [ref=e1055]:
+                - generic [ref=e1056]:
+                  - link [ref=e1057] [cursor=pointer]:
+                    - /url: https://arkabast.com/product/%DA%AF%D8%B1%DB%8C%D8%B3-%D9%BE%D9%85%D9%BE-%D8%B3%D8%B7%D9%84%DB%8C-%D8%A7%D8%B7%D9%84%D8%B3-5-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C/
+                    - img "گریس پمپ سطلی اطلس 5 لیتری" [ref=e1059]
+                    - heading "گریس پمپ سطلی اطلس 5 لیتری" [level=2] [ref=e1061]
+                    - paragraph [ref=e1064]: تماس بگیرید
+                  - generic [ref=e1065] [cursor=pointer]: 
+                - button "" [ref=e1069] [cursor=pointer]
+            - link " مشاهده بیشتر" [ref=e1078] [cursor=pointer]:
+              - /url: arkabast.com/shop
+              - generic [ref=e1079]:
+                - generic [ref=e1080]: 
+                - generic [ref=e1081]: مشاهده بیشتر
+          - generic:
+            - generic [ref=e1082] [cursor=pointer]: ︎
+            - generic [ref=e1083] [cursor=pointer]: ︎
+      - generic [ref=e1085]:
+        - generic [ref=e1086]: محبوب ترین برندها
+        - generic [ref=e1094]:
+          - region "کاروسل" [ref=e1095]:
+            - generic [ref=e1096]:
+              - group [ref=e1097]
+              - group [ref=e1102]
+              - group [ref=e1107]
+              - group [ref=e1112]
+              - group [ref=e1117]
+              - group [ref=e1122]
+              - group [ref=e1127]
+              - group [ref=e1132]
+              - group "1 / 14" [ref=e1137]:
+                - img "زارکس" [ref=e1141]
+              - group "2 / 14" [ref=e1142]:
+                - img "برند ترک" [ref=e1146]
+              - group "3 / 14" [ref=e1147]:
+                - img "برند ama" [ref=e1151]
+              - group "4 / 14" [ref=e1152]:
+                - img "برند nach" [ref=e1156]
+              - group "5 / 14" [ref=e1157]:
+                - img "برند m.tosi" [ref=e1161]
+              - group "6 / 14" [ref=e1162]:
+                - img "برند m,co" [ref=e1166]
+              - group "7 / 14" [ref=e1167]:
+                - img "برند koyo" [ref=e1171]
+              - group "8 / 14" [ref=e1172]:
+                - img "برند gilda" [ref=e1176]
+              - group [ref=e1177]
+              - group [ref=e1182]
+              - group [ref=e1187]
+              - group [ref=e1192]
+              - group [ref=e1197]
+              - group [ref=e1202]
+              - group [ref=e1207]
+              - group [ref=e1212]
+              - group [ref=e1217]
+              - group [ref=e1222]
+              - group [ref=e1227]
+              - group [ref=e1232]
+              - group [ref=e1237]
+              - group [ref=e1242]
+          - button "اسلاید بعدی" [ref=e1247] [cursor=pointer]
+          - button "اسلاید قبلی" [ref=e1250] [cursor=pointer]
+          - generic [ref=e1253]:
+            - button "به اسلاید بروید 1" [ref=e1254] [cursor=pointer]
+            - button "به اسلاید بروید 2" [ref=e1255] [cursor=pointer]
+      - generic [ref=e1256]:
+        - generic [ref=e1257]:
+          - heading "خواندنی ها" [level=2] [ref=e1259]
+          - link "مشاهده همه" [ref=e1262] [cursor=pointer]:
+            - /url: https://arkabast.com/blog/
+        - generic [ref=e1265]:
+          - generic [ref=e1267] [cursor=pointer]:
+            - generic [ref=e1269]:
+              - link [ref=e1272]:
+                - /url: https://arkabast.com/blog/%D8%AE%D8%B1%DB%8C%D8%AF-%D8%A7%D8%B3%D9%BE%D8%B1%DB%8C-%D8%A7%D9%86%DA%98%DA%A9%D8%AA%D9%88%D8%B1-%D8%B4%D9%88%D8%B1-m-toosi-%D8%AA%D9%85%DB%8C%D8%B2-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A7%D9%86/
+                - img "اسپری ام طوسی" [ref=e1273]
+              - heading "خرید اسپری انژکتور شور M-TOOSI | تمیز کننده انژکتور خودرو با بهترین قیمت | آرکابست" [level=2] [ref=e1277]
+            - link [ref=e1278]:
+              - /url: https://arkabast.com/blog/%D8%AE%D8%B1%DB%8C%D8%AF-%D8%A7%D8%B3%D9%BE%D8%B1%DB%8C-%D8%A7%D9%86%DA%98%DA%A9%D8%AA%D9%88%D8%B1-%D8%B4%D9%88%D8%B1-m-toosi-%D8%AA%D9%85%DB%8C%D8%B2-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A7%D9%86/
+          - generic [ref=e1280] [cursor=pointer]:
+            - generic [ref=e1282]:
+              - link [ref=e1285]:
+                - /url: https://arkabast.com/blog/%D9%88%D8%A7%D8%B1%D8%AF-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%D8%B3%D8%AA-%D8%AA%D8%B1%DA%A9-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%A8%D8%B3%D8%AA-%D8%AA%D8%B1%DA%A9-%D8%A7%D8%B5%D9%84-%D8%A8%D8%A7-%D9%82/
+                - img "تصویر گرافیکی از بست فلزی ترک" [ref=e1286]
+              - heading "وارد کننده بست ترک | خرید بست ترک اصل با قیمت مناسب | آرکابست" [level=2] [ref=e1290]
+            - link [ref=e1291]:
+              - /url: https://arkabast.com/blog/%D9%88%D8%A7%D8%B1%D8%AF-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A8%D8%B3%D8%AA-%D8%AA%D8%B1%DA%A9-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%A8%D8%B3%D8%AA-%D8%AA%D8%B1%DA%A9-%D8%A7%D8%B5%D9%84-%D8%A8%D8%A7-%D9%82/
+          - generic [ref=e1293] [cursor=pointer]:
+            - generic [ref=e1295]:
+              - link [ref=e1298]:
+                - /url: https://arkabast.com/blog/%D8%AE%D8%B1%DB%8C%D8%AF-%D8%A8%D8%B3%D8%AA-%D9%81%D9%84%D8%B2%DB%8C-%D8%AF%D8%B1-%D9%87%D8%B1%D9%85%D8%B2%DA%AF%D8%A7%D9%86/
+                - img "خرید بست فلزی در هرمزگان" [ref=e1299]
+              - heading "خرید بست فلزی در هرمزگان" [level=2] [ref=e1303]
+            - link [ref=e1304]:
+              - /url: https://arkabast.com/blog/%D8%AE%D8%B1%DB%8C%D8%AF-%D8%A8%D8%B3%D8%AA-%D9%81%D9%84%D8%B2%DB%8C-%D8%AF%D8%B1-%D9%87%D8%B1%D9%85%D8%B2%DA%AF%D8%A7%D9%86/
+          - generic [ref=e1306] [cursor=pointer]:
+            - generic [ref=e1308]:
+              - link [ref=e1311]:
+                - /url: https://arkabast.com/blog/%D8%AE%D8%B1%DB%8C%D8%AF-%D8%A8%D8%B3%D8%AA-%D9%81%D9%84%D8%B2%DB%8C-%D8%AF%D8%B1-%DA%A9%D8%B1%D8%AC/
+                - img "خرید بست فلزی در کرج" [ref=e1312]
+              - heading "خرید بست فلزی در کرج" [level=2] [ref=e1316]
+            - link [ref=e1317]:
+              - /url: https://arkabast.com/blog/%D8%AE%D8%B1%DB%8C%D8%AF-%D8%A8%D8%B3%D8%AA-%D9%81%D9%84%D8%B2%DB%8C-%D8%AF%D8%B1-%DA%A9%D8%B1%D8%AC/
+  - contentinfo [ref=e1318]:
+    - generic [ref=e1320]:
+      - generic [ref=e1321]:
+        - link [ref=e1323] [cursor=pointer]:
+          - /url: https://arkabast.com
+          - img "آرکابست" [ref=e1324]
+        - link "بازگشت به بالا " [ref=e1325] [cursor=pointer]:
+          - /url: "#tops"
+          - generic [ref=e1326]: بازگشت به بالا
+          - generic [ref=e1327]: 
+        - generic [ref=e1328]:
+          - generic [ref=e1329]: "شماره تماس: 33938022 - 33938021"
+          - text: "|"
+          - generic [ref=e1330]: "آدرس ایمیل: arkabast.ir@gmail.com"
+          - text: "| ساعت کاری مجموعه: شنبه تا چهارشنبه 9:00 الی 19:00 پنج شنبه ها 9:00 الی 14:00"
+      - generic [ref=e1331]:
+        - generic [ref=e1332]: دسته بندی محصولات
+        - list [ref=e1334]:
+          - listitem [ref=e1335]:
+            - link "بست فشار قوی" [ref=e1336] [cursor=pointer]:
+              - /url: https://arkabast.com/high-pressure-clamp/
+          - listitem [ref=e1337]:
+            - link "بست فلزی" [ref=e1338] [cursor=pointer]:
+              - /url: https://arkabast.com/metal-clamp/
+          - listitem [ref=e1339]:
+            - link "بست کمربندی" [ref=e1340] [cursor=pointer]:
+              - /url: https://arkabast.com/cable-tie/
+          - listitem [ref=e1341]:
+            - link "شیلنگ و اتصالات" [ref=e1342] [cursor=pointer]:
+              - /url: https://arkabast.com/hose/
+      - generic [ref=e1343]:
+        - generic [ref=e1344]: راهنمای خرید
+        - list [ref=e1346]:
+          - listitem [ref=e1347]:
+            - link "نحوه ثبت سفارش" [ref=e1348] [cursor=pointer]:
+              - /url: https://arkabast.com/%d9%86%d8%ad%d9%88%d9%87-%d8%ab%d8%a8%d8%aa-%d8%b3%d9%81%d8%a7%d8%b1%d8%b4/
+          - listitem [ref=e1349]:
+            - link "رویه ارسال سفارش" [ref=e1350] [cursor=pointer]:
+              - /url: https://arkabast.com/%d8%b1%d9%88%db%8c%d9%87-%d8%a7%d8%b1%d8%b3%d8%a7%d9%84-%d8%b3%d9%81%d8%a7%d8%b1%d8%b4/
+      - generic [ref=e1351]:
+        - generic [ref=e1352]: درباره ما
+        - list [ref=e1354]:
+          - listitem [ref=e1355]:
+            - link "تماس با آرکابست" [ref=e1356] [cursor=pointer]:
+              - /url: https://arkabast.com/contact-us/
+          - listitem [ref=e1357]:
+            - link "کاتالوگ آرکابست" [ref=e1358] [cursor=pointer]:
+              - /url: https://arkabast.com/flipbook/%DA%A9%D8%A7%D8%AA%D8%A7%D9%84%D9%88%DA%AF-%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA-%D8%A2%D8%B1%DA%A9%D8%A7%D8%A8%D8%B3%D8%AA/
+      - generic [ref=e1359]:
+        - generic [ref=e1360]:
+          - heading "فروشگاه اینترنتی آرکابست" [level=1] [ref=e1361]
+          - paragraph [ref=e1362]: "آرکابست: مرجع تخصصی فروش ابزارآلات صنعتی و لوازم یدکیفروشگاه اینترنتی آرکابست به عنوان مرکز جامع تولید و توزیع انواع محصولات صنعتی و لوازم یدکی، همراهی مطمئن برای صنعتگران، تعمیرکاران و مصرف‌کنندگان حرفه‌ای است. ما در آرکابست با گردآوری مجموعه‌ای گسترده از ابزارآلات دستی و برقی، انواع شیلنگ و اتصالات، تجهیزات ایمنی، ابزارآلات دقیق و قطعات مصرفی مانند بست فلزی، گریس‌ پمپ و لوازم پنچرگیری، تلاش می‌کنیم تا نیازهای تخصصی شما را با بالاترین کیفیت و تنوع پاسخ دهیم.هدف ما در آرکابست، ارائه دسترسی آسان به ابزارآلات تخصصی و قطعات فنی در سریع‌ترین زمان ممکن است. ما با تکیه بر دانش فنی و تنوع گسترده محصولات، شما را در انتخاب دقیق‌ترین ابزار متناسب با نیاز کاری‌تان یاری می‌کنیم."
+          - link "نمایش بیشتر" [ref=e1363] [cursor=pointer]:
+            - /url: "#"
+        - article [ref=e1366]:
+          - link [ref=e1367] [cursor=pointer]:
+            - /url: https://trustseal.enamad.ir/?id=560294&Code=H1CElZHdXI7EClyflalP6nohzOPbcHk9
+      - generic [ref=e1369]:
+        - generic [ref=e1370]: استفاده از مطالب فروشگاه اینترنتی آرکابست فقط برای مقاصد غیرتجاری و با ذکر منبع بلامانع است. کلیه حقوق این سایت متعلق به این فروشگاه می‌باشد
+        - generic [ref=e1371]: Copyright © 2024 - 2025 arkabast.com
+  - generic: ︎ 
+  - text:     
+  - generic [ref=e1372] [cursor=pointer]:
+    - generic [ref=e1373]: تماس با ما
+    - text: ︎
+  - generic [ref=e1375]:
+    - generic [ref=e1376]:
+      - generic [ref=e1377]:
+        - text: شما این محصولات را انتخاب کرده اید
+        - emphasis [ref=e1378]:
+          - emphasis [ref=e1379]: "0"
+      - link "︎" [ref=e1380] [cursor=pointer]:
+        - /url: javascript:void(0);
+    - generic [ref=e1382]:
+      - img "empty-cart" [ref=e1383]
+      - paragraph [ref=e1384]: هیچ محصولی در سبد خرید نیست.
+      - generic [ref=e1385]: جهت مشاهده محصولات بیشتر به صفحات زیر مراجعه نمایید.
+      - list [ref=e1386]:
+        - listitem [ref=e1387]:
+          - link "صفحه اصلی" [ref=e1388] [cursor=pointer]:
+            - /url: https://arkabast.com
+        - listitem [ref=e1389]
+        - listitem [ref=e1390]:
+          - link "فروشگاه" [ref=e1391] [cursor=pointer]:
+            - /url: https://arkabast.com/shop/
+  - generic [ref=e1392]: desktop
+  - status [ref=e1393]
+  - text:   ×
+```

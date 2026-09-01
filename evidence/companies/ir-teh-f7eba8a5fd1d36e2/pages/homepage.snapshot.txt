@@ -1,0 +1,508 @@
+### Page
+- Page URL: http://shams-abad.ir/
+- Page Title: بانک اطلاعات کارخانجات شهرک صنعتی شمس آباد – معرفی و اطلاعات کارخانجات و صنایع تولیدی در شهرک صنعتی شمس آباد واقع در اتوبان تهران – قم ، حسن آباد فشافویه
+- Console: 1 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic:
+        - generic:
+          - list [ref=e6]:
+            - listitem [ref=e7]:
+              - link " تبلیغات" [ref=e8] [cursor=pointer]:
+                - /url: https://shams-abad.ir/%d8%aa%d8%a8%d9%84%db%8c%d8%ba%d8%a7%d8%aa/
+            - listitem [ref=e9]:
+              - link " تماس با ما" [ref=e10] [cursor=pointer]:
+                - /url: https://shams-abad.ir/%d8%aa%d9%85%d8%a7%d8%b3-%d8%a8%d8%a7-%d9%85%d8%a7/
+          - link [ref=e13] [cursor=pointer]:
+            - /url: https://shams-abad.ir
+            - img "بانک اطلاعات کارخانجات شهرک صنعتی شمس آباد" [ref=e14]
+          - generic [ref=e15]: سه شنبه, ۱۰ شهریور ۱۴۰۵ / 10:54:54
+    - navigation [ref=e19]:
+      - list [ref=e22]:
+        - listitem [ref=e23]:
+          - link "صفحه اصلی" [ref=e24] [cursor=pointer]:
+            - /url: https://shams-abad.ir/
+          - text: "|"
+        - listitem [ref=e25]:
+          - link "اخبار" [ref=e26] [cursor=pointer]:
+            - /url: "#"
+          - text:  |
+        - listitem [ref=e27]:
+          - link "دانلود ها" [ref=e28] [cursor=pointer]:
+            - /url: "#"
+          - text:  |
+        - listitem [ref=e29]:
+          - link "ارتباط با ما" [ref=e30] [cursor=pointer]:
+            - /url: https://shams-abad.ir/%d8%aa%d9%85%d8%a7%d8%b3-%d8%a8%d8%a7-%d9%85%d8%a7/
+  - generic:
+    - text: 
+    - generic:
+      - generic [ref=e31]: 
+      - text:       
+    - text:        
+  - generic [ref=e33]:
+    - generic [ref=e34]:
+      - generic [ref=e35]:
+        - generic [ref=e36]:
+          - generic [ref=e37]:
+            - generic [ref=e40]:
+              - generic [ref=e42]:
+                - link [ref=e43] [cursor=pointer]:
+                  - /url: https://shams-abad.ir/%d8%af%db%8c%d8%af%d8%a7%d8%b1-%d8%a7%d8%b9%d8%b6%d8%a7%db%8c-%d9%87%db%8c%d8%a3%d8%aa-%d9%85%d8%af%db%8c%d8%b1%d9%87-%d8%b4%d8%b1%da%a9%d8%aa-%d8%ae%d8%af%d9%85%d8%a7%d8%aa%db%8c-%d8%b4%d9%87%d8%b1/
+                  - img "دیدار اعضای هیأت مدیره شرکت خدماتی شهرک صنعتی شمس آباد" [ref=e44]
+                - heading "دیدار اعضای هیأت مدیره شرکت خدماتی شهرک صنعتی شمس آباد" [level=3]:
+                  - link "دیدار اعضای هیأت مدیره شرکت خدماتی شهرک صنعتی شمس آباد":
+                    - /url: https://shams-abad.ir/%d8%af%db%8c%d8%af%d8%a7%d8%b1-%d8%a7%d8%b9%d8%b6%d8%a7%db%8c-%d9%87%db%8c%d8%a3%d8%aa-%d9%85%d8%af%db%8c%d8%b1%d9%87-%d8%b4%d8%b1%da%a9%d8%aa-%d8%ae%d8%af%d9%85%d8%a7%d8%aa%db%8c-%d8%b4%d9%87%d8%b1/
+              - generic [ref=e47]:
+                - link [ref=e48] [cursor=pointer]:
+                  - /url: https://shams-abad.ir/%d8%af%d8%b3%d8%aa%d8%b1%d8%b3%db%8c-%d8%a8%d9%87-%d8%aa%d9%88%d9%84%db%8c%d8%af%da%a9%d9%86%d9%86%d8%af%da%af%d8%a7%d9%86-%d8%b3%d8%b1%d8%a7%d8%b3%d8%b1-%da%a9%d8%b4%d9%88%d8%b1/
+                  - img "دسترسی به تولیدکنندگان سراسر کشور" [ref=e49]
+                - heading "دسترسی به تولیدکنندگان سراسر کشور" [level=3]:
+                  - link "دسترسی به تولیدکنندگان سراسر کشور":
+                    - /url: https://shams-abad.ir/%d8%af%d8%b3%d8%aa%d8%b1%d8%b3%db%8c-%d8%a8%d9%87-%d8%aa%d9%88%d9%84%db%8c%d8%af%da%a9%d9%86%d9%86%d8%af%da%af%d8%a7%d9%86-%d8%b3%d8%b1%d8%a7%d8%b3%d8%b1-%da%a9%d8%b4%d9%88%d8%b1/
+              - generic [ref=e52]:
+                - link [ref=e53] [cursor=pointer]:
+                  - /url: https://shams-abad.ir/%d8%a2%d8%ba%d8%a7%d8%b2-%d8%b9%d9%85%d9%84%db%8c%d8%a7%d8%aa-%d8%a7%d8%ad%d8%af%d8%a7%d8%ab-%db%b2-%d9%86%db%8c%d8%b1%d9%88%da%af%d8%a7%d9%87-%d8%ae%d9%88%d8%b1%d8%b4%db%8c%d8%af%db%8c-%db%b9%db%b5/
+                  - img "آغاز عملیات احداث ۲ نیروگاه خورشیدی ۹۵ مگاواتی در شهرک صنعتی شمس آباد" [ref=e54]
+                - heading "آغاز عملیات احداث ۲ نیروگاه خورشیدی ۹۵ مگاواتی در شهرک صنعتی شمس آباد" [level=3]:
+                  - link "آغاز عملیات احداث ۲ نیروگاه خورشیدی ۹۵ مگاواتی در شهرک صنعتی شمس آباد":
+                    - /url: https://shams-abad.ir/%d8%a2%d8%ba%d8%a7%d8%b2-%d8%b9%d9%85%d9%84%db%8c%d8%a7%d8%aa-%d8%a7%d8%ad%d8%af%d8%a7%d8%ab-%db%b2-%d9%86%db%8c%d8%b1%d9%88%da%af%d8%a7%d9%87-%d8%ae%d9%88%d8%b1%d8%b4%db%8c%d8%af%db%8c-%db%b9%db%b5/
+              - generic [ref=e57]:
+                - link [ref=e58] [cursor=pointer]:
+                  - /url: https://shams-abad.ir/%d9%85%d8%ac%d9%85%d8%b9-%d8%b9%d9%85%d9%88%d9%85%db%8c-%d8%b9%d8%a7%d8%af%db%8c-%d8%b3%d8%a7%d9%84%db%8c%d8%a7%d9%86%d9%87-26-%d8%b4%d9%87%d8%b1%db%8c%d9%88%d8%b1-%d9%85%d8%a7%d9%87-1404/
+                  - img "مجمع عمومی عادی سالیانه 26 شهریور ماه 1404" [ref=e59]
+                - heading "مجمع عمومی عادی سالیانه 26 شهریور ماه 1404" [level=3]:
+                  - link "مجمع عمومی عادی سالیانه 26 شهریور ماه 1404":
+                    - /url: https://shams-abad.ir/%d9%85%d8%ac%d9%85%d8%b9-%d8%b9%d9%85%d9%88%d9%85%db%8c-%d8%b9%d8%a7%d8%af%db%8c-%d8%b3%d8%a7%d9%84%db%8c%d8%a7%d9%86%d9%87-26-%d8%b4%d9%87%d8%b1%db%8c%d9%88%d8%b1-%d9%85%d8%a7%d9%87-1404/
+              - generic [ref=e62]:
+                - link [ref=e63] [cursor=pointer]:
+                  - /url: https://shams-abad.ir/%d8%a7%d8%b7%d9%84%d8%a7%d8%b9%db%8c%d9%87-%d9%85%d9%87%d9%85/
+                  - img "اطلاعیه مهم" [ref=e64]
+                - heading "اطلاعیه مهم" [level=3]:
+                  - link "اطلاعیه مهم":
+                    - /url: https://shams-abad.ir/%d8%a7%d8%b7%d9%84%d8%a7%d8%b9%db%8c%d9%87-%d9%85%d9%87%d9%85/
+              - generic [ref=e67]:
+                - link [ref=e68] [cursor=pointer]:
+                  - /url: https://shams-abad.ir/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%ab%d8%a8%d8%aa-%d9%86%d8%a7%d9%85-%d9%86%d8%b5%d8%a8-%da%a9%d9%86%d8%aa%d9%88%d8%b1-%d9%87%d9%88%d8%b4%d9%85%d9%86%d8%af/
+                  - img "آموزش ثبت نام نصب کنتور هوشمند" [ref=e69]
+                - heading "آموزش ثبت نام نصب کنتور هوشمند" [level=3]:
+                  - link "آموزش ثبت نام نصب کنتور هوشمند":
+                    - /url: https://shams-abad.ir/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%ab%d8%a8%d8%aa-%d9%86%d8%a7%d9%85-%d9%86%d8%b5%d8%a8-%da%a9%d9%86%d8%aa%d9%88%d8%b1-%d9%87%d9%88%d8%b4%d9%85%d9%86%d8%af/
+              - generic [ref=e72]:
+                - link [ref=e73] [cursor=pointer]:
+                  - /url: https://shams-abad.ir/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%ab%d8%a8%d8%aa-%d9%86%d8%a7%d9%85-%d8%af%d8%b1-%d8%b3%d8%a7%d9%85%d8%a7%d9%86%d9%87-%d8%b3%d8%af%d9%81/
+                  - img "آموزش ثبت نام در سامانه سدف" [ref=e74]
+                - heading "آموزش ثبت نام در سامانه سدف" [level=3]:
+                  - link "آموزش ثبت نام در سامانه سدف":
+                    - /url: https://shams-abad.ir/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%ab%d8%a8%d8%aa-%d9%86%d8%a7%d9%85-%d8%af%d8%b1-%d8%b3%d8%a7%d9%85%d8%a7%d9%86%d9%87-%d8%b3%d8%af%d9%81/
+              - generic [ref=e77]:
+                - link [ref=e78] [cursor=pointer]:
+                  - /url: https://shams-abad.ir/%d8%ac%d9%87%d8%aa-%d8%aa%d8%b3%d9%87%db%8c%d9%84-%d9%81%d8%b1%d8%a2%db%8c%d9%86%d8%af-%d9%86%d8%ad%d9%88%d9%87-%d9%88-%d8%b2%d9%85%d8%a7%d9%86-%d8%aa%d8%ae%d8%b5%db%8c%d8%b5-%da%af%d8%a7%d8%b2%d9%88/
+                  - img "جهت تسهیل فرآیند نحوه و زمان تخصیص گازوییل ، روز شنبه مورخ ۱۴۰۴/۰۳/۰۳ از ساعت ۹:۳۰ صبح در ساختمان فناوری طبقه سوم" [ref=e79]
+                - heading "جهت تسهیل فرآیند نحوه و زمان تخصیص گازوییل ، روز شنبه مورخ ۱۴۰۴/۰۳/۰۳ از ساعت ۹:۳۰ صبح در ساختمان فناوری طبقه سوم" [level=3]:
+                  - link "جهت تسهیل فرآیند نحوه و زمان تخصیص گازوییل ، روز شنبه مورخ ۱۴۰۴/۰۳/۰۳ از ساعت ۹:۳۰ صبح در ساختمان فناوری طبقه سوم":
+                    - /url: https://shams-abad.ir/%d8%ac%d9%87%d8%aa-%d8%aa%d8%b3%d9%87%db%8c%d9%84-%d9%81%d8%b1%d8%a2%db%8c%d9%86%d8%af-%d9%86%d8%ad%d9%88%d9%87-%d9%88-%d8%b2%d9%85%d8%a7%d9%86-%d8%aa%d8%ae%d8%b5%db%8c%d8%b5-%da%af%d8%a7%d8%b2%d9%88/
+              - generic [ref=e82]:
+                - link [ref=e83] [cursor=pointer]:
+                  - /url: https://shams-abad.ir/%d9%88%d8%b2%db%8c%d8%b1-%d8%b5%d9%85%d8%aa-%d8%a7%d8%b2-%d9%88%d8%a7%d8%ad%d8%af-%d8%aa%d9%88%d9%84%db%8c%d8%af-%d8%b8%d8%b1%d9%88%d9%81-%da%a9%d8%b1%db%8c%d8%b3%d8%aa%d8%a7%d9%84-%d8%af%d8%b1-%d8%b4/
+                  - img "وزیر صمت از واحد تولید ظروف کریستال در شمس آباد بازدید کرد" [ref=e84]
+                - heading "وزیر صمت از واحد تولید ظروف کریستال در شمس آباد بازدید کرد" [level=3]:
+                  - link "وزیر صمت از واحد تولید ظروف کریستال در شمس آباد بازدید کرد":
+                    - /url: https://shams-abad.ir/%d9%88%d8%b2%db%8c%d8%b1-%d8%b5%d9%85%d8%aa-%d8%a7%d8%b2-%d9%88%d8%a7%d8%ad%d8%af-%d8%aa%d9%88%d9%84%db%8c%d8%af-%d8%b8%d8%b1%d9%88%d9%81-%da%a9%d8%b1%db%8c%d8%b3%d8%aa%d8%a7%d9%84-%d8%af%d8%b1-%d8%b4/
+              - generic [ref=e87]:
+                - link [ref=e88] [cursor=pointer]:
+                  - /url: https://shams-abad.ir/%d8%aa%d8%b1%d9%85%db%8c%d9%85-%d8%a2%d8%b3%d9%81%d8%a7%d9%84%d8%aa-%d9%85%d8%b3%d8%aa%d9%87%d9%84%da%a9/
+                  - img "ترمیم آسفالت مستهلک" [ref=e89]
+                - heading "ترمیم آسفالت مستهلک" [level=3]:
+                  - link "ترمیم آسفالت مستهلک":
+                    - /url: https://shams-abad.ir/%d8%aa%d8%b1%d9%85%db%8c%d9%85-%d8%a2%d8%b3%d9%81%d8%a7%d9%84%d8%aa-%d9%85%d8%b3%d8%aa%d9%87%d9%84%da%a9/
+              - generic [ref=e92]:
+                - link [ref=e93] [cursor=pointer]:
+                  - /url: https://shams-abad.ir/%d8%af%db%8c%d8%af%d8%a7%d8%b1-%d8%a7%d8%b9%d8%b6%d8%a7%db%8c-%d9%87%db%8c%d8%a3%d8%aa-%d9%85%d8%af%db%8c%d8%b1%d9%87-%d8%b4%d8%b1%da%a9%d8%aa-%d8%ae%d8%af%d9%85%d8%a7%d8%aa%db%8c-%d8%b4%d9%87%d8%b1/
+                  - img "دیدار اعضای هیأت مدیره شرکت خدماتی شهرک صنعتی شمس آباد" [ref=e94]
+                - heading "دیدار اعضای هیأت مدیره شرکت خدماتی شهرک صنعتی شمس آباد" [level=3]:
+                  - link "دیدار اعضای هیأت مدیره شرکت خدماتی شهرک صنعتی شمس آباد":
+                    - /url: https://shams-abad.ir/%d8%af%db%8c%d8%af%d8%a7%d8%b1-%d8%a7%d8%b9%d8%b6%d8%a7%db%8c-%d9%87%db%8c%d8%a3%d8%aa-%d9%85%d8%af%db%8c%d8%b1%d9%87-%d8%b4%d8%b1%da%a9%d8%aa-%d8%ae%d8%af%d9%85%d8%a7%d8%aa%db%8c-%d8%b4%d9%87%d8%b1/
+              - generic [ref=e97]:
+                - link [ref=e98] [cursor=pointer]:
+                  - /url: https://shams-abad.ir/%d8%af%d8%b3%d8%aa%d8%b1%d8%b3%db%8c-%d8%a8%d9%87-%d8%aa%d9%88%d9%84%db%8c%d8%af%da%a9%d9%86%d9%86%d8%af%da%af%d8%a7%d9%86-%d8%b3%d8%b1%d8%a7%d8%b3%d8%b1-%da%a9%d8%b4%d9%88%d8%b1/
+                  - img "دسترسی به تولیدکنندگان سراسر کشور" [ref=e99]
+                - heading "دسترسی به تولیدکنندگان سراسر کشور" [level=3]:
+                  - link "دسترسی به تولیدکنندگان سراسر کشور":
+                    - /url: https://shams-abad.ir/%d8%af%d8%b3%d8%aa%d8%b1%d8%b3%db%8c-%d8%a8%d9%87-%d8%aa%d9%88%d9%84%db%8c%d8%af%da%a9%d9%86%d9%86%d8%af%da%af%d8%a7%d9%86-%d8%b3%d8%b1%d8%a7%d8%b3%d8%b1-%da%a9%d8%b4%d9%88%d8%b1/
+            - generic [ref=e103]:
+              - generic [ref=e105]:
+                - link [ref=e106] [cursor=pointer]:
+                  - /url: https://shams-abad.ir/%d8%af%db%8c%d8%af%d8%a7%d8%b1-%d8%a7%d8%b9%d8%b6%d8%a7%db%8c-%d9%87%db%8c%d8%a3%d8%aa-%d9%85%d8%af%db%8c%d8%b1%d9%87-%d8%b4%d8%b1%da%a9%d8%aa-%d8%ae%d8%af%d9%85%d8%a7%d8%aa%db%8c-%d8%b4%d9%87%d8%b1/
+                  - img "دیدار اعضای هیأت مدیره شرکت خدماتی شهرک صنعتی شمس آباد" [ref=e107]
+                - heading "دیدار اعضای هیأت مدیره شرکت خدماتی شهرک صنعتی شمس آباد" [level=3]:
+                  - link "دیدار اعضای هیأت مدیره شرکت خدماتی شهرک صنعتی شمس آباد":
+                    - /url: https://shams-abad.ir/%d8%af%db%8c%d8%af%d8%a7%d8%b1-%d8%a7%d8%b9%d8%b6%d8%a7%db%8c-%d9%87%db%8c%d8%a3%d8%aa-%d9%85%d8%af%db%8c%d8%b1%d9%87-%d8%b4%d8%b1%da%a9%d8%aa-%d8%ae%d8%af%d9%85%d8%a7%d8%aa%db%8c-%d8%b4%d9%87%d8%b1/
+              - generic [ref=e110]:
+                - link [ref=e111] [cursor=pointer]:
+                  - /url: https://shams-abad.ir/%d8%af%d8%b3%d8%aa%d8%b1%d8%b3%db%8c-%d8%a8%d9%87-%d8%aa%d9%88%d9%84%db%8c%d8%af%da%a9%d9%86%d9%86%d8%af%da%af%d8%a7%d9%86-%d8%b3%d8%b1%d8%a7%d8%b3%d8%b1-%da%a9%d8%b4%d9%88%d8%b1/
+                  - img "دسترسی به تولیدکنندگان سراسر کشور" [ref=e112]
+                - heading "دسترسی به تولیدکنندگان سراسر کشور" [level=3]:
+                  - link "دسترسی به تولیدکنندگان سراسر کشور":
+                    - /url: https://shams-abad.ir/%d8%af%d8%b3%d8%aa%d8%b1%d8%b3%db%8c-%d8%a8%d9%87-%d8%aa%d9%88%d9%84%db%8c%d8%af%da%a9%d9%86%d9%86%d8%af%da%af%d8%a7%d9%86-%d8%b3%d8%b1%d8%a7%d8%b3%d8%b1-%da%a9%d8%b4%d9%88%d8%b1/
+              - generic [ref=e115]:
+                - link [ref=e116] [cursor=pointer]:
+                  - /url: https://shams-abad.ir/%d8%a2%d8%ba%d8%a7%d8%b2-%d8%b9%d9%85%d9%84%db%8c%d8%a7%d8%aa-%d8%a7%d8%ad%d8%af%d8%a7%d8%ab-%db%b2-%d9%86%db%8c%d8%b1%d9%88%da%af%d8%a7%d9%87-%d8%ae%d9%88%d8%b1%d8%b4%db%8c%d8%af%db%8c-%db%b9%db%b5/
+                  - img "آغاز عملیات احداث ۲ نیروگاه خورشیدی ۹۵ مگاواتی در شهرک صنعتی شمس آباد" [ref=e117]
+                - heading "آغاز عملیات احداث ۲ نیروگاه خورشیدی ۹۵ مگاواتی در شهرک صنعتی شمس آباد" [level=3]:
+                  - link "آغاز عملیات احداث ۲ نیروگاه خورشیدی ۹۵ مگاواتی در شهرک صنعتی شمس آباد":
+                    - /url: https://shams-abad.ir/%d8%a2%d8%ba%d8%a7%d8%b2-%d8%b9%d9%85%d9%84%db%8c%d8%a7%d8%aa-%d8%a7%d8%ad%d8%af%d8%a7%d8%ab-%db%b2-%d9%86%db%8c%d8%b1%d9%88%da%af%d8%a7%d9%87-%d8%ae%d9%88%d8%b1%d8%b4%db%8c%d8%af%db%8c-%db%b9%db%b5/
+              - generic [ref=e120]:
+                - link [ref=e121] [cursor=pointer]:
+                  - /url: https://shams-abad.ir/%d9%85%d8%ac%d9%85%d8%b9-%d8%b9%d9%85%d9%88%d9%85%db%8c-%d8%b9%d8%a7%d8%af%db%8c-%d8%b3%d8%a7%d9%84%db%8c%d8%a7%d9%86%d9%87-26-%d8%b4%d9%87%d8%b1%db%8c%d9%88%d8%b1-%d9%85%d8%a7%d9%87-1404/
+                  - img "مجمع عمومی عادی سالیانه 26 شهریور ماه 1404" [ref=e122]
+                - heading "مجمع عمومی عادی سالیانه 26 شهریور ماه 1404" [level=3]:
+                  - link "مجمع عمومی عادی سالیانه 26 شهریور ماه 1404":
+                    - /url: https://shams-abad.ir/%d9%85%d8%ac%d9%85%d8%b9-%d8%b9%d9%85%d9%88%d9%85%db%8c-%d8%b9%d8%a7%d8%af%db%8c-%d8%b3%d8%a7%d9%84%db%8c%d8%a7%d9%86%d9%87-26-%d8%b4%d9%87%d8%b1%db%8c%d9%88%d8%b1-%d9%85%d8%a7%d9%87-1404/
+              - generic [ref=e125]:
+                - link [ref=e126] [cursor=pointer]:
+                  - /url: https://shams-abad.ir/%d8%a7%d8%b7%d9%84%d8%a7%d8%b9%db%8c%d9%87-%d9%85%d9%87%d9%85/
+                  - img "اطلاعیه مهم" [ref=e127]
+                - heading "اطلاعیه مهم" [level=3]:
+                  - link "اطلاعیه مهم":
+                    - /url: https://shams-abad.ir/%d8%a7%d8%b7%d9%84%d8%a7%d8%b9%db%8c%d9%87-%d9%85%d9%87%d9%85/
+              - generic [ref=e130]:
+                - link [ref=e131] [cursor=pointer]:
+                  - /url: https://shams-abad.ir/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%ab%d8%a8%d8%aa-%d9%86%d8%a7%d9%85-%d9%86%d8%b5%d8%a8-%da%a9%d9%86%d8%aa%d9%88%d8%b1-%d9%87%d9%88%d8%b4%d9%85%d9%86%d8%af/
+                  - img "آموزش ثبت نام نصب کنتور هوشمند" [ref=e132]
+                - heading "آموزش ثبت نام نصب کنتور هوشمند" [level=3]:
+                  - link "آموزش ثبت نام نصب کنتور هوشمند":
+                    - /url: https://shams-abad.ir/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%ab%d8%a8%d8%aa-%d9%86%d8%a7%d9%85-%d9%86%d8%b5%d8%a8-%da%a9%d9%86%d8%aa%d9%88%d8%b1-%d9%87%d9%88%d8%b4%d9%85%d9%86%d8%af/
+              - generic [ref=e135]:
+                - link [ref=e136] [cursor=pointer]:
+                  - /url: https://shams-abad.ir/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%ab%d8%a8%d8%aa-%d9%86%d8%a7%d9%85-%d8%af%d8%b1-%d8%b3%d8%a7%d9%85%d8%a7%d9%86%d9%87-%d8%b3%d8%af%d9%81/
+                  - img "آموزش ثبت نام در سامانه سدف" [ref=e137]
+                - heading "آموزش ثبت نام در سامانه سدف" [level=3]:
+                  - link "آموزش ثبت نام در سامانه سدف":
+                    - /url: https://shams-abad.ir/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%ab%d8%a8%d8%aa-%d9%86%d8%a7%d9%85-%d8%af%d8%b1-%d8%b3%d8%a7%d9%85%d8%a7%d9%86%d9%87-%d8%b3%d8%af%d9%81/
+              - generic [ref=e140]:
+                - link [ref=e141] [cursor=pointer]:
+                  - /url: https://shams-abad.ir/%d8%ac%d9%87%d8%aa-%d8%aa%d8%b3%d9%87%db%8c%d9%84-%d9%81%d8%b1%d8%a2%db%8c%d9%86%d8%af-%d9%86%d8%ad%d9%88%d9%87-%d9%88-%d8%b2%d9%85%d8%a7%d9%86-%d8%aa%d8%ae%d8%b5%db%8c%d8%b5-%da%af%d8%a7%d8%b2%d9%88/
+                  - img "جهت تسهیل فرآیند نحوه و زمان تخصیص گازوییل ، روز شنبه مورخ ۱۴۰۴/۰۳/۰۳ از ساعت ۹:۳۰ صبح در ساختمان فناوری طبقه سوم" [ref=e142]
+                - heading "جهت تسهیل فرآیند نحوه و زمان تخصیص گازوییل ، روز شنبه مورخ ۱۴۰۴/۰۳/۰۳ از ساعت ۹:۳۰ صبح در ساختمان فناوری طبقه سوم" [level=3]:
+                  - link "جهت تسهیل فرآیند نحوه و زمان تخصیص گازوییل ، روز شنبه مورخ ۱۴۰۴/۰۳/۰۳ از ساعت ۹:۳۰ صبح در ساختمان فناوری طبقه سوم":
+                    - /url: https://shams-abad.ir/%d8%ac%d9%87%d8%aa-%d8%aa%d8%b3%d9%87%db%8c%d9%84-%d9%81%d8%b1%d8%a2%db%8c%d9%86%d8%af-%d9%86%d8%ad%d9%88%d9%87-%d9%88-%d8%b2%d9%85%d8%a7%d9%86-%d8%aa%d8%ae%d8%b5%db%8c%d8%b5-%da%af%d8%a7%d8%b2%d9%88/
+              - generic [ref=e145]:
+                - link [ref=e146] [cursor=pointer]:
+                  - /url: https://shams-abad.ir/%d9%88%d8%b2%db%8c%d8%b1-%d8%b5%d9%85%d8%aa-%d8%a7%d8%b2-%d9%88%d8%a7%d8%ad%d8%af-%d8%aa%d9%88%d9%84%db%8c%d8%af-%d8%b8%d8%b1%d9%88%d9%81-%da%a9%d8%b1%db%8c%d8%b3%d8%aa%d8%a7%d9%84-%d8%af%d8%b1-%d8%b4/
+                  - img "وزیر صمت از واحد تولید ظروف کریستال در شمس آباد بازدید کرد" [ref=e147]
+                - heading "وزیر صمت از واحد تولید ظروف کریستال در شمس آباد بازدید کرد" [level=3]:
+                  - link "وزیر صمت از واحد تولید ظروف کریستال در شمس آباد بازدید کرد":
+                    - /url: https://shams-abad.ir/%d9%88%d8%b2%db%8c%d8%b1-%d8%b5%d9%85%d8%aa-%d8%a7%d8%b2-%d9%88%d8%a7%d8%ad%d8%af-%d8%aa%d9%88%d9%84%db%8c%d8%af-%d8%b8%d8%b1%d9%88%d9%81-%da%a9%d8%b1%db%8c%d8%b3%d8%aa%d8%a7%d9%84-%d8%af%d8%b1-%d8%b4/
+              - generic [ref=e150]:
+                - link [ref=e151] [cursor=pointer]:
+                  - /url: https://shams-abad.ir/%d8%aa%d8%b1%d9%85%db%8c%d9%85-%d8%a2%d8%b3%d9%81%d8%a7%d9%84%d8%aa-%d9%85%d8%b3%d8%aa%d9%87%d9%84%da%a9/
+                  - img "ترمیم آسفالت مستهلک" [ref=e152]
+                - heading "ترمیم آسفالت مستهلک" [level=3]:
+                  - link "ترمیم آسفالت مستهلک":
+                    - /url: https://shams-abad.ir/%d8%aa%d8%b1%d9%85%db%8c%d9%85-%d8%a2%d8%b3%d9%81%d8%a7%d9%84%d8%aa-%d9%85%d8%b3%d8%aa%d9%87%d9%84%da%a9/
+              - generic [ref=e155]:
+                - link [ref=e156] [cursor=pointer]:
+                  - /url: https://shams-abad.ir/%d8%af%db%8c%d8%af%d8%a7%d8%b1-%d8%a7%d8%b9%d8%b6%d8%a7%db%8c-%d9%87%db%8c%d8%a3%d8%aa-%d9%85%d8%af%db%8c%d8%b1%d9%87-%d8%b4%d8%b1%da%a9%d8%aa-%d8%ae%d8%af%d9%85%d8%a7%d8%aa%db%8c-%d8%b4%d9%87%d8%b1/
+                  - img "دیدار اعضای هیأت مدیره شرکت خدماتی شهرک صنعتی شمس آباد" [ref=e157]
+                - heading "دیدار اعضای هیأت مدیره شرکت خدماتی شهرک صنعتی شمس آباد" [level=3]:
+                  - link "دیدار اعضای هیأت مدیره شرکت خدماتی شهرک صنعتی شمس آباد":
+                    - /url: https://shams-abad.ir/%d8%af%db%8c%d8%af%d8%a7%d8%b1-%d8%a7%d8%b9%d8%b6%d8%a7%db%8c-%d9%87%db%8c%d8%a3%d8%aa-%d9%85%d8%af%db%8c%d8%b1%d9%87-%d8%b4%d8%b1%da%a9%d8%aa-%d8%ae%d8%af%d9%85%d8%a7%d8%aa%db%8c-%d8%b4%d9%87%d8%b1/
+              - generic [ref=e160]:
+                - link [ref=e161] [cursor=pointer]:
+                  - /url: https://shams-abad.ir/%d8%af%d8%b3%d8%aa%d8%b1%d8%b3%db%8c-%d8%a8%d9%87-%d8%aa%d9%88%d9%84%db%8c%d8%af%da%a9%d9%86%d9%86%d8%af%da%af%d8%a7%d9%86-%d8%b3%d8%b1%d8%a7%d8%b3%d8%b1-%da%a9%d8%b4%d9%88%d8%b1/
+                  - img "دسترسی به تولیدکنندگان سراسر کشور" [ref=e162]
+                - heading "دسترسی به تولیدکنندگان سراسر کشور" [level=3]:
+                  - link "دسترسی به تولیدکنندگان سراسر کشور":
+                    - /url: https://shams-abad.ir/%d8%af%d8%b3%d8%aa%d8%b1%d8%b3%db%8c-%d8%a8%d9%87-%d8%aa%d9%88%d9%84%db%8c%d8%af%da%a9%d9%86%d9%86%d8%af%da%af%d8%a7%d9%86-%d8%b3%d8%b1%d8%a7%d8%b3%d8%b1-%da%a9%d8%b4%d9%88%d8%b1/
+          - generic [ref=e165]:
+            - generic [ref=e167]:
+              - generic:
+                - generic:
+                  - link "دسترسی به تولیدکنندگان سراسر کشور":
+                    - /url: https://shams-abad.ir/%d8%af%d8%b3%d8%aa%d8%b1%d8%b3%db%8c-%d8%a8%d9%87-%d8%aa%d9%88%d9%84%db%8c%d8%af%da%a9%d9%86%d9%86%d8%af%da%af%d8%a7%d9%86-%d8%b3%d8%b1%d8%a7%d8%b3%d8%b1-%da%a9%d8%b4%d9%88%d8%b1/
+                    - img "دسترسی به تولیدکنندگان سراسر کشور"
+                  - heading "دسترسی به تولیدکنندگان سراسر کشور" [level=3]:
+                    - link "دسترسی به تولیدکنندگان سراسر کشور":
+                      - /url: https://shams-abad.ir/%d8%af%d8%b3%d8%aa%d8%b1%d8%b3%db%8c-%d8%a8%d9%87-%d8%aa%d9%88%d9%84%db%8c%d8%af%da%a9%d9%86%d9%86%d8%af%da%af%d8%a7%d9%86-%d8%b3%d8%b1%d8%a7%d8%b3%d8%b1-%da%a9%d8%b4%d9%88%d8%b1/
+              - generic [ref=e169]:
+                - link [ref=e170] [cursor=pointer]:
+                  - /url: https://shams-abad.ir/%d8%af%d8%b3%d8%aa%d8%b1%d8%b3%db%8c-%d8%a8%d9%87-%d8%aa%d9%88%d9%84%db%8c%d8%af%da%a9%d9%86%d9%86%d8%af%da%af%d8%a7%d9%86-%d8%b3%d8%b1%d8%a7%d8%b3%d8%b1-%da%a9%d8%b4%d9%88%d8%b1/
+                  - img "دسترسی به تولیدکنندگان سراسر کشور" [ref=e171]
+                - heading "دسترسی به تولیدکنندگان سراسر کشور" [level=3]:
+                  - link "دسترسی به تولیدکنندگان سراسر کشور":
+                    - /url: https://shams-abad.ir/%d8%af%d8%b3%d8%aa%d8%b1%d8%b3%db%8c-%d8%a8%d9%87-%d8%aa%d9%88%d9%84%db%8c%d8%af%da%a9%d9%86%d9%86%d8%af%da%af%d8%a7%d9%86-%d8%b3%d8%b1%d8%a7%d8%b3%d8%b1-%da%a9%d8%b4%d9%88%d8%b1/
+              - generic:
+                - generic:
+                  - link "دسترسی به تولیدکنندگان سراسر کشور":
+                    - /url: https://shams-abad.ir/%d8%af%d8%b3%d8%aa%d8%b1%d8%b3%db%8c-%d8%a8%d9%87-%d8%aa%d9%88%d9%84%db%8c%d8%af%da%a9%d9%86%d9%86%d8%af%da%af%d8%a7%d9%86-%d8%b3%d8%b1%d8%a7%d8%b3%d8%b1-%da%a9%d8%b4%d9%88%d8%b1/
+                    - img "دسترسی به تولیدکنندگان سراسر کشور"
+                  - heading "دسترسی به تولیدکنندگان سراسر کشور" [level=3]:
+                    - link "دسترسی به تولیدکنندگان سراسر کشور":
+                      - /url: https://shams-abad.ir/%d8%af%d8%b3%d8%aa%d8%b1%d8%b3%db%8c-%d8%a8%d9%87-%d8%aa%d9%88%d9%84%db%8c%d8%af%da%a9%d9%86%d9%86%d8%af%da%af%d8%a7%d9%86-%d8%b3%d8%b1%d8%a7%d8%b3%d8%b1-%da%a9%d8%b4%d9%88%d8%b1/
+            - button "Go to slide 1" [ref=e174] [cursor=pointer]
+        - generic [ref=e175]:
+          - generic [ref=e177]:
+            - paragraph [ref=e182]:
+              - link [ref=e183] [cursor=pointer]:
+                - /url: https://shams-abad.ir/wp-content/uploads/2021/10/list.xlsx
+            - generic [ref=e186]:
+              - generic [ref=e187]: تبلیغات
+              - list [ref=e188]:
+                - listitem [ref=e189]:
+                  - link [ref=e190] [cursor=pointer]:
+                    - /url: ""
+                    - img "تبلیغات" [ref=e191]
+          - generic [ref=e192]:
+            - generic [ref=e195]:
+              - generic [ref=e196]: تبلیغات
+              - list [ref=e197]:
+                - listitem [ref=e198]:
+                  - link [ref=e199] [cursor=pointer]:
+                    - /url: ""
+                    - img "تبلیغات" [ref=e200]
+            - generic [ref=e203]:
+              - generic:
+                - generic [ref=e204]:
+                  - link [ref=e206] [cursor=pointer]:
+                    - /url: https://shams-abad.ir/wp-content/uploads/2026/07/17CFF2A8-25E2-432F-BB72-A1D21A1AE933.png.jpeg
+                    - img "دسترسی به تولیدکنندگان سراسر کشور" [ref=e207]
+                    - generic [ref=e208]: 
+                  - generic [ref=e210]:
+                    - heading [level=2] [ref=e212]:
+                      - link "دسترسی به تولیدکنندگان سراسر کشور" [ref=e213] [cursor=pointer]:
+                        - /url: https://shams-abad.ir/%d8%af%d8%b3%d8%aa%d8%b1%d8%b3%db%8c-%d8%a8%d9%87-%d8%aa%d9%88%d9%84%db%8c%d8%af%da%a9%d9%86%d9%86%d8%af%da%af%d8%a7%d9%86-%d8%b3%d8%b1%d8%a7%d8%b3%d8%b1-%da%a9%d8%b4%d9%88%d8%b1/
+                    - generic [ref=e214]: 20 جولای 2026 - 14:45
+                  - generic: خبرهای مرتبط
+                - generic [ref=e219]:
+                  - link [ref=e221] [cursor=pointer]:
+                    - /url: https://shams-abad.ir/wp-content/uploads/2025/10/172032139.jpg
+                    - img "آغاز عملیات احداث ۲ نیروگاه خورشیدی ۹۵ مگاواتی در شهرک صنعتی شمس آباد" [ref=e222]
+                    - generic [ref=e223]: 
+                  - generic [ref=e225]:
+                    - generic [ref=e226]: 27 اکتبر 2025 - 13:08
+                    - heading [level=4] [ref=e227]:
+                      - link "نیروگاه خورشیدی" [ref=e228] [cursor=pointer]:
+                        - /url: https://shams-abad.ir/%d8%a2%d8%ba%d8%a7%d8%b2-%d8%b9%d9%85%d9%84%db%8c%d8%a7%d8%aa-%d8%a7%d8%ad%d8%af%d8%a7%d8%ab-%db%b2-%d9%86%db%8c%d8%b1%d9%88%da%af%d8%a7%d9%87-%d8%ae%d9%88%d8%b1%d8%b4%db%8c%d8%af%db%8c-%db%b9%db%b5/
+                    - heading [level=2] [ref=e230]:
+                      - link "آغاز عملیات احداث ۲ نیروگاه خورشیدی ۹۵ مگاواتی در شهرک صنعتی شمس آباد" [ref=e231] [cursor=pointer]:
+                        - /url: https://shams-abad.ir/%d8%a2%d8%ba%d8%a7%d8%b2-%d8%b9%d9%85%d9%84%db%8c%d8%a7%d8%aa-%d8%a7%d8%ad%d8%af%d8%a7%d8%ab-%db%b2-%d9%86%db%8c%d8%b1%d9%88%da%af%d8%a7%d9%87-%d8%ae%d9%88%d8%b1%d8%b4%db%8c%d8%af%db%8c-%db%b9%db%b5/
+                    - paragraph [ref=e233]: "آغاز عملیات احداث ۲ نیروگاه خورشیدی ۹۵ مگاواتی در شهرک صنعتی شمس آباد 1404-05-26 گروه مهندسی نیکان علیرضا پرنده‌مطلق روز سه‌شنبه در آیین آعاز عملیات اجرایی ساخت نیروگاه ۳۲ مگاواتی خورشیدی شهرک صنعتی شمس‌آباد شهرستان ری در جمع خبرنگاران اظهار داشت: این پروژه‌ها که در زمینی محدود و در مجاورت شهرک صنعتی احداث می‌شوند، می‌توانند […]"
+                  - text:     
+                - generic [ref=e234]:
+                  - link [ref=e236] [cursor=pointer]:
+                    - /url: https://shams-abad.ir/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-14-at-9.14.24-PM.jpeg
+                    - img "مجمع عمومی عادی سالیانه 26 شهریور ماه 1404" [ref=e237]
+                    - generic [ref=e238]: 
+                  - generic [ref=e240]:
+                    - generic [ref=e241]: 16 سپتامبر 2025 - 8:05
+                    - heading [level=4] [ref=e242]:
+                      - link "شرکت خدماتی شهرک صنعتی شمس آباد" [ref=e243] [cursor=pointer]:
+                        - /url: https://shams-abad.ir/%d9%85%d8%ac%d9%85%d8%b9-%d8%b9%d9%85%d9%88%d9%85%db%8c-%d8%b9%d8%a7%d8%af%db%8c-%d8%b3%d8%a7%d9%84%db%8c%d8%a7%d9%86%d9%87-26-%d8%b4%d9%87%d8%b1%db%8c%d9%88%d8%b1-%d9%85%d8%a7%d9%87-1404/
+                    - heading [level=2] [ref=e245]:
+                      - link "مجمع عمومی عادی سالیانه 26 شهریور ماه 1404" [ref=e246] [cursor=pointer]:
+                        - /url: https://shams-abad.ir/%d9%85%d8%ac%d9%85%d8%b9-%d8%b9%d9%85%d9%88%d9%85%db%8c-%d8%b9%d8%a7%d8%af%db%8c-%d8%b3%d8%a7%d9%84%db%8c%d8%a7%d9%86%d9%87-26-%d8%b4%d9%87%d8%b1%db%8c%d9%88%d8%b1-%d9%85%d8%a7%d9%87-1404/
+                  - text:     
+                - generic [ref=e248]:
+                  - link [ref=e250] [cursor=pointer]:
+                    - /url: https://shams-abad.ir/wp-content/uploads/2025/06/Untitled.jpg
+                    - img "اطلاعیه مهم" [ref=e251]
+                    - generic [ref=e252]: 
+                  - generic [ref=e254]:
+                    - generic [ref=e255]: 21 ژوئن 2025 - 16:23
+                    - heading [level=4] [ref=e256]:
+                      - link "بسیار مهم و فوری" [ref=e257] [cursor=pointer]:
+                        - /url: https://shams-abad.ir/%d8%a7%d8%b7%d9%84%d8%a7%d8%b9%db%8c%d9%87-%d9%85%d9%87%d9%85/
+                    - heading [level=2] [ref=e259]:
+                      - link "اطلاعیه مهم" [ref=e260] [cursor=pointer]:
+                        - /url: https://shams-abad.ir/%d8%a7%d8%b7%d9%84%d8%a7%d8%b9%db%8c%d9%87-%d9%85%d9%87%d9%85/
+                    - paragraph [ref=e262]: بسمه تعالی سلام علیکم به اطلاع مدیران محترم واحدهای صنعتی و تولیدی شهرک صنعتی شمس آباد می رساند، با عنایت به شرایط جنگی ایجاد شده برای کشور، نسبت به پرواز ریز پرنده ها از سطح شهرک و تردد خودروها و افراد مشکوک ( خصوصا اتباع خارجی ) حساسیت لازم را داشته باشید و موارد مشکوک […]
+                  - text:     
+                - generic [ref=e263]:
+                  - link [ref=e265] [cursor=pointer]:
+                    - /url: https://shams-abad.ir/wp-content/uploads/2025/12/logosham0288.png
+                    - img "آموزش ثبت نام نصب کنتور هوشمند" [ref=e266]
+                    - generic [ref=e267]: 
+                  - generic [ref=e269]:
+                    - generic [ref=e270]: 01 ژوئن 2025 - 12:28
+                    - heading [level=2] [ref=e272]:
+                      - link "آموزش ثبت نام نصب کنتور هوشمند" [ref=e273] [cursor=pointer]:
+                        - /url: https://shams-abad.ir/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%ab%d8%a8%d8%aa-%d9%86%d8%a7%d9%85-%d9%86%d8%b5%d8%a8-%da%a9%d9%86%d8%aa%d9%88%d8%b1-%d9%87%d9%88%d8%b4%d9%85%d9%86%d8%af/
+                    - paragraph [ref=e275]: جهت مشاهده ویدیو آموزشی کلیک کنید
+                  - text:     
+                - generic [ref=e276]:
+                  - link [ref=e278] [cursor=pointer]:
+                    - /url: https://shams-abad.ir/wp-content/uploads/2025/12/logosham0288.png
+                    - img "آموزش ثبت نام در سامانه سدف" [ref=e279]
+                    - generic [ref=e280]: 
+                  - generic [ref=e282]:
+                    - generic [ref=e283]: 01 ژوئن 2025 - 11:59
+                    - heading [level=2] [ref=e285]:
+                      - link "آموزش ثبت نام در سامانه سدف" [ref=e286] [cursor=pointer]:
+                        - /url: https://shams-abad.ir/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%ab%d8%a8%d8%aa-%d9%86%d8%a7%d9%85-%d8%af%d8%b1-%d8%b3%d8%a7%d9%85%d8%a7%d9%86%d9%87-%d8%b3%d8%af%d9%81/
+                    - paragraph [ref=e288]: مشاهده ویدیو آموزش ثبت نام
+                  - text:     
+                - generic [ref=e289]:
+                  - link [ref=e291] [cursor=pointer]:
+                    - /url: https://shams-abad.ir/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-20-at-10.39.30-PM.jpeg
+                    - img "جهت تسهیل فرآیند نحوه و زمان تخصیص گازوییل ، روز شنبه مورخ ۱۴۰۴/۰۳/۰۳ از ساعت ۹:۳۰ صبح در ساختمان فناوری طبقه سوم" [ref=e292]
+                    - generic [ref=e293]: 
+                  - generic [ref=e295]:
+                    - generic [ref=e296]: 21 می 2025 - 9:58
+                    - heading [level=4] [ref=e297]:
+                      - link "قابل توجه واحدهای صنعتی مستقر در شهرک صنعتی شمس آباد" [ref=e298] [cursor=pointer]:
+                        - /url: https://shams-abad.ir/%d8%ac%d9%87%d8%aa-%d8%aa%d8%b3%d9%87%db%8c%d9%84-%d9%81%d8%b1%d8%a2%db%8c%d9%86%d8%af-%d9%86%d8%ad%d9%88%d9%87-%d9%88-%d8%b2%d9%85%d8%a7%d9%86-%d8%aa%d8%ae%d8%b5%db%8c%d8%b5-%da%af%d8%a7%d8%b2%d9%88/
+                    - heading [level=2] [ref=e300]:
+                      - link "جهت تسهیل فرآیند نحوه و زمان تخصیص گازوییل ، روز شنبه مورخ ۱۴۰۴/۰۳/۰۳ از ساعت ۹:۳۰ صبح در ساختمان فناوری طبقه سوم" [ref=e301] [cursor=pointer]:
+                        - /url: https://shams-abad.ir/%d8%ac%d9%87%d8%aa-%d8%aa%d8%b3%d9%87%db%8c%d9%84-%d9%81%d8%b1%d8%a2%db%8c%d9%86%d8%af-%d9%86%d8%ad%d9%88%d9%87-%d9%88-%d8%b2%d9%85%d8%a7%d9%86-%d8%aa%d8%ae%d8%b5%db%8c%d8%b5-%da%af%d8%a7%d8%b2%d9%88/
+                    - paragraph [ref=e303]: قابل توجه واحدهای صنعتی مستقر در شهرک صنعتی شمس آباد به استحضار میرساند کارگروهی متشکل از شرکت توزیع نیروی برق، فرآورده های نفتی و اداره صمت جهت تسهیل فرآیند نحوه و زمان تخصیص گازوییل ، روز شنبه مورخ ۱۴۰۴/۰۳/۰۳ از ساعت ۹:۳۰ صبح در ساختمان فناوری طبقه سوم مستقر می باشند. لذا خواهشمندیم واحدهای صنعتی […]
+                  - text:     
+                - generic [ref=e304]:
+                  - link [ref=e306] [cursor=pointer]:
+                    - /url: https://shams-abad.ir/wp-content/uploads/2025/01/photo_2025-01-18_10-48-08.jpg
+                    - img "وزیر صمت از واحد تولید ظروف کریستال در شمس آباد بازدید کرد" [ref=e307]
+                    - generic [ref=e308]: 
+                  - generic [ref=e310]:
+                    - generic [ref=e311]: 19 ژانویه 2025 - 9:06
+                    - heading [level=4] [ref=e312]:
+                      - link "بازدید وزیر صنعت، معدن و‌تجارت" [ref=e313] [cursor=pointer]:
+                        - /url: https://shams-abad.ir/%d9%88%d8%b2%db%8c%d8%b1-%d8%b5%d9%85%d8%aa-%d8%a7%d8%b2-%d9%88%d8%a7%d8%ad%d8%af-%d8%aa%d9%88%d9%84%db%8c%d8%af-%d8%b8%d8%b1%d9%88%d9%81-%da%a9%d8%b1%db%8c%d8%b3%d8%aa%d8%a7%d9%84-%d8%af%d8%b1-%d8%b4/
+                    - heading [level=2] [ref=e315]:
+                      - link "وزیر صمت از واحد تولید ظروف کریستال در شمس آباد بازدید کرد" [ref=e316] [cursor=pointer]:
+                        - /url: https://shams-abad.ir/%d9%88%d8%b2%db%8c%d8%b1-%d8%b5%d9%85%d8%aa-%d8%a7%d8%b2-%d9%88%d8%a7%d8%ad%d8%af-%d8%aa%d9%88%d9%84%db%8c%d8%af-%d8%b8%d8%b1%d9%88%d9%81-%da%a9%d8%b1%db%8c%d8%b3%d8%aa%d8%a7%d9%84-%d8%af%d8%b1-%d8%b4/
+                    - paragraph [ref=e318]:
+                      - text: بازدید وزیر صنعت، معدن و‌تجارت از واحد تولید ظروف کریستال در شهرک صنعتی شمس آباد
+                      - img "🔸" [ref=e319]
+                      - text: اتابک وزیر صنعت، معدن و تجارت را در این بازدید، انصاری معاون وزیر و مدیرعامل سازمان صنایع کوچک و شهرک‌های صنعتی ایران، عسگری معاون اقتصادی استاندار تهران، یزدی خواه و حق وردی نمایندگان تهران در مجلس شورای اسلامی، صادقی […]
+                  - text:     
+                - generic [ref=e320]:
+                  - link [ref=e322] [cursor=pointer]:
+                    - /url: https://shams-abad.ir/wp-content/uploads/2024/11/1003255433_108951349.jpg
+                    - img "ترمیم آسفالت مستهلک" [ref=e323]
+                    - generic [ref=e324]: 
+                  - generic [ref=e326]:
+                    - generic [ref=e327]: 30 نوامبر 2024 - 13:04
+                    - heading [level=4] [ref=e328]:
+                      - link "مناقصه" [ref=e329] [cursor=pointer]:
+                        - /url: https://shams-abad.ir/%d8%aa%d8%b1%d9%85%db%8c%d9%85-%d8%a2%d8%b3%d9%81%d8%a7%d9%84%d8%aa-%d9%85%d8%b3%d8%aa%d9%87%d9%84%da%a9/
+                    - heading [level=2] [ref=e331]:
+                      - link "ترمیم آسفالت مستهلک" [ref=e332] [cursor=pointer]:
+                        - /url: https://shams-abad.ir/%d8%aa%d8%b1%d9%85%db%8c%d9%85-%d8%a2%d8%b3%d9%81%d8%a7%d9%84%d8%aa-%d9%85%d8%b3%d8%aa%d9%87%d9%84%da%a9/
+                  - text:     
+                - generic [ref=e334]:
+                  - link [ref=e336] [cursor=pointer]:
+                    - /url: https://shams-abad.ir/wp-content/uploads/2024/11/photo_2024-11-17_10-03-33_11zon.jpg
+                    - img "دیدار اعضای هیأت مدیره شرکت خدماتی شهرک صنعتی شمس آباد" [ref=e337]
+                    - generic [ref=e338]: 
+                  - generic [ref=e340]:
+                    - generic [ref=e341]: 19 نوامبر 2024 - 13:39
+                    - heading [level=2] [ref=e343]:
+                      - link "دیدار اعضای هیأت مدیره شرکت خدماتی شهرک صنعتی شمس آباد" [ref=e344] [cursor=pointer]:
+                        - /url: https://shams-abad.ir/%d8%af%db%8c%d8%af%d8%a7%d8%b1-%d8%a7%d8%b9%d8%b6%d8%a7%db%8c-%d9%87%db%8c%d8%a3%d8%aa-%d9%85%d8%af%db%8c%d8%b1%d9%87-%d8%b4%d8%b1%da%a9%d8%aa-%d8%ae%d8%af%d9%85%d8%a7%d8%aa%db%8c-%d8%b4%d9%87%d8%b1/
+                    - paragraph [ref=e346]:
+                      - img "🔹" [ref=e347]
+                      - text: ديدار اعضاي هيأت مديره شركت خدماتي شهرك صنعتي شمس آباد تهران با رضا انصاری، معاون وزیر صمت و مدیرعامل سازمان صنایع کوچک و شهرکهای صنعتی ایران
+                  - text:     
+      - generic [ref=e348]:
+        - generic [ref=e351]:
+          - generic [ref=e352]: معرفی آنلاین
+          - list [ref=e353]:
+            - listitem [ref=e354]:
+              - link [ref=e355] [cursor=pointer]:
+                - /url: https://mandegar.net/
+                - img "معرفی آنلاین" [ref=e356]
+        - link [ref=e360] [cursor=pointer]:
+          - /url: https://shoghl.mcls.gov.ir/
+        - generic [ref=e363]:
+          - generic [ref=e364]: روزنامه های امروز را مشاهده نمایید
+          - paragraph [ref=e366]:
+            - link [ref=e367] [cursor=pointer]:
+              - /url: https://shamsabad.net/%d8%b1%d9%88%d8%b2%d9%86%d8%a7%d9%85%d9%87-%db%8c-%d8%a7%d9%85%d8%b1%d9%88%d8%b2/
+      - generic [ref=e370]:
+        - generic [ref=e371]:
+          - text: عکس
+          - generic [ref=e372]: 
+        - generic [ref=e375]:
+          - link [ref=e378] [cursor=pointer]:
+            - /url: https://shams-abad.ir/photo/%d8%aa%d8%b5%d8%a7%d9%88%db%8c%d8%b1-%d9%87%d9%88%d8%a7%db%8c%db%8c-%d8%a7%d8%b2-%d8%b4%d9%87%d8%b1%da%a9-%d8%b5%d9%86%d8%b9%d8%aa%db%8c-%d8%b4%d9%85%d8%b3-%d8%a2%d8%a8%d8%a7%d8%af/
+            - img "تصاویر هوایی از شهرک صنعتی شمس آباد" [ref=e379]
+            - generic [ref=e380]:
+              - paragraph [ref=e381]: تصاویر هوایی از شهرک صنعتی شمس آباد
+              - generic [ref=e382]: 
+          - generic [ref=e383]:
+            - generic [ref=e384]:
+              - link [ref=e386] [cursor=pointer]:
+                - /url: https://shams-abad.ir/photo/%d8%a8%d8%a7%d8%b2%d8%af%db%8c%d8%af-%d8%af%da%a9%d8%aa%d8%b1-%d8%b9%d8%a8%d8%a7%d8%b3-%d9%85%d8%b2%db%8c%d9%86%d8%a7%d9%86%db%8c-%d9%85%d8%b4%d8%a7%d9%88%d8%b1-%d9%88-%d9%85%d8%b3%d8%a6%d9%88%d9%84/
+                - img "بازدید دکتر عباس مزینانی مشاور و مسئول ویژه معاونت بهداشت از مرکز واکسیناسیون شهرک صنعتی شمس آباد" [ref=e387]
+              - generic [ref=e388]:
+                - link "بازدید دکتر عباس مزینانی مشاور و مسئول ویژه معاونت بهداشت از مرکز واکسیناسیون شهرک صنعتی شمس آباد" [ref=e389] [cursor=pointer]:
+                  - /url: https://shams-abad.ir/photo/%d8%a8%d8%a7%d8%b2%d8%af%db%8c%d8%af-%d8%af%da%a9%d8%aa%d8%b1-%d8%b9%d8%a8%d8%a7%d8%b3-%d9%85%d8%b2%db%8c%d9%86%d8%a7%d9%86%db%8c-%d9%85%d8%b4%d8%a7%d9%88%d8%b1-%d9%88-%d9%85%d8%b3%d8%a6%d9%88%d9%84/
+                - generic [ref=e390]: 19 سپتامبر 2021 - 21:50
+            - generic [ref=e391]:
+              - link [ref=e393] [cursor=pointer]:
+                - /url: https://shams-abad.ir/photo/%da%af%d8%b2%d8%a7%d8%b1%d8%b4-%d8%aa%d8%b5%d9%88%db%8c%d8%b1%db%8c-%d8%a7%d9%86%d8%ac%d8%a7%d9%85-%d9%88%d8%a7%da%a9%d8%b3%db%8c%d9%86%d8%a7%d8%b3%d9%88%d9%86-%da%a9%d8%b1%d9%88%d9%86%d8%a7-%d8%af/
+                - img "گزارش تصویری انجام واکسیناسون کرونا در شهرک صنعتی شمس آباد با همکاری اداره بهداشت شهرری" [ref=e394]
+              - generic [ref=e395]:
+                - link "گزارش تصویری انجام واکسیناسون کرونا در شهرک صنعتی شمس آباد با همکاری اداره بهداشت شهرری" [ref=e396] [cursor=pointer]:
+                  - /url: https://shams-abad.ir/photo/%da%af%d8%b2%d8%a7%d8%b1%d8%b4-%d8%aa%d8%b5%d9%88%db%8c%d8%b1%db%8c-%d8%a7%d9%86%d8%ac%d8%a7%d9%85-%d9%88%d8%a7%da%a9%d8%b3%db%8c%d9%86%d8%a7%d8%b3%d9%88%d9%86-%da%a9%d8%b1%d9%88%d9%86%d8%a7-%d8%af/
+                - generic [ref=e397]: 15 سپتامبر 2021 - 5:08
+    - generic [ref=e399]:
+      - generic [ref=e402]:
+        - generic [ref=e403]: تبلیغات
+        - list [ref=e404]:
+          - listitem [ref=e405]:
+            - link [ref=e406] [cursor=pointer]:
+              - /url: ""
+              - img "تبلیغات" [ref=e407]
+      - list [ref=e411]:
+        - listitem [ref=e412]:
+          - link [ref=e413] [cursor=pointer]:
+            - /url: https://طراحی-سایت-اینترنتی.com/
+      - list [ref=e417]:
+        - listitem [ref=e418]:
+          - link [ref=e419] [cursor=pointer]:
+            - /url: tel:/09373711566
+  - contentinfo [ref=e420]:
+    - generic [ref=e421]:
+      - link [ref=e424] [cursor=pointer]:
+        - /url: https://shams-abad.ir
+        - img "بانک اطلاعات کارخانجات شهرک صنعتی شمس آباد" [ref=e425]
+      - generic [ref=e426]:
+        - list [ref=e428]:
+          - listitem [ref=e429]:
+            - link "تبلیغات" [ref=e430] [cursor=pointer]:
+              - /url: https://shams-abad.ir/%d8%aa%d8%a8%d9%84%db%8c%d8%ba%d8%a7%d8%aa/
+          - listitem [ref=e431]:
+            - link "تماس با ما" [ref=e432] [cursor=pointer]:
+              - /url: https://shams-abad.ir/%d8%aa%d9%85%d8%a7%d8%b3-%d8%a8%d8%a7-%d9%85%d8%a7/
+        - paragraph [ref=e434]:
+          - text: "طراحی و پشتیبانی :"
+          - link "گروه ماندگار" [ref=e435] [cursor=pointer]:
+            - /url: https://mandegar.net/
+      - list [ref=e437]:
+        - listitem [ref=e438]:
+          - link "" [ref=e439] [cursor=pointer]:
+            - /url: "0"
+        - listitem [ref=e441]:
+          - link "" [ref=e442] [cursor=pointer]:
+            - /url: "0"
+        - listitem [ref=e444]:
+          - link "" [ref=e445] [cursor=pointer]:
+            - /url: ""
+        - listitem [ref=e447]:
+          - link "" [ref=e448] [cursor=pointer]:
+            - /url: ""
+        - listitem [ref=e450]:
+          - link "" [ref=e451] [cursor=pointer]:
+            - /url: "0"
+        - listitem [ref=e453]:
+          - link "" [ref=e454] [cursor=pointer]:
+            - /url: ""
+        - listitem [ref=e456]:
+          - link "" [ref=e457] [cursor=pointer]:
+            - /url: https://shamsabad.net/فید-های-خبری
+    - text: 
+```

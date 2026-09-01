@@ -1,0 +1,337 @@
+### Page
+- Page URL: https://avval.ir/profile/8b955/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%B5%D8%AF%D8%B1%D8%A7-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D9%BE%D9%88%DB%8C%D8%A7%D9%86-%D8%A7%D9%84%D8%A8%D8%B1%D8%B2
+- Page Title: شرکت صدرا تجارت پویان البرز - واردات و صادرات لوازم الکتریکی | کتاب اول
+- Console: 4 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - link "home page" [ref=e5] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - textbox "فعالیت شغلی، نام کسب و کار، خدمات و محصولات و ..." [ref=e11]
+            - generic [ref=e12]: در
+            - generic [ref=e13]:
+              - textbox "شهر، محله، منطقه، خیابان و ..." [ref=e14]
+              - button "جستجو بر اساس موقعیت مکانی" [ref=e16] [cursor=pointer]
+            - button "جستجو" [ref=e19] [cursor=pointer]
+          - list
+      - link "ثبت رایگان اطلاعات شغلی" [ref=e23] [cursor=pointer]:
+        - /url: /%D8%AB%D8%A8%D8%AA-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D8%B4%D8%BA%D9%84%DB%8C
+      - button "ورود | ثبت نام" [ref=e26] [cursor=pointer]
+    - navigation [ref=e30]:
+      - list [ref=e31]:
+        - listitem [ref=e32]:
+          - button "دسته بندی مشاغل" [ref=e33] [cursor=pointer]
+        - listitem [ref=e35]: "|"
+        - listitem [ref=e36]:
+          - link "تبلیغات با ما" [ref=e37] [cursor=pointer]:
+            - /url: /%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-%D9%88%D8%A8-%D8%B3%D8%A7%DB%8C%D8%AA-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+        - listitem [ref=e40]: "|"
+        - listitem [ref=e41]:
+          - link "دسترسی بانک مشاغل" [ref=e42] [cursor=pointer]:
+            - /url: /%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B4%D8%A7%D8%BA%D9%84-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+        - listitem [ref=e45]: "|"
+        - listitem [ref=e46]:
+          - link "پنل اس ام اس" [ref=e47] [cursor=pointer]:
+            - /url: /smspanel
+  - generic [ref=e53]:
+    - main [ref=e54]:
+      - generic [ref=e55]:
+        - img "لوگوی شرکت صدرا تجارت پویان البرز - واردات و صادرات لوازم الکتریکی" [ref=e57]
+        - generic [ref=e58]:
+          - heading "شرکت صدرا تجارت پویان البرز" [level=1] [ref=e59]
+          - generic [ref=e60]:
+            - generic [ref=e69]: "4.0"
+            - generic [ref=e70]: (1 نظر)
+          - generic [ref=e71]: تأمین محصولات و کالا به صورت عمومی و به صورت تخصصی تأمین کننده قطعات الکترونیکی، کامپیوتری و تجهیزات سخت افزاری
+          - list [ref=e72]:
+            - listitem [ref=e73]: واردات و صادرات لوازم الکتریکی
+            - listitem [ref=e74]: ترخیص کالا
+      - generic [ref=e75]:
+        - link "تماس" [ref=e76] [cursor=pointer]:
+          - /url: "#"
+        - button "ثبت نظر" [ref=e81] [cursor=pointer]
+        - button "ارتقای پروفایل" [ref=e84] [cursor=pointer]
+        - button "ویرایش" [ref=e87] [cursor=pointer]
+        - button "اشتراک گذاری" [ref=e92] [cursor=pointer]
+      - navigation [ref=e100]:
+        - list [ref=e101]:
+          - listitem [ref=e102]:
+            - link "link to home" [ref=e103] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e107]
+          - listitem [ref=e110]:
+            - link "دسته‌بندی مشاغل" [ref=e111] [cursor=pointer]:
+              - /url: /directory
+          - listitem [ref=e112]
+          - listitem [ref=e115]:
+            - link "واردات و صادرات لوازم الکتریکی" [ref=e116] [cursor=pointer]:
+              - /url: /directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D9%88-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%DB%8C%DA%A9%DB%8C
+          - listitem [ref=e117]
+          - listitem [ref=e120]:
+            - link "تهران" [ref=e121] [cursor=pointer]:
+              - /url: /directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D9%88-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%DB%8C%DA%A9%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86
+          - listitem [ref=e122]
+          - listitem [ref=e125]:
+            - link "محله عباس آباد" [ref=e126] [cursor=pointer]:
+              - /url: /directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D9%88-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%DB%8C%DA%A9%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%85%D8%AD%D9%84%D9%87-%D8%B9%D8%A8%D8%A7%D8%B3-%D8%A2%D8%A8%D8%A7%D8%AF
+      - generic [ref=e127]:
+        - heading "اطلاعات تماس" [level=2] [ref=e129]
+        - list [ref=e130]:
+          - listitem [ref=e131]:
+            - generic [ref=e132]: "آدرس :"
+            - generic [ref=e136]: تهران، منطقه 7، محله عباس آباد، خیابان احمدقصیر (بخارست)، کوچه پنجم، پلاک 10، طبقه سوم
+          - listitem [ref=e137]:
+            - generic [ref=e138]: "تلفن :"
+            - button "نمایش شماره" [ref=e141] [cursor=pointer]
+            - generic [ref=e142]: XXXXXXXXXX
+          - listitem [ref=e143]:
+            - generic [ref=e144]: وب سایت
+            - link "www.sadratejarat.com/" [ref=e148] [cursor=pointer]:
+              - /url: http://www.sadratejarat.com/
+          - listitem [ref=e149]:
+            - generic [ref=e150]: "ایمیل :"
+            - link "sales1@sadratejarat.com" [ref=e155] [cursor=pointer]:
+              - /url: mailto://sales1@sadratejarat.com
+          - listitem [ref=e156]:
+            - generic [ref=e157]: "کد پستی :"
+            - generic [ref=e161]: "1587743415"
+          - listitem [ref=e162]:
+            - generic [ref=e163]: "صفحات اجتماعی :"
+            - list [ref=e169]:
+              - listitem [ref=e170]:
+                - link "link to instagram" [ref=e171] [cursor=pointer]:
+                  - /url: http://instagram.com/sadratejarat/
+      - generic [ref=e180]:
+        - heading "توضیحات" [level=2] [ref=e182]
+        - generic [ref=e183]: شرکت صدرا تجارت پویان البرز به عنوان یکی از تخصصی ترین گروه های بازرگانی در زمینه تأمین محصولات و کالا به صورت عمومی و به صورت تخصصی تأمین کننده قطعات الکترونیکی، کامپیوتری و تجهیزات سخت افزاری، افتخار دارد که خود را به عنوان یکی از بهترین و مطمئن ترین منابع بازرگانی تأمین کالا معرفی نمایداین مجموعه با استفاده از کادری مجرب و متخصص در امر بازرگانی بین الملل (سورس یابی، خرید، حمل و ترخیص و ...) و همچنین تأمین تجهیزات ، طراحی، اجرای شبکه های کامپیوتری و خدمات فنی مهندسی با هدف همکاری در زمینه بازرگانی با شرکت های فنی و مهندسی، واحدهای صنعتی و کارخانجات تأسیس گردیده و در حال فعالیت می باشد. مفتخریم که مجموعه خدمات خود را با عبور از موانع موجود بر سر تأمین تجهیزات در حوزه بین الملل، بصورت جزئی و عمده در اختیار مشتریان و سازمان های محترم قرار می دهیم، زیرا باور داریم لازمه نیل به اهداف شرکت، ارائه محصولات و خدمات با کیفیت، ارائه مشاوره های فنی مناسب، خدمات پس از فروش و معرفی و فروش جدیدترین محصولات روز دنیا می باشد.
+      - generic [ref=e184]:
+        - heading "نظرات" [level=2] [ref=e186]
+        - generic [ref=e187]:
+          - paragraph [ref=e188]: لطفا به این کسب و کار امتیاز بدید و نظر خودتون رو درباره این کسب و کار بنویسید
+          - generic [ref=e189]:
+            - generic [ref=e192]:
+              - generic [ref=e193]: بدون رای
+              - generic "بدون رای" [ref=e195] [cursor=pointer]:
+                - textbox "امتیاز شما برای این کسب و کار" [ref=e227]
+            - generic [ref=e228]:
+              - generic [ref=e229]: حداکثر 2000 کاراکتر
+              - textbox "به نظر من ..." [ref=e230]
+              - button "ثبت نظر" [ref=e231] [cursor=pointer]
+          - generic [ref=e232]:
+            - generic [ref=e234]:
+              - generic [ref=e238]: حسین گرجی
+              - generic [ref=e239]: 11 ماه پیش
+            - generic [ref=e249]:
+              - button "0" [ref=e250] [cursor=pointer]
+              - button "پاسخ" [ref=e254] [cursor=pointer]
+              - button "گزارش تخلف این نظر" [ref=e259] [cursor=pointer]
+          - text: ✕
+    - complementary [ref=e263]:
+      - generic [ref=e265]:
+        - generic [ref=e266]:
+          - generic:
+            - region "Map" [ref=e267]
+            - generic: برای بزرگنمایی نقشه، از ⌘ + پیمایش استفاده کنید
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e268] [cursor=pointer]
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e269] [cursor=pointer]
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e283] [cursor=pointer]
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e292] [cursor=pointer]
+          - generic:
+            - generic:
+              - generic [ref=e306]:
+                - button "Zoom in" [ref=e307] [cursor=pointer]
+                - button "Zoom out" [ref=e309] [cursor=pointer]
+              - button "Enter fullscreen" [ref=e312] [cursor=pointer]
+        - generic [ref=e314]:
+          - button "گوگل" [ref=e315] [cursor=pointer]
+          - button [ref=e322] [cursor=pointer]:
+            - img "بلد" [ref=e323]
+            - text: بلد
+          - button [ref=e324] [cursor=pointer]:
+            - img "نشان" [ref=e325]
+            - text: نشان
+      - list [ref=e328]:
+        - listitem [ref=e329]:
+          - paragraph [ref=e330]: نزدیک ترین ایستگاه بی آر تی به شرکت صدرا تجارت پویان البرز
+          - link "ایستگاه بی آر تی بهشتی 937 متر" [ref=e331] [cursor=pointer]:
+            - /url: /profile/1ccfb/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A8%DB%8C-%D8%A2%D8%B1-%D8%AA%DB%8C-%D8%A8%D9%87%D8%B4%D8%AA%DB%8C
+        - listitem [ref=e342]:
+          - paragraph [ref=e343]: نزدیک ترین ایستگاه مترو به شرکت صدرا تجارت پویان البرز
+          - link "ایستگاه مترو بهشتی 373 متر" [ref=e344] [cursor=pointer]:
+            - /url: /profile/ad57a/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%85%D8%AA%D8%B1%D9%88-%D8%A8%D9%87%D8%B4%D8%AA%DB%8C
+        - listitem [ref=e353]:
+          - paragraph [ref=e354]: نزدیک ترین ایستگاه اتوبوس به شرکت صدرا تجارت پویان البرز
+          - link "ایستگاه اتوبوس مدرس مطهری - کد 96 - جنوب به شمال 273 متر" [ref=e355] [cursor=pointer]:
+            - /url: /profile/26c86/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A7%D8%AA%D9%88%D8%A8%D9%88%D8%B3-%D9%85%D8%AF%D8%B1%D8%B3-%D9%85%D8%B7%D9%87%D8%B1%DB%8C-%DA%A9%D8%AF-96-%D8%AC%D9%86%D9%88%D8%A8-%D8%A8%D9%87-%D8%B4%D9%85%D8%A7%D9%84
+      - generic [ref=e367]:
+        - heading "تصاویر" [level=2] [ref=e369]
+        - generic [ref=e370]:
+          - link "main image" [ref=e372] [cursor=pointer]:
+            - /url: /filehash/A9zAijabhbApsvoCfbgieiDtzq.jpg
+            - img "شرکت صدرا تجارت پویان البرز - واردات و صادرات لوازم الکتریکی شماره 1" [ref=e373]
+          - generic [ref=e374]:
+            - link "Images" [ref=e376] [cursor=pointer]:
+              - /url: /filehash/A9zAijabhbApsvoCfbgiejDtzq.jpg
+              - img "شرکت صدرا تجارت پویان البرز - واردات و صادرات لوازم الکتریکی شماره 2" [ref=e377]
+            - link "Images" [ref=e379] [cursor=pointer]:
+              - /url: /filehash/A9zAijabhbApsvoCfbgifaDtzq.jpg
+              - img "شرکت صدرا تجارت پویان البرز - واردات و صادرات لوازم الکتریکی شماره 3" [ref=e380]
+      - generic [ref=e381]:
+        - heading "کسب و کارهای مشابه" [level=2] [ref=e383]
+        - navigation [ref=e384]:
+          - list [ref=e385]:
+            - listitem [ref=e386]:
+              - link "فروشگاه اینترنتی لاوان الکتریک فروشگاه اینترنتی لاوان الکتریک 4.5 (2 نظر) صنایع برق و الکترونیک تهران، پاکدشت، منطقه صنعتی خاتون آباد" [ref=e387] [cursor=pointer]:
+                - /url: /profile/1c5ba/%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA%DB%8C-%D9%84%D8%A7%D9%88%D8%A7%D9%86-%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%DB%8C%DA%A9
+                - img "فروشگاه اینترنتی لاوان الکتریک" [ref=e388]
+                - generic [ref=e389]:
+                  - heading "فروشگاه اینترنتی لاوان الکتریک" [level=3] [ref=e390]
+                  - generic [ref=e391]:
+                    - generic [ref=e402]: "4.5"
+                    - generic [ref=e403]: (2 نظر)
+                  - list [ref=e404]:
+                    - listitem [ref=e405]: صنایع برق و الکترونیک
+                  - generic [ref=e406]: تهران، پاکدشت، منطقه صنعتی خاتون آباد
+            - listitem [ref=e410]:
+              - link [ref=e411] [cursor=pointer]:
+                - /url: /profile/531fc/%D8%B4%D8%B1%DA%A9%D8%AA-%D9%82%D8%A7%D8%A6%D9%85-%D8%AA%DB%8C%D8%B1%D8%A2%D8%B3%DB%8C%D8%A7
+                - img "شرکت قائم تیرآسیا" [ref=e412]
+                - generic [ref=e413]:
+                  - heading "شرکت قائم تیرآسیا" [level=3] [ref=e414]
+                  - list [ref=e415]:
+                    - listitem [ref=e416]: حمل و نقل بین المللی
+                  - generic [ref=e417]: تبریز، خیابان بهشتی
+            - listitem [ref=e421]:
+              - link "فروشگاه صباصنعت فروشگاه صباصنعت 4.0 (1 نظر) صنایع برق و الکترونیک تهران، منطقه 12، محله فردوسی ، لاله زار جنوبی" [ref=e422] [cursor=pointer]:
+                - /url: /profile/975c1/%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87-%D8%B5%D8%A8%D8%A7%D8%B5%D9%86%D8%B9%D8%AA
+                - img "فروشگاه صباصنعت" [ref=e423]
+                - generic [ref=e424]:
+                  - heading "فروشگاه صباصنعت" [level=3] [ref=e425]
+                  - generic [ref=e426]:
+                    - generic [ref=e435]: "4.0"
+                    - generic [ref=e436]: (1 نظر)
+                  - list [ref=e437]:
+                    - listitem [ref=e438]: صنایع برق و الکترونیک
+                  - generic [ref=e439]: تهران، منطقه 12، محله فردوسی ، لاله زار جنوبی
+            - listitem [ref=e443]:
+              - link "شرکت آرتا الکتریک شرکت آرتا الکتریک 4.0 (1 نظر) فروش و تعمیر لوازم برقی تهران، منطقه 12، محله فردوسی ، لاله زار نو" [ref=e444] [cursor=pointer]:
+                - /url: /profile/58f8d/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A2%D8%B1%D8%AA%D8%A7-%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%DB%8C%DA%A9
+                - img "شرکت آرتا الکتریک" [ref=e445]
+                - generic [ref=e446]:
+                  - heading "شرکت آرتا الکتریک" [level=3] [ref=e447]
+                  - generic [ref=e448]:
+                    - generic [ref=e457]: "4.0"
+                    - generic [ref=e458]: (1 نظر)
+                  - list [ref=e459]:
+                    - listitem [ref=e460]: فروش و تعمیر لوازم برقی
+                  - generic [ref=e461]: تهران، منطقه 12، محله فردوسی ، لاله زار نو
+            - listitem [ref=e465]:
+              - link "شرکت تجهیز امید پویش (تاپکو) شرکت تجهیز امید پویش (تاپکو) 4.5 (2 نظر) واردات تجهیزات پالایشگاهی نفت و گاز و پتروشیمی تهران، منطقه 5، محله پرواز، بزرگراه ستاری" [ref=e466] [cursor=pointer]:
+                - /url: /profile/2m6m3/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%AA%D8%AC%D9%87%DB%8C%D8%B2-%D8%A7%D9%85%DB%8C%D8%AF-%D9%BE%D9%88%DB%8C%D8%B4-%D8%AA%D8%A7%D9%BE%DA%A9%D9%88
+                - img "شرکت تجهیز امید پویش (تاپکو)" [ref=e467]
+                - generic [ref=e468]:
+                  - heading "شرکت تجهیز امید پویش (تاپکو)" [level=3] [ref=e469]
+                  - generic [ref=e470]:
+                    - generic [ref=e481]: "4.5"
+                    - generic [ref=e482]: (2 نظر)
+                  - list [ref=e483]:
+                    - listitem [ref=e484]: واردات تجهیزات پالایشگاهی نفت و گاز و پتروشیمی
+                  - generic [ref=e485]: تهران، منطقه 5، محله پرواز، بزرگراه ستاری
+            - listitem [ref=e489]:
+              - link [ref=e490] [cursor=pointer]:
+                - /url: /profile/aad38/%DB%8C%DA%A9%D8%AA%D8%A7-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D8%B1%D8%A7%D8%AF
+                - img "یکتا تجارت راد" [ref=e491]
+                - generic [ref=e492]:
+                  - heading "یکتا تجارت راد" [level=3] [ref=e493]
+                  - list [ref=e494]:
+                    - listitem [ref=e495]: ترخیص کالا
+                    - listitem [ref=e496]: گمرک
+                    - listitem [ref=e497]: واردات صادرات کالا
+                  - generic [ref=e498]: تهران، منطقه 6، محله جهاد، میدان جهاد
+            - listitem [ref=e502]:
+              - link "گروه صنعتی اشناب پارسیان گروه صنعتی اشناب پارسیان 4.0 (1 نظر) تست مکانیکی ابزار دقیق تهران، منطقه 6، قائم مقام فراهانی" [ref=e503] [cursor=pointer]:
+                - /url: /profile/e8a9e/%DA%AF%D8%B1%D9%88%D9%87-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C-%D8%A7%D8%B4%D9%86%D8%A7%D8%A8-%D9%BE%D8%A7%D8%B1%D8%B3%DB%8C%D8%A7%D9%86
+                - img "گروه صنعتی اشناب پارسیان" [ref=e504]
+                - generic [ref=e505]:
+                  - heading "گروه صنعتی اشناب پارسیان" [level=3] [ref=e506]
+                  - generic [ref=e507]:
+                    - generic [ref=e516]: "4.0"
+                    - generic [ref=e517]: (1 نظر)
+                  - list [ref=e518]:
+                    - listitem [ref=e519]: تست مکانیکی ابزار دقیق
+                  - generic [ref=e520]: تهران، منطقه 6، قائم مقام فراهانی
+    - text: ✕ ✕
+  - contentinfo [ref=e524]:
+    - generic [ref=e525]:
+      - generic [ref=e526]:
+        - link "home page" [ref=e527] [cursor=pointer]:
+          - /url: /
+        - list [ref=e530]:
+          - listitem [ref=e531]:
+            - link "Telegram" [ref=e532] [cursor=pointer]:
+              - /url: https://t.me/avval_ir
+          - listitem [ref=e538]:
+            - link "instagram" [ref=e539] [cursor=pointer]:
+              - /url: https://instagram.com/ketabeavval.officialpage
+          - listitem [ref=e544]:
+            - link "Twitter" [ref=e545] [cursor=pointer]:
+              - /url: https://twitter.com/ketabeavvalir
+          - listitem [ref=e549]:
+            - link "Facebook" [ref=e550] [cursor=pointer]:
+              - /url: https://www.facebook.com/avval/
+          - listitem [ref=e554]:
+            - link "Linkedin" [ref=e555] [cursor=pointer]:
+              - /url: https://linkedin.com/company/ketabeavval/
+      - navigation [ref=e560]:
+        - generic [ref=e561]:
+          - generic [ref=e562]: درباره کتاب اول
+          - list [ref=e563]:
+            - listitem [ref=e564]:
+              - link "درباره کتاب اول" [ref=e565] [cursor=pointer]:
+                - /url: /about-ketabeavval
+            - listitem [ref=e566]:
+              - link "تماس با کتاب اول" [ref=e567] [cursor=pointer]:
+                - /url: /contact-us
+            - listitem [ref=e568]:
+              - link "شرایط استفاده" [ref=e569] [cursor=pointer]:
+                - /url: /terms-conditions
+            - listitem [ref=e570]:
+              - link "حریم شخضی" [ref=e571] [cursor=pointer]:
+                - /url: /privacy-policy
+        - generic [ref=e572]:
+          - generic [ref=e573]: کشف کنید
+          - list [ref=e574]:
+            - listitem [ref=e575]:
+              - link "دسته بندی مشاغل" [ref=e576] [cursor=pointer]:
+                - /url: /directory
+            - listitem [ref=e577]:
+              - link "نقشه سایت" [ref=e578] [cursor=pointer]:
+                - /url: /sitemap
+            - listitem [ref=e579]:
+              - link "دسترسی بانک مشاغل کتاب اول" [ref=e580] [cursor=pointer]:
+                - /url: /%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B4%D8%A7%D8%BA%D9%84-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+            - listitem [ref=e581]:
+              - link "پنل اس ام اس" [ref=e582] [cursor=pointer]:
+                - /url: /smspanel
+        - generic [ref=e583]:
+          - generic [ref=e584]: صاحبین مشاغل در کتاب اول
+          - list [ref=e585]:
+            - listitem [ref=e586]:
+              - link "ثبت اطلاعات شغلی" [ref=e587] [cursor=pointer]:
+                - /url: /%D8%AB%D8%A8%D8%AA-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D8%B4%D8%BA%D9%84%DB%8C
+            - listitem [ref=e588]:
+              - link "تبلیغات با کتاب اول" [ref=e589] [cursor=pointer]:
+                - /url: /%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-%D9%88%D8%A8-%D8%B3%D8%A7%DB%8C%D8%AA-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+    - generic [ref=e590]:
+      - img "samandehi logo" [ref=e592] [cursor=pointer]
+      - link "enamad logo" [ref=e594] [cursor=pointer]:
+        - /url: https://trustseal.enamad.ir/?id=194990&Code=3Y0m3d1djm9fuqjoC8mT
+        - img "logo-enamad" [ref=e595]
+    - generic [ref=e596]: 1373-1403 © تمامی حقوق برای شرکت کتاب اول محفوظ است
+  - text: ✕ *
+```

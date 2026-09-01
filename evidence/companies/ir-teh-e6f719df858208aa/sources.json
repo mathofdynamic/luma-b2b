@@ -1,0 +1,190 @@
+{
+  "company_id": "ir-teh-e6f719df858208aa",
+  "errors": [],
+  "generated_at": "2026-09-01T07:27:39Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [
+    {
+      "bytes": 678546,
+      "captured_at": "2026-09-01T07:27:38Z",
+      "company_id": "ir-teh-e6f719df858208aa",
+      "headless": true,
+      "page_title": "آکوباتری ایرانیان",
+      "path": "companies/ir-teh-e6f719df858208aa/screenshots/homepage.png",
+      "reason_this_matters": "Public company homepage is the primary visual evidence surface.",
+      "screenshot_type": "homepage",
+      "source_url": "https://www.aco-battery.com/"
+    }
+  ],
+  "sources": [
+    {
+      "discovered_at": "2026-09-01T06:32:19Z",
+      "discovery_reason": "Book-e Avval category: شرکت بازرگانی",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "شرکت تولیدی صنعتی وایا باتری صدرا، از کارخانه های باتری سازی است که فعالیت خود را از سال ۱۳۹۰ شروع کرده و از دانش فنی روز و ماشین آلات مدرن بهره برده تا محصولاتی با کیفیت",
+      "source_quality": "directory",
+      "source_title": "شرکت بازرگانی در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D8%B4%D8%B1%DA%A9%D8%AA%20%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:32:19Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-f9dab01cd7671dca",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "شرکت تولیدی صنعتی وایا باتری صدرا، از کارخانه های باتری سازی است که فعالیت خود را از سال ۱۳۹۰ شروع کرده و از دانش فنی روز و ماشین آلات مدرن بهره برده تا محصولاتی با کیفیت",
+      "source_quality": "directory",
+      "source_title": "شرکت بازرگانی در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D8%B4%D8%B1%DA%A9%D8%AA%20%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:53Z",
+      "claim": "Directory profile lists شرکت بازرگانی اشجع باتری (آکوباتری) - دفتر فروش تهران with a public Tehran business listing.",
+      "confidence": 0.82,
+      "evidence_id": "ev-26c185ed841a5921",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "شرکت بازرگانی اشجع باتری (آکوباتری) - دفتر فروش تهران - باتری صنعتی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس شرکت بازرگانی اشجع باتری (آکوباتری) - دفتر فروش تهران 4.0 (1 نظر) باتری صنعتی فروش باتری خودرو تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل باتری صنعتی تهران محله سپهر اطلاعات تماس آدرس : تهران، منطقه 2، محله سپهر، سعادت آباد، بلوار فرحزادی، بالاتر از بلوار دریا، خیابان عباسی اناری، ",
+      "source_quality": "directory",
+      "source_title": "شرکت بازرگانی اشجع باتری (آکوباتری) - دفتر فروش تهران - باتری صنعتی | کتاب اول",
+      "source_url": "https://avval.ir/profile/649a4/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%A7%D8%B4%D8%AC%D8%B9-%D8%A8%D8%A7%D8%AA%D8%B1%DB%8C-%D8%A2%DA%A9%D9%88%D8%A8%D8%A7%D8%AA%D8%B1%DB%8C-%D8%AF%D9%81%D8%AA%D8%B1-%D9%81%D8%B1%D9%88%D8%B4-%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:03Z",
+      "claim": "Public website signal: catalog_or_products",
+      "confidence": 0.86,
+      "evidence_id": "ev-df558e8180d10c55",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "کاتالوگ; محصولات; محصول | آکوباتری ایرانیان صفحه اصلی محصولات باتری ماشین باتری ماشین تینو باتری ماشین کارپیل باتری ماشین هایپیل باتری ماشین هندل باتری ماشین کاما کاتالوگ باتری های خودرویی باتری یو پی اس باتری یو پی اس یوفو باتری یو پی اس ضد اشتعال - یوفو باتری یو پی اس زیکو باتری یو پی اس ضد اشتعال زیکو باتری مخابراتی و نیروگاهی کاتالوگ باتری های یو پی اس باتری موتورسیکلت باتری موتورسیکلت هندل باتری موتورسیکلت تینو صفحه پلیت باتری صفحه پلیت",
+      "signal": "catalog_or_products",
+      "source_quality": "company_site",
+      "source_title": "آکوباتری ایرانیان",
+      "source_url": "https://www.aco-battery.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:03Z",
+      "claim": "Public website signal: order_or_contact_form",
+      "confidence": 0.72,
+      "evidence_id": "ev-a535d35d91aafe5a",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "تماس با ما | آکوباتری ایرانیان صفحه اصلی محصولات باتری ماشین باتری ماشین تینو باتری ماشین کارپیل باتری ماشین هایپیل باتری ماشین هندل باتری ماشین کاما کاتالوگ باتری های خودرویی باتری یو پی اس باتری یو پی اس یوفو باتری یو پی اس ضد اشتعال - یوفو باتری یو پی اس زیکو باتری یو پی اس ضد اشتعال زیکو باتری مخابراتی و نیروگاهی کاتالوگ باتری های یو پی اس باتری موتورسیکلت باتری موتورسیکلت هندل باتری موتورسیکلت تینو صفحه پلیت باتری صفحه پلیت",
+      "signal": "order_or_contact_form",
+      "source_quality": "company_site",
+      "source_title": "آکوباتری ایرانیان",
+      "source_url": "https://www.aco-battery.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:03Z",
+      "claim": "Public website signal: branches_or_dealers",
+      "confidence": 0.72,
+      "evidence_id": "ev-34854f6594535d4e",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "شعب; نمایندگان; نمایندگی | آکوباتری ایرانیان صفحه اصلی محصولات باتری ماشین باتری ماشین تینو باتری ماشین کارپیل باتری ماشین هایپیل باتری ماشین هندل باتری ماشین کاما کاتالوگ باتری های خودرویی باتری یو پی اس باتری یو پی اس یوفو باتری یو پی اس ضد اشتعال - یوفو باتری یو پی اس زیکو باتری یو پی اس ضد اشتعال زیکو باتری مخابراتی و نیروگاهی کاتالوگ باتری های یو پی اس باتری موتورسیکلت باتری موتورسیکلت هندل باتری موتورسیکلت تینو صفحه پلیت باتری صفحه پلیت",
+      "signal": "branches_or_dealers",
+      "source_quality": "company_site",
+      "source_title": "آکوباتری ایرانیان",
+      "source_url": "https://www.aco-battery.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:03Z",
+      "claim": "Public website signal: factory_or_warehouse",
+      "confidence": 0.86,
+      "evidence_id": "ev-1dc38387b8ffb17e",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "کارخانه; شهرک صنعتی | آکوباتری ایرانیان صفحه اصلی محصولات باتری ماشین باتری ماشین تینو باتری ماشین کارپیل باتری ماشین هایپیل باتری ماشین هندل باتری ماشین کاما کاتالوگ باتری های خودرویی باتری یو پی اس باتری یو پی اس یوفو باتری یو پی اس ضد اشتعال - یوفو باتری یو پی اس زیکو باتری یو پی اس ضد اشتعال زیکو باتری مخابراتی و نیروگاهی کاتالوگ باتری های یو پی اس باتری موتورسیکلت باتری موتورسیکلت هندل باتری موتورسیکلت تینو صفحه پلیت باتری صفحه پلیت",
+      "signal": "factory_or_warehouse",
+      "source_quality": "company_site",
+      "source_title": "آکوباتری ایرانیان",
+      "source_url": "https://www.aco-battery.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:03Z",
+      "claim": "Public website signal: service_after_sales",
+      "confidence": 0.72,
+      "evidence_id": "ev-686d393716c4ff3a",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "خدمات پس از فروش; گارانتی | آکوباتری ایرانیان صفحه اصلی محصولات باتری ماشین باتری ماشین تینو باتری ماشین کارپیل باتری ماشین هایپیل باتری ماشین هندل باتری ماشین کاما کاتالوگ باتری های خودرویی باتری یو پی اس باتری یو پی اس یوفو باتری یو پی اس ضد اشتعال - یوفو باتری یو پی اس زیکو باتری یو پی اس ضد اشتعال زیکو باتری مخابراتی و نیروگاهی کاتالوگ باتری های یو پی اس باتری موتورسیکلت باتری موتورسیکلت هندل باتری موتورسیکلت تینو صفحه پلیت باتری صفحه پلیت",
+      "signal": "service_after_sales",
+      "source_quality": "company_site",
+      "source_title": "آکوباتری ایرانیان",
+      "source_url": "https://www.aco-battery.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:03Z",
+      "claim": "Public website signal: projects_or_clients",
+      "confidence": 0.72,
+      "evidence_id": "ev-2ca063e2ca1c8f1a",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "مشتریان | آکوباتری ایرانیان صفحه اصلی محصولات باتری ماشین باتری ماشین تینو باتری ماشین کارپیل باتری ماشین هایپیل باتری ماشین هندل باتری ماشین کاما کاتالوگ باتری های خودرویی باتری یو پی اس باتری یو پی اس یوفو باتری یو پی اس ضد اشتعال - یوفو باتری یو پی اس زیکو باتری یو پی اس ضد اشتعال زیکو باتری مخابراتی و نیروگاهی کاتالوگ باتری های یو پی اس باتری موتورسیکلت باتری موتورسیکلت هندل باتری موتورسیکلت تینو صفحه پلیت باتری صفحه پلیت",
+      "signal": "projects_or_clients",
+      "source_quality": "company_site",
+      "source_title": "آکوباتری ایرانیان",
+      "source_url": "https://www.aco-battery.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:03Z",
+      "claim": "Public website signal: certifications",
+      "confidence": 0.72,
+      "evidence_id": "ev-882ed96dfb2b9c59",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "استاندارد | آکوباتری ایرانیان صفحه اصلی محصولات باتری ماشین باتری ماشین تینو باتری ماشین کارپیل باتری ماشین هایپیل باتری ماشین هندل باتری ماشین کاما کاتالوگ باتری های خودرویی باتری یو پی اس باتری یو پی اس یوفو باتری یو پی اس ضد اشتعال - یوفو باتری یو پی اس زیکو باتری یو پی اس ضد اشتعال زیکو باتری مخابراتی و نیروگاهی کاتالوگ باتری های یو پی اس باتری موتورسیکلت باتری موتورسیکلت هندل باتری موتورسیکلت تینو صفحه پلیت باتری صفحه پلیت",
+      "signal": "certifications",
+      "source_quality": "company_site",
+      "source_title": "آکوباتری ایرانیان",
+      "source_url": "https://www.aco-battery.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:03Z",
+      "claim": "Public website signal: tender_or_contract",
+      "confidence": 0.72,
+      "evidence_id": "ev-9121ed7ec6d2bcd9",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "بازرگانی | آکوباتری ایرانیان صفحه اصلی محصولات باتری ماشین باتری ماشین تینو باتری ماشین کارپیل باتری ماشین هایپیل باتری ماشین هندل باتری ماشین کاما کاتالوگ باتری های خودرویی باتری یو پی اس باتری یو پی اس یوفو باتری یو پی اس ضد اشتعال - یوفو باتری یو پی اس زیکو باتری یو پی اس ضد اشتعال زیکو باتری مخابراتی و نیروگاهی کاتالوگ باتری های یو پی اس باتری موتورسیکلت باتری موتورسیکلت هندل باتری موتورسیکلت تینو صفحه پلیت باتری صفحه پلیت",
+      "signal": "tender_or_contract",
+      "source_quality": "company_site",
+      "source_title": "آکوباتری ایرانیان",
+      "source_url": "https://www.aco-battery.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:03Z",
+      "claim": "Public website signal: software_or_erp",
+      "confidence": 0.72,
+      "evidence_id": "ev-12c83feb8c534173",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "نرم افزار; نرم‌افزار | آکوباتری ایرانیان صفحه اصلی محصولات باتری ماشین باتری ماشین تینو باتری ماشین کارپیل باتری ماشین هایپیل باتری ماشین هندل باتری ماشین کاما کاتالوگ باتری های خودرویی باتری یو پی اس باتری یو پی اس یوفو باتری یو پی اس ضد اشتعال - یوفو باتری یو پی اس زیکو باتری یو پی اس ضد اشتعال زیکو باتری مخابراتی و نیروگاهی کاتالوگ باتری های یو پی اس باتری موتورسیکلت باتری موتورسیکلت هندل باتری موتورسیکلت تینو صفحه پلیت باتری صفحه پلیت",
+      "signal": "software_or_erp",
+      "source_quality": "company_site",
+      "source_title": "آکوباتری ایرانیان",
+      "source_url": "https://www.aco-battery.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:03Z",
+      "claim": "Public website signal: internal_tech_hiring",
+      "confidence": 0.72,
+      "evidence_id": "ev-ef5db3d48c99ff8b",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "برنامه نویس; برنامه‌نویس | آکوباتری ایرانیان صفحه اصلی محصولات باتری ماشین باتری ماشین تینو باتری ماشین کارپیل باتری ماشین هایپیل باتری ماشین هندل باتری ماشین کاما کاتالوگ باتری های خودرویی باتری یو پی اس باتری یو پی اس یوفو باتری یو پی اس ضد اشتعال - یوفو باتری یو پی اس زیکو باتری یو پی اس ضد اشتعال زیکو باتری مخابراتی و نیروگاهی کاتالوگ باتری های یو پی اس باتری موتورسیکلت باتری موتورسیکلت هندل باتری موتورسیکلت تینو صفحه پلیت باتری صفحه پلیت",
+      "signal": "internal_tech_hiring",
+      "source_quality": "company_site",
+      "source_title": "آکوباتری ایرانیان",
+      "source_url": "https://www.aco-battery.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:03Z",
+      "claim": "Public website signal: expansion_or_activity",
+      "confidence": 0.72,
+      "evidence_id": "ev-7454c9b3a5fde658",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "افتتاح; توسعه | آکوباتری ایرانیان صفحه اصلی محصولات باتری ماشین باتری ماشین تینو باتری ماشین کارپیل باتری ماشین هایپیل باتری ماشین هندل باتری ماشین کاما کاتالوگ باتری های خودرویی باتری یو پی اس باتری یو پی اس یوفو باتری یو پی اس ضد اشتعال - یوفو باتری یو پی اس زیکو باتری یو پی اس ضد اشتعال زیکو باتری مخابراتی و نیروگاهی کاتالوگ باتری های یو پی اس باتری موتورسیکلت باتری موتورسیکلت هندل باتری موتورسیکلت تینو صفحه پلیت باتری صفحه پلیت",
+      "signal": "expansion_or_activity",
+      "source_quality": "company_site",
+      "source_title": "آکوباتری ایرانیان",
+      "source_url": "https://www.aco-battery.com/"
+    }
+  ]
+}

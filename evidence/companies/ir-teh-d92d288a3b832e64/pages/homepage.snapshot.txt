@@ -1,0 +1,490 @@
+### Page
+- Page URL: https://ptpgroup.ir/
+- Page Title: سازنده اولین پیست یخ استاندارد در ایران پس از انقلاب - پیشگامان تجارت و توسعه پایدار
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - link "پرش به محتوا" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e3]:
+    - banner [ref=e5]:
+      - link [ref=e12] [cursor=pointer]:
+        - /url: https://ptpgroup.ir
+        - img "ptplogo" [ref=e13]
+      - navigation [ref=e14]:
+        - navigation "فهرست" [ref=e17]:
+          - list [ref=e18]:
+            - listitem [ref=e19]:
+              - link "صفحه اصلی" [ref=e20] [cursor=pointer]:
+                - /url: https://ptpgroup.ir/
+            - listitem [ref=e21]:
+              - link [ref=e22] [cursor=pointer]:
+                - /url: /department/
+                - text: دپارتمان ها
+                - application "تغییر وضعیت فهرست"
+            - listitem [ref=e26]:
+              - link [ref=e27] [cursor=pointer]:
+                - /url: "#"
+                - text: پروژه ها
+                - application "تغییر وضعیت فهرست"
+            - listitem [ref=e31]:
+              - link [ref=e32] [cursor=pointer]:
+                - /url: /partner/
+                - text: شرکای تجاری
+                - application "تغییر وضعیت فهرست"
+            - listitem [ref=e36]:
+              - link "وبلاگ" [ref=e37] [cursor=pointer]:
+                - /url: https://ptpgroup.ir/%d9%88%d8%a8%d9%84%d8%a7%da%af/
+            - listitem [ref=e38]:
+              - link [ref=e39] [cursor=pointer]:
+                - /url: https://ptpgroup.ir/agreements/
+                - text: تاییدیه ها
+                - application "تغییر وضعیت فهرست"
+            - listitem [ref=e43]:
+              - link "درباره ما" [ref=e44] [cursor=pointer]:
+                - /url: https://ptpgroup.ir/about-us/
+            - listitem [ref=e45]:
+              - link "تماس با ما" [ref=e46] [cursor=pointer]:
+                - /url: https://ptpgroup.ir/contact-us/
+      - search [ref=e50]:
+        - generic [ref=e51]:
+          - button "جستجو کردن" [ref=e52] [cursor=pointer]
+          - generic:
+            - generic: جستجو کردن
+            - searchbox "جستجو کردن جستجو کردن"
+      - list [ref=e61]:
+        - listitem [ref=e62]:
+          - link [ref=e63] [cursor=pointer]:
+            - /url: https://ptpgroup.ir/en/
+            - img "English" [ref=e64]
+        - listitem [ref=e65]:
+          - link [ref=e66] [cursor=pointer]:
+            - /url: https://ptpgroup.ir/
+            - img "فارسی" [ref=e67]
+    - generic [ref=e70]:
+      - region "اسلایدها" [ref=e75]:
+        - generic [ref=e76]:
+          - group "1 / 5" [ref=e77]:
+            - link "پیشگامان تجارت و توسعه پایدار مجری ساخت پیست یخ پروژه ایران مال اطلاعات بیشتر پروژه" [ref=e80] [cursor=pointer]:
+              - /url: /department/هاکی-روی-یخ/
+              - generic [ref=e81]:
+                - generic [ref=e82]: پیشگامان تجارت و توسعه پایدار
+                - generic [ref=e83]: مجری ساخت پیست یخ پروژه ایران مال
+                - generic [ref=e84]: اطلاعات بیشتر پروژه
+          - group "2 / 5" [ref=e85]:
+            - link "تولید سیلندر اتیلن اکساید تنها تولید کننده سیلندرهای اتیلن اکساید در ایران اطلاعات بیشتر" [ref=e88] [cursor=pointer]:
+              - /url: /department/سیلندر-نگهداری-گاز-اتیلن-اکساید/
+              - generic [ref=e89]:
+                - generic [ref=e90]: تولید سیلندر اتیلن اکساید
+                - generic [ref=e91]: تنها تولید کننده سیلندرهای اتیلن اکساید در ایران
+                - generic [ref=e92]: اطلاعات بیشتر
+          - group "3 / 5" [ref=e93]:
+            - link "تأمین الکتروموتور دپارتمان تأمین تجهیزات (بازرگانی) اطلاعات بیشتر" [ref=e96] [cursor=pointer]:
+              - /url: https://ptpgroup.ir/department/electric-motor-supply/
+              - generic [ref=e97]:
+                - generic [ref=e98]: تأمین الکتروموتور
+                - generic [ref=e99]: دپارتمان تأمین تجهیزات (بازرگانی)
+                - generic [ref=e100]: اطلاعات بیشتر
+          - group "4 / 5" [ref=e101]:
+            - link "پکیج های فرآوری آب (water treatment) دپارتمان ساخت و تولید اطلاعات بیشتر" [ref=e104] [cursor=pointer]:
+              - /url: /department/پکیج-های-فرآوری-آب/
+              - generic [ref=e105]:
+                - generic [ref=e106]: پکیج های فرآوری آب (water treatment)
+                - generic [ref=e107]: دپارتمان ساخت و تولید
+                - generic [ref=e108]: اطلاعات بیشتر
+          - group "5 / 5" [ref=e109]:
+            - link "پکیج های تبرید و سرمایش (Refrigeration Packages) دپارتمان ساخت و تولید اطلاعات بیشتر" [ref=e112] [cursor=pointer]:
+              - /url: /department/پکیج-های-تبرید-و-سرمایش-refrigeration-package/
+              - generic [ref=e113]:
+                - generic [ref=e114]: پکیج های تبرید و سرمایش (Refrigeration Packages)
+                - generic [ref=e115]: دپارتمان ساخت و تولید
+                - generic [ref=e116]: اطلاعات بیشتر
+          - group "1 / 5" [ref=e117]:
+            - link "پیشگامان تجارت و توسعه پایدار مجری ساخت پیست یخ پروژه ایران مال اطلاعات بیشتر پروژه" [ref=e120] [cursor=pointer]:
+              - /url: /department/هاکی-روی-یخ/
+              - generic [ref=e121]:
+                - generic [ref=e122]: پیشگامان تجارت و توسعه پایدار
+                - generic [ref=e123]: مجری ساخت پیست یخ پروژه ایران مال
+                - generic [ref=e124]: اطلاعات بیشتر پروژه
+          - group "2 / 5" [ref=e125]:
+            - link "تولید سیلندر اتیلن اکساید تنها تولید کننده سیلندرهای اتیلن اکساید در ایران اطلاعات بیشتر" [ref=e128] [cursor=pointer]:
+              - /url: /department/سیلندر-نگهداری-گاز-اتیلن-اکساید/
+              - generic [ref=e129]:
+                - generic [ref=e130]: تولید سیلندر اتیلن اکساید
+                - generic [ref=e131]: تنها تولید کننده سیلندرهای اتیلن اکساید در ایران
+                - generic [ref=e132]: اطلاعات بیشتر
+          - group "3 / 5" [ref=e133]:
+            - link "تأمین الکتروموتور دپارتمان تأمین تجهیزات (بازرگانی) اطلاعات بیشتر" [ref=e136] [cursor=pointer]:
+              - /url: https://ptpgroup.ir/department/electric-motor-supply/
+              - generic [ref=e137]:
+                - generic [ref=e138]: تأمین الکتروموتور
+                - generic [ref=e139]: دپارتمان تأمین تجهیزات (بازرگانی)
+                - generic [ref=e140]: اطلاعات بیشتر
+          - group "4 / 5" [ref=e141]:
+            - link "پکیج های فرآوری آب (water treatment) دپارتمان ساخت و تولید اطلاعات بیشتر" [ref=e144] [cursor=pointer]:
+              - /url: /department/پکیج-های-فرآوری-آب/
+              - generic [ref=e145]:
+                - generic [ref=e146]: پکیج های فرآوری آب (water treatment)
+                - generic [ref=e147]: دپارتمان ساخت و تولید
+                - generic [ref=e148]: اطلاعات بیشتر
+          - group "5 / 5" [ref=e149]:
+            - link "پکیج های تبرید و سرمایش (Refrigeration Packages) دپارتمان ساخت و تولید اطلاعات بیشتر" [ref=e152] [cursor=pointer]:
+              - /url: /department/پکیج-های-تبرید-و-سرمایش-refrigeration-package/
+              - generic [ref=e153]:
+                - generic [ref=e154]: پکیج های تبرید و سرمایش (Refrigeration Packages)
+                - generic [ref=e155]: دپارتمان ساخت و تولید
+                - generic [ref=e156]: اطلاعات بیشتر
+          - group "1 / 5" [ref=e157]:
+            - link "پیشگامان تجارت و توسعه پایدار مجری ساخت پیست یخ پروژه ایران مال اطلاعات بیشتر پروژه" [ref=e160] [cursor=pointer]:
+              - /url: /department/هاکی-روی-یخ/
+              - generic [ref=e161]:
+                - generic [ref=e162]: پیشگامان تجارت و توسعه پایدار
+                - generic [ref=e163]: مجری ساخت پیست یخ پروژه ایران مال
+                - generic [ref=e164]: اطلاعات بیشتر پروژه
+          - group "2 / 5" [ref=e165]:
+            - link "تولید سیلندر اتیلن اکساید تنها تولید کننده سیلندرهای اتیلن اکساید در ایران اطلاعات بیشتر" [ref=e168] [cursor=pointer]:
+              - /url: /department/سیلندر-نگهداری-گاز-اتیلن-اکساید/
+              - generic [ref=e169]:
+                - generic [ref=e170]: تولید سیلندر اتیلن اکساید
+                - generic [ref=e171]: تنها تولید کننده سیلندرهای اتیلن اکساید در ایران
+                - generic [ref=e172]: اطلاعات بیشتر
+          - group "3 / 5" [ref=e173]:
+            - link "تأمین الکتروموتور دپارتمان تأمین تجهیزات (بازرگانی) اطلاعات بیشتر" [ref=e176] [cursor=pointer]:
+              - /url: https://ptpgroup.ir/department/electric-motor-supply/
+              - generic [ref=e177]:
+                - generic [ref=e178]: تأمین الکتروموتور
+                - generic [ref=e179]: دپارتمان تأمین تجهیزات (بازرگانی)
+                - generic [ref=e180]: اطلاعات بیشتر
+          - group "4 / 5" [ref=e181]:
+            - link "پکیج های فرآوری آب (water treatment) دپارتمان ساخت و تولید اطلاعات بیشتر" [ref=e184] [cursor=pointer]:
+              - /url: /department/پکیج-های-فرآوری-آب/
+              - generic [ref=e185]:
+                - generic [ref=e186]: پکیج های فرآوری آب (water treatment)
+                - generic [ref=e187]: دپارتمان ساخت و تولید
+                - generic [ref=e188]: اطلاعات بیشتر
+          - group "5 / 5" [ref=e189]:
+            - link "پکیج های تبرید و سرمایش (Refrigeration Packages) دپارتمان ساخت و تولید اطلاعات بیشتر" [ref=e192] [cursor=pointer]:
+              - /url: /department/پکیج-های-تبرید-و-سرمایش-refrigeration-package/
+              - generic [ref=e193]:
+                - generic [ref=e194]: پکیج های تبرید و سرمایش (Refrigeration Packages)
+                - generic [ref=e195]: دپارتمان ساخت و تولید
+                - generic [ref=e196]: اطلاعات بیشتر
+        - button "Previous slide" [ref=e197] [cursor=pointer]
+        - button "Next slide" [ref=e200] [cursor=pointer]
+        - generic [ref=e203]:
+          - button "Go to slide 1" [ref=e204] [cursor=pointer]
+          - button "Go to slide 2" [ref=e205] [cursor=pointer]
+          - button "Go to slide 3" [ref=e206] [cursor=pointer]
+          - button "Go to slide 4" [ref=e207] [cursor=pointer]
+          - button "Go to slide 5" [ref=e208] [cursor=pointer]
+      - generic [ref=e210]:
+        - heading [level=2] [ref=e215]:
+          - link "ساخت و تولید" [ref=e216] [cursor=pointer]:
+            - /url: /departments/مهندسی-و-ساخت/
+        - heading [level=2] [ref=e221]:
+          - link "مهندسی و مشاوره فنی" [ref=e222] [cursor=pointer]:
+            - /url: /departments/مشاور-فنی-و-مهندسی/
+        - heading [level=2] [ref=e227]:
+          - link "اجرای پروژه ها" [ref=e228] [cursor=pointer]:
+            - /url: /departments/project-execution/
+      - generic [ref=e239]:
+        - button "قبلی" [ref=e240] [cursor=pointer]
+        - generic [ref=e244]:
+          - generic [ref=e248]:
+            - link [ref=e252] [cursor=pointer]:
+              - /url: https://ptpgroup.ir/%d9%88%d8%a8%d9%84%d8%a7%da%af/utilities-in-petroleum/
+            - generic [ref=e254]: "یوتیلیتی: قلب تپنده صنایع نفت، گاز و پتروشیمی"
+            - paragraph [ref=e261]: در حالی که تعمیرات اساسی اورهال یک توربین ممکن است هفته‌ها به طول انجامد، اختلال در تأمین یوتیلیتی – شامل […]
+          - generic [ref=e265]:
+            - link [ref=e269] [cursor=pointer]:
+              - /url: https://ptpgroup.ir/%d9%88%d8%a8%d9%84%d8%a7%da%af/factoryless-manufacturing2/
+            - generic [ref=e271]: مدل تولید بدون کارخانه ( تولید غیر متمرکز )
+            - paragraph [ref=e278]: بسیاری از کارآفرینان تصور می‌کنند برای شروع تولید، باید یک کارخانه با تمام امکانات راه‌اندازی کنند. آن‌ها نگران هزینه‌های سنگین […]
+          - generic [ref=e282]:
+            - link [ref=e286] [cursor=pointer]:
+              - /url: https://ptpgroup.ir/%d9%88%d8%a8%d9%84%d8%a7%da%af/the-importance-of-industrial-wastewater-treatment-and-water-treatment-packages/
+            - generic [ref=e288]: اهمیت تصفیه فاضلاب صنعتی و استفاده از پکیج تصفیه آب صنعتی
+            - paragraph [ref=e295]: اهمیت تصفیه فاضلاب صنعتی و استفاده از پکیج تصفیه آب صنعتی در هر کشور فقط یک موضوع زیست‌محیطی نیست، بلکه […]
+          - generic [ref=e299]:
+            - link [ref=e303] [cursor=pointer]:
+              - /url: https://ptpgroup.ir/%d9%88%d8%a8%d9%84%d8%a7%da%af/district-cooling-benefits-for-industry/
+            - generic [ref=e305]: سیستم خنک‌کننده منطقه‌ای (District Cooling) و تأثیر آن بر بهینه‌سازی مصرف انرژی
+            - paragraph [ref=e312]: در گذشته، نبود سیستم‌های یکپارچه خنک‌کننده منطقه‌ای موجب می‌شد که هر واحد صنعتی، برج مسکونی یا مجتمع تجاری برای سرمایش […]
+          - generic [ref=e316]:
+            - link [ref=e320] [cursor=pointer]:
+              - /url: https://ptpgroup.ir/%d9%88%d8%a8%d9%84%d8%a7%da%af/condition-monitoring-in-reciprocating-compressors/
+              - img "کاندیشن مانیتورینگ(پایش وضعیت) برای کمپرسورهای رفت و برگشتی به پیش‌بینی خرابی‌ها، افزایش عمر تجهیزات و جلوگیری از توقفات تولید کمک می‌کند." [ref=e321]
+            - generic [ref=e322]: کاندیشن مانیتورینگ کمپرسور های رفت و برگشتی
+            - paragraph [ref=e329]: در هر واحد صنعتی، تجهیزات و زیرساخت‌ قلب تپنده‌ی صنعت به حساب می آید. کاندیشن مانیتورینگ (پایش وضعیت) در کمپرسور […]
+          - generic [ref=e333]:
+            - link [ref=e337] [cursor=pointer]:
+              - /url: https://ptpgroup.ir/%d9%88%d8%a8%d9%84%d8%a7%da%af/gas-turbine-in-thermal-power-station/
+              - img "توربین‌های گازی در نیروگاه برق حرارتی یکی از مهم‌ترین تجهیزات زیرساختی صنعت برق به شمار می‌روند." [ref=e338]
+            - generic [ref=e339]: انواع توربینهای گازی در نیروگاه های برق حرارتی
+            - paragraph [ref=e346]: زیرساخت‌های اساسی (مانند نیروگاه برق حرارتی) هر کشور، ستون اصلی توسعه اقتصادی، امنیت ملی و تداوم فعالیت صنایع محسوب می‌شوند. […]
+          - generic [ref=e350]:
+            - link [ref=e354] [cursor=pointer]:
+              - /url: https://ptpgroup.ir/%d9%88%d8%a8%d9%84%d8%a7%da%af/ethylene-oxide-gas-in-pressure-vessels/
+              - img "تولیدکننده سیلندر اتیلن اکساید و مخازن تحت فشار در ایران. تضمین ایمنی با تست‌های مخرب و غیرمخرب؛ سیلندرهای بدون عیب و کاملاً قابل شارژ" [ref=e355]
+            - generic [ref=e356]: سیلندر اتیلن اکساید در سلامتی
+            - paragraph [ref=e363]: سلامت عمومی در دنیای امروز، به کیفیت تجهیزات پزشکی بستگی دارد. نمایشگاه CleanNZ نیوزیلند، نشان‌دهنده پیشرفت‌های جهانی در حوزه استریلیزاسیون […]
+          - generic [ref=e367]:
+            - link [ref=e371] [cursor=pointer]:
+              - /url: https://ptpgroup.ir/%d9%88%d8%a8%d9%84%d8%a7%da%af/ice-rink-in-sportec-japan/
+              - img "ما با تکیه بر دانش فنی و تجربه تخصصی، خدمات ساخت پیست یخ را از مرحله طراحی و مهندسی تا اجرا و راه‌اندازی ارائه می‌کنیم. علاوه بر ساخت پیست یخ استاندارد، اجرای اسپا برفی، دهکده برفی و سایر پروژه‌های سرمایشی نیز بخشی از خدمات ما است." [ref=e372]
+            - generic [ref=e373]: ساخت پیست یخ استاندارد، پلی به سوی آینده صنعت ورزش
+            - paragraph [ref=e380]: ساخت پیست یخ استاندارد به طراحی مهندسی، تجهیزات سرمایشی پیشرفته و کنترل دقیق دما نیاز دارد. رشته‌هایی مانند هاکی روی […]
+          - generic [ref=e384]:
+            - link [ref=e388] [cursor=pointer]:
+              - /url: https://ptpgroup.ir/%d9%88%d8%a8%d9%84%d8%a7%da%af/propane-and-propylene/
+            - generic [ref=e390]: پروپیلن، و نقش حیاتی پکیج تبرید در تولید آن
+            - paragraph [ref=e397]: در صنعت پتروشیمی پس از اتیلن، پروپیلن حیاتی‌ترین ماده اولیه جهان محسوب می‌شود. این ماده به عنوان یک «بلوک سازنده» […]
+          - generic [ref=e401]:
+            - link [ref=e405] [cursor=pointer]:
+              - /url: https://ptpgroup.ir/%d9%88%d8%a8%d9%84%d8%a7%da%af/hydrogen-is-a-pure-fuel-in-future/
+            - generic [ref=e407]: آیا هیدروژن کلید آینده هوای پاک است؟
+            - paragraph [ref=e414]: تصور کنید دنیایی را که هوایش همیشه تمیز و آسمانش آبیِ آبی است. در این دنیا، هیچ دودکش صنعتی‌ای آلودگی […]
+          - generic [ref=e418]:
+            - link [ref=e422] [cursor=pointer]:
+              - /url: https://ptpgroup.ir/%d9%88%d8%a8%d9%84%d8%a7%da%af/utilities-in-petroleum/
+            - generic [ref=e424]: "یوتیلیتی: قلب تپنده صنایع نفت، گاز و پتروشیمی"
+            - paragraph [ref=e431]: در حالی که تعمیرات اساسی اورهال یک توربین ممکن است هفته‌ها به طول انجامد، اختلال در تأمین یوتیلیتی – شامل […]
+          - generic [ref=e435]:
+            - link [ref=e439] [cursor=pointer]:
+              - /url: https://ptpgroup.ir/%d9%88%d8%a8%d9%84%d8%a7%da%af/factoryless-manufacturing2/
+            - generic [ref=e441]: مدل تولید بدون کارخانه ( تولید غیر متمرکز )
+            - paragraph [ref=e448]: بسیاری از کارآفرینان تصور می‌کنند برای شروع تولید، باید یک کارخانه با تمام امکانات راه‌اندازی کنند. آن‌ها نگران هزینه‌های سنگین […]
+          - generic [ref=e452]:
+            - link [ref=e456] [cursor=pointer]:
+              - /url: https://ptpgroup.ir/%d9%88%d8%a8%d9%84%d8%a7%da%af/the-importance-of-industrial-wastewater-treatment-and-water-treatment-packages/
+            - generic [ref=e458]: اهمیت تصفیه فاضلاب صنعتی و استفاده از پکیج تصفیه آب صنعتی
+            - paragraph [ref=e465]: اهمیت تصفیه فاضلاب صنعتی و استفاده از پکیج تصفیه آب صنعتی در هر کشور فقط یک موضوع زیست‌محیطی نیست، بلکه […]
+          - generic [ref=e469]:
+            - link [ref=e473] [cursor=pointer]:
+              - /url: https://ptpgroup.ir/%d9%88%d8%a8%d9%84%d8%a7%da%af/district-cooling-benefits-for-industry/
+            - generic [ref=e475]: سیستم خنک‌کننده منطقه‌ای (District Cooling) و تأثیر آن بر بهینه‌سازی مصرف انرژی
+            - paragraph [ref=e482]: در گذشته، نبود سیستم‌های یکپارچه خنک‌کننده منطقه‌ای موجب می‌شد که هر واحد صنعتی، برج مسکونی یا مجتمع تجاری برای سرمایش […]
+          - generic [ref=e486]:
+            - link [ref=e490] [cursor=pointer]:
+              - /url: https://ptpgroup.ir/%d9%88%d8%a8%d9%84%d8%a7%da%af/condition-monitoring-in-reciprocating-compressors/
+            - generic [ref=e492]: کاندیشن مانیتورینگ کمپرسور های رفت و برگشتی
+            - paragraph [ref=e499]: در هر واحد صنعتی، تجهیزات و زیرساخت‌ قلب تپنده‌ی صنعت به حساب می آید. کاندیشن مانیتورینگ (پایش وضعیت) در کمپرسور […]
+          - generic [ref=e503]:
+            - link [ref=e507] [cursor=pointer]:
+              - /url: https://ptpgroup.ir/%d9%88%d8%a8%d9%84%d8%a7%da%af/gas-turbine-in-thermal-power-station/
+            - generic [ref=e509]: انواع توربینهای گازی در نیروگاه های برق حرارتی
+            - paragraph [ref=e516]: زیرساخت‌های اساسی (مانند نیروگاه برق حرارتی) هر کشور، ستون اصلی توسعه اقتصادی، امنیت ملی و تداوم فعالیت صنایع محسوب می‌شوند. […]
+          - generic [ref=e520]:
+            - link [ref=e524] [cursor=pointer]:
+              - /url: https://ptpgroup.ir/%d9%88%d8%a8%d9%84%d8%a7%da%af/ethylene-oxide-gas-in-pressure-vessels/
+            - generic [ref=e526]: سیلندر اتیلن اکساید در سلامتی
+            - paragraph [ref=e533]: سلامت عمومی در دنیای امروز، به کیفیت تجهیزات پزشکی بستگی دارد. نمایشگاه CleanNZ نیوزیلند، نشان‌دهنده پیشرفت‌های جهانی در حوزه استریلیزاسیون […]
+          - generic [ref=e537]:
+            - link [ref=e541] [cursor=pointer]:
+              - /url: https://ptpgroup.ir/%d9%88%d8%a8%d9%84%d8%a7%da%af/ice-rink-in-sportec-japan/
+            - generic [ref=e543]: ساخت پیست یخ استاندارد، پلی به سوی آینده صنعت ورزش
+            - paragraph [ref=e550]: ساخت پیست یخ استاندارد به طراحی مهندسی، تجهیزات سرمایشی پیشرفته و کنترل دقیق دما نیاز دارد. رشته‌هایی مانند هاکی روی […]
+          - generic [ref=e554]:
+            - link [ref=e558] [cursor=pointer]:
+              - /url: https://ptpgroup.ir/%d9%88%d8%a8%d9%84%d8%a7%da%af/propane-and-propylene/
+            - generic [ref=e560]: پروپیلن، و نقش حیاتی پکیج تبرید در تولید آن
+            - paragraph [ref=e567]: در صنعت پتروشیمی پس از اتیلن، پروپیلن حیاتی‌ترین ماده اولیه جهان محسوب می‌شود. این ماده به عنوان یک «بلوک سازنده» […]
+          - generic [ref=e571]:
+            - link [ref=e575] [cursor=pointer]:
+              - /url: https://ptpgroup.ir/%d9%88%d8%a8%d9%84%d8%a7%da%af/hydrogen-is-a-pure-fuel-in-future/
+            - generic [ref=e577]: آیا هیدروژن کلید آینده هوای پاک است؟
+            - paragraph [ref=e584]: تصور کنید دنیایی را که هوایش همیشه تمیز و آسمانش آبیِ آبی است. در این دنیا، هیچ دودکش صنعتی‌ای آلودگی […]
+          - generic [ref=e588]:
+            - link [ref=e592] [cursor=pointer]:
+              - /url: https://ptpgroup.ir/%d9%88%d8%a8%d9%84%d8%a7%da%af/utilities-in-petroleum/
+            - generic [ref=e594]: "یوتیلیتی: قلب تپنده صنایع نفت، گاز و پتروشیمی"
+            - paragraph [ref=e601]: در حالی که تعمیرات اساسی اورهال یک توربین ممکن است هفته‌ها به طول انجامد، اختلال در تأمین یوتیلیتی – شامل […]
+          - generic [ref=e605]:
+            - link [ref=e609] [cursor=pointer]:
+              - /url: https://ptpgroup.ir/%d9%88%d8%a8%d9%84%d8%a7%da%af/factoryless-manufacturing2/
+            - generic [ref=e611]: مدل تولید بدون کارخانه ( تولید غیر متمرکز )
+            - paragraph [ref=e618]: بسیاری از کارآفرینان تصور می‌کنند برای شروع تولید، باید یک کارخانه با تمام امکانات راه‌اندازی کنند. آن‌ها نگران هزینه‌های سنگین […]
+          - generic [ref=e622]:
+            - link [ref=e626] [cursor=pointer]:
+              - /url: https://ptpgroup.ir/%d9%88%d8%a8%d9%84%d8%a7%da%af/the-importance-of-industrial-wastewater-treatment-and-water-treatment-packages/
+            - generic [ref=e628]: اهمیت تصفیه فاضلاب صنعتی و استفاده از پکیج تصفیه آب صنعتی
+            - paragraph [ref=e635]: اهمیت تصفیه فاضلاب صنعتی و استفاده از پکیج تصفیه آب صنعتی در هر کشور فقط یک موضوع زیست‌محیطی نیست، بلکه […]
+          - generic [ref=e639]:
+            - link [ref=e643] [cursor=pointer]:
+              - /url: https://ptpgroup.ir/%d9%88%d8%a8%d9%84%d8%a7%da%af/district-cooling-benefits-for-industry/
+            - generic [ref=e645]: سیستم خنک‌کننده منطقه‌ای (District Cooling) و تأثیر آن بر بهینه‌سازی مصرف انرژی
+            - paragraph [ref=e652]: در گذشته، نبود سیستم‌های یکپارچه خنک‌کننده منطقه‌ای موجب می‌شد که هر واحد صنعتی، برج مسکونی یا مجتمع تجاری برای سرمایش […]
+          - generic [ref=e656]:
+            - link [ref=e660] [cursor=pointer]:
+              - /url: https://ptpgroup.ir/%d9%88%d8%a8%d9%84%d8%a7%da%af/condition-monitoring-in-reciprocating-compressors/
+            - generic [ref=e662]: کاندیشن مانیتورینگ کمپرسور های رفت و برگشتی
+            - paragraph [ref=e669]: در هر واحد صنعتی، تجهیزات و زیرساخت‌ قلب تپنده‌ی صنعت به حساب می آید. کاندیشن مانیتورینگ (پایش وضعیت) در کمپرسور […]
+        - button "بعدی" [ref=e670] [cursor=pointer]
+      - generic [ref=e675]:
+        - heading [level=2] [ref=e678]:
+          - link "همکاران ما" [ref=e679] [cursor=pointer]:
+            - /url: /partner/
+        - region "کاروسل تصویر" [ref=e682]:
+          - generic [ref=e683]:
+            - group [ref=e684]:
+              - figure [ref=e685]
+            - group [ref=e687]:
+              - figure [ref=e688]
+            - group [ref=e690]:
+              - figure [ref=e691]
+            - group [ref=e693]:
+              - figure [ref=e694]
+            - group [ref=e696]:
+              - figure [ref=e697]
+            - group [ref=e918]:
+              - figure [ref=e700]
+            - group [ref=e920]:
+              - figure [ref=e703]
+            - group [ref=e922]:
+              - figure [ref=e706]
+            - group [ref=e924]:
+              - figure [ref=e709]
+            - group [ref=e926]:
+              - figure [ref=e712]
+            - group "6 / 15" [ref=e928]:
+              - figure [ref=e715]:
+                - img "سها-removebg-preview" [ref=e929]
+            - group "7 / 15" [ref=e930]:
+              - figure [ref=e718]:
+                - img "download__1_-removebg-preview" [ref=e931]
+            - group "8 / 15" [ref=e932]:
+              - figure [ref=e721]:
+                - img "_48405286432685516207main-removebg-preview" [ref=e933]
+            - group "9 / 15" [ref=e934]:
+              - figure [ref=e724]:
+                - img "Logo-removebg-preview" [ref=e935]
+            - group "10 / 15" [ref=e936]:
+              - figure [ref=e727]:
+                - img "Esfahan-Steel-Company-removebg-preview" [ref=e937]
+            - group [ref=e729]:
+              - figure [ref=e730]
+            - group [ref=e732]:
+              - figure [ref=e733]
+            - group [ref=e735]:
+              - figure [ref=e736]
+            - group [ref=e738]:
+              - figure [ref=e739]
+            - group [ref=e741]:
+              - figure [ref=e742]
+            - group [ref=e744]:
+              - figure [ref=e745]
+            - group [ref=e747]:
+              - figure [ref=e748]
+            - group [ref=e750]:
+              - figure [ref=e751]
+            - group [ref=e753]:
+              - figure [ref=e754]
+            - group [ref=e756]:
+              - figure [ref=e757]
+          - button "اسلاید قبلی" [ref=e759] [cursor=pointer]
+          - button "اسلاید بعدی" [ref=e762] [cursor=pointer]
+          - generic [ref=e765]:
+            - button "رفتن به اسلاید 1" [ref=e766] [cursor=pointer]
+            - button "رفتن به اسلاید 2" [ref=e767] [cursor=pointer]
+            - button "رفتن به اسلاید 3" [ref=e768] [cursor=pointer]
+    - contentinfo [ref=e770]:
+      - generic [ref=e771]:
+        - generic [ref=e773]:
+          - generic [ref=e775]:
+            - img "ptpgroup"
+          - heading "تهران ،سهروردی شمالی، کوچه کورش، پلاک ۳۴، طبقه سوم" [level=3] [ref=e780]
+          - list [ref=e783]:
+            - listitem [ref=e784]:
+              - link "Facebook-f" [ref=e785] [cursor=pointer]:
+                - /url: https://www.facebook.com/ptpgroupir.ptpgroupir/
+            - listitem [ref=e789]:
+              - link "Linkedin" [ref=e790] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/ptpgroupir/
+            - listitem [ref=e794]:
+              - link "Instagram" [ref=e795] [cursor=pointer]:
+                - /url: https://www.instagram.com/ptpgroupir/
+            - listitem [ref=e799]:
+              - link [ref=e800] [cursor=pointer]:
+                - /url: https://www.aparat.com/ptpgroup.ir
+          - heading [level=3] [ref=e820]:
+            - link "02188546466" [ref=e821] [cursor=pointer]:
+              - /url: tel://+982188546466
+          - heading [level=3] [ref=e826]:
+            - link "02188546467" [ref=e827] [cursor=pointer]:
+              - /url: tel://+982188546467
+          - heading [level=3] [ref=e832]:
+            - link "info@ptpgroup.ir" [ref=e833] [cursor=pointer]:
+              - /url: mailto:info@ptpgroup.ir
+        - generic [ref=e834]:
+          - heading "دپارتمان ها" [level=2] [ref=e837]
+          - list [ref=e840]:
+            - listitem [ref=e841]:
+              - link "پکیج های فرآوری آب" [ref=e842] [cursor=pointer]:
+                - /url: /department/پکیج-های-فرآوری-آب/
+            - listitem [ref=e844]:
+              - link "کاندیشن مانیتورینگ" [ref=e845] [cursor=pointer]:
+                - /url: /department/کاندیشن-مانیتورینگ-و-پایش-وضعیت/
+            - listitem [ref=e847]:
+              - link "هاکی روی یخ" [ref=e848] [cursor=pointer]:
+                - /url: /department/هاکی-روی-یخ/
+            - listitem [ref=e850]:
+              - link "پکیج های تبرید و سرمایش" [ref=e851] [cursor=pointer]:
+                - /url: /department/پکیج-های-تبرید-و-سرمایش-refrigeration-package/
+            - listitem [ref=e853]:
+              - link "سیلندر نگهداری گاز اتیلن اکساید" [ref=e854] [cursor=pointer]:
+                - /url: /department/سیلندر-نگهداری-گاز-اتیلن-اکساید/
+        - generic [ref=e856]:
+          - heading "شرکای تجاری" [level=2] [ref=e859]
+          - list [ref=e862]:
+            - listitem [ref=e863]:
+              - link "Hycor" [ref=e864] [cursor=pointer]:
+                - /url: /partner/hycor/
+            - listitem [ref=e866]:
+              - link "Ice business" [ref=e867] [cursor=pointer]:
+                - /url: /partner/ice-business/
+            - listitem [ref=e869]:
+              - link "IBS" [ref=e870] [cursor=pointer]:
+                - /url: /partner/ibs/
+            - listitem [ref=e872]:
+              - link "Cool Tech" [ref=e873] [cursor=pointer]:
+                - /url: /partner/cool-tech/
+            - listitem [ref=e875]:
+              - link "Alcan Machine" [ref=e876] [cursor=pointer]:
+                - /url: /partner/alcan-machine/
+            - listitem [ref=e878]:
+              - link "Hidayath Group" [ref=e879] [cursor=pointer]:
+                - /url: /partner/hidayath-group/
+            - listitem [ref=e881]:
+              - link "Naskco" [ref=e882] [cursor=pointer]:
+                - /url: /partner/naskco/
+        - generic [ref=e884]:
+          - heading "دسترسی سریع" [level=2] [ref=e887]
+          - list [ref=e890]:
+            - listitem [ref=e891]:
+              - link "صفحه اصلی" [ref=e892] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e894]:
+              - link "درباره ما" [ref=e895] [cursor=pointer]:
+                - /url: /درباره-ما/
+            - listitem [ref=e897]:
+              - link "مقالات" [ref=e898] [cursor=pointer]:
+                - /url: /وبلاگ/
+            - listitem [ref=e900]:
+              - link "خدمات" [ref=e901] [cursor=pointer]:
+                - /url: /department/
+            - listitem [ref=e903]:
+              - link "تماس با ما" [ref=e904] [cursor=pointer]:
+                - /url: /تماس-با-ما/
+  - generic [ref=e907]: desktop
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - link "Phone":
+              - /url: tel:+989122052848
+          - generic:
+            - link "Whatsapp":
+              - /url: https://web.whatsapp.com/send?phone=989122052848&text=
+        - button "Open chaty" [ref=e911] [cursor=pointer]
+```

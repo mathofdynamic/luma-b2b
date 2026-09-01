@@ -1,0 +1,6 @@
+### Browser `luma-b2b-ir-teh-5689abe5d5d82e86-attempt-1` opened with pid 48974.
+### Error
+Error: net::ERR_CONNECTION_CLOSED at https://api.whatsapp.com/send?text=avval.ir/profile/c184c/%D8%A8%D9%87%D8%B3%D8%A7%D8%B2%D9%BE%DA%A9-%D8%AC%D9%88%D8%A7%D8%AF%DB%8C
+Call log:
+[2m  - navigating to "https://api.whatsapp.com/send?text=avval.ir/profile/c184c/%D8%A8%D9%87%D8%B3%D8%A7%D8%B2%D9%BE%DA%A9-%D8%AC%D9%88%D8%A7%D8%AF%DB%8C", waiting until "domcontentloaded"[22m
+

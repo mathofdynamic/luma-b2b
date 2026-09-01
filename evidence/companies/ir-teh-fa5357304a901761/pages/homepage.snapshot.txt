@@ -1,0 +1,196 @@
+### Page
+- Page URL: https://opal.ir/
+- Page Title: وب اپلیکیشن اوپال
+- Console: 7 errors, 0 warnings
+### Snapshot
+```yaml
+- main [ref=e3]:
+  - button [ref=e7] [cursor=pointer]
+  - generic [ref=e16]:
+    - generic [ref=e18]:
+      - link [ref=e21] [cursor=pointer]:
+        - /url: https://opal.ir/
+      - generic [ref=e23]:
+        - button [ref=e26] [cursor=pointer]
+        - button [ref=e31] [cursor=pointer]
+    - main [ref=e35]:
+      - generic:
+        - separator [ref=e37]
+        - generic [ref=e39]:
+          - generic [ref=e41]:
+            - button "خانه" [ref=e42] [cursor=pointer]
+            - button "اوپال‌کلاب" [ref=e46] [cursor=pointer]
+            - button "تخفیف‌ها 7" [ref=e51] [cursor=pointer]:
+              - generic [ref=e55]:
+                - text: تخفیف‌ها
+                - generic [ref=e56]: "7"
+            - button "درباره ما درباره ما" [ref=e58] [cursor=pointer]:
+              - img "درباره ما" [ref=e60]
+              - generic [ref=e61]: درباره ما
+          - generic [ref=e66]:
+            - generic [ref=e68]:
+              - link "پزشکی اوپال مِد اوپال مِد" [ref=e69] [cursor=pointer]:
+                - /url: https://opalmed.opal.ir/
+                - generic [ref=e73]:
+                  - generic [ref=e74]: پزشکی
+                  - generic [ref=e76]:
+                    - img "اوپال مِد"
+                    - paragraph [ref=e78]: اوپال مِد
+              - link "دندانپزشکی اوپال دِنت اوپال دِنت" [ref=e79] [cursor=pointer]:
+                - /url: https://opaldent.opal.ir/
+                - generic [ref=e83]:
+                  - generic [ref=e84]: دندانپزشکی
+                  - generic [ref=e86]:
+                    - img "اوپال دِنت"
+                    - paragraph [ref=e88]: اوپال دِنت
+              - link [ref=e89] [cursor=pointer]:
+                - /url: https://opalbeauty.opal.ir/
+                - generic [ref=e94]:
+                  - img "اوپال بیوتی"
+                  - paragraph [ref=e96]: اوپال بیوتی
+              - link [ref=e97] [cursor=pointer]:
+                - /url: https://opalpet.opal.ir/
+                - generic [ref=e102]:
+                  - img "اوپال پت"
+                  - paragraph [ref=e104]: اوپال پت
+            - generic [ref=e105]:
+              - generic [ref=e106]: به اوپال خوش آمدید
+              - generic [ref=e107]: پلتفرم تخصصی حوزه سلامت
+              - generic [ref=e108]:
+                - generic [ref=e109]: OPAL.IR
+                - generic [ref=e110]: "|"
+                - generic [ref=e111]: ۱۱:۴۷:۳۰
+                - generic [ref=e112]: "|"
+                - generic [ref=e113]: ۱۴۰۵ شهریور ۱۰, سه‌شنبه
+            - link [ref=e119] [cursor=pointer]:
+              - /url: http://opalmed.opal.ir
+              - img "دستکش" [ref=e120]
+            - generic [ref=e121]:
+              - paragraph [ref=e127]: همراه با اوپال
+              - generic [ref=e128]:
+                - link [ref=e129] [cursor=pointer]:
+                  - /url: https://opalbeauty.opal.ir/
+                - link [ref=e134] [cursor=pointer]:
+                  - /url: https://opalpet.opal.ir/
+                - link [ref=e139] [cursor=pointer]:
+                  - /url: https://opalmed.opal.ir/
+            - generic [ref=e144]:
+              - paragraph [ref=e150]: اوپال پت
+              - generic [ref=e151]:
+                - generic [ref=e156] [cursor=pointer]:
+                  - paragraph [ref=e159]: انواع غذای خشک
+                  - button "خرید" [ref=e161]
+                - generic [ref=e167] [cursor=pointer]:
+                  - paragraph [ref=e170]: دامپزشکی ها
+                  - button "مشاهده" [ref=e172]
+            - generic [ref=e174]:
+              - paragraph [ref=e180]: اوپال بیوتی
+              - generic [ref=e181]:
+                - generic [ref=e186] [cursor=pointer]:
+                  - paragraph [ref=e189]: انواع رژ
+                  - button "خرید" [ref=e191]
+                - generic [ref=e197] [cursor=pointer]:
+                  - paragraph [ref=e200]: مراقبت از پوست
+                  - button "مشاهده" [ref=e202]
+            - generic [ref=e204]:
+              - paragraph [ref=e210]: راهنمای اوپال
+              - generic [ref=e216] [cursor=pointer]:
+                - paragraph [ref=e219]: پشتیبانی
+                - link "تماس" [ref=e221]:
+                  - /url: "#"
+            - generic [ref=e223]:
+              - button "به بالا بروید" [ref=e225] [cursor=pointer]
+              - paragraph [ref=e230]: اوپال پاسخگوی تمام نیاز های سلامت شما
+              - generic [ref=e232]:
+                - generic [ref=e233]:
+                  - link [ref=e234] [cursor=pointer]:
+                    - /url: https://opal.ir
+                    - img "اوپال" [ref=e235]
+                  - heading "دانلود اپلیکیشن اوپال" [level=2] [ref=e236]
+                - generic [ref=e237]:
+                  - link "بازار بازار" [ref=e239] [cursor=pointer]:
+                    - /url: http://cafebazaar.ir/app/?id=ir.opal&ref=share
+                    - img "بازار" [ref=e241]
+                    - generic [ref=e242]: بازار
+                  - link "مایکت مایکت" [ref=e244] [cursor=pointer]:
+                    - /url: "https://myket.ir/app/ir.opal\n"
+                    - img "مایکت" [ref=e246]
+                    - generic [ref=e247]: مایکت
+                  - link "دریافت مستقیم دریافت مستقیم" [ref=e249] [cursor=pointer]:
+                    - /url: https://opal.ir/downloads/opal.apk
+                    - img "دریافت مستقیم" [ref=e251]
+                    - generic [ref=e252]: دریافت مستقیم
+                  - link "گوگل پلی گوگل پلی" [ref=e254] [cursor=pointer]:
+                    - /url: https://play.google.com/store/apps/details?id=ir.opal
+                    - img "گوگل پلی" [ref=e256]
+                    - generic [ref=e257]: گوگل پلی
+              - generic [ref=e259]:
+                - generic [ref=e260]:
+                  - generic [ref=e261]:
+                    - heading "درباره اوپال" [level=4] [ref=e262]
+                    - paragraph [ref=e263]: گروه شرکت های اوپال فعال در حوزه تخصصی بهداشت و سلامت از تامین کالا و تجهیزات تخصصی پزشکی و دندانپزشکی تا سامانه های رزرواسیون و مشاوره های پزشکی سالهاست در خدمت مردم عزیز میباشد
+                    - link "→ بیشتر درباره ما" [ref=e264] [cursor=pointer]:
+                      - /url: https://opal.ir/about-us
+                    - link "→ سیاست‌های حریم خصوصی" [ref=e265] [cursor=pointer]:
+                      - /url: https://opal.ir/https://opal.ir/%d8%b3%db%8c%d8%a7%d8%b3%d8%aa-%d8%ad%d9%81%d8%b8-%d8%ad%d8%b1%db%8c%d9%85-%d8%ae%d8%b5%d9%88%d8%b5%db%8c/
+                  - generic [ref=e266]:
+                    - heading "اطلاعات تماس" [level=4] [ref=e267]
+                    - generic [ref=e268]:
+                      - paragraph [ref=e269]:
+                        - text: 📞
+                        - strong [ref=e270]: "تلفن:"
+                        - text: "02191090017"
+                      - paragraph [ref=e271]:
+                        - text: 📱
+                        - strong [ref=e272]: "همراه:"
+                        - text: "09100012124"
+                      - paragraph [ref=e273]:
+                        - text: 📧
+                        - strong [ref=e274]: "ایمیل:"
+                        - text: info@opal.ir
+                      - paragraph [ref=e275]:
+                        - text: 📍
+                        - strong [ref=e276]: "آدرس:"
+                        - text: تهران، خیابان آزادی روبروی خیابان قریب پارک علم و فناوری دانشگاه آزاد طبقه اول شرکت اوپال
+                      - iframe [ref=e278]:
+                        - link "Open in Maps (opens in new tab)" [ref=f1e4] [cursor=pointer]:
+                          - /url: about:invalid#zClosurez
+                          - text: Open in Maps
+                  - generic [ref=e279]:
+                    - heading "شبکه‌های اجتماعی" [level=4] [ref=e280]
+                    - generic [ref=e281]:
+                      - link "اینستاگرام" [ref=e282] [cursor=pointer]:
+                        - /url: https://instagram.com/0pal.ir
+                      - link "تلگرام" [ref=e283] [cursor=pointer]:
+                        - /url: https://t.me/opal_ir24
+                      - link "واتس‌اپ" [ref=e284] [cursor=pointer]:
+                        - /url: https://wa.me/+98 910 001 2124
+                - generic [ref=e285]:
+                  - heading "گواهی‌ها و نمادهای اعتماد" [level=4] [ref=e286]
+                  - generic [ref=e287]:
+                    - link [ref=e289] [cursor=pointer]:
+                      - /url: https://trustseal.enamad.ir/?id=673671&Code=B5DOYg9oXbszY8mShLo05Fh24IZ7hTXE
+                      - img "نماد اعتماد الکترونیکی" [ref=e290]
+                    - link [ref=e292] [cursor=pointer]:
+                      - /url: https://report.imed.ir/Additionals/GuildDetails.aspx?id=B7Pi5j8iCag%3d
+                      - img "آیمد" [ref=e293]
+                    - link [ref=e295] [cursor=pointer]:
+                      - /url: https://opalmed.opal.ir/shop-resources/podgVmLf3p/pages/2025/11/17/new-doc-2025-11-15-145521_1.jpg
+                      - img "جواز کسب" [ref=e296]
+                  - generic [ref=e297]:
+                    - link [ref=e299] [cursor=pointer]:
+                      - /url: https://opalmed.opal.ir/shop-resources/podgVmLf3p/pages/2025/11/17/new-doc-2025-11-15-145521_1.jpg
+                      - img "کسب و کارهای مجازی" [ref=e300]
+                    - link [ref=e302] [cursor=pointer]:
+                      - /url: https://report.imed.ir/Additionals/GuildDetails.aspx?id=B7Pi5j8iCag%3d
+                      - img "ساماندهی" [ref=e303]
+                    - link [ref=e305] [cursor=pointer]:
+                      - /url: https://opalmed.opal.ir/shop-resources/podgVmLf3p/pages/2025/11/17/new-doc-2025-11-15-145521_1.jpg
+                      - img "انجمن صنفی کسب و کارهای اینترنتی" [ref=e306]
+                - paragraph [ref=e308]:
+                  - text: © 2026 تمامی حقوق برای
+                  - strong [ref=e309]: شرکت گروه کسب و کارهای اوپال
+                  - text: محفوظ است
+```
+### Events
+- New console entries: .playwright-cli/console-2026-09-01T08-17-24-318Z.log#L10

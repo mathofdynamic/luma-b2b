@@ -1,0 +1,127 @@
+{
+  "company_id": "ir-teh-4bb48d22607d20cf",
+  "errors": [],
+  "generated_at": "2026-09-01T08:13:03Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [
+    {
+      "bytes": 4089575,
+      "captured_at": "2026-09-01T08:13:01Z",
+      "company_id": "ir-teh-4bb48d22607d20cf",
+      "headless": true,
+      "page_title": "فولاد خوش تراش - فولاد اتومات | شرکت فولاد پایتخت",
+      "path": "companies/ir-teh-4bb48d22607d20cf/screenshots/homepage.png",
+      "reason_this_matters": "Public company homepage is the primary visual evidence surface.",
+      "screenshot_type": "homepage",
+      "source_url": "https://fooladpaytakht.com/"
+    }
+  ],
+  "sources": [
+    {
+      "discovered_at": "2026-09-01T06:32:12Z",
+      "discovery_reason": "Book-e Avval category: آلیاژ فولادی",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "فولاد پایتخت فعالیت خود را از سال 1380 آغاز نموده و افتخار این را دارد تا در زمینه تهیه و توزیع مواد اولیه کارخانجات صنعتی و انواع شرکت های تولید قطعات خودرو از قبیل ایرا",
+      "source_quality": "directory",
+      "source_title": "آلیاژ فولادی در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D8%A2%D9%84%DB%8C%D8%A7%DA%98%20%D9%81%D9%88%D9%84%D8%A7%D8%AF%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "discovered_at": "2026-09-01T06:32:13Z",
+      "discovery_reason": "Book-e Avval category: قطعات فولادی",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "فولاد پایتخت فعالیت خود را از سال 1380 آغاز نموده و افتخار این را دارد تا در زمینه تهیه و توزیع مواد اولیه کارخانجات صنعتی و انواع شرکت های تولید قطعات خودرو از قبیل ایرا",
+      "source_quality": "directory",
+      "source_title": "قطعات فولادی در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA%20%D9%81%D9%88%D9%84%D8%A7%D8%AF%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:32:12Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-8932544cd4e315c7",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "فولاد پایتخت فعالیت خود را از سال 1380 آغاز نموده و افتخار این را دارد تا در زمینه تهیه و توزیع مواد اولیه کارخانجات صنعتی و انواع شرکت های تولید قطعات خودرو از قبیل ایرا",
+      "source_quality": "directory",
+      "source_title": "آلیاژ فولادی در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D8%A2%D9%84%DB%8C%D8%A7%DA%98%20%D9%81%D9%88%D9%84%D8%A7%D8%AF%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:32:13Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-618a9b0d82d42aab",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "فولاد پایتخت فعالیت خود را از سال 1380 آغاز نموده و افتخار این را دارد تا در زمینه تهیه و توزیع مواد اولیه کارخانجات صنعتی و انواع شرکت های تولید قطعات خودرو از قبیل ایرا",
+      "source_quality": "directory",
+      "source_title": "قطعات فولادی در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA%20%D9%81%D9%88%D9%84%D8%A7%D8%AF%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:53Z",
+      "claim": "Directory profile lists فروشگاه فولاد پایتخت with a public Tehran business listing.",
+      "confidence": 0.82,
+      "evidence_id": "ev-a44a5a8e71f430b4",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "فروشگاه فولاد پایتخت - آلیاژ فولادی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس فروشگاه فولاد پایتخت 2.5 (1 نظر) فولاد پایتخت عرضه کننده انواع فولادهای خوش تراش اتومات وسی کا 45 و ترانسمیسیون و کشش آهن آلیاژ فولادی قطعات فولادی فروش آهن تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل آلیاژ فولادی تهران محله هفده شهریور اطلاعات تماس آدرس : تهران، منطقه 18، محله هفده شهریور، شادآباد، بازارآهن، خیاب",
+      "source_quality": "directory",
+      "source_title": "فروشگاه فولاد پایتخت - آلیاژ فولادی | کتاب اول",
+      "source_url": "https://avval.ir/profile/4cd1d/%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87-%D9%81%D9%88%D9%84%D8%A7%D8%AF-%D9%BE%D8%A7%DB%8C%D8%AA%D8%AE%D8%AA"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:55Z",
+      "claim": "Public website signal: catalog_or_products",
+      "confidence": 0.86,
+      "evidence_id": "ev-7be1e85ac9bb52f1",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "محصولات; محصول | فولاد خوش تراش - فولاد اتومات | شرکت فولاد پایتخت فولاد پایتخت برترین شرکت سازه های فولادی 02166674477 02166674008 info@fooladpaytakht.com خانه خدمات فولاد خوش تراش میلگرد اتومات فولاد اتومات مقالات تماس با ما درباره ما فولاد خوش تراش تخصص ماست فولاد پایتخت فعالیت خود را از سال 1375 به طور رسمی آغاز نموده است. این شرکت در زمینه واردات و توزیع فولاد خوش تراش (اتومات) شروع به کار کرد. و در حال حاضر با بیش از 25 سال ساب",
+      "signal": "catalog_or_products",
+      "source_quality": "company_site",
+      "source_title": "فولاد خوش تراش - فولاد اتومات | شرکت فولاد پایتخت",
+      "source_url": "https://fooladpaytakht.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:55Z",
+      "claim": "Public website signal: order_or_contact_form",
+      "confidence": 0.72,
+      "evidence_id": "ev-7de08d6cf090e807",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "تماس با ما | فولاد خوش تراش - فولاد اتومات | شرکت فولاد پایتخت فولاد پایتخت برترین شرکت سازه های فولادی 02166674477 02166674008 info@fooladpaytakht.com خانه خدمات فولاد خوش تراش میلگرد اتومات فولاد اتومات مقالات تماس با ما درباره ما فولاد خوش تراش تخصص ماست فولاد پایتخت فعالیت خود را از سال 1375 به طور رسمی آغاز نموده است. این شرکت در زمینه واردات و توزیع فولاد خوش تراش (اتومات) شروع به کار کرد. و در حال حاضر با بیش از 25 سال ساب",
+      "signal": "order_or_contact_form",
+      "source_quality": "company_site",
+      "source_title": "فولاد خوش تراش - فولاد اتومات | شرکت فولاد پایتخت",
+      "source_url": "https://fooladpaytakht.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:55Z",
+      "claim": "Public website signal: certifications",
+      "confidence": 0.72,
+      "evidence_id": "ev-4114045876a8797f",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "استاندارد | فولاد خوش تراش - فولاد اتومات | شرکت فولاد پایتخت فولاد پایتخت برترین شرکت سازه های فولادی 02166674477 02166674008 info@fooladpaytakht.com خانه خدمات فولاد خوش تراش میلگرد اتومات فولاد اتومات مقالات تماس با ما درباره ما فولاد خوش تراش تخصص ماست فولاد پایتخت فعالیت خود را از سال 1375 به طور رسمی آغاز نموده است. این شرکت در زمینه واردات و توزیع فولاد خوش تراش (اتومات) شروع به کار کرد. و در حال حاضر با بیش از 25 سال ساب",
+      "signal": "certifications",
+      "source_quality": "company_site",
+      "source_title": "فولاد خوش تراش - فولاد اتومات | شرکت فولاد پایتخت",
+      "source_url": "https://fooladpaytakht.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:55Z",
+      "claim": "Public website signal: expansion_or_activity",
+      "confidence": 0.72,
+      "evidence_id": "ev-527faacfecb49215",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "توسعه | فولاد خوش تراش - فولاد اتومات | شرکت فولاد پایتخت فولاد پایتخت برترین شرکت سازه های فولادی 02166674477 02166674008 info@fooladpaytakht.com خانه خدمات فولاد خوش تراش میلگرد اتومات فولاد اتومات مقالات تماس با ما درباره ما فولاد خوش تراش تخصص ماست فولاد پایتخت فعالیت خود را از سال 1375 به طور رسمی آغاز نموده است. این شرکت در زمینه واردات و توزیع فولاد خوش تراش (اتومات) شروع به کار کرد. و در حال حاضر با بیش از 25 سال ساب",
+      "signal": "expansion_or_activity",
+      "source_quality": "company_site",
+      "source_title": "فولاد خوش تراش - فولاد اتومات | شرکت فولاد پایتخت",
+      "source_url": "https://fooladpaytakht.com/"
+    }
+  ]
+}

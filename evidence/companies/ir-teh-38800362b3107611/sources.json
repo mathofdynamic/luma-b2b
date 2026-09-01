@@ -1,0 +1,163 @@
+{
+  "company_id": "ir-teh-38800362b3107611",
+  "errors": [],
+  "generated_at": "2026-09-01T08:16:44Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [
+    {
+      "bytes": 1028006,
+      "captured_at": "2026-09-01T08:16:43Z",
+      "company_id": "ir-teh-38800362b3107611",
+      "headless": true,
+      "page_title": "خانه اصلی - شرکت بهتا گستر صنعت",
+      "path": "companies/ir-teh-38800362b3107611/screenshots/homepage.png",
+      "reason_this_matters": "Public company homepage is the primary visual evidence surface.",
+      "screenshot_type": "homepage",
+      "source_url": "https://behtapack.com/"
+    }
+  ],
+  "sources": [
+    {
+      "discovered_at": "2026-09-01T06:31:45Z",
+      "discovery_reason": "Book-e Avval category: تولید جعبه مقوایی",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "صنایع چاپ و بسته بندی بهتاپک با استفاده از تیم حرفه ای و ماشین آلات پیشرفته، با تولید انواع جعبه و کارتن بسته بندی، مراقب محصول شماست.",
+      "source_quality": "directory",
+      "source_title": "تولید جعبه مقوایی در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D8%AC%D8%B9%D8%A8%D9%87%20%D9%85%D9%82%D9%88%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "discovered_at": "2026-09-01T06:31:51Z",
+      "discovery_reason": "Book-e Avval category: چاپخانه",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "صنایع چاپ و بسته بندی بهتاپک با استفاده از تیم حرفه ای و ماشین آلات پیشرفته، با تولید انواع جعبه و کارتن بسته بندی، مراقب محصول شماست.",
+      "source_quality": "directory",
+      "source_title": "چاپخانه در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%DA%86%D8%A7%D9%BE%D8%AE%D8%A7%D9%86%D9%87/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:31:45Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-ce0c3d002fb849fc",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "صنایع چاپ و بسته بندی بهتاپک با استفاده از تیم حرفه ای و ماشین آلات پیشرفته، با تولید انواع جعبه و کارتن بسته بندی، مراقب محصول شماست.",
+      "source_quality": "directory",
+      "source_title": "تولید جعبه مقوایی در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D8%AC%D8%B9%D8%A8%D9%87%20%D9%85%D9%82%D9%88%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:31:51Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-0b8f4602e5aa5bae",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "صنایع چاپ و بسته بندی بهتاپک با استفاده از تیم حرفه ای و ماشین آلات پیشرفته، با تولید انواع جعبه و کارتن بسته بندی، مراقب محصول شماست.",
+      "source_quality": "directory",
+      "source_title": "چاپخانه در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%DA%86%D8%A7%D9%BE%D8%AE%D8%A7%D9%86%D9%87/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:53Z",
+      "claim": "Directory profile lists تولید انواع جعبه و کارتن بهتاپک with a public Tehran business listing.",
+      "confidence": 0.82,
+      "evidence_id": "ev-96eb0ad15e202703",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "تولید انواع جعبه و کارتن بهتاپک - تولید کارتن مقوایی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس تولید انواع جعبه و کارتن بهتاپک 5.0 (1 نظر) صنایع چاپ و بسته بندی بهتاپک با استفاده از تیم حرفه ای و ماشین آلات پیشرفته، با تولید انواع جعبه و کارتن بسته بندی، مراقب محصول شماست. تولید کارتن مقوایی لیتوگرافی چاپخانه چاپ و جعبه سازی چاپ صنعتی تماس ثبت نظر ویرایش اشتراک گذاری دسته‌بندی مشاغل تولید کارتن مقوایی تهران من",
+      "source_quality": "directory",
+      "source_title": "تولید انواع جعبه و کارتن بهتاپک - تولید کارتن مقوایی | کتاب اول",
+      "source_url": "https://avval.ir/profile/nabge/%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%AC%D8%B9%D8%A8%D9%87-%D9%88-%DA%A9%D8%A7%D8%B1%D8%AA%D9%86-%D8%A8%D9%87%D8%AA%D8%A7%D9%BE%DA%A9"
+    },
+    {
+      "captured_at": "2026-09-01T07:15:12Z",
+      "claim": "Public website signal: rfq_or_quote",
+      "confidence": 0.86,
+      "evidence_id": "ev-f6c8b55cc0364be6",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "استعلام قیمت | خانه اصلی - شرکت بهتا گستر صنعت پرش به محتوا شرکت بهتا گستر صنعت 021-44302745 09124843263 استعلام قیمت فهرست صفحه اصلی خدمات مقالات ثبت نام تامین کنندگان همکاری با ما درباره ما تماس با ما English فهرست صفحه اصلی خدمات مقالات ثبت نام تامین کنندگان همکاری با ما درباره ما تماس با ما English خدمات بهتاپک مشاوره تخصصی بسته بندی ارائه مشاوره و پیشنهاد راه حل های بسته بندی با تکیه بر دانش نیروی کار متخصص و همچنین نوآوری در",
+      "signal": "rfq_or_quote",
+      "source_quality": "company_site",
+      "source_title": "خانه اصلی - شرکت بهتا گستر صنعت",
+      "source_url": "https://behtapack.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:15:12Z",
+      "claim": "Public website signal: catalog_or_products",
+      "confidence": 0.86,
+      "evidence_id": "ev-f06a15fe27173022",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "محصولات; محصول | خانه اصلی - شرکت بهتا گستر صنعت پرش به محتوا شرکت بهتا گستر صنعت 021-44302745 09124843263 استعلام قیمت فهرست صفحه اصلی خدمات مقالات ثبت نام تامین کنندگان همکاری با ما درباره ما تماس با ما English فهرست صفحه اصلی خدمات مقالات ثبت نام تامین کنندگان همکاری با ما درباره ما تماس با ما English خدمات بهتاپک مشاوره تخصصی بسته بندی ارائه مشاوره و پیشنهاد راه حل های بسته بندی با تکیه بر دانش نیروی کار متخصص و همچنین نوآوری در",
+      "signal": "catalog_or_products",
+      "source_quality": "company_site",
+      "source_title": "خانه اصلی - شرکت بهتا گستر صنعت",
+      "source_url": "https://behtapack.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:15:12Z",
+      "claim": "Public website signal: order_or_contact_form",
+      "confidence": 0.72,
+      "evidence_id": "ev-4f92cf7fca9fdbb5",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "ثبت سفارش; تماس با ما | خانه اصلی - شرکت بهتا گستر صنعت پرش به محتوا شرکت بهتا گستر صنعت 021-44302745 09124843263 استعلام قیمت فهرست صفحه اصلی خدمات مقالات ثبت نام تامین کنندگان همکاری با ما درباره ما تماس با ما English فهرست صفحه اصلی خدمات مقالات ثبت نام تامین کنندگان همکاری با ما درباره ما تماس با ما English خدمات بهتاپک مشاوره تخصصی بسته بندی ارائه مشاوره و پیشنهاد راه حل های بسته بندی با تکیه بر دانش نیروی کار متخصص و همچنین نوآوری در",
+      "signal": "order_or_contact_form",
+      "source_quality": "company_site",
+      "source_title": "خانه اصلی - شرکت بهتا گستر صنعت",
+      "source_url": "https://behtapack.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:15:12Z",
+      "claim": "Public website signal: factory_or_warehouse",
+      "confidence": 0.86,
+      "evidence_id": "ev-19051b9f462d4c91",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "کارخانه | خانه اصلی - شرکت بهتا گستر صنعت پرش به محتوا شرکت بهتا گستر صنعت 021-44302745 09124843263 استعلام قیمت فهرست صفحه اصلی خدمات مقالات ثبت نام تامین کنندگان همکاری با ما درباره ما تماس با ما English فهرست صفحه اصلی خدمات مقالات ثبت نام تامین کنندگان همکاری با ما درباره ما تماس با ما English خدمات بهتاپک مشاوره تخصصی بسته بندی ارائه مشاوره و پیشنهاد راه حل های بسته بندی با تکیه بر دانش نیروی کار متخصص و همچنین نوآوری در",
+      "signal": "factory_or_warehouse",
+      "source_quality": "company_site",
+      "source_title": "خانه اصلی - شرکت بهتا گستر صنعت",
+      "source_url": "https://behtapack.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:15:12Z",
+      "claim": "Public website signal: projects_or_clients",
+      "confidence": 0.72,
+      "evidence_id": "ev-417e33c396b8f710",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "مشتریان | خانه اصلی - شرکت بهتا گستر صنعت پرش به محتوا شرکت بهتا گستر صنعت 021-44302745 09124843263 استعلام قیمت فهرست صفحه اصلی خدمات مقالات ثبت نام تامین کنندگان همکاری با ما درباره ما تماس با ما English فهرست صفحه اصلی خدمات مقالات ثبت نام تامین کنندگان همکاری با ما درباره ما تماس با ما English خدمات بهتاپک مشاوره تخصصی بسته بندی ارائه مشاوره و پیشنهاد راه حل های بسته بندی با تکیه بر دانش نیروی کار متخصص و همچنین نوآوری در",
+      "signal": "projects_or_clients",
+      "source_quality": "company_site",
+      "source_title": "خانه اصلی - شرکت بهتا گستر صنعت",
+      "source_url": "https://behtapack.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:15:12Z",
+      "claim": "Public website signal: certifications",
+      "confidence": 0.72,
+      "evidence_id": "ev-56dbefce168a9fad",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "استاندارد | خانه اصلی - شرکت بهتا گستر صنعت پرش به محتوا شرکت بهتا گستر صنعت 021-44302745 09124843263 استعلام قیمت فهرست صفحه اصلی خدمات مقالات ثبت نام تامین کنندگان همکاری با ما درباره ما تماس با ما English فهرست صفحه اصلی خدمات مقالات ثبت نام تامین کنندگان همکاری با ما درباره ما تماس با ما English خدمات بهتاپک مشاوره تخصصی بسته بندی ارائه مشاوره و پیشنهاد راه حل های بسته بندی با تکیه بر دانش نیروی کار متخصص و همچنین نوآوری در",
+      "signal": "certifications",
+      "source_quality": "company_site",
+      "source_title": "خانه اصلی - شرکت بهتا گستر صنعت",
+      "source_url": "https://behtapack.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:15:12Z",
+      "claim": "Public website signal: software_or_erp",
+      "confidence": 0.72,
+      "evidence_id": "ev-6e73380c1fda335d",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "نرم افزار; نرم‌افزار | خانه اصلی - شرکت بهتا گستر صنعت پرش به محتوا شرکت بهتا گستر صنعت 021-44302745 09124843263 استعلام قیمت فهرست صفحه اصلی خدمات مقالات ثبت نام تامین کنندگان همکاری با ما درباره ما تماس با ما English فهرست صفحه اصلی خدمات مقالات ثبت نام تامین کنندگان همکاری با ما درباره ما تماس با ما English خدمات بهتاپک مشاوره تخصصی بسته بندی ارائه مشاوره و پیشنهاد راه حل های بسته بندی با تکیه بر دانش نیروی کار متخصص و همچنین نوآوری در",
+      "signal": "software_or_erp",
+      "source_quality": "company_site",
+      "source_title": "خانه اصلی - شرکت بهتا گستر صنعت",
+      "source_url": "https://behtapack.com/"
+    }
+  ]
+}

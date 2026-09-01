@@ -1,0 +1,106 @@
+{
+  "company_id": "ir-teh-65e64ef273ed4fd4",
+  "errors": [],
+  "generated_at": "2026-09-01T08:14:03Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [
+    {
+      "bytes": 1362822,
+      "captured_at": "2026-09-01T08:14:01Z",
+      "company_id": "ir-teh-65e64ef273ed4fd4",
+      "headless": true,
+      "page_title": "محصولات غذایی برتر",
+      "path": "companies/ir-teh-65e64ef273ed4fd4/screenshots/homepage.png",
+      "reason_this_matters": "Public company homepage is the primary visual evidence surface.",
+      "screenshot_type": "homepage",
+      "source_url": "https://bartarproducts.com/"
+    }
+  ],
+  "sources": [
+    {
+      "discovered_at": "2026-09-01T06:31:45Z",
+      "discovery_reason": "Book-e Avval category: بسته بندی مواد غذایی",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "شرکت تعاونی تولیدی نویدکاران تولیدکنندۀ محصولات غذایی برتر در سال ۱۳۷۳ تأسیس و تولید خود را به صورت رسمی در سال ۱۳۷۵ آغاز کرد. محصولات شرکت نویدکاران، با نام تجاری «برتر»",
+      "source_quality": "directory",
+      "source_title": "بسته بندی مواد غذایی در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D8%A8%D8%B3%D8%AA%D9%87%20%D8%A8%D9%86%D8%AF%DB%8C%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:31:45Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-1a9b8e9b196ab2d3",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "شرکت تعاونی تولیدی نویدکاران تولیدکنندۀ محصولات غذایی برتر در سال ۱۳۷۳ تأسیس و تولید خود را به صورت رسمی در سال ۱۳۷۵ آغاز کرد. محصولات شرکت نویدکاران، با نام تجاری «برتر»",
+      "source_quality": "directory",
+      "source_title": "بسته بندی مواد غذایی در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D8%A8%D8%B3%D8%AA%D9%87%20%D8%A8%D9%86%D8%AF%DB%8C%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:53Z",
+      "claim": "Directory profile lists شرکت نویدکاران - دفتر مرکزی (برتر) with a public Tehran business listing.",
+      "confidence": 0.82,
+      "evidence_id": "ev-b4b7678b9f153e09",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "شرکت نویدکاران - دفتر مرکزی (برتر) - بسته بندی مواد غذایی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس شرکت نویدکاران - دفتر مرکزی (برتر) بسته بندی مواد غذایی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل بسته بندی مواد غذایی تهران محله زرگنده اطلاعات تماس آدرس : تهران، منطقه 3، محله زرگنده، بلوار آفریقا، بلوار آرش شرقی، بعد از زیرگذر، پلاک 10 تلفن : نمایش شماره XXXXXXXXXX تلفن همراه : نمایش شما",
+      "source_quality": "directory",
+      "source_title": "شرکت نویدکاران - دفتر مرکزی (برتر) - بسته بندی مواد غذایی | کتاب اول",
+      "source_url": "https://avval.ir/profile/065a8/%D8%B4%D8%B1%DA%A9%D8%AA-%D9%86%D9%88%DB%8C%D8%AF%DA%A9%D8%A7%D8%B1%D8%A7%D9%86-%D8%AF%D9%81%D8%AA%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%A8%D8%B1%D8%AA%D8%B1"
+    },
+    {
+      "captured_at": "2026-09-01T07:15:18Z",
+      "claim": "Public website signal: catalog_or_products",
+      "confidence": 0.86,
+      "evidence_id": "ev-13cee58eface4e52",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "کاتالوگ; محصولات; محصول | محصولات غذایی برتر پرش به محتوا خانه درباره برتر تاریخچه و معرفی سازمان دستاوردها و افتخارات امکانات و توانمندی‌ها کاتالوگ محصولات فیلم صنعتی محصولات آشپزی به سبک برتر مراکز فروش شعب نمایندگی ها فروشگاه های آنلاین فروش سازمانی صادرات اخبار همکاری با ما تماس با ما خانه درباره برتر تاریخچه و معرفی سازمان دستاوردها و افتخارات امکانات و توانمندی‌ها کاتالوگ محصولات فیلم صنعتی محصولات آشپزی به سبک برتر مراکز فروش شعب نماین",
+      "signal": "catalog_or_products",
+      "source_quality": "company_site",
+      "source_title": "محصولات غذایی برتر",
+      "source_url": "https://bartarproducts.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:15:18Z",
+      "claim": "Public website signal: order_or_contact_form",
+      "confidence": 0.72,
+      "evidence_id": "ev-8ba1eddef274efea",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "تماس با ما | محصولات غذایی برتر پرش به محتوا خانه درباره برتر تاریخچه و معرفی سازمان دستاوردها و افتخارات امکانات و توانمندی‌ها کاتالوگ محصولات فیلم صنعتی محصولات آشپزی به سبک برتر مراکز فروش شعب نمایندگی ها فروشگاه های آنلاین فروش سازمانی صادرات اخبار همکاری با ما تماس با ما خانه درباره برتر تاریخچه و معرفی سازمان دستاوردها و افتخارات امکانات و توانمندی‌ها کاتالوگ محصولات فیلم صنعتی محصولات آشپزی به سبک برتر مراکز فروش شعب نماین",
+      "signal": "order_or_contact_form",
+      "source_quality": "company_site",
+      "source_title": "محصولات غذایی برتر",
+      "source_url": "https://bartarproducts.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:15:18Z",
+      "claim": "Public website signal: branches_or_dealers",
+      "confidence": 0.72,
+      "evidence_id": "ev-d147b6905f63bfca",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "شعب; نمایندگی | محصولات غذایی برتر پرش به محتوا خانه درباره برتر تاریخچه و معرفی سازمان دستاوردها و افتخارات امکانات و توانمندی‌ها کاتالوگ محصولات فیلم صنعتی محصولات آشپزی به سبک برتر مراکز فروش شعب نمایندگی ها فروشگاه های آنلاین فروش سازمانی صادرات اخبار همکاری با ما تماس با ما خانه درباره برتر تاریخچه و معرفی سازمان دستاوردها و افتخارات امکانات و توانمندی‌ها کاتالوگ محصولات فیلم صنعتی محصولات آشپزی به سبک برتر مراکز فروش شعب نماین",
+      "signal": "branches_or_dealers",
+      "source_quality": "company_site",
+      "source_title": "محصولات غذایی برتر",
+      "source_url": "https://bartarproducts.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:15:18Z",
+      "claim": "Public website signal: expansion_or_activity",
+      "confidence": 0.72,
+      "evidence_id": "ev-056dfab327e4b75a",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "توسعه; صادرات; سراسر کشور | محصولات غذایی برتر پرش به محتوا خانه درباره برتر تاریخچه و معرفی سازمان دستاوردها و افتخارات امکانات و توانمندی‌ها کاتالوگ محصولات فیلم صنعتی محصولات آشپزی به سبک برتر مراکز فروش شعب نمایندگی ها فروشگاه های آنلاین فروش سازمانی صادرات اخبار همکاری با ما تماس با ما خانه درباره برتر تاریخچه و معرفی سازمان دستاوردها و افتخارات امکانات و توانمندی‌ها کاتالوگ محصولات فیلم صنعتی محصولات آشپزی به سبک برتر مراکز فروش شعب نماین",
+      "signal": "expansion_or_activity",
+      "source_quality": "company_site",
+      "source_title": "محصولات غذایی برتر",
+      "source_url": "https://bartarproducts.com/"
+    }
+  ]
+}

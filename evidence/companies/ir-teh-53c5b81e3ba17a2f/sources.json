@@ -1,0 +1,65 @@
+{
+  "company_id": "ir-teh-53c5b81e3ba17a2f",
+  "errors": [
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "TimeoutExpired: Command '['/Users/mohammad/.codex/skills/playwright/scripts/playwright_cli.sh', '-s=luma-b2b-ir-teh-53c5b81e3ba17a2f-attempt-1', 'open', 'https://api.whatsapp.com/send?text=avval.ir/profile/02fec/110-%D8%B1%D8%B6%D8%A7', '--config', 'config/playwright.headless.json']' timed out after 15 seconds",
+      "source_url": "https://api.whatsapp.com/send?text=avval.ir/profile/02fec/110-%D8%B1%D8%B6%D8%A7",
+      "stage": "browser"
+    }
+  ],
+  "generated_at": "2026-09-01T09:20:12Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [
+    {
+      "bytes": 48098,
+      "captured_at": "2026-09-01T09:20:10Z",
+      "company_id": "ir-teh-53c5b81e3ba17a2f",
+      "headless": true,
+      "page_title": ".:: نماد تجارت الکترونیکی ::. خطا",
+      "path": "companies/ir-teh-53c5b81e3ba17a2f/screenshots/homepage_candidate-2.png",
+      "reason_this_matters": "Public company-site candidate; capture verifies whether it is reachable.",
+      "screenshot_type": "homepage_candidate_fallback",
+      "source_url": "https://trustseal.enamad.ir/?id=194990&Code=3Y0m3d1djm9fuqjoC8mT"
+    }
+  ],
+  "sources": [
+    {
+      "discovered_at": "2026-09-01T06:31:54Z",
+      "discovery_reason": "Book-e Avval category: انبارداری",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "بنگاه باراندازی",
+      "source_quality": "directory",
+      "source_title": "انبارداری در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D8%A7%D9%86%D8%A8%D8%A7%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:31:54Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-747d1ddf9b327a75",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "بنگاه باراندازی",
+      "source_quality": "directory",
+      "source_title": "انبارداری در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D8%A7%D9%86%D8%A8%D8%A7%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:53Z",
+      "claim": "Directory profile lists 110 رضا with a public Tehran business listing.",
+      "confidence": 0.82,
+      "evidence_id": "ev-c70872acef31253e",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "110 رضا - بنگاه باراندازی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس 110 رضا بنگاه باراندازی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل بنگاه باراندازی تهران محله یاخچی آباد اطلاعات تماس آدرس : تهران، منطقه 16، محله یاخچی آباد، بزرگراه رجایی، خیابان ستاره، خیابان مهرآبادی، پلاک 110 تلفن : نمایش شماره XXXXXXXXXX تلفن همراه : نمایش شماره XXXXXXXXXX تلفکس : نمایش شماره XXXXXXXXXX کد پستی : 181",
+      "source_quality": "directory",
+      "source_title": "110 رضا - بنگاه باراندازی | کتاب اول",
+      "source_url": "https://avval.ir/profile/02fec/110-%D8%B1%D8%B6%D8%A7"
+    }
+  ]
+}

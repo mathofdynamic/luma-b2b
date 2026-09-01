@@ -1,0 +1,1545 @@
+### Page
+- Page URL: https://newcapital.ir/
+- Page Title: صفحه اصلی - نیوکاپیتال
+- Console: 1 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - link "پرش به محتوا" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=e3]:
+    - banner [ref=e7]:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - link "09046969199" [ref=e11] [cursor=pointer]:
+            - /url: tel:09046969199
+          - link "02166822418" [ref=e15] [cursor=pointer]:
+            - /url: tel:02166822418
+          - link "info@tivanmotor.ir" [ref=e19] [cursor=pointer]:
+            - /url: mailto:info@tivanmotor.ir
+        - generic [ref=e24]:
+          - generic [ref=e25]: ارسال سریع به سراسر ایران
+          - generic [ref=e31]: ضمانت اصالت کالا
+          - generic [ref=e35]: پشتیبانی 24/7
+      - generic [ref=e40]:
+        - link [ref=e41] [cursor=pointer]:
+          - /url: https://newcapital.ir/
+          - img "New Capital" [ref=e42]
+        - search [ref=e44]:
+          - searchbox "جستجو در محصولات..." [ref=e45]
+          - button "جستجو" [ref=e46] [cursor=pointer]
+        - generic [ref=e50]:
+          - link "ورود / ثبت نام" [ref=e52] [cursor=pointer]:
+            - /url: https://newcapital.ir/my-account/
+          - link "سبد خرید 0" [ref=e59] [cursor=pointer]:
+            - /url: https://newcapital.ir/cart/
+            - generic [ref=e65]: سبد خرید
+            - generic [ref=e66]: "0"
+      - navigation [ref=e67]:
+        - generic [ref=e68]:
+          - list [ref=e69]:
+            - listitem [ref=e70]:
+              - link "صفحه اصلی" [ref=e71] [cursor=pointer]:
+                - /url: https://newcapital.ir/
+            - listitem [ref=e72]:
+              - link "محصولات" [ref=e73] [cursor=pointer]:
+                - /url: https://newcapital.ir/%d9%86%db%8c%d9%88%da%a9%d8%a7%d9%be%db%8c%d8%aa%d8%a7%d9%84/
+            - listitem [ref=e74]:
+              - link "مطالب مفید" [ref=e75] [cursor=pointer]:
+                - /url: https://newcapital.ir/%d9%85%d8%b7%d8%a7%d9%84%d8%a8-%d9%85%d9%81%db%8c%d8%af/
+            - listitem [ref=e76]:
+              - link "درباره ما" [ref=e77] [cursor=pointer]:
+                - /url: https://newcapital.ir/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/
+            - listitem [ref=e78]:
+              - link "تماس با ما" [ref=e79] [cursor=pointer]:
+                - /url: https://newcapital.ir/%d8%aa%d9%85%d8%a7%d8%b3-%d8%a8%d8%a7-%d9%85%d8%a7/
+          - link "درخواست استعلام" [ref=e80] [cursor=pointer]:
+            - /url: "#"
+  - main [ref=e84]:
+    - generic [ref=e86]:
+      - generic [ref=e90]:
+        - article [ref=e93]:
+          - generic [ref=e96]:
+            - generic [ref=e97]: مرجع تخصصی قطعات دریچه گاز
+            - heading "تخصصی‌ترین فروشگاه دریچه گاز" [level=2] [ref=e100]:
+              - text: تخصصی‌ترین فروشگاه
+              - generic [ref=e101]: دریچه گاز
+            - generic [ref=e102]: عرضه انواع دریچه گاز و قطعات مرتبط با ضمانت اصالت، مشاوره تخصصی و ارسال سریع به سراسر کشور.
+            - link "مشاهده محصولات" [ref=e104] [cursor=pointer]:
+              - /url: "#"
+        - generic [ref=e110]:
+          - generic [ref=e116]:
+            - strong [ref=e117]: ضمانت اصالت کالا
+            - generic [ref=e118]: تضمین کیفیت و سلامت محصول
+          - generic [ref=e126]:
+            - strong [ref=e127]: ارسال سریع
+            - generic [ref=e128]: ارسال به سراسر ایران
+          - generic [ref=e134]:
+            - strong [ref=e135]: مشاوره تخصصی
+            - generic [ref=e136]: راهنمایی قبل و بعد از خرید
+          - generic [ref=e143]:
+            - strong [ref=e144]: خرید مطمئن
+            - generic [ref=e145]: پشتیبانی و پیگیری سفارش
+      - generic [ref=e150]:
+        - generic [ref=e151]:
+          - heading "دسته‌بندی محصولات" [level=2] [ref=e153]
+          - link "مشاهده همه" [ref=e154] [cursor=pointer]:
+            - /url: https://newcapital.ir/%d9%86%db%8c%d9%88%da%a9%d8%a7%d9%be%db%8c%d8%aa%d8%a7%d9%84/
+        - generic [ref=e158]:
+          - link "دریچه گاز 16 محصول" [ref=e159] [cursor=pointer]:
+            - /url: https://newcapital.ir/product-category/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2/
+            - generic [ref=e160]: دریچه گاز
+            - generic [ref=e168]: 16 محصول
+          - link "پک کامل دریچه گاز پک کامل دریچه گاز 16 محصول" [ref=e169] [cursor=pointer]:
+            - /url: https://newcapital.ir/product-category/%d9%be%da%a9-%da%a9%d8%a7%d9%85%d9%84-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2/
+            - generic [ref=e170]: پک کامل دریچه گاز
+            - img "پک کامل دریچه گاز" [ref=e173]
+            - generic [ref=e174]: 16 محصول
+          - link "پک کامل منیفولد 20 محصول" [ref=e175] [cursor=pointer]:
+            - /url: https://newcapital.ir/product-category/%d9%be%da%a9-%da%a9%d8%a7%d9%85%d9%84-%d9%85%d9%86%db%8c%d9%81%d9%88%d9%84%d8%af/
+            - generic [ref=e176]: پک کامل منیفولد
+            - generic [ref=e184]: 20 محصول
+          - link "سینی زیر موتور نیسان سینی زیر موتور نیسان 4 محصول" [ref=e185] [cursor=pointer]:
+            - /url: https://newcapital.ir/product-category/%d8%b3%db%8c%d9%86%db%8c-%d8%b2%db%8c%d8%b1-%d9%85%d9%88%d8%aa%d9%88%d8%b1-%d9%86%db%8c%d8%b3%d8%a7%d9%86/
+            - generic [ref=e186]: سینی زیر موتور نیسان
+            - img "سینی زیر موتور نیسان" [ref=e189]
+            - generic [ref=e190]: 4 محصول
+          - link "فلنچ تبدیل دریچه گاز 4 محصول" [ref=e191] [cursor=pointer]:
+            - /url: https://newcapital.ir/product-category/%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8%d8%af%db%8c%d9%84-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2/
+            - generic [ref=e192]: فلنچ تبدیل دریچه گاز
+            - generic [ref=e200]: 4 محصول
+      - generic [ref=e204]:
+        - generic [ref=e205]:
+          - heading "پرفروش‌ترین دریچه گاز" [level=2] [ref=e207]
+          - generic [ref=e208]:
+            - link "مشاهده همه" [ref=e209] [cursor=pointer]:
+              - /url: https://newcapital.ir/%d9%86%db%8c%d9%88%da%a9%d8%a7%d9%be%db%8c%d8%aa%d8%a7%d9%84/
+            - generic [ref=e213]:
+              - button "محصول قبلی" [ref=e214] [cursor=pointer]
+              - button "محصول بعدی" [ref=e217] [cursor=pointer]
+        - tablist "دسته‌بندی محصولات" [ref=e221]:
+          - button "همه" [ref=e222] [cursor=pointer]
+          - button "فلنچ تبدیل دریچه گاز" [ref=e223] [cursor=pointer]
+          - button "پک کامل دریچه گاز" [ref=e224] [cursor=pointer]
+          - button "دریچه گاز" [ref=e225] [cursor=pointer]
+        - generic [ref=e227]:
+          - article [ref=e229]:
+            - generic [ref=e230]:
+              - link [ref=e231] [cursor=pointer]:
+                - /url: https://newcapital.ir/product/%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8%d8%af%db%8c%d9%84-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d9%87-xu7/
+                - img "فلنچ تبدیل دریچه گاز نیسان به XU7 پژو 405 سمند پرشیا" [ref=e233]
+              - generic [ref=e234]:
+                - generic "0 از 5" [ref=e236]:
+                  - generic [ref=e237]: ★
+                  - generic [ref=e238]: ★
+                  - generic [ref=e239]: ★
+                  - generic [ref=e240]: ★
+                  - generic [ref=e241]: ★
+                - link "فلنچ تبدیل دریچه گاز نیسان به XU7 پژو 405 سمند پرشیا" [ref=e242] [cursor=pointer]:
+                  - /url: https://newcapital.ir/product/%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8%d8%af%db%8c%d9%84-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d9%87-xu7/
+                - generic [ref=e243]:
+                  - generic [ref=e244]:
+                    - generic [ref=e245]: قیمت
+                    - generic [ref=e246]: 990,000 تومان
+                  - link "مشاهده محصول" [ref=e249] [cursor=pointer]:
+                    - /url: https://newcapital.ir/product/%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8%d8%af%db%8c%d9%84-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d9%87-xu7/
+              - link "افزودن به سبد خرید" [ref=e253] [cursor=pointer]:
+                - /url: /?add-to-cart=8933
+            - generic:
+              - generic: ویژگی‌های محصول
+              - generic:
+                - generic:
+                  - generic: "ساخت :"
+                  - generic: با افتخار ایران
+                - generic:
+                  - generic: "گارانتی :"
+                  - generic: ضمانت بی قید و شرط تعویض
+                - generic:
+                  - generic: "نوع خودرو :"
+                  - generic: آریسان، پرشیا، پژو 405، سمند
+          - article [ref=e260]:
+            - generic [ref=e261]:
+              - link [ref=e262] [cursor=pointer]:
+                - /url: https://newcapital.ir/product/%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8%d8%af%db%8c%d9%84-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d9%87-tu5/
+                - img "فلنچ تبدیل دریچه گاز نیسان به TU5 پژو 206" [ref=e264]
+              - generic [ref=e265]:
+                - generic "0 از 5" [ref=e267]:
+                  - generic [ref=e268]: ★
+                  - generic [ref=e269]: ★
+                  - generic [ref=e270]: ★
+                  - generic [ref=e271]: ★
+                  - generic [ref=e272]: ★
+                - link "فلنچ تبدیل دریچه گاز نیسان به TU5 پژو 206" [ref=e273] [cursor=pointer]:
+                  - /url: https://newcapital.ir/product/%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8%d8%af%db%8c%d9%84-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d9%87-tu5/
+                - generic [ref=e274]:
+                  - generic [ref=e275]:
+                    - generic [ref=e276]: قیمت
+                    - generic [ref=e277]: 990,000 تومان
+                  - link "مشاهده محصول" [ref=e280] [cursor=pointer]:
+                    - /url: https://newcapital.ir/product/%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8%d8%af%db%8c%d9%84-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d9%87-tu5/
+              - link "افزودن به سبد خرید" [ref=e284] [cursor=pointer]:
+                - /url: /?add-to-cart=8932
+            - generic:
+              - generic: ویژگی‌های محصول
+              - generic:
+                - generic:
+                  - generic: "ساخت :"
+                  - generic: با افتخار ایران
+                - generic:
+                  - generic: "نوع خودرو :"
+                  - generic: پژو 206
+                - generic:
+                  - generic: "گارانتی :"
+                  - generic: ضمانت بی قید و شرط تعویض
+          - article [ref=e291]:
+            - generic [ref=e292]:
+              - link [ref=e293] [cursor=pointer]:
+                - /url: https://newcapital.ir/product/%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8%d8%af%db%8c%d9%84-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d9%87-%d9%be%d8%b1%d8%a7%db%8c%d8%af-m15/
+                - img "فلنچ تبدیل دریچه گاز نیسان به پراید M15" [ref=e295]
+              - generic [ref=e296]:
+                - generic "0 از 5" [ref=e298]:
+                  - generic [ref=e299]: ★
+                  - generic [ref=e300]: ★
+                  - generic [ref=e301]: ★
+                  - generic [ref=e302]: ★
+                  - generic [ref=e303]: ★
+                - link "فلنچ تبدیل دریچه گاز نیسان به پراید M15" [ref=e304] [cursor=pointer]:
+                  - /url: https://newcapital.ir/product/%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8%d8%af%db%8c%d9%84-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d9%87-%d9%be%d8%b1%d8%a7%db%8c%d8%af-m15/
+                - generic [ref=e305]:
+                  - generic [ref=e306]:
+                    - generic [ref=e307]: قیمت
+                    - generic [ref=e308]: 990,000 تومان
+                  - link "مشاهده محصول" [ref=e311] [cursor=pointer]:
+                    - /url: https://newcapital.ir/product/%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8%d8%af%db%8c%d9%84-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d9%87-%d9%be%d8%b1%d8%a7%db%8c%d8%af-m15/
+              - link "افزودن به سبد خرید" [ref=e315] [cursor=pointer]:
+                - /url: /?add-to-cart=8922
+            - generic:
+              - generic: ویژگی‌های محصول
+              - generic:
+                - generic:
+                  - generic: "ساخت :"
+                  - generic: با افتخار ایران
+                - generic:
+                  - generic: "نوع خودرو :"
+                  - generic: پراید، تیبا، ساینا، کوییک
+                - generic:
+                  - generic: "گارانتی :"
+                  - generic: ضمانت بی قید و شرط تعویض
+          - article [ref=e322]:
+            - generic [ref=e323]:
+              - link [ref=e324] [cursor=pointer]:
+                - /url: https://newcapital.ir/product/%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8%d8%af%db%8c%d9%84-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d9%87-xum/
+                - img "فلنچ تبدیل دریچه گاز نیسان به XUM" [ref=e326]
+              - generic [ref=e327]:
+                - generic "0 از 5" [ref=e329]:
+                  - generic [ref=e330]: ★
+                  - generic [ref=e331]: ★
+                  - generic [ref=e332]: ★
+                  - generic [ref=e333]: ★
+                  - generic [ref=e334]: ★
+                - link "فلنچ تبدیل دریچه گاز نیسان به XUM" [ref=e335] [cursor=pointer]:
+                  - /url: https://newcapital.ir/product/%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8%d8%af%db%8c%d9%84-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d9%87-xum/
+                - generic [ref=e336]:
+                  - generic [ref=e337]:
+                    - generic [ref=e338]: قیمت
+                    - generic [ref=e339]: 990,000 تومان
+                  - link "مشاهده محصول" [ref=e342] [cursor=pointer]:
+                    - /url: https://newcapital.ir/product/%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8%d8%af%db%8c%d9%84-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d9%87-xum/
+              - link "افزودن به سبد خرید" [ref=e346] [cursor=pointer]:
+                - /url: /?add-to-cart=8916
+            - generic:
+              - generic: ویژگی‌های محصول
+              - generic:
+                - generic:
+                  - generic: "نوع خودرو :"
+                  - generic: سری XUM
+                - generic:
+                  - generic: "ساخت :"
+                  - generic: با افتخار ایران
+                - generic:
+                  - generic: "گارانتی :"
+                  - generic: ضمانت بی قید و شرط تعویض
+          - article [ref=e353]:
+            - generic [ref=e354]:
+              - link [ref=e355] [cursor=pointer]:
+                - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d8%b1%d8%a7%db%8c-%d8%b3%d8%a7%db%8c%d9%86%d8%a7-%d8%a8%d8%a7-%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8%d8%af%db%8c/
+                - img "دریچه گاز نیسان برای ساینا با فلنچ تبدیل" [ref=e357]
+              - generic [ref=e358]:
+                - generic "0 از 5" [ref=e360]:
+                  - generic [ref=e361]: ★
+                  - generic [ref=e362]: ★
+                  - generic [ref=e363]: ★
+                  - generic [ref=e364]: ★
+                  - generic [ref=e365]: ★
+                - link "دریچه گاز نیسان برای ساینا با فلنچ تبدیل" [ref=e366] [cursor=pointer]:
+                  - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d8%b1%d8%a7%db%8c-%d8%b3%d8%a7%db%8c%d9%86%d8%a7-%d8%a8%d8%a7-%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8%d8%af%db%8c/
+                - generic [ref=e367]:
+                  - generic [ref=e368]:
+                    - generic [ref=e369]: قیمت
+                    - generic [ref=e370]: 6,950,000 تومان
+                  - link "مشاهده محصول" [ref=e373] [cursor=pointer]:
+                    - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d8%b1%d8%a7%db%8c-%d8%b3%d8%a7%db%8c%d9%86%d8%a7-%d8%a8%d8%a7-%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8%d8%af%db%8c/
+              - link "افزودن به سبد خرید" [ref=e377] [cursor=pointer]:
+                - /url: /?add-to-cart=10982
+            - generic:
+              - generic: ویژگی‌های محصول
+              - generic:
+                - generic:
+                  - generic: "استاندارد آلایندگی:"
+                  - generic: یورو 4
+                - generic:
+                  - generic: "نوع خودرو :"
+                  - generic: پراید
+                - generic:
+                  - generic: "قطر دهانه :"
+                  - generic: 57 میلی‌متر
+          - article [ref=e384]:
+            - generic [ref=e385]:
+              - link [ref=e386] [cursor=pointer]:
+                - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d8%b1%d8%a7%db%8c-%da%a9%d9%88%db%8c%db%8c%da%a9-%d8%a8%d8%a7-%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8%d8%af%db%8c/
+                - img "دریچه گاز نیسان برای کوییک با فلنچ تبدیل" [ref=e388]
+              - generic [ref=e389]:
+                - generic "0 از 5" [ref=e391]:
+                  - generic [ref=e392]: ★
+                  - generic [ref=e393]: ★
+                  - generic [ref=e394]: ★
+                  - generic [ref=e395]: ★
+                  - generic [ref=e396]: ★
+                - link "دریچه گاز نیسان برای کوییک با فلنچ تبدیل" [ref=e397] [cursor=pointer]:
+                  - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d8%b1%d8%a7%db%8c-%da%a9%d9%88%db%8c%db%8c%da%a9-%d8%a8%d8%a7-%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8%d8%af%db%8c/
+                - generic [ref=e398]:
+                  - generic [ref=e399]:
+                    - generic [ref=e400]: قیمت
+                    - generic [ref=e401]: 6,950,000 تومان
+                  - link "مشاهده محصول" [ref=e404] [cursor=pointer]:
+                    - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d8%b1%d8%a7%db%8c-%da%a9%d9%88%db%8c%db%8c%da%a9-%d8%a8%d8%a7-%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8%d8%af%db%8c/
+              - link "افزودن به سبد خرید" [ref=e408] [cursor=pointer]:
+                - /url: /?add-to-cart=10981
+            - generic:
+              - generic: ویژگی‌های محصول
+              - generic:
+                - generic:
+                  - generic: "استاندارد آلایندگی:"
+                  - generic: یورو 4
+                - generic:
+                  - generic: "نوع خودرو :"
+                  - generic: پراید
+                - generic:
+                  - generic: "قطر دهانه :"
+                  - generic: 57 میلی‌متر
+          - article [ref=e415]:
+            - generic [ref=e416]:
+              - link [ref=e417] [cursor=pointer]:
+                - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d8%b1%d8%a7%db%8c-%d8%aa%db%8c%d8%a8%d8%a7-%d8%a8%d8%a7-%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8%d8%af%db%8c%d9%84/
+                - img "دریچه گاز نیسان برای تیبا با فلنچ تبدیل" [ref=e419]
+              - generic [ref=e420]:
+                - generic "0 از 5" [ref=e422]:
+                  - generic [ref=e423]: ★
+                  - generic [ref=e424]: ★
+                  - generic [ref=e425]: ★
+                  - generic [ref=e426]: ★
+                  - generic [ref=e427]: ★
+                - link "دریچه گاز نیسان برای تیبا با فلنچ تبدیل" [ref=e428] [cursor=pointer]:
+                  - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d8%b1%d8%a7%db%8c-%d8%aa%db%8c%d8%a8%d8%a7-%d8%a8%d8%a7-%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8%d8%af%db%8c%d9%84/
+                - generic [ref=e429]:
+                  - generic [ref=e430]:
+                    - generic [ref=e431]: قیمت
+                    - generic [ref=e432]: 6,950,000 تومان
+                  - link "مشاهده محصول" [ref=e435] [cursor=pointer]:
+                    - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d8%b1%d8%a7%db%8c-%d8%aa%db%8c%d8%a8%d8%a7-%d8%a8%d8%a7-%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8%d8%af%db%8c%d9%84/
+              - link "افزودن به سبد خرید" [ref=e439] [cursor=pointer]:
+                - /url: /?add-to-cart=10980
+            - generic:
+              - generic: ویژگی‌های محصول
+              - generic:
+                - generic:
+                  - generic: "استاندارد آلایندگی:"
+                  - generic: یورو 4
+                - generic:
+                  - generic: "نوع خودرو :"
+                  - generic: پراید
+                - generic:
+                  - generic: "قطر دهانه :"
+                  - generic: 57 میلی‌متر
+          - article [ref=e446]:
+            - generic [ref=e447]:
+              - link [ref=e448] [cursor=pointer]:
+                - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d8%b1%d8%a7%db%8c-%d9%be%d8%b1%d8%a7%db%8c%d8%af-%d8%a8%d8%a7-%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8%d8%af%db%8c/
+                - img "دریچه گاز نیسان برای پراید با فلنچ تبدیل" [ref=e450]
+              - generic [ref=e451]:
+                - generic "0 از 5" [ref=e453]:
+                  - generic [ref=e454]: ★
+                  - generic [ref=e455]: ★
+                  - generic [ref=e456]: ★
+                  - generic [ref=e457]: ★
+                  - generic [ref=e458]: ★
+                - link "دریچه گاز نیسان برای پراید با فلنچ تبدیل" [ref=e459] [cursor=pointer]:
+                  - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d8%b1%d8%a7%db%8c-%d9%be%d8%b1%d8%a7%db%8c%d8%af-%d8%a8%d8%a7-%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8%d8%af%db%8c/
+                - generic [ref=e460]:
+                  - generic [ref=e461]:
+                    - generic [ref=e462]: قیمت
+                    - generic [ref=e463]: 6,950,000 تومان
+                  - link "مشاهده محصول" [ref=e466] [cursor=pointer]:
+                    - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d8%b1%d8%a7%db%8c-%d9%be%d8%b1%d8%a7%db%8c%d8%af-%d8%a8%d8%a7-%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8%d8%af%db%8c/
+              - link "افزودن به سبد خرید" [ref=e470] [cursor=pointer]:
+                - /url: /?add-to-cart=10979
+            - generic:
+              - generic: ویژگی‌های محصول
+              - generic:
+                - generic:
+                  - generic: "استاندارد آلایندگی:"
+                  - generic: یورو 4
+                - generic:
+                  - generic: "نوع خودرو :"
+                  - generic: پراید
+                - generic:
+                  - generic: "قطر دهانه :"
+                  - generic: 57 میلی‌متر
+          - article [ref=e477]:
+            - generic [ref=e478]:
+              - link [ref=e479] [cursor=pointer]:
+                - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d8%b1%d8%a7%db%8c-%d9%be%da%98%d9%88-206-%d8%a8%d8%a7-%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8%d8%af%db%8c%d9%84/
+                - img "دریچه گاز نیسان برای پژو 206 با فلنچ تبدیل" [ref=e481]
+              - generic [ref=e482]:
+                - generic "0 از 5" [ref=e484]:
+                  - generic [ref=e485]: ★
+                  - generic [ref=e486]: ★
+                  - generic [ref=e487]: ★
+                  - generic [ref=e488]: ★
+                  - generic [ref=e489]: ★
+                - link "دریچه گاز نیسان برای پژو 206 با فلنچ تبدیل" [ref=e490] [cursor=pointer]:
+                  - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d8%b1%d8%a7%db%8c-%d9%be%da%98%d9%88-206-%d8%a8%d8%a7-%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8%d8%af%db%8c%d9%84/
+                - generic [ref=e491]:
+                  - generic [ref=e492]:
+                    - generic [ref=e493]: قیمت
+                    - generic [ref=e494]: 6,950,000 تومان
+                  - link "مشاهده محصول" [ref=e497] [cursor=pointer]:
+                    - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d8%b1%d8%a7%db%8c-%d9%be%da%98%d9%88-206-%d8%a8%d8%a7-%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8%d8%af%db%8c%d9%84/
+              - link "افزودن به سبد خرید" [ref=e501] [cursor=pointer]:
+                - /url: /?add-to-cart=10974
+            - generic:
+              - generic: ویژگی‌های محصول
+              - generic:
+                - generic:
+                  - generic: "استاندارد آلایندگی:"
+                  - generic: یورو 4
+                - generic:
+                  - generic: "نوع خودرو :"
+                  - generic: پژو، سمند
+                - generic:
+                  - generic: "قطر دهانه :"
+                  - generic: 57 میلی‌متر
+          - article [ref=e508]:
+            - generic [ref=e509]:
+              - link [ref=e510] [cursor=pointer]:
+                - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d8%b1%d8%a7%db%8c-%d9%be%da%98%d9%88-%d8%b3%d9%85%d9%86%d8%af-%d8%a8%d8%a7-%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8/
+                - generic [ref=e511]:
+                  - img "دریچه گاز نیسان برای سمند با فلنچ تبدیل"
+              - generic [ref=e512]:
+                - generic "0 از 5" [ref=e514]:
+                  - generic [ref=e515]: ★
+                  - generic [ref=e516]: ★
+                  - generic [ref=e517]: ★
+                  - generic [ref=e518]: ★
+                  - generic [ref=e519]: ★
+                - link "دریچه گاز نیسان برای سمند با فلنچ تبدیل" [ref=e520] [cursor=pointer]:
+                  - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d8%b1%d8%a7%db%8c-%d9%be%da%98%d9%88-%d8%b3%d9%85%d9%86%d8%af-%d8%a8%d8%a7-%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8/
+                - generic [ref=e521]:
+                  - generic [ref=e522]:
+                    - generic [ref=e523]: قیمت
+                    - generic [ref=e524]: 6,950,000 تومان
+                  - link "مشاهده محصول" [ref=e527] [cursor=pointer]:
+                    - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d8%b1%d8%a7%db%8c-%d9%be%da%98%d9%88-%d8%b3%d9%85%d9%86%d8%af-%d8%a8%d8%a7-%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8/
+              - link "افزودن به سبد خرید" [ref=e531] [cursor=pointer]:
+                - /url: /?add-to-cart=10969
+            - generic:
+              - generic: ویژگی‌های محصول
+              - generic:
+                - generic:
+                  - generic: "استاندارد آلایندگی:"
+                  - generic: یورو 4
+                - generic:
+                  - generic: "نوع خودرو :"
+                  - generic: پرشیا، پژو
+                - generic:
+                  - generic: "قطر دهانه :"
+                  - generic: 57 میلی‌متر
+          - article [ref=e538]:
+            - generic [ref=e539]:
+              - link [ref=e540] [cursor=pointer]:
+                - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d8%b1%d8%a7%db%8c-%d9%be%d8%b1%d8%b4%db%8c%d8%a7-%d8%a8%d8%a7-%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8%d8%af%db%8c/
+                - generic [ref=e541]:
+                  - img "دریچه گاز نیسان برای پرشیا با فلنچ تبدیل"
+              - generic [ref=e542]:
+                - generic "0 از 5" [ref=e544]:
+                  - generic [ref=e545]: ★
+                  - generic [ref=e546]: ★
+                  - generic [ref=e547]: ★
+                  - generic [ref=e548]: ★
+                  - generic [ref=e549]: ★
+                - link "دریچه گاز نیسان برای پرشیا با فلنچ تبدیل" [ref=e550] [cursor=pointer]:
+                  - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d8%b1%d8%a7%db%8c-%d9%be%d8%b1%d8%b4%db%8c%d8%a7-%d8%a8%d8%a7-%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8%d8%af%db%8c/
+                - generic [ref=e551]:
+                  - generic [ref=e552]:
+                    - generic [ref=e553]: قیمت
+                    - generic [ref=e554]: 6,950,000 تومان
+                  - link "مشاهده محصول" [ref=e557] [cursor=pointer]:
+                    - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d8%b1%d8%a7%db%8c-%d9%be%d8%b1%d8%b4%db%8c%d8%a7-%d8%a8%d8%a7-%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8%d8%af%db%8c/
+              - link "افزودن به سبد خرید" [ref=e561] [cursor=pointer]:
+                - /url: /?add-to-cart=10968
+            - generic:
+              - generic: ویژگی‌های محصول
+              - generic:
+                - generic:
+                  - generic: "استاندارد آلایندگی:"
+                  - generic: یورو 4
+                - generic:
+                  - generic: "نوع خودرو :"
+                  - generic: پرشیا، پژو
+                - generic:
+                  - generic: "قطر دهانه :"
+                  - generic: 57 میلی‌متر
+          - article [ref=e568]:
+            - generic [ref=e569]:
+              - link [ref=e570] [cursor=pointer]:
+                - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d8%b1%d8%a7%db%8c-%d9%be%da%98%d9%88-405-%d8%a8%d8%a7-%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8%d8%af%db%8c%d9%84/
+                - generic [ref=e571]:
+                  - img "دریچه گاز نیسان برای پژو 405 با فلنچ تبدیل"
+              - generic [ref=e572]:
+                - generic "0 از 5" [ref=e574]:
+                  - generic [ref=e575]: ★
+                  - generic [ref=e576]: ★
+                  - generic [ref=e577]: ★
+                  - generic [ref=e578]: ★
+                  - generic [ref=e579]: ★
+                - link "دریچه گاز نیسان برای پژو 405 با فلنچ تبدیل" [ref=e580] [cursor=pointer]:
+                  - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d8%b1%d8%a7%db%8c-%d9%be%da%98%d9%88-405-%d8%a8%d8%a7-%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8%d8%af%db%8c%d9%84/
+                - generic [ref=e581]:
+                  - generic [ref=e582]:
+                    - generic [ref=e583]: قیمت
+                    - generic [ref=e584]: 6,950,000 تومان
+                  - link "مشاهده محصول" [ref=e587] [cursor=pointer]:
+                    - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%d8%a8%d8%b1%d8%a7%db%8c-%d9%be%da%98%d9%88-405-%d8%a8%d8%a7-%d9%81%d9%84%d9%86%da%86-%d8%aa%d8%a8%d8%af%db%8c%d9%84/
+              - link "افزودن به سبد خرید" [ref=e591] [cursor=pointer]:
+                - /url: /?add-to-cart=10967
+            - generic:
+              - generic: ویژگی‌های محصول
+              - generic:
+                - generic:
+                  - generic: "استاندارد آلایندگی:"
+                  - generic: یورو 4
+                - generic:
+                  - generic: "نوع خودرو :"
+                  - generic: پرشیا، پژو
+                - generic:
+                  - generic: "قطر دهانه :"
+                  - generic: 57 میلی‌متر
+          - article [ref=e598]:
+            - generic [ref=e599]:
+              - link [ref=e600] [cursor=pointer]:
+                - /url: https://newcapital.ir/product/%d9%be%da%a9-%da%a9%d8%a7%d9%85%d9%84-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%884-%d8%b2%db%8c%d9%85%d9%86%d8%b3-%d8%a2%d9%85%d8%a7-4/
+                - img "پک کامل دریچه گاز نیسان یورو4 زیمنس آماده نصب روی پراید M15" [ref=e602]
+              - generic [ref=e603]:
+                - generic "0 از 5" [ref=e605]:
+                  - generic [ref=e606]: ★
+                  - generic [ref=e607]: ★
+                  - generic [ref=e608]: ★
+                  - generic [ref=e609]: ★
+                  - generic [ref=e610]: ★
+                - link "پک کامل دریچه گاز نیسان یورو4 زیمنس آماده نصب روی پراید M15" [ref=e611] [cursor=pointer]:
+                  - /url: https://newcapital.ir/product/%d9%be%da%a9-%da%a9%d8%a7%d9%85%d9%84-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%884-%d8%b2%db%8c%d9%85%d9%86%d8%b3-%d8%a2%d9%85%d8%a7-4/
+                - generic [ref=e612]:
+                  - generic [ref=e613]:
+                    - generic [ref=e614]: قیمت
+                    - generic [ref=e615]: 6,950,000 تومان
+                  - link "مشاهده محصول" [ref=e618] [cursor=pointer]:
+                    - /url: https://newcapital.ir/product/%d9%be%da%a9-%da%a9%d8%a7%d9%85%d9%84-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%884-%d8%b2%db%8c%d9%85%d9%86%d8%b3-%d8%a2%d9%85%d8%a7-4/
+              - link "افزودن به سبد خرید" [ref=e622] [cursor=pointer]:
+                - /url: /?add-to-cart=10140
+            - generic:
+              - generic: ویژگی‌های محصول
+              - generic:
+                - generic:
+                  - generic: "استاندارد آلایندگی:"
+                  - generic: یورو 4
+                - generic:
+                  - generic: "نوع خودرو :"
+                  - generic: پراید
+                - generic:
+                  - generic: "قطر دهانه :"
+                  - generic: 57 میلی‌متر
+          - article [ref=e629]:
+            - generic [ref=e630]:
+              - link [ref=e631] [cursor=pointer]:
+                - /url: https://newcapital.ir/product/%d9%be%da%a9-%da%a9%d8%a7%d9%85%d9%84-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%884-%d8%b2%db%8c%d9%85%d9%86%d8%b3-%d8%a2%d9%85%d8%a7-3/
+                - img "پک کامل دریچه گاز نیسان یورو4 زیمنس آماده نصب روی پژو 206 و TU5" [ref=e633]
+              - generic [ref=e634]:
+                - generic "0 از 5" [ref=e636]:
+                  - generic [ref=e637]: ★
+                  - generic [ref=e638]: ★
+                  - generic [ref=e639]: ★
+                  - generic [ref=e640]: ★
+                  - generic [ref=e641]: ★
+                - link "پک کامل دریچه گاز نیسان یورو4 زیمنس آماده نصب روی پژو 206 و TU5" [ref=e642] [cursor=pointer]:
+                  - /url: https://newcapital.ir/product/%d9%be%da%a9-%da%a9%d8%a7%d9%85%d9%84-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%884-%d8%b2%db%8c%d9%85%d9%86%d8%b3-%d8%a2%d9%85%d8%a7-3/
+                - generic [ref=e643]:
+                  - generic [ref=e644]:
+                    - generic [ref=e645]: قیمت
+                    - generic [ref=e646]: 6,950,000 تومان
+                  - link "مشاهده محصول" [ref=e649] [cursor=pointer]:
+                    - /url: https://newcapital.ir/product/%d9%be%da%a9-%da%a9%d8%a7%d9%85%d9%84-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%884-%d8%b2%db%8c%d9%85%d9%86%d8%b3-%d8%a2%d9%85%d8%a7-3/
+              - link "افزودن به سبد خرید" [ref=e653] [cursor=pointer]:
+                - /url: /?add-to-cart=10134
+            - generic:
+              - generic: ویژگی‌های محصول
+              - generic:
+                - generic:
+                  - generic: "استاندارد آلایندگی:"
+                  - generic: یورو 4
+                - generic:
+                  - generic: "نوع خودرو :"
+                  - generic: پژو، سمند
+                - generic:
+                  - generic: "قطر دهانه :"
+                  - generic: 57 میلی‌متر
+          - article [ref=e660]:
+            - generic [ref=e661]:
+              - link [ref=e662] [cursor=pointer]:
+                - /url: https://newcapital.ir/product/%d9%be%d9%88%d9%84%da%a9%db%8c-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86/
+                - generic [ref=e663]:
+                  - img "پولکی دریچه گاز نیسان"
+              - generic [ref=e664]:
+                - generic "0 از 5" [ref=e666]:
+                  - generic [ref=e667]: ★
+                  - generic [ref=e668]: ★
+                  - generic [ref=e669]: ★
+                  - generic [ref=e670]: ★
+                  - generic [ref=e671]: ★
+                - link "پولکی دریچه گاز نیسان" [ref=e672] [cursor=pointer]:
+                  - /url: https://newcapital.ir/product/%d9%be%d9%88%d9%84%da%a9%db%8c-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86/
+                - generic [ref=e673]:
+                  - generic [ref=e674]:
+                    - generic [ref=e675]: قیمت
+                    - generic [ref=e676]: 690,000 تومان
+                  - link "مشاهده محصول" [ref=e679] [cursor=pointer]:
+                    - /url: https://newcapital.ir/product/%d9%be%d9%88%d9%84%da%a9%db%8c-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86/
+              - link "افزودن به سبد خرید" [ref=e683] [cursor=pointer]:
+                - /url: /?add-to-cart=10288
+            - generic:
+              - generic: ویژگی‌های محصول
+              - generic:
+                - generic:
+                  - generic: "جنس :"
+                  - generic: فلز برنج
+          - article [ref=e690]:
+            - generic [ref=e691]:
+              - link [ref=e692] [cursor=pointer]:
+                - /url: https://newcapital.ir/product/%d8%a7%d8%b3%d8%aa%d9%be%d8%b1-%d9%85%d9%88%d8%aa%d9%88%d8%b1-%d9%86%db%8c%d8%b3%d8%a7%d9%86/
+                - generic [ref=e693]:
+                  - img "استپر موتور نیسان"
+              - generic [ref=e694]:
+                - generic "0 از 5" [ref=e696]:
+                  - generic [ref=e697]: ★
+                  - generic [ref=e698]: ★
+                  - generic [ref=e699]: ★
+                  - generic [ref=e700]: ★
+                  - generic [ref=e701]: ★
+                - link "استپر موتور نیسان" [ref=e702] [cursor=pointer]:
+                  - /url: https://newcapital.ir/product/%d8%a7%d8%b3%d8%aa%d9%be%d8%b1-%d9%85%d9%88%d8%aa%d9%88%d8%b1-%d9%86%db%8c%d8%b3%d8%a7%d9%86/
+                - generic [ref=e703]:
+                  - generic [ref=e704]:
+                    - generic [ref=e705]: قیمت
+                    - generic [ref=e706]: 1,190,000 تومان
+                  - link "مشاهده محصول" [ref=e709] [cursor=pointer]:
+                    - /url: https://newcapital.ir/product/%d8%a7%d8%b3%d8%aa%d9%be%d8%b1-%d9%85%d9%88%d8%aa%d9%88%d8%b1-%d9%86%db%8c%d8%b3%d8%a7%d9%86/
+              - link "افزودن به سبد خرید" [ref=e713] [cursor=pointer]:
+                - /url: /?add-to-cart=10287
+            - generic:
+              - generic: ویژگی‌های محصول
+              - generic:
+                - generic:
+                  - generic: "گارانتی :"
+                  - generic: یکسال گارانتی تعویض
+          - article [ref=e720]:
+            - generic [ref=e721]:
+              - link [ref=e722] [cursor=pointer]:
+                - /url: https://newcapital.ir/product/%d8%b3%d9%86%d8%b3%d9%88%d8%b1-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-4-%d8%b2%db%8c%d9%85%d9%86%d8%b3/
+                - generic [ref=e723]:
+                  - img "سنسور دریچه گاز نیسان یورو 4 زیمنس"
+              - generic [ref=e724]:
+                - generic "0 از 5" [ref=e726]:
+                  - generic [ref=e727]: ★
+                  - generic [ref=e728]: ★
+                  - generic [ref=e729]: ★
+                  - generic [ref=e730]: ★
+                  - generic [ref=e731]: ★
+                - link "سنسور دریچه گاز نیسان یورو 4 زیمنس" [ref=e732] [cursor=pointer]:
+                  - /url: https://newcapital.ir/product/%d8%b3%d9%86%d8%b3%d9%88%d8%b1-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-4-%d8%b2%db%8c%d9%85%d9%86%d8%b3/
+                - generic [ref=e733]:
+                  - generic [ref=e734]:
+                    - generic [ref=e735]: قیمت
+                    - generic [ref=e736]: 1,190,000 تومان
+                  - link "مشاهده محصول" [ref=e739] [cursor=pointer]:
+                    - /url: https://newcapital.ir/product/%d8%b3%d9%86%d8%b3%d9%88%d8%b1-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-4-%d8%b2%db%8c%d9%85%d9%86%d8%b3/
+              - link "افزودن به سبد خرید" [ref=e743] [cursor=pointer]:
+                - /url: /?add-to-cart=10282
+          - article [ref=e750]:
+            - generic [ref=e751]:
+              - link [ref=e752] [cursor=pointer]:
+                - /url: https://newcapital.ir/product/%d8%b3%d9%86%d8%b3%d9%88%d8%b1-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-2-%d8%b3%d8%a7%da%98%d9%85/
+                - generic [ref=e753]:
+                  - img "سنسور دریچه گاز نیسان یورو 2 ساژم"
+              - generic [ref=e754]:
+                - generic "0 از 5" [ref=e756]:
+                  - generic [ref=e757]: ★
+                  - generic [ref=e758]: ★
+                  - generic [ref=e759]: ★
+                  - generic [ref=e760]: ★
+                  - generic [ref=e761]: ★
+                - link "سنسور دریچه گاز نیسان یورو 2 ساژم" [ref=e762] [cursor=pointer]:
+                  - /url: https://newcapital.ir/product/%d8%b3%d9%86%d8%b3%d9%88%d8%b1-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-2-%d8%b3%d8%a7%da%98%d9%85/
+                - generic [ref=e763]:
+                  - generic [ref=e764]:
+                    - generic [ref=e765]: قیمت
+                    - generic [ref=e766]: 1,190,000 تومان
+                  - link "مشاهده محصول" [ref=e769] [cursor=pointer]:
+                    - /url: https://newcapital.ir/product/%d8%b3%d9%86%d8%b3%d9%88%d8%b1-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-2-%d8%b3%d8%a7%da%98%d9%85/
+              - link "افزودن به سبد خرید" [ref=e773] [cursor=pointer]:
+                - /url: /?add-to-cart=10281
+          - article [ref=e780]:
+            - generic [ref=e781]:
+              - link [ref=e782] [cursor=pointer]:
+                - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%da%a9%d8%a7%d9%85%d9%84-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-4-20-%d8%b9%d8%af%d8%af%db%8c/
+                - generic [ref=e783]:
+                  - img "دریچه گاز کامل نیسان یورو 4 (20 عددی)"
+              - generic [ref=e784]:
+                - generic "0 از 5" [ref=e786]:
+                  - generic [ref=e787]: ★
+                  - generic [ref=e788]: ★
+                  - generic [ref=e789]: ★
+                  - generic [ref=e790]: ★
+                  - generic [ref=e791]: ★
+                - link "دریچه گاز کامل نیسان یورو 4 (20 عددی)" [ref=e792] [cursor=pointer]:
+                  - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%da%a9%d8%a7%d9%85%d9%84-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-4-20-%d8%b9%d8%af%d8%af%db%8c/
+                - generic [ref=e793]:
+                  - generic [ref=e794]:
+                    - generic [ref=e795]: قیمت
+                    - generic [ref=e796]: 99,000,000 تومان
+                  - link "مشاهده محصول" [ref=e799] [cursor=pointer]:
+                    - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%da%a9%d8%a7%d9%85%d9%84-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-4-20-%d8%b9%d8%af%d8%af%db%8c/
+              - link "افزودن به سبد خرید" [ref=e803] [cursor=pointer]:
+                - /url: /?add-to-cart=10230
+            - generic:
+              - generic: ویژگی‌های محصول
+              - generic:
+                - generic:
+                  - generic: "استاندارد آلایندگی:"
+                  - generic: یورو 4
+                - generic:
+                  - generic: "نوع خودرو :"
+                  - generic: نیسان
+                - generic:
+                  - generic: "قطر دهانه :"
+                  - generic: 42 میلی متر
+          - article [ref=e810]:
+            - generic [ref=e811]:
+              - link [ref=e812] [cursor=pointer]:
+                - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%da%a9%d8%a7%d9%85%d9%84-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-4-16-%d8%b9%d8%af%d8%af%db%8c/
+                - generic [ref=e813]:
+                  - img "دریچه گاز کامل نیسان یورو 4 (16 عددی)"
+              - generic [ref=e814]:
+                - generic "0 از 5" [ref=e816]:
+                  - generic [ref=e817]: ★
+                  - generic [ref=e818]: ★
+                  - generic [ref=e819]: ★
+                  - generic [ref=e820]: ★
+                  - generic [ref=e821]: ★
+                - link "دریچه گاز کامل نیسان یورو 4 (16 عددی)" [ref=e822] [cursor=pointer]:
+                  - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%da%a9%d8%a7%d9%85%d9%84-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-4-16-%d8%b9%d8%af%d8%af%db%8c/
+                - generic [ref=e823]:
+                  - generic [ref=e824]:
+                    - generic [ref=e825]: قیمت
+                    - generic [ref=e826]: 83,000,000 تومان
+                  - link "مشاهده محصول" [ref=e829] [cursor=pointer]:
+                    - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%da%a9%d8%a7%d9%85%d9%84-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-4-16-%d8%b9%d8%af%d8%af%db%8c/
+              - link "افزودن به سبد خرید" [ref=e833] [cursor=pointer]:
+                - /url: /?add-to-cart=10229
+            - generic:
+              - generic: ویژگی‌های محصول
+              - generic:
+                - generic:
+                  - generic: "استاندارد آلایندگی:"
+                  - generic: یورو 4
+                - generic:
+                  - generic: "نوع خودرو :"
+                  - generic: نیسان
+                - generic:
+                  - generic: "قطر دهانه :"
+                  - generic: 42 میلی متر
+          - article [ref=e840]:
+            - generic [ref=e841]:
+              - link [ref=e842] [cursor=pointer]:
+                - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%da%a9%d8%a7%d9%85%d9%84-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-4-10-%d8%b9%d8%af%d8%af%db%8c/
+                - generic [ref=e843]:
+                  - img "دریچه گاز کامل نیسان یورو 4 (10 عددی)"
+              - generic [ref=e844]:
+                - generic "0 از 5" [ref=e846]:
+                  - generic [ref=e847]: ★
+                  - generic [ref=e848]: ★
+                  - generic [ref=e849]: ★
+                  - generic [ref=e850]: ★
+                  - generic [ref=e851]: ★
+                - link "دریچه گاز کامل نیسان یورو 4 (10 عددی)" [ref=e852] [cursor=pointer]:
+                  - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%da%a9%d8%a7%d9%85%d9%84-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-4-10-%d8%b9%d8%af%d8%af%db%8c/
+                - generic [ref=e853]:
+                  - generic [ref=e854]:
+                    - generic [ref=e855]: قیمت
+                    - generic [ref=e856]: 53,000,000 تومان
+                  - link "مشاهده محصول" [ref=e859] [cursor=pointer]:
+                    - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%da%a9%d8%a7%d9%85%d9%84-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-4-10-%d8%b9%d8%af%d8%af%db%8c/
+              - link "افزودن به سبد خرید" [ref=e863] [cursor=pointer]:
+                - /url: /?add-to-cart=10228
+            - generic:
+              - generic: ویژگی‌های محصول
+              - generic:
+                - generic:
+                  - generic: "استاندارد آلایندگی:"
+                  - generic: یورو 4
+                - generic:
+                  - generic: "نوع خودرو :"
+                  - generic: نیسان
+                - generic:
+                  - generic: "قطر دهانه :"
+                  - generic: 42 میلی متر
+          - article [ref=e870]:
+            - generic [ref=e871]:
+              - link [ref=e872] [cursor=pointer]:
+                - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%da%a9%d8%a7%d9%85%d9%84-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-4-5%d8%b9%d8%af%d8%af%db%8c/
+                - generic [ref=e873]:
+                  - img "دریچه گاز کامل نیسان یورو 4 (5عددی)"
+              - generic [ref=e874]:
+                - generic "0 از 5" [ref=e876]:
+                  - generic [ref=e877]: ★
+                  - generic [ref=e878]: ★
+                  - generic [ref=e879]: ★
+                  - generic [ref=e880]: ★
+                  - generic [ref=e881]: ★
+                - link "دریچه گاز کامل نیسان یورو 4 (5عددی)" [ref=e882] [cursor=pointer]:
+                  - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%da%a9%d8%a7%d9%85%d9%84-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-4-5%d8%b9%d8%af%d8%af%db%8c/
+                - generic [ref=e883]:
+                  - generic [ref=e884]:
+                    - generic [ref=e885]: قیمت
+                    - generic [ref=e886]: 27,000,000 تومان
+                  - link "مشاهده محصول" [ref=e889] [cursor=pointer]:
+                    - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%da%a9%d8%a7%d9%85%d9%84-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-4-5%d8%b9%d8%af%d8%af%db%8c/
+              - link "افزودن به سبد خرید" [ref=e893] [cursor=pointer]:
+                - /url: /?add-to-cart=10225
+            - generic:
+              - generic: ویژگی‌های محصول
+              - generic:
+                - generic:
+                  - generic: "استاندارد آلایندگی:"
+                  - generic: یورو 4
+                - generic:
+                  - generic: "نوع خودرو :"
+                  - generic: نیسان
+                - generic:
+                  - generic: "قطر دهانه :"
+                  - generic: 42 میلی متر
+          - article [ref=e900]:
+            - generic [ref=e901]:
+              - link [ref=e902] [cursor=pointer]:
+                - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%da%a9%d8%a7%d9%85%d9%84-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-2-%d8%b3%d8%a7%da%98%d9%85-20-%d8%b9%d8%af%d8%af%db%8c/
+                - generic [ref=e903]:
+                  - img "دریچه گاز کامل نیسان یورو 2 ساژم (20 عددی)"
+              - generic [ref=e904]:
+                - generic "0 از 5" [ref=e906]:
+                  - generic [ref=e907]: ★
+                  - generic [ref=e908]: ★
+                  - generic [ref=e909]: ★
+                  - generic [ref=e910]: ★
+                  - generic [ref=e911]: ★
+                - link "دریچه گاز کامل نیسان یورو 2 ساژم (20 عددی)" [ref=e912] [cursor=pointer]:
+                  - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%da%a9%d8%a7%d9%85%d9%84-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-2-%d8%b3%d8%a7%da%98%d9%85-20-%d8%b9%d8%af%d8%af%db%8c/
+                - generic [ref=e913]:
+                  - generic [ref=e914]:
+                    - generic [ref=e915]: قیمت
+                    - generic [ref=e916]: 99,000,000 تومان
+                  - link "مشاهده محصول" [ref=e919] [cursor=pointer]:
+                    - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%da%a9%d8%a7%d9%85%d9%84-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-2-%d8%b3%d8%a7%da%98%d9%85-20-%d8%b9%d8%af%d8%af%db%8c/
+              - link "افزودن به سبد خرید" [ref=e923] [cursor=pointer]:
+                - /url: /?add-to-cart=10221
+            - generic:
+              - generic: ویژگی‌های محصول
+              - generic:
+                - generic:
+                  - generic: "استاندارد آلایندگی:"
+                  - generic: یورو 2
+                - generic:
+                  - generic: "نوع خودرو :"
+                  - generic: نیسان
+                - generic:
+                  - generic: "قطر دهانه :"
+                  - generic: 57 میلی‌متر
+          - article [ref=e930]:
+            - generic [ref=e931]:
+              - link [ref=e932] [cursor=pointer]:
+                - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%da%a9%d8%a7%d9%85%d9%84-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-2-%d8%b3%d8%a7%da%98%d9%85-16-%d8%b9%d8%af%d8%af%db%8c/
+                - generic [ref=e933]:
+                  - img "دریچه گاز کامل نیسان یورو 2 ساژم (16 عددی)"
+              - generic [ref=e934]:
+                - generic "0 از 5" [ref=e936]:
+                  - generic [ref=e937]: ★
+                  - generic [ref=e938]: ★
+                  - generic [ref=e939]: ★
+                  - generic [ref=e940]: ★
+                  - generic [ref=e941]: ★
+                - link "دریچه گاز کامل نیسان یورو 2 ساژم (16 عددی)" [ref=e942] [cursor=pointer]:
+                  - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%da%a9%d8%a7%d9%85%d9%84-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-2-%d8%b3%d8%a7%da%98%d9%85-16-%d8%b9%d8%af%d8%af%db%8c/
+                - generic [ref=e943]:
+                  - generic [ref=e944]:
+                    - generic [ref=e945]: قیمت
+                    - generic [ref=e946]: 83,000,000 تومان
+                  - link "مشاهده محصول" [ref=e949] [cursor=pointer]:
+                    - /url: https://newcapital.ir/product/%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%da%a9%d8%a7%d9%85%d9%84-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-2-%d8%b3%d8%a7%da%98%d9%85-16-%d8%b9%d8%af%d8%af%db%8c/
+              - link "افزودن به سبد خرید" [ref=e953] [cursor=pointer]:
+                - /url: /?add-to-cart=10220
+            - generic:
+              - generic: ویژگی‌های محصول
+              - generic:
+                - generic:
+                  - generic: "استاندارد آلایندگی:"
+                  - generic: یورو 2
+                - generic:
+                  - generic: "نوع خودرو :"
+                  - generic: نیسان
+                - generic:
+                  - generic: "قطر دهانه :"
+                  - generic: 57 میلی‌متر
+        - generic [ref=e959]:
+          - button [ref=e960] [cursor=pointer]
+          - button [ref=e961] [cursor=pointer]
+          - button [ref=e962] [cursor=pointer]
+          - button [ref=e963] [cursor=pointer]
+          - button [ref=e964] [cursor=pointer]
+        - slider "ناوبری اسلایدر محصولات" [ref=e966] [cursor=pointer]
+      - generic [ref=e971]:
+        - generic [ref=e972]:
+          - heading "پرفروش‌ترین محصولات" [level=2] [ref=e974]
+          - generic [ref=e975]:
+            - link "مشاهده همه" [ref=e976] [cursor=pointer]:
+              - /url: https://newcapital.ir/%d9%86%db%8c%d9%88%da%a9%d8%a7%d9%be%db%8c%d8%aa%d8%a7%d9%84/
+            - generic [ref=e980]:
+              - button "محصول قبلی" [ref=e981] [cursor=pointer]
+              - button "محصول بعدی" [ref=e984] [cursor=pointer]
+        - tablist "دسته‌بندی محصولات" [ref=e988]:
+          - button "همه" [ref=e989] [cursor=pointer]
+          - button "پک کامل منیفولد" [ref=e990] [cursor=pointer]
+        - generic [ref=e992]:
+          - article [ref=e994]:
+            - generic [ref=e995]:
+              - link [ref=e996] [cursor=pointer]:
+                - /url: https://newcapital.ir/product/%d8%b1%db%8c%d9%84-%d8%b3%d9%88%d8%ae%d8%aa-xum/
+                - img "ریل سوخت XUM" [ref=e998]
+              - generic [ref=e999]:
+                - generic "0 از 5" [ref=e1001]:
+                  - generic [ref=e1002]: ★
+                  - generic [ref=e1003]: ★
+                  - generic [ref=e1004]: ★
+                  - generic [ref=e1005]: ★
+                  - generic [ref=e1006]: ★
+                - link "ریل سوخت XUM" [ref=e1007] [cursor=pointer]:
+                  - /url: https://newcapital.ir/product/%d8%b1%db%8c%d9%84-%d8%b3%d9%88%d8%ae%d8%aa-xum/
+                - generic [ref=e1008]:
+                  - generic [ref=e1009]:
+                    - generic [ref=e1010]: قیمت
+                    - generic [ref=e1011]: 990,000 تومان
+                  - link "مشاهده محصول" [ref=e1014] [cursor=pointer]:
+                    - /url: https://newcapital.ir/product/%d8%b1%db%8c%d9%84-%d8%b3%d9%88%d8%ae%d8%aa-xum/
+              - link "افزودن به سبد خرید" [ref=e1018] [cursor=pointer]:
+                - /url: /?add-to-cart=9825
+          - article [ref=e1025]:
+            - generic [ref=e1026]:
+              - link [ref=e1027] [cursor=pointer]:
+                - /url: https://newcapital.ir/product/%d9%85%d9%86%db%8c%d9%81%d9%88%d9%84%d8%af-xum/
+                - img "منیفولد XUM" [ref=e1029]
+              - generic [ref=e1030]:
+                - generic "0 از 5" [ref=e1032]:
+                  - generic [ref=e1033]: ★
+                  - generic [ref=e1034]: ★
+                  - generic [ref=e1035]: ★
+                  - generic [ref=e1036]: ★
+                  - generic [ref=e1037]: ★
+                - link "منیفولد XUM" [ref=e1038] [cursor=pointer]:
+                  - /url: https://newcapital.ir/product/%d9%85%d9%86%db%8c%d9%81%d9%88%d9%84%d8%af-xum/
+                - generic [ref=e1039]:
+                  - generic [ref=e1040]:
+                    - generic [ref=e1041]: قیمت
+                    - generic [ref=e1042]: 4,590,000 تومان
+                  - link "مشاهده محصول" [ref=e1045] [cursor=pointer]:
+                    - /url: https://newcapital.ir/product/%d9%85%d9%86%db%8c%d9%81%d9%88%d9%84%d8%af-xum/
+              - link "افزودن به سبد خرید" [ref=e1049] [cursor=pointer]:
+                - /url: /?add-to-cart=9826
+          - article [ref=e1056]:
+            - generic [ref=e1057]:
+              - link [ref=e1058] [cursor=pointer]:
+                - /url: https://newcapital.ir/product/%d8%b3%d8%a7%d8%b2%da%af%d8%a7%d8%b1%db%8c-%d8%a8%d8%a7-ecu%d8%8c-%d8%a8%d8%af%d9%88%d9%86-%d8%ae%d8%b7%d8%a7%d8%8c-%da%a9%d8%a7%d9%85%d9%84%d8%a7%d9%8b-%d9%87%d9%85%d8%a7%d9%87%d9%86%da%af-%d8%a8/
+                - img "پک منیفولد XUM + دریچه گاز نیسان یورو2 ساژم" [ref=e1060]
+              - generic [ref=e1061]:
+                - generic "0 از 5" [ref=e1063]:
+                  - generic [ref=e1064]: ★
+                  - generic [ref=e1065]: ★
+                  - generic [ref=e1066]: ★
+                  - generic [ref=e1067]: ★
+                  - generic [ref=e1068]: ★
+                - link "پک منیفولد XUM + دریچه گاز نیسان یورو2 ساژم" [ref=e1069] [cursor=pointer]:
+                  - /url: https://newcapital.ir/product/%d8%b3%d8%a7%d8%b2%da%af%d8%a7%d8%b1%db%8c-%d8%a8%d8%a7-ecu%d8%8c-%d8%a8%d8%af%d9%88%d9%86-%d8%ae%d8%b7%d8%a7%d8%8c-%da%a9%d8%a7%d9%85%d9%84%d8%a7%d9%8b-%d9%87%d9%85%d8%a7%d9%87%d9%86%da%af-%d8%a8/
+                - generic [ref=e1070]:
+                  - generic [ref=e1071]:
+                    - generic [ref=e1072]: قیمت
+                    - generic [ref=e1073]: 10,900,000 تومان
+                  - link "مشاهده محصول" [ref=e1076] [cursor=pointer]:
+                    - /url: https://newcapital.ir/product/%d8%b3%d8%a7%d8%b2%da%af%d8%a7%d8%b1%db%8c-%d8%a8%d8%a7-ecu%d8%8c-%d8%a8%d8%af%d9%88%d9%86-%d8%ae%d8%b7%d8%a7%d8%8c-%da%a9%d8%a7%d9%85%d9%84%d8%a7%d9%8b-%d9%87%d9%85%d8%a7%d9%87%d9%86%da%af-%d8%a8/
+              - link "افزودن به سبد خرید" [ref=e1080] [cursor=pointer]:
+                - /url: /?add-to-cart=10073
+            - generic:
+              - generic: ویژگی‌های محصول
+              - generic:
+                - generic:
+                  - generic: "نوع خودرو :"
+                  - generic: جهت تقویت و تیونینگ انواع خودرو
+                - generic:
+                  - generic: "ساخت :"
+                  - generic: با افتخار ایران
+                - generic:
+                  - generic: "نوع سیستم:"
+                  - generic: دریچه گاز سیمی
+          - article [ref=e1087]:
+            - generic [ref=e1088]:
+              - link [ref=e1089] [cursor=pointer]:
+                - /url: https://newcapital.ir/product/%d9%be%da%a9-%d9%85%d9%86%db%8c%d9%81%d9%88%d9%84%d8%af-xum-%d9%88-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-4-%d8%b2%db%8c%d9%85/
+                - img "پک منیفولد XUM + دریچه گاز نیسان یورو 4 زیمنس" [ref=e1091]
+              - generic [ref=e1092]:
+                - generic "0 از 5" [ref=e1094]:
+                  - generic [ref=e1095]: ★
+                  - generic [ref=e1096]: ★
+                  - generic [ref=e1097]: ★
+                  - generic [ref=e1098]: ★
+                  - generic [ref=e1099]: ★
+                - link "پک منیفولد XUM + دریچه گاز نیسان یورو 4 زیمنس" [ref=e1100] [cursor=pointer]:
+                  - /url: https://newcapital.ir/product/%d9%be%da%a9-%d9%85%d9%86%db%8c%d9%81%d9%88%d9%84%d8%af-xum-%d9%88-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-4-%d8%b2%db%8c%d9%85/
+                - generic [ref=e1101]:
+                  - generic [ref=e1102]:
+                    - generic [ref=e1103]: قیمت
+                    - generic [ref=e1104]: 10,900,000 تومان
+                  - link "مشاهده محصول" [ref=e1107] [cursor=pointer]:
+                    - /url: https://newcapital.ir/product/%d9%be%da%a9-%d9%85%d9%86%db%8c%d9%81%d9%88%d9%84%d8%af-xum-%d9%88-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-4-%d8%b2%db%8c%d9%85/
+              - link "افزودن به سبد خرید" [ref=e1111] [cursor=pointer]:
+                - /url: /?add-to-cart=10078
+            - generic:
+              - generic: ویژگی‌های محصول
+              - generic:
+                - generic:
+                  - generic: "نوع خودرو :"
+                  - generic: جهت تقویت و تیونینگ انواع خودرو
+                - generic:
+                  - generic: "ساخت :"
+                  - generic: با افتخار ایران
+                - generic:
+                  - generic: "نوع سیستم:"
+                  - generic: دریچه گاز سیمی
+          - article [ref=e1118]:
+            - generic [ref=e1119]:
+              - link [ref=e1120] [cursor=pointer]:
+                - /url: https://newcapital.ir/product/%d9%be%da%a9-%d9%85%d9%86%db%8c%d9%81%d9%88%d9%84%d8%af-xum-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-2-%d8%b3%d8%a7%da%98%d9%85-%d9%88/
+                - img "پک منیفولد XUM دریچه گاز نیسان یورو 2 ساژم+ ریل سوخت" [ref=e1122]
+              - generic [ref=e1123]:
+                - generic "0 از 5" [ref=e1125]:
+                  - generic [ref=e1126]: ★
+                  - generic [ref=e1127]: ★
+                  - generic [ref=e1128]: ★
+                  - generic [ref=e1129]: ★
+                  - generic [ref=e1130]: ★
+                - link "پک منیفولد XUM دریچه گاز نیسان یورو 2 ساژم+ ریل سوخت" [ref=e1131] [cursor=pointer]:
+                  - /url: https://newcapital.ir/product/%d9%be%da%a9-%d9%85%d9%86%db%8c%d9%81%d9%88%d9%84%d8%af-xum-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-2-%d8%b3%d8%a7%da%98%d9%85-%d9%88/
+                - generic [ref=e1132]:
+                  - generic [ref=e1133]:
+                    - generic [ref=e1134]: قیمت
+                    - generic [ref=e1135]: 11,900,000 تومان
+                  - link "مشاهده محصول" [ref=e1138] [cursor=pointer]:
+                    - /url: https://newcapital.ir/product/%d9%be%da%a9-%d9%85%d9%86%db%8c%d9%81%d9%88%d9%84%d8%af-xum-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-2-%d8%b3%d8%a7%da%98%d9%85-%d9%88/
+              - link "افزودن به سبد خرید" [ref=e1142] [cursor=pointer]:
+                - /url: /?add-to-cart=10080
+            - generic:
+              - generic: ویژگی‌های محصول
+              - generic:
+                - generic:
+                  - generic: "نوع خودرو :"
+                  - generic: جهت تقویت و تیونینگ انواع خودرو
+                - generic:
+                  - generic: "ساخت :"
+                  - generic: با افتخار ایران
+                - generic:
+                  - generic: "نوع سیستم:"
+                  - generic: دریچه گاز سیمی
+          - article [ref=e1149]:
+            - generic [ref=e1150]:
+              - link [ref=e1151] [cursor=pointer]:
+                - /url: https://newcapital.ir/product/%d9%be%da%a9-%d9%85%d9%86%db%8c%d9%81%d9%88%d9%84%d8%af-xum-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-4-%d8%b2%db%8c%d9%85%d9%86%d8%b3/
+                - img "پک منیفولد XUM دریچه گاز نیسان یورو 4 زیمنس + ریل سوخت" [ref=e1153]
+              - generic [ref=e1154]:
+                - generic "0 از 5" [ref=e1156]:
+                  - generic [ref=e1157]: ★
+                  - generic [ref=e1158]: ★
+                  - generic [ref=e1159]: ★
+                  - generic [ref=e1160]: ★
+                  - generic [ref=e1161]: ★
+                - link "پک منیفولد XUM دریچه گاز نیسان یورو 4 زیمنس + ریل سوخت" [ref=e1162] [cursor=pointer]:
+                  - /url: https://newcapital.ir/product/%d9%be%da%a9-%d9%85%d9%86%db%8c%d9%81%d9%88%d9%84%d8%af-xum-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-4-%d8%b2%db%8c%d9%85%d9%86%d8%b3/
+                - generic [ref=e1163]:
+                  - generic [ref=e1164]:
+                    - generic [ref=e1165]: قیمت
+                    - generic [ref=e1166]: 11,900,000 تومان
+                  - link "مشاهده محصول" [ref=e1169] [cursor=pointer]:
+                    - /url: https://newcapital.ir/product/%d9%be%da%a9-%d9%85%d9%86%db%8c%d9%81%d9%88%d9%84%d8%af-xum-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-4-%d8%b2%db%8c%d9%85%d9%86%d8%b3/
+              - link "افزودن به سبد خرید" [ref=e1173] [cursor=pointer]:
+                - /url: /?add-to-cart=10084
+            - generic:
+              - generic: ویژگی‌های محصول
+              - generic:
+                - generic:
+                  - generic: "نوع خودرو :"
+                  - generic: جهت تقویت و تیونینگ انواع خودرو
+                - generic:
+                  - generic: "ساخت :"
+                  - generic: با افتخار ایران
+                - generic:
+                  - generic: "نوع سیستم:"
+                  - generic: دریچه گاز سیمی
+          - article [ref=e1180]:
+            - generic [ref=e1181]:
+              - link [ref=e1182] [cursor=pointer]:
+                - /url: https://newcapital.ir/product/%d9%be%da%a9-%d9%85%d9%86%db%8c%d9%81%d9%88%d9%84%d8%af-xum-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-2-%d8%b3%d8%a7%da%98%d9%85/
+                - img "پک منیفولد XUM + دریچه گاز نیسان یورو 2 ساژم + پک فلنچ تبدیل" [ref=e1184]
+              - generic [ref=e1185]:
+                - generic "0 از 5" [ref=e1187]:
+                  - generic [ref=e1188]: ★
+                  - generic [ref=e1189]: ★
+                  - generic [ref=e1190]: ★
+                  - generic [ref=e1191]: ★
+                  - generic [ref=e1192]: ★
+                - link "پک منیفولد XUM + دریچه گاز نیسان یورو 2 ساژم + پک فلنچ تبدیل" [ref=e1193] [cursor=pointer]:
+                  - /url: https://newcapital.ir/product/%d9%be%da%a9-%d9%85%d9%86%db%8c%d9%81%d9%88%d9%84%d8%af-xum-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-2-%d8%b3%d8%a7%da%98%d9%85/
+                - generic [ref=e1194]:
+                  - generic [ref=e1195]:
+                    - generic [ref=e1196]: قیمت
+                    - generic [ref=e1197]: 11,900,000 تومان
+                  - link "مشاهده محصول" [ref=e1200] [cursor=pointer]:
+                    - /url: https://newcapital.ir/product/%d9%be%da%a9-%d9%85%d9%86%db%8c%d9%81%d9%88%d9%84%d8%af-xum-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-2-%d8%b3%d8%a7%da%98%d9%85/
+              - link "افزودن به سبد خرید" [ref=e1204] [cursor=pointer]:
+                - /url: /?add-to-cart=10160
+            - generic:
+              - generic: ویژگی‌های محصول
+              - generic:
+                - generic:
+                  - generic: "نوع خودرو :"
+                  - generic: جهت تقویت و تیونینگ انواع خودرو
+                - generic:
+                  - generic: "ساخت :"
+                  - generic: با افتخار ایران
+                - generic:
+                  - generic: "نوع سیستم:"
+                  - generic: دریچه گاز سیمی
+          - article [ref=e1211]:
+            - generic [ref=e1212]:
+              - link [ref=e1213] [cursor=pointer]:
+                - /url: https://newcapital.ir/product/%d9%be%da%a9-%d9%85%d9%86%db%8c%d9%81%d9%88%d9%84%d8%af-xum-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-4-%d8%b2%db%8c%d9%85%d9%86/
+                - img "پک منیفولد XUM + دریچه گاز نیسان یورو 4 زیمنس + پک فلنچ تبدیل" [ref=e1215]
+              - generic [ref=e1216]:
+                - generic "0 از 5" [ref=e1218]:
+                  - generic [ref=e1219]: ★
+                  - generic [ref=e1220]: ★
+                  - generic [ref=e1221]: ★
+                  - generic [ref=e1222]: ★
+                  - generic [ref=e1223]: ★
+                - link "پک منیفولد XUM + دریچه گاز نیسان یورو 4 زیمنس + پک فلنچ تبدیل" [ref=e1224] [cursor=pointer]:
+                  - /url: https://newcapital.ir/product/%d9%be%da%a9-%d9%85%d9%86%db%8c%d9%81%d9%88%d9%84%d8%af-xum-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-4-%d8%b2%db%8c%d9%85%d9%86/
+                - generic [ref=e1225]:
+                  - generic [ref=e1226]:
+                    - generic [ref=e1227]: قیمت
+                    - generic [ref=e1228]: 11,900,000 تومان
+                  - link "مشاهده محصول" [ref=e1231] [cursor=pointer]:
+                    - /url: https://newcapital.ir/product/%d9%be%da%a9-%d9%85%d9%86%db%8c%d9%81%d9%88%d9%84%d8%af-xum-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-4-%d8%b2%db%8c%d9%85%d9%86/
+              - link "افزودن به سبد خرید" [ref=e1235] [cursor=pointer]:
+                - /url: /?add-to-cart=10161
+            - generic:
+              - generic: ویژگی‌های محصول
+              - generic:
+                - generic:
+                  - generic: "نوع خودرو :"
+                  - generic: جهت تقویت و تیونینگ انواع خودرو
+                - generic:
+                  - generic: "ساخت :"
+                  - generic: با افتخار ایران
+                - generic:
+                  - generic: "نوع سیستم:"
+                  - generic: دریچه گاز سیمی
+          - article [ref=e1242]:
+            - generic [ref=e1243]:
+              - link [ref=e1244] [cursor=pointer]:
+                - /url: https://newcapital.ir/product/%d9%be%da%a9-%d9%85%d9%86%db%8c%d9%81%d9%88%d9%84%d8%af-xum-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-2-%d8%b3%d8%a7%da%98%d9%85-2/
+                - img "پک منیفولد XUM دریچه گاز نیسان یورو 2 ساژم+ ریل سوخت + پک فلنچ تبدیل" [ref=e1246]
+              - generic [ref=e1247]:
+                - generic "0 از 5" [ref=e1249]:
+                  - generic [ref=e1250]: ★
+                  - generic [ref=e1251]: ★
+                  - generic [ref=e1252]: ★
+                  - generic [ref=e1253]: ★
+                  - generic [ref=e1254]: ★
+                - link "پک منیفولد XUM دریچه گاز نیسان یورو 2 ساژم+ ریل سوخت + پک فلنچ تبدیل" [ref=e1255] [cursor=pointer]:
+                  - /url: https://newcapital.ir/product/%d9%be%da%a9-%d9%85%d9%86%db%8c%d9%81%d9%88%d9%84%d8%af-xum-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-2-%d8%b3%d8%a7%da%98%d9%85-2/
+                - generic [ref=e1256]:
+                  - generic [ref=e1257]:
+                    - generic [ref=e1258]: قیمت
+                    - generic [ref=e1259]: 12,900,000 تومان
+                  - link "مشاهده محصول" [ref=e1262] [cursor=pointer]:
+                    - /url: https://newcapital.ir/product/%d9%be%da%a9-%d9%85%d9%86%db%8c%d9%81%d9%88%d9%84%d8%af-xum-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-2-%d8%b3%d8%a7%da%98%d9%85-2/
+              - link "افزودن به سبد خرید" [ref=e1266] [cursor=pointer]:
+                - /url: /?add-to-cart=10162
+            - generic:
+              - generic: ویژگی‌های محصول
+              - generic:
+                - generic:
+                  - generic: "ساخت :"
+                  - generic: با افتخار ایران
+                - generic:
+                  - generic: "نوع سیستم:"
+                  - generic: دریچه گاز سیمی
+                - generic:
+                  - generic: "گارانتی :"
+                  - generic: ضمانت بی قید و شرط تعویض
+          - article [ref=e1273]:
+            - generic [ref=e1274]:
+              - link [ref=e1275] [cursor=pointer]:
+                - /url: https://newcapital.ir/product/%d9%be%da%a9-%d9%85%d9%86%db%8c%d9%81%d9%88%d9%84%d8%af-xum-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-4-%d8%b2%db%8c%d9%85%d9%86%d8%b3-2/
+                - generic [ref=e1276]:
+                  - img "پک منیفولد XUM دریچه گاز نیسان یورو 4 زیمنس + ریل سوخت + پک فلنچ تبدیل"
+              - generic [ref=e1277]:
+                - generic "0 از 5" [ref=e1279]:
+                  - generic [ref=e1280]: ★
+                  - generic [ref=e1281]: ★
+                  - generic [ref=e1282]: ★
+                  - generic [ref=e1283]: ★
+                  - generic [ref=e1284]: ★
+                - link "پک منیفولد XUM دریچه گاز نیسان یورو 4 زیمنس + ریل سوخت + پک فلنچ تبدیل" [ref=e1285] [cursor=pointer]:
+                  - /url: https://newcapital.ir/product/%d9%be%da%a9-%d9%85%d9%86%db%8c%d9%81%d9%88%d9%84%d8%af-xum-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-4-%d8%b2%db%8c%d9%85%d9%86%d8%b3-2/
+                - generic [ref=e1286]:
+                  - generic [ref=e1287]:
+                    - generic [ref=e1288]: قیمت
+                    - generic [ref=e1289]: 12,900,000 تومان
+                  - link "مشاهده محصول" [ref=e1292] [cursor=pointer]:
+                    - /url: https://newcapital.ir/product/%d9%be%da%a9-%d9%85%d9%86%db%8c%d9%81%d9%88%d9%84%d8%af-xum-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2-%d9%86%db%8c%d8%b3%d8%a7%d9%86-%db%8c%d9%88%d8%b1%d9%88-4-%d8%b2%db%8c%d9%85%d9%86%d8%b3-2/
+              - link "افزودن به سبد خرید" [ref=e1296] [cursor=pointer]:
+                - /url: /?add-to-cart=10163
+            - generic:
+              - generic: ویژگی‌های محصول
+              - generic:
+                - generic:
+                  - generic: "ساخت :"
+                  - generic: با افتخار ایران
+                - generic:
+                  - generic: "نوع سیستم:"
+                  - generic: دریچه گاز سیمی
+                - generic:
+                  - generic: "گارانتی :"
+                  - generic: ضمانت بی قید و شرط تعویض
+        - generic [ref=e1302]:
+          - button [ref=e1303] [cursor=pointer]
+          - button [ref=e1304] [cursor=pointer]
+          - button [ref=e1305] [cursor=pointer]
+          - button [ref=e1306] [cursor=pointer]
+          - button [ref=e1307] [cursor=pointer]
+        - slider "ناوبری اسلایدر محصولات" [ref=e1309] [cursor=pointer]
+      - generic [ref=e1314]:
+        - generic [ref=e1315]:
+          - generic [ref=e1316]:
+            - generic [ref=e1317]: NEW CAPITAL JOURNAL
+            - heading "آخرین مقالات و راهنماها" [level=2] [ref=e1320]
+          - generic [ref=e1321]:
+            - link "مشاهده همه مقالات" [ref=e1322] [cursor=pointer]:
+              - /url: https://newcapital.ir/%d9%85%d8%b7%d8%a7%d9%84%d8%a8-%d9%85%d9%81%db%8c%d8%af/
+            - generic [ref=e1326]:
+              - button "قبلی" [ref=e1327] [cursor=pointer]
+              - button "بعدی" [ref=e1330] [cursor=pointer]
+        - generic [ref=e1335]:
+          - article [ref=e1337]:
+            - link "دریچه گاز نیسان وانت چگونه کار می‌کند؟ آموزش دریچه گاز 01" [ref=e1338] [cursor=pointer]:
+              - /url: https://newcapital.ir/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2/nissan-pickup-throttle/
+              - generic [ref=e1339]:
+                - img "دریچه گاز نیسان وانت چگونه کار می‌کند؟"
+                - generic [ref=e1341]: آموزش دریچه گاز
+                - generic [ref=e1342]: "01"
+            - generic [ref=e1343]:
+              - generic [ref=e1344]:
+                - generic [ref=e1345]: جولای 25, 2026
+                - generic [ref=e1349]: 9 دقیقه مطالعه
+              - link "دریچه گاز نیسان وانت چگونه کار می‌کند؟" [ref=e1353] [cursor=pointer]:
+                - /url: https://newcapital.ir/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2/nissan-pickup-throttle/
+              - generic [ref=e1354]: دریچه گاز نیسان وانت یکی از قطعات مهم در مسیر ورود هوا به موتور است و…
+              - link "مطالعه مقاله" [ref=e1357] [cursor=pointer]:
+                - /url: https://newcapital.ir/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2/nissan-pickup-throttle/
+          - article [ref=e1362]:
+            - link "ریست دریچه گاز آموزش دریچه گاز 02" [ref=e1363] [cursor=pointer]:
+              - /url: https://newcapital.ir/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2/reset-throttle-body/
+              - generic [ref=e1364]:
+                - img "ریست دریچه گاز"
+                - generic [ref=e1366]: آموزش دریچه گاز
+                - generic [ref=e1367]: "02"
+            - generic [ref=e1368]:
+              - generic [ref=e1369]:
+                - generic [ref=e1370]: جولای 24, 2026
+                - generic [ref=e1374]: 7 دقیقه مطالعه
+              - link "ریست دریچه گاز" [ref=e1378] [cursor=pointer]:
+                - /url: https://newcapital.ir/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2/reset-throttle-body/
+              - generic [ref=e1379]: ریست دریچه گاز یکی از فرایندهای مهم در عیب‌یابی و تنظیم سیستم مدیریت موتور خودرو است…
+              - link "مطالعه مقاله" [ref=e1382] [cursor=pointer]:
+                - /url: https://newcapital.ir/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2/reset-throttle-body/
+          - article [ref=e1387]:
+            - link "تست دریچه گاز با دیاگ عیب یابی دریچه گاز 03" [ref=e1388] [cursor=pointer]:
+              - /url: https://newcapital.ir/%d8%b9%db%8c%d8%a8-%db%8c%d8%a7%d8%a8%db%8c-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2/throttle-body-diagnostic-test/
+              - generic [ref=e1389]:
+                - img "تست دریچه گاز با دیاگ"
+                - generic [ref=e1391]: عیب یابی دریچه گاز
+                - generic [ref=e1392]: "03"
+            - generic [ref=e1393]:
+              - generic [ref=e1394]:
+                - generic [ref=e1395]: جولای 23, 2026
+                - generic [ref=e1399]: 8 دقیقه مطالعه
+              - link "تست دریچه گاز با دیاگ" [ref=e1403] [cursor=pointer]:
+                - /url: https://newcapital.ir/%d8%b9%db%8c%d8%a8-%db%8c%d8%a7%d8%a8%db%8c-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2/throttle-body-diagnostic-test/
+              - generic [ref=e1404]: تست دریچه گاز با دیاگ به تعمیر کمک می‌کند عملکرد سنسور دریچه گاز، وضعیت باز و…
+              - link "مطالعه مقاله" [ref=e1407] [cursor=pointer]:
+                - /url: https://newcapital.ir/%d8%b9%db%8c%d8%a8-%db%8c%d8%a7%d8%a8%db%8c-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2/throttle-body-diagnostic-test/
+          - article [ref=e1412]:
+            - link "مزایا و معایب دریچه گاز برقی و سیمی آموزش دریچه گاز 04" [ref=e1413] [cursor=pointer]:
+              - /url: https://newcapital.ir/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2/advantages-and-disadvantages-of-electric-and-cable-throttle-body/
+              - generic [ref=e1414]:
+                - img "مزایا و معایب دریچه گاز برقی و سیمی"
+                - generic [ref=e1416]: آموزش دریچه گاز
+                - generic [ref=e1417]: "04"
+            - generic [ref=e1418]:
+              - generic [ref=e1419]:
+                - generic [ref=e1420]: جولای 22, 2026
+                - generic [ref=e1424]: 8 دقیقه مطالعه
+              - link "مزایا و معایب دریچه گاز برقی و سیمی" [ref=e1428] [cursor=pointer]:
+                - /url: https://newcapital.ir/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2/advantages-and-disadvantages-of-electric-and-cable-throttle-body/
+              - generic [ref=e1429]: سیم‌کشی دریچه گاز یکی از مهم‌ترین بخش‌های سیستم مدیریت موتور است که وظیفه انتقال اطلاعات بین…
+              - link "مطالعه مقاله" [ref=e1432] [cursor=pointer]:
+                - /url: https://newcapital.ir/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2/advantages-and-disadvantages-of-electric-and-cable-throttle-body/
+          - article [ref=e1437]:
+            - link "علائم خرابی سیم‌کشی دریچه گاز آموزش دریچه گاز 05" [ref=e1438] [cursor=pointer]:
+              - /url: https://newcapital.ir/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2/throttle-body-wiring-failure-symptoms/
+              - generic [ref=e1439]:
+                - img "علائم خرابی سیم‌کشی دریچه گاز"
+                - generic [ref=e1441]: آموزش دریچه گاز
+                - generic [ref=e1442]: "05"
+            - generic [ref=e1443]:
+              - generic [ref=e1444]:
+                - generic [ref=e1445]: جولای 21, 2026
+                - generic [ref=e1449]: 7 دقیقه مطالعه
+              - link "علائم خرابی سیم‌کشی دریچه گاز" [ref=e1453] [cursor=pointer]:
+                - /url: https://newcapital.ir/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2/throttle-body-wiring-failure-symptoms/
+              - generic [ref=e1454]: سیم‌کشی دریچه گاز یکی از مهم‌ترین بخش‌های سیستم مدیریت موتور است که وظیفه انتقال اطلاعات بین…
+              - link "مطالعه مقاله" [ref=e1457] [cursor=pointer]:
+                - /url: https://newcapital.ir/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2/throttle-body-wiring-failure-symptoms/
+          - article [ref=e1462]:
+            - link "استپر موتور چیست؟ آموزش دریچه گاز 06" [ref=e1463] [cursor=pointer]:
+              - /url: https://newcapital.ir/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2/stepper-motor-guide/
+              - generic [ref=e1464]:
+                - img "استپر موتور چیست؟"
+                - generic [ref=e1466]: آموزش دریچه گاز
+                - generic [ref=e1467]: "06"
+            - generic [ref=e1468]:
+              - generic [ref=e1469]:
+                - generic [ref=e1470]: جولای 20, 2026
+                - generic [ref=e1474]: 6 دقیقه مطالعه
+              - link "استپر موتور چیست؟" [ref=e1478] [cursor=pointer]:
+                - /url: https://newcapital.ir/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2/stepper-motor-guide/
+              - generic [ref=e1479]: استپر موتور یکی از قطعات مهم سیستم هوارسانی خودروهای انژکتوری است که وظیفه تنظیم دور آرام…
+              - link "مطالعه مقاله" [ref=e1482] [cursor=pointer]:
+                - /url: https://newcapital.ir/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2/stepper-motor-guide/
+          - article [ref=e1487]:
+            - link "خرید دریچه گاز نیسان وانت راهنمای خرید دریچه گاز 07" [ref=e1488] [cursor=pointer]:
+              - /url: https://newcapital.ir/%d8%b1%d8%a7%d9%87%d9%86%d9%85%d8%a7%db%8c-%d8%ae%d8%b1%db%8c%d8%af-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2/buy-nissan-pickup-throttle-body/
+              - generic [ref=e1489]:
+                - img "خرید دریچه گاز نیسان وانت"
+                - generic [ref=e1491]: راهنمای خرید دریچه گاز
+                - generic [ref=e1492]: "07"
+            - generic [ref=e1493]:
+              - generic [ref=e1494]:
+                - generic [ref=e1495]: جولای 19, 2026
+                - generic [ref=e1499]: 7 دقیقه مطالعه
+              - link "خرید دریچه گاز نیسان وانت" [ref=e1503] [cursor=pointer]:
+                - /url: https://newcapital.ir/%d8%b1%d8%a7%d9%87%d9%86%d9%85%d8%a7%db%8c-%d8%ae%d8%b1%db%8c%d8%af-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2/buy-nissan-pickup-throttle-body/
+              - generic [ref=e1504]: خرید دریچه گاز نیسان وانت تنها به انتخاب یک قطعه یدکی محدود نمی‌شود؛ بلکه تصمیمی مهم…
+              - link "مطالعه مقاله" [ref=e1507] [cursor=pointer]:
+                - /url: https://newcapital.ir/%d8%b1%d8%a7%d9%87%d9%86%d9%85%d8%a7%db%8c-%d8%ae%d8%b1%db%8c%d8%af-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2/buy-nissan-pickup-throttle-body/
+          - article [ref=e1512]:
+            - link "چه عواملی باعث خرابی زودهنگام دریچه گاز می‌شوند؟ عیب یابی دریچه گاز 08" [ref=e1513] [cursor=pointer]:
+              - /url: https://newcapital.ir/%d8%b9%db%8c%d8%a8-%db%8c%d8%a7%d8%a8%db%8c-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2/causes-of-early-throttle-body-failure/
+              - generic [ref=e1514]:
+                - img "چه عواملی باعث خرابی زودهنگام دریچه گاز می‌شوند؟"
+                - generic [ref=e1516]: عیب یابی دریچه گاز
+                - generic [ref=e1517]: "08"
+            - generic [ref=e1518]:
+              - generic [ref=e1519]:
+                - generic [ref=e1520]: جولای 18, 2026
+                - generic [ref=e1524]: 7 دقیقه مطالعه
+              - link "چه عواملی باعث خرابی زودهنگام دریچه گاز می‌شوند؟" [ref=e1528] [cursor=pointer]:
+                - /url: https://newcapital.ir/%d8%b9%db%8c%d8%a8-%db%8c%d8%a7%d8%a8%db%8c-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2/causes-of-early-throttle-body-failure/
+              - generic [ref=e1529]: خرابی زودهنگام دریچه گاز معمولاً به دلیل تجمع آلودگی، استفاده از سوخت نامناسب، نصب غیراصولی، کیفیت…
+              - link "مطالعه مقاله" [ref=e1532] [cursor=pointer]:
+                - /url: https://newcapital.ir/%d8%b9%db%8c%d8%a8-%db%8c%d8%a7%d8%a8%db%8c-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2/causes-of-early-throttle-body-failure/
+          - article [ref=e1537]:
+            - link "نحوه تست سنسور TPS عیب یابی دریچه گاز 09" [ref=e1538] [cursor=pointer]:
+              - /url: https://newcapital.ir/%d8%b9%db%8c%d8%a8-%db%8c%d8%a7%d8%a8%db%8c-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2/how-to-test-tps-sensor/
+              - generic [ref=e1539]:
+                - img "نحوه تست سنسور TPS"
+                - generic [ref=e1541]: عیب یابی دریچه گاز
+                - generic [ref=e1542]: "09"
+            - generic [ref=e1543]:
+              - generic [ref=e1544]:
+                - generic [ref=e1545]: جولای 17, 2026
+                - generic [ref=e1549]: 7 دقیقه مطالعه
+              - link "نحوه تست سنسور TPS" [ref=e1553] [cursor=pointer]:
+                - /url: https://newcapital.ir/%d8%b9%db%8c%d8%a8-%db%8c%d8%a7%d8%a8%db%8c-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2/how-to-test-tps-sensor/
+              - generic [ref=e1554]: خرید عمده دریچه گاز نیسان از تولیدکننده معتبر، راهکاری مؤثر برای کاهش هزینه تأمین، افزایش حاشیه…
+              - link "مطالعه مقاله" [ref=e1557] [cursor=pointer]:
+                - /url: https://newcapital.ir/%d8%b9%db%8c%d8%a8-%db%8c%d8%a7%d8%a8%db%8c-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2/how-to-test-tps-sensor/
+          - article [ref=e1562]:
+            - link "علت گاز نخوردن خودرو عیب یابی دریچه گاز 10" [ref=e1563] [cursor=pointer]:
+              - /url: https://newcapital.ir/%d8%b9%db%8c%d8%a8-%db%8c%d8%a7%d8%a8%db%8c-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2/car-not-accelerating-causes/
+              - generic [ref=e1564]:
+                - img "علت گاز نخوردن خودرو"
+                - generic [ref=e1566]: عیب یابی دریچه گاز
+                - generic [ref=e1567]: "10"
+            - generic [ref=e1568]:
+              - generic [ref=e1569]:
+                - generic [ref=e1570]: جولای 16, 2026
+                - generic [ref=e1574]: 7 دقیقه مطالعه
+              - link "علت گاز نخوردن خودرو" [ref=e1578] [cursor=pointer]:
+                - /url: https://newcapital.ir/%d8%b9%db%8c%d8%a8-%db%8c%d8%a7%d8%a8%db%8c-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2/car-not-accelerating-causes/
+              - generic [ref=e1579]: خرید عمده دریچه گاز نیسان از تولیدکننده معتبر، راهکاری مؤثر برای کاهش هزینه تأمین، افزایش حاشیه…
+              - link "مطالعه مقاله" [ref=e1582] [cursor=pointer]:
+                - /url: https://newcapital.ir/%d8%b9%db%8c%d8%a8-%db%8c%d8%a7%d8%a8%db%8c-%d8%af%d8%b1%db%8c%da%86%d9%87-%da%af%d8%a7%d8%b2/car-not-accelerating-causes/
+        - generic [ref=e1586]:
+          - generic [ref=e1587]:
+            - button [ref=e1588] [cursor=pointer]
+            - button [ref=e1589] [cursor=pointer]
+            - button [ref=e1590] [cursor=pointer]
+            - button [ref=e1591] [cursor=pointer]
+            - button [ref=e1592] [cursor=pointer]
+          - slider "ناوبری مقالات" [ref=e1594] [cursor=pointer]
+  - contentinfo [ref=e1596]:
+    - contentinfo [ref=e1600]:
+      - generic [ref=e1601]:
+        - generic [ref=e1602]:
+          - generic [ref=e1603]:
+            - generic [ref=e1604]:
+              - generic [ref=e1605]: TRUST / VERIFIED
+              - heading "با خیال آسوده خرید کنید." [level=3] [ref=e1606]
+            - generic [ref=e1607]:
+              - button "نماد قبلی" [disabled] [ref=e1608] [cursor=pointer]
+              - button "نماد بعدی" [disabled] [ref=e1611] [cursor=pointer]
+          - link "نماد اعتماد نماد اعتماد" [ref=e1616] [cursor=pointer]:
+            - /url: https://trustseal.enamad.ir/?id=701076&code=vZbWHUMDQrSAs4BXd124zTrP7rrRio7c
+            - img "نماد اعتماد"
+            - generic [ref=e1618]: نماد اعتماد
+        - generic [ref=e1621]:
+          - generic [ref=e1622]:
+            - generic [ref=e1623]: تجربه خرید مطمئن
+            - generic [ref=e1626]: NewCapital
+            - generic [ref=e1627]: یک برند تخصصی در حوزه تولید و واردات قطعات یدکی خودرو است که با تمرکز ویژه بر دریچه گاز نیسان وانت فعالیت می‌کند. ما با شناخت دقیق بازار ایران و نیاز مصرف‌کنندگان، محصولاتی را عرضه می‌کنیم که از نظر کیفیت ساخت، دقت ابعادی و عملکرد فنی در بالاترین سطح استاندارد قرار دارند
+            - generic [ref=e1628]:
+              - generic [ref=e1629]: با ما در ارتباط باشید
+              - generic [ref=e1630]:
+                - link "Instagram" [ref=e1631] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1632]: 
+                - link "Telegram" [ref=e1633] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1634]: 
+                - link "WhatsApp" [ref=e1635] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e1636]: 
+                - link "robika" [ref=e1637] [cursor=pointer]:
+                  - /url: "#"
+          - generic [ref=e1641]:
+            - heading "دسترسی سریع" [level=3] [ref=e1642]
+            - generic [ref=e1643]:
+              - link "فروشگاه" [ref=e1644] [cursor=pointer]:
+                - /url: "#"
+              - link "درباره ما" [ref=e1647] [cursor=pointer]:
+                - /url: "#"
+              - link "تماس با ما" [ref=e1650] [cursor=pointer]:
+                - /url: "#"
+              - link "پیگیری سفارش" [ref=e1653] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=e1656]:
+            - heading "راهنمای مشتریان" [level=3] [ref=e1657]
+            - generic [ref=e1658]:
+              - link "قوانین و مقررات" [ref=e1659] [cursor=pointer]:
+                - /url: "#"
+              - link "رویه ارسال" [ref=e1662] [cursor=pointer]:
+                - /url: "#"
+              - link "ضمانت اصالت کالا" [ref=e1665] [cursor=pointer]:
+                - /url: "#"
+              - link "سوالات متداول" [ref=e1668] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=e1671]:
+            - heading "ارتباط مستقیم" [level=3] [ref=e1674]
+            - generic [ref=e1675]:
+              - link "تلفن ثابت 02166822418" [ref=e1676] [cursor=pointer]:
+                - /url: tel:02166822418
+                - generic [ref=e1677]: تلفن ثابت
+                - strong [ref=e1678]: "02166822418"
+              - link "موبایل 02166822418" [ref=e1679] [cursor=pointer]:
+                - /url: tel:02166822418
+                - generic [ref=e1680]: موبایل
+                - strong [ref=e1681]: "02166822418"
+              - link "ایمیل info@tivanmotor.ir" [ref=e1682] [cursor=pointer]:
+                - /url: ""
+                - generic [ref=e1683]: ایمیل
+                - strong [ref=e1684]: info@tivanmotor.ir
+            - generic [ref=e1685]: تهران، کاووسیه، خیابان 17، پلاک 13
+        - generic [ref=e1688]:
+          - generic [ref=e1689]: تمامی حقوق برای NewCapital محفوظ است.
+          - generic [ref=e1690]: خرید هوشمند، قطعه مطمئن.
+  - complementary "Footer Links" [ref=e1691]:
+    - link "WordPress Depot" [ref=e1692] [cursor=pointer]:
+      - /url: https://newcapital.ir/warehouse-home/
+    - link "PharmaCare – Pharmacy and Medical Store WordPress Theme" [ref=e1693] [cursor=pointer]:
+      - /url: https://newcapital.ir/warehouse/pharmacare-pharmacy-and-medical-store-wordpress-theme/
+    - link "Pharmacy Storefront WooCommerce Theme" [ref=e1694] [cursor=pointer]:
+      - /url: https://newcapital.ir/warehouse/pharmacy-storefront-woocommerce-theme/
+    - link "Pharmaton – Medical and Pharmacy WordPress Theme" [ref=e1695] [cursor=pointer]:
+      - /url: https://newcapital.ir/warehouse/pharmaton-medical-and-pharmacy-wordpress-theme/
+    - link "Phlox Pro – Elementor MultiPurpose WordPress Theme" [ref=e1696] [cursor=pointer]:
+      - /url: https://newcapital.ir/warehouse/phlox-pro-elementor-multipurpose-wordpress-theme/
+    - link "PHLY – Versatile Coming Soon Template" [ref=e1697] [cursor=pointer]:
+      - /url: https://newcapital.ir/warehouse/phly-versatile-coming-soon-template/
+    - link "PhoneRepair – Mobile Device Shop WordPress Theme" [ref=e1698] [cursor=pointer]:
+      - /url: https://newcapital.ir/warehouse/phonerepair-mobile-device-shop-wordpress-theme/
+    - link "Photas – Email Marketing Company Elementor Template Kit" [ref=e1699] [cursor=pointer]:
+      - /url: https://newcapital.ir/warehouse/photas-email-marketing-company-elementor-template-kit/
+    - link "Photo Nexus | WordPress Theme" [ref=e1700] [cursor=pointer]:
+      - /url: https://newcapital.ir/warehouse/photo-nexus-wordpress-theme/
+    - link "Photo Stack Addon for Elementor" [ref=e1701] [cursor=pointer]:
+      - /url: https://newcapital.ir/warehouse/photo-stack-addon-for-elementor/
+    - link "PhotoCluster 1.8 | Gallery Module for Gmedia plugin" [ref=e1702] [cursor=pointer]:
+      - /url: https://newcapital.ir/warehouse/photocluster-1-8-gallery-module-for-gmedia-plugin/
+  - generic [ref=e1703]: desktop
+  - status [ref=e1704]
+```
+### Events
+- New console entries: .playwright-cli/console-2026-09-01T08-13-43-710Z.log#L3

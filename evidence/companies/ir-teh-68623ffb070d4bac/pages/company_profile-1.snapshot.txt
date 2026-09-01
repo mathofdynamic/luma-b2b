@@ -1,0 +1,345 @@
+### Page
+- Page URL: https://avval.ir/profile/f9273/%D9%81%D8%B1%D8%A7%D8%AF%DB%8C%D8%AF-%D8%B4%D8%B1%D9%82
+- Page Title: فرادید شرق - تولید پاکت | کتاب اول
+- Console: 4 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - link "home page" [ref=e5] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - textbox "فعالیت شغلی، نام کسب و کار، خدمات و محصولات و ..." [ref=e11]
+            - generic [ref=e12]: در
+            - generic [ref=e13]:
+              - textbox "شهر، محله، منطقه، خیابان و ..." [ref=e14]
+              - button "جستجو بر اساس موقعیت مکانی" [ref=e16] [cursor=pointer]
+            - button "جستجو" [ref=e19] [cursor=pointer]
+          - list
+      - link "ثبت رایگان اطلاعات شغلی" [ref=e23] [cursor=pointer]:
+        - /url: /%D8%AB%D8%A8%D8%AA-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D8%B4%D8%BA%D9%84%DB%8C
+      - button "ورود | ثبت نام" [ref=e26] [cursor=pointer]
+    - navigation [ref=e30]:
+      - list [ref=e31]:
+        - listitem [ref=e32]:
+          - button "دسته بندی مشاغل" [ref=e33] [cursor=pointer]
+        - listitem [ref=e35]: "|"
+        - listitem [ref=e36]:
+          - link "تبلیغات با ما" [ref=e37] [cursor=pointer]:
+            - /url: /%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-%D9%88%D8%A8-%D8%B3%D8%A7%DB%8C%D8%AA-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+        - listitem [ref=e40]: "|"
+        - listitem [ref=e41]:
+          - link "دسترسی بانک مشاغل" [ref=e42] [cursor=pointer]:
+            - /url: /%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B4%D8%A7%D8%BA%D9%84-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+        - listitem [ref=e45]: "|"
+        - listitem [ref=e46]:
+          - link "پنل اس ام اس" [ref=e47] [cursor=pointer]:
+            - /url: /smspanel
+  - generic [ref=e53]:
+    - main [ref=e54]:
+      - generic [ref=e55]:
+        - img "لوگوی فرادید شرق - تولید پاکت" [ref=e57]
+        - generic [ref=e58]:
+          - heading "فرادید شرق" [level=1] [ref=e59]
+          - generic [ref=e60]: طراحی و تولید بسته بندی ایستاده زیپدار و جعبه
+          - list [ref=e61]:
+            - listitem [ref=e62]: تولید پاکت
+            - listitem [ref=e63]: تولید کارتن مقوایی
+            - listitem [ref=e64]: ماشین آلات بسته بندی
+            - listitem [ref=e65]: خدمات بسته بندی
+            - listitem [ref=e66]: بسته بندی مواد غذایی
+      - generic [ref=e67]:
+        - link "تماس" [ref=e68] [cursor=pointer]:
+          - /url: "#"
+        - button "ثبت نظر" [ref=e73] [cursor=pointer]
+        - button "ارتقای پروفایل" [ref=e76] [cursor=pointer]
+        - button "ویرایش" [ref=e79] [cursor=pointer]
+        - button "اشتراک گذاری" [ref=e84] [cursor=pointer]
+      - navigation [ref=e92]:
+        - list [ref=e93]:
+          - listitem [ref=e94]:
+            - link "link to home" [ref=e95] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e99]
+          - listitem [ref=e102]:
+            - link "دسته‌بندی مشاغل" [ref=e103] [cursor=pointer]:
+              - /url: /directory
+          - listitem [ref=e104]
+          - listitem [ref=e107]:
+            - link "تولید پاکت" [ref=e108] [cursor=pointer]:
+              - /url: /directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D9%BE%D8%A7%DA%A9%D8%AA
+          - listitem [ref=e109]
+          - listitem [ref=e112]:
+            - link "تهران" [ref=e113] [cursor=pointer]:
+              - /url: /directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D9%BE%D8%A7%DA%A9%D8%AA/%D8%AA%D9%87%D8%B1%D8%A7%D9%86
+          - listitem [ref=e114]
+          - listitem [ref=e117]:
+            - link "محله کاووسیه" [ref=e118] [cursor=pointer]:
+              - /url: /directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D9%BE%D8%A7%DA%A9%D8%AA/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%85%D8%AD%D9%84%D9%87-%DA%A9%D8%A7%D9%88%D9%88%D8%B3%DB%8C%D9%87
+      - generic [ref=e119]:
+        - heading "اطلاعات تماس" [level=2] [ref=e121]
+        - list [ref=e122]:
+          - listitem [ref=e123]:
+            - generic [ref=e124]: "آدرس :"
+            - generic [ref=e128]: تهران، منطقه 3، محله کاووسیه، آفریقا (جردن)، خیابان سپیدار، پلاک 1، واحد 108
+          - listitem [ref=e129]:
+            - generic [ref=e130]: "تلفن :"
+            - button "نمایش شماره" [ref=e133] [cursor=pointer]
+            - generic [ref=e134]: XXXXXXXXXX
+          - listitem [ref=e135]:
+            - generic [ref=e136]: "فکس :"
+            - button "نمایش شماره" [ref=e141] [cursor=pointer]
+            - generic [ref=e142]: XXXXXXXXXX
+          - listitem [ref=e143]:
+            - generic [ref=e144]: وب سایت
+            - link "www.highpacks.com" [ref=e148] [cursor=pointer]:
+              - /url: http://www.highpacks.com
+          - listitem [ref=e149]:
+            - generic [ref=e150]: "ایمیل :"
+            - link "info@highpacks.com" [ref=e155] [cursor=pointer]:
+              - /url: mailto://info@highpacks.com
+      - generic [ref=e157]:
+        - heading "توضیحات" [level=2] [ref=e159]
+        - generic [ref=e160]: فرادید شرق به ارائه راهکارهایی فراگیر برای موفقیت کسب و کار مشتریان خویش همت گمارده و این مهم را با گرد هم آوردن مشاوران برجسته بازاریابی، و برند و ایجاد تیم های خلاق و کار آزموده برای ارائه راه حل هایی نوآورانه محقق ساخته است. فراید شرق با بکارگیری تجهیزات بسیار پیشرفته، امکان تولید انواع کیسه های بسته بندی زیپدار و بدون زیپ را در اندازه ها، طرح ها و با ویژگی های متنوع و همچنین انواع جعبه فراهم ساخته و آمادگی خود را جهت ارائه مشاوره، طراحی و پذیرش سفارشات تولید انواع بسته بندی اعلام می دارد.
+      - generic [ref=e161]:
+        - heading "نظرات" [level=2] [ref=e163]
+        - generic [ref=e164]:
+          - paragraph [ref=e165]: لطفا به این کسب و کار امتیاز بدید و نظر خودتون رو درباره این کسب و کار بنویسید
+          - generic [ref=e166]:
+            - generic [ref=e169]:
+              - generic [ref=e170]: بدون رای
+              - generic "بدون رای" [ref=e172] [cursor=pointer]:
+                - textbox "امتیاز شما برای این کسب و کار" [ref=e204]
+            - generic [ref=e205]:
+              - generic [ref=e206]: حداکثر 2000 کاراکتر
+              - textbox "به نظر من ..." [ref=e207]
+              - button "ثبت نظر" [ref=e208] [cursor=pointer]
+          - text: ✕
+    - complementary [ref=e209]:
+      - generic [ref=e211]:
+        - generic [ref=e214]:
+          - generic:
+            - region "Map" [ref=e215]
+            - generic: برای بزرگنمایی نقشه، از ⌘ + پیمایش استفاده کنید
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e216] [cursor=pointer]
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e217] [cursor=pointer]
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e231] [cursor=pointer]
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e236] [cursor=pointer]
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e245] [cursor=pointer]
+          - generic:
+            - generic:
+              - generic [ref=e259]:
+                - button "Zoom in" [ref=e260] [cursor=pointer]
+                - button "Zoom out" [ref=e262] [cursor=pointer]
+              - button "Enter fullscreen" [ref=e265] [cursor=pointer]
+        - generic [ref=e267]:
+          - button "گوگل" [ref=e268] [cursor=pointer]
+          - button [ref=e275] [cursor=pointer]:
+            - img "بلد" [ref=e276]
+            - text: بلد
+          - button [ref=e277] [cursor=pointer]:
+            - img "نشان" [ref=e278]
+            - text: نشان
+      - list [ref=e281]:
+        - listitem [ref=e282]:
+          - paragraph [ref=e283]: نزدیک ترین ایستگاه بی آر تی به فرادید شرق
+          - link "ایستگاه بی آر تی میدان ونک 900 متر" [ref=e284] [cursor=pointer]:
+            - /url: /profile/1cc50/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A8%DB%8C-%D8%A2%D8%B1-%D8%AA%DB%8C-%D9%85%DB%8C%D8%AF%D8%A7%D9%86-%D9%88%D9%86%DA%A9
+        - listitem [ref=e295]:
+          - paragraph [ref=e296]: نزدیک ترین پایانه تاکسی به فرادید شرق
+          - link "پایانه تاکسیرانی و اتوبوسرانی حقانی 813 متر" [ref=e297] [cursor=pointer]:
+            - /url: /profile/1a9a4/%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%D9%87-%D8%AA%D8%A7%DA%A9%D8%B3%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D9%88-%D8%A7%D8%AA%D9%88%D8%A8%D9%88%D8%B3%D8%B1%D8%A7%D9%86%DB%8C-%D8%AD%D9%82%D8%A7%D9%86%DB%8C
+        - listitem [ref=e304]:
+          - paragraph [ref=e305]: نزدیک ترین ایستگاه مترو به فرادید شرق
+          - link "ایستگاه مترو حقانی 689 متر" [ref=e306] [cursor=pointer]:
+            - /url: /profile/ad64f/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%85%D8%AA%D8%B1%D9%88-%D8%AD%D9%82%D8%A7%D9%86%DB%8C
+        - listitem [ref=e315]:
+          - paragraph [ref=e316]: نزدیک ترین ایستگاه اتوبوس به فرادید شرق
+          - link "ایستگاه اتوبوس مدرس - میرداماد - کد 69 - شمال به جنوب 86 متر" [ref=e317] [cursor=pointer]:
+            - /url: /profile/310c9/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A7%D8%AA%D9%88%D8%A8%D9%88%D8%B3-%D9%85%D8%AF%D8%B1%D8%B3-%D9%85%DB%8C%D8%B1%D8%AF%D8%A7%D9%85%D8%A7%D8%AF-%DA%A9%D8%AF-69-%D8%B4%D9%85%D8%A7%D9%84-%D8%A8%D9%87-%D8%AC%D9%86%D9%88%D8%A8
+      - generic [ref=e329]:
+        - heading "تصاویر" [level=2] [ref=e331]
+        - generic [ref=e332]:
+          - link "main image" [ref=e334] [cursor=pointer]:
+            - /url: /filehash/A9zAfebhcjApsvoCjffecDtzq.jpg
+            - img "فرادید شرق - تولید پاکت شماره 1" [ref=e335]
+          - generic [ref=e336]:
+            - link "Images" [ref=e338] [cursor=pointer]:
+              - /url: /filehash/A9zAfebhcjApsvoCjffedDtzq.jpg
+              - img "فرادید شرق - تولید پاکت شماره 2" [ref=e339]
+            - link "Images" [ref=e341] [cursor=pointer]:
+              - /url: /filehash/A9zAfebhcjApsvoCjffeeDtzq.jpg
+              - img "فرادید شرق - تولید پاکت شماره 3" [ref=e342]
+            - link "Images" [ref=e344] [cursor=pointer]:
+              - /url: /filehash/A9zAfebhcjApsvoCjffefDtzq.jpg
+              - img "فرادید شرق - تولید پاکت شماره 4" [ref=e345]
+            - link "Images" [ref=e347] [cursor=pointer]:
+              - /url: /filehash/A9zAfebhcjApsvoCjffegDtzq.jpg
+              - img "فرادید شرق - تولید پاکت شماره 5" [ref=e348]
+            - link "More images" [ref=e349] [cursor=pointer]:
+              - /url: "#"
+      - generic [ref=e353]:
+        - generic [ref=e354]:
+          - generic [ref=e355]: آیا شما مالک یا مدیر این کسب و کار هستید؟
+          - button "مالک هستم" [ref=e356] [cursor=pointer]
+        - text: ✕
+      - generic [ref=e357]:
+        - heading "کسب و کارهای مشابه" [level=2] [ref=e359]
+        - navigation [ref=e360]:
+          - list [ref=e361]:
+            - listitem [ref=e362]:
+              - link [ref=e363] [cursor=pointer]:
+                - /url: /profile/75b3c/%DA%AF%D9%88%D9%87%D8%B1-%DA%A9%D8%A7%D8%B1%D8%AA%D9%86-%D8%A7%D9%84%D8%A8%D8%B1%D8%B2-%D8%AA%D8%A7%D9%86%DB%8C%D9%84
+                - img "گوهر کارتن البرز (تانیل)" [ref=e364]
+                - generic [ref=e365]:
+                  - heading "گوهر کارتن البرز (تانیل)" [level=3] [ref=e366]
+                  - list [ref=e367]:
+                    - listitem [ref=e368]: تولید کارتن مقوایی
+                  - generic [ref=e369]: البرز، کرج، کمال شهر، خیابان ظفر 12
+            - listitem [ref=e373]:
+              - link "ایجی پک ایجی پک 3.0 (1 نظر) ماشین آلات بسته بندی خدمات بسته بندی تهران، منطقه 7، محله عباس آباد، خیابان مطهری" [ref=e374] [cursor=pointer]:
+                - /url: /profile/07c73/%D8%A7%DB%8C%D8%AC%DB%8C-%D9%BE%DA%A9
+                - img "ایجی پک" [ref=e375]
+                - generic [ref=e376]:
+                  - heading "ایجی پک" [level=3] [ref=e377]
+                  - generic [ref=e378]:
+                    - generic [ref=e385]: "3.0"
+                    - generic [ref=e386]: (1 نظر)
+                  - list [ref=e387]:
+                    - listitem [ref=e388]: ماشین آلات بسته بندی
+                    - listitem [ref=e389]: خدمات بسته بندی
+                  - generic [ref=e390]: تهران، منطقه 7، محله عباس آباد، خیابان مطهری
+            - listitem [ref=e394]:
+              - link "کارتن سازی پایا گستر ایرانیان کارتن سازی پایا گستر ایرانیان 5.0 (1 نظر) تولید کارتن مقوایی خدمات بسته بندی تهران، منطقه 5، محله مهران، بزرگراه کاشانی" [ref=e395] [cursor=pointer]:
+                - /url: /profile/563ca/%DA%A9%D8%A7%D8%B1%D8%AA%D9%86-%D8%B3%D8%A7%D8%B2%DB%8C-%D9%BE%D8%A7%DB%8C%D8%A7-%DA%AF%D8%B3%D8%AA%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%D8%A7%D9%86
+                - img "کارتن سازی پایا گستر ایرانیان" [ref=e396]
+                - generic [ref=e397]:
+                  - heading "کارتن سازی پایا گستر ایرانیان" [level=3] [ref=e398]
+                  - generic [ref=e399]:
+                    - generic [ref=e410]: "5.0"
+                    - generic [ref=e411]: (1 نظر)
+                  - list [ref=e412]:
+                    - listitem [ref=e413]: تولید کارتن مقوایی
+                    - listitem [ref=e414]: خدمات بسته بندی
+                  - generic [ref=e415]: تهران، منطقه 5، محله مهران، بزرگراه کاشانی
+            - listitem [ref=e419]:
+              - link "شرکت آذین پک شرکت آذین پک 5.0 (1 نظر) تولید کارتن مقوایی خدمات بسته بندی مشهد، منطقه 12، محله اکبرآباد، خیابان آزادی 159" [ref=e420] [cursor=pointer]:
+                - /url: /profile/d1af5/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A2%D8%B0%DB%8C%D9%86-%D9%BE%DA%A9
+                - img "شرکت آذین پک" [ref=e421]
+                - generic [ref=e422]:
+                  - heading "شرکت آذین پک" [level=3] [ref=e423]
+                  - generic [ref=e424]:
+                    - generic [ref=e435]: "5.0"
+                    - generic [ref=e436]: (1 نظر)
+                  - list [ref=e437]:
+                    - listitem [ref=e438]: تولید کارتن مقوایی
+                    - listitem [ref=e439]: خدمات بسته بندی
+                  - generic [ref=e440]: مشهد، منطقه 12، محله اکبرآباد، خیابان آزادی 159
+            - listitem [ref=e444]:
+              - link "زرین خاتم تهران زرین خاتم تهران 5.0 (1 نظر) ماشین آلات بسته بندی خدمات بسته بندی تهران، پاکدشت، ضلع جنوب غربی کانال آب" [ref=e445] [cursor=pointer]:
+                - /url: /profile/f8e03/%D8%B2%D8%B1%DB%8C%D9%86-%D8%AE%D8%A7%D8%AA%D9%85-%D8%AA%D9%87%D8%B1%D8%A7%D9%86
+                - img "زرین خاتم تهران" [ref=e446]
+                - generic [ref=e447]:
+                  - heading "زرین خاتم تهران" [level=3] [ref=e448]
+                  - generic [ref=e449]:
+                    - generic [ref=e460]: "5.0"
+                    - generic [ref=e461]: (1 نظر)
+                  - list [ref=e462]:
+                    - listitem [ref=e463]: ماشین آلات بسته بندی
+                    - listitem [ref=e464]: خدمات بسته بندی
+                  - generic [ref=e465]: تهران، پاکدشت، ضلع جنوب غربی کانال آب
+            - listitem [ref=e469]:
+              - link "شرکت ریما پک شرکت ریما پک 3.8 (2 نظر) تولید کارتن مقوایی خدمات بسته بندی تهران، ملارد، صفادشت، بلوار الغدیر" [ref=e470] [cursor=pointer]:
+                - /url: /profile/7655d/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%B1%DB%8C%D9%85%D8%A7-%D9%BE%DA%A9
+                - img "شرکت ریما پک" [ref=e471]
+                - generic [ref=e472]:
+                  - heading "شرکت ریما پک" [level=3] [ref=e473]
+                  - generic [ref=e474]:
+                    - generic [ref=e483]: "3.8"
+                    - generic [ref=e484]: (2 نظر)
+                  - list [ref=e485]:
+                    - listitem [ref=e486]: تولید کارتن مقوایی
+                    - listitem [ref=e487]: خدمات بسته بندی
+                  - generic [ref=e488]: تهران، ملارد، صفادشت، بلوار الغدیر
+            - listitem [ref=e492]:
+              - link [ref=e493] [cursor=pointer]:
+                - /url: /profile/8d129/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%B4%D8%A7%D8%AF%D9%85%D9%87%D8%B1
+                - img "شرکت شادمهر" [ref=e494]
+                - generic [ref=e495]:
+                  - heading "شرکت شادمهر" [level=3] [ref=e496]
+                  - list [ref=e497]:
+                    - listitem [ref=e498]: ماشین آلات بسته بندی
+                  - generic [ref=e499]: اصفهان، بهارستان، قلعه میر
+    - text: ✕ ✕
+  - contentinfo [ref=e503]:
+    - generic [ref=e504]:
+      - generic [ref=e505]:
+        - link "home page" [ref=e506] [cursor=pointer]:
+          - /url: /
+        - list [ref=e509]:
+          - listitem [ref=e510]:
+            - link "Telegram" [ref=e511] [cursor=pointer]:
+              - /url: https://t.me/avval_ir
+          - listitem [ref=e517]:
+            - link "instagram" [ref=e518] [cursor=pointer]:
+              - /url: https://instagram.com/ketabeavval.officialpage
+          - listitem [ref=e523]:
+            - link "Twitter" [ref=e524] [cursor=pointer]:
+              - /url: https://twitter.com/ketabeavvalir
+          - listitem [ref=e528]:
+            - link "Facebook" [ref=e529] [cursor=pointer]:
+              - /url: https://www.facebook.com/avval/
+          - listitem [ref=e533]:
+            - link "Linkedin" [ref=e534] [cursor=pointer]:
+              - /url: https://linkedin.com/company/ketabeavval/
+      - navigation [ref=e539]:
+        - generic [ref=e540]:
+          - generic [ref=e541]: درباره کتاب اول
+          - list [ref=e542]:
+            - listitem [ref=e543]:
+              - link "درباره کتاب اول" [ref=e544] [cursor=pointer]:
+                - /url: /about-ketabeavval
+            - listitem [ref=e545]:
+              - link "تماس با کتاب اول" [ref=e546] [cursor=pointer]:
+                - /url: /contact-us
+            - listitem [ref=e547]:
+              - link "شرایط استفاده" [ref=e548] [cursor=pointer]:
+                - /url: /terms-conditions
+            - listitem [ref=e549]:
+              - link "حریم شخضی" [ref=e550] [cursor=pointer]:
+                - /url: /privacy-policy
+        - generic [ref=e551]:
+          - generic [ref=e552]: کشف کنید
+          - list [ref=e553]:
+            - listitem [ref=e554]:
+              - link "دسته بندی مشاغل" [ref=e555] [cursor=pointer]:
+                - /url: /directory
+            - listitem [ref=e556]:
+              - link "نقشه سایت" [ref=e557] [cursor=pointer]:
+                - /url: /sitemap
+            - listitem [ref=e558]:
+              - link "دسترسی بانک مشاغل کتاب اول" [ref=e559] [cursor=pointer]:
+                - /url: /%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B4%D8%A7%D8%BA%D9%84-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+            - listitem [ref=e560]:
+              - link "پنل اس ام اس" [ref=e561] [cursor=pointer]:
+                - /url: /smspanel
+        - generic [ref=e562]:
+          - generic [ref=e563]: صاحبین مشاغل در کتاب اول
+          - list [ref=e564]:
+            - listitem [ref=e565]:
+              - link "ثبت اطلاعات شغلی" [ref=e566] [cursor=pointer]:
+                - /url: /%D8%AB%D8%A8%D8%AA-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D8%B4%D8%BA%D9%84%DB%8C
+            - listitem [ref=e567]:
+              - link "تبلیغات با کتاب اول" [ref=e568] [cursor=pointer]:
+                - /url: /%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-%D9%88%D8%A8-%D8%B3%D8%A7%DB%8C%D8%AA-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+    - generic [ref=e569]:
+      - img "samandehi logo" [ref=e571] [cursor=pointer]
+      - link "enamad logo" [ref=e573] [cursor=pointer]:
+        - /url: https://trustseal.enamad.ir/?id=194990&Code=3Y0m3d1djm9fuqjoC8mT
+        - img "logo-enamad" [ref=e574]
+    - generic [ref=e575]: 1373-1403 © تمامی حقوق برای شرکت کتاب اول محفوظ است
+  - text: ✕ *
+```

@@ -1,0 +1,201 @@
+### Page
+- Page URL: https://bobcat-iran.ir/
+- Page Title: خرید و فروش انواع جارو بابکت ، مینی لودر - شرکت بابکت ایران
+- Console: 1 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - complementary [ref=e2]:
+    - link [ref=e3] [cursor=pointer]:
+      - /url: ""
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - navigation [ref=e8]:
+          - list [ref=e9]:
+            - listitem [ref=e10]:
+              - link "صفحه نخست" [ref=e11] [cursor=pointer]:
+                - /url: https://bobcat-iran.ir/
+            - listitem [ref=e12]:
+              - link "فروشگاه" [ref=e13] [cursor=pointer]:
+                - /url: https://bobcat-iran.ir/shop/
+            - listitem [ref=e14]:
+              - link "بلاگ" [ref=e15] [cursor=pointer]:
+                - /url: https://bobcat-iran.ir/blog/
+        - generic [ref=e16]:
+          - link "09127373761" [ref=e18] [cursor=pointer]:
+            - /url: tel:09127373761
+            - generic [ref=e19]: 
+            - text: "09127373761"
+          - link "ettelagostarofficial@gmail.com" [ref=e21] [cursor=pointer]:
+            - /url: mailto:ettelagostarofficial@gmail.com
+            - generic [ref=e22]: 
+            - text: ettelagostarofficial@gmail.com
+      - generic [ref=e23]:
+        - text: 
+        - heading [level=1] [ref=e25]:
+          - link [ref=e26] [cursor=pointer]:
+            - /url: https://bobcat-iran.ir
+            - img "شرکت بابکت ایران |" [ref=e27]
+        - search [ref=e29]:
+          - generic [ref=e30]:
+            - textbox "جستجو" [ref=e31]:
+              - /placeholder: جستجو...
+            - button "جستجو" [ref=e33] [cursor=pointer]:
+              - generic [ref=e34]: 
+        - generic [ref=e35]: "[iranbobcat_consult]"
+    - navigation [ref=e37]:
+      - generic [ref=e38]:
+        - list [ref=e40]:
+          - listitem [ref=e41]:
+            - link "صفحه نخست" [ref=e42] [cursor=pointer]:
+              - /url: https://bobcat-iran.ir/
+          - listitem [ref=e43]:
+            - link "فروشگاه" [ref=e44] [cursor=pointer]:
+              - /url: https://bobcat-iran.ir/shop/
+              - text: فروشگاه
+              - generic [ref=e45]: 
+            - list:
+              - listitem:
+                - link "بیل مکانیکی ":
+                  - /url: https://bobcat-iran.ir/product-category/excavator/
+              - listitem:
+                - link "جلوبند جارو بابکت ":
+                  - /url: https://bobcat-iran.ir/product-category/bobcat-sweeper-apron/
+              - listitem:
+                - link "قطعات و لوازم جانبی بابکت ":
+                  - /url: https://bobcat-iran.ir/product-category/bobcat-parts/
+              - listitem:
+                - link "لاستیک و تایر بابکت ":
+                  - /url: https://bobcat-iran.ir/product-category/bobcat-tires/
+              - listitem:
+                - link "لوازم یدکی بابکت ":
+                  - /url: https://bobcat-iran.ir/product-category/bobcat-spare-parts/
+              - listitem:
+                - link "مینی بیل مکانیکی ":
+                  - /url: https://bobcat-iran.ir/product-category/mini-excavator/
+              - listitem:
+                - link "مینی لودر ":
+                  - /url: https://bobcat-iran.ir/product-category/mini-loader/
+          - listitem [ref=e46]:
+            - link "بلاگ" [ref=e47] [cursor=pointer]:
+              - /url: https://bobcat-iran.ir/blog/
+        - link " مشاوره و استعلام قیمت" [ref=e48] [cursor=pointer]:
+          - /url: https://bobcat-iran.ir/contact-us
+          - generic [ref=e49]: 
+          - text: مشاوره و استعلام قیمت
+  - generic [ref=e50]:
+    - generic [ref=e61]:
+      - paragraph [ref=e64]: خرید و فروش انواع بابکت (Bobcat)
+      - paragraph [ref=e67]: مرجع فروش انواع بابکت ، مینی لودر های بابکت ایرانی و خارجی به صورت صفر و کارکرده در ایران
+      - link "مینی لودر بابکت" [ref=e71] [cursor=pointer]:
+        - /url: https://bobcat-iran.ir/product-category/mini-loader/bobcat/
+      - link "جلوبند جارو بابکت" [ref=e77] [cursor=pointer]:
+        - /url: https://bobcat-iran.ir/product-category/bobcat-sweeper-apron/
+    - generic [ref=e94]: اولین تولید کننده انواع جلوبند مینی لودر بابکت در کشور
+    - link "مشاهده همه" [ref=e132] [cursor=pointer]:
+      - /url: https://bobcat-iran.ir/shop/
+      - generic [ref=e133]:
+        - generic [ref=e134]: 
+        - generic [ref=e136]: مشاهده همه
+    - generic [ref=e200]:
+      - generic [ref=e201]:
+        - button "چرا ایران بابکت" [expanded] [ref=e202] [cursor=pointer]:
+          - generic [ref=e203]:
+            - text: 
+            - generic [ref=e204]: 
+          - text: چرا ایران بابکت
+        - region "چرا ایران بابکت" [ref=e206]:
+          - paragraph [ref=e207]: اولین تولید کننده انواع جارو صنعتی در کشور، بزرگترین تولید کننده و عرضه کننده قطعات جارو ایرانی، عرضه کننده اولین جلوبند بابکت با بیش از 20 سال سابقه کاری، تضمین قیمت، ارسال به سراسر کشور، تولید به سلیقه مشتری و …
+      - button "بابکت ایران چیست؟" [ref=e209] [cursor=pointer]:
+        - generic [ref=e210]:
+          - generic [ref=e211]: 
+          - text: 
+        - text: بابکت ایران چیست؟
+      - button "قیمت بابکت چقدر است؟" [ref=e214] [cursor=pointer]:
+        - generic [ref=e215]:
+          - generic [ref=e216]: 
+          - text: 
+        - text: قیمت بابکت چقدر است؟
+      - button "موارد استفاده بابکت ؟" [ref=e219] [cursor=pointer]:
+        - generic [ref=e220]:
+          - generic [ref=e221]: 
+          - text: 
+        - text: موارد استفاده بابکت ؟
+      - button "بابکت ساخت کدام کشور است؟" [ref=e224] [cursor=pointer]:
+        - generic [ref=e225]:
+          - generic [ref=e226]: 
+          - text: 
+        - text: بابکت ساخت کدام کشور است؟
+  - contentinfo [ref=e249]:
+    - generic [ref=e250]:
+      - generic [ref=e251] [cursor=pointer]:
+        - text: بازگشت به بالا
+        - generic [ref=e252]: 
+      - generic [ref=e254]:
+        - generic [ref=e255]:
+          - generic [ref=e256]: 
+          - text: "دفتر مرکزی: تهران، میدان حر، خیابان امام خمینی، خیابان کمالی، خیابان اسکندری جنوبی، ابتدای خیابان مرتضوی، پلاک ۸، طبقه همکف | کارخانه: جاده ساوه، رباط کریم، سه‌راه آدران، کوچه میهن ۲، انتهای کوچه وطن ۲، پلاک ۴"
+        - generic [ref=e257]:
+          - link "09127373761" [ref=e258] [cursor=pointer]:
+            - /url: tel:09127373761
+            - generic [ref=e259]:
+              - generic [ref=e260]: 
+              - generic [ref=e261]: "09127373761"
+          - link "ettelagostarofficial@gmail.com" [ref=e262] [cursor=pointer]:
+            - /url: mailto:ettelagostarofficial@gmail.com
+            - generic [ref=e263]:
+              - generic [ref=e264]: 
+              - generic [ref=e265]: ettelagostarofficial@gmail.com
+      - generic [ref=e266]:
+        - heading "درباره شرکت اطلاع گستر اطلس" [level=3] [ref=e268]
+        - paragraph [ref=e272]: شرکت اطلاع گستر اطلس، مالک حقوقی برند ایران بابکت، در زمینه تولید، تأمین و فروش قطعات، جلوبندها و تجهیزات قابل نصب روی مینی‌لودر بابکت، تراکتور و بکهو فعالیت می‌کند. تمرکز مجموعه بر اصالت کالا، کیفیت فنی، مشاوره تخصصی، فاکتور رسمی، گارانتی و خدمات پس از فروش است.
+  - paragraph [ref=e278]: تمامی حقوق مادی و معنوی این وب‌سایت متعلق به شرکت اطلاع گستر اطلس و برند ایران بابکت است.
+  - text: 
+  - generic [ref=e279]:
+    - generic [ref=e280]:
+      - generic "بستن" [ref=e281] [cursor=pointer]: 
+      - generic [ref=e283]:
+        - generic [ref=e284]: 
+        - text: سبد خرید
+    - paragraph [ref=e318]:  سبد خرید شما خالی است.
+    - generic [ref=e287]: 
+  - generic [ref=e288]:
+    - generic [ref=e289]:
+      - generic "بستن" [ref=e290] [cursor=pointer]: 
+      - link [ref=e292] [cursor=pointer]:
+        - /url: https://bobcat-iran.ir
+        - img "شرکت بابکت ایران |" [ref=e293]
+    - link " مشاوره و استعلام قیمت" [ref=e294] [cursor=pointer]:
+      - /url: https://bobcat-iran.ir/contact-us
+      - generic [ref=e295]: 
+      - text: مشاوره و استعلام قیمت
+    - navigation [ref=e296]:
+      - list [ref=e297]:
+        - listitem [ref=e298]:
+          - link "صفحه نخست" [ref=e300] [cursor=pointer]:
+            - /url: https://bobcat-iran.ir/
+        - listitem [ref=e301]:
+          - generic [ref=e302] [cursor=pointer]:
+            - link "فروشگاه" [ref=e303]:
+              - /url: https://bobcat-iran.ir/shop/
+            - text: 
+          - text:       
+        - listitem [ref=e304]:
+          - link "بلاگ" [ref=e306] [cursor=pointer]:
+            - /url: https://bobcat-iran.ir/blog/
+    - generic [ref=e307]: 
+  - text:   
+  - generic [ref=e308]:
+    - link "واتس‌اپ فروش" [ref=e309] [cursor=pointer]:
+      - /url: https://wa.me/989127373761
+      - generic [ref=e310]: 
+    - link "اینستاگرام ایران بابکت" [ref=e311] [cursor=pointer]:
+      - /url: http://www.instagram.com/iran_bobcat
+      - generic [ref=e312]: 
+    - link "تلگرام ایران بابکت" [ref=e313] [cursor=pointer]:
+      - /url: https://t.me/MiniLoader
+      - generic [ref=e314]: 
+  - generic [ref=e315]: desktop
+  - status [ref=e316]
+```

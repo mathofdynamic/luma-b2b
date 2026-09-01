@@ -1,0 +1,6 @@
+### Browser `luma-b2b-ir-teh-53acf01ab1c1b9ee-attempt-1` opened with pid 49680.
+### Error
+Error: net::ERR_HTTP_RESPONSE_CODE_FAILURE at http://www.iranflexo.com/
+Call log:
+[2m  - navigating to "http://www.iranflexo.com/", waiting until "domcontentloaded"[22m
+

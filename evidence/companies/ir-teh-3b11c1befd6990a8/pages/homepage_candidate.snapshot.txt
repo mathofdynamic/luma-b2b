@@ -1,0 +1,490 @@
+### Page
+- Page URL: https://sanat.ir/page/%D8%B4%D9%87%D8%B1%DA%A9-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C-%D8%B4%D9%85%D8%B3-%D8%A2%D8%A8%D8%A7%D8%AF-%D8%AA%D9%87%D8%B1%D8%A7%D9%86
+- Page Title: شهرک صنعتی شمس آباد تهران
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic:
+      - button "Toggle navigation" [ref=e3] [cursor=pointer]:
+        - generic [ref=e4]: 
+      - link "صفحه اول" [ref=e5] [cursor=pointer]:
+        - /url: https://sanat.ir/
+      - list [ref=e6]:
+        - listitem [ref=e7]:
+          - link "تبلیغات" [ref=e8] [cursor=pointer]:
+            - /url: /advertising
+        - listitem [ref=e9]:
+          - link "ورود" [ref=e10] [cursor=pointer]:
+            - /url: https://sanat.ir/login
+        - listitem [ref=e11]:
+          - link "ثبت رایگان کسب و کار" [ref=e12] [cursor=pointer]:
+            - /url: https://sanat.ir/register
+  - generic [ref=e16]:
+    - link [ref=e18] [cursor=pointer]:
+      - /url: https://sanat.ir/
+      - img "لوگوی صنعت" [ref=e20]
+    - generic [ref=e22]:
+      - button "" [ref=e23] [cursor=pointer]
+      - button "" [ref=e25] [cursor=pointer]
+      - textbox "جستجوی محصولات و خدمات" [ref=e27]: شهرک صنعتی شمس آباد تهران
+  - generic [ref=e28]:
+    - generic:
+      - generic [ref=e30]:
+        - generic [ref=e31]:
+          - navigation "breadcrumb" [ref=e33]:
+            - list [ref=e34]:
+              - listitem [ref=e35]:
+                - link "خانه" [ref=e36] [cursor=pointer]:
+                  - /url: https://sanat.ir/
+              - listitem [ref=e37]: ">"
+              - listitem [ref=e38]: شهرک صنعتی شمس آباد تهران
+              - listitem [ref=e39]
+          - heading "شهرک صنعتی شمس آباد تهران" [level=1] [ref=e40]
+        - article [ref=e42]:
+          - paragraph [ref=e43]: در این صفحه لیست کسب و کارها و شرکت های مرتبط با شهرک صنعتی شمس آباد تهران را مشاهده می نمایید ( ١٧ کسب و کار )
+          - generic [ref=e44]:
+            - paragraph [ref=e45]:
+              - strong [ref=e46]: شهرک صنعتی شمس آباد
+              - text: ، واقع در تهران و کیلومتر ۴۵ اتوبان تهران – قم می باشد .مساحت کلی شهرک 2891 هکتار می باشد.
+            - paragraph [ref=e47]
+            - paragraph [ref=e48]:
+              - text: فاصله تا فرودگاه 40 کیلومتر، فاصله تا راه
+              - link "آهن" [ref=e49] [cursor=pointer]:
+                - /url: /page/آهن
+              - text: 9 کیلومتر، فاصله تا مرکزاستان 45 کیلومتر، فاصله تا نزدیکترین بندر 1100 کیلومتر
+            - paragraph [ref=e50]
+            - paragraph [ref=e51]:
+              - strong [ref=e52]: "بعضی از محصولات، خدمات و فعالیت ها عبارتند از :"
+              - text: شیمیایی، کانی غیر فلزی، غذایی، فلزی، سلولزی، برق و الکترونیک،
+              - link "بسته بندی" [ref=e53] [cursor=pointer]:
+                - /url: /page/بسته-بندی
+              - text: انواع روغن های
+              - link "روانکار" [ref=e54] [cursor=pointer]:
+                - /url: /page/روانکار
+              - text: ،
+              - link "شیشه بغل خودرو" [ref=e55] [cursor=pointer]:
+                - /url: /page/شیشه-بغل-خودرو
+              - text: ، شیشه های
+              - link "عایق" [ref=e56] [cursor=pointer]:
+                - /url: /page/عایق
+              - text: ،
+              - link "شیشه عقب خودرو" [ref=e57] [cursor=pointer]:
+                - /url: /page/شیشه-عقب-خودرو
+              - text: ، شیشه حفاظ
+              - link "لوازم خانگی" [ref=e58] [cursor=pointer]:
+                - /url: /page/لوازم-خانگی
+              - text: ، شیشه جلو معمولی خودرو،
+              - link "شیشه ضد گلوله" [ref=e59] [cursor=pointer]:
+                - /url: /page/شیشه-ضد-گلوله
+              - text: ،
+              - link "شیشه نشکن" [ref=e60] [cursor=pointer]:
+                - /url: /page/شیشه-نشکن
+              - text: ساختمانی، انواع
+              - link "کیک" [ref=e61] [cursor=pointer]:
+                - /url: /page/کیک
+              - text: وبیسکویت و
+              - link "کلوچه" [ref=e62] [cursor=pointer]:
+                - /url: /page/کلوچه
+              - text: ، خمیر پیتزا، انواع کلوچه، انواع
+              - link "دستگیره" [ref=e63] [cursor=pointer]:
+                - /url: /page/دستگیره
+              - text: فلزی، بست واتصالات فلزی، روغن
+              - link "ترمز خودرو" [ref=e64] [cursor=pointer]:
+                - /url: /page/ترمز-خودرو
+              - text: ،
+              - link "ورق کارتن" [ref=e65] [cursor=pointer]:
+                - /url: /page/ورق-کارتن
+              - text: چندلا،
+              - link "سرویس خواب" [ref=e66] [cursor=pointer]:
+                - /url: /page/سرویس-خواب
+              - text: ،
+              - link "نوشابه" [ref=e67] [cursor=pointer]:
+                - /url: /page/نوشابه
+              - text: های غیرالکلی وآب معدنی،
+              - link "ریخته گری چدن خاکستری" [ref=e68] [cursor=pointer]:
+                - /url: /page/ریخته-گری-چدن-خاکستری
+              - text: ، سنگبری، خلال سیب زمینی، تولید وبسته بندی
+              - link "میوه" [ref=e69] [cursor=pointer]:
+                - /url: /page/میوه
+              - text: و
+              - link "سبزیجات" [ref=e70] [cursor=pointer]:
+                - /url: /page/سبزیجات
+              - text: وسیفی جات خشک، درجه بندی وبسته بندی سبزیجات،
+              - link "فیلم پلی اتیلن" [ref=e71] [cursor=pointer]:
+                - /url: /page/فیلم-پلی-اتیلن
+              - text: مشبک، قطعات پیش ساخته بتونی وسبک، انواع محصولات سنگی و...
+            - paragraph [ref=e72]
+            - paragraph [ref=e73]:
+              - strong [ref=e74]: آدرس شهرک صنعتی شمس آباد
+              - text: ": واقع در اتوبان تهران – قم مجاور شهر حسـن آباد در فاصله 45 کیلومتری شهر تهران"
+            - paragraph [ref=e75]
+            - paragraph [ref=e76]:
+              - strong [ref=e77]: فاصله شهرک صنعتی شمس آباد تا تهران
+              - text: "(میدان آزادی) : حدود 55 کیلومتر و 50 دقیقه"
+            - paragraph [ref=e78]
+            - paragraph [ref=e79]:
+              - strong [ref=e80]:
+                - text: "نام بعضی از شرکت های مستقر دراین شهرک صنعتی عبارتند از : ‌کارخانه بخار الوند - کاربرد صنعت پیشرو - شرکت توسعه برق ایران - کارخانه"
+                - link "استیل" [ref=e81] [cursor=pointer]:
+                  - /url: /page/استیل
+                - text: البرز - سازه پردازان - شرکت پایا بتن شمس آباد - لوله و
+                - link "پروفیل" [ref=e82] [cursor=pointer]:
+                  - /url: /page/پروفیل
+                - text: مهدی - همای غدیر - گروه توسعه شیر آلات نیک گستر - شرکت طبا صنعت - ایمپ استیل - شرکت مهندسی ماشین سازه ساحل - کارخانه کیان پرشیا - سرد خانه نوآوران خاورمیانه - شرکت فولادکاران پویا - تزئینات سنگ لوکس - کفشدوزک پلاستیک -
+                - link "گالوانیزه گرم" [ref=e83] [cursor=pointer]:
+                  - /url: /page/گالوانیزه-گرم
+                - text: ارک نوین
+          - button "نمایش بیشتر" [ref=e85] [cursor=pointer]
+        - generic [ref=e86]:
+          - generic [ref=e88]:
+            - img [ref=e89] [cursor=pointer]
+            - link "Leaflet" [ref=e91] [cursor=pointer]:
+              - /url: https://leafletjs.com
+          - generic [ref=e92]:
+            - link "مسیریابی گوگل" [ref=e93] [cursor=pointer]:
+              - /url: https://www.google.com/maps/search/?api=1&query=35.3351974,51.1724243
+            - link "مسیریابی ویز" [ref=e94] [cursor=pointer]:
+              - /url: https://waze.com/ul?ll=35.3351974,51.1724243&z=10
+      - generic [ref=e96]:
+        - tablist [ref=e98]:
+          - tab "همه" [ref=e99] [cursor=pointer]
+        - tabpanel [ref=e101]:
+          - navigation [ref=e102]:
+            - link "نمایش موارد بیشتر" [ref=e351] [cursor=pointer]:
+              - /url: javascript:;
+              - text: 
+            - generic [ref=e352] [cursor=pointer]: همه
+            - button "شهریار تهران" [ref=e353] [cursor=pointer]
+            - button "شهرک صنعتی شمس آباد تهران" [ref=e354] [cursor=pointer]
+          - generic [ref=e105]:
+            - generic [ref=e107]:
+              - link "صنایع یکتا تهویه اروند" [ref=e108] [cursor=pointer]:
+                - /url: /61046
+              - text: در شهرک صنعتی شمس آباد تهران
+              - generic [ref=e109]:
+                - paragraph [ref=e110]: بزرگترین تولیدکننده دستگاه های تهویه مطبوع
+                - paragraph [ref=e111]: پکیج یونیت، ایرواشر، یونیت هیتر، شهرک صنعتی شمس آباد تهران
+                - generic [ref=e112]: پیشنهاد شده توسط 26 نفر
+                - link "مشخصات صنایع یکتا تهویه اروند" [ref=e115] [cursor=pointer]:
+                  - /url: https://sanat.ir/61046
+                - link "arvandcorp.com" [ref=e116] [cursor=pointer]:
+                  - /url: /61046
+            - generic [ref=e118]:
+              - link "شرکت روانسازگستر تاو" [ref=e119] [cursor=pointer]:
+                - /url: /4269
+              - text: در شهرک صنعتی شمس آباد تهران
+              - generic [ref=e120]:
+                - paragraph [ref=e121]: فروش انواع روغنهای صنعتی موتوری،گریس،ضدیخ،الکل
+                - paragraph [ref=e122]: گریس LGLT 2 چهار صد گرمی، شهرک صنعتی شمس آباد تهران
+                - generic [ref=e123]: پیشنهاد شده توسط 21 نفر
+                - link "مشخصات شرکت روانسازگستر تاو" [ref=e126] [cursor=pointer]:
+                  - /url: https://sanat.ir/4269
+                - link "RGtav.com" [ref=e127] [cursor=pointer]:
+                  - /url: /4269
+            - generic [ref=e129]:
+              - link "تهران پلاست پارسیان" [ref=e130] [cursor=pointer]:
+                - /url: /12899
+              - text: در شهرک صنعتی شمس آباد تهران
+              - generic [ref=e131]:
+                - paragraph [ref=e132]: تولید و فروش انواع پالت پلاستیکی ، باکس پالت و سبد
+                - paragraph [ref=e133]: "#پالت پلاستیکی سطح صاف بهداشتی ، شهرک صنعتی شمس آباد تهران، pallet، پالت جک پالت خور"
+                - generic [ref=e134]: پیشنهاد شده توسط 4 نفر
+                - link "مشخصات تهران پلاست پارسیان" [ref=e137] [cursor=pointer]:
+                  - /url: https://sanat.ir/12899
+                - link "tehranplastparsian.com" [ref=e138] [cursor=pointer]:
+                  - /url: /12899
+            - generic [ref=e140]:
+              - link "پارس کیا مهنام" [ref=e141] [cursor=pointer]:
+                - /url: /10274
+              - text: در شهرک صنعتی شمس آباد تهران
+              - generic [ref=e142]:
+                - paragraph [ref=e143]: تولید و واردات دستگاه های حک و برش و جوش لیزر
+                - paragraph [ref=e144]: دستگاه جوش فایبر لیزر خطی، شهرک صنعتی شمس آباد تهران
+                - generic [ref=e145]: پیشنهاد شده توسط 1 نفر
+                - link "مشخصات پارس کیا مهنام" [ref=e148] [cursor=pointer]:
+                  - /url: https://sanat.ir/10274
+                - link "laserpkm.com" [ref=e149] [cursor=pointer]:
+                  - /url: /10274
+            - generic [ref=e151]:
+              - link "تولیدی پلاستیک فاطمی" [ref=e152] [cursor=pointer]:
+                - /url: /4918
+              - text: در شهرک صنعتی شمس آباد تهران
+              - generic [ref=e153]:
+                - paragraph [ref=e154]: سفره یکبارمصرف,فروش سفره یکبارمصرف,کیسه فریزر رولی
+                - paragraph [ref=e155]: کیسه فریزر آسان مصرف، شهرک صنعتی شمس آباد تهران
+                - link "مشخصات تولیدی پلاستیک فاطمی" [ref=e157] [cursor=pointer]:
+                  - /url: https://sanat.ir/4918
+                - link "manaalmas.ir" [ref=e158] [cursor=pointer]:
+                  - /url: /4918
+            - generic [ref=e160]:
+              - link "گلپا صنعت ایرانیان" [ref=e161] [cursor=pointer]:
+                - /url: /8896
+              - text: در شهرک صنعتی شمس آباد تهران
+              - generic [ref=e162]:
+                - paragraph [ref=e163]: تولید کننده انواع سمپاش، ادوات کشاورزی و قطعات یدک
+                - paragraph [ref=e164]: گلپا صنعت ایرانیان، شهرک صنعتی شمس آباد تهران
+                - link "مشخصات گلپا صنعت ایرانیان" [ref=e166] [cursor=pointer]:
+                  - /url: https://sanat.ir/8896
+                - link "golpasanat.ir" [ref=e167] [cursor=pointer]:
+                  - /url: /8896
+            - generic [ref=e169]:
+              - link "سنگبری پاتریس" [ref=e170] [cursor=pointer]:
+                - /url: /14122
+              - text: در شهرک صنعتی شمس آباد تهران
+              - generic [ref=e171]:
+                - paragraph [ref=e172]: تولید و عرضه سنگ کف آسانسوری
+                - paragraph [ref=e173]: عرضه انواع سنگ کف آسانسور، شهرک صنعتی شمس آباد تهران
+                - link "مشخصات سنگبری پاتریس" [ref=e175] [cursor=pointer]:
+                  - /url: https://sanat.ir/14122
+                - link "patris-stone.ir" [ref=e176] [cursor=pointer]:
+                  - /url: /14122
+            - generic [ref=e178]:
+              - link "سنگان صنعت" [ref=e179] [cursor=pointer]:
+                - /url: /14148
+              - text: در شهرک صنعتی شمس آباد تهران
+              - generic [ref=e180]:
+                - paragraph [ref=e181]: تولید و صادرات تجهیزات اندازه گیری و ابزار دقیق
+                - paragraph [ref=e182]: سوئیچ فشار، گیج فشار ، ترموول، شهرک صنعتی شمس آباد تهران
+                - link "مشخصات سنگان صنعت" [ref=e184] [cursor=pointer]:
+                  - /url: https://sanat.ir/14148
+                - link "sangansanat.com" [ref=e185] [cursor=pointer]:
+                  - /url: /14148
+            - generic [ref=e187]:
+              - link "کارتن سازی پاسارگاد" [ref=e188] [cursor=pointer]:
+                - /url: /19789
+              - text: در شهرک صنعتی شمس آباد تهران
+              - generic [ref=e189]:
+                - paragraph [ref=e190]: تولید کننده کارتن و جعبه های 3لایه و 5لایه
+                - paragraph [ref=e191]: کارتن سازی شهرک صنعتی شمس اباد، شهرک صنعتی شمس آباد تهران
+                - link "مشخصات کارتن سازی پاسارگاد" [ref=e193] [cursor=pointer]:
+                  - /url: https://sanat.ir/19789
+                - link "cartonpasargad.com" [ref=e194] [cursor=pointer]:
+                  - /url: /19789
+            - generic [ref=e196]:
+              - link "گروه تولیدی صنعت دمیرچی ایرانیان" [ref=e197] [cursor=pointer]:
+                - /url: /52009
+              - text: در شهرک صنعتی شمس آباد تهران
+              - generic [ref=e198]:
+                - paragraph [ref=e199]: ماشین آلات و خطوط تولید صنایع غذایی، شیمیایی و...
+                - paragraph [ref=e200]: فرمانتور، خط تولید شیر پاستوریزه، شهرک صنعتی شمس آباد تهران
+                - link "مشخصات گروه تولیدی صنعت دمیرچی ایرانیان" [ref=e202] [cursor=pointer]:
+                  - /url: https://sanat.ir/52009
+                - link "damirchi.com" [ref=e203] [cursor=pointer]:
+                  - /url: /52009
+          - img "پست های بیشتر" [ref=e205]
+          - button "مشاهده نتایج بیشتر" [ref=e207] [cursor=pointer]
+        - list [ref=e208]
+        - generic [ref=e209]:
+          - heading "مقالات پیشنهادی:" [level=2] [ref=e210]
+          - generic [ref=e211]:
+            - link "بازاریابی در عصر انتخاب‌های بی‌پایان؛ چرا بعضی برندها دیده می‌شوند و بعضی نه؟":
+              - /url: https://sanat.ir/article/1698116
+              - img "بازاریابی در عصر انتخاب‌های بی‌پایان؛ چرا بعضی برندها دیده می‌شوند و بعضی نه؟" [ref=e212] [cursor=pointer]
+            - paragraph [ref=e213]:
+              - generic [ref=e214]: 
+              - link "بازاریابی در عصر انتخاب‌های بی‌پایان؛ چرا بعضی برندها دیده می‌شوند و بعضی نه؟" [ref=e215] [cursor=pointer]:
+                - /url: https://sanat.ir/article/1698116
+            - text: در دنیای امروز، مشکل بسیاری از کسب‌وکارها نداشتن محصول خوب نیست؛ دیده نشدن است. هر روز هزاران...
+          - generic [ref=e216]:
+            - link "چگونه اثربخشی تبلیغات را اندازه‌گیری کنیم؟ راهنمای مدیران برای سنجش بازده تبلیغات":
+              - /url: https://sanat.ir/article/1698081
+              - img "چگونه اثربخشی تبلیغات را اندازه‌گیری کنیم؟ راهنمای مدیران برای سنجش بازده تبلیغات" [ref=e217] [cursor=pointer]
+            - paragraph [ref=e218]:
+              - generic [ref=e219]: 
+              - link "چگونه اثربخشی تبلیغات را اندازه‌گیری کنیم؟ راهنمای مدیران برای سنجش بازده تبلیغات" [ref=e220] [cursor=pointer]:
+                - /url: https://sanat.ir/article/1698081
+            - text: بسیاری از مدیران کسب‌وکار می‌دانند که تبلیغات برای رشد برند ضروری است، اما یک سؤال مهم همچنان...
+          - generic [ref=e221]:
+            - link "درس‌های آموزنده از شرکت زیراکس برای مدیران کسب‌وکارهای ایرانی":
+              - /url: https://sanat.ir/article/1698080
+              - img "درس‌های آموزنده از شرکت زیراکس برای مدیران کسب‌وکارهای ایرانی" [ref=e222] [cursor=pointer]
+            - paragraph [ref=e223]:
+              - generic [ref=e224]: 
+              - link "درس‌های آموزنده از شرکت زیراکس برای مدیران کسب‌وکارهای ایرانی" [ref=e225] [cursor=pointer]:
+                - /url: https://sanat.ir/article/1698080
+            - text: تاریخ شرکت زیراکس فقط داستان موفقیت یک شرکت تولیدکننده دستگاه کپی نیست؛ بلکه یک مطالعه موردی ارزشمند...
+          - generic [ref=e226]:
+            - link "۱۰ اشتباه رایج مدیران در تبلیغات؛ چرا بعضی کمپین‌ها نتیجه نمی‌دهند؟":
+              - /url: https://sanat.ir/article/1698072
+              - img "۱۰ اشتباه رایج مدیران در تبلیغات؛ چرا بعضی کمپین‌ها نتیجه نمی‌دهند؟" [ref=e227] [cursor=pointer]
+            - paragraph [ref=e228]:
+              - generic [ref=e229]: 
+              - link "۱۰ اشتباه رایج مدیران در تبلیغات؛ چرا بعضی کمپین‌ها نتیجه نمی‌دهند؟" [ref=e230] [cursor=pointer]:
+                - /url: https://sanat.ir/article/1698072
+            - text: تبلیغات یکی از مهم‌ترین ابزارهای رشد کسب‌وکار است؛ اما صرف هزینه برای تبلیغات، به‌تنهایی تضمین‌کننده...
+          - generic [ref=e231]:
+            - link "چگونه برای کسب‌وکار خود بهترین رسانه تبلیغاتی را انتخاب کنیم؟":
+              - /url: https://sanat.ir/article/1698003
+              - img "چگونه برای کسب‌وکار خود بهترین رسانه تبلیغاتی را انتخاب کنیم؟" [ref=e232] [cursor=pointer]
+            - paragraph [ref=e233]:
+              - generic [ref=e234]: 
+              - link "چگونه برای کسب‌وکار خود بهترین رسانه تبلیغاتی را انتخاب کنیم؟" [ref=e235] [cursor=pointer]:
+                - /url: https://sanat.ir/article/1698003
+            - text: انتخاب رسانه مناسب برای تبلیغات، یکی از مهم‌ترین تصمیم‌هایی است که مدیران کسب‌وکار پیش از اجرای...
+          - generic [ref=e236]:
+            - link "تبلیغات صنعتی چیست و چه تفاوتی با تبلیغات عمومی دارد؟":
+              - /url: https://sanat.ir/article/1698002
+              - img "تبلیغات صنعتی چیست و چه تفاوتی با تبلیغات عمومی دارد؟" [ref=e237] [cursor=pointer]
+            - paragraph [ref=e238]:
+              - generic [ref=e239]: 
+              - link "تبلیغات صنعتی چیست و چه تفاوتی با تبلیغات عمومی دارد؟" [ref=e240] [cursor=pointer]:
+                - /url: https://sanat.ir/article/1698002
+            - text: وقتی صحبت از تبلیغات می‌شود، بسیاری از افراد به تبلیغات محصولات مصرفی، بیلبوردها، تبلیغات شبکه‌های...
+          - generic [ref=e241]:
+            - link "چگونه با بودجه محدود، کسب‌وکار خود را هوشمندانه رشد دهیم؟":
+              - /url: https://sanat.ir/article/1697956
+              - img "چگونه با بودجه محدود، کسب‌وکار خود را هوشمندانه رشد دهیم؟" [ref=e242] [cursor=pointer]
+            - paragraph [ref=e243]:
+              - generic [ref=e244]: 
+              - link "چگونه با بودجه محدود، کسب‌وکار خود را هوشمندانه رشد دهیم؟" [ref=e245] [cursor=pointer]:
+                - /url: https://sanat.ir/article/1697956
+            - text: راهنمای عملی مدیران برای افزایش فروش، جذب مشتری و ساختن مزیت رقابتی در شرایطی که هزینه تبلیغات افزایش...
+          - generic [ref=e246]:
+            - link "همکاری نوازندگان و کارآفرینان؛ مرز جدیدی در بازاریابی مدرن":
+              - /url: https://sanat.ir/article/1697937
+              - img "همکاری نوازندگان و کارآفرینان؛ مرز جدیدی در بازاریابی مدرن" [ref=e247] [cursor=pointer]
+            - paragraph [ref=e248]:
+              - generic [ref=e249]: 
+              - link "همکاری نوازندگان و کارآفرینان؛ مرز جدیدی در بازاریابی مدرن" [ref=e250] [cursor=pointer]:
+                - /url: https://sanat.ir/article/1697937
+            - text: درست چند لحظه پیش از آغاز یک کنسرت، اتفاقی جالب رخ می‌دهد. چراغ‌ها کم‌نور می‌شوند، گفت‌وگوها...
+          - generic [ref=e251]:
+            - 'link "درس‌هایی از نبرد غول‌های فست‌فود: چگونه برگر کینگ دوباره به جایگاه دوم بازگشت؟"':
+              - /url: https://sanat.ir/article/1697933
+              - 'img "درس‌هایی از نبرد غول‌های فست‌فود: چگونه برگر کینگ دوباره به جایگاه دوم بازگشت؟" [ref=e252] [cursor=pointer]'
+            - paragraph [ref=e253]:
+              - generic [ref=e254]: 
+              - 'link "درس‌هایی از نبرد غول‌های فست‌فود: چگونه برگر کینگ دوباره به جایگاه دوم بازگشت؟" [ref=e255] [cursor=pointer]':
+                - /url: https://sanat.ir/article/1697933
+            - text: در دنیای رقابتی کسب‌وکار، هیچ جایگاهی تضمین‌شده نیست. این حقیقتی است که در آخرین گزارش‌های بازار...
+          - generic [ref=e256]:
+            - link "بهترین روش‌های تبلیغات برای شرکت‌های B2B؛ چگونه مشتریان سازمانی بیشتری جذب کنیم؟":
+              - /url: https://sanat.ir/article/1697894
+              - img "بهترین روش‌های تبلیغات برای شرکت‌های B2B؛ چگونه مشتریان سازمانی بیشتری جذب کنیم؟" [ref=e257] [cursor=pointer]
+            - paragraph [ref=e258]:
+              - generic [ref=e259]: 
+              - link "بهترین روش‌های تبلیغات برای شرکت‌های B٢B؛ چگونه مشتریان سازمانی بیشتری جذب کنیم؟" [ref=e260] [cursor=pointer]:
+                - /url: https://sanat.ir/article/1697894
+            - text: در بازارهای B2B (Business to Business)، تصمیم‌گیری برای خرید با بازار مصرف‌کننده تفاوت اساسی...
+          - generic [ref=e261]:
+            - 'link "بازاریابی هوشمند: فراتر از تبلیغات؛ مهندسیِ رشد در عصر عدم قطعیت"':
+              - /url: https://sanat.ir/article/1697869
+              - 'img "بازاریابی هوشمند: فراتر از تبلیغات؛ مهندسیِ رشد در عصر عدم قطعیت" [ref=e262] [cursor=pointer]'
+            - paragraph [ref=e263]:
+              - generic [ref=e264]: 
+              - 'link "بازاریابی هوشمند: فراتر از تبلیغات؛ مهندسیِ رشد در عصر عدم قطعیت" [ref=e265] [cursor=pointer]':
+                - /url: https://sanat.ir/article/1697869
+            - text: در بازارهای امروز که تغییرات با سرعتی سرسام‌آور رخ می‌دهند، مدل‌های سنتی بازاریابی (مانند صرف...
+          - link "موارد بیشتر مشاهده لیست کامل" [ref=e267] [cursor=pointer]:
+            - /url: https://sanat.ir/articles
+            - img "موارد بیشتر" [ref=e268]
+            - generic [ref=e269]: مشاهده لیست کامل
+        - generic [ref=e271]:
+          - link "تبلیغات صنعتی":
+            - /url: /advertising
+            - img "تبلیغات صنعتی"
+      - generic [ref=e273]:
+        - heading [level=3] [ref=e276]:
+          - text: بنرهای تبلیغاتی
+          - img "در حال بارگذاری" [ref=e277]
+        - generic [ref=e278]:
+          - generic [ref=e279]:
+            - link "قالب بتن تنها پولاد":
+              - /url: https://tanhapoulad.com/
+              - img "قالب بتن تنها پولاد" [ref=e280] [cursor=pointer]
+          - generic [ref=e281]:
+            - link "تعمیر ماشین آلات راهسازی":
+              - /url: https://sofladiesel.ir
+              - img "تعمیر ماشین آلات راهسازی" [ref=e282] [cursor=pointer]
+          - generic [ref=e283]:
+            - link "آرال شیمی":
+              - /url: https://www.aralshimi.com/
+              - img "آرال شیمی" [ref=e284] [cursor=pointer]
+          - generic [ref=e285]:
+            - link "به آفرین":
+              - /url: https://behafaringroup.com/
+              - img "به آفرین" [ref=e286] [cursor=pointer]
+          - generic [ref=e287]:
+            - link "گروه بازرگانی تنهاوود":
+              - /url: https://tanhawood.com
+              - img "گروه بازرگانی تنهاوود" [ref=e288] [cursor=pointer]
+          - generic [ref=e289]:
+            - link "خرید ویلا رامسر":
+              - /url: https://newnest.ir
+              - img "خرید ویلا رامسر" [ref=e290] [cursor=pointer]
+          - generic [ref=e291]:
+            - link "خرید دستگاه میکسر پودر صنعتی":
+              - /url: https://khorrammachine.co/products/%d8%ae%d8%b1%db%8c%d8%af-%d8%af%d8%b3%d8%aa%da%af%d8%a7%d9%87-%d9%85%db%8c%da%a9%d8%b3%d8%b1-%d9%be%d9%88%d8%af%d8%b1-%d8%b5%d9%86%d8%b9%d8%aa%db%8c/
+              - img "خرید دستگاه میکسر پودر صنعتی" [ref=e292] [cursor=pointer]
+          - generic [ref=e293]:
+            - link "رپورتاژ آگهی":
+              - /url: http://www.triboon.net/%D8%AE%D8%B1%DB%8C%D8%AF-%D8%B1%D9%BE%D9%88%D8%B1%D8%AA%D8%A7%DA%98-%D8%A2%DA%AF%D9%87%DB%8C/?utm_source=sanat&utm_medium=banner&utm_campaign=triboon-promotion
+              - img "رپورتاژ آگهی" [ref=e294] [cursor=pointer]
+          - generic [ref=e295]:
+            - link "پتروشیمی دانشمند":
+              - /url: https://chemical-co.com/
+              - img "پتروشیمی دانشمند" [ref=e296] [cursor=pointer]
+          - generic [ref=e297]:
+            - link "رنگ نما":
+              - /url: https://newcolourco.ir/%D8%B1%D9%86%DA%AF-%D9%86%D9%85%D8%A7/
+              - img "رنگ نما" [ref=e298] [cursor=pointer]
+        - heading [level=3] [ref=e301]:
+          - text: لینک های پیشنهادی
+          - img "در حال بارگذاری" [ref=e302]
+        - generic [ref=e303]:
+          - link "خرید رپورتاژآگهی" [ref=e304] [cursor=pointer]:
+            - /url: /reportage
+          - link "قیمت پالت پلاستیکی" [ref=e305] [cursor=pointer]:
+            - /url: https://parspallet.ir
+          - link "دستگاه حضور و غیاب" [ref=e306] [cursor=pointer]:
+            - /url: https://mehrkia.com/%D9%84%DB%8C%D8%B3%D8%AA-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AD%D8%B6%D9%88%D8%B1-%D9%88-%D8%BA%DB%8C%D8%A7%D8%A8/
+          - link "روتس بلوئر ارزن Aerzen" [ref=e307] [cursor=pointer]:
+            - /url: https://agmacorp.com/product/%d8%b1%d9%88%d8%aa%d8%b3-%d8%a8%d9%84%d9%88%d8%a6%d8%b1-aerzen/
+          - link "گروه باو" [ref=e308] [cursor=pointer]:
+            - /url: https://bav-co.ir/
+          - link "فلومتر و تجهیزات اندازه‌گیری دبی" [ref=e309] [cursor=pointer]:
+            - /url: https://eshopsanat.com/product-category/flow-measurement-equipment/flowmeter/
+          - link "قیمت کانتینر" [ref=e310] [cursor=pointer]:
+            - /url: https://containecity.com/product/%DA%A9%D8%A7%D9%86%D8%AA%DB%8C%D9%86%D8%B1-%D8%AF%D8%B3%D8%AA-%D8%AF%D9%88%D9%85-%D9%88-%DA%A9%D8%A7%D8%B1%DA%A9%D8%B1%D8%AF%D9%87
+          - link "کلمات کلیدی صنعت" [ref=e311] [cursor=pointer]:
+            - /url: https://sanat.ir/keywords
+          - link "شیشه سکوریت" [ref=e312] [cursor=pointer]:
+            - /url: https://azarjam.com/products/safety-glass
+          - link "پمپ باد" [ref=e313] [cursor=pointer]:
+            - /url: https://pardis-sanat.net/product-category/aircompressor/
+          - link "قیمت آهن" [ref=e314] [cursor=pointer]:
+            - /url: https://chakkosh.com
+          - link "قیمت ورق آلومینیوم" [ref=e315] [cursor=pointer]:
+            - /url: https://sadidalum.com/%D9%82%DB%8C%D9%85%D8%AA-%D9%88%D8%B1%D9%82-%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85/
+          - link "پودر آلومینیوم" [ref=e316] [cursor=pointer]:
+            - /url: https://samarcom.com/product/powder-metals/aluminum-powder/
+          - link "دیزل ژنراتور" [ref=e317] [cursor=pointer]:
+            - /url: https://radocorp.com/product-category/%DA%98%D9%86%D8%B1%D8%A7%D8%AA%D9%88%D8%B1-%D9%88-%D9%85%D9%88%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D9%82/%D8%AF%DB%8C%D8%B2%D9%84-%DA%98%D9%86%D8%B1%D8%A7%D8%AA%D9%88%D8%B1/
+          - link "کمپرسور اسکرو" [ref=e318] [cursor=pointer]:
+            - /url: https://www.havayar.com/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%DA%A9%D9%85%D9%BE%D8%B1%D8%B3%D9%88%D8%B1-%D8%A7%D8%B3%DA%A9%D8%B1%D9%88/
+          - link "تفسیر عکس هوایی و ماهواره ای" [ref=e319] [cursor=pointer]:
+            - /url: https://i-maps.ir/aerial-photo-interpretation/
+          - link "اجرای کفپوش صنعتی" [ref=e320] [cursor=pointer]:
+            - /url: https://atronco.com/epoxy-flooring/industrial/
+        - link [ref=e321] [cursor=pointer]:
+          - /url: https://sanat.ir/advertising
+      - text: 
+  - generic [ref=e322]:
+    - generic [ref=e324]:
+      - generic [ref=e325]:
+        - 'heading ":: سایت صنعت ایران ::" [level=3] [ref=e326]'
+        - paragraph [ref=e327]: موتور جستجوی ایرانی کسب و کارهای ایران
+      - navigation [ref=e329]:
+        - link "خانه" [ref=e330] [cursor=pointer]:
+          - /url: /
+        - link "عضویت" [ref=e334] [cursor=pointer]:
+          - /url: /register
+        - link "بهترین ها" [ref=e338] [cursor=pointer]:
+          - /url: /best
+        - link "مقالات" [ref=e342] [cursor=pointer]:
+          - /url: /articles
+        - link "تبلیغات" [ref=e346] [cursor=pointer]:
+          - /url: /advertising
+    - generic [ref=e350]: www.sanat.ir
+```

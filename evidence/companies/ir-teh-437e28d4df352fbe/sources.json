@@ -1,0 +1,128 @@
+{
+  "company_id": "ir-teh-437e28d4df352fbe",
+  "errors": [],
+  "generated_at": "2026-09-01T07:25:35Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [
+    {
+      "bytes": 465251,
+      "captured_at": "2026-09-01T07:25:33Z",
+      "company_id": "ir-teh-437e28d4df352fbe",
+      "headless": true,
+      "page_title": "‌شهرک صنعتی شمس آباد | شهرک صنعتی | شهرک های صنعتی ایران",
+      "path": "companies/ir-teh-437e28d4df352fbe/screenshots/homepage.png",
+      "reason_this_matters": "Public company homepage is the primary visual evidence surface.",
+      "screenshot_type": "homepage",
+      "source_url": "https://novintejarat.ir/industrial-parks-industry-228-981-8-1.html"
+    }
+  ],
+  "sources": [
+    {
+      "discovered_at": "2026-09-01T06:32:24Z",
+      "discovery_reason": "DuckDuckGo Persian query: صنعتی شمس آباد تولید کننده تهران",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "لیست کامل بانک اطلاعات مشاغل و کارخانه های تولید کننده مواد غذایی , منسوجات , سنگ , سیمان, دستگاه های برقی , پوشاک , ابزارآلات , خدمات و غیره .... در , ‌شهرک صنعتی شمس آباد در بزرگترین وب سایت جامع شهرک ها و ناحیه های صنعتی ...",
+      "source_quality": "search_index",
+      "source_title": "‌شهرک صنعتی شمس آباد | شهرک صنعتی | شهرک های صنعتی ایران",
+      "source_type": "search",
+      "source_url": "https://html.duckduckgo.com/html/?q=%D8%B5%D9%86%D8%B9%D8%AA%DB%8C+%D8%B4%D9%85%D8%B3+%D8%A2%D8%A8%D8%A7%D8%AF+%D8%AA%D9%88%D9%84%DB%8C%D8%AF+%DA%A9%D9%86%D9%86%D8%AF%D9%87+%D8%AA%D9%87%D8%B1%D8%A7%D9%86&s=0&kl=ir-fa"
+    },
+    {
+      "discovered_at": "2026-09-01T06:32:24Z",
+      "discovery_reason": "DuckDuckGo Persian query: صنعتی شمس آباد تولید کننده تهران",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "لیست کامل بانک اطلاعات مشاغل و کارخانه های تولید کننده مواد غذایی , منسوجات , سنگ , سیمان, دستگاه های برقی , پوشاک , ابزارآلات , خدمات و غیره .... در , ‌شهرک صنعتی شمس آباد در بزرگترین وب سایت جامع شهرک ها و ناحیه های صنعتی ...",
+      "source_quality": "search_index",
+      "source_title": "‌شهرک صنعتی شمس آباد | شهرک صنعتی | شهرک های صنعتی ایران",
+      "source_type": "search",
+      "source_url": "https://html.duckduckgo.com/html/?q=%D8%B5%D9%86%D8%B9%D8%AA%DB%8C+%D8%B4%D9%85%D8%B3+%D8%A2%D8%A8%D8%A7%D8%AF+%D8%AA%D9%88%D9%84%DB%8C%D8%AF+%DA%A9%D9%86%D9%86%D8%AF%D9%87+%D8%AA%D9%87%D8%B1%D8%A7%D9%86&s=30&kl=ir-fa"
+    },
+    {
+      "captured_at": "2026-09-01T06:32:24Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-b3917bd5f4428ac2",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "لیست کامل بانک اطلاعات مشاغل و کارخانه های تولید کننده مواد غذایی , منسوجات , سنگ , سیمان, دستگاه های برقی , پوشاک , ابزارآلات , خدمات و غیره .... در , ‌شهرک صنعتی شمس آباد در بزرگترین وب سایت جامع شهرک ها و ناحیه های صنعتی ...",
+      "source_quality": "search_index",
+      "source_title": "‌شهرک صنعتی شمس آباد | شهرک صنعتی | شهرک های صنعتی ایران",
+      "source_url": "https://html.duckduckgo.com/html/?q=%D8%B5%D9%86%D8%B9%D8%AA%DB%8C+%D8%B4%D9%85%D8%B3+%D8%A2%D8%A8%D8%A7%D8%AF+%D8%AA%D9%88%D9%84%DB%8C%D8%AF+%DA%A9%D9%86%D9%86%D8%AF%D9%87+%D8%AA%D9%87%D8%B1%D8%A7%D9%86&s=0&kl=ir-fa"
+    },
+    {
+      "captured_at": "2026-09-01T06:32:24Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-0569b79aa4e62a0e",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "لیست کامل بانک اطلاعات مشاغل و کارخانه های تولید کننده مواد غذایی , منسوجات , سنگ , سیمان, دستگاه های برقی , پوشاک , ابزارآلات , خدمات و غیره .... در , ‌شهرک صنعتی شمس آباد در بزرگترین وب سایت جامع شهرک ها و ناحیه های صنعتی ...",
+      "source_quality": "search_index",
+      "source_title": "‌شهرک صنعتی شمس آباد | شهرک صنعتی | شهرک های صنعتی ایران",
+      "source_url": "https://html.duckduckgo.com/html/?q=%D8%B5%D9%86%D8%B9%D8%AA%DB%8C+%D8%B4%D9%85%D8%B3+%D8%A2%D8%A8%D8%A7%D8%AF+%D8%AA%D9%88%D9%84%DB%8C%D8%AF+%DA%A9%D9%86%D9%86%D8%AF%D9%87+%D8%AA%D9%87%D8%B1%D8%A7%D9%86&s=30&kl=ir-fa"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:07Z",
+      "claim": "Public website signal: catalog_or_products",
+      "confidence": 0.86,
+      "evidence_id": "ev-f3a1e6bf07e2d9c1",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "محصولات; محصول | ‌شهرک صنعتی شمس آباد | شهرک صنعتی | شهرک های صنعتی ایران ✕ اپلیکیشن نوین تجارت معرفی کسب و کار، تبلیغات، فرصت‌های تجاری و ارتباط سریع‌تر با مشتریان را در اپلیکیشن نوین تجارت تجربه کنید. 📲 نصب از کافه بازار ثبت آگهی/کسب و کار دانلود اپلیکیشن نوین تجارت بانک مشاغل محصولات ورود به سایت مقالات شهرک های صنعتی درباره ما تماس با ما دانلود اپلیکیشن سایت ساز شرکتی نوین تجارت بانک مشاغل محصولات ثبت نام یا ورود مقالات شهرک های",
+      "signal": "catalog_or_products",
+      "source_quality": "company_site",
+      "source_title": "‌شهرک صنعتی شمس آباد | شهرک صنعتی | شهرک های صنعتی ایران",
+      "source_url": "https://novintejarat.ir/industrial-parks-industry-228-981-8-1.html"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:07Z",
+      "claim": "Public website signal: order_or_contact_form",
+      "confidence": 0.72,
+      "evidence_id": "ev-0522a044b1f39bd0",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "تماس با ما | ‌شهرک صنعتی شمس آباد | شهرک صنعتی | شهرک های صنعتی ایران ✕ اپلیکیشن نوین تجارت معرفی کسب و کار، تبلیغات، فرصت‌های تجاری و ارتباط سریع‌تر با مشتریان را در اپلیکیشن نوین تجارت تجربه کنید. 📲 نصب از کافه بازار ثبت آگهی/کسب و کار دانلود اپلیکیشن نوین تجارت بانک مشاغل محصولات ورود به سایت مقالات شهرک های صنعتی درباره ما تماس با ما دانلود اپلیکیشن سایت ساز شرکتی نوین تجارت بانک مشاغل محصولات ثبت نام یا ورود مقالات شهرک های",
+      "signal": "order_or_contact_form",
+      "source_quality": "company_site",
+      "source_title": "‌شهرک صنعتی شمس آباد | شهرک صنعتی | شهرک های صنعتی ایران",
+      "source_url": "https://novintejarat.ir/industrial-parks-industry-228-981-8-1.html"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:07Z",
+      "claim": "Public website signal: factory_or_warehouse",
+      "confidence": 0.86,
+      "evidence_id": "ev-2870e5580a60495a",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "شهرک صنعتی | ‌شهرک صنعتی شمس آباد | شهرک صنعتی | شهرک های صنعتی ایران ✕ اپلیکیشن نوین تجارت معرفی کسب و کار، تبلیغات، فرصت‌های تجاری و ارتباط سریع‌تر با مشتریان را در اپلیکیشن نوین تجارت تجربه کنید. 📲 نصب از کافه بازار ثبت آگهی/کسب و کار دانلود اپلیکیشن نوین تجارت بانک مشاغل محصولات ورود به سایت مقالات شهرک های صنعتی درباره ما تماس با ما دانلود اپلیکیشن سایت ساز شرکتی نوین تجارت بانک مشاغل محصولات ثبت نام یا ورود مقالات شهرک های",
+      "signal": "factory_or_warehouse",
+      "source_quality": "company_site",
+      "source_title": "‌شهرک صنعتی شمس آباد | شهرک صنعتی | شهرک های صنعتی ایران",
+      "source_url": "https://novintejarat.ir/industrial-parks-industry-228-981-8-1.html"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:07Z",
+      "claim": "Public website signal: projects_or_clients",
+      "confidence": 0.72,
+      "evidence_id": "ev-1e78d79397de0eac",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "مشتریان | ‌شهرک صنعتی شمس آباد | شهرک صنعتی | شهرک های صنعتی ایران ✕ اپلیکیشن نوین تجارت معرفی کسب و کار، تبلیغات، فرصت‌های تجاری و ارتباط سریع‌تر با مشتریان را در اپلیکیشن نوین تجارت تجربه کنید. 📲 نصب از کافه بازار ثبت آگهی/کسب و کار دانلود اپلیکیشن نوین تجارت بانک مشاغل محصولات ورود به سایت مقالات شهرک های صنعتی درباره ما تماس با ما دانلود اپلیکیشن سایت ساز شرکتی نوین تجارت بانک مشاغل محصولات ثبت نام یا ورود مقالات شهرک های",
+      "signal": "projects_or_clients",
+      "source_quality": "company_site",
+      "source_title": "‌شهرک صنعتی شمس آباد | شهرک صنعتی | شهرک های صنعتی ایران",
+      "source_url": "https://novintejarat.ir/industrial-parks-industry-228-981-8-1.html"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:07Z",
+      "claim": "Public website signal: expansion_or_activity",
+      "confidence": 0.72,
+      "evidence_id": "ev-9ecd2f18766ae8e7",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "تولید کننده | ‌شهرک صنعتی شمس آباد | شهرک صنعتی | شهرک های صنعتی ایران ✕ اپلیکیشن نوین تجارت معرفی کسب و کار، تبلیغات، فرصت‌های تجاری و ارتباط سریع‌تر با مشتریان را در اپلیکیشن نوین تجارت تجربه کنید. 📲 نصب از کافه بازار ثبت آگهی/کسب و کار دانلود اپلیکیشن نوین تجارت بانک مشاغل محصولات ورود به سایت مقالات شهرک های صنعتی درباره ما تماس با ما دانلود اپلیکیشن سایت ساز شرکتی نوین تجارت بانک مشاغل محصولات ثبت نام یا ورود مقالات شهرک های",
+      "signal": "expansion_or_activity",
+      "source_quality": "company_site",
+      "source_title": "‌شهرک صنعتی شمس آباد | شهرک صنعتی | شهرک های صنعتی ایران",
+      "source_url": "https://novintejarat.ir/industrial-parks-industry-228-981-8-1.html"
+    }
+  ]
+}

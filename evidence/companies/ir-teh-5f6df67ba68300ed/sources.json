@@ -1,0 +1,106 @@
+{
+  "company_id": "ir-teh-5f6df67ba68300ed",
+  "errors": [],
+  "generated_at": "2026-09-01T08:18:01Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [
+    {
+      "bytes": 3302970,
+      "captured_at": "2026-09-01T08:17:59Z",
+      "company_id": "ir-teh-5f6df67ba68300ed",
+      "headless": true,
+      "page_title": "مرکز آپشن و تیونینگ محصولات کرمان موتور",
+      "path": "companies/ir-teh-5f6df67ba68300ed/screenshots/homepage.png",
+      "reason_this_matters": "Public company homepage is the primary visual evidence surface.",
+      "screenshot_type": "homepage",
+      "source_url": "https://otcgroup.ir/"
+    }
+  ],
+  "sources": [
+    {
+      "discovered_at": "2026-09-01T06:32:16Z",
+      "discovery_reason": "Book-e Avval category: فروش لوازم یدکی خودرو",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "گروه OTC مرکز تخصصی آپشن و تیونینگ خودروهای کرمان موتور در تهران است. ما با بیش از 10 سال تجربه، نصب استاندارد و حرفه ای آپشن های فابریک و ارتقایی را با حفظ گارانتی خودرو",
+      "source_quality": "directory",
+      "source_title": "فروش لوازم یدکی خودرو در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D9%81%D8%B1%D9%88%D8%B4%20%D9%84%D9%88%D8%A7%D8%B2%D9%85%20%DB%8C%D8%AF%DA%A9%DB%8C%20%D8%AE%D9%88%D8%AF%D8%B1%D9%88/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:32:16Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-1cc5392bcaacc672",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "گروه OTC مرکز تخصصی آپشن و تیونینگ خودروهای کرمان موتور در تهران است. ما با بیش از 10 سال تجربه، نصب استاندارد و حرفه ای آپشن های فابریک و ارتقایی را با حفظ گارانتی خودرو",
+      "source_quality": "directory",
+      "source_title": "فروش لوازم یدکی خودرو در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D9%81%D8%B1%D9%88%D8%B4%20%D9%84%D9%88%D8%A7%D8%B2%D9%85%20%DB%8C%D8%AF%DA%A9%DB%8C%20%D8%AE%D9%88%D8%AF%D8%B1%D9%88/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:53Z",
+      "claim": "Directory profile lists اوج تجارت پارت OTC Group (مرکز آپشن و تیونینگ محصولات کرمان موتور) with a public Tehran business listing.",
+      "confidence": 0.82,
+      "evidence_id": "ev-565e58d0bcee29e9",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "اوج تجارت پارت OTC Group (مرکز آپشن و تیونینگ محصولات کرمان موتور) - فروش لوازم یدکی خودرو | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس اوج تجارت پارت OTC Group (مرکز آپشن و تیونینگ محصولات کرمان موتور) 5.0 (1 نظر) نصب آپشن فابریک و تیونینگ خودروهای کرمان موتور در تهران. رولرلید و لاینر KMC، دوربین 360، مانیتور اندروید و کارپلی. مشاوره و نوبت دهی سریع. فروش لوازم یدکی خودرو پخش لوازم یدکی خودرو تزئینات خودرو تماس",
+      "source_quality": "directory",
+      "source_title": "اوج تجارت پارت OTC Group (مرکز آپشن و تیونینگ محصولات کرمان موتور) - فروش لوازم یدکی خودرو | کتاب اول",
+      "source_url": "https://avval.ir/profile/rlqtl/%D8%A7%D9%88%D8%AC-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D9%BE%D8%A7%D8%B1%D8%AA-OTC-Group-%D9%85%D8%B1%DA%A9%D8%B2-%D8%A2%D9%BE%D8%B4%D9%86-%D9%88-%D8%AA%DB%8C%D9%88%D9%86%DB%8C%D9%86%DA%AF-%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA-%DA%A9%D8%B1%D9%85%D8%A7%D9%86-%D9%85%D9%88%D8%AA%D9%88%D8%B1"
+    },
+    {
+      "captured_at": "2026-09-01T07:15:36Z",
+      "claim": "Public website signal: catalog_or_products",
+      "confidence": 0.86,
+      "evidence_id": "ev-1a0ffc56402f5cb1",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "محصولات; محصول | مرکز آپشن و تیونینگ محصولات کرمان موتور انتخاب دسته بندی انتخاب دسته بندی امنیت خودرو ایمنی خودرو برند خودرو BAC X3 PRO جک جک اس 5 اتومات جک اس3 جک اس5 دنده ای جک جی 4 جک جی 5 جیلی کی ام سی کی ام سی A5 کی ام سی J7 کی ام سی K7 کی ام سی T8 کی ام سی T9 کی ام سی X5 لیفان ایکس50 ایکس60 لیفان620 لیفان820 هیوندای النترا توسان سانتافه سوناتا هیوندای آی 10 هیوندای آی 20 هیوندای اکسنت تزئینات خودرو روشنایی خودرو رینگ و لاستیک",
+      "signal": "catalog_or_products",
+      "source_quality": "company_site",
+      "source_title": "مرکز آپشن و تیونینگ محصولات کرمان موتور",
+      "source_url": "https://otcgroup.ir/"
+    },
+    {
+      "captured_at": "2026-09-01T07:15:36Z",
+      "claim": "Public website signal: order_or_contact_form",
+      "confidence": 0.72,
+      "evidence_id": "ev-2b60f442289c1d12",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "ثبت سفارش; تماس با ما | مرکز آپشن و تیونینگ محصولات کرمان موتور انتخاب دسته بندی انتخاب دسته بندی امنیت خودرو ایمنی خودرو برند خودرو BAC X3 PRO جک جک اس 5 اتومات جک اس3 جک اس5 دنده ای جک جی 4 جک جی 5 جیلی کی ام سی کی ام سی A5 کی ام سی J7 کی ام سی K7 کی ام سی T8 کی ام سی T9 کی ام سی X5 لیفان ایکس50 ایکس60 لیفان620 لیفان820 هیوندای النترا توسان سانتافه سوناتا هیوندای آی 10 هیوندای آی 20 هیوندای اکسنت تزئینات خودرو روشنایی خودرو رینگ و لاستیک",
+      "signal": "order_or_contact_form",
+      "source_quality": "company_site",
+      "source_title": "مرکز آپشن و تیونینگ محصولات کرمان موتور",
+      "source_url": "https://otcgroup.ir/"
+    },
+    {
+      "captured_at": "2026-09-01T07:15:36Z",
+      "claim": "Public website signal: service_after_sales",
+      "confidence": 0.72,
+      "evidence_id": "ev-23bcfd266a0f3989",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "گارانتی | مرکز آپشن و تیونینگ محصولات کرمان موتور انتخاب دسته بندی انتخاب دسته بندی امنیت خودرو ایمنی خودرو برند خودرو BAC X3 PRO جک جک اس 5 اتومات جک اس3 جک اس5 دنده ای جک جی 4 جک جی 5 جیلی کی ام سی کی ام سی A5 کی ام سی J7 کی ام سی K7 کی ام سی T8 کی ام سی T9 کی ام سی X5 لیفان ایکس50 ایکس60 لیفان620 لیفان820 هیوندای النترا توسان سانتافه سوناتا هیوندای آی 10 هیوندای آی 20 هیوندای اکسنت تزئینات خودرو روشنایی خودرو رینگ و لاستیک",
+      "signal": "service_after_sales",
+      "source_quality": "company_site",
+      "source_title": "مرکز آپشن و تیونینگ محصولات کرمان موتور",
+      "source_url": "https://otcgroup.ir/"
+    },
+    {
+      "captured_at": "2026-09-01T07:15:36Z",
+      "claim": "Public website signal: projects_or_clients",
+      "confidence": 0.72,
+      "evidence_id": "ev-c0d03aad0f6dce5b",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "مشتریان | مرکز آپشن و تیونینگ محصولات کرمان موتور انتخاب دسته بندی انتخاب دسته بندی امنیت خودرو ایمنی خودرو برند خودرو BAC X3 PRO جک جک اس 5 اتومات جک اس3 جک اس5 دنده ای جک جی 4 جک جی 5 جیلی کی ام سی کی ام سی A5 کی ام سی J7 کی ام سی K7 کی ام سی T8 کی ام سی T9 کی ام سی X5 لیفان ایکس50 ایکس60 لیفان620 لیفان820 هیوندای النترا توسان سانتافه سوناتا هیوندای آی 10 هیوندای آی 20 هیوندای اکسنت تزئینات خودرو روشنایی خودرو رینگ و لاستیک",
+      "signal": "projects_or_clients",
+      "source_quality": "company_site",
+      "source_title": "مرکز آپشن و تیونینگ محصولات کرمان موتور",
+      "source_url": "https://otcgroup.ir/"
+    }
+  ]
+}

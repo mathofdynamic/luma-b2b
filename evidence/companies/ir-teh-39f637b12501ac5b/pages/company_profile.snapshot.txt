@@ -1,0 +1,309 @@
+### Page
+- Page URL: https://avval.ir/profile/rchqd/%D8%A2%D8%A8%D8%A7%D8%AF-%D9%BE%DB%8C-%D9%BE%D8%A7%DB%8C%D8%AF%D8%A7%D8%B1
+- Page Title: آباد پی پایدار - پیمانکار نفت و گاز و پتروشیمی | کتاب اول
+- Console: 4 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - link "home page" [ref=e5] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - textbox "فعالیت شغلی، نام کسب و کار، خدمات و محصولات و ..." [ref=e11]
+            - generic [ref=e12]: در
+            - generic [ref=e13]:
+              - textbox "شهر، محله، منطقه، خیابان و ..." [ref=e14]
+              - button "جستجو بر اساس موقعیت مکانی" [ref=e16] [cursor=pointer]
+            - button "جستجو" [ref=e19] [cursor=pointer]
+          - list
+      - link "ثبت رایگان اطلاعات شغلی" [ref=e23] [cursor=pointer]:
+        - /url: /%D8%AB%D8%A8%D8%AA-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D8%B4%D8%BA%D9%84%DB%8C
+      - button "ورود | ثبت نام" [ref=e26] [cursor=pointer]
+    - navigation [ref=e30]:
+      - list [ref=e31]:
+        - listitem [ref=e32]:
+          - button "دسته بندی مشاغل" [ref=e33] [cursor=pointer]
+        - listitem [ref=e35]: "|"
+        - listitem [ref=e36]:
+          - link "تبلیغات با ما" [ref=e37] [cursor=pointer]:
+            - /url: /%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-%D9%88%D8%A8-%D8%B3%D8%A7%DB%8C%D8%AA-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+        - listitem [ref=e40]: "|"
+        - listitem [ref=e41]:
+          - link "دسترسی بانک مشاغل" [ref=e42] [cursor=pointer]:
+            - /url: /%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B4%D8%A7%D8%BA%D9%84-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+        - listitem [ref=e45]: "|"
+        - listitem [ref=e46]:
+          - link "پنل اس ام اس" [ref=e47] [cursor=pointer]:
+            - /url: /smspanel
+  - generic [ref=e53]:
+    - main [ref=e54]:
+      - generic [ref=e55]:
+        - img "لوگوی آباد پی پایدار - پیمانکار نفت و گاز و پتروشیمی" [ref=e57]
+        - generic [ref=e58]:
+          - heading "آباد پی پایدار" [level=1] [ref=e59]
+          - generic [ref=e60]:
+            - generic [ref=e71]: "5.0"
+            - generic [ref=e72]: (2 نظر)
+          - generic [ref=e73]: کیفیت مهمترین بخش کار ماست
+          - list [ref=e74]:
+            - listitem [ref=e75]: پیمانکار نفت و گاز و پتروشیمی
+            - listitem [ref=e76]: پیمانکار تاسیسات و تجهیزات
+            - listitem [ref=e77]: پیمانکار پروژه صنعتی
+            - listitem [ref=e78]: مهندسین مشاور
+      - generic [ref=e79]:
+        - link "تماس" [ref=e80] [cursor=pointer]:
+          - /url: "#"
+        - button "ثبت نظر" [ref=e85] [cursor=pointer]
+        - button "ارتقای پروفایل" [ref=e88] [cursor=pointer]
+        - button "ویرایش" [ref=e91] [cursor=pointer]
+        - button "اشتراک گذاری" [ref=e96] [cursor=pointer]
+      - navigation [ref=e104]:
+        - list [ref=e105]:
+          - listitem [ref=e106]:
+            - link "link to home" [ref=e107] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e111]
+          - listitem [ref=e114]:
+            - link "دسته‌بندی مشاغل" [ref=e115] [cursor=pointer]:
+              - /url: /directory
+          - listitem [ref=e116]
+          - listitem [ref=e119]:
+            - link "پیمانکار نفت و گاز و پتروشیمی" [ref=e120] [cursor=pointer]:
+              - /url: /directory/%D9%BE%DB%8C%D9%85%D8%A7%D9%86%DA%A9%D8%A7%D8%B1-%D9%86%D9%81%D8%AA-%D9%88-%DA%AF%D8%A7%D8%B2-%D9%88-%D9%BE%D8%AA%D8%B1%D9%88%D8%B4%DB%8C%D9%85%DB%8C
+          - listitem [ref=e121]
+          - listitem [ref=e124]:
+            - link "تهران" [ref=e125] [cursor=pointer]:
+              - /url: /directory/%D9%BE%DB%8C%D9%85%D8%A7%D9%86%DA%A9%D8%A7%D8%B1-%D9%86%D9%81%D8%AA-%D9%88-%DA%AF%D8%A7%D8%B2-%D9%88-%D9%BE%D8%AA%D8%B1%D9%88%D8%B4%DB%8C%D9%85%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86
+          - listitem [ref=e126]
+          - listitem [ref=e129]:
+            - link "محله اختیاریه - رستم آباد" [ref=e130] [cursor=pointer]:
+              - /url: /directory/%D9%BE%DB%8C%D9%85%D8%A7%D9%86%DA%A9%D8%A7%D8%B1-%D9%86%D9%81%D8%AA-%D9%88-%DA%AF%D8%A7%D8%B2-%D9%88-%D9%BE%D8%AA%D8%B1%D9%88%D8%B4%DB%8C%D9%85%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%85%D8%AD%D9%84%D9%87-%D8%A7%D8%AE%D8%AA%DB%8C%D8%A7%D8%B1%DB%8C%D9%87-%D8%B1%D8%B3%D8%AA%D9%85-%D8%A2%D8%A8%D8%A7%D8%AF
+      - generic [ref=e131]:
+        - heading "اطلاعات تماس" [level=2] [ref=e133]
+        - list [ref=e134]:
+          - listitem [ref=e135]:
+            - generic [ref=e136]: "آدرس :"
+            - generic [ref=e140]: تهران، منطقه 3، محله اختیاریه - رستم آباد، خیابان کلاهدوز (دولت)، بعد از چهارراه اختیاریه، پلاک 119، واحد 5
+          - listitem [ref=e141]:
+            - generic [ref=e142]: "تلفن :"
+            - button "نمایش شماره" [ref=e145] [cursor=pointer]
+            - generic [ref=e146]: XXXXXXXXXX
+          - listitem [ref=e147]:
+            - generic [ref=e148]: "تلفن همراه :"
+            - button "نمایش شماره" [ref=e151] [cursor=pointer]
+            - generic [ref=e152]: XXXXXXXXXX
+          - listitem [ref=e153]:
+            - generic [ref=e154]: وب سایت
+            - link "www.abadpey.com" [ref=e158] [cursor=pointer]:
+              - /url: http://www.abadpey.com
+          - listitem [ref=e159]:
+            - generic [ref=e160]: "ایمیل :"
+            - link "info@abadpey.com" [ref=e165] [cursor=pointer]:
+              - /url: mailto://info@abadpey.com
+      - generic [ref=e167]:
+        - heading "توضیحات" [level=2] [ref=e169]
+        - generic [ref=e170]: آباد پی پایدار :یکی از مهمترین مباحث در بحث توسعه ملی، سازندگی و توسعه است. فعالیت‌های ارزشمند عمرانی باعث توسعه و رونق بیشتر کشور می‌شود، اما آنچه امروز در پیش روی توسعه قرار دارد، نگاه به پایداری یا توسعه پایدار است.تجارب ارزشمند و گرانبهای متخصصان این شرکت که بیشترین سابقه را در تحقیق، پژوهش، آموزش جدیدترین فنون مهندسی و ارائه خدمات مهندسی و اجرایی به سازمان‌ها و ارگان‌های دولتی و خصوصی دارند، سرمایه اصلی شرکت و سابقه واقعی آن در این حوزه است. عضویت کارشناسان این شرکت در مراکز مختلف علمی و فنی داخلی و بین‌المللی، نشان از علاقه این شرکت به استفاده از آخرین دستاوردهای علوم مهندسی در پروژه‌های مطالعاتی و اجرایی خود دارد.
+      - generic [ref=e171]:
+        - heading "نظرات" [level=2] [ref=e173]
+        - generic [ref=e174]:
+          - paragraph [ref=e175]: لطفا به این کسب و کار امتیاز بدید و نظر خودتون رو درباره این کسب و کار بنویسید
+          - generic [ref=e176]:
+            - generic [ref=e179]:
+              - generic [ref=e180]: بدون رای
+              - generic "بدون رای" [ref=e182] [cursor=pointer]:
+                - textbox "امتیاز شما برای این کسب و کار" [ref=e214]
+            - generic [ref=e215]:
+              - generic [ref=e216]: حداکثر 2000 کاراکتر
+              - textbox "به نظر من ..." [ref=e217]
+              - button "ثبت نظر" [ref=e218] [cursor=pointer]
+          - generic [ref=e219]:
+            - generic [ref=e221]:
+              - generic [ref=e225]: کاربر مهمان
+              - generic [ref=e226]: 2 ماه پیش
+            - generic [ref=e238]:
+              - button "0" [ref=e239] [cursor=pointer]
+              - button "پاسخ" [ref=e243] [cursor=pointer]
+              - button "گزارش تخلف این نظر" [ref=e248] [cursor=pointer]
+          - generic [ref=e252]:
+            - generic [ref=e254]:
+              - generic [ref=e258]: لیلا سلطانی
+              - generic [ref=e259]: 9 ماه پیش
+            - generic [ref=e271]:
+              - button "0" [ref=e272] [cursor=pointer]
+              - button "پاسخ" [ref=e276] [cursor=pointer]
+              - button "گزارش تخلف این نظر" [ref=e281] [cursor=pointer]
+          - text: ✕
+    - complementary [ref=e285]:
+      - generic [ref=e287]:
+        - generic [ref=e288]:
+          - generic:
+            - region "Map" [ref=e289]
+            - generic: برای بزرگنمایی نقشه، از ⌘ + پیمایش استفاده کنید
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e290] [cursor=pointer]
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e291] [cursor=pointer]
+          - generic:
+            - generic:
+              - generic [ref=e305]:
+                - button "Zoom in" [ref=e306] [cursor=pointer]
+                - button "Zoom out" [ref=e308] [cursor=pointer]
+              - button "Enter fullscreen" [ref=e311] [cursor=pointer]
+        - generic [ref=e313]:
+          - button "گوگل" [ref=e314] [cursor=pointer]
+          - button [ref=e321] [cursor=pointer]:
+            - img "بلد" [ref=e322]
+            - text: بلد
+          - button [ref=e323] [cursor=pointer]:
+            - img "نشان" [ref=e324]
+            - text: نشان
+      - list [ref=e327]:
+        - listitem [ref=e328]:
+          - paragraph [ref=e329]: نزدیک ترین ایستگاه اتوبوس به آباد پی پایدار
+          - link "ایستگاه اتوبوس دیباجی - کد 89 - غرب به شرق 92 متر" [ref=e330] [cursor=pointer]:
+            - /url: /profile/3163f/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A7%D8%AA%D9%88%D8%A8%D9%88%D8%B3-%D8%AF%DB%8C%D8%A8%D8%A7%D8%AC%DB%8C-%DA%A9%D8%AF-89-%D8%BA%D8%B1%D8%A8-%D8%A8%D9%87-%D8%B4%D8%B1%D9%82
+      - generic [ref=e341]:
+        - heading "کسب و کارهای مشابه" [level=2] [ref=e343]
+        - navigation [ref=e344]:
+          - list [ref=e345]:
+            - listitem [ref=e346]:
+              - link "شرکت مهندسی آرون گستر شرکت مهندسی آرون گستر 5.0 (1 نظر) پیمانکار نفت و گاز و پتروشیمی تهران، منطقه 6، محله کشاورز، میدان جهاد" [ref=e347] [cursor=pointer]:
+                - /url: /profile/445e1/%D8%B4%D8%B1%DA%A9%D8%AA-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%A2%D8%B1%D9%88%D9%86-%DA%AF%D8%B3%D8%AA%D8%B1
+                - img "شرکت مهندسی آرون گستر" [ref=e348]
+                - generic [ref=e349]:
+                  - heading "شرکت مهندسی آرون گستر" [level=3] [ref=e350]
+                  - generic [ref=e351]:
+                    - generic [ref=e362]: "5.0"
+                    - generic [ref=e363]: (1 نظر)
+                  - list [ref=e364]:
+                    - listitem [ref=e365]: پیمانکار نفت و گاز و پتروشیمی
+                  - generic [ref=e366]: تهران، منطقه 6، محله کشاورز، میدان جهاد
+            - listitem [ref=e370]:
+              - link "شرکت فرا ایده نوین (فرینکو) شرکت فرا ایده نوین (فرینکو) 5.0 (1 نظر) پیمانکار نفت و گاز و پتروشیمی اصفهان، شهر بهارستان" [ref=e371] [cursor=pointer]:
+                - /url: /profile/lrywk/%D8%B4%D8%B1%DA%A9%D8%AA-%D9%81%D8%B1%D8%A7-%D8%A7%DB%8C%D8%AF%D9%87-%D9%86%D9%88%DB%8C%D9%86-%D9%81%D8%B1%DB%8C%D9%86%DA%A9%D9%88
+                - img "شرکت فرا ایده نوین (فرینکو)" [ref=e372]
+                - generic [ref=e373]:
+                  - heading "شرکت فرا ایده نوین (فرینکو)" [level=3] [ref=e374]
+                  - generic [ref=e375]:
+                    - generic [ref=e386]: "5.0"
+                    - generic [ref=e387]: (1 نظر)
+                  - list [ref=e388]:
+                    - listitem [ref=e389]: پیمانکار نفت و گاز و پتروشیمی
+                  - generic [ref=e390]: اصفهان، شهر بهارستان
+            - listitem [ref=e394]:
+              - link [ref=e395] [cursor=pointer]:
+                - /url: /profile/73f4e/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7-%D8%AE%D8%B7-%D9%86%DB%8C%D8%B1%D9%88
+                - img "شرکت ارتباط خط نیرو" [ref=e396]
+                - generic [ref=e397]:
+                  - heading "شرکت ارتباط خط نیرو" [level=3] [ref=e398]
+                  - list [ref=e399]:
+                    - listitem [ref=e400]: پیمانکار نفت و گاز و پتروشیمی
+                  - generic [ref=e401]: بندرعباس، بلوار دانشگاه
+            - listitem [ref=e405]:
+              - link [ref=e406] [cursor=pointer]:
+                - /url: /profile/a9s8b/%D8%B4%D8%B1%DA%A9%D8%AA-%D9%88%D8%B3%D8%AA%D8%A7-%D9%BE%D8%A7%D8%AF-%D8%A7%D9%84%D8%A8%D8%B1%D8%B2
+                - img "شرکت وستا پاد البرز" [ref=e407]
+                - generic [ref=e408]:
+                  - heading "شرکت وستا پاد البرز" [level=3] [ref=e409]
+                  - list [ref=e410]:
+                    - listitem [ref=e411]: پیمانکار نفت و گاز و پتروشیمی
+                  - generic [ref=e412]: تهران، منطقه 4، محله اختیاریه - رستم آباد، چهارراه پاسداران
+            - listitem [ref=e416]:
+              - link [ref=e417] [cursor=pointer]:
+                - /url: /profile/5f9dc/%D8%B4%D8%B1%DA%A9%D8%AA-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%B7%D8%B1%D8%AD-%D9%88-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D8%AF%D9%86%D8%A7-%D8%A7%D8%AE%DA%AF%D8%B1
+                - generic [ref=e439]:
+                  - heading "شرکت مهندسی طرح و توسعه دنا اخگر" [level=3] [ref=e440]
+                  - list [ref=e441]:
+                    - listitem [ref=e442]: پیمانکار نفت و گاز و پتروشیمی
+                  - generic [ref=e443]: تهران، خیابان خالداسلامبولی
+            - listitem [ref=e447]:
+              - link [ref=e448] [cursor=pointer]:
+                - /url: /profile/3cd34/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%B3%DA%AF%D8%A7%D9%84-%D8%A2%D8%B0%D8%B1
+                - generic [ref=e470]:
+                  - heading "شرکت سگال آذر" [level=3] [ref=e471]
+                  - list [ref=e472]:
+                    - listitem [ref=e473]: پیمانکار پروژه صنعتی
+                  - generic [ref=e474]: تبریز، کوی ولی عصر
+            - listitem [ref=e478]:
+              - link "سندبلاست پینت سیفی سندبلاست پینت سیفی 5.0 (1 نظر) رنگ آمیزی صنعتی و سندبلاست تهران، ملارد، صفادشت، شهرک صنعتی صفادشت" [ref=e479] [cursor=pointer]:
+                - /url: /profile/nzuyt/%D8%B3%D9%86%D8%AF%D8%A8%D9%84%D8%A7%D8%B3%D8%AA-%D9%BE%DB%8C%D9%86%D8%AA-%D8%B3%DB%8C%D9%81%DB%8C
+                - img "سندبلاست پینت سیفی" [ref=e480]
+                - generic [ref=e481]:
+                  - heading "سندبلاست پینت سیفی" [level=3] [ref=e482]
+                  - generic [ref=e483]:
+                    - generic [ref=e494]: "5.0"
+                    - generic [ref=e495]: (1 نظر)
+                  - list [ref=e496]:
+                    - listitem [ref=e497]: رنگ آمیزی صنعتی و سندبلاست
+                  - generic [ref=e498]: تهران، ملارد، صفادشت، شهرک صنعتی صفادشت
+    - text: ✕ ✕
+  - contentinfo [ref=e502]:
+    - generic [ref=e503]:
+      - generic [ref=e504]:
+        - link "home page" [ref=e505] [cursor=pointer]:
+          - /url: /
+        - list [ref=e508]:
+          - listitem [ref=e509]:
+            - link "Telegram" [ref=e510] [cursor=pointer]:
+              - /url: https://t.me/avval_ir
+          - listitem [ref=e516]:
+            - link "instagram" [ref=e517] [cursor=pointer]:
+              - /url: https://instagram.com/ketabeavval.officialpage
+          - listitem [ref=e522]:
+            - link "Twitter" [ref=e523] [cursor=pointer]:
+              - /url: https://twitter.com/ketabeavvalir
+          - listitem [ref=e527]:
+            - link "Facebook" [ref=e528] [cursor=pointer]:
+              - /url: https://www.facebook.com/avval/
+          - listitem [ref=e532]:
+            - link "Linkedin" [ref=e533] [cursor=pointer]:
+              - /url: https://linkedin.com/company/ketabeavval/
+      - navigation [ref=e538]:
+        - generic [ref=e539]:
+          - generic [ref=e540]: درباره کتاب اول
+          - list [ref=e541]:
+            - listitem [ref=e542]:
+              - link "درباره کتاب اول" [ref=e543] [cursor=pointer]:
+                - /url: /about-ketabeavval
+            - listitem [ref=e544]:
+              - link "تماس با کتاب اول" [ref=e545] [cursor=pointer]:
+                - /url: /contact-us
+            - listitem [ref=e546]:
+              - link "شرایط استفاده" [ref=e547] [cursor=pointer]:
+                - /url: /terms-conditions
+            - listitem [ref=e548]:
+              - link "حریم شخضی" [ref=e549] [cursor=pointer]:
+                - /url: /privacy-policy
+        - generic [ref=e550]:
+          - generic [ref=e551]: کشف کنید
+          - list [ref=e552]:
+            - listitem [ref=e553]:
+              - link "دسته بندی مشاغل" [ref=e554] [cursor=pointer]:
+                - /url: /directory
+            - listitem [ref=e555]:
+              - link "نقشه سایت" [ref=e556] [cursor=pointer]:
+                - /url: /sitemap
+            - listitem [ref=e557]:
+              - link "دسترسی بانک مشاغل کتاب اول" [ref=e558] [cursor=pointer]:
+                - /url: /%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B4%D8%A7%D8%BA%D9%84-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+            - listitem [ref=e559]:
+              - link "پنل اس ام اس" [ref=e560] [cursor=pointer]:
+                - /url: /smspanel
+        - generic [ref=e561]:
+          - generic [ref=e562]: صاحبین مشاغل در کتاب اول
+          - list [ref=e563]:
+            - listitem [ref=e564]:
+              - link "ثبت اطلاعات شغلی" [ref=e565] [cursor=pointer]:
+                - /url: /%D8%AB%D8%A8%D8%AA-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D8%B4%D8%BA%D9%84%DB%8C
+            - listitem [ref=e566]:
+              - link "تبلیغات با کتاب اول" [ref=e567] [cursor=pointer]:
+                - /url: /%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-%D9%88%D8%A8-%D8%B3%D8%A7%DB%8C%D8%AA-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+    - generic [ref=e568]:
+      - img "samandehi logo" [ref=e570] [cursor=pointer]
+      - link "enamad logo" [ref=e572] [cursor=pointer]:
+        - /url: https://trustseal.enamad.ir/?id=194990&Code=3Y0m3d1djm9fuqjoC8mT
+        - img "logo-enamad" [ref=e573]
+    - generic [ref=e574]: 1373-1403 © تمامی حقوق برای شرکت کتاب اول محفوظ است
+  - text: ✕ *
+```

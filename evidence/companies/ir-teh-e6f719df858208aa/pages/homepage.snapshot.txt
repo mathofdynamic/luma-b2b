@@ -1,0 +1,1058 @@
+### Page
+- Page URL: https://www.aco-battery.com/
+- Page Title: آکوباتری ایرانیان
+- Console: 3 errors, 2 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - banner:
+    - generic [ref=e4]:
+      - link [ref=e5] [cursor=pointer]:
+        - /url: https://www.aco-battery.com/
+        - img "آکو باتری ایرانیان" [ref=e6]
+      - navigation [ref=e8]:
+        - list [ref=e9]:
+          - listitem [ref=e10]:
+            - link "صفحه اصلی" [ref=e11] [cursor=pointer]:
+              - /url: https://www.aco-battery.com/
+          - listitem [ref=e12]:
+            - link "محصولات" [ref=e13] [cursor=pointer]:
+              - /url: https://www.aco-battery.com/fa/product
+            - text:     
+          - listitem [ref=e14]:
+            - link "اخبار و مقاله ها" [ref=e15] [cursor=pointer]:
+              - /url: javascript:void(0);
+            - text: 
+          - listitem [ref=e16]:
+            - link "خدمات پس از فروش" [ref=e17] [cursor=pointer]:
+              - /url: javascript:void(0);
+          - listitem [ref=e18]:
+            - link "فرصت های شغلی" [ref=e19] [cursor=pointer]:
+              - /url: "https://www.aco-battery.com/fa/employment.html\t"
+          - listitem [ref=e20]:
+            - link "درباره ما" [ref=e21] [cursor=pointer]:
+              - /url: https://www.aco-battery.com/fa/about
+          - listitem [ref=e22]:
+            - link "تماس با ما" [ref=e23] [cursor=pointer]:
+              - /url: https://www.aco-battery.com/fa/contact
+          - listitem [ref=e24]:
+            - link "ورود به سامانه نمایندگان" [ref=e25] [cursor=pointer]:
+              - /url: https://www.aco-battery.com/customers/resellerPannel/
+      - generic [ref=e26]:
+        - link "جستجو" [ref=e27] [cursor=pointer]:
+          - /url: ""
+        - link " FA" [ref=e33] [cursor=pointer]:
+          - /url: javascript:void(0);
+          - generic: 
+          - text: FA
+        - link "ورود | عضویت" [ref=e38] [cursor=pointer]:
+          - /url: https://www.aco-battery.com/fa/register.html
+  - main [ref=e42]:
+    - generic [ref=e48]:
+      - generic [ref=e50]:
+        - generic [ref=e51]:
+          - listbox [ref=e54]:
+            - option ". . مشاهده بیشتر" [ref=e55]:
+              - generic [ref=e56]:
+                - link [ref=e57] [cursor=pointer]:
+                  - /url: https://dara.csdiran.ir/
+                  - img "." [ref=e59]
+                - generic [ref=e61]:
+                  - generic [ref=e62]: .
+                  - link "مشاهده بیشتر" [ref=e63] [cursor=pointer]:
+                    - /url: https://dara.csdiran.ir/
+            - option [ref=e66]:
+              - generic [ref=e67]:
+                - link [ref=e68] [cursor=pointer]:
+                  - /url: https://dara.csdiran.ir/
+                - generic [ref=e72]:
+                  - generic [ref=e73]: .
+                  - link [ref=e74] [cursor=pointer]:
+                    - /url: https://dara.csdiran.ir/
+                    - text: مشاهده بیشتر
+            - option [ref=e77]:
+              - generic [ref=e78]:
+                - link [ref=e79] [cursor=pointer]:
+                  - /url: javascript:void(0);
+                - generic [ref=e83]:
+                  - generic [ref=e84]: .
+                  - link [ref=e85] [cursor=pointer]:
+                    - /url: javascript:void(0);
+                    - text: مشاهده بیشتر
+          - generic [ref=e88]:
+            - generic [ref=e89] [cursor=pointer]
+            - generic [ref=e92] [cursor=pointer]
+        - generic [ref=e95]: اسکرول کنید
+      - generic [ref=e102]:
+        - list [ref=e105]:
+          - listitem [ref=e106]:
+            - link "باتری های خودرویی" [ref=e107] [cursor=pointer]:
+              - /url: ""
+          - listitem [ref=e108]:
+            - link "باتری های موتوری" [ref=e109] [cursor=pointer]:
+              - /url: ""
+          - listitem [ref=e110]:
+            - link "باتری های یو پی اس" [ref=e111] [cursor=pointer]:
+              - /url: ""
+        - generic:
+          - list:
+            - listitem
+            - listitem
+            - listitem
+      - generic [ref=e116]:
+        - generic [ref=e117]:
+          - generic [ref=e118]: بلاگ آکوباتری ایرانیان
+          - link "مشاهده آرشیو" [ref=e119] [cursor=pointer]:
+            - /url: https://www.aco-battery.com/fa/news
+        - toolbar [ref=e124]:
+          - listbox [ref=e126]:
+            - generic [ref=e128]:
+              - link [ref=e129] [cursor=pointer]:
+                - /url: https://www.aco-battery.com/fa/news/ups-batteries-in-the-oil-and-gas-industry
+              - generic [ref=e131]:
+                - link [ref=e132] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/news/ups-batteries-in-the-oil-and-gas-industry
+                  - text: بررسی کاربرد باتری یو‌پی‌اس در صنایع نفت، گاز و پتروشیمی
+                - generic [ref=e133]:
+                  - generic [ref=e134]: 1404/12/06
+                  - link [ref=e135] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/news/ups-batteries-in-the-oil-and-gas-industry
+                    - text: مشاهده بیشتر
+            - option [ref=e1277]:
+              - generic [ref=e139]:
+                - link [ref=e1278] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/news/acobattery-iranian-ipo
+                - generic [ref=e142]:
+                  - link [ref=e1280] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/news/acobattery-iranian-ipo
+                    - text: زنگ بورس برای آکو به صدا درآمد
+                  - generic [ref=e144]:
+                    - generic [ref=e145]: 1405/05/29
+                    - link [ref=e1281] [cursor=pointer]:
+                      - /url: https://www.aco-battery.com/fa/news/acobattery-iranian-ipo
+                      - text: مشاهده بیشتر
+            - option "آیین معارفه شرکت آکو باتری به مناسبت ورود به بورس تهران آیین معارفه شرکت آکو باتری ایرانیان به مناسبت ورود به بورس اوراق بهادار تهران برگزار شد 1405/05/12 مشاهده بیشتر" [ref=e1282]:
+              - generic [ref=e150]:
+                - link [ref=e1283] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/news/آکو-باتری-ایرانیان-وارد-بورس-تهران-شد-گزارش-آیین-معارفه
+                  - img "آیین معارفه شرکت آکو باتری به مناسبت ورود به بورس تهران" [ref=e1284]
+                - generic [ref=e153]:
+                  - link "آیین معارفه شرکت آکو باتری ایرانیان به مناسبت ورود به بورس اوراق بهادار تهران برگزار شد" [ref=e1285] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/news/آکو-باتری-ایرانیان-وارد-بورس-تهران-شد-گزارش-آیین-معارفه
+                  - generic [ref=e155]:
+                    - generic [ref=e156]: 1405/05/12
+                    - link "مشاهده بیشتر" [ref=e1286] [cursor=pointer]:
+                      - /url: https://www.aco-battery.com/fa/news/آکو-باتری-ایرانیان-وارد-بورس-تهران-شد-گزارش-آیین-معارفه
+            - option [ref=e160]:
+              - generic [ref=e161]:
+                - link [ref=e162] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/news/visit-vice-president-science-acobattery
+                - generic [ref=e164]:
+                  - link [ref=e165] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/news/visit-vice-president-science-acobattery
+                    - text: بازدید معاون محترم علمی، فناوری و اقتصاد دانش بنیان رئیس جمهور و نایب رئیس مجلس شورای اسلامی از کارخانه آکوباتری
+                  - generic [ref=e166]:
+                    - generic [ref=e167]: 1405/04/06
+                    - link [ref=e168] [cursor=pointer]:
+                      - /url: https://www.aco-battery.com/fa/news/visit-vice-president-science-acobattery
+                      - text: مشاهده بیشتر
+            - option [ref=e171]:
+              - generic [ref=e172]:
+                - link [ref=e173] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/news/acobattery-standard-test-hamrah-avval
+                - generic [ref=e175]:
+                  - link [ref=e176] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/news/acobattery-standard-test-hamrah-avval
+                    - text: محصولات آکوباتری استانداردهای فنی همراه اول را پاس کرد
+                  - generic [ref=e177]:
+                    - generic [ref=e178]: 1405/03/05
+                    - link [ref=e179] [cursor=pointer]:
+                      - /url: https://www.aco-battery.com/fa/news/acobattery-standard-test-hamrah-avval
+                      - text: مشاهده بیشتر
+            - option [ref=e182]:
+              - generic [ref=e183]:
+                - link [ref=e184] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/news/ups-batteries-in-the-oil-and-gas-industry
+                - generic [ref=e186]:
+                  - link [ref=e187] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/news/ups-batteries-in-the-oil-and-gas-industry
+                    - text: بررسی کاربرد باتری یو‌پی‌اس در صنایع نفت، گاز و پتروشیمی
+                  - generic [ref=e188]:
+                    - generic [ref=e189]: 1404/12/06
+                    - link [ref=e190] [cursor=pointer]:
+                      - /url: https://www.aco-battery.com/fa/news/ups-batteries-in-the-oil-and-gas-industry
+                      - text: مشاهده بیشتر
+            - generic [ref=e194]:
+              - link [ref=e195] [cursor=pointer]:
+                - /url: https://www.aco-battery.com/fa/news/acobattery-iranian-ipo
+              - generic [ref=e197]:
+                - link [ref=e198] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/news/acobattery-iranian-ipo
+                  - text: زنگ بورس برای آکو به صدا درآمد
+                - generic [ref=e199]:
+                  - generic [ref=e200]: 1405/05/29
+                  - link [ref=e201] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/news/acobattery-iranian-ipo
+                    - text: مشاهده بیشتر
+          - tablist [ref=e204]:
+            - listitem [ref=e205] [cursor=pointer]:
+              - button [ref=e1287]: "1"
+            - listitem [ref=e207] [cursor=pointer]:
+              - button "2" [ref=e1288]
+            - listitem [ref=e209] [cursor=pointer]:
+              - button [ref=e210]: "3"
+            - listitem [ref=e211] [cursor=pointer]:
+              - button [ref=e212]: "4"
+            - listitem [ref=e213] [cursor=pointer]:
+              - button [ref=e214]: "5"
+      - generic [ref=e218]:
+        - generic [ref=e219]:
+          - generic [ref=e220]: چند رسانه ای
+          - link "مشاهده بیشتر" [ref=e221] [cursor=pointer]:
+            - /url: https://www.aco-battery.com/fa/multimedia
+        - generic [ref=e225]:
+          - generic [ref=e228]:
+            - button [ref=e229] [cursor=pointer]
+            - listbox [ref=e233]:
+              - option "گالری تصاویر بازدید معاون علمی رئیس‌جمهور از کارخانه آکوباتری بازدید معاون علمی رئیس‌جمهور و نایب‌رئیس مجلس از آکوباتری 1405/04/06" [ref=e234]:
+                - link [ref=e235] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/photo-cat/acobattery-factory-visit-photos
+                  - img "گالری تصاویر بازدید معاون علمی رئیس‌جمهور از کارخانه آکوباتری" [ref=e236]
+                - generic [ref=e237]:
+                  - link "بازدید معاون علمی رئیس‌جمهور و نایب‌رئیس مجلس از آکوباتری" [ref=e238] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/photo-cat/acobattery-factory-visit-photos
+                  - generic [ref=e239]: 1405/04/06
+              - option [ref=e240]:
+                - link [ref=e241] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/photo-cat/acobattery-hamrah-avval-test-results
+                - generic [ref=e243]:
+                  - link [ref=e244] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/photo-cat/acobattery-hamrah-avval-test-results
+                    - text: بازدید و تایید کیفیت باتری های آکوباتری توسط تیم فنی همراه اول
+                  - generic [ref=e245]: 1405/03/05
+              - option [ref=e246]:
+                - link [ref=e247] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/photo-cat/hamrah-aval-visit-acobattery
+                - generic [ref=e249]:
+                  - link [ref=e250] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/photo-cat/hamrah-aval-visit-acobattery
+                    - text: بازدید شرکت همراه اول از کارخانه آکوباتری
+                  - generic [ref=e251]: 1404/11/19
+              - option [ref=e252]:
+                - link [ref=e253] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/photo-cat/ashja-battery-honored-national-industry-mining-day
+                - generic [ref=e255]:
+                  - link [ref=e256] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/photo-cat/ashja-battery-honored-national-industry-mining-day
+                    - text: روز ملی صنعت و معدن و تجلیل از اشجع باتری
+                  - generic [ref=e257]: 1404/06/29
+              - option [ref=e258]:
+                - link [ref=e259] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/photo-cat/deputy-minister-visits-the-acobattery
+                - generic [ref=e261]:
+                  - link [ref=e262] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/photo-cat/deputy-minister-visits-the-acobattery
+                    - text: بازدید مدیر کل تجهیزات برق، الکترونیک، نرم‌افزار و صنایع خلاق وزارت صمت از کارخانه آکوباتری
+                  - generic [ref=e263]: 1404/02/20
+              - option [ref=e264]:
+                - link [ref=e265] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/photo-cat/بازدید-هیئت-تجاری-عمان-از-کارخانه-آکوباتری
+                - generic [ref=e267]:
+                  - link [ref=e268] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/photo-cat/بازدید-هیئت-تجاری-عمان-از-کارخانه-آکوباتری
+                    - text: بازدید هیئت تجاری عمان از کارخانه آکوباتری
+                  - generic [ref=e269]: 1403/09/21
+              - option [ref=e270]:
+                - link [ref=e271] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/video/aco-battery-iranian-stock-market
+                - generic [ref=e273]:
+                  - link [ref=e274] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/video/aco-battery-iranian-stock-market
+                    - text: مراسم عرضه اولیه شرکت آکوباتری ایرانیان
+                  - generic [ref=e275]: 1405/05/31
+              - option [ref=e276]:
+                - link [ref=e277] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/video/aco-battery-introduction-ceremony-tehran-stock-exchange
+                - generic [ref=e279]:
+                  - link [ref=e280] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/video/aco-battery-introduction-ceremony-tehran-stock-exchange
+                    - text: مراسم معارفه آکوباتری پیش از ورود به بورس تهران
+                  - generic [ref=e281]: 1405/05/14
+              - option [ref=e282]:
+                - link [ref=e283] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/video/video-visit-afshin-nikzad-acobattery
+                - generic [ref=e285]:
+                  - link [ref=e286] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/video/video-visit-afshin-nikzad-acobattery
+                    - text: بازدید معاون علمی رئیس‌جمهور و نایب‌رئیس مجلس از کارخانه آکوباتری
+                  - generic [ref=e287]: 1405/04/06
+              - option [ref=e288]:
+                - link [ref=e289] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/video/acobattery-factory-visit-by-sales-agents
+                - generic [ref=e291]:
+                  - link [ref=e292] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/video/acobattery-factory-visit-by-sales-agents
+                    - text: بازدید نمایندگان فروش باتری UPS آکوباتری از کارخانه آکوباتری
+                  - generic [ref=e293]: 1404/10/16
+              - option [ref=e294]:
+                - link [ref=e295] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/video/tamin-ejtemaei-ceo-visits-acobattery-plant
+                - generic [ref=e297]:
+                  - link [ref=e298] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/video/tamin-ejtemaei-ceo-visits-acobattery-plant
+                    - text: بازدید مدیرعامل تامین اجتماعی استان اردبیل از کارخانه آکوباتری
+                  - generic [ref=e299]: 1404/10/09
+              - option [ref=e300]:
+                - link [ref=e301] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/video/acobattery-in-automechanika-dubai-exhibition
+                - generic [ref=e303]:
+                  - link [ref=e304] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/video/acobattery-in-automechanika-dubai-exhibition
+                    - text: نمایشگاه اتومکانیکا دبی
+                  - generic [ref=e305]: 1404/09/26
+              - option [ref=e306]:
+                - link [ref=e307] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/video/acobattery-expo-ardabil-2025
+                - generic [ref=e309]:
+                  - link [ref=e310] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/video/acobattery-expo-ardabil-2025
+                    - text: درخشش آکوباتری در اکسپو (EXPO) اردبیل
+                  - generic [ref=e311]: 1404/09/12
+              - option [ref=e312]:
+                - link [ref=e313] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/video/aco-battery-in-expo-ardabil-exhibition
+                - generic [ref=e315]:
+                  - link [ref=e316] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/video/aco-battery-in-expo-ardabil-exhibition
+                    - text: آکوباتری در نمایشگاه اکسپو (EXPO) اردبیل
+                  - generic [ref=e317]: 1404/09/11
+              - option [ref=e318]:
+                - link [ref=e319] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/video/acobattery-factory-visit-sales-representatives
+                - generic [ref=e321]:
+                  - link [ref=e322] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/video/acobattery-factory-visit-sales-representatives
+                    - text: بازدید نمایندگان فروش کردستان و کرمانشاه از کارخانه آکوباتری
+                  - generic [ref=e323]: 1404/09/04
+              - option [ref=e324]:
+                - link [ref=e325] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/video/ifna-news-agency-interview-with-aco-battery-company
+                - generic [ref=e327]:
+                  - link [ref=e328] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/video/ifna-news-agency-interview-with-aco-battery-company
+                    - text: مصاحبه اختصاصی خبرگزاری ایفنا با سرپرست توسعه و بازار شرکت آکوباتری
+                  - generic [ref=e329]: 1404/08/27
+              - option [ref=e330]:
+                - link [ref=e331] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/video/acobatteryelectricityexpoiran
+                - generic [ref=e333]:
+                  - link [ref=e334] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/video/acobatteryelectricityexpoiran
+                    - text: آکوباتری در نمایشگاه صنعت برق ایران - 1404
+                  - generic [ref=e335]: 1404/08/24
+              - option [ref=e336]:
+                - link [ref=e337] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/video/stock-exchange-ceo-visits-acobattery-factory
+                - generic [ref=e339]:
+                  - link [ref=e340] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/video/stock-exchange-ceo-visits-acobattery-factory
+                    - text: بازدید مدیرعامل شرکت بورس تهران از کارخانه آکوباتری
+                  - generic [ref=e341]: 1404/08/18
+              - option [ref=e342]:
+                - link [ref=e343] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/video/video-report-from-the-acobattery-booth
+                - generic [ref=e345]:
+                  - link [ref=e346] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/video/video-report-from-the-acobattery-booth
+                    - text: بازدید معاونان وزیر ارتباطات از غرفه آکوباتری در نمایشگاه الکامپ
+                  - generic [ref=e347]: 1404/07/15
+              - option [ref=e348]:
+                - link [ref=e349] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/video/aco-battery-in-elecomp-exhibition
+                - generic [ref=e351]:
+                  - link [ref=e352] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/video/aco-battery-in-elecomp-exhibition
+                    - text: غرفه آکوباتری در نمایشگاه الکامپ تهران
+                  - generic [ref=e353]: 1404/07/06
+              - option [ref=e354]:
+                - link [ref=e355] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/video/video-of-sales-representatives-visiting-the-factory
+                - generic [ref=e357]:
+                  - link [ref=e358] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/video/video-of-sales-representatives-visiting-the-factory
+                    - text: بازدید نمایندگان فروش تهران از کارخانه آکوباتری
+                  - generic [ref=e359]: 1404/06/22
+              - option [ref=e360]:
+                - link [ref=e361] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/video/acobattery-auto-parts-exhibition-video
+                - generic [ref=e363]:
+                  - link [ref=e364] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/video/acobattery-auto-parts-exhibition-video
+                    - text: حضور آکوباتری در نمایشگاه قطعات خودرو - گزارش تصویری
+                  - generic [ref=e365]: 1404/03/11
+              - option [ref=e366]:
+                - link [ref=e367] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/video/opening-laboratory-of-bouali-hospital
+                - generic [ref=e369]:
+                  - link [ref=e370] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/video/opening-laboratory-of-bouali-hospital
+                    - text: افتتاحیه آزمایشگاه بیمارستان بوعلی اردبیل با حمایت آکوباتری
+                  - generic [ref=e371]: 1403/11/30
+              - option [ref=e372]:
+                - link [ref=e373] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/video/ardabil-battery-production-center
+                - generic [ref=e375]:
+                  - link [ref=e376] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/video/ardabil-battery-production-center
+                    - text: گزارش خبرگزاری صدا و سیما از کارخانه آکوباتری
+                  - generic [ref=e377]: 1403/11/21
+              - option [ref=e378]:
+                - link [ref=e379] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/video/aco-battery-telecom-exhibition-2024
+                - generic [ref=e381]:
+                  - link [ref=e382] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/video/aco-battery-telecom-exhibition-2024
+                    - text: بیست و پنجمین نمایشگاه تلکام - دی ماه 1403
+                  - generic [ref=e383]: 1403/10/09
+              - option [ref=e384]:
+                - link [ref=e385] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/video/آکوباتری-در-نمایشگاه-صنعت-برق-آبان-1403
+                - generic [ref=e387]:
+                  - link [ref=e388] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/video/آکوباتری-در-نمایشگاه-صنعت-برق-آبان-1403
+                    - text: گزارش تصویری از حضور آکوباتری در نمایشگاه صنعت برق - آبان 1403
+                  - generic [ref=e389]: 1403/08/07
+              - option [ref=e390]:
+                - link [ref=e391] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/video/اختلالات-شایع-در-عملکرد-باتری-ماشین
+                - generic [ref=e393]:
+                  - link [ref=e394] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/video/اختلالات-شایع-در-عملکرد-باتری-ماشین
+                    - text: اختلالات شایع در عملکرد باتری خودرو
+                  - generic [ref=e395]: 1403/08/02
+              - option [ref=e396]:
+                - link [ref=e397] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/video/اجزا-باتری-ماشین
+                - generic [ref=e399]:
+                  - link [ref=e400] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/video/اجزا-باتری-ماشین
+                    - text: داخل باتری ماشین چیست؟
+                  - generic [ref=e401]: 1403/07/05
+              - option [ref=e402]:
+                - link [ref=e403] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/video/نمایشگاه-الکامپ-1403
+                - generic [ref=e405]:
+                  - link [ref=e406] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/video/نمایشگاه-الکامپ-1403
+                    - text: نمایشگاه الکامپ تهران 1403
+                  - generic [ref=e407]: 1403/04/17
+              - option [ref=e408]:
+                - link [ref=e409] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/video/نوزدهمین-نمایشگاه-قطعات-خودرو-تهران-1403
+                - generic [ref=e411]:
+                  - link [ref=e412] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/video/نوزدهمین-نمایشگاه-قطعات-خودرو-تهران-1403
+                    - text: نوزدهمین نمایشگاه قطعات خودرو تهران
+                  - generic [ref=e413]: 1403/04/04
+              - option [ref=e414]:
+                - link [ref=e415] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/video/عملکرد-دستگاه-ups
+                - generic [ref=e417]:
+                  - link [ref=e418] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/video/عملکرد-دستگاه-ups
+                    - text: UPS چیست و چگونه کار میکند؟
+                  - generic [ref=e419]: 1403/03/17
+              - option [ref=e420]:
+                - link [ref=e421] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/video/معرفی-آکوباتری
+                - generic [ref=e423]:
+                  - link [ref=e424] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/video/معرفی-آکوباتری
+                    - text: معرفی آکوباتری
+                  - generic [ref=e425]: 1403/03/16
+              - option [ref=e426]:
+                - link [ref=e427] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/video/فرآیند-بازیافت-باتری-خودرو-2
+                - generic [ref=e429]:
+                  - link [ref=e430] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/video/فرآیند-بازیافت-باتری-خودرو-2
+                    - text: بازیافت باتری خودرو - بخش دوم
+                  - generic [ref=e431]: 1403/02/25
+              - option [ref=e432]:
+                - link [ref=e433] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/video/فرآیند-بازیافت-باتری-خودرو-1
+                - generic [ref=e435]:
+                  - link [ref=e436] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/video/فرآیند-بازیافت-باتری-خودرو-1
+                    - text: بازیافت باتری خودرو - بخش اول
+                  - generic [ref=e437]: 1403/02/25
+              - option [ref=e438]:
+                - link [ref=e439] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/video/جشن-ورود-آکوباتری-به-باشگاه-1000-نفری
+                - generic [ref=e441]:
+                  - link [ref=e442] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/video/جشن-ورود-آکوباتری-به-باشگاه-1000-نفری
+                    - text: جشن ورود آکوباتری به باشگاه 1000 نفری
+                  - generic [ref=e443]: 1403/01/15
+              - option [ref=e444]:
+                - link [ref=e445] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/video/تستر-باتری-ماشین
+                - generic [ref=e447]:
+                  - link [ref=e448] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/video/تستر-باتری-ماشین
+                    - text: نحوه کار با دستگاه تست باتری ماشین آکو باتری
+                  - generic [ref=e449]: 1402/10/25
+              - option [ref=e450]:
+                - link [ref=e451] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/video/تولید-باتری-ماشین
+                - generic [ref=e453]:
+                  - link [ref=e454] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/video/تولید-باتری-ماشین
+                    - text: مراحل تولید باتری خودرویی در کارخانه آکو‌باتری
+                  - generic [ref=e455]: 1402/10/05
+              - option [ref=e456]:
+                - link [ref=e457] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/video/افتتاحیه-ساختمان-جدید-آکو-باتری
+                - generic [ref=e459]:
+                  - link [ref=e460] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/video/افتتاحیه-ساختمان-جدید-آکو-باتری
+                    - text: افتتاحیه ساختمان جدید آکو‌باتری
+                  - generic [ref=e461]: 1402/09/12
+              - option [ref=e462]:
+                - link [ref=e463] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/video/جایزه-ملی-کیفیت-آکو-باتری
+                - generic [ref=e465]:
+                  - link [ref=e466] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/video/جایزه-ملی-کیفیت-آکو-باتری
+                    - text: سخنان ریاست هیئت مدیره آکوباتری در جشنواره جایزه ملی کیفیت
+                  - generic [ref=e467]: 1402/08/28
+              - option [ref=e468]:
+                - link [ref=e469] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/video/باتری-های-سرب-اسید-چگونه-کار-می-کنند
+                - generic [ref=e471]:
+                  - link [ref=e472] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/video/باتری-های-سرب-اسید-چگونه-کار-می-کنند
+                    - text: باتری های سرب اسید چگونه کار می کنند
+                  - generic [ref=e473]: 1402/06/13
+              - option [ref=e474]:
+                - link [ref=e475] [cursor=pointer]:
+                  - /url: https://www.aco-battery.com/fa/video/گروه-صنعتی-آکو-باتری
+                - generic [ref=e477]:
+                  - link [ref=e478] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/video/گروه-صنعتی-آکو-باتری
+                    - text: آکو باتری شرکت بازرگانی و تولید باطری در سال 1398
+                  - generic [ref=e479]: 1402/05/19
+            - button [ref=e480] [cursor=pointer]
+          - listbox [ref=e487]:
+            - option [ref=e494]:
+              - img "گالری تصاویر بازدید معاون علمی رئیس‌جمهور از کارخانه آکوباتری" [ref=e495]
+            - option [ref=e496]:
+              - img "روند بررسی و تست سلامت باتری‌های آکوباتری" [ref=e497]
+            - option [ref=e498]:
+              - img "بازدید مدیران همراه اول از کارخانه آکوباتری" [ref=e499]
+            - option [ref=e500]
+            - option [ref=e502]
+            - option [ref=e504]
+            - option [ref=e506]
+            - option [ref=e508]
+            - option [ref=e510]
+            - option [ref=e512]
+            - option [ref=e514]
+            - option [ref=e516]
+            - option [ref=e518]
+            - option [ref=e520]
+            - option [ref=e522]
+            - option [ref=e524]
+            - option [ref=e526]
+            - option [ref=e528]
+            - option [ref=e530]
+            - option [ref=e532]
+            - option [ref=e534]
+            - option [ref=e536]
+            - option [ref=e538]
+            - option [ref=e540]
+            - option [ref=e542]
+            - option [ref=e544]
+            - option [ref=e546]
+            - option [ref=e548]
+            - option [ref=e550]
+            - option [ref=e552]
+            - option [ref=e554]
+            - option [ref=e556]
+            - option [ref=e558]
+            - option [ref=e560]
+            - option [ref=e562]
+            - option [ref=e564]
+            - option [ref=e566]
+            - option [ref=e568]
+            - option [ref=e570]
+            - option [ref=e572]
+            - option [ref=e574]
+      - generic [ref=e597]:
+        - generic [ref=e598]: نمایندگی ها
+        - generic [ref=e599]:
+          - generic [ref=e601]:
+            - combobox [ref=e602]
+            - combobox [ref=e605] [cursor=pointer]:
+              - textbox "استان" [ref=e606]
+              - text: 
+          - generic [ref=e608]:
+            - combobox [ref=e609]
+            - combobox [ref=e612] [cursor=pointer]:
+              - textbox "شهر" [ref=e613]
+              - text: 
+        - generic [ref=e614]: شعبه های آکوباتری
+        - list [ref=e617]:
+          - generic [ref=e618]:
+            - generic [ref=e619]:
+              - listitem [ref=e620]:
+                - 'link "دفتر مرکزی تهران تهران تلفن: 021-52994000 آدرس: تهران شهرک غرب، خیابان سپهر، خیابان مرصاد، کوچه چهارم غربی، پلاک 26، کدپستی: 1468633443" [ref=e621] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/آکوباتری-دفتر-مرکزی-تهران
+                  - generic [ref=e622]:
+                    - text: دفتر مرکزی تهران
+                    - generic [ref=e623]: تهران
+                  - paragraph [ref=e624]: "تلفن: 021-52994000 آدرس: تهران شهرک غرب، خیابان سپهر، خیابان مرصاد، کوچه چهارم غربی، پلاک 26، کدپستی: 1468633443"
+              - listitem [ref=e631]:
+                - 'link "دفتر مرکزی اردبیل اردبیل تلفن: 04531400000 آدرس: اردبیل، میدان جهاد، جنب مسجد ولی عصر" [ref=e632] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/دفتر-مرکزی-اردبیل
+                  - generic [ref=e633]:
+                    - text: دفتر مرکزی اردبیل
+                    - generic [ref=e634]: اردبیل
+                  - paragraph [ref=e635]: "تلفن: 04531400000 آدرس: اردبیل، میدان جهاد، جنب مسجد ولی عصر"
+              - listitem [ref=e642]:
+                - 'link "الو باتری اردبیل | امداد باتری ماشین اردبیل تلفن: 0453130 داخلی 2 آدرس: اردبیل میدان جهاد دفتر مرکزی اشجع باتری (آکو باتری)" [ref=e643] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/الو-باتری-اردبیل-امداد-باتری-اردبیل
+                  - generic [ref=e644]:
+                    - text: الو باتری اردبیل | امداد باتری ماشین
+                    - generic [ref=e645]: اردبیل
+                  - paragraph [ref=e646]: "تلفن: 0453130 داخلی 2 آدرس: اردبیل میدان جهاد دفتر مرکزی اشجع باتری (آکو باتری)"
+              - listitem [ref=e653]:
+                - 'link "الوباتری اردبیل شعبه عطایی اردبیل تلفن: 0453130 داخلی 1 آدرس: اردبیل بلوار عطایی نبش عطایی 11" [ref=e654] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/الوباتری-اردبیل-شعبه-عطایی
+                  - generic [ref=e655]:
+                    - text: الوباتری اردبیل شعبه عطایی
+                    - generic [ref=e656]: اردبیل
+                  - paragraph [ref=e657]: "تلفن: 0453130 داخلی 1 آدرس: اردبیل بلوار عطایی نبش عطایی 11"
+              - listitem [ref=e664]:
+                - 'link "الو باتری اردبیل شعبه ولیعصر اردبیل تلفن: 045-3130 آدرس: اردبیل میدان جهاد | ارسال و نصب رایگان باتری خودرو در محل" [ref=e665] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/الو-باتری-اردبیل-شعبه-ولیعصر
+                  - generic [ref=e666]:
+                    - text: الو باتری اردبیل شعبه ولیعصر
+                    - generic [ref=e667]: اردبیل
+                  - paragraph [ref=e668]: "تلفن: 045-3130 آدرس: اردبیل میدان جهاد | ارسال و نصب رایگان باتری خودرو در محل"
+              - listitem [ref=e675]:
+                - 'link "الو باتری اردبیل شعبه TBT اردبیل تلفن: 045-3130 آدرس: استان اردبیل، شهر اردبیل، خیابان جام جم، نبش تی بی تی سابق" [ref=e676] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/الو-باتری-شعبه-tbt
+                  - generic [ref=e677]:
+                    - text: الو باتری اردبیل شعبه TBT
+                    - generic [ref=e678]: اردبیل
+                  - paragraph [ref=e679]: "تلفن: 045-3130 آدرس: استان اردبیل، شهر اردبیل، خیابان جام جم، نبش تی بی تی سابق"
+              - listitem [ref=e686]:
+                - 'link "امداد باتری اردبیل شعبه آزادگان اردبیل تلفن: 045-3130 آدرس: اردبیل نبش میدان علی سرباز (آزادگان) | امداد باتری اردبیل" [ref=e687] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/الو-باتری-شعبه-آزادگان
+                  - generic [ref=e688]:
+                    - text: امداد باتری اردبیل شعبه آزادگان
+                    - generic [ref=e689]: اردبیل
+                  - paragraph [ref=e690]: "تلفن: 045-3130 آدرس: اردبیل نبش میدان علی سرباز (آزادگان) | امداد باتری اردبیل"
+              - listitem [ref=e697]:
+                - 'link "الو باتری اردبیل شعبه شهدا اردبیل تلفن: 045-3130 آدرس: اردبیل، بزرگراه شهدا، نرسیده به خیابان معجز، جنب بانک پاسارگاد" [ref=e698] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/الو-باتری-شعبه-شهدا
+                  - generic [ref=e699]:
+                    - text: الو باتری اردبیل شعبه شهدا
+                    - generic [ref=e700]: اردبیل
+                  - paragraph [ref=e701]: "تلفن: 045-3130 آدرس: اردبیل، بزرگراه شهدا، نرسیده به خیابان معجز، جنب بانک پاسارگاد"
+              - listitem [ref=e708]:
+                - 'link "آکوباتری - دفتر فروش گیلان رشت تلفن: 2186 - 04531400000 آدرس: رشت بلوار امام رضا کوچه سمیه 9 دفتر اشجع باتری (آکو باتری)" [ref=e709] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/دفتر-فروش-گیلان
+                  - generic [ref=e710]:
+                    - text: آکوباتری - دفتر فروش گیلان
+                    - generic [ref=e711]: رشت
+                  - paragraph [ref=e712]: "تلفن: 2186 - 04531400000 آدرس: رشت بلوار امام رضا کوچه سمیه 9 دفتر اشجع باتری (آکو باتری)"
+              - listitem [ref=e719]:
+                - 'link "آکوباتری - دفتر فروش زنجان زنجان تلفن: 2161 - 04531400000 آدرس: زنجان میدان فلسطین روبروی نمایندگی ایران خودرو" [ref=e720] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/آکوباتری-دفتر-زنجان
+                  - generic [ref=e721]:
+                    - text: آکوباتری - دفتر فروش زنجان
+                    - generic [ref=e722]: زنجان
+                  - paragraph [ref=e723]: "تلفن: 2161 - 04531400000 آدرس: زنجان میدان فلسطین روبروی نمایندگی ایران خودرو"
+              - listitem [ref=e730]:
+                - 'link "خدمات پس از فروش (گارانتی) اردبیل تلفن: 0453130 داخلی 1 آدرس: شهرک صنعتی شماره 2 - خیابان صنعت - خیابان سرو 2 - گروه صنعتی آکو باتری (اشجع باتری)" [ref=e731] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/خدمات-پس-از-فروش
+                  - generic [ref=e732]:
+                    - text: خدمات پس از فروش (گارانتی)
+                    - generic [ref=e733]: اردبیل
+                  - paragraph [ref=e734]: "تلفن: 0453130 داخلی 1 آدرس: شهرک صنعتی شماره 2 - خیابان صنعت - خیابان سرو 2 - گروه صنعتی آکو باتری (اشجع باتری)"
+              - listitem [ref=e741]:
+                - 'link "آکو باتری در استان آذربایجان شرقی تبریز تلفن: 04531400000 داخلی160 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی در استان آذربایجان شرقی با شماره: 31400000-045 داخلی 160 و اطلاع از نمایندگی های باتری UPS استان آذربایجان شرقی با شماره: 52994000-021 تماس حاصل فرمایید." [ref=e742] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/نمایندگی-آکو-باتری-آذربایجان-شرقی
+                  - generic [ref=e743]:
+                    - text: آکو باتری در استان آذربایجان شرقی
+                    - generic [ref=e744]: تبریز
+                  - paragraph [ref=e745]: "تلفن: 04531400000 داخلی160 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی در استان آذربایجان شرقی با شماره: 31400000-045 داخلی 160 و اطلاع از نمایندگی های باتری UPS استان آذربایجان شرقی با شماره: 52994000-021 تماس حاصل فرمایید."
+              - listitem [ref=e752]:
+                - 'link "آکو باتری در استان آذربایجان غربی ارومیه تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان آذربایجان غربی با شماره: 52994000-021 تماس حاصل فرمایید." [ref=e753] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/نمایندگی-آکو-باتری-آذربایجان-غربی
+                  - generic [ref=e754]:
+                    - text: آکو باتری در استان آذربایجان غربی
+                    - generic [ref=e755]: ارومیه
+                  - paragraph [ref=e756]: "تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان آذربایجان غربی با شماره: 52994000-021 تماس حاصل فرمایید."
+              - listitem [ref=e763]:
+                - 'link "آکو باتری در استان اصفهان اصفهان تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان اصفهان با شماره: 52994000-021 تماس حاصل فرمایید." [ref=e764] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/نمایندگی-آکو-باتری-در-اصفهان
+                  - generic [ref=e765]:
+                    - text: آکو باتری در استان اصفهان
+                    - generic [ref=e766]: اصفهان
+                  - paragraph [ref=e767]: "تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان اصفهان با شماره: 52994000-021 تماس حاصل فرمایید."
+              - listitem [ref=e774]:
+                - 'link "آکو باتری در استان اردبیل اردبیل تلفن: 04531400000 داخلی160 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی در استان اردبیل با شماره: 31400000-045 داخلی 160 و اطلاع از نمایندگی های باتری UPS استان اردبیل با شماره: 52994000-021 تماس حاصل فرمایید." [ref=e775] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/نمایندگی-آکو-باتری-اردبیل
+                  - generic [ref=e776]:
+                    - text: آکو باتری در استان اردبیل
+                    - generic [ref=e777]: اردبیل
+                  - paragraph [ref=e778]: "تلفن: 04531400000 داخلی160 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی در استان اردبیل با شماره: 31400000-045 داخلی 160 و اطلاع از نمایندگی های باتری UPS استان اردبیل با شماره: 52994000-021 تماس حاصل فرمایید."
+              - listitem [ref=e785]:
+                - 'link "آکو باتری در استان البرز کرج تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان البرز با شماره: 52994000-021 تماس حاصل فرمایید." [ref=e786] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/نمایندگی-آکو-باتری-در-استان-البرز
+                  - generic [ref=e787]:
+                    - text: آکو باتری در استان البرز
+                    - generic [ref=e788]: کرج
+                  - paragraph [ref=e789]: "تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان البرز با شماره: 52994000-021 تماس حاصل فرمایید."
+              - listitem [ref=e796]:
+                - 'link "آکو باتری در استان ایلام ایلام تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان ایلام با شماره: 52994000-021 تماس حاصل فرمایید." [ref=e797] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/نمایندگی-آکو-باتری-ایلام
+                  - generic [ref=e798]:
+                    - text: آکو باتری در استان ایلام
+                    - generic [ref=e799]: ایلام
+                  - paragraph [ref=e800]: "تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان ایلام با شماره: 52994000-021 تماس حاصل فرمایید."
+              - listitem [ref=e807]:
+                - 'link "آکو باتری در استان بوشهر بوشهر تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان بوشهر با شماره: 52994000-021 تماس حاصل فرمایید." [ref=e808] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/نمایندگی-آکو-باتری-بوشهر
+                  - generic [ref=e809]:
+                    - text: آکو باتری در استان بوشهر
+                    - generic [ref=e810]: بوشهر
+                  - paragraph [ref=e811]: "تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان بوشهر با شماره: 52994000-021 تماس حاصل فرمایید."
+              - listitem [ref=e818]:
+                - 'link "آکو باتری در استان چهارمحال و بختیاری شهرکرد تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان چهار محال و بختیاری با شماره: 52994000-021 تماس حاصل فرمایید." [ref=e819] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/نمایندگی-آکو-باتری-چهارمحال-و-بختیاری
+                  - generic [ref=e820]:
+                    - text: آکو باتری در استان چهارمحال و بختیاری
+                    - generic [ref=e821]: شهرکرد
+                  - paragraph [ref=e822]: "تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان چهار محال و بختیاری با شماره: 52994000-021 تماس حاصل فرمایید."
+              - listitem [ref=e829]:
+                - 'link "آکو باتری در استان خراسان جنوبی بیرجند تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان خراسان جنوبی با شماره: 52994000-021 تماس حاصل فرمایید." [ref=e830] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/نمایندگی-آکو-باتری-خراسان-جنوبی
+                  - generic [ref=e831]:
+                    - text: آکو باتری در استان خراسان جنوبی
+                    - generic [ref=e832]: بیرجند
+                  - paragraph [ref=e833]: "تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان خراسان جنوبی با شماره: 52994000-021 تماس حاصل فرمایید."
+              - listitem [ref=e840]:
+                - 'link "آکو باتری در استان خراسان رضوی مشهد تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان خراسان رضوی با شماره: 52994000-021 تماس حاصل فرمایید." [ref=e841] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/نمایندگی-آکو-باتری-خراسان-رضوی
+                  - generic [ref=e842]:
+                    - text: آکو باتری در استان خراسان رضوی
+                    - generic [ref=e843]: مشهد
+                  - paragraph [ref=e844]: "تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان خراسان رضوی با شماره: 52994000-021 تماس حاصل فرمایید."
+              - listitem [ref=e851]:
+                - 'link "آکو باتری در استان خراسان شمالی بجنورد تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان خراسان شمالی با شماره: 52994000-021 تماس حاصل فرمایید." [ref=e852] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/نمایندگی-آکو-باتری-خراسان-شمالی
+                  - generic [ref=e853]:
+                    - text: آکو باتری در استان خراسان شمالی
+                    - generic [ref=e854]: بجنورد
+                  - paragraph [ref=e855]: "تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان خراسان شمالی با شماره: 52994000-021 تماس حاصل فرمایید."
+              - listitem [ref=e862]:
+                - 'link "آکو باتری در استان خوزستان اهواز تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان خوزستان با شماره: 52994000-021 تماس حاصل فرمایید." [ref=e863] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/نمایندگی-آکو-باتری-خوزستان
+                  - generic [ref=e864]:
+                    - text: آکو باتری در استان خوزستان
+                    - generic [ref=e865]: اهواز
+                  - paragraph [ref=e866]: "تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان خوزستان با شماره: 52994000-021 تماس حاصل فرمایید."
+              - listitem [ref=e873]:
+                - 'link "آکو باتری در استان زنجان زنجان تلفن: 2161 - 04531400000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی در استان زنجان با شماره: 31400000-045 داخلی 160 و اطلاع از نمایندگی های باتری UPS استان زنجان با شماره: 52994000-021 تماس حاصل فرمایید." [ref=e874] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/نمایندگی-آکو-باتری-در-زنجان
+                  - generic [ref=e875]:
+                    - text: آکو باتری در استان زنجان
+                    - generic [ref=e876]: زنجان
+                  - paragraph [ref=e877]: "تلفن: 2161 - 04531400000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی در استان زنجان با شماره: 31400000-045 داخلی 160 و اطلاع از نمایندگی های باتری UPS استان زنجان با شماره: 52994000-021 تماس حاصل فرمایید."
+              - listitem [ref=e884]:
+                - 'link "آکو باتری در استان سمنان سمنان تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان سمنان با شماره: 52994000-021 تماس حاصل فرمایید." [ref=e885] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/نمایندگی-آکو-باتری-در-سمنان
+                  - generic [ref=e886]:
+                    - text: آکو باتری در استان سمنان
+                    - generic [ref=e887]: سمنان
+                  - paragraph [ref=e888]: "تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان سمنان با شماره: 52994000-021 تماس حاصل فرمایید."
+              - listitem [ref=e895]:
+                - 'link "آکو باتری در استان سیستان و بلوچستان زاهدان تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان سیستان و بلوچستان با شماره: 52994000-021 تماس حاصل فرمایید." [ref=e896] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/نمایندگی-آکو-باتری-سیستان-و-بلوچستان
+                  - generic [ref=e897]:
+                    - text: آکو باتری در استان سیستان و بلوچستان
+                    - generic [ref=e898]: زاهدان
+                  - paragraph [ref=e899]: "تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان سیستان و بلوچستان با شماره: 52994000-021 تماس حاصل فرمایید."
+              - listitem [ref=e906]:
+                - 'link "آکو باتری در استان فارس شیراز تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان فارس با شماره: 52994000-021 تماس حاصل فرمایید." [ref=e907] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/نمایندگی-آکو-باتری-فارس
+                  - generic [ref=e908]:
+                    - text: آکو باتری در استان فارس
+                    - generic [ref=e909]: شیراز
+                  - paragraph [ref=e910]: "تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان فارس با شماره: 52994000-021 تماس حاصل فرمایید."
+              - listitem [ref=e917]:
+                - 'link "آکو باتری در استان قزوین قزوین تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان قزوین با شماره: 52994000-021 تماس حاصل فرمایید." [ref=e918] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/نمایندگی-آکو-باتری-قزوین
+                  - generic [ref=e919]:
+                    - text: آکو باتری در استان قزوین
+                    - generic [ref=e920]: قزوین
+                  - paragraph [ref=e921]: "تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان قزوین با شماره: 52994000-021 تماس حاصل فرمایید."
+              - listitem [ref=e928]:
+                - 'link "آکو باتری در استان قم قم تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان قم با شماره: 52994000-021 تماس حاصل فرمایید." [ref=e929] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/نمایندگی-آکو-باتری-قم
+                  - generic [ref=e930]:
+                    - text: آکو باتری در استان قم
+                    - generic [ref=e931]: قم
+                  - paragraph [ref=e932]: "تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان قم با شماره: 52994000-021 تماس حاصل فرمایید."
+              - listitem [ref=e939]:
+                - 'link "آکو باتری در استان کردستان سنندج تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان کردستان با شماره: 52994000-021 تماس حاصل فرمایید." [ref=e940] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/نمایندگی-آکو-باتری-کردستان
+                  - generic [ref=e941]:
+                    - text: آکو باتری در استان کردستان
+                    - generic [ref=e942]: سنندج
+                  - paragraph [ref=e943]: "تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان کردستان با شماره: 52994000-021 تماس حاصل فرمایید."
+              - listitem [ref=e950]:
+                - 'link "آکو باتری در استان کرمان کرمان تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان کرمان با شماره: 52994000-021 تماس حاصل فرمایید." [ref=e951] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/نمایندگی-آکو-باتری-کرمان
+                  - generic [ref=e952]:
+                    - text: آکو باتری در استان کرمان
+                    - generic [ref=e953]: کرمان
+                  - paragraph [ref=e954]: "تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان کرمان با شماره: 52994000-021 تماس حاصل فرمایید."
+              - listitem [ref=e961]:
+                - 'link "آکو باتری در استان کرمانشاه کرمانشاه تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان کرمانشاه با شماره: 52994000-021 تماس حاصل فرمایید." [ref=e962] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/نمایندگی-آکو-باتری-کرمانشاه
+                  - generic [ref=e963]:
+                    - text: آکو باتری در استان کرمانشاه
+                    - generic [ref=e964]: کرمانشاه
+                  - paragraph [ref=e965]: "تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان کرمانشاه با شماره: 52994000-021 تماس حاصل فرمایید."
+              - listitem [ref=e972]:
+                - 'link "آکو باتری در استان کهکیلویه و بویراحمد یاسوج تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان کهکیلوبه و بویراحمد با شماره: 52994000-021 تماس حاصل فرمایید." [ref=e973] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/نمایندگی-آکو-باتری-کهکیلویه-و-بویراحمد
+                  - generic [ref=e974]:
+                    - text: آکو باتری در استان کهکیلویه و بویراحمد
+                    - generic [ref=e975]: یاسوج
+                  - paragraph [ref=e976]: "تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان کهکیلوبه و بویراحمد با شماره: 52994000-021 تماس حاصل فرمایید."
+              - listitem [ref=e983]:
+                - 'link "آکو باتری در استان گلستان گرگان تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان گلستان با شماره: 52994000-021 تماس حاصل فرمایید." [ref=e984] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/نمایندگی-آکو-باتری-در-استان-گلستان
+                  - generic [ref=e985]:
+                    - text: آکو باتری در استان گلستان
+                    - generic [ref=e986]: گرگان
+                  - paragraph [ref=e987]: "تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان گلستان با شماره: 52994000-021 تماس حاصل فرمایید."
+              - listitem [ref=e994]:
+                - 'link "آکو باتری در استان لرستان خرم آباد تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان لرستان با شماره: 52994000-021 تماس حاصل فرمایید." [ref=e995] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/نمایندگی-آکو-باتری-لرستان
+                  - generic [ref=e996]:
+                    - text: آکو باتری در استان لرستان
+                    - generic [ref=e997]: خرم آباد
+                  - paragraph [ref=e998]: "تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان لرستان با شماره: 52994000-021 تماس حاصل فرمایید."
+              - listitem [ref=e1005]:
+                - 'link "آکو باتری در استان گیلان رشت تلفن: 2186 - 04531400000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی در استان گیلان با شماره: 31400000-045 داخلی 132 و اطلاع از نمایندگی های باتری UPS استان گیلان با شماره: 52994000-021 تماس حاصل فرمایید." [ref=e1006] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/نمایندگی-آکو-باتری-گیلان
+                  - generic [ref=e1007]:
+                    - text: آکو باتری در استان گیلان
+                    - generic [ref=e1008]: رشت
+                  - paragraph [ref=e1009]: "تلفن: 2186 - 04531400000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی در استان گیلان با شماره: 31400000-045 داخلی 132 و اطلاع از نمایندگی های باتری UPS استان گیلان با شماره: 52994000-021 تماس حاصل فرمایید."
+              - listitem [ref=e1016]:
+                - 'link "آکو باتری در استان مازندران ساری تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان مازندران با شماره: 52994000-021 تماس حاصل فرمایید." [ref=e1017] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/نمایندگی-آکو-باتری-مازندران
+                  - generic [ref=e1018]:
+                    - text: آکو باتری در استان مازندران
+                    - generic [ref=e1019]: ساری
+                  - paragraph [ref=e1020]: "تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان مازندران با شماره: 52994000-021 تماس حاصل فرمایید."
+              - listitem [ref=e1027]:
+                - 'link "آکو باتری در استان مرکزی اراک تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان مرکزی با شماره: 52994000-021 تماس حاصل فرمایید." [ref=e1028] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/نمایندگی-آکو-باتری-در-استان-مرکزی
+                  - generic [ref=e1029]:
+                    - text: آکو باتری در استان مرکزی
+                    - generic [ref=e1030]: اراک
+                  - paragraph [ref=e1031]: "تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان مرکزی با شماره: 52994000-021 تماس حاصل فرمایید."
+              - listitem [ref=e1038]:
+                - 'link "آکو باتری در استان هرمزگان بندر عباس تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان هرمزگان با شماره: 52994000-021 تماس حاصل فرمایید." [ref=e1039] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/نمایندگی-آکو-باتری-هرمزگان
+                  - generic [ref=e1040]:
+                    - text: آکو باتری در استان هرمزگان
+                    - generic [ref=e1041]: بندر عباس
+                  - paragraph [ref=e1042]: "تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان هرمزگان با شماره: 52994000-021 تماس حاصل فرمایید."
+              - listitem [ref=e1049]:
+                - 'link "آکو باتری در استان همدان همدان تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان همدان با شماره: 52994000-021 تماس حاصل فرمایید." [ref=e1050] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/نمایندگی-آکو-باتری-همدان
+                  - generic [ref=e1051]:
+                    - text: آکو باتری در استان همدان
+                    - generic [ref=e1052]: همدان
+                  - paragraph [ref=e1053]: "تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان همدان با شماره: 52994000-021 تماس حاصل فرمایید."
+              - listitem [ref=e1060]:
+                - 'link "آکو باتری در استان یزد یزد تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان یزد با شماره: 52994000-021 تماس حاصل فرمایید." [ref=e1061] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/نمایندگی-آکو-باتری-یزد
+                  - generic [ref=e1062]:
+                    - text: آکو باتری در استان یزد
+                    - generic [ref=e1063]: یزد
+                  - paragraph [ref=e1064]: "تلفن: 021-52994000 آدرس: جهت اطلاع از آدرس نمایندگی های باتری خودرویی و باتری UPS در استان یزد با شماره: 52994000-021 تماس حاصل فرمایید."
+              - listitem [ref=e1071]:
+                - 'link "امداد باتری اردبیل شعبه ولیعصر اردبیل تلفن: 045-3130 آدرس: اردبیل میدان جهاد | ارسال و نصب رایگان باتری خودرو در محل" [ref=e1072] [cursor=pointer]':
+                  - /url: https://www.aco-battery.com/fa/agency/امداد-باتری-اردبیل-شعبه-ولیعصر
+                  - generic [ref=e1073]:
+                    - text: امداد باتری اردبیل شعبه ولیعصر
+                    - generic [ref=e1074]: اردبیل
+                  - paragraph [ref=e1075]: "تلفن: 045-3130 آدرس: اردبیل میدان جهاد | ارسال و نصب رایگان باتری خودرو در محل"
+            - generic [ref=e1084] [cursor=pointer]
+      - generic [ref=e1090]:
+        - generic [ref=e1091]:
+          - generic [ref=e1092]: مشتریان ما
+          - link "مشاهده بیشتر" [ref=e1093] [cursor=pointer]:
+            - /url: https://www.aco-battery.com/fa/customer
+        - generic [ref=e1096]:
+          - button [ref=e1097] [cursor=pointer]
+          - listbox [ref=e1101]:
+            - option [ref=e1110]:
+              - img "alter_mellat" [ref=e1111]
+            - option [ref=e1112]:
+              - img "سازمان امور مالیاتی البرز" [ref=e1113]
+            - option [ref=e1290]:
+              - img "makan_bank" [ref=e1291]
+            - option [ref=e1116]
+            - option [ref=e1118]
+            - option [ref=e1120]
+            - option [ref=e1122]
+            - option [ref=e1124]
+            - option [ref=e1126]
+            - option [ref=e1128]
+            - option [ref=e1130]
+            - option [ref=e1132]
+            - option [ref=e1134]
+            - option [ref=e1136]
+            - option [ref=e1138]
+            - option [ref=e1140]
+            - option [ref=e1142]
+            - option [ref=e1144]
+            - option [ref=e1146]
+            - option [ref=e1148]
+            - option [ref=e1150]
+            - option [ref=e1152]
+            - option [ref=e1154]
+          - button [ref=e1164] [cursor=pointer]
+        - generic [ref=e1168]:
+          - generic [ref=e1169]: عضویت در خبرنامه
+          - generic [ref=e1170]:
+            - textbox "شماره همراه یا ایمیل خود را وارد کنید" [ref=e1171]
+            - button "ثبت" [ref=e1172] [cursor=pointer]
+      - generic [ref=e1181]:
+        - generic [ref=e1183]:
+          - link [ref=e1185] [cursor=pointer]:
+            - /url: https://www.aco-battery.com/
+          - generic [ref=e1187]:
+            - generic [ref=e1188]:
+              - heading "آکو باتری" [level=4] [ref=e1189]
+              - list [ref=e1190]:
+                - listitem [ref=e1191]:
+                  - link "درباره ما" [ref=e1192] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/about
+                - listitem [ref=e1193]:
+                  - link "تماس با ما" [ref=e1194] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/contact
+                - listitem [ref=e1195]:
+                  - link "درخواست استخدام" [ref=e1196] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/employment.html
+                - listitem [ref=e1197]:
+                  - link "چه خودرویی؟ چه باتری؟" [ref=e1198] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/page/product
+                - listitem [ref=e1199]:
+                  - link "حمایت و سرمایه گذاری" [ref=e1200] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/create_idea.html
+                - listitem [ref=e1201]:
+                  - link "قوانین و مقررات" [ref=e1202] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/page/rule
+            - generic [ref=e1203]:
+              - heading "خدمات مشتریان" [level=4] [ref=e1204]
+              - list [ref=e1205]:
+                - listitem [ref=e1206]:
+                  - link "شرایط گارانتی" [ref=e1207] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/page/%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7-%DA%AF%D8%A7%D8%B1%D8%A7%D9%86%D8%AA%DB%8C
+                - listitem [ref=e1208]:
+                  - link "الو باتری اردبیل" [ref=e1209] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/page/الو-باتری-اردبیل
+                - listitem [ref=e1210]:
+                  - link "کاتالوگ محصولات آکو باتری" [ref=e1211] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/multimedia.html&tblnm=3
+                - listitem [ref=e1212]:
+                  - link "قیمت باتری ماشین" [ref=e1213] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/page/%D9%82%DB%8C%D9%85%D8%AA-%D8%A8%D8%A7%D8%AA%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86
+            - generic [ref=e1214]:
+              - heading "صدای مشتری" [level=4] [ref=e1215]
+              - list [ref=e1216]:
+                - listitem [ref=e1217]:
+                  - link "پیشنهادات، انتقادات و شکایات مشتریان" [ref=e1218] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/complaint.html
+                - listitem [ref=e1219]:
+                  - link "وضعیت شکایات" [ref=e1220] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/complaint_status.html
+                - listitem [ref=e1221]:
+                  - link "سوالات متداول" [ref=e1222] [cursor=pointer]:
+                    - /url: https://www.aco-battery.com/fa/page/frequently-asked-questions
+          - generic [ref=e1224]:
+            - generic [ref=e1225]: ما را در شبکه های اجتماعی دنبال کنید
+            - list [ref=e1227]:
+              - listitem [ref=e1228]:
+                - link [ref=e1229] [cursor=pointer]:
+                  - /url: https://www.aparat.com/alobatri1
+              - listitem [ref=e1233]:
+                - link [ref=e1234] [cursor=pointer]:
+                  - /url: https://www.instagram.com/acobattery?igshid=OGQ5ZDc2ODk2ZA==
+              - listitem [ref=e1237]:
+                - link [ref=e1238] [cursor=pointer]:
+                  - /url: https://t.me/acobattery
+        - generic [ref=e1244]:
+          - generic [ref=e1246]:
+            - link "www.aco-battery.com" [ref=e1247] [cursor=pointer]:
+              - /url: https://www.aco-battery.com/
+            - text: "- Copyright © 2023 - All rights reserved."
+          - generic [ref=e1249]:
+            - link [ref=e1250] [cursor=pointer]:
+              - /url: https://www.ham3d.co/
+            - paragraph [ref=e1251]:
+              - link "طراحی سایت" [ref=e1252] [cursor=pointer]:
+                - /url: https://www.ham3d.co/
+              - text: و
+              - link "برنامه نویسی" [ref=e1253] [cursor=pointer]:
+                - /url: https://www.ham3d.co/
+              - text: ":"
+              - link "حامد پردازش" [ref=e1254] [cursor=pointer]:
+                - /url: https://www.ham3d.co/
+  - text:      
+  - generic [ref=e1257]:
+    - generic [ref=e1258]:
+      - text: گروه محصولات
+      - link "" [ref=e1259] [cursor=pointer]:
+        - /url: ""
+    - list [ref=e1260]:
+      - listitem [ref=e1261]:
+        - link "صفحه اصلی" [ref=e1262] [cursor=pointer]:
+          - /url: https://www.aco-battery.com/
+      - listitem [ref=e1263]:
+        - link "محصولات " [ref=e1264] [cursor=pointer]:
+          - /url: "javascript: void(0)"
+        - text:     
+      - listitem [ref=e1265]:
+        - link "اخبار و مقاله ها " [ref=e1266] [cursor=pointer]:
+          - /url: "javascript: void(0)"
+        - text: 
+      - listitem [ref=e1267]:
+        - link "خدمات پس از فروش " [ref=e1268] [cursor=pointer]:
+          - /url: "javascript: void(0)"
+      - listitem [ref=e1269]:
+        - link "فرصت های شغلی" [ref=e1270] [cursor=pointer]:
+          - /url: "https://www.aco-battery.com/fa/employment.html\t"
+      - listitem [ref=e1271]:
+        - link "درباره ما " [ref=e1272] [cursor=pointer]:
+          - /url: "javascript: void(0)"
+      - listitem [ref=e1273]:
+        - link "تماس با ما " [ref=e1274] [cursor=pointer]:
+          - /url: "javascript: void(0)"
+      - listitem [ref=e1275]:
+        - link "ورود به سامانه نمایندگان" [ref=e1276] [cursor=pointer]:
+          - /url: https://www.aco-battery.com/customers/resellerPannel/
+```

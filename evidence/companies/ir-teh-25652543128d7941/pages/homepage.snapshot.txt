@@ -1,0 +1,613 @@
+### Page
+- Page URL: https://hayperbearing.com/
+- Page Title: هایپر صنعت بلبرینگ | فروش بلبرینگ، کاسه نمد و گریس نسوز
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - link "Skip to navigation" [ref=e3] [cursor=pointer]:
+      - /url: "#menu-%d9%81%d9%87%d8%b1%d8%b3%d8%aa-%d8%a7%d8%b5%d9%84%db%8c"
+    - link "Skip to main content" [ref=e4] [cursor=pointer]:
+      - /url: "#main-content"
+  - generic [ref=e5]:
+    - banner [ref=e6]:
+      - generic [ref=e7]:
+        - generic [ref=e10]:
+          - generic [ref=e11]:
+            - generic [ref=e13]:
+              - paragraph [ref=e15]: تشخیص اصالت بلبرینگ
+              - link "Infobox link" [ref=e16] [cursor=pointer]:
+                - /url: https://hayperbearing.com/guarantee-the-originality-of-bearings/
+            - generic [ref=e19]:
+              - paragraph [ref=e21]: کاتالوگ ها
+              - link "Infobox link" [ref=e22] [cursor=pointer]:
+                - /url: https://hayperbearing.com/%da%a9%d8%a7%d8%aa%d8%a7%d9%84%d9%88%da%af-%d9%87%d8%a7/
+            - generic [ref=e25]:
+              - paragraph [ref=e27]: لیست قیمت بلبرینگ صنعتی
+              - link "Infobox link" [ref=e28] [cursor=pointer]:
+                - /url: https://hayperbearing.com/product-category/industrial-bearing/
+          - generic [ref=e29]:
+            - link "09191035382" [ref=e31] [cursor=pointer]:
+              - /url: tel:+989191035382
+            - link "02133532346" [ref=e33] [cursor=pointer]:
+              - /url: tel:+982133532346
+        - generic [ref=e36]:
+          - link "لوگو وب سایت" [ref=e39] [cursor=pointer]:
+            - /url: https://hayperbearing.com/
+            - img "لوگو هایپر بلبرینگ" [ref=e40]
+          - navigation "ناوبری اصلی" [ref=e42]:
+            - list [ref=e43]:
+              - listitem [ref=e44]:
+                - link "هایپر صنعت بلبرینگ" [ref=e45] [cursor=pointer]:
+                  - /url: https://hayperbearing.com/
+              - listitem [ref=e47]:
+                - link "محصولات " [ref=e48] [cursor=pointer]:
+                  - /url: https://hayperbearing.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+                  - generic [ref=e49]: محصولات
+                  - text: 
+              - listitem [ref=e50]:
+                - link "برندها " [ref=e51] [cursor=pointer]:
+                  - /url: /
+                  - generic [ref=e52]: برندها
+                  - text: 
+              - listitem [ref=e53]:
+                - generic [ref=e54]:
+                  - generic [ref=e55]: خرید عمده
+                  - text: 
+              - listitem [ref=e56]:
+                - link "وبلاگ" [ref=e57] [cursor=pointer]:
+                  - /url: https://hayperbearing.com/category/blog/
+              - listitem [ref=e59]:
+                - link "درباره ما" [ref=e60] [cursor=pointer]:
+                  - /url: https://hayperbearing.com/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/
+              - listitem [ref=e62]:
+                - link "تماس با ما" [ref=e63] [cursor=pointer]:
+                  - /url: https://hayperbearing.com/contact/
+              - listitem [ref=e65]:
+                - link "کاتالوگ ها" [ref=e66] [cursor=pointer]:
+                  - /url: https://hayperbearing.com/%da%a9%d8%a7%d8%aa%d8%a7%d9%84%d9%88%da%af-%d9%87%d8%a7/
+          - generic [ref=e68]:
+            - generic "جستجو" [ref=e69]:
+              - link "جستجو" [ref=e70] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e71]: 
+            - link "0" [ref=e73] [cursor=pointer]:
+              - /url: https://hayperbearing.com/cart-2/
+    - main [ref=e77]:
+      - article [ref=e79]:
+        - generic [ref=e80]:
+          - region "کاروسل تصویر" [ref=e85]:
+            - generic [ref=e86]:
+              - group "1 از 2" [ref=e87]:
+                - figure [ref=e88]:
+                  - img "48828" [ref=e89]
+              - group "2 از 2" [ref=e90]:
+                - figure [ref=e91]:
+                  - img "999993628" [ref=e92]
+          - heading "هایپر صنعت بلبرینگ" [level=1] [ref=e96]
+          - generic [ref=e97]:
+            - generic [ref=e98] [cursor=pointer]:
+              - paragraph [ref=e100]: بلبرینگ و رولبرینگ
+              - paragraph [ref=e102]: بلبرینگ ، رولبرینگ صنعتی و سوزنی
+            - generic [ref=e104] [cursor=pointer]:
+              - paragraph [ref=e106]: کاسه نمد
+              - paragraph [ref=e108]: کاسه نمد پکینگ و اورینگ
+            - generic [ref=e110] [cursor=pointer]:
+              - paragraph [ref=e112]: گریس و روغن
+              - paragraph [ref=e114]: گریس نسوز، روغن صنعتی، ضد یخ صنعتی
+            - generic [ref=e116] [cursor=pointer]:
+              - paragraph [ref=e118]: زنجیر و چرخدنده
+              - paragraph [ref=e120]: زنجیر صنعتی ، چرخدنده ، کوپلینگ
+          - generic [ref=e126]:
+            - generic [ref=e127]:
+              - heading "محصولات شگفت انگیز" [level=2] [ref=e129]
+              - paragraph [ref=e131]: با تخفیف های هایپر زیر قیمت بازار خرید کنید
+              - link "مشــــاهده محصولات" [ref=e133] [cursor=pointer]:
+                - /url: https://hayperbearing.com/product-category/industrial-bearing/
+            - generic [ref=e137]:
+              - list [ref=e138]:
+                - generic [ref=e139]:
+                  - group [ref=e140]:
+                    - generic [ref=e144]:
+                      - link [ref=e146] [cursor=pointer]:
+                        - /url: https://hayperbearing.com/shop/seal/%da%a9%d8%a7%d8%b3%d9%87-%d9%86%d9%85%d8%af-%d8%b4%db%8c%d8%a7%d8%b1-%d8%af%d8%a7%d8%b1-nok-8x28x40/
+                        - img "شیار دار NOK" [ref=e147]
+                      - paragraph [ref=e153]:
+                        - link "کاسه نمد شیار دار NOK 8×28×40" [ref=e154] [cursor=pointer]:
+                          - /url: https://hayperbearing.com/shop/seal/%da%a9%d8%a7%d8%b3%d9%87-%d9%86%d9%85%d8%af-%d8%b4%db%8c%d8%a7%d8%b1-%d8%af%d8%a7%d8%b1-nok-8x28x40/
+                      - generic [ref=e155]: قطر خارجی (mm)40 میلی متر
+                      - paragraph [ref=e159]:
+                        - deletion [ref=e160]:
+                          - generic [ref=e161]: تومان75,000
+                        - text: قیمت اصلی تومان75,000 بود.
+                        - insertion [ref=e162]:
+                          - generic [ref=e163]: تومان35,000
+                        - text: قیمت فعلی تومان35,000 است.
+                  - group [ref=e164]:
+                    - generic [ref=e168]:
+                      - link [ref=e170] [cursor=pointer]:
+                        - /url: https://hayperbearing.com/shop/industrial-bearing/deep-groove/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-%d8%b4%db%8c%d8%a7%d8%b1-%d8%b9%d9%85%db%8c%d9%82-koyo-6310-nr/
+                        - img "بلبرینگ شیار عمیق KOYO 6310 NR" [ref=e171]
+                      - paragraph [ref=e177]:
+                        - link "بلبرینگ شیار عمیق KOYO 6310 NR" [ref=e178] [cursor=pointer]:
+                          - /url: https://hayperbearing.com/shop/industrial-bearing/deep-groove/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-%d8%b4%db%8c%d8%a7%d8%b1-%d8%b9%d9%85%db%8c%d9%82-koyo-6310-nr/
+                      - generic [ref=e179]:
+                        - generic [ref=e180]: قطر خارجی (mm)110 میلی متر
+                        - generic [ref=e181]: عرض (mm)27 میلی متر
+                  - group [ref=e183]:
+                    - generic [ref=e187]:
+                      - link [ref=e189] [cursor=pointer]:
+                        - /url: https://hayperbearing.com/shop/industrial-bearing/deep-groove/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-%d8%b4%db%8c%d8%a7%d8%b1-%d8%b9%d9%85%db%8c%d9%82-koyo-6202-2rsc3fg/
+                        - img "بلبرینگ شیار عمیق KOYO 6202 2RSC3FG" [ref=e190]
+                      - paragraph [ref=e196]:
+                        - link "بلبرینگ شیار عمیق KOYO 6202 2RSC3FG" [ref=e197] [cursor=pointer]:
+                          - /url: https://hayperbearing.com/shop/industrial-bearing/deep-groove/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-%d8%b4%db%8c%d8%a7%d8%b1-%d8%b9%d9%85%db%8c%d9%82-koyo-6202-2rsc3fg/
+                      - generic [ref=e198]:
+                        - generic [ref=e199]: قطر خارجی (mm)35 میلی متر
+                        - generic [ref=e200]: عرض (mm)11 میلی متر
+                      - paragraph [ref=e203]:
+                        - deletion [ref=e204]:
+                          - generic [ref=e205]: تومان1,850,000
+                        - text: قیمت اصلی تومان1,850,000 بود.
+                        - insertion [ref=e206]:
+                          - generic [ref=e207]: تومان1,450,000
+                        - text: قیمت فعلی تومان1,450,000 است.
+                  - group [ref=e208]:
+                    - generic [ref=e212]:
+                      - link [ref=e214] [cursor=pointer]:
+                        - /url: https://hayperbearing.com/shop/industrial-bearing/angular-contact/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-%d8%aa%d9%85%d8%a7%d8%b3-%d8%b2%d8%a7%d9%88%db%8c%d9%87-%d8%a7%db%8c-skf-7306-becbp/
+                        - img "بلبرینگ تماس زاویه ای SKF 7306 BECBP" [ref=e215]
+                      - paragraph [ref=e221]:
+                        - link "بلبرینگ تماس زاویه ای SKF 7306 BECBP" [ref=e222] [cursor=pointer]:
+                          - /url: https://hayperbearing.com/shop/industrial-bearing/angular-contact/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-%d8%aa%d9%85%d8%a7%d8%b3-%d8%b2%d8%a7%d9%88%db%8c%d9%87-%d8%a7%db%8c-skf-7306-becbp/
+                      - generic [ref=e223]:
+                        - generic [ref=e224]: قطر خارجی (mm)72 میلی متر
+                        - generic [ref=e225]: عرض (mm)19 میلی متر
+                      - paragraph [ref=e228]:
+                        - deletion [ref=e229]:
+                          - generic [ref=e230]: تومان54,206,880
+                        - text: قیمت اصلی تومان54,206,880 بود.
+                        - insertion [ref=e231]:
+                          - generic [ref=e232]: تومان1,634,600
+                        - text: قیمت فعلی تومان1,634,600 است.
+                  - group [ref=e233]:
+                    - generic [ref=e237]:
+                      - link [ref=e239] [cursor=pointer]:
+                        - /url: https://hayperbearing.com/shop/industrial-bearing/angular-contact/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-%d8%aa%d9%85%d8%a7%d8%b3-%d8%b2%d8%a7%d9%88%db%8c%d9%87-%d8%a7%db%8c-skf-7307-becbp/
+                        - img "بلبرینگ تماس زاویه ای SKF7307 BECBP" [ref=e240]
+                      - paragraph [ref=e246]:
+                        - link "بلبرینگ تماس زاویه ای SKF 7307 BECBP" [ref=e247] [cursor=pointer]:
+                          - /url: https://hayperbearing.com/shop/industrial-bearing/angular-contact/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-%d8%aa%d9%85%d8%a7%d8%b3-%d8%b2%d8%a7%d9%88%db%8c%d9%87-%d8%a7%db%8c-skf-7307-becbp/
+                      - generic [ref=e248]:
+                        - generic [ref=e249]: قطر خارجی (mm)80 میلی متر
+                        - generic [ref=e250]: عرض (mm)21 میلی متر
+                      - paragraph [ref=e253]:
+                        - deletion [ref=e254]:
+                          - generic [ref=e255]: تومان55,419,000
+                        - text: قیمت اصلی تومان55,419,000 بود.
+                        - insertion [ref=e256]:
+                          - generic [ref=e257]: تومان2,850,000
+                        - text: قیمت فعلی تومان2,850,000 است.
+                  - group [ref=e258]:
+                    - generic [ref=e262]:
+                      - link [ref=e264] [cursor=pointer]:
+                        - /url: https://hayperbearing.com/shop/industrial-bearing/deep-groove/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-%d8%b4%db%8c%d8%a7%d8%b1-%d8%b9%d9%85%db%8c%d9%82-skf-6210-2rs1/
+                        - img "بلبرینگ شیار عمیق SKF 6210-2RS1" [ref=e265]
+                      - paragraph [ref=e271]:
+                        - link "بلبرینگ شیار عمیق SKF 6210-2RS1" [ref=e272] [cursor=pointer]:
+                          - /url: https://hayperbearing.com/shop/industrial-bearing/deep-groove/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-%d8%b4%db%8c%d8%a7%d8%b1-%d8%b9%d9%85%db%8c%d9%82-skf-6210-2rs1/
+                      - generic [ref=e273]:
+                        - generic [ref=e274]: قطر خارجی (mm)90 میلی متر
+                        - generic [ref=e275]: عرض (mm)20 میلی متر
+                      - paragraph [ref=e278]:
+                        - deletion [ref=e279]:
+                          - generic [ref=e280]: تومان30,550,065
+                        - text: قیمت اصلی تومان30,550,065 بود.
+                        - insertion [ref=e281]:
+                          - generic [ref=e282]: تومان1,260,000
+                        - text: قیمت فعلی تومان1,260,000 است.
+                  - group [ref=e283]:
+                    - generic [ref=e287]:
+                      - link [ref=e289] [cursor=pointer]:
+                        - /url: https://hayperbearing.com/shop/industrial-bearing/deep-groove/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-%d8%b4%db%8c%d8%a7%d8%b1-%d8%b9%d9%85%db%8c%d9%82-skf-6003-2rsh/
+                        - img "بلبرینگ شیار عمیق SKF 6003-2RSH" [ref=e290]
+                      - paragraph [ref=e296]:
+                        - link "بلبرینگ شیار عمیق SKF 6003-2RSH" [ref=e297] [cursor=pointer]:
+                          - /url: https://hayperbearing.com/shop/industrial-bearing/deep-groove/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-%d8%b4%db%8c%d8%a7%d8%b1-%d8%b9%d9%85%db%8c%d9%82-skf-6003-2rsh/
+                      - generic [ref=e298]:
+                        - generic [ref=e299]: قطر خارجی (mm)35 میلی متر
+                        - generic [ref=e300]: عرض (mm)10 میلی متر
+                      - paragraph [ref=e303]:
+                        - deletion [ref=e304]:
+                          - generic [ref=e305]: تومان5,888,610
+                        - text: قیمت اصلی تومان5,888,610 بود.
+                        - insertion [ref=e306]:
+                          - generic [ref=e307]: تومان187,500
+                        - text: قیمت فعلی تومان187,500 است.
+                  - group [ref=e308]:
+                    - generic [ref=e312]:
+                      - link [ref=e314] [cursor=pointer]:
+                        - /url: https://hayperbearing.com/shop/industrial-chain/%d8%b2%d9%86%d8%ac%db%8c%d8%b1-%d8%b4%d8%a7%d8%ae%da%a9%d8%af%d8%a7%d8%b1-%db%8c%da%a9-%d8%b7%d8%b1%d9%81%d9%87/
+                        - img "زنجیر شاخکدار یک طرفه" [ref=e315]
+                      - paragraph [ref=e321]:
+                        - link "زنجیر شاخکدار یک طرفه" [ref=e322] [cursor=pointer]:
+                          - /url: https://hayperbearing.com/shop/industrial-chain/%d8%b2%d9%86%d8%ac%db%8c%d8%b1-%d8%b4%d8%a7%d8%ae%da%a9%d8%af%d8%a7%d8%b1-%db%8c%da%a9-%d8%b7%d8%b1%d9%81%d9%87/
+                      - paragraph [ref=e326]:
+                        - deletion [ref=e327]:
+                          - generic [ref=e328]: تومان3,400,000
+                        - text: قیمت اصلی تومان3,400,000 بود.
+                        - insertion [ref=e329]:
+                          - generic [ref=e330]: تومان2,100,000
+                        - text: قیمت فعلی تومان2,100,000 است.
+              - button "قبل" [ref=e331] [cursor=pointer]:
+                - generic [ref=e332]: 
+              - button "بعدی" [ref=e333] [cursor=pointer]:
+                - generic [ref=e334]: 
+          - generic [ref=e337]:
+            - generic [ref=e338]:
+              - 'heading "هایپر صنعت بلبرینگ: فروش تخصصی انواع بلبرینگ و یاتاقان" [level=2] [ref=e340]'
+              - paragraph [ref=e343]: مجموعه هایپر صنعت بلبرینگ (بانام شرکت پایدار صنعت بلبرینگ) با بیش از ۳ دهه تجربه و فعالیت در امور تهیه و پخش ، فروش ، واردات ، تعمیر ، ساخت و مشاوره های فنی و میدانی در خصوص بلبرینگ ، رولبرینگ ، نیدل برینگ سوزنی ، یاتاقانهای صنعتی و کشاورزی زنجیر های صنعتی تک و چند ردیفه روغن و گیریس های نسوز صنعتی ،اورینگ ، پکینگ ، کاسه نمد و کلیه قطعات پلیمری و لاستیکی آماده خدمت رسانی به کارخانجات بزرگ ، تولیدکنندگان و سازندگان دستگاه و ماشین آلات ، تعمیرکاران و مصرف کنندگان تجهیزات صنعتی میباشد.
+              - heading "تشخیص اصالت بلبرینگ در هایپر بلبرینگ" [level=3] [ref=e345]
+              - paragraph [ref=e347]: اولین و تنها مرکز تشخیص اصالت بلبرینگ با پیشرفته ترین ابزار آلات و دستگاه های تشخیصی و مهندسین مجرب و تضمین خسارت ۱۰۰ درصدی در ایران تنها در فروشگاه هایپر صنعت بلبرینگ
+              - generic [ref=e348]:
+                - link "33532346" [ref=e352] [cursor=pointer]:
+                  - /url: tel:02133532346
+                - link "09122435244" [ref=e361] [cursor=pointer]:
+                  - /url: tel:09122435244
+            - region "اسلاید ها" [ref=e369]:
+              - generic [ref=e370]:
+                - group [ref=e371]:
+                  - img "https://hayperbearing.com/product-category/industrial-bearing/" [ref=e372]
+                  - link [ref=e373] [cursor=pointer]:
+                    - /url: https://hayperbearing.com/product-category/industrial-bearing/
+                - group [ref=e374]:
+                  - img "انواع کاسه نمد" [ref=e375]
+                  - link [ref=e376] [cursor=pointer]:
+                    - /url: https://hayperbearing.com/product-category/seal/
+          - generic [ref=e380]:
+            - generic [ref=e381]:
+              - heading "محصولات بلبرینگ" [level=3] [ref=e383]
+              - paragraph [ref=e385]: بهترین کیفیت با استاندارد جهانی
+              - link "مشــــاهده محصولات" [ref=e387] [cursor=pointer]:
+                - /url: https://hayperbearing.com/product-category/industrial-bearing/
+            - generic [ref=e391]:
+              - region "کاروسل" [ref=e392]:
+                - generic [ref=e393]:
+                  - group "1 از 4" [ref=e394]:
+                    - generic [ref=e396]:
+                      - link [ref=e398] [cursor=pointer]:
+                        - /url: https://hayperbearing.com/shop/industrial-bearing/deep-groove/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-%d8%b4%db%8c%d8%a7%d8%b1-%d8%b9%d9%85%db%8c%d9%82-koyo-6000-2rsc3/
+                      - paragraph [ref=e401]:
+                        - link "بلبرینگ شیار عمیق KOYO 6000-2RS C3" [ref=e402] [cursor=pointer]:
+                          - /url: https://hayperbearing.com/shop/industrial-bearing/deep-groove/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-%d8%b4%db%8c%d8%a7%d8%b1-%d8%b9%d9%85%db%8c%d9%82-koyo-6000-2rsc3/
+                      - link "مشــــاهده محصول" [ref=e404] [cursor=pointer]:
+                        - /url: https://hayperbearing.com/shop/industrial-bearing/deep-groove/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-%d8%b4%db%8c%d8%a7%d8%b1-%d8%b9%d9%85%db%8c%d9%82-koyo-6000-2rsc3/
+                  - group "2 از 4" [ref=e407]:
+                    - generic [ref=e409]:
+                      - link [ref=e411] [cursor=pointer]:
+                        - /url: https://hayperbearing.com/shop/industrial-bearing/deep-groove/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-%d8%b4%db%8c%d8%a7%d8%b1-%d8%b9%d9%85%db%8c%d9%82-koyo-6001-2rsc3fg/
+                      - paragraph [ref=e414]: بلبرینگ شیار عمیق KOYO 6001-2RS C3FG
+                      - link "مشــــاهده محصول" [ref=e416] [cursor=pointer]:
+                        - /url: https://hayperbearing.com/shop/industrial-bearing/deep-groove/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-%d8%b4%db%8c%d8%a7%d8%b1-%d8%b9%d9%85%db%8c%d9%82-koyo-6001-2rsc3fg/
+                  - group "3 از 4" [ref=e419]:
+                    - generic [ref=e421]:
+                      - link [ref=e423] [cursor=pointer]:
+                        - /url: https://hayperbearing.com/shop/industrial-bearing/deep-groove/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-%d8%b4%db%8c%d8%a7%d8%b1-%d8%b9%d9%85%db%8c%d9%82-koyo-6002-2rsc3/
+                      - paragraph [ref=e426]:
+                        - link "بلبرینگ شیار عمیق KOYO 6002-2RS C3" [ref=e427] [cursor=pointer]:
+                          - /url: https://hayperbearing.com/shop/industrial-bearing/deep-groove/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-%d8%b4%db%8c%d8%a7%d8%b1-%d8%b9%d9%85%db%8c%d9%82-koyo-6002-2rsc3/
+                      - link "مشــــاهده محصول" [ref=e429] [cursor=pointer]:
+                        - /url: https://hayperbearing.com/shop/industrial-bearing/deep-groove/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-%d8%b4%db%8c%d8%a7%d8%b1-%d8%b9%d9%85%db%8c%d9%82-koyo-6002-2rsc3/
+                  - group "4 از 4" [ref=e432]:
+                    - generic [ref=e434]:
+                      - link [ref=e436] [cursor=pointer]:
+                        - /url: https://hayperbearing.com/shop/industrial-bearing/deep-groove/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-%d8%b4%db%8c%d8%a7%d8%b1-%d8%b9%d9%85%db%8c%d9%82-koyo-6002-2rsc3fg/
+                      - paragraph [ref=e439]:
+                        - link "بلبرینگ شیار عمیق KOYO 6002-2RS C3FG" [ref=e440] [cursor=pointer]:
+                          - /url: https://hayperbearing.com/shop/industrial-bearing/deep-groove/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-%d8%b4%db%8c%d8%a7%d8%b1-%d8%b9%d9%85%db%8c%d9%82-koyo-6002-2rsc3fg/
+                      - link "مشــــاهده محصول" [ref=e442] [cursor=pointer]:
+                        - /url: https://hayperbearing.com/shop/industrial-bearing/deep-groove/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-%d8%b4%db%8c%d8%a7%d8%b1-%d8%b9%d9%85%db%8c%d9%82-koyo-6002-2rsc3fg/
+              - button "قبل" [ref=e445] [cursor=pointer]:
+                - generic [ref=e446]: 
+              - button "بعدی" [ref=e447] [cursor=pointer]:
+                - generic [ref=e448]: 
+          - generic [ref=e452]:
+            - generic [ref=e453]:
+              - heading "محصولات چرخدنده" [level=3] [ref=e455]
+              - paragraph [ref=e457]: بهترین کیفیت با استاندارد جهانی
+              - link "مشــــاهده محصولات" [ref=e459] [cursor=pointer]:
+                - /url: https://hayperbearing.com/product-category/gear/
+            - generic [ref=e463]:
+              - region "کاروسل" [ref=e464]:
+                - generic [ref=e465]:
+                  - group "1 از 4" [ref=e466]:
+                    - generic [ref=e468]:
+                      - link [ref=e470] [cursor=pointer]:
+                        - /url: https://hayperbearing.com/shop/gear/simple-industrial-gear/%da%86%d8%b1%d8%ae-%d8%af%d9%86%d8%af%d9%87-%d8%b3%d8%a7%d8%af%d9%87-%d9%86%d8%a7%d9%81%db%8c-%d8%af%d8%a7%d8%b1-22-%d8%af%d9%86%d8%af%d8%a7%d9%86%d9%87-%d9%85%d8%af%d9%88%d9%84-1/
+                      - paragraph [ref=e473]:
+                        - link "چرخ دنده ساده نافی دار 22 دندانه مدول 1" [ref=e474] [cursor=pointer]:
+                          - /url: https://hayperbearing.com/shop/gear/simple-industrial-gear/%da%86%d8%b1%d8%ae-%d8%af%d9%86%d8%af%d9%87-%d8%b3%d8%a7%d8%af%d9%87-%d9%86%d8%a7%d9%81%db%8c-%d8%af%d8%a7%d8%b1-22-%d8%af%d9%86%d8%af%d8%a7%d9%86%d9%87-%d9%85%d8%af%d9%88%d9%84-1/
+                      - link "مشــــاهده محصول" [ref=e476] [cursor=pointer]:
+                        - /url: https://hayperbearing.com/shop/gear/simple-industrial-gear/%da%86%d8%b1%d8%ae-%d8%af%d9%86%d8%af%d9%87-%d8%b3%d8%a7%d8%af%d9%87-%d9%86%d8%a7%d9%81%db%8c-%d8%af%d8%a7%d8%b1-22-%d8%af%d9%86%d8%af%d8%a7%d9%86%d9%87-%d9%85%d8%af%d9%88%d9%84-1/
+                  - group "2 از 4" [ref=e479]:
+                    - generic [ref=e481]:
+                      - link [ref=e483] [cursor=pointer]:
+                        - /url: https://hayperbearing.com/shop/gear/simple-industrial-gear/%da%86%d8%b1%d8%ae-%d8%af%d9%86%d8%af%d9%87-%d8%b3%d8%a7%d8%af%d9%87-%d9%86%d8%a7%d9%81%db%8c-%d8%af%d8%a7%d8%b1-25-%d8%af%d9%86%d8%af%d8%a7%d9%86%d9%87-%d9%85%d8%af%d9%88%d9%84-2/
+                      - paragraph [ref=e486]:
+                        - link "چرخ دنده ساده نافی دار 25 دندانه مدول 2" [ref=e487] [cursor=pointer]:
+                          - /url: https://hayperbearing.com/shop/gear/simple-industrial-gear/%da%86%d8%b1%d8%ae-%d8%af%d9%86%d8%af%d9%87-%d8%b3%d8%a7%d8%af%d9%87-%d9%86%d8%a7%d9%81%db%8c-%d8%af%d8%a7%d8%b1-25-%d8%af%d9%86%d8%af%d8%a7%d9%86%d9%87-%d9%85%d8%af%d9%88%d9%84-2/
+                      - link "مشــــاهده محصول" [ref=e489] [cursor=pointer]:
+                        - /url: https://hayperbearing.com/shop/gear/simple-industrial-gear/%da%86%d8%b1%d8%ae-%d8%af%d9%86%d8%af%d9%87-%d8%b3%d8%a7%d8%af%d9%87-%d9%86%d8%a7%d9%81%db%8c-%d8%af%d8%a7%d8%b1-25-%d8%af%d9%86%d8%af%d8%a7%d9%86%d9%87-%d9%85%d8%af%d9%88%d9%84-2/
+                  - group "3 از 4" [ref=e492]:
+                    - generic [ref=e494]:
+                      - link [ref=e496] [cursor=pointer]:
+                        - /url: https://hayperbearing.com/shop/gear/simple-industrial-gear/%da%86%d8%b1%d8%ae-%d8%af%d9%86%d8%af%d9%87-%d8%b3%d8%a7%d8%af%d9%87-%d8%a8%d8%af%d9%88%d9%86-%d9%86%d8%a7%d9%81%db%8c-22-%d8%af%d9%86%d8%af%d8%a7%d9%86%d9%87-%d9%85%d8%af%d9%88%d9%84-3/
+                      - paragraph [ref=e499]:
+                        - link "چرخ دنده ساده بدون نافی 22 دندانه مدول 3" [ref=e500] [cursor=pointer]:
+                          - /url: https://hayperbearing.com/shop/gear/simple-industrial-gear/%da%86%d8%b1%d8%ae-%d8%af%d9%86%d8%af%d9%87-%d8%b3%d8%a7%d8%af%d9%87-%d8%a8%d8%af%d9%88%d9%86-%d9%86%d8%a7%d9%81%db%8c-22-%d8%af%d9%86%d8%af%d8%a7%d9%86%d9%87-%d9%85%d8%af%d9%88%d9%84-3/
+                      - link "مشــــاهده محصول" [ref=e502] [cursor=pointer]:
+                        - /url: https://hayperbearing.com/shop/gear/simple-industrial-gear/%da%86%d8%b1%d8%ae-%d8%af%d9%86%d8%af%d9%87-%d8%b3%d8%a7%d8%af%d9%87-%d8%a8%d8%af%d9%88%d9%86-%d9%86%d8%a7%d9%81%db%8c-22-%d8%af%d9%86%d8%af%d8%a7%d9%86%d9%87-%d9%85%d8%af%d9%88%d9%84-3/
+                  - group "4 از 4" [ref=e505]:
+                    - generic [ref=e507]:
+                      - link [ref=e509] [cursor=pointer]:
+                        - /url: https://hayperbearing.com/shop/gear/simple-industrial-gear/%da%86%d8%b1%d8%ae-%d8%af%d9%86%d8%af%d9%87-%d8%b3%d8%a7%d8%af%d9%87-%d8%a8%d8%af%d9%88%d9%86-%d9%86%d8%a7%d9%81%db%8c-22-%d8%af%d9%86%d8%af%d8%a7%d9%86%d9%87-%d9%85%d8%af%d9%88%d9%84-1-5/
+                      - paragraph [ref=e512]:
+                        - link "چرخ دنده ساده بدون نافی 22 دندانه مدول 1.5" [ref=e513] [cursor=pointer]:
+                          - /url: https://hayperbearing.com/shop/gear/simple-industrial-gear/%da%86%d8%b1%d8%ae-%d8%af%d9%86%d8%af%d9%87-%d8%b3%d8%a7%d8%af%d9%87-%d8%a8%d8%af%d9%88%d9%86-%d9%86%d8%a7%d9%81%db%8c-22-%d8%af%d9%86%d8%af%d8%a7%d9%86%d9%87-%d9%85%d8%af%d9%88%d9%84-1-5/
+                      - link "مشــــاهده محصول" [ref=e515] [cursor=pointer]:
+                        - /url: https://hayperbearing.com/shop/gear/simple-industrial-gear/%da%86%d8%b1%d8%ae-%d8%af%d9%86%d8%af%d9%87-%d8%b3%d8%a7%d8%af%d9%87-%d8%a8%d8%af%d9%88%d9%86-%d9%86%d8%a7%d9%81%db%8c-22-%d8%af%d9%86%d8%af%d8%a7%d9%86%d9%87-%d9%85%d8%af%d9%88%d9%84-1-5/
+              - button "قبل" [ref=e518] [cursor=pointer]:
+                - generic [ref=e519]: 
+              - button "بعدی" [ref=e520] [cursor=pointer]:
+                - generic [ref=e521]: 
+          - generic [ref=e525]:
+            - generic [ref=e526]:
+              - heading "محصولات گریس" [level=3] [ref=e528]
+              - paragraph [ref=e530]: بهترین کیفیت با استاندارد جهانی
+              - link "مشــــاهده محصولات" [ref=e532] [cursor=pointer]:
+                - /url: https://hayperbearing.com/product-category/fibrous-grease/
+            - generic [ref=e536]:
+              - region "کاروسل" [ref=e537]:
+                - generic [ref=e538]:
+                  - group "1 از 4" [ref=e539]:
+                    - generic [ref=e541]:
+                      - link [ref=e543] [cursor=pointer]:
+                        - /url: https://hayperbearing.com/shop/fibrous-grease/%da%af%d8%b1%db%8c%d8%b3-kluber-%d9%85%d8%af%d9%84-barrierta-km-192/
+                      - paragraph [ref=e546]:
+                        - link "گریس kluber مدل BARRIERTA KM 192" [ref=e547] [cursor=pointer]:
+                          - /url: https://hayperbearing.com/shop/fibrous-grease/%da%af%d8%b1%db%8c%d8%b3-kluber-%d9%85%d8%af%d9%84-barrierta-km-192/
+                      - link "مشــــاهده محصول" [ref=e549] [cursor=pointer]:
+                        - /url: https://hayperbearing.com/shop/fibrous-grease/%da%af%d8%b1%db%8c%d8%b3-kluber-%d9%85%d8%af%d9%84-barrierta-km-192/
+                  - group "2 از 4" [ref=e552]:
+                    - generic [ref=e554]:
+                      - link [ref=e556] [cursor=pointer]:
+                        - /url: https://hayperbearing.com/shop/fibrous-grease/%da%af%d8%b1%db%8c%d8%b3-kluberspeed-bf-72-23-%da%a9%d9%84%d9%88%d8%a8%d8%b1/
+                      - paragraph [ref=e559]:
+                        - link "گریس Klüberspeed BF 72-23 کلوبر" [ref=e560] [cursor=pointer]:
+                          - /url: https://hayperbearing.com/shop/fibrous-grease/%da%af%d8%b1%db%8c%d8%b3-kluberspeed-bf-72-23-%da%a9%d9%84%d9%88%d8%a8%d8%b1/
+                      - link "مشــــاهده محصول" [ref=e562] [cursor=pointer]:
+                        - /url: https://hayperbearing.com/shop/fibrous-grease/%da%af%d8%b1%db%8c%d8%b3-kluberspeed-bf-72-23-%da%a9%d9%84%d9%88%d8%a8%d8%b1/
+                  - group "3 از 4" [ref=e565]:
+                    - generic [ref=e567]:
+                      - link [ref=e569] [cursor=pointer]:
+                        - /url: https://hayperbearing.com/shop/fibrous-grease/%da%af%d8%b1%db%8c%d8%b3-kluberfood-nh1-94-301/
+                      - paragraph [ref=e572]:
+                        - link "گریس Klüberfood NH1 94-301" [ref=e573] [cursor=pointer]:
+                          - /url: https://hayperbearing.com/shop/fibrous-grease/%da%af%d8%b1%db%8c%d8%b3-kluberfood-nh1-94-301/
+                      - link "مشــــاهده محصول" [ref=e575] [cursor=pointer]:
+                        - /url: https://hayperbearing.com/shop/fibrous-grease/%da%af%d8%b1%db%8c%d8%b3-kluberfood-nh1-94-301/
+                  - group "4 از 4" [ref=e578]:
+                    - generic [ref=e580]:
+                      - link [ref=e582] [cursor=pointer]:
+                        - /url: https://hayperbearing.com/shop/fibrous-grease/%da%af%d8%b1%db%8c%d8%b3-kluber-%d9%85%d8%af%d9%84-klubersynth-bhp-72-102/
+                      - paragraph [ref=e585]:
+                        - link "گریس kluber مدل Klübersynth BHP 72-102" [ref=e586] [cursor=pointer]:
+                          - /url: https://hayperbearing.com/shop/fibrous-grease/%da%af%d8%b1%db%8c%d8%b3-kluber-%d9%85%d8%af%d9%84-klubersynth-bhp-72-102/
+                      - link "مشــــاهده محصول" [ref=e588] [cursor=pointer]:
+                        - /url: https://hayperbearing.com/shop/fibrous-grease/%da%af%d8%b1%db%8c%d8%b3-kluber-%d9%85%d8%af%d9%84-klubersynth-bhp-72-102/
+              - button "قبل" [ref=e591] [cursor=pointer]:
+                - generic [ref=e592]: 
+              - button "بعدی" [ref=e593] [cursor=pointer]:
+                - generic [ref=e594]: 
+          - generic [ref=e596]:
+            - paragraph [ref=e598]: مطـــالب آموزشی
+            - link "مشاهده همه" [ref=e603] [cursor=pointer]:
+              - /url: https://hayperbearing.com/category/blog/
+          - list [ref=e609]:
+            - generic [ref=e610]:
+              - group [ref=e611]:
+                - generic [ref=e615]:
+                  - link [ref=e618] [cursor=pointer]:
+                    - /url: https://hayperbearing.com/cnc-bearing/
+                    - img "بلبرینگ cnc" [ref=e619]
+                  - paragraph [ref=e622]:
+                    - link "معرفی انواع بلبرینگ پرکاربرد در دستگاه های cnc" [ref=e623] [cursor=pointer]:
+                      - /url: https://hayperbearing.com/cnc-bearing/
+              - group [ref=e624]:
+                - generic [ref=e628]:
+                  - link [ref=e631] [cursor=pointer]:
+                    - /url: https://hayperbearing.com/bearing-time/
+                    - img "بلبرینگ تایم" [ref=e632]
+                  - paragraph [ref=e635]:
+                    - link "بلبرینگ تایم چیست و چه کاربردی دارد؟" [ref=e636] [cursor=pointer]:
+                      - /url: https://hayperbearing.com/bearing-time/
+              - group [ref=e637]:
+                - generic [ref=e641]:
+                  - link [ref=e644] [cursor=pointer]:
+                    - /url: https://hayperbearing.com/the-difference-between-zz-and-2rs-bearings/
+                    - img "تفاوت بلبرینگ zz و 2rs" [ref=e645]
+                  - paragraph [ref=e648]:
+                    - 'link "تفاوت بلبرینگ ZZ و 2RS: راهنمای تخصصی برای انتخاب صحیح بلبرینگ" [ref=e649] [cursor=pointer]':
+                      - /url: https://hayperbearing.com/the-difference-between-zz-and-2rs-bearings/
+              - group [ref=e650]:
+                - generic [ref=e654]:
+                  - link [ref=e657] [cursor=pointer]:
+                    - /url: https://hayperbearing.com/power-plant-bearing/
+                    - img "بلبرینگ نیروگاهی" [ref=e658]
+                  - paragraph [ref=e661]:
+                    - link "انواع بلبرینگ چه کاربردی در تجهیزات نیروگاهی دارند؟" [ref=e662] [cursor=pointer]:
+                      - /url: https://hayperbearing.com/power-plant-bearing/
+              - group [ref=e663]:
+                - generic [ref=e667]:
+                  - link [ref=e670] [cursor=pointer]:
+                    - /url: https://hayperbearing.com/elevator-bearing/
+                    - img "بلبرینگ آسانسور" [ref=e671]
+                  - paragraph [ref=e674]:
+                    - link "بلبرینگ آسانسور چیست؟ چک لیست برای انتخاب بلبرینگ مناسب" [ref=e675] [cursor=pointer]:
+                      - /url: https://hayperbearing.com/elevator-bearing/
+              - group [ref=e676]:
+                - generic [ref=e680]:
+                  - link [ref=e683] [cursor=pointer]:
+                    - /url: https://hayperbearing.com/gearbox-bearing/
+                    - img "بلبرینگ گیربکس" [ref=e684]
+                  - paragraph [ref=e687]:
+                    - 'link "علائم خرابی بلبرینگ گیربکس: ۷ نشانه هشداردهنده که نباید نادیده بگیرید" [ref=e688] [cursor=pointer]':
+                      - /url: https://hayperbearing.com/gearbox-bearing/
+          - generic [ref=e690]:
+            - generic [ref=e691]:
+              - generic [ref=e692]:
+                - link [ref=e694] [cursor=pointer]:
+                  - /url: https://hayperbearing.com/product-tag/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-skf/
+                - link "مشــــاهده محصولات" [ref=e696] [cursor=pointer]:
+                  - /url: https://hayperbearing.com/product-tag/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-skf/
+              - generic [ref=e699]:
+                - link [ref=e701] [cursor=pointer]:
+                  - /url: https://hayperbearing.com/product-tag/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-nachi/
+                - link "مشــــاهده محصولات" [ref=e703] [cursor=pointer]:
+                  - /url: https://hayperbearing.com/product-tag/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-nachi/
+            - generic [ref=e706]:
+              - generic [ref=e707]:
+                - link [ref=e709] [cursor=pointer]:
+                  - /url: https://hayperbearing.com/product-tag/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-ina/
+                - link "مشــــاهده محصولات" [ref=e711] [cursor=pointer]:
+                  - /url: https://hayperbearing.com/product-tag/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-ina/
+              - generic [ref=e714]:
+                - link [ref=e716] [cursor=pointer]:
+                  - /url: https://hayperbearing.com/product-tag/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-ntn/
+                  - img "بلبرینگ NTN" [ref=e717]
+                - link "مشــــاهده محصولات" [ref=e719] [cursor=pointer]:
+                  - /url: https://hayperbearing.com/product-tag/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-ntn/
+            - generic [ref=e722]:
+              - generic [ref=e723]:
+                - link [ref=e725] [cursor=pointer]:
+                  - /url: https://hayperbearing.com/product-tag/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-koyo/
+                - link "مشــــاهده محصولات" [ref=e727] [cursor=pointer]:
+                  - /url: https://hayperbearing.com/product-tag/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-koyo/
+              - generic [ref=e730]:
+                - link [ref=e732] [cursor=pointer]:
+                  - /url: https://hayperbearing.com/product-tag/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-nsk/
+                - link "مشــــاهده محصولات" [ref=e734] [cursor=pointer]:
+                  - /url: https://hayperbearing.com/product-tag/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-nsk/
+            - generic [ref=e737]:
+              - generic [ref=e738]:
+                - link [ref=e740] [cursor=pointer]:
+                  - /url: https://hayperbearing.com/product-tag/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-fag/
+                  - img "بلبرینگ FAG - هایپر بلبرینگ" [ref=e741]
+                - link "مشــــاهده محصولات" [ref=e743] [cursor=pointer]:
+                  - /url: https://hayperbearing.com/product-tag/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-fag/
+              - generic [ref=e746]:
+                - link [ref=e748] [cursor=pointer]:
+                  - /url: https://hayperbearing.com/product-tag/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-kg/
+                - link "مشــــاهده محصولات" [ref=e750] [cursor=pointer]:
+                  - /url: https://hayperbearing.com/product-tag/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-kg/
+            - generic [ref=e753]:
+              - generic [ref=e754]:
+                - link [ref=e756] [cursor=pointer]:
+                  - /url: https://hayperbearing.com/product-tag/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-zwz/
+                - link "مشــــاهده محصولات" [ref=e758] [cursor=pointer]:
+                  - /url: https://hayperbearing.com/product-tag/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-zwz/
+              - generic [ref=e761]:
+                - link [ref=e763] [cursor=pointer]:
+                  - /url: https://hayperbearing.com/product-tag/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-hsb/
+                  - img "برند hsb" [ref=e764]
+                - link "مشــــاهده محصولات" [ref=e766] [cursor=pointer]:
+                  - /url: https://hayperbearing.com/product-tag/%d8%a8%d9%84%d8%a8%d8%b1%db%8c%d9%86%da%af-hsb/
+          - generic [ref=e771]:
+            - generic [ref=e773]:
+              - figure [ref=e774]
+              - paragraph [ref=e776]: همگی اقلام با قیمت مناسب و دست اول بدون واسطه حداقل ۱۰% زیر قیمت بازار
+            - generic [ref=e778]:
+              - figure [ref=e779]
+              - paragraph [ref=e781]: مشاوره رایگان و مستمر جهت بهترین بازده ( حتی اگر از ما خرید نفرمایید )
+            - generic [ref=e783]:
+              - figure [ref=e784]
+              - paragraph [ref=e786]: کیفیت تمامی کالاها اورجینال و با ضمانت کتبی در فاکتور میباشد
+    - contentinfo [ref=e789]:
+      - generic [ref=e791]:
+        - generic [ref=e792]:
+          - paragraph [ref=e794]: هایپر صنعت بلبرینگ
+          - paragraph [ref=e799]: بیش از ۳ دهه تجربه در تامین و واردات انواع بلبرینگ، رولبرینگ، یاتاقان های صنعتی، گریس های نسوز، روغن های صنعتی، اورینگ پکینگ، نخ نسوز، کاسه نمد، تسمه های صنعتی، چرخ دنده و زنجیرهای چند ردیفه در انواع برندهای معتبر و مطرح مانند SKF، FAG، SHELL، TOTAL و …
+          - link [ref=e801] [cursor=pointer]:
+            - /url: https://trustseal.enamad.ir/?id=613102&Code=J3HSMrQOKQZWC8NBbQ53X3OeZdbaIkrP
+        - generic [ref=e802]:
+          - paragraph [ref=e804]: اطلاعات تماس
+          - list [ref=e806]:
+            - listitem [ref=e807]:
+              - 'link "شماره تماس: 33532346" [ref=e808] [cursor=pointer]':
+                - /url: tel:02133532346
+            - listitem [ref=e810]:
+              - 'link "شماره تماس: 33532348" [ref=e811] [cursor=pointer]':
+                - /url: tel:02133532348
+            - listitem [ref=e813]:
+              - 'link "شماره موبایل: 09191035382" [ref=e814] [cursor=pointer]':
+                - /url: tel:+989191035382
+            - listitem [ref=e816]:
+              - 'link "شماره موبایل: 09122435244" [ref=e817] [cursor=pointer]':
+                - /url: tel:+989122435244
+            - listitem [ref=e819]:
+              - generic [ref=e820]: "آدرس : تهران، خیابان اکباتان، ناظم الاطبا شمالی، پاساژ مبصر، طبقه اول، پلاک 43"
+            - listitem [ref=e821]:
+              - 'link "ایمیل : info@hayperbearing.com" [ref=e822] [cursor=pointer]':
+                - /url: http://info@hayperbearing.com
+        - generic [ref=e824]:
+          - paragraph [ref=e826]: مسیرهای دسترسی
+          - paragraph [ref=e828]: "مترو : مترو امام خمینی ۵۴۰ متر پیاده روی به سمت خیابان اکباتان و خیابان سعدی، ،هایپر صنعت بلبرینگ"
+          - paragraph [ref=e833]: "مترو : مترو ایستگاه ملت ۶۰۰ متر پیاده روی بسمت غرب خیابان اکباتان نرسیده به خیابان سعدی هایپر صنعت بلبرینگ"
+          - paragraph [ref=e838]: "اتوبوس : خط 358 (پایانه بیهقی-اول فردوسی)، ایستگاه فردوسی آرژانتین، 670 متر پیاده روی تا فروشگاه هایپر صنعت بلبرینگ"
+      - paragraph [ref=e842]:
+        - text: طراحی و توسعه توسط شرکت دیجیتال مارکتینگ
+        - link "دلــــوان" [ref=e843] [cursor=pointer]:
+          - /url: http://delvan.net
+  - navigation "ناوبری موبایل" [ref=e844]:
+    - search [ref=e846]:
+      - textbox "جستجو" [ref=e847]:
+        - /placeholder: جستجوی محصولات
+      - text: 
+      - button "جستجو " [ref=e848] [cursor=pointer]:
+        - generic: جستجو
+        - text: 
+    - list [ref=e849]:
+      - listitem [ref=e850]:
+        - link "هایپر صنعت بلبرینگ" [ref=e851] [cursor=pointer]:
+          - /url: https://hayperbearing.com/
+      - listitem [ref=e853]:
+        - link "محصولات" [ref=e854] [cursor=pointer]:
+          - /url: https://hayperbearing.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/
+      - listitem [ref=e856]:
+        - link "برندها" [ref=e857] [cursor=pointer]:
+          - /url: /
+      - listitem [ref=e859]:
+        - generic [ref=e860]: خرید عمده
+      - listitem [ref=e862]:
+        - link "وبلاگ" [ref=e863] [cursor=pointer]:
+          - /url: https://hayperbearing.com/category/blog/
+      - listitem [ref=e865]:
+        - link "درباره ما" [ref=e866] [cursor=pointer]:
+          - /url: https://hayperbearing.com/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/
+      - listitem [ref=e868]:
+        - link "تماس با ما" [ref=e869] [cursor=pointer]:
+          - /url: https://hayperbearing.com/contact/
+      - listitem [ref=e871]:
+        - link "کاتالوگ ها" [ref=e872] [cursor=pointer]:
+          - /url: https://hayperbearing.com/%da%a9%d8%a7%d8%aa%d8%a7%d9%84%d9%88%da%af-%d9%87%d8%a7/
+  - complementary "نوار کناری سبد خرید" [ref=e874]:
+    - generic [ref=e875]:
+      - generic [ref=e876]: سبد خرید
+      - link " بستن" [ref=e878] [cursor=pointer]:
+        - /url: "#"
+        - text: 
+        - generic [ref=e879]: بستن
+  - generic [ref=e883] [cursor=pointer]:
+    - text: به کمک نیاز دارید؟
+    - strong [ref=e884]: پیام دهید
+```

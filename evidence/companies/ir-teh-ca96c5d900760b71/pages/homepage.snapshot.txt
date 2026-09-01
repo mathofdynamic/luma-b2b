@@ -1,0 +1,283 @@
+### Page
+- Page URL: https://irancoldpressing.com/fa/
+- Page Title: ايران كلد پرسينگ – سازنده مدرنترین دستگاه های روغنکشی و روغن گیری پرس سرد
+- Console: 1 errors, 5 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e7]:
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - generic [ref=e10] [cursor=pointer]: فهرست
+            - text:  
+          - link " EN" [ref=e12] [cursor=pointer]:
+            - /url: http://irancoldpressing.com/en/
+            - generic [ref=e13]:
+              - generic [ref=e14]: 
+              - text: EN
+        - link [ref=e19] [cursor=pointer]:
+          - /url: https://irancoldpressing.com/fa/
+          - img "ايران كلد پرسينگ" [ref=e20]
+        - generic [ref=e22]:
+          - link:
+            - /url: http://www.vitrinefood.com
+          - generic [ref=e23]:
+            - link:
+              - /url: http://www.vitrinefood.com
+            - generic [ref=e24]:
+              - link:
+                - /url: http://www.vitrinefood.com
+              - link "جهت سفارش تماس بگیرید ۰۹۳۶۱۲۷۶۶۱۱" [ref=e25] [cursor=pointer]:
+                - /url: tel:+989361276611
+            - generic [ref=e27]:
+              - link "" [ref=e28] [cursor=pointer]:
+                - /url: tel:+989361276611
+              - link "" [ref=e30] [cursor=pointer]:
+                - /url: "#"
+              - link "" [ref=e32] [cursor=pointer]:
+                - /url: "#"
+      - text:         
+    - list [ref=e38]:
+      - listitem [ref=e39]:
+        - generic: ایران کلدپرسینگ
+        - generic: تولید کننده و صادر کننده دستگاه های روغن کشی و روغن گیری پرس سرد
+    - generic [ref=e49]:
+      - generic [ref=e54]:
+        - generic [ref=e55]: آخرین اخبار
+        - generic [ref=e56]:
+          - button "Previous" [ref=e57] [cursor=pointer]:
+            - generic [ref=e58]: 
+          - generic [ref=e60]:
+            - generic [ref=e63]:
+              - link [ref=e64] [cursor=pointer]:
+                - /url: https://irancoldpressing.com/fa/%d9%88%db%8c%d8%af%db%8c%d9%88-%d8%b1%d9%88%d8%ba%d9%86-%da%af%db%8c%d8%b1%db%8c-%d8%a2%d9%81%d8%aa%d8%a7%d8%a8%da%af%d8%b1%d8%af%d8%a7%d9%86-%d8%a8%d8%a7-%d9%be%d8%b1%d8%b3-45/
+                - text: "ویدیو: روغن گیری از آفتابگردان توسط دستگاه کالیبر 45"
+              - generic [ref=e65]: 2017/03/14
+            - generic [ref=e68]:
+              - link "گل های درخت زیتون" [ref=e69] [cursor=pointer]:
+                - /url: https://irancoldpressing.com/fa/%da%af%d9%84-%d9%87%d8%a7%db%8c-%d8%af%d8%b1%d8%ae%d8%aa-%d8%b2%db%8c%d8%aa%d9%88%d9%86/
+              - generic [ref=e70]: 2019/06/02
+            - generic [ref=e73]:
+              - link [ref=e74] [cursor=pointer]:
+                - /url: https://irancoldpressing.com/fa/effects-of-using-sesame-oil-on-diabetic-patients-glucose/
+                - text: اثرات استفاده از روغن کنجد بر روی قند خون بیماران دیابتی
+              - generic [ref=e75]: 2017/10/26
+            - generic [ref=e78]:
+              - link [ref=e79] [cursor=pointer]:
+                - /url: https://irancoldpressing.com/fa/why-is-sesame-oil-suitable-for-frying/
+                - text: چرا روغن کنجد برای سرخ کردن مناسب است؟
+              - generic [ref=e80]: 2017/10/23
+            - generic [ref=e83]:
+              - link [ref=e84] [cursor=pointer]:
+                - /url: https://irancoldpressing.com/fa/%d9%88%db%8c%d8%af%db%8c%d9%88-%d8%b1%d9%88%d8%ba%d9%86-%da%af%db%8c%d8%b1%db%8c-%d8%a2%d9%81%d8%aa%d8%a7%d8%a8%da%af%d8%b1%d8%af%d8%a7%d9%86-%d8%a8%d8%a7-%d9%be%d8%b1%d8%b3-45/
+                - text: "ویدیو: روغن گیری از آفتابگردان توسط دستگاه کالیبر 45"
+              - generic [ref=e85]: 2017/03/14
+            - generic [ref=e88]:
+              - link [ref=e89] [cursor=pointer]:
+                - /url: https://irancoldpressing.com/fa/%da%af%d9%84-%d9%87%d8%a7%db%8c-%d8%af%d8%b1%d8%ae%d8%aa-%d8%b2%db%8c%d8%aa%d9%88%d9%86/
+                - text: گل های درخت زیتون
+              - generic [ref=e90]: 2019/06/02
+            - generic [ref=e93]:
+              - link [ref=e94] [cursor=pointer]:
+                - /url: https://irancoldpressing.com/fa/effects-of-using-sesame-oil-on-diabetic-patients-glucose/
+                - text: اثرات استفاده از روغن کنجد بر روی قند خون بیماران دیابتی
+              - generic [ref=e95]: 2017/10/26
+            - generic [ref=e98]:
+              - link [ref=e99] [cursor=pointer]:
+                - /url: https://irancoldpressing.com/fa/why-is-sesame-oil-suitable-for-frying/
+                - text: چرا روغن کنجد برای سرخ کردن مناسب است؟
+              - generic [ref=e100]: 2017/10/23
+            - generic [ref=e103]:
+              - link [ref=e104] [cursor=pointer]:
+                - /url: https://irancoldpressing.com/fa/%d9%88%db%8c%d8%af%db%8c%d9%88-%d8%b1%d9%88%d8%ba%d9%86-%da%af%db%8c%d8%b1%db%8c-%d8%a2%d9%81%d8%aa%d8%a7%d8%a8%da%af%d8%b1%d8%af%d8%a7%d9%86-%d8%a8%d8%a7-%d9%be%d8%b1%d8%b3-45/
+                - text: "ویدیو: روغن گیری از آفتابگردان توسط دستگاه کالیبر 45"
+              - generic [ref=e105]: 2017/03/14
+          - button "Next" [ref=e106] [cursor=pointer]:
+            - generic [ref=e107]: 
+      - generic [ref=e109]:
+        - generic [ref=e114]:
+          - generic [ref=e118]:
+            - generic [ref=e119]: 
+            - heading "گران بخریم!" [level=3] [ref=e122]
+          - generic [ref=e126]:
+            - generic [ref=e127]: ساخت دستگاه های روغنکشی پرس سرد ما ، مستلزم محاسبات مهندسی پیشرفته و ادوات دقیق شامل موتور و گیربکس ضد شوک با راندمان 95% ، حرارت پایین و با کیفیت عالی است.
+            - link "بیشتر بدانید" [ref=e128] [cursor=pointer]:
+              - /url: http://irancoldpressing.com/fa/question/%DA%AF%D8%B1%D8%A7%D9%86-%D8%A8%D8%AE%D8%B1%DB%8C%D9%85/
+        - generic [ref=e134]:
+          - generic [ref=e138]:
+            - generic [ref=e139]: 
+            - heading "چرا پرس سرد؟" [level=3] [ref=e142]
+          - generic [ref=e146]:
+            - generic [ref=e147]: ساخت دستگاه های روغنکشی پرس سرد ما ، مستلزم محاسبات مهندسی پیشرفته و ادوات دقیق شامل موتور و گیربکس ضد شوک با راندمان 95% ، حرارت پایین و با کیفیت عالی است.
+            - link "بیشتر بدانید" [ref=e148] [cursor=pointer]:
+              - /url: http://irancoldpressing.com/fa/question/%DA%86%D8%B1%D8%A7-%D9%BE%D8%B1%D8%B3-%D8%B3%D8%B1%D8%AF%D8%9F/
+      - generic [ref=e150]:
+        - generic [ref=e155]:
+          - generic [ref=e159]:
+            - generic [ref=e160]: 
+            - heading "چرا ایران کلدپرسینگ ؟" [level=3] [ref=e163]
+          - generic [ref=e167]:
+            - generic [ref=e168]: زیرا دستگاه های این شرکت تنها دستگاه هایی هستند که تاییدیه کتبی و رسمی از وزارت بهداشت و وزارت صنایع ایران ، IAPMO آمریکا و CE اروپا را دارا هستند و به بازار کشورهای دارای استاندارد های بالا راه یافته اند.
+            - link "بیشتر بدانید" [ref=e169] [cursor=pointer]:
+              - /url: http://irancoldpressing.com/fa/question/%DA%86%D8%B1%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DA%A9%D9%84%D8%AF%D9%BE%D8%B1%D8%B3%DB%8C%D9%86%DA%AF-%D8%9F/
+        - generic [ref=e175]:
+          - generic [ref=e179]:
+            - generic [ref=e180]: 
+            - heading "ما تخصص و شغل میفروشیم !" [level=3] [ref=e183]
+          - generic [ref=e187]:
+            - generic [ref=e188]: هدف ما صرفا فروش دستگاه نیست بلکه تعلیم و راه اندازی کارخانه، کارگاه و یا فروشگاه روغنکشی شما با بالاترین استاندارد های مورد تایید وزارت بهداشت و صنایع و همراهی شما جهت حضور در بازار می باشد.
+            - link "بیشتر بدانید" [ref=e189] [cursor=pointer]:
+              - /url: http://irancoldpressing.com/fa/question/%D9%85%D8%A7-%D8%AA%D8%AE%D8%B5%D8%B5-%D9%88-%D8%B4%D8%BA%D9%84-%D9%85%DB%8C%D9%81%D8%B1%D9%88%D8%B4%DB%8C%D9%85/
+      - generic [ref=e199]:
+        - generic [ref=e201]:
+          - heading "محصولات ما" [level=3] [ref=e203]
+          - generic [ref=e204]: _
+        - generic [ref=e207]:
+          - button "Previous" [disabled] [ref=e208] [cursor=pointer]:
+            - generic [ref=e209]: 
+          - generic [ref=e211]:
+            - tabpanel [ref=e212]:
+              - list [ref=e216]:
+                - listitem [ref=e217]:
+                  - link [ref=e218] [cursor=pointer]:
+                    - /url: http://www.irancoldpressing.com/fa/products/%d8%af%d8%b3%d8%aa%da%af%d8%a7%d9%87-%da%a9%d8%b1%d9%87-%d8%b3%d8%a7%d8%b2-%da%a9%d8%a7%d9%84%db%8c%d8%a8%d8%b1-48/
+                  - heading "دستگاه ارده و کره ساز کالیبر ۴۸ میلیمتر" [level=2] [ref=e219]
+                  - generic [ref=e220]: تماس بگیرید
+                  - link [ref=e223] [cursor=pointer]:
+                    - /url: http://irancoldpressing.com/fa/wp-content/uploads/2019/08/Peanut-butter-tahini-Cat.jpg
+                    - generic [ref=e224]: به همراه وام بدون بهره تا 50 درصد
+                    - generic [ref=e226]: دانلود کاتالوگ
+                  - paragraph [ref=e228]
+            - tabpanel [ref=e229]:
+              - list [ref=e233]:
+                - listitem [ref=e234]:
+                  - link [ref=e235] [cursor=pointer]:
+                    - /url: http://www.irancoldpressing.com/fa/products/%D9%BE%D8%B1%D8%B3-400/
+                  - heading "دستگاه روغن کشی پرس سرد ۴۰۰ میلیمتر" [level=2] [ref=e236]
+                  - generic [ref=e237]: تماس بگیرید
+                  - link [ref=e240] [cursor=pointer]:
+                    - /url: http://irancoldpressing.com/fa/wp-content/uploads/2019/08/Cat-400.jpg
+                    - generic [ref=e241]: به همراه وام بدون بهره تا 50 درصد
+                    - generic [ref=e243]: دانلود کاتالوگ
+                  - paragraph [ref=e245]
+            - tabpanel [ref=e246]:
+              - list [ref=e250]:
+                - listitem [ref=e251]:
+                  - link [ref=e252] [cursor=pointer]:
+                    - /url: http://www.irancoldpressing.com/fa/products/پرس-250/
+                  - heading "دستگاه روغن کشی پرس سرد کالیبر ۲۵۰ میلیمتر" [level=2] [ref=e253]
+                  - generic [ref=e254]: تماس بگیرید
+                  - link [ref=e257] [cursor=pointer]:
+                    - /url: http://irancoldpressing.com/fa/wp-content/uploads/2019/08/Cat-250.jpg
+                    - generic [ref=e258]: به همراه وام بدون بهره تا 50 درصد
+                    - generic [ref=e260]: دانلود کاتالوگ
+                  - paragraph [ref=e262]
+            - tabpanel [ref=e263]:
+              - list [ref=e267]:
+                - listitem [ref=e268]:
+                  - link [ref=e269] [cursor=pointer]:
+                    - /url: http://www.irancoldpressing.com/fa/products/پرس-180/
+                  - heading [level=2] [ref=e270]: دستگاه روغن کشی پرس سرد کالیبر ۱۸۰ میلیمتر
+                  - generic [ref=e271]: تماس بگیرید
+                  - link [ref=e274] [cursor=pointer]:
+                    - /url: http://irancoldpressing.com/fa/wp-content/uploads/2019/08/Cat-180.jpg
+                    - generic [ref=e275]: به همراه وام بدون بهره تا 50 درصد
+                    - generic [ref=e277]: دانلود کاتالوگ
+                  - paragraph [ref=e279]
+            - tabpanel [ref=e280]:
+              - list [ref=e284]:
+                - listitem [ref=e285]:
+                  - link [ref=e286] [cursor=pointer]:
+                    - /url: http://irancoldpressing.com/fa/products/%d9%be%d8%b1%d8%b3-80/
+                  - heading [level=2] [ref=e287]: دستگاه روغن کشی پرس سرد ۸۵ میلیمتر
+                  - generic [ref=e288]: تماس بگیرید
+                  - link [ref=e291] [cursor=pointer]:
+                    - /url: http://irancoldpressing.com/fa/wp-content/uploads/2019/08/Cat-85.jpg
+                    - generic [ref=e292]: به همراه وام بدون بهره تا 50 درصد
+                    - generic [ref=e294]: دانلود کاتالوگ
+                  - paragraph [ref=e296]
+            - tabpanel [ref=e297]:
+              - list [ref=e301]:
+                - listitem [ref=e302]:
+                  - link [ref=e303] [cursor=pointer]:
+                    - /url: http://www.irancoldpressing.com/fa/products/%d9%be%d8%b1%d8%b3-60/
+                  - heading [level=2] [ref=e304]: دستگاه روغن کشی پرس سرد کالیبر ۶۵ میلیمتر
+                  - generic [ref=e305]: تماس بگیرید
+                  - link [ref=e308] [cursor=pointer]:
+                    - /url: http://irancoldpressing.com/fa/wp-content/uploads/2019/08/Cat-65.jpg
+                    - generic [ref=e309]: به همراه وام بدون بهره تا 50 درصد
+                    - generic [ref=e311]: دانلود کاتالوگ
+                  - paragraph [ref=e313]
+            - tabpanel [ref=e314]:
+              - list [ref=e318]:
+                - listitem [ref=e319]:
+                  - link [ref=e320] [cursor=pointer]:
+                    - /url: http://irancoldpressing.com/fa/products/%d9%be%d8%b1%d8%b3-45/
+                  - heading [level=2] [ref=e321]: دستگاه روغن کشی پرس سرد کالیبر 45 میلیمتر
+                  - generic [ref=e322]: تماس بگیرید
+                  - link [ref=e325] [cursor=pointer]:
+                    - /url: http://irancoldpressing.com/fa/wp-content/uploads/2019/01/oil-cold-pressing-caliber-45.jpg
+                    - generic [ref=e326]: به همراه وام بدون بهره تا 50 درصد
+                    - generic [ref=e328]: دانلود کاتالوگ
+                  - paragraph [ref=e330]
+          - button "Next" [ref=e331] [cursor=pointer]:
+            - generic [ref=e332]: 
+      - generic [ref=e349]:
+        - generic [ref=e351]:
+          - heading "درباره ما" [level=3] [ref=e353]
+          - generic [ref=e354]: _
+        - paragraph [ref=e359]:
+          - text: گروه ایران کلد پرسینگ کارخانه زیت کرمان را در سال 1369 احداث و به بهره برداری رساند. در ابتدا این کارخانه فقط به روش Hot Press اقدام به تولید
+          - strong [ref=e360]: روغن خام
+          - text: می کرد. اما به مرور زمان و با مشاهده ضعف های این روش در میزان و کیفیت روغن خروجی تصمیم به اجرای طراحی نو گرفته شد که طی آن حرارت از سیستم روغن کشی حذف شود و عمل روغنگیری از دانه صرفا تحت فشار انجام شود که پس از انجام آزمایشات فراوان و ساخت بیش از 20 مدل آزمایشی و صرف هزینه های زیاد سرانجام این کار به نتیجه رسید و
+          - strong [ref=e361]: اولین دستگاه روغن کشی Cold Press در ایران
+          - text: ساخته شد.
+        - link "درباره ما  درباره ما " [ref=e365] [cursor=pointer]:
+          - /url: http://irancoldpressing.com/fa/about-us/lintroduction/
+          - generic [ref=e366]:
+            - strong [ref=e367]: درباره ما
+            - generic [ref=e368]: 
+          - generic [ref=e369]:
+            - strong [ref=e370]: درباره ما
+            - generic [ref=e371]: 
+      - generic [ref=e373]:
+        - img "Iran-Coldpressing-Oil" [ref=e381]
+        - img "Iran-Coldpressing-Oil" [ref=e389]
+        - img "Iran-Coldpressing-Oil" [ref=e397]
+        - img "Iran-Coldpressing-Oil" [ref=e405]
+        - img "Iran-Coldpressing-Oil" [ref=e413]
+    - contentinfo [ref=e414]:
+      - generic [ref=e423]:
+        - generic [ref=e429]:
+          - link "Facebook" [ref=e430] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e431]: 
+          - link "Twitter" [ref=e432] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e433]: 
+          - link "Instagram" [ref=e434] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e435]: 
+          - link "YouTube" [ref=e436] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e437]: 
+          - link "eMail" [ref=e438] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e439]: 
+        - paragraph [ref=e443]:
+          - strong [ref=e444]:
+            - link "جهت خرید روغن کلیک کنید" [ref=e445] [cursor=pointer]:
+              - /url: http://www.elixiroilah.com/
+        - generic [ref=e447]:
+          - generic [ref=e448]: 
+          - paragraph [ref=e450]: "نشانی: تهران، چهارراه پاسداران، میدان حسین آباد، کوچه کلانتری، پلاک ۲۴"
+      - paragraph [ref=e459]:
+        - text: تمام حقوق این سایت برای ایران کلدپرسینگ محفوظ است
+        - link "طراحی سایت شرکت نتمارکو" [ref=e460] [cursor=pointer]:
+          - /url: https://www.netmarko.com/web-design/
+  - text:  
+```
+### Events
+- New console entries: .playwright-cli/console-2026-09-01T07-26-39-480Z.log#L8

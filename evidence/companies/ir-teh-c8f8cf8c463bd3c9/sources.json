@@ -1,0 +1,58 @@
+{
+  "company_id": "ir-teh-c8f8cf8c463bd3c9",
+  "errors": [],
+  "generated_at": "2026-09-01T08:30:02Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [
+    {
+      "bytes": 1967872,
+      "captured_at": "2026-09-01T08:30:00Z",
+      "company_id": "ir-teh-c8f8cf8c463bd3c9",
+      "headless": true,
+      "page_title": "واردات دستگاه برش لیزر - نیروماشین - نیرولیزر - سازه های فولادی - جوش رباتیک - خط تولید سازه فولادی",
+      "path": "companies/ir-teh-c8f8cf8c463bd3c9/screenshots/homepage_candidate.png",
+      "reason_this_matters": "Public company-site candidate; capture verifies whether it is reachable.",
+      "screenshot_type": "homepage_candidate",
+      "source_url": "http://www.nirumachine.com"
+    }
+  ],
+  "sources": [
+    {
+      "discovered_at": "2026-09-01T06:32:00Z",
+      "discovery_reason": "Book-e Avval category: واردات ماشین آلات صنعتی و کشاورزی",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "واردات ماشین آلات صنعتی و کشاورزی - مفتول فلزی - کشش مفتول - خدمات فنی ماشین ابزار",
+      "source_quality": "directory",
+      "source_title": "واردات ماشین آلات صنعتی و کشاورزی در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D8%A2%D9%84%D8%A7%D8%AA%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D9%88%20%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:32:00Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-dd7dba95c72f7362",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "واردات ماشین آلات صنعتی و کشاورزی - مفتول فلزی - کشش مفتول - خدمات فنی ماشین ابزار",
+      "source_quality": "directory",
+      "source_title": "واردات ماشین آلات صنعتی و کشاورزی در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D8%A2%D9%84%D8%A7%D8%AA%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D9%88%20%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:53Z",
+      "claim": "Directory profile lists شرکت نیرو ماشین - کارخانه with a public Tehran business listing.",
+      "confidence": 0.82,
+      "evidence_id": "ev-0fa40c1494d8ec35",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "شرکت نیرو ماشین - کارخانه - واردات ماشین آلات صنعتی و کشاورزی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس شرکت نیرو ماشین - کارخانه واردات ماشین آلات صنعتی و کشاورزی مفتول فلزی کشش مفتول خدمات فنی ماشین ابزار تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل واردات ماشین آلات صنعتی و کشاورزی تهران محله شهید رجایی اطلاعات تماس آدرس : تهران، منطقه 18، محله شهید رجایی، بزرگراه سعیدی (جاده ساوه)، کیلوم",
+      "source_quality": "directory",
+      "source_title": "شرکت نیرو ماشین - کارخانه - واردات ماشین آلات صنعتی و کشاورزی | کتاب اول",
+      "source_url": "https://avval.ir/profile/57810/%D8%B4%D8%B1%DA%A9%D8%AA-%D9%86%DB%8C%D8%B1%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87"
+    }
+  ]
+}

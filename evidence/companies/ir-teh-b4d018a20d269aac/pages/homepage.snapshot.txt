@@ -1,0 +1,1222 @@
+### Page
+- Page URL: https://farabkhakpour.ir/
+- Page Title: نمایندگی فاراب در تهران | لیست قیمت شیرآلات فاراب
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - link "پرش به محتوا" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - paragraph [ref=e6]:
+        - generic [ref=e7]:
+          - generic [ref=e8]: پخش عمده شیرآلات بالانسینگ هرتز اتریش
+          - generic [ref=e9]: نمایندگی فروش شیرآلات کیز ایران
+          - generic [ref=e10]: پخش عمده شیرآلات سیم ایتالیا
+          - generic [ref=e11]: نمایندگی فروش فلنج دو رو تراش
+          - generic [ref=e12]: پخش عمده شیرآلات آذران
+          - generic [ref=e13]: نمایندگی فروش شیرآلات فارآب
+      - list [ref=e15]:
+        - listitem [ref=e16]:
+          - 'link "شماره تماس : 09121119731" [ref=e17] [cursor=pointer]':
+            - /url: tel:+989121119731
+    - generic [ref=e22]:
+      - link [ref=e25] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e27]:
+          - img "لوگو سایت" [ref=e29]
+          - img "لوگو سایت" [ref=e31]
+      - navigation "فهرست" [ref=e33]:
+        - generic "تغییر منو" [ref=e34]:
+          - list [ref=e35]:
+            - listitem [ref=e36]:
+              - link "خانه" [ref=e38] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir
+            - listitem [ref=e40]:
+              - generic [ref=e41]:
+                - generic [ref=e42]: محصولات
+                - button "باز کردن محصولات" [ref=e44] [cursor=pointer]
+            - listitem [ref=e49]:
+              - link "مقالات" [ref=e51] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/articles/
+            - listitem [ref=e53]:
+              - link "درباره ما" [ref=e55] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/about-us/
+            - listitem [ref=e57]:
+              - link "تماس با ما" [ref=e59] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/contact-us/
+      - list [ref=e62]:
+        - listitem [ref=e63]:
+          - link "Instagram" [ref=e64] [cursor=pointer]:
+            - /url: https://instagram.com/farab_valve_tehrankala
+        - listitem [ref=e68]:
+          - link "Whatsapp" [ref=e69] [cursor=pointer]:
+            - /url: https://wa.me/989121119731
+        - listitem [ref=e73]:
+          - link "Telegram" [ref=e74] [cursor=pointer]:
+            - /url: http://t.me/+989121119731
+  - main [ref=e78]:
+    - generic [ref=e80]:
+      - generic [ref=e82]:
+        - generic [ref=e83]:
+          - paragraph [ref=e85]: تهران کالا
+          - paragraph [ref=e87]: فروش شیرآلات صنعتی، ساختمانی و فشار قوی در بازار خیام تهران
+          - heading "نمایندگی فاراب تهران ( شیرآلات فاراب )" [level=1] [ref=e89]
+          - list [ref=e91]:
+            - listitem [ref=e92]: خرید شیرالات فاراب از نمایندگی فارآب تهران با بهترین قیمت
+            - listitem [ref=e93]: شامل 60 ماه گارانتی و 25 سال خدمات پس از فروش
+            - listitem [ref=e94]: دارای کارت ضمانت و کد رهگیری
+          - list [ref=e96]:
+            - listitem [ref=e97]:
+              - 'link "تلفن : 33945015 - 021" [ref=e98] [cursor=pointer]':
+                - /url: tel:02133945015
+            - listitem [ref=e103]:
+              - 'link "تلفن : 33944202 - 021" [ref=e104] [cursor=pointer]':
+                - /url: tel:02133944202
+            - listitem [ref=e109]:
+              - generic [ref=e113]: "شماره همراه : 09121119731"
+          - link "کاتالوگ محصولات فاراب" [ref=e121] [cursor=pointer]:
+            - /url: https://farabkhakpour.ir/wp-content/uploads/2024/09/GENERAL-VALVES.pdf
+        - generic [ref=e130]:
+          - region "کاروسل" [ref=e131]:
+            - generic [ref=e132]:
+              - group [ref=e133]
+              - group "1 / 4" [ref=e138]:
+                - link [ref=e142] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/wp-content/uploads/2024/09/GENERAL-VALVES.pdf
+                  - img "کاتالوگ شیرآلات صنعتی فاراب در سایت فاراب خاکپور نماینده رسمی شرکت فاراب" [ref=e143]
+              - group [ref=e144]
+              - group [ref=e149]
+              - group [ref=e154]
+              - group [ref=e159]:
+                - link [ref=e163] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/wp-content/uploads/2024/09/GENERAL-VALVES.pdf
+          - button "اسلاید بعدی" [ref=e165] [cursor=pointer]
+          - button "اسلاید قبلی" [ref=e168] [cursor=pointer]
+          - generic [ref=e171]:
+            - button "رفتن به اسلاید 1" [ref=e172] [cursor=pointer]
+            - button "رفتن به اسلاید 2" [ref=e173] [cursor=pointer]
+            - button "رفتن به اسلاید 3" [ref=e174] [cursor=pointer]
+            - button "رفتن به اسلاید 4" [ref=e175] [cursor=pointer]
+      - generic [ref=e176]:
+        - heading "نمایندگی شیرآلات فاراب ( خاکپور‌‎ )" [level=2] [ref=e181]
+        - paragraph [ref=e183]:
+          - text: ارائه دهنده کالا و خدمات پس از فروش
+          - strong [ref=e184]: شیرآلات فاراب
+          - text: ،
+          - strong [ref=e185]: لرزه گیر ارتعاشات صنعتی ایران
+          - text: و
+          - strong [ref=e186]: شیرآلات سیم ایتالیا
+        - region "اسلایدها" [ref=e188]:
+          - generic [ref=e189]:
+            - group "3 / 6" [ref=e190]:
+              - link [ref=e191] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/%D8%A8%D8%B1%D9%86%D8%AF/iran-industrial-vibration/
+                - img "لرزه گیر ارتعاشات صنعتی ایران در فروشگاه تهران کالا خاکپور" [ref=e192]
+            - group "4 / 6" [ref=e193]:
+              - link [ref=e194] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/
+                - img "شیرآلات فاراب در فروشگاه تهران کالا - خاکپور" [ref=e195]
+            - group "5 / 6" [ref=e196]:
+              - link [ref=e197] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/%D8%A8%D8%B1%D9%86%D8%AF/kizziran/
+                - img "شیرآلات کیز ایران" [ref=e198]
+            - group "6 / 6" [ref=e199]:
+              - img "شیرآلات پارس کیس ( کیسان )" [ref=e200]
+            - group "1 / 6" [ref=e201]:
+              - link [ref=e202] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/%D8%A8%D8%B1%D9%86%D8%AF/cim-italy/
+                - img "شیر فلکه سیم ایتالیا در فروشگاه فاراب خاکپور" [ref=e203]
+            - group "2 / 6" [ref=e204]:
+              - link [ref=e205] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir
+                - img "لوگوی تهران کالا برای نمایندگی فاراب" [ref=e206]
+            - group "3 / 6" [ref=e207]:
+              - link [ref=e208] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/%D8%A8%D8%B1%D9%86%D8%AF/iran-industrial-vibration/
+                - img "لرزه گیر ارتعاشات صنعتی ایران در فروشگاه تهران کالا خاکپور" [ref=e209]
+            - group "4 / 6" [ref=e210]:
+              - link [ref=e211] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/
+                - img "شیرآلات فاراب در فروشگاه تهران کالا - خاکپور" [ref=e212]
+            - group "5 / 6" [ref=e213]:
+              - link [ref=e214] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/%D8%A8%D8%B1%D9%86%D8%AF/kizziran/
+                - img "شیرآلات کیز ایران" [ref=e215]
+            - group "6 / 6" [ref=e216]:
+              - img "شیرآلات پارس کیس ( کیسان )" [ref=e217]
+            - group "1 / 6" [ref=e218]:
+              - link [ref=e219] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/%D8%A8%D8%B1%D9%86%D8%AF/cim-italy/
+                - img "شیر فلکه سیم ایتالیا در فروشگاه فاراب خاکپور" [ref=e220]
+            - group "2 / 6" [ref=e221]:
+              - link [ref=e222] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir
+                - img "لوگوی تهران کالا برای نمایندگی فاراب" [ref=e223]
+            - group "3 / 6" [ref=e224]:
+              - link [ref=e225] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/%D8%A8%D8%B1%D9%86%D8%AF/iran-industrial-vibration/
+                - img "لرزه گیر ارتعاشات صنعتی ایران در فروشگاه تهران کالا خاکپور" [ref=e226]
+            - group "4 / 6" [ref=e227]:
+              - link [ref=e228] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/
+                - img "شیرآلات فاراب در فروشگاه تهران کالا - خاکپور" [ref=e229]
+      - generic [ref=e230]:
+        - generic [ref=e231]:
+          - heading "لیست قیمت شیرآلات چدنی فاراب" [level=2] [ref=e233]
+          - paragraph [ref=e235]: فاراب خاکپور به عنوان مرکز تخصصی فروش و تامین شیرآلات صنعتی فاراب، انواع شیر فلکه فاراب، شیر کشویی، شیر پروانه‌ای، شیر یکطرفه و سایر محصولات شرکت فاراب را با تضمین اصالت کالا ارائه می‌کند.
+          - link "دریافت لیست قیمت شیرآلات فاراب" [ref=e243] [cursor=pointer]:
+            - /url: tel:+989121119731
+        - img "نمایندگی فروش شیرآلات فاراب و شیرآلات شرکت فاراب" [ref=e253]
+      - generic [ref=e255]:
+        - generic [ref=e256]:
+          - generic [ref=e263]:
+            - heading "نمایندگی فروش انواع شیرآلات فاراب" [level=3] [ref=e264]
+            - paragraph [ref=e265]: انواع شیرآلات چدنی برای استفاده صنعتی
+          - generic [ref=e267]:
+            - link "مشاهده محصولات فاراب" [ref=e269] [cursor=pointer]:
+              - /url: https://farabkhakpour.ir/product-category/farab-valves/
+            - link "مشاهده محصولات فاراب" [ref=e274] [cursor=pointer]:
+              - /url: https://farabkhakpour.ir/product-category/farab-valves/
+        - generic [ref=e279]:
+          - generic [ref=e281]:
+            - generic [ref=e285]:
+              - link [ref=e287] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-4-inch/
+              - paragraph [ref=e290]: شیر سوپاپی فاراب 4 اینچ
+              - link [ref=e1007] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-4-inch/
+                - generic [ref=e1008]: لیست قیمت
+              - generic:
+                - generic:
+                  - paragraph: استعلام قیمت و ثبت سفارش
+                - generic:
+                  - list:
+                    - listitem:
+                      - link:
+                        - /url: tel:+982133945015
+                        - generic: 021-33945015
+                    - listitem:
+                      - link:
+                        - /url: https://wa.me/+989121119731
+                        - generic: 0912-1119731
+            - generic [ref=e295]:
+              - link [ref=e297] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-3-inch/
+              - paragraph [ref=e300]: شیر سوپاپی فاراب 3 اینچ
+              - link [ref=e1010] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-3-inch/
+                - generic [ref=e1011]: لیست قیمت
+              - generic:
+                - generic:
+                  - paragraph: استعلام قیمت و ثبت سفارش
+                - generic:
+                  - list:
+                    - listitem:
+                      - link:
+                        - /url: tel:+982133945015
+                        - generic: 021-33945015
+                    - listitem:
+                      - link:
+                        - /url: https://wa.me/+989121119731
+                        - generic: 0912-1119731
+            - generic [ref=e305]:
+              - link [ref=e307] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-2-5-inch/
+              - paragraph [ref=e310]: شیر سوپاپی فاراب 2 1/2 اینچ
+              - link [ref=e1013] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-2-5-inch/
+                - generic [ref=e1014]: لیست قیمت
+              - generic:
+                - generic:
+                  - paragraph: استعلام قیمت و ثبت سفارش
+                - generic:
+                  - list:
+                    - listitem:
+                      - link:
+                        - /url: tel:+982133945015
+                        - generic: 021-33945015
+                    - listitem:
+                      - link:
+                        - /url: https://wa.me/+989121119731
+                        - generic: 0912-1119731
+            - generic [ref=e315]:
+              - link [ref=e317] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-2-inch/
+              - paragraph [ref=e320]: شیر سوپاپی فاراب 2 اینچ
+              - link [ref=e1016] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-2-inch/
+                - generic [ref=e1017]: لیست قیمت
+              - generic:
+                - generic:
+                  - paragraph: استعلام قیمت و ثبت سفارش
+                - generic:
+                  - list:
+                    - listitem:
+                      - link:
+                        - /url: tel:+982133945015
+                        - generic: 021-33945015
+                    - listitem:
+                      - link:
+                        - /url: https://wa.me/+989121119731
+                        - generic: 0912-1119731
+            - tabpanel [ref=e322]:
+              - generic [ref=e325]:
+                - link [ref=e327] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-10-inch/
+                  - img "قیمت شیر سوپاپی فاراب 10 اینچ" [ref=e328]
+                - paragraph [ref=e330]: شیر سوپاپی فاراب 10 اینچ
+                - link "لیست قیمت" [ref=e1019] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-10-inch/
+                - generic:
+                  - generic:
+                    - paragraph: استعلام قیمت و ثبت سفارش
+                  - generic:
+                    - list:
+                      - listitem:
+                        - link "021-33945015":
+                          - /url: tel:+982133945015
+                      - listitem:
+                        - link "0912-1119731":
+                          - /url: https://wa.me/+989121119731
+            - tabpanel [ref=e332]:
+              - generic [ref=e335]:
+                - link [ref=e337] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-8-inch/
+                  - img "قیمت شیر سوپاپی فاراب 8 اینچ" [ref=e338]
+                - paragraph [ref=e340]: شیر سوپاپی فاراب 8 اینچ
+                - link "لیست قیمت" [ref=e1022] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-8-inch/
+                - generic:
+                  - generic:
+                    - paragraph: استعلام قیمت و ثبت سفارش
+                  - generic:
+                    - list:
+                      - listitem:
+                        - link "021-33945015":
+                          - /url: tel:+982133945015
+                      - listitem:
+                        - link "0912-1119731":
+                          - /url: https://wa.me/+989121119731
+            - tabpanel [ref=e342]:
+              - generic [ref=e345]:
+                - link [ref=e347] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-6-inch/
+                  - img "قیمت شیر سوپاپی فاراب 6 اینچ" [ref=e348]
+                - paragraph [ref=e350]: شیر سوپاپی فاراب 6 اینچ
+                - link "لیست قیمت" [ref=e1025] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-6-inch/
+                - generic:
+                  - generic:
+                    - paragraph: استعلام قیمت و ثبت سفارش
+                  - generic:
+                    - list:
+                      - listitem:
+                        - link "021-33945015":
+                          - /url: tel:+982133945015
+                      - listitem:
+                        - link "0912-1119731":
+                          - /url: https://wa.me/+989121119731
+            - tabpanel [ref=e352]:
+              - generic [ref=e355]:
+                - link [ref=e357] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-5-inch/
+                  - img "قیمت شیر سوپاپی فاراب 5 اینچ" [ref=e358]
+                - paragraph [ref=e360]: شیر سوپاپی فاراب 5 اینچ
+                - link "لیست قیمت" [ref=e1028] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-5-inch/
+                - generic:
+                  - generic:
+                    - paragraph: استعلام قیمت و ثبت سفارش
+                  - generic:
+                    - list:
+                      - listitem:
+                        - link "021-33945015":
+                          - /url: tel:+982133945015
+                      - listitem:
+                        - link "0912-1119731":
+                          - /url: https://wa.me/+989121119731
+            - tabpanel [ref=e362]:
+              - generic [ref=e365]:
+                - link [ref=e367] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-4-inch/
+                - paragraph [ref=e370]: شیر سوپاپی فاراب 4 اینچ
+                - link [ref=e1031] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-4-inch/
+                  - generic [ref=e1032]: لیست قیمت
+                - generic:
+                  - generic:
+                    - paragraph: استعلام قیمت و ثبت سفارش
+                  - generic:
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: tel:+982133945015
+                          - generic: 021-33945015
+                      - listitem:
+                        - link:
+                          - /url: https://wa.me/+989121119731
+                          - generic: 0912-1119731
+            - tabpanel [ref=e372]:
+              - generic [ref=e375]:
+                - link [ref=e377] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-3-inch/
+                - paragraph [ref=e380]: شیر سوپاپی فاراب 3 اینچ
+                - link [ref=e1034] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-3-inch/
+                  - generic [ref=e1035]: لیست قیمت
+                - generic:
+                  - generic:
+                    - paragraph: استعلام قیمت و ثبت سفارش
+                  - generic:
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: tel:+982133945015
+                          - generic: 021-33945015
+                      - listitem:
+                        - link:
+                          - /url: https://wa.me/+989121119731
+                          - generic: 0912-1119731
+            - tabpanel [ref=e382]:
+              - generic [ref=e385]:
+                - link [ref=e387] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-2-5-inch/
+                - paragraph [ref=e390]: شیر سوپاپی فاراب 2 1/2 اینچ
+                - link [ref=e1037] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-2-5-inch/
+                  - generic [ref=e1038]: لیست قیمت
+                - generic:
+                  - generic:
+                    - paragraph: استعلام قیمت و ثبت سفارش
+                  - generic:
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: tel:+982133945015
+                          - generic: 021-33945015
+                      - listitem:
+                        - link:
+                          - /url: https://wa.me/+989121119731
+                          - generic: 0912-1119731
+            - tabpanel [ref=e392]:
+              - generic [ref=e395]:
+                - link [ref=e397] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-2-inch/
+                - paragraph [ref=e400]: شیر سوپاپی فاراب 2 اینچ
+                - link [ref=e1040] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-2-inch/
+                  - generic [ref=e1041]: لیست قیمت
+                - generic:
+                  - generic:
+                    - paragraph: استعلام قیمت و ثبت سفارش
+                  - generic:
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: tel:+982133945015
+                          - generic: 021-33945015
+                      - listitem:
+                        - link:
+                          - /url: https://wa.me/+989121119731
+                          - generic: 0912-1119731
+            - generic [ref=e405]:
+              - link [ref=e407] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-10-inch/
+              - paragraph [ref=e410]: شیر سوپاپی فاراب 10 اینچ
+              - link [ref=e1043] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-10-inch/
+                - generic [ref=e1044]: لیست قیمت
+              - generic:
+                - generic:
+                  - paragraph: استعلام قیمت و ثبت سفارش
+                - generic:
+                  - list:
+                    - listitem:
+                      - link:
+                        - /url: tel:+982133945015
+                        - generic: 021-33945015
+                    - listitem:
+                      - link:
+                        - /url: https://wa.me/+989121119731
+                        - generic: 0912-1119731
+            - generic [ref=e415]:
+              - link [ref=e417] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-8-inch/
+              - paragraph [ref=e420]: شیر سوپاپی فاراب 8 اینچ
+              - link [ref=e1046] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-8-inch/
+                - generic [ref=e1047]: لیست قیمت
+              - generic:
+                - generic:
+                  - paragraph: استعلام قیمت و ثبت سفارش
+                - generic:
+                  - list:
+                    - listitem:
+                      - link:
+                        - /url: tel:+982133945015
+                        - generic: 021-33945015
+                    - listitem:
+                      - link:
+                        - /url: https://wa.me/+989121119731
+                        - generic: 0912-1119731
+            - generic [ref=e425]:
+              - link [ref=e427] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-6-inch/
+              - paragraph [ref=e430]: شیر سوپاپی فاراب 6 اینچ
+              - link [ref=e1049] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-6-inch/
+                - generic [ref=e1050]: لیست قیمت
+              - generic:
+                - generic:
+                  - paragraph: استعلام قیمت و ثبت سفارش
+                - generic:
+                  - list:
+                    - listitem:
+                      - link:
+                        - /url: tel:+982133945015
+                        - generic: 021-33945015
+                    - listitem:
+                      - link:
+                        - /url: https://wa.me/+989121119731
+                        - generic: 0912-1119731
+            - generic [ref=e435]:
+              - link [ref=e437] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-5-inch/
+              - paragraph [ref=e440]: شیر سوپاپی فاراب 5 اینچ
+              - link [ref=e1052] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-5-inch/
+                - generic [ref=e1053]: لیست قیمت
+              - generic:
+                - generic:
+                  - paragraph: استعلام قیمت و ثبت سفارش
+                - generic:
+                  - list:
+                    - listitem:
+                      - link:
+                        - /url: tel:+982133945015
+                        - generic: 021-33945015
+                    - listitem:
+                      - link:
+                        - /url: https://wa.me/+989121119731
+                        - generic: 0912-1119731
+            - generic [ref=e445]:
+              - link [ref=e447] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-4-inch/
+              - paragraph [ref=e450]: شیر سوپاپی فاراب 4 اینچ
+              - link [ref=e1055] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-4-inch/
+                - generic [ref=e1056]: لیست قیمت
+              - generic:
+                - generic:
+                  - paragraph: استعلام قیمت و ثبت سفارش
+                - generic:
+                  - list:
+                    - listitem:
+                      - link:
+                        - /url: tel:+982133945015
+                        - generic: 021-33945015
+                    - listitem:
+                      - link:
+                        - /url: https://wa.me/+989121119731
+                        - generic: 0912-1119731
+            - generic [ref=e455]:
+              - link [ref=e457] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-3-inch/
+              - paragraph [ref=e460]: شیر سوپاپی فاراب 3 اینچ
+              - link [ref=e1058] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-3-inch/
+                - generic [ref=e1059]: لیست قیمت
+              - generic:
+                - generic:
+                  - paragraph: استعلام قیمت و ثبت سفارش
+                - generic:
+                  - list:
+                    - listitem:
+                      - link:
+                        - /url: tel:+982133945015
+                        - generic: 021-33945015
+                    - listitem:
+                      - link:
+                        - /url: https://wa.me/+989121119731
+                        - generic: 0912-1119731
+            - generic [ref=e465]:
+              - link [ref=e467] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-2-5-inch/
+              - paragraph [ref=e470]: شیر سوپاپی فاراب 2 1/2 اینچ
+              - link [ref=e1061] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-2-5-inch/
+                - generic [ref=e1062]: لیست قیمت
+              - generic:
+                - generic:
+                  - paragraph: استعلام قیمت و ثبت سفارش
+                - generic:
+                  - list:
+                    - listitem:
+                      - link:
+                        - /url: tel:+982133945015
+                        - generic: 021-33945015
+                    - listitem:
+                      - link:
+                        - /url: https://wa.me/+989121119731
+                        - generic: 0912-1119731
+            - generic [ref=e475]:
+              - link [ref=e477] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-2-inch/
+              - paragraph [ref=e480]: شیر سوپاپی فاراب 2 اینچ
+              - link [ref=e1064] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/farab-globe-valve-f1-2-inch/
+                - generic [ref=e1065]: لیست قیمت
+              - generic:
+                - generic:
+                  - paragraph: استعلام قیمت و ثبت سفارش
+                - generic:
+                  - list:
+                    - listitem:
+                      - link:
+                        - /url: tel:+982133945015
+                        - generic: 021-33945015
+                    - listitem:
+                      - link:
+                        - /url: https://wa.me/+989121119731
+                        - generic: 0912-1119731
+          - tablist [ref=e482]:
+            - tab "1" [ref=e483] [cursor=pointer]
+            - tab "2" [ref=e484] [cursor=pointer]
+            - tab "3" [ref=e485] [cursor=pointer]
+            - tab "4" [ref=e486] [cursor=pointer]
+      - generic [ref=e488]:
+        - generic [ref=e489]:
+          - link "فروش انواع اتصالات و ملزومات شیر های صنعتی فاراب":
+            - /url: https://farabkhakpour.ir/shop/
+            - img "فروش انواع اتصالات و ملزومات شیر های صنعتی فاراب"
+        - generic [ref=e490]:
+          - link "فروش انواع شیرآلات برنجی فاراب":
+            - /url: https://farabkhakpour.ir/product-category/cim-italy-valves/
+            - img "فروش انواع شیرآلات برنجی فاراب"
+        - generic [ref=e491]:
+          - link "نمایندگی فروش شیرآلات صنعتی فاراب":
+            - /url: https://farabkhakpour.ir/product-category/farab-valves/
+            - img "نمایندگی فروش شیرآلات صنعتی فاراب"
+      - img "تهران کالا ، نماینده رسمی شیرآلات فاراب" [ref=e494]
+      - generic [ref=e496]:
+        - generic [ref=e497]:
+          - generic [ref=e583]:
+            - generic [ref=e584]: نمایندگی فروش انواع لرزه گیر ارتعاشات صنعتی ایران
+            - paragraph [ref=e585]: توانایی جذب و کاهش لرزش‌ها و نویزهای ایجاد شده توسط دستگاه‌ها و ماشین‌آلات صنعتی
+          - generic [ref=e587]:
+            - link "مشاهده بیشتر" [ref=e589] [cursor=pointer]:
+              - /url: https://farabkhakpour.ir/product-category/industrial-vibration-dampers-iran/
+            - link "مشاهده بیشتر" [ref=e594] [cursor=pointer]:
+              - /url: https://farabkhakpour.ir/product-category/industrial-vibration-dampers-iran/
+        - img "خط ممتد لوله در سایت فاراب خاکپور" [ref=e596]
+        - generic [ref=e601]:
+          - generic [ref=e603]:
+            - generic [ref=e607]:
+              - link [ref=e609] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/asa-rubber-expansion-joint/
+              - paragraph [ref=e612]: لرزه‌ گیر لاستیکی آصا سایز پایین
+              - link [ref=e1067] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/asa-rubber-expansion-joint/
+                - generic [ref=e1068]: لیست قیمت
+              - generic:
+                - generic:
+                  - paragraph: استعلام قیمت و ثبت سفارش
+                - generic:
+                  - list:
+                    - listitem:
+                      - link:
+                        - /url: tel:+982133945015
+                        - generic: 021-33945015
+                    - listitem:
+                      - link:
+                        - /url: https://wa.me/+989121119731
+                        - generic: 0912-1119731
+            - generic [ref=e617]:
+              - link [ref=e619] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/bladder-plus-rubber-expansion-joint/
+              - paragraph [ref=e622]: لرزه‌ گیر لاستیکی بلادری پلاس
+              - link [ref=e1070] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/bladder-plus-rubber-expansion-joint/
+                - generic [ref=e1071]: لیست قیمت
+              - generic:
+                - generic:
+                  - paragraph: استعلام قیمت و ثبت سفارش
+                - generic:
+                  - list:
+                    - listitem:
+                      - link:
+                        - /url: tel:+982133945015
+                        - generic: 021-33945015
+                    - listitem:
+                      - link:
+                        - /url: https://wa.me/+989121119731
+                        - generic: 0912-1119731
+            - generic [ref=e627]:
+              - link [ref=e629] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/twin-rubber-expansion-joint-with-control-rods/
+              - paragraph [ref=e632]: لرزه‌ گیر لاستیکی مهار دوقلو
+              - link [ref=e1073] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/twin-rubber-expansion-joint-with-control-rods/
+                - generic [ref=e1074]: لیست قیمت
+              - generic:
+                - generic:
+                  - paragraph: استعلام قیمت و ثبت سفارش
+                - generic:
+                  - list:
+                    - listitem:
+                      - link:
+                        - /url: tel:+982133945015
+                        - generic: 021-33945015
+                    - listitem:
+                      - link:
+                        - /url: https://wa.me/+989121119731
+                        - generic: 0912-1119731
+            - generic [ref=e637]:
+              - link [ref=e639] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/all-purpose-rubber-expansion-joint-iivco/
+              - paragraph [ref=e642]: لرزه‌ گیر لاستیکی همه کاره
+              - link [ref=e1076] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/all-purpose-rubber-expansion-joint-iivco/
+                - generic [ref=e1077]: لیست قیمت
+              - generic:
+                - generic:
+                  - paragraph: استعلام قیمت و ثبت سفارش
+                - generic:
+                  - list:
+                    - listitem:
+                      - link:
+                        - /url: tel:+982133945015
+                        - generic: 021-33945015
+                    - listitem:
+                      - link:
+                        - /url: https://wa.me/+989121119731
+                        - generic: 0912-1119731
+            - tabpanel [ref=e644]:
+              - generic [ref=e647]:
+                - link [ref=e649] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/bl-72-rubber-expansion-joint/
+                  - img "لرزه‌گیر لاستیکی ۷۲-BL" [ref=e650]
+                - paragraph [ref=e652]: لرزه‌ گیر لاستیکی ۷۲-BL
+                - link "لیست قیمت" [ref=e1079] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/bl-72-rubber-expansion-joint/
+                - generic:
+                  - generic:
+                    - paragraph: استعلام قیمت و ثبت سفارش
+                  - generic:
+                    - list:
+                      - listitem:
+                        - link "021-33945015":
+                          - /url: tel:+982133945015
+                      - listitem:
+                        - link "0912-1119731":
+                          - /url: https://wa.me/+989121119731
+            - tabpanel [ref=e654]:
+              - generic [ref=e657]:
+                - link [ref=e659] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/asa-rubber-expansion-joint/
+                  - img "لرزه‌ گیر لاستیکی آصا" [ref=e660]
+                - paragraph [ref=e662]: لرزه‌ گیر لاستیکی آصا سایز پایین
+                - link "لیست قیمت" [ref=e1082] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/asa-rubber-expansion-joint/
+                - generic:
+                  - generic:
+                    - paragraph: استعلام قیمت و ثبت سفارش
+                  - generic:
+                    - list:
+                      - listitem:
+                        - link "021-33945015":
+                          - /url: tel:+982133945015
+                      - listitem:
+                        - link "0912-1119731":
+                          - /url: https://wa.me/+989121119731
+            - tabpanel [ref=e664]:
+              - generic [ref=e667]:
+                - link [ref=e669] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/bladder-plus-rubber-expansion-joint/
+                  - img "لرزه‌گیر لاستیکی بلادری پلاس" [ref=e670]
+                - paragraph [ref=e672]: لرزه‌ گیر لاستیکی بلادری پلاس
+                - link "لیست قیمت" [ref=e1085] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/bladder-plus-rubber-expansion-joint/
+                - generic:
+                  - generic:
+                    - paragraph: استعلام قیمت و ثبت سفارش
+                  - generic:
+                    - list:
+                      - listitem:
+                        - link "021-33945015":
+                          - /url: tel:+982133945015
+                      - listitem:
+                        - link "0912-1119731":
+                          - /url: https://wa.me/+989121119731
+            - tabpanel [ref=e674]:
+              - generic [ref=e677]:
+                - link [ref=e679] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/twin-rubber-expansion-joint-with-control-rods/
+                  - img "لرزه گیر لاستیکی مهار دوقلو" [ref=e680]
+                - paragraph [ref=e682]: لرزه‌ گیر لاستیکی مهار دوقلو
+                - link "لیست قیمت" [ref=e1088] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/twin-rubber-expansion-joint-with-control-rods/
+                - generic:
+                  - generic:
+                    - paragraph: استعلام قیمت و ثبت سفارش
+                  - generic:
+                    - list:
+                      - listitem:
+                        - link "021-33945015":
+                          - /url: tel:+982133945015
+                      - listitem:
+                        - link "0912-1119731":
+                          - /url: https://wa.me/+989121119731
+            - tabpanel [ref=e684]:
+              - generic [ref=e687]:
+                - link [ref=e689] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/all-purpose-rubber-expansion-joint-iivco/
+                - paragraph [ref=e692]: لرزه‌ گیر لاستیکی همه کاره
+                - link [ref=e1091] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/all-purpose-rubber-expansion-joint-iivco/
+                  - generic [ref=e1092]: لیست قیمت
+                - generic:
+                  - generic:
+                    - paragraph: استعلام قیمت و ثبت سفارش
+                  - generic:
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: tel:+982133945015
+                          - generic: 021-33945015
+                      - listitem:
+                        - link:
+                          - /url: https://wa.me/+989121119731
+                          - generic: 0912-1119731
+            - generic [ref=e697]:
+              - link [ref=e699] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/bl-72-rubber-expansion-joint/
+              - paragraph [ref=e702]: لرزه‌ گیر لاستیکی ۷۲-BL
+              - link [ref=e1094] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/bl-72-rubber-expansion-joint/
+                - generic [ref=e1095]: لیست قیمت
+              - generic:
+                - generic:
+                  - paragraph: استعلام قیمت و ثبت سفارش
+                - generic:
+                  - list:
+                    - listitem:
+                      - link:
+                        - /url: tel:+982133945015
+                        - generic: 021-33945015
+                    - listitem:
+                      - link:
+                        - /url: https://wa.me/+989121119731
+                        - generic: 0912-1119731
+            - generic [ref=e707]:
+              - link [ref=e709] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/asa-rubber-expansion-joint/
+              - paragraph [ref=e712]: لرزه‌ گیر لاستیکی آصا سایز پایین
+              - link [ref=e1097] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/asa-rubber-expansion-joint/
+                - generic [ref=e1098]: لیست قیمت
+              - generic:
+                - generic:
+                  - paragraph: استعلام قیمت و ثبت سفارش
+                - generic:
+                  - list:
+                    - listitem:
+                      - link:
+                        - /url: tel:+982133945015
+                        - generic: 021-33945015
+                    - listitem:
+                      - link:
+                        - /url: https://wa.me/+989121119731
+                        - generic: 0912-1119731
+            - generic [ref=e717]:
+              - link [ref=e719] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/bladder-plus-rubber-expansion-joint/
+              - paragraph [ref=e722]: لرزه‌ گیر لاستیکی بلادری پلاس
+              - link [ref=e1100] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/bladder-plus-rubber-expansion-joint/
+                - generic [ref=e1101]: لیست قیمت
+              - generic:
+                - generic:
+                  - paragraph: استعلام قیمت و ثبت سفارش
+                - generic:
+                  - list:
+                    - listitem:
+                      - link:
+                        - /url: tel:+982133945015
+                        - generic: 021-33945015
+                    - listitem:
+                      - link:
+                        - /url: https://wa.me/+989121119731
+                        - generic: 0912-1119731
+            - generic [ref=e727]:
+              - link [ref=e729] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/twin-rubber-expansion-joint-with-control-rods/
+              - paragraph [ref=e732]: لرزه‌ گیر لاستیکی مهار دوقلو
+              - link [ref=e1103] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/twin-rubber-expansion-joint-with-control-rods/
+                - generic [ref=e1104]: لیست قیمت
+              - generic:
+                - generic:
+                  - paragraph: استعلام قیمت و ثبت سفارش
+                - generic:
+                  - list:
+                    - listitem:
+                      - link:
+                        - /url: tel:+982133945015
+                        - generic: 021-33945015
+                    - listitem:
+                      - link:
+                        - /url: https://wa.me/+989121119731
+                        - generic: 0912-1119731
+            - generic [ref=e737]:
+              - link [ref=e739] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/all-purpose-rubber-expansion-joint-iivco/
+              - paragraph [ref=e742]: لرزه‌ گیر لاستیکی همه کاره
+              - link [ref=e1106] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/all-purpose-rubber-expansion-joint-iivco/
+                - generic [ref=e1107]: لیست قیمت
+              - generic:
+                - generic:
+                  - paragraph: استعلام قیمت و ثبت سفارش
+                - generic:
+                  - list:
+                    - listitem:
+                      - link:
+                        - /url: tel:+982133945015
+                        - generic: 021-33945015
+                    - listitem:
+                      - link:
+                        - /url: https://wa.me/+989121119731
+                        - generic: 0912-1119731
+          - tablist [ref=e744]:
+            - tab "1" [ref=e745] [cursor=pointer]
+            - tab "2" [ref=e746] [cursor=pointer]
+            - tab "3" [ref=e747] [cursor=pointer]
+      - generic [ref=e749]:
+        - generic [ref=e750]:
+          - img "شیر فلکه کشویی برنجی سیم ایتالیا" [ref=e752]
+          - generic [ref=e753]:
+            - heading "فروش انواع شیرآلات گازی آذران" [level=3] [ref=e755]
+            - link "مشاهده محصولات" [ref=e757] [cursor=pointer]:
+              - /url: https://farabkhakpour.ir/shop/
+        - generic [ref=e760]:
+          - img "انواع فلنج های دو رو تراش" [ref=e762]
+          - generic [ref=e763]:
+            - heading "فروش انواع فلنج دو رو تراش" [level=3] [ref=e765]
+            - link "مشاهده محصولات" [ref=e767] [cursor=pointer]:
+              - /url: https://farabkhakpour.ir/shop/
+      - generic [ref=e771]:
+        - generic [ref=e772]:
+          - generic [ref=e779]:
+            - generic [ref=e780]: پخش عمده شیرآلات برنجی
+            - paragraph [ref=e781]: نمایندگی فروش شیرآلات کیز ایران و کیسان و پخش عمده شیرآلات سیم ایتالیا
+          - generic [ref=e783]:
+            - link "مشاهده بیشتر" [ref=e785] [cursor=pointer]:
+              - /url: https://farabkhakpour.ir/product-category/cim-italy-valves/
+            - link "مشاهده بیشتر" [ref=e790] [cursor=pointer]:
+              - /url: https://farabkhakpour.ir/product-category/cim-italy-valves/
+        - generic [ref=e795]:
+          - generic [ref=e797]:
+            - generic [ref=e801]:
+              - link [ref=e803] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/kizziran-inline-check-foot-valve/
+              - paragraph [ref=e806]: شیر سوپاپی کیز ایران
+              - link [ref=e1109] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/kizziran-inline-check-foot-valve/
+                - generic [ref=e1110]: لیست قیمت
+              - generic:
+                - generic:
+                  - paragraph: استعلام قیمت و ثبت سفارش
+                - generic:
+                  - list:
+                    - listitem:
+                      - link:
+                        - /url: tel:+982133945015
+                        - generic: 021-33945015
+                    - listitem:
+                      - link:
+                        - /url: https://wa.me/+989121119731
+                        - generic: 0912-1119731
+            - generic [ref=e811]:
+              - link [ref=e813] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/kizziran-spring-check-valve/
+              - paragraph [ref=e816]: شیر یکطرفه فنری کیز ایران
+              - link [ref=e1112] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/kizziran-spring-check-valve/
+                - generic [ref=e1113]: لیست قیمت
+              - generic:
+                - generic:
+                  - paragraph: استعلام قیمت و ثبت سفارش
+                - generic:
+                  - list:
+                    - listitem:
+                      - link:
+                        - /url: tel:+982133945015
+                        - generic: 021-33945015
+                    - listitem:
+                      - link:
+                        - /url: https://wa.me/+989121119731
+                        - generic: 0912-1119731
+            - generic [ref=e821]:
+              - link [ref=e823] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/brass-swing-check-valve-kizziran/
+              - paragraph [ref=e826]: شیر یکطرفه دریچه ای کیز ایران
+              - link [ref=e1115] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/brass-swing-check-valve-kizziran/
+                - generic [ref=e1116]: لیست قیمت
+              - generic:
+                - generic:
+                  - paragraph: استعلام قیمت و ثبت سفارش
+                - generic:
+                  - list:
+                    - listitem:
+                      - link:
+                        - /url: tel:+982133945015
+                        - generic: 021-33945015
+                    - listitem:
+                      - link:
+                        - /url: https://wa.me/+989121119731
+                        - generic: 0912-1119731
+            - generic [ref=e831]:
+              - link [ref=e833] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/kizziran-gate-valve/
+              - paragraph [ref=e836]: شیر کشویی برنجی کیز ایران
+              - link [ref=e1118] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/kizziran-gate-valve/
+                - generic [ref=e1119]: لیست قیمت
+              - generic:
+                - generic:
+                  - paragraph: استعلام قیمت و ثبت سفارش
+                - generic:
+                  - list:
+                    - listitem:
+                      - link:
+                        - /url: tel:+982133945015
+                        - generic: 021-33945015
+                    - listitem:
+                      - link:
+                        - /url: https://wa.me/+989121119731
+                        - generic: 0912-1119731
+            - tabpanel [ref=e838]:
+              - generic [ref=e841]:
+                - link [ref=e843] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/kizziran-ball-valves/
+                  - img "قیمت شیر توپی کیز ایران" [ref=e844]
+                - paragraph [ref=e846]: شیر توپی کیز ایران
+                - link "لیست قیمت" [ref=e1121] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/kizziran-ball-valves/
+                - generic:
+                  - generic:
+                    - paragraph: استعلام قیمت و ثبت سفارش
+                  - generic:
+                    - list:
+                      - listitem:
+                        - link "021-33945015":
+                          - /url: tel:+982133945015
+                      - listitem:
+                        - link "0912-1119731":
+                          - /url: https://wa.me/+989121119731
+            - tabpanel [ref=e848]:
+              - generic [ref=e851]:
+                - link [ref=e853] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/kizziran-inline-check-foot-valve/
+                  - img "قیمت شیر سوپاپی کیز ایران" [ref=e854]
+                - paragraph [ref=e856]: شیر سوپاپی کیز ایران
+                - link "لیست قیمت" [ref=e1124] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/kizziran-inline-check-foot-valve/
+                - generic:
+                  - generic:
+                    - paragraph: استعلام قیمت و ثبت سفارش
+                  - generic:
+                    - list:
+                      - listitem:
+                        - link "021-33945015":
+                          - /url: tel:+982133945015
+                      - listitem:
+                        - link "0912-1119731":
+                          - /url: https://wa.me/+989121119731
+            - tabpanel [ref=e858]:
+              - generic [ref=e861]:
+                - link [ref=e863] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/kizziran-spring-check-valve/
+                  - img "قیمت شیر یکطرفه فنری کیز ایران" [ref=e864]
+                - paragraph [ref=e866]: شیر یکطرفه فنری کیز ایران
+                - link "لیست قیمت" [ref=e1127] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/kizziran-spring-check-valve/
+                - generic:
+                  - generic:
+                    - paragraph: استعلام قیمت و ثبت سفارش
+                  - generic:
+                    - list:
+                      - listitem:
+                        - link "021-33945015":
+                          - /url: tel:+982133945015
+                      - listitem:
+                        - link "0912-1119731":
+                          - /url: https://wa.me/+989121119731
+            - tabpanel [ref=e868]:
+              - generic [ref=e871]:
+                - link [ref=e873] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/brass-swing-check-valve-kizziran/
+                  - img "خرید شیر یکطرفه دریچه ای کیز ایران" [ref=e874]
+                - paragraph [ref=e876]: شیر یکطرفه دریچه ای کیز ایران
+                - link "لیست قیمت" [ref=e1130] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/brass-swing-check-valve-kizziran/
+                - generic:
+                  - generic:
+                    - paragraph: استعلام قیمت و ثبت سفارش
+                  - generic:
+                    - list:
+                      - listitem:
+                        - link "021-33945015":
+                          - /url: tel:+982133945015
+                      - listitem:
+                        - link "0912-1119731":
+                          - /url: https://wa.me/+989121119731
+            - tabpanel [ref=e878]:
+              - generic [ref=e881]:
+                - link [ref=e883] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/kizziran-gate-valve/
+                - paragraph [ref=e886]: شیر کشویی برنجی کیز ایران
+                - link [ref=e1133] [cursor=pointer]:
+                  - /url: https://farabkhakpour.ir/products/kizziran-gate-valve/
+                  - generic [ref=e1134]: لیست قیمت
+                - generic:
+                  - generic:
+                    - paragraph: استعلام قیمت و ثبت سفارش
+                  - generic:
+                    - list:
+                      - listitem:
+                        - link:
+                          - /url: tel:+982133945015
+                          - generic: 021-33945015
+                      - listitem:
+                        - link:
+                          - /url: https://wa.me/+989121119731
+                          - generic: 0912-1119731
+            - generic [ref=e891]:
+              - link [ref=e893] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/kizziran-ball-valves/
+              - paragraph [ref=e896]: شیر توپی کیز ایران
+              - link [ref=e1136] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/kizziran-ball-valves/
+                - generic [ref=e1137]: لیست قیمت
+              - generic:
+                - generic:
+                  - paragraph: استعلام قیمت و ثبت سفارش
+                - generic:
+                  - list:
+                    - listitem:
+                      - link:
+                        - /url: tel:+982133945015
+                        - generic: 021-33945015
+                    - listitem:
+                      - link:
+                        - /url: https://wa.me/+989121119731
+                        - generic: 0912-1119731
+            - generic [ref=e901]:
+              - link [ref=e903] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/kizziran-inline-check-foot-valve/
+              - paragraph [ref=e906]: شیر سوپاپی کیز ایران
+              - link [ref=e1139] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/kizziran-inline-check-foot-valve/
+                - generic [ref=e1140]: لیست قیمت
+              - generic:
+                - generic:
+                  - paragraph: استعلام قیمت و ثبت سفارش
+                - generic:
+                  - list:
+                    - listitem:
+                      - link:
+                        - /url: tel:+982133945015
+                        - generic: 021-33945015
+                    - listitem:
+                      - link:
+                        - /url: https://wa.me/+989121119731
+                        - generic: 0912-1119731
+            - generic [ref=e911]:
+              - link [ref=e913] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/kizziran-spring-check-valve/
+              - paragraph [ref=e916]: شیر یکطرفه فنری کیز ایران
+              - link [ref=e1142] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/kizziran-spring-check-valve/
+                - generic [ref=e1143]: لیست قیمت
+              - generic:
+                - generic:
+                  - paragraph: استعلام قیمت و ثبت سفارش
+                - generic:
+                  - list:
+                    - listitem:
+                      - link:
+                        - /url: tel:+982133945015
+                        - generic: 021-33945015
+                    - listitem:
+                      - link:
+                        - /url: https://wa.me/+989121119731
+                        - generic: 0912-1119731
+            - generic [ref=e921]:
+              - link [ref=e923] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/brass-swing-check-valve-kizziran/
+              - paragraph [ref=e926]: شیر یکطرفه دریچه ای کیز ایران
+              - link [ref=e1145] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/brass-swing-check-valve-kizziran/
+                - generic [ref=e1146]: لیست قیمت
+              - generic:
+                - generic:
+                  - paragraph: استعلام قیمت و ثبت سفارش
+                - generic:
+                  - list:
+                    - listitem:
+                      - link:
+                        - /url: tel:+982133945015
+                        - generic: 021-33945015
+                    - listitem:
+                      - link:
+                        - /url: https://wa.me/+989121119731
+                        - generic: 0912-1119731
+            - generic [ref=e931]:
+              - link [ref=e933] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/kizziran-gate-valve/
+              - paragraph [ref=e936]: شیر کشویی برنجی کیز ایران
+              - link [ref=e1148] [cursor=pointer]:
+                - /url: https://farabkhakpour.ir/products/kizziran-gate-valve/
+                - generic [ref=e1149]: لیست قیمت
+              - generic:
+                - generic:
+                  - paragraph: استعلام قیمت و ثبت سفارش
+                - generic:
+                  - list:
+                    - listitem:
+                      - link:
+                        - /url: tel:+982133945015
+                        - generic: 021-33945015
+                    - listitem:
+                      - link:
+                        - /url: https://wa.me/+989121119731
+                        - generic: 0912-1119731
+          - tablist [ref=e938]:
+            - tab "1" [ref=e939] [cursor=pointer]
+            - tab "2" [ref=e940] [cursor=pointer]
+            - tab "3" [ref=e941] [cursor=pointer]
+      - link [ref=e951] [cursor=pointer]:
+        - /url: tel:09121119731
+        - img "تماس با کارشناسان نمایندگی فاراب" [ref=e952]
+      - generic "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys" [ref=e956]:
+        - group [ref=e957]:
+          - heading "نحوه دریافت لیست قیمت فاراب به چه صورت است؟" [level=3] [ref=e960] [cursor=pointer]
+        - group [ref=e965]:
+          - heading "چگونه از اصالت و اصل بودن شیرآلات صنعتی فاراب مطمئن شویم؟" [level=3] [ref=e968] [cursor=pointer]
+        - group [ref=e973]:
+          - heading "شیرآلات فاراب در چه کلاس های فشاری (PN) تولید می‌شوند؟" [level=3] [ref=e976] [cursor=pointer]
+        - group [ref=e981]:
+          - heading "نحوه استعلام قیمت روز و دریافت پیش فاکتور برای پروژه ها به چه صورت است؟" [level=3] [ref=e984] [cursor=pointer]
+        - group [ref=e989]:
+          - heading "شرایط ارسال و تحویل سفارشات شیرآلات فاراب چگونه است؟" [level=3] [ref=e992] [cursor=pointer]
+  - contentinfo [ref=e997]:
+    - paragraph [ref=e1004]:
+      - text: © 1405 کلیه حقوق مادی و معنوی این وبسایت متعلق به فروشگاه فاراب خاکپور می باشد. طراحی و توسعه
+      - link "MBWD" [ref=e1005] [cursor=pointer]:
+        - /url: https://mbwd.ir/
+  - generic [ref=e1006]: desktop
+```

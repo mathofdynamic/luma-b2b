@@ -1,0 +1,16 @@
+### Page
+- Page URL: http://www.cedell.ir/cgi-sys/suspendedpage.cgi
+- Page Title: Account Suspended
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]: 
+    - text: Account Suspended
+  - generic [ref=e7]:
+    - generic [ref=e8]: This Account has been suspended.
+    - generic [ref=e9]:
+      - link "Contact your hosting provider" [ref=e10] [cursor=pointer]:
+        - /url: mailto:webmaster@cedell.ir
+      - text: for more information.
+```

@@ -1,0 +1,58 @@
+{
+  "company_id": "ir-teh-6c2ee0f92ecede72",
+  "errors": [],
+  "generated_at": "2026-09-01T08:17:09Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [
+    {
+      "bytes": 43696,
+      "captured_at": "2026-09-01T08:17:07Z",
+      "company_id": "ir-teh-6c2ee0f92ecede72",
+      "headless": true,
+      "page_title": "Account Suspended",
+      "path": "companies/ir-teh-6c2ee0f92ecede72/screenshots/homepage.png",
+      "reason_this_matters": "Public company homepage is the primary visual evidence surface.",
+      "screenshot_type": "homepage",
+      "source_url": "http://www.cedell.ir/cgi-sys/suspendedpage.cgi"
+    }
+  ],
+  "sources": [
+    {
+      "discovered_at": "2026-09-01T06:31:44Z",
+      "discovery_reason": "Book-e Avval category: فروش عمده مواد غذایی",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "شرکت صنایع غذایی سی دل فعّال در حوزه بازرگانی حبوبات ، خشکبار و برخی فراورده های مرتبط به صورت فلّه و بسته بندی با نام تجاری ثبت شده سی دل آمادگی ارائه هر نوع کالا در این",
+      "source_quality": "directory",
+      "source_title": "فروش عمده مواد غذایی در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D9%81%D8%B1%D9%88%D8%B4%20%D8%B9%D9%85%D8%AF%D9%87%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:31:44Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-8448ac6ce81cedce",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "شرکت صنایع غذایی سی دل فعّال در حوزه بازرگانی حبوبات ، خشکبار و برخی فراورده های مرتبط به صورت فلّه و بسته بندی با نام تجاری ثبت شده سی دل آمادگی ارائه هر نوع کالا در این",
+      "source_quality": "directory",
+      "source_title": "فروش عمده مواد غذایی در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D9%81%D8%B1%D9%88%D8%B4%20%D8%B9%D9%85%D8%AF%D9%87%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:53Z",
+      "claim": "Directory profile lists بازرگانی سی دل with a public Tehran business listing.",
+      "confidence": 0.82,
+      "evidence_id": "ev-4cc28a66aefbeb5e",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "بازرگانی سی دل - فروش عمده مواد غذایی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس بازرگانی سی دل 5.0 (1 نظر) فروش عمده مواد غذایی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل فروش عمده مواد غذایی تهران محله انبار نفت اطلاعات تماس آدرس : تهران، منطقه 11، محله انبار نفت، میدان رازی (گمرک)، خیابان ایروانی، بعد چهارراه انبارنفت، پلاک 150 تلفن همراه : نمایش شماره XXXXXXXXXX تلفکس : نمایش شماره XXXX",
+      "source_quality": "directory",
+      "source_title": "بازرگانی سی دل - فروش عمده مواد غذایی | کتاب اول",
+      "source_url": "https://avval.ir/profile/g0e2d/%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%B3%DB%8C-%D8%AF%D9%84"
+    }
+  ]
+}

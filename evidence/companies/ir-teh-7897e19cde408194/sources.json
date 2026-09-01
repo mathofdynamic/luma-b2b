@@ -1,0 +1,115 @@
+{
+  "company_id": "ir-teh-7897e19cde408194",
+  "errors": [],
+  "generated_at": "2026-09-01T08:16:52Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [
+    {
+      "bytes": 1397162,
+      "captured_at": "2026-09-01T08:16:50Z",
+      "company_id": "ir-teh-7897e19cde408194",
+      "headless": true,
+      "page_title": "شرکت حمل و نقل اطلس فرابر جهان | حمل بار زمینی، هوایی و ریلی به سراسر جهان",
+      "path": "companies/ir-teh-7897e19cde408194/screenshots/homepage.png",
+      "reason_this_matters": "Public company homepage is the primary visual evidence surface.",
+      "screenshot_type": "homepage",
+      "source_url": "https://www.atlasfarabarjahan.com/"
+    }
+  ],
+  "sources": [
+    {
+      "discovered_at": "2026-09-01T06:31:54Z",
+      "discovery_reason": "Book-e Avval category: حمل و نقل بین المللی",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "اطلس فرابر جهان",
+      "source_quality": "directory",
+      "source_title": "حمل و نقل بین المللی در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/search/%D8%AD%D9%85%D9%84-%D9%88-%D9%86%D9%82%D9%84-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86?page=2"
+    },
+    {
+      "discovered_at": "2026-09-01T06:31:59Z",
+      "discovery_reason": "Book-e Avval category: واردات صادرات کالا",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "حمل و نقل بین المللی",
+      "source_quality": "directory",
+      "source_title": "واردات صادرات کالا در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%DA%A9%D8%A7%D9%84%D8%A7/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:31:54Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-cfc6217f517fdc30",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "اطلس فرابر جهان",
+      "source_quality": "directory",
+      "source_title": "حمل و نقل بین المللی در تهران | کتاب اول",
+      "source_url": "https://avval.ir/search/%D8%AD%D9%85%D9%84-%D9%88-%D9%86%D9%82%D9%84-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86?page=2"
+    },
+    {
+      "captured_at": "2026-09-01T06:31:59Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-4254dea2046b2c93",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "حمل و نقل بین المللی",
+      "source_quality": "directory",
+      "source_title": "واردات صادرات کالا در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%DA%A9%D8%A7%D9%84%D8%A7/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:53Z",
+      "claim": "Directory profile lists اطلس فرابر جهان with a public Tehran business listing.",
+      "confidence": 0.82,
+      "evidence_id": "ev-f74c41d2ac01e067",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "اطلس فرابر جهان - واردات صادرات فرآورده نفت و گاز و پتروشیمی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس اطلس فرابر جهان ارتباط جهان واردات صادرات فرآورده نفت و گاز و پتروشیمی حمل و نقل بین المللی واردات صادرات کالا تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل واردات صادرات فرآورده نفت و گاز و پتروشیمی تهران محله جهاد اطلاعات تماس آدرس : تهران، منطقه 6، محله جهاد، خیابان فتحی شقاقی، پلاک 85 تل",
+      "source_quality": "directory",
+      "source_title": "اطلس فرابر جهان - واردات صادرات فرآورده نفت و گاز و پتروشیمی | کتاب اول",
+      "source_url": "https://avval.ir/profile/rssln/%D8%A7%D8%B7%D9%84%D8%B3-%D9%81%D8%B1%D8%A7%D8%A8%D8%B1-%D8%AC%D9%87%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T07:17:43Z",
+      "claim": "Public website signal: order_or_contact_form",
+      "confidence": 0.72,
+      "evidence_id": "ev-a0a8072b12489a96",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "تماس با ما | شرکت حمل و نقل اطلس فرابر جهان | حمل بار زمینی، هوایی و ریلی به سراسر جهان اطلس فرابر جهان صفحه اصلی خدمات مقالات شرکت گالری تصاویر درباره ما تماس با ما EN TR ورود حمل و نقل مطمئن و سریع بار به تمام نقاط دنیا با بیش از 20 سال تجربه در زمینه حمل و نقل بار و کالا با بهترین کیفیت و مناسب‌ترین قیمت ثبت درخواست آنلاین حمل زمینی چرا ما را انتخاب می‌کنند؟ مزیت‌های رقابتی شرکت حمل و نقل اطلس فرابر جهان تحویل سریع حمل بار در",
+      "signal": "order_or_contact_form",
+      "source_quality": "company_site",
+      "source_title": "شرکت حمل و نقل اطلس فرابر جهان | حمل بار زمینی، هوایی و ریلی به سراسر جهان",
+      "source_url": "https://www.atlasfarabarjahan.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:17:43Z",
+      "claim": "Public website signal: projects_or_clients",
+      "confidence": 0.72,
+      "evidence_id": "ev-998fe896ec6ecd48",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "مشتریان; همکاران | شرکت حمل و نقل اطلس فرابر جهان | حمل بار زمینی، هوایی و ریلی به سراسر جهان اطلس فرابر جهان صفحه اصلی خدمات مقالات شرکت گالری تصاویر درباره ما تماس با ما EN TR ورود حمل و نقل مطمئن و سریع بار به تمام نقاط دنیا با بیش از 20 سال تجربه در زمینه حمل و نقل بار و کالا با بهترین کیفیت و مناسب‌ترین قیمت ثبت درخواست آنلاین حمل زمینی چرا ما را انتخاب می‌کنند؟ مزیت‌های رقابتی شرکت حمل و نقل اطلس فرابر جهان تحویل سریع حمل بار در",
+      "signal": "projects_or_clients",
+      "source_quality": "company_site",
+      "source_title": "شرکت حمل و نقل اطلس فرابر جهان | حمل بار زمینی، هوایی و ریلی به سراسر جهان",
+      "source_url": "https://www.atlasfarabarjahan.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:17:43Z",
+      "claim": "Public website signal: expansion_or_activity",
+      "confidence": 0.72,
+      "evidence_id": "ev-4815df8894432a02",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "توسعه | شرکت حمل و نقل اطلس فرابر جهان | حمل بار زمینی، هوایی و ریلی به سراسر جهان اطلس فرابر جهان صفحه اصلی خدمات مقالات شرکت گالری تصاویر درباره ما تماس با ما EN TR ورود حمل و نقل مطمئن و سریع بار به تمام نقاط دنیا با بیش از 20 سال تجربه در زمینه حمل و نقل بار و کالا با بهترین کیفیت و مناسب‌ترین قیمت ثبت درخواست آنلاین حمل زمینی چرا ما را انتخاب می‌کنند؟ مزیت‌های رقابتی شرکت حمل و نقل اطلس فرابر جهان تحویل سریع حمل بار در",
+      "signal": "expansion_or_activity",
+      "source_quality": "company_site",
+      "source_title": "شرکت حمل و نقل اطلس فرابر جهان | حمل بار زمینی، هوایی و ریلی به سراسر جهان",
+      "source_url": "https://www.atlasfarabarjahan.com/"
+    }
+  ]
+}

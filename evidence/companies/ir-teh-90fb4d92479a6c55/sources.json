@@ -1,0 +1,68 @@
+{
+  "company_id": "ir-teh-90fb4d92479a6c55",
+  "errors": [],
+  "generated_at": "2026-09-01T07:29:03Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [
+    {
+      "bytes": 485763,
+      "captured_at": "2026-09-01T07:29:01Z",
+      "company_id": "ir-teh-90fb4d92479a6c55",
+      "headless": true,
+      "page_title": "شهرک صنعتی شمس آباد - صنعت مپ",
+      "path": "companies/ir-teh-90fb4d92479a6c55/screenshots/homepage_candidate.png",
+      "reason_this_matters": "Public company-site candidate; capture verifies whether it is reachable.",
+      "screenshot_type": "homepage_candidate",
+      "source_url": "https://www.sanatmap.com/location/شهرک-صنعتی-شمس-آباد/"
+    }
+  ],
+  "sources": [
+    {
+      "discovered_at": "2026-09-01T06:32:24Z",
+      "discovery_reason": "DuckDuckGo Persian query: صنعتی شمس آباد تولید کننده تهران",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "شهرک صنعتی شمس آباد، بزرگترین شهرک صنعتی ایران در اتوبان تهران-قم. لیست کامل کارخانه‌ها، آدرس دقیق و اطلاعات تماس واحدها را در نقشه جامع صنعت‌مپ جستجو کنید.",
+      "source_quality": "search_index",
+      "source_title": "شهرک صنعتی شمس آباد - صنعت مپ",
+      "source_type": "search",
+      "source_url": "https://html.duckduckgo.com/html/?q=%D8%B5%D9%86%D8%B9%D8%AA%DB%8C+%D8%B4%D9%85%D8%B3+%D8%A2%D8%A8%D8%A7%D8%AF+%D8%AA%D9%88%D9%84%DB%8C%D8%AF+%DA%A9%D9%86%D9%86%D8%AF%D9%87+%D8%AA%D9%87%D8%B1%D8%A7%D9%86&s=0&kl=ir-fa"
+    },
+    {
+      "discovered_at": "2026-09-01T06:32:24Z",
+      "discovery_reason": "DuckDuckGo Persian query: صنعتی شمس آباد تولید کننده تهران",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "شهرک صنعتی شمس‌آباد، به عنوان بزرگترین شهرک صنعتی ایران، در موقعیتی استراتژیک در اتوبان تهران-قم قرار گرفته است. این شهرک با وسعتی بیش از ۲۸۰۰ هکتار، میزبان هزاران واحد صنعتی در حوزه‌های مختلف از جمله فلزات ...",
+      "source_quality": "search_index",
+      "source_title": "شهرک صنعتی شمس آباد - صنعت مپ",
+      "source_type": "search",
+      "source_url": "https://html.duckduckgo.com/html/?q=%D8%B5%D9%86%D8%B9%D8%AA%DB%8C+%D8%B4%D9%85%D8%B3+%D8%A2%D8%A8%D8%A7%D8%AF+%D8%AA%D9%88%D9%84%DB%8C%D8%AF+%DA%A9%D9%86%D9%86%D8%AF%D9%87+%D8%AA%D9%87%D8%B1%D8%A7%D9%86&s=30&kl=ir-fa"
+    },
+    {
+      "captured_at": "2026-09-01T06:32:24Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-edd20ab0c69ed042",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "شهرک صنعتی شمس آباد، بزرگترین شهرک صنعتی ایران در اتوبان تهران-قم. لیست کامل کارخانه‌ها، آدرس دقیق و اطلاعات تماس واحدها را در نقشه جامع صنعت‌مپ جستجو کنید.",
+      "source_quality": "search_index",
+      "source_title": "شهرک صنعتی شمس آباد - صنعت مپ",
+      "source_url": "https://html.duckduckgo.com/html/?q=%D8%B5%D9%86%D8%B9%D8%AA%DB%8C+%D8%B4%D9%85%D8%B3+%D8%A2%D8%A8%D8%A7%D8%AF+%D8%AA%D9%88%D9%84%DB%8C%D8%AF+%DA%A9%D9%86%D9%86%D8%AF%D9%87+%D8%AA%D9%87%D8%B1%D8%A7%D9%86&s=0&kl=ir-fa"
+    },
+    {
+      "captured_at": "2026-09-01T06:32:24Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-e9118550acb1ee50",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "شهرک صنعتی شمس‌آباد، به عنوان بزرگترین شهرک صنعتی ایران، در موقعیتی استراتژیک در اتوبان تهران-قم قرار گرفته است. این شهرک با وسعتی بیش از ۲۸۰۰ هکتار، میزبان هزاران واحد صنعتی در حوزه‌های مختلف از جمله فلزات ...",
+      "source_quality": "search_index",
+      "source_title": "شهرک صنعتی شمس آباد - صنعت مپ",
+      "source_url": "https://html.duckduckgo.com/html/?q=%D8%B5%D9%86%D8%B9%D8%AA%DB%8C+%D8%B4%D9%85%D8%B3+%D8%A2%D8%A8%D8%A7%D8%AF+%D8%AA%D9%88%D9%84%DB%8C%D8%AF+%DA%A9%D9%86%D9%86%D8%AF%D9%87+%D8%AA%D9%87%D8%B1%D8%A7%D9%86&s=30&kl=ir-fa"
+    }
+  ]
+}

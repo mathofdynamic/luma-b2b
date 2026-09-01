@@ -1,0 +1,794 @@
+رک صنعتی شمس آباد
+              - generic [ref=e13071]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13072]:
+              - link "ارشد جعفر زاده" [ref=e13073] [cursor=pointer]:
+                - /url: /company/details?code=B473D2&Company=%D8%A7%D8%B1%D8%B4%D8%AF%20%D8%AC%D8%B9%D9%81%D8%B1%20%D8%B2%D8%A7%D8%AF%D9%87&Activity=%20%D8%A8%D8%B1%D8%B4%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%B3%D9%86%DA%AF%20%D8%AA%D8%B1%D8%A7%D9%88%D8%B1%D8%AA%D9%86
+              - link "- برش انواع سنگ تراورتن" [ref=e13074] [cursor=pointer]:
+                - /url: /company/details?code=B473D2&Company=%D8%A7%D8%B1%D8%B4%D8%AF%20%D8%AC%D8%B9%D9%81%D8%B1%20%D8%B2%D8%A7%D8%AF%D9%87&Activity=%20%D8%A8%D8%B1%D8%B4%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%B3%D9%86%DA%AF%20%D8%AA%D8%B1%D8%A7%D9%88%D8%B1%D8%AA%D9%86
+              - generic [ref=e13075]: تهران
+              - generic [ref=e13076]: شرکت تولیدی
+              - generic [ref=e13077]: شهرک صنعتی شمس آباد
+              - generic [ref=e13078]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13079]:
+              - link "بهریزگداز" [ref=e13080] [cursor=pointer]:
+                - /url: /company/details?code=A65151&Company=%D8%A8%D9%87%D8%B1%DB%8C%D8%B2%DA%AF%D8%AF%D8%A7%D8%B2&Activity=%20%D8%AE%D8%AF%D9%85%D8%A7%D8%AA%20%D8%B3%D8%A7%D8%AE%D8%AA%20%D8%AA%D8%B1%D8%A7%D8%B4%DA%A9%D8%A7%D8%B1%DB%8C
+              - link "- خدمات ساخت تراشکاری" [ref=e13081] [cursor=pointer]:
+                - /url: /company/details?code=A65151&Company=%D8%A8%D9%87%D8%B1%DB%8C%D8%B2%DA%AF%D8%AF%D8%A7%D8%B2&Activity=%20%D8%AE%D8%AF%D9%85%D8%A7%D8%AA%20%D8%B3%D8%A7%D8%AE%D8%AA%20%D8%AA%D8%B1%D8%A7%D8%B4%DA%A9%D8%A7%D8%B1%DB%8C
+              - generic [ref=e13082]: تهران
+              - generic [ref=e13083]: شرکت تولیدی
+              - generic [ref=e13084]: شهرک صنعتی شمس آباد
+              - generic [ref=e13085]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13086]:
+              - link "ری‌ سوله‌" [ref=e13087] [cursor=pointer]:
+                - /url: /company/details?code=DC55EB&Company=%D8%B1%DB%8C%E2%80%8C%20%D8%B3%D9%88%D9%84%D9%87%E2%80%8C&Activity=%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D9%BE%D8%B1%D9%88%D9%81%DB%8C%D9%84%20%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85%20%D8%B3%D8%B1%DB%8C%206000-%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%AF%D8%B1%D8%A8%20%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85%DB%8C%20%D8%B8%D8%B1%D9%88%D9%81-%20%D9%BE%D8%B1%D9%88%D9%81%DB%8C%D9%84%20%D9%87%D8%A7%DB%8C%20%D8%A7%D8%B2%20%D8%AC%D9%86%D8%B3%20%D9%81%D9%88%D9%84%D8%A7%D8%AF%20%D8%B2%D9%86%DA%AF%20%D9%86%D8%B2%D9%86
+              - link "- انواع پروفیل آلومینیوم سری 6000- انواع درب آلومینیومی ظروف- پروفیل های از جنس فولاد زنگ نزن" [ref=e13088] [cursor=pointer]:
+                - /url: /company/details?code=DC55EB&Company=%D8%B1%DB%8C%E2%80%8C%20%D8%B3%D9%88%D9%84%D9%87%E2%80%8C&Activity=%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D9%BE%D8%B1%D9%88%D9%81%DB%8C%D9%84%20%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85%20%D8%B3%D8%B1%DB%8C%206000-%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%AF%D8%B1%D8%A8%20%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85%DB%8C%20%D8%B8%D8%B1%D9%88%D9%81-%20%D9%BE%D8%B1%D9%88%D9%81%DB%8C%D9%84%20%D9%87%D8%A7%DB%8C%20%D8%A7%D8%B2%20%D8%AC%D9%86%D8%B3%20%D9%81%D9%88%D9%84%D8%A7%D8%AF%20%D8%B2%D9%86%DA%AF%20%D9%86%D8%B2%D9%86
+              - generic [ref=e13089]: تهران
+              - generic [ref=e13090]: شرکت تولیدی
+              - generic [ref=e13091]: شهرک صنعتی شمس آباد
+              - generic [ref=e13092]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13093]:
+              - link "عبدالمجید رضوانی‌" [ref=e13094] [cursor=pointer]:
+                - /url: /company/details?code=47F222&Company=%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%85%D8%AC%DB%8C%D8%AF%20%20%D8%B1%D8%B6%D9%88%D8%A7%D9%86%DB%8C%E2%80%8C&Activity=%20%D8%A7%D8%AC%D8%A7%D9%82%20%D8%A8%D8%B1%D9%82%DB%8C%20%D8%AA%D9%88%DA%A9%D8%A7%D8%B1-%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C-%20%D8%A2%D8%A8%20%DA%AF%D8%B1%D9%85%20%DA%A9%D9%86%20%DA%AF%D8%A7%D8%B2%DB%8C%20%28%D8%A7%D9%84%D9%85%D9%86%D8%AA%20%D8%AF%D8%A7%D8%B1%29-%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C-%20%D8%AC%D8%A7%D8%B1%D9%88%D8%A8%D8%B1%D9%82%DB%8C%20%D8%AE%D8%B4%DA%A9%20%D9%88%20%D8%AA%D8%B1-%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%A2%D8%A8%20%DA%AF%D8%B1%D9%85%20%DA%A9%D9%86%20%D8%A8%D8%B1%D9%82%DB%8C%20%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%A2%D8%A8%20%DA%AF%D8%B1%D9%85%20%DA%A9%D9%86%20%D8%A8%D8%B1%D9%82%DB%8C%20%D8%AE%D8%A7%D9%86%DA%AF%DB%8C
+              - link "- اجاق برقی توکار- انواع ماشین شستشو- انواع بخاری- آب گرم کن گازی (المنت دار)- انواع بخاری- جاروبرقی خشک و تر- انواع آب گرم کن برقی خانگی- انواع آب گرم کن برقی خانگی" [ref=e13095] [cursor=pointer]:
+                - /url: /company/details?code=47F222&Company=%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%85%D8%AC%DB%8C%D8%AF%20%20%D8%B1%D8%B6%D9%88%D8%A7%D9%86%DB%8C%E2%80%8C&Activity=%20%D8%A7%D8%AC%D8%A7%D9%82%20%D8%A8%D8%B1%D9%82%DB%8C%20%D8%AA%D9%88%DA%A9%D8%A7%D8%B1-%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D8%B4%D8%B3%D8%AA%D8%B4%D9%88-%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C-%20%D8%A2%D8%A8%20%DA%AF%D8%B1%D9%85%20%DA%A9%D9%86%20%DA%AF%D8%A7%D8%B2%DB%8C%20%28%D8%A7%D9%84%D9%85%D9%86%D8%AA%20%D8%AF%D8%A7%D8%B1%29-%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C-%20%D8%AC%D8%A7%D8%B1%D9%88%D8%A8%D8%B1%D9%82%DB%8C%20%D8%AE%D8%B4%DA%A9%20%D9%88%20%D8%AA%D8%B1-%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%A2%D8%A8%20%DA%AF%D8%B1%D9%85%20%DA%A9%D9%86%20%D8%A8%D8%B1%D9%82%DB%8C%20%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%A2%D8%A8%20%DA%AF%D8%B1%D9%85%20%DA%A9%D9%86%20%D8%A8%D8%B1%D9%82%DB%8C%20%D8%AE%D8%A7%D9%86%DA%AF%DB%8C
+              - generic [ref=e13096]: تهران
+              - generic [ref=e13097]: حقیقی
+              - generic [ref=e13098]: شهرک صنعتی شمس آباد
+              - generic [ref=e13099]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13100]:
+              - link "پیچ سازان خلیج فارس" [ref=e13101] [cursor=pointer]:
+                - /url: /company/details?code=B4181A&Company=%D9%BE%DB%8C%DA%86%20%D8%B3%D8%A7%D8%B2%D8%A7%D9%86%20%D8%AE%D9%84%DB%8C%D8%AC%20%D9%81%D8%A7%D8%B1%D8%B3&Activity=%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D8%A2%D9%87%D9%86%20%D8%AE%D8%A7%D9%85%20%D9%88%20%D9%81%D9%88%D9%84%D8%A7%D8%AF
+              - link "- تولید آهن خام و فولاد" [ref=e13102] [cursor=pointer]:
+                - /url: /company/details?code=B4181A&Company=%D9%BE%DB%8C%DA%86%20%D8%B3%D8%A7%D8%B2%D8%A7%D9%86%20%D8%AE%D9%84%DB%8C%D8%AC%20%D9%81%D8%A7%D8%B1%D8%B3&Activity=%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D8%A2%D9%87%D9%86%20%D8%AE%D8%A7%D9%85%20%D9%88%20%D9%81%D9%88%D9%84%D8%A7%D8%AF
+              - generic [ref=e13103]: ری
+              - generic [ref=e13104]: خصوصی
+              - generic [ref=e13105]: شهرک صنعتی شمس آباد
+              - generic [ref=e13106]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13107]:
+              - link "حسن مختاری" [ref=e13108] [cursor=pointer]:
+                - /url: /company/details?code=BD4FA0&Company=%D8%AD%D8%B3%D9%86%20%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%DB%8C&Activity=%20%D8%A8%D8%B1%D8%B4%20%DA%A9%D8%A7%D8%B1%DB%8C%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%B3%D9%86%DA%AF
+              - link "- برش کاری انواع سنگ" [ref=e13109] [cursor=pointer]:
+                - /url: /company/details?code=BD4FA0&Company=%D8%AD%D8%B3%D9%86%20%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%DB%8C&Activity=%20%D8%A8%D8%B1%D8%B4%20%DA%A9%D8%A7%D8%B1%DB%8C%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%B3%D9%86%DA%AF
+              - generic [ref=e13110]: تهران
+              - generic [ref=e13111]: حقیقی
+              - generic [ref=e13112]: شهرک صنعتی شمس آباد
+              - generic [ref=e13113]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13114]:
+              - link "هوشنگ‌ ربیع‌" [ref=e13115] [cursor=pointer]:
+                - /url: /company/details?code=78171D&Company=%D9%87%D9%88%D8%B4%D9%86%DA%AF%E2%80%8C%20%20%D8%B1%D8%A8%DB%8C%D8%B9%E2%80%8C&Activity=%20%D9%82%D8%B7%D8%B9%D8%A7%D8%AA%20%D9%85%D9%88%D8%AA%D9%88%D8%B1%20%D9%85%D9%88%D8%AA%D9%88%D8%B1%20%D8%B3%DB%8C%DA%A9%D9%84%D8%AA-%20%DA%AF%D8%A7%D9%84%D9%86-%20%D8%A8%D8%B7%D8%B1%DB%8C%20%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C%20%DA%86%D9%86%D8%AF%20%D9%84%D8%A7%DB%8C%D9%87
+              - link "- قطعات موتور موتور سیکلت- گالن- بطری پلاستیکی چند لایه" [ref=e13116] [cursor=pointer]:
+                - /url: /company/details?code=78171D&Company=%D9%87%D9%88%D8%B4%D9%86%DA%AF%E2%80%8C%20%20%D8%B1%D8%A8%DB%8C%D8%B9%E2%80%8C&Activity=%20%D9%82%D8%B7%D8%B9%D8%A7%D8%AA%20%D9%85%D9%88%D8%AA%D9%88%D8%B1%20%D9%85%D9%88%D8%AA%D9%88%D8%B1%20%D8%B3%DB%8C%DA%A9%D9%84%D8%AA-%20%DA%AF%D8%A7%D9%84%D9%86-%20%D8%A8%D8%B7%D8%B1%DB%8C%20%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C%20%DA%86%D9%86%D8%AF%20%D9%84%D8%A7%DB%8C%D9%87
+              - generic [ref=e13117]: تهران
+              - generic [ref=e13118]: حقیقی
+              - generic [ref=e13119]: شهرک صنعتی شمس آباد
+              - generic [ref=e13120]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13121]:
+              - link "پردیس صنعت همگام" [ref=e13122] [cursor=pointer]:
+                - /url: /company/details?code=F8276F&Company=%D9%BE%D8%B1%D8%AF%DB%8C%D8%B3%20%D8%B5%D9%86%D8%B9%D8%AA%20%D9%87%D9%85%DA%AF%D8%A7%D9%85&Activity=%D8%B3%D8%A7%D8%AE%D8%AA%20%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D8%A2%D9%84%D8%A7%D8%AA%20%D8%B9%D9%85%D9%84%20%D8%A2%D9%88%D8%B1%DB%8C%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C%D8%8C%20%D9%86%D9%88%D8%B4%D8%A7%D8%A8%D9%87%20%D9%88%20%D8%AA%D9%88%D8%AA%D9%88%D9%86%20%D9%88%20%D8%AA%D9%86%D8%A8%D8%A7%DA%A9%D9%88
+              - link "- ساخت ماشین آلات عمل آوری مواد غذایی، نوشابه و توتون و تنباکو" [ref=e13123] [cursor=pointer]:
+                - /url: /company/details?code=F8276F&Company=%D9%BE%D8%B1%D8%AF%DB%8C%D8%B3%20%D8%B5%D9%86%D8%B9%D8%AA%20%D9%87%D9%85%DA%AF%D8%A7%D9%85&Activity=%D8%B3%D8%A7%D8%AE%D8%AA%20%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D8%A2%D9%84%D8%A7%D8%AA%20%D8%B9%D9%85%D9%84%20%D8%A2%D9%88%D8%B1%DB%8C%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C%D8%8C%20%D9%86%D9%88%D8%B4%D8%A7%D8%A8%D9%87%20%D9%88%20%D8%AA%D9%88%D8%AA%D9%88%D9%86%20%D9%88%20%D8%AA%D9%86%D8%A8%D8%A7%DA%A9%D9%88
+              - generic [ref=e13124]: ری
+              - generic [ref=e13125]: خصوصی
+              - generic [ref=e13126]: شهرک صنعتی شمس آباد
+              - generic [ref=e13127]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13128]:
+              - link "پاک برنز" [ref=e13129] [cursor=pointer]:
+                - /url: /company/details?code=VW9712&Company=%D9%BE%D8%A7%DA%A9%20%D8%A8%D8%B1%D9%86%D8%B2&Activity=%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C%D8%8C%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C%20%D9%85%D8%B9%DA%A9%D9%88%D8%B3%D8%8C%D9%85%D8%AF%D9%84%20%D8%B3%D8%A7%D8%B2%DB%8C%D8%8C%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%DA%A9%D8%A7%D8%B1%DB%8C%D8%8C%20%D8%B1%DB%8C%D8%AE%D8%AA%D9%87%20%DA%AF%D8%B1%DB%8C%20%D8%A2%D9%84%DB%8C%D8%A7%DA%98%D9%87%D8%A7%DB%8C%20%D9%BE%D8%A7%DB%8C%D9%87%20%D9%85%D8%B3%20%D8%8C%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85%20%D8%8C%20%DA%86%D8%AF%D9%86%20%D8%8C%20%D9%81%D9%88%D9%84%D8%A7%D8%AF%20%D8%8C...
+              - link "- طراحی،مهندسی معکوس،مدل سازی،ماشین کاری، ریخته گری آلیاژهای پایه مس ،آلومینیوم ، چدن ، فولاد ،..." [ref=e13130] [cursor=pointer]:
+                - /url: /company/details?code=VW9712&Company=%D9%BE%D8%A7%DA%A9%20%D8%A8%D8%B1%D9%86%D8%B2&Activity=%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C%D8%8C%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C%20%D9%85%D8%B9%DA%A9%D9%88%D8%B3%D8%8C%D9%85%D8%AF%D9%84%20%D8%B3%D8%A7%D8%B2%DB%8C%D8%8C%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%DA%A9%D8%A7%D8%B1%DB%8C%D8%8C%20%D8%B1%DB%8C%D8%AE%D8%AA%D9%87%20%DA%AF%D8%B1%DB%8C%20%D8%A2%D9%84%DB%8C%D8%A7%DA%98%D9%87%D8%A7%DB%8C%20%D9%BE%D8%A7%DB%8C%D9%87%20%D9%85%D8%B3%20%D8%8C%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85%20%D8%8C%20%DA%86%D8%AF%D9%86%20%D8%8C%20%D9%81%D9%88%D9%84%D8%A7%D8%AF%20%D8%8C...
+              - generic [ref=e13131]: تهران
+              - generic [ref=e13133]: شهرک صنعتی شمس آباد
+              - generic [ref=e13134]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13135]:
+              - link "مرتضی‌ بیهقی‌" [ref=e13136] [cursor=pointer]:
+                - /url: /company/details?code=2CE067&Company=%D9%85%D8%B1%D8%AA%D8%B6%DB%8C%E2%80%8C%20%D8%A8%DB%8C%D9%87%D9%82%DB%8C%E2%80%8C&Activity=%20%D9%85%D8%B2%D8%AF%D8%A7%203-%20%D8%AA%D8%B1%D8%A7%D8%B4%DA%A9%D8%A7%D8%B1%DB%8C
+              - link "- مزدا 3- تراشکاری" [ref=e13137] [cursor=pointer]:
+                - /url: /company/details?code=2CE067&Company=%D9%85%D8%B1%D8%AA%D8%B6%DB%8C%E2%80%8C%20%D8%A8%DB%8C%D9%87%D9%82%DB%8C%E2%80%8C&Activity=%20%D9%85%D8%B2%D8%AF%D8%A7%203-%20%D8%AA%D8%B1%D8%A7%D8%B4%DA%A9%D8%A7%D8%B1%DB%8C
+              - generic [ref=e13138]: تهران
+              - generic [ref=e13139]: حقیقی
+              - generic [ref=e13140]: شهرک صنعتی شمس آباد
+              - generic [ref=e13141]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13142]:
+              - link "صنایع سنگ شاهین مرمریت تهران" [ref=e13143] [cursor=pointer]:
+                - /url: /company/details?code=F21BF6&Company=%D8%B5%D9%86%D8%A7%DB%8C%D8%B9%20%20%D8%B3%D9%86%DA%AF%20%D8%B4%D8%A7%D9%87%DB%8C%D9%86%20%D9%85%D8%B1%D9%85%D8%B1%DB%8C%D8%AA%20%D8%AA%D9%87%D8%B1%D8%A7%D9%86&Activity=%20%D8%A8%D8%B1%D8%B4%20%D8%B3%D9%86%DA%AF%20%D9%85%D8%B1%D9%85%D8%B1%20%D8%A8%D9%87%20%D8%B5%D9%88%D8%B1%D8%AA%20%D8%AA%D8%A7%DB%8C%D9%84
+              - link "- برش سنگ مرمر به صورت تایل" [ref=e13144] [cursor=pointer]:
+                - /url: /company/details?code=F21BF6&Company=%D8%B5%D9%86%D8%A7%DB%8C%D8%B9%20%20%D8%B3%D9%86%DA%AF%20%D8%B4%D8%A7%D9%87%DB%8C%D9%86%20%D9%85%D8%B1%D9%85%D8%B1%DB%8C%D8%AA%20%D8%AA%D9%87%D8%B1%D8%A7%D9%86&Activity=%20%D8%A8%D8%B1%D8%B4%20%D8%B3%D9%86%DA%AF%20%D9%85%D8%B1%D9%85%D8%B1%20%D8%A8%D9%87%20%D8%B5%D9%88%D8%B1%D8%AA%20%D8%AA%D8%A7%DB%8C%D9%84
+              - generic [ref=e13145]: تهران
+              - generic [ref=e13146]: شرکت تولیدی
+              - generic [ref=e13147]: شهرک صنعتی شمس آباد
+              - generic [ref=e13148]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13149]:
+              - link "سعید قاسمی تودشکچوئی" [ref=e13150] [cursor=pointer]:
+                - /url: /company/details?code=304C70&Company=%D8%B3%D8%B9%DB%8C%D8%AF%20%D9%82%D8%A7%D8%B3%D9%85%DB%8C%20%D8%AA%D9%88%D8%AF%D8%B4%DA%A9%DA%86%D9%88%D8%A6%DB%8C&Activity=%20%D8%A8%D8%B1%D8%B4%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%B3%D9%86%DA%AF%20%DA%AF%D8%B1%D8%A7%D9%86%DB%8C%D8%AA%DB%8C
+              - link "- برش انواع سنگ گرانیتی" [ref=e13151] [cursor=pointer]:
+                - /url: /company/details?code=304C70&Company=%D8%B3%D8%B9%DB%8C%D8%AF%20%D9%82%D8%A7%D8%B3%D9%85%DB%8C%20%D8%AA%D9%88%D8%AF%D8%B4%DA%A9%DA%86%D9%88%D8%A6%DB%8C&Activity=%20%D8%A8%D8%B1%D8%B4%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%B3%D9%86%DA%AF%20%DA%AF%D8%B1%D8%A7%D9%86%DB%8C%D8%AA%DB%8C
+              - generic [ref=e13152]: تهران
+              - generic [ref=e13153]: شرکت تولیدی
+              - generic [ref=e13154]: شهرک صنعتی شمس آباد
+              - generic [ref=e13155]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13156]:
+              - link "سید مصطفی افضلی" [ref=e13157] [cursor=pointer]:
+                - /url: /company/details?code=ED37AD&Company=%D8%B3%DB%8C%D8%AF%20%D9%85%D8%B5%D8%B7%D9%81%DB%8C%20%D8%A7%D9%81%D8%B6%D9%84%DB%8C&Activity=%D8%A8%D8%B1%D8%B4%D8%8C%20%D8%B4%DA%A9%D9%84%20%D8%AF%D8%A7%D8%AF%D9%86%20%D9%88%20%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA%20%D8%B3%D9%86%DA%AF
+              - link "- برش، شکل دادن و پرداخت سنگ" [ref=e13158] [cursor=pointer]:
+                - /url: /company/details?code=ED37AD&Company=%D8%B3%DB%8C%D8%AF%20%D9%85%D8%B5%D8%B7%D9%81%DB%8C%20%D8%A7%D9%81%D8%B6%D9%84%DB%8C&Activity=%D8%A8%D8%B1%D8%B4%D8%8C%20%D8%B4%DA%A9%D9%84%20%D8%AF%D8%A7%D8%AF%D9%86%20%D9%88%20%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA%20%D8%B3%D9%86%DA%AF
+              - generic [ref=e13159]: ری
+              - generic [ref=e13160]: حقیقی
+              - generic [ref=e13161]: شهرک صنعتی شمس آباد
+              - generic [ref=e13162]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13163]:
+              - link "صنایع‌ سنگ‌ افق‌" [ref=e13164] [cursor=pointer]:
+                - /url: /company/details?code=7EBF76&Company=%D8%B5%D9%86%D8%A7%DB%8C%D8%B9%E2%80%8C%20%D8%B3%D9%86%DA%AF%E2%80%8C%20%D8%A7%D9%81%D9%82%E2%80%8C&Activity=%20%D8%A8%D8%B1%D8%B4%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%B3%D9%86%DA%AF%20%DA%AF%D8%B1%D8%A7%D9%86%DB%8C%D8%AA%DB%8C
+              - link "- برش انواع سنگ گرانیتی" [ref=e13165] [cursor=pointer]:
+                - /url: /company/details?code=7EBF76&Company=%D8%B5%D9%86%D8%A7%DB%8C%D8%B9%E2%80%8C%20%D8%B3%D9%86%DA%AF%E2%80%8C%20%D8%A7%D9%81%D9%82%E2%80%8C&Activity=%20%D8%A8%D8%B1%D8%B4%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%B3%D9%86%DA%AF%20%DA%AF%D8%B1%D8%A7%D9%86%DB%8C%D8%AA%DB%8C
+              - generic [ref=e13166]: تهران
+              - generic [ref=e13167]: شرکت تولیدی
+              - generic [ref=e13168]: شهرک صنعتی شمس آباد
+              - generic [ref=e13169]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13170]:
+              - link "غلامرضا احمدی نودهی" [ref=e13171] [cursor=pointer]:
+                - /url: /company/details?code=2197AE&Company=%D8%BA%D9%84%D8%A7%D9%85%D8%B1%D8%B6%D8%A7%20%D8%A7%D8%AD%D9%85%D8%AF%DB%8C%20%D9%86%D9%88%D8%AF%D9%87%DB%8C&Activity=%20%D8%B1%DB%8C%D8%AE%D8%AA%D9%87%20%DA%AF%D8%B1%DB%8C%20%D9%81%D9%88%D9%84%D8%A7%D8%AF
+              - link "- ریخته گری فولاد" [ref=e13172] [cursor=pointer]:
+                - /url: /company/details?code=2197AE&Company=%D8%BA%D9%84%D8%A7%D9%85%D8%B1%D8%B6%D8%A7%20%D8%A7%D8%AD%D9%85%D8%AF%DB%8C%20%D9%86%D9%88%D8%AF%D9%87%DB%8C&Activity=%20%D8%B1%DB%8C%D8%AE%D8%AA%D9%87%20%DA%AF%D8%B1%DB%8C%20%D9%81%D9%88%D9%84%D8%A7%D8%AF
+              - generic [ref=e13173]: تهران
+              - generic [ref=e13174]: حقیقی
+              - generic [ref=e13175]: شهرک صنعتی شمس آباد
+              - generic [ref=e13176]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13177]:
+              - link "هنر سنگ تیارا" [ref=e13178] [cursor=pointer]:
+                - /url: /company/details?code=BDA77F&Company=%D9%87%D9%86%D8%B1%20%D8%B3%D9%86%DA%AF%20%D8%AA%DB%8C%D8%A7%D8%B1%D8%A7&Activity=%D9%87%D9%86%D8%B1%20%D8%B3%D9%86%DA%AF%20%D8%AA%DB%8C%D8%A7%D8%B1%D8%A7%20%D8%A8%D8%B2%D8%B1%DA%AF%D8%AA%D8%B1%DB%8C%D9%86%20%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%DA%A9%D9%86%D9%86%D8%AF%D9%87%20%D8%B1%D9%88%D8%B4%D9%88%DB%8C%DB%8C%20%D8%A7%D8%B2%20%D8%AC%D9%86%D8%B3%20%D8%B3%D9%86%DA%AF%20%D8%B7%D8%A8%DB%8C%D8%B9%DB%8C%20%D8%AF%D8%B1%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%20%D8%A7%D8%B3%D8%AA%20%DA%A9%D9%87%20%D8%A8%D8%A7%20%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87%20cnc%20%D8%AA%D8%B1%D8%A7%D8%B4%20%D9%85%DB%8C...
+              - link "- هنر سنگ تیارا بزرگترین تولید کننده روشویی از جنس سنگ طبیعی در ایران است که با دستگاه cnc تراش می..." [ref=e13179] [cursor=pointer]:
+                - /url: /company/details?code=BDA77F&Company=%D9%87%D9%86%D8%B1%20%D8%B3%D9%86%DA%AF%20%D8%AA%DB%8C%D8%A7%D8%B1%D8%A7&Activity=%D9%87%D9%86%D8%B1%20%D8%B3%D9%86%DA%AF%20%D8%AA%DB%8C%D8%A7%D8%B1%D8%A7%20%D8%A8%D8%B2%D8%B1%DA%AF%D8%AA%D8%B1%DB%8C%D9%86%20%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%DA%A9%D9%86%D9%86%D8%AF%D9%87%20%D8%B1%D9%88%D8%B4%D9%88%DB%8C%DB%8C%20%D8%A7%D8%B2%20%D8%AC%D9%86%D8%B3%20%D8%B3%D9%86%DA%AF%20%D8%B7%D8%A8%DB%8C%D8%B9%DB%8C%20%D8%AF%D8%B1%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%20%D8%A7%D8%B3%D8%AA%20%DA%A9%D9%87%20%D8%A8%D8%A7%20%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87%20cnc%20%D8%AA%D8%B1%D8%A7%D8%B4%20%D9%85%DB%8C...
+              - generic [ref=e13180]: تهران
+              - generic [ref=e13182]: شهرک صنعتی شمس آباد
+              - generic [ref=e13183]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13184]:
+              - link "پویان صنعت نهاد" [ref=e13185] [cursor=pointer]:
+                - /url: /company/details?code=3D7C97&Company=%D9%BE%D9%88%DB%8C%D8%A7%D9%86%20%D8%B5%D9%86%D8%B9%D8%AA%20%D9%86%D9%87%D8%A7%D8%AF&Activity=%20%D8%A8%D9%84%D8%A8%D8%B1%DB%8C%D9%86%DA%AF%20%D8%B4%DB%8C%D8%A7%D8%B1%20%D8%B9%D9%85%DB%8C%D9%82-%20%D8%A8%D9%84%D8%A8%D8%B1%DB%8C%D9%86%DA%AF%20%D8%B4%DB%8C%D8%A7%D8%B1%20%D8%B9%D9%85%DB%8C%D9%82-%20%D9%85%DB%8C%D9%84%20%D9%85%D9%88%D8%AC%DA%AF%DB%8C%D8%B1%20%D8%AE%D9%88%D8%AF%D8%B1%D9%88%D9%87%D8%A7%DB%8C%20%D8%B3%D9%88%D8%A7%D8%B1%DB%8C-%20%D8%A7%DA%A9%D8%B3%D9%84%20%D8%B9%D9%82%D8%A8%20%D8%AE%D9%88%D8%AF%D8%B1%D9%88%D9%87%D8%A7%DB%8C%20%D8%B3%D9%88%D8%A7%D8%B1%DB%8C-%20%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87%20%D8%BA%D9%84%D8%AA%DA%A9%20%D9%88%20%D8%AA%D8%B3%D9%85%D9%87%20%D8%B3%D9%81%D8%AA%20%DA%A9%D9%86%20%D9%85%D9%88%D8%AA%D9%88%D8%B1%20%D8%AE%D9%88%D8%AF%D8%B1%D9%88%D9%87%D8%A7%DB%8C%20%D8%B3%D9%88%D8%A7%D8%B1%DB%8C-%20%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87%20%D8%A7%DA%AF%D8%B2%D9%88%D8%B2%20%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%20%D8%B1%D9%88%D9%84%D8%B1%D8%A8%DB%8C%D8%B1%DB%8C%D9%86%DA%AF%20%D9%85%D8%AE%D8%B1%D9%88%D8%B7%DB%8C
+              - link "- بلبرینگ شیار عمیق- بلبرینگ شیار عمیق- میل موجگیر خودروهای سواری- اکسل عقب خودروهای سواری- مجموعه غلتک و تسمه سفت کن موتور خودروهای سواری- مجموعه اگزوز خودرو- رولربیرینگ مخروطی" [ref=e13186] [cursor=pointer]:
+                - /url: /company/details?code=3D7C97&Company=%D9%BE%D9%88%DB%8C%D8%A7%D9%86%20%D8%B5%D9%86%D8%B9%D8%AA%20%D9%86%D9%87%D8%A7%D8%AF&Activity=%20%D8%A8%D9%84%D8%A8%D8%B1%DB%8C%D9%86%DA%AF%20%D8%B4%DB%8C%D8%A7%D8%B1%20%D8%B9%D9%85%DB%8C%D9%82-%20%D8%A8%D9%84%D8%A8%D8%B1%DB%8C%D9%86%DA%AF%20%D8%B4%DB%8C%D8%A7%D8%B1%20%D8%B9%D9%85%DB%8C%D9%82-%20%D9%85%DB%8C%D9%84%20%D9%85%D9%88%D8%AC%DA%AF%DB%8C%D8%B1%20%D8%AE%D9%88%D8%AF%D8%B1%D9%88%D9%87%D8%A7%DB%8C%20%D8%B3%D9%88%D8%A7%D8%B1%DB%8C-%20%D8%A7%DA%A9%D8%B3%D9%84%20%D8%B9%D9%82%D8%A8%20%D8%AE%D9%88%D8%AF%D8%B1%D9%88%D9%87%D8%A7%DB%8C%20%D8%B3%D9%88%D8%A7%D8%B1%DB%8C-%20%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87%20%D8%BA%D9%84%D8%AA%DA%A9%20%D9%88%20%D8%AA%D8%B3%D9%85%D9%87%20%D8%B3%D9%81%D8%AA%20%DA%A9%D9%86%20%D9%85%D9%88%D8%AA%D9%88%D8%B1%20%D8%AE%D9%88%D8%AF%D8%B1%D9%88%D9%87%D8%A7%DB%8C%20%D8%B3%D9%88%D8%A7%D8%B1%DB%8C-%20%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87%20%D8%A7%DA%AF%D8%B2%D9%88%D8%B2%20%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%20%D8%B1%D9%88%D9%84%D8%B1%D8%A8%DB%8C%D8%B1%DB%8C%D9%86%DA%AF%20%D9%85%D8%AE%D8%B1%D9%88%D8%B7%DB%8C
+              - generic [ref=e13187]: تهران
+              - generic [ref=e13188]: شرکت تولیدی
+              - generic [ref=e13189]: شهرک صنعتی شمس آباد
+              - generic [ref=e13190]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13191]:
+              - link "علی‌ یزدانفر" [ref=e13192] [cursor=pointer]:
+                - /url: /company/details?code=47871C&Company=%D8%B9%D9%84%DB%8C%E2%80%8C%20%20%DB%8C%D8%B2%D8%AF%D8%A7%D9%86%D9%81%D8%B1&Activity=%20%20%D9%BE%DA%98%D9%88%D9%87%D8%B4%D9%87%D8%A7%DB%8C%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D9%88%D9%85%D8%B9%D8%AF%D9%86%DB%8C%20%28%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D8%A7%D9%84%D8%A7%D8%AA%20%D9%88%D8%AA%D8%AC%D9%87%DB%8C%D8%B2%D8%A7%D8%AA%20%29-%20%20%D9%82%D9%88%D8%B7%DB%8C%20%D9%81%D9%84%D8%B2%DB%8C
+              - link "- پژوهشهای صنعتی ومعدنی (ماشین الات وتجهیزات )- قوطی فلزی" [ref=e13193] [cursor=pointer]:
+                - /url: /company/details?code=47871C&Company=%D8%B9%D9%84%DB%8C%E2%80%8C%20%20%DB%8C%D8%B2%D8%AF%D8%A7%D9%86%D9%81%D8%B1&Activity=%20%20%D9%BE%DA%98%D9%88%D9%87%D8%B4%D9%87%D8%A7%DB%8C%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D9%88%D9%85%D8%B9%D8%AF%D9%86%DB%8C%20%28%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D8%A7%D9%84%D8%A7%D8%AA%20%D9%88%D8%AA%D8%AC%D9%87%DB%8C%D8%B2%D8%A7%D8%AA%20%29-%20%20%D9%82%D9%88%D8%B7%DB%8C%20%D9%81%D9%84%D8%B2%DB%8C
+              - generic [ref=e13194]: تهران
+              - generic [ref=e13195]: حقیقی
+              - generic [ref=e13196]: شهرک صنعتی شمس آباد
+              - generic [ref=e13197]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13198]:
+              - link "امیر حدادی" [ref=e13199] [cursor=pointer]:
+                - /url: /company/details?code=425066&Company=%D8%A7%D9%85%DB%8C%D8%B1%20%D8%AD%D8%AF%D8%A7%D8%AF%DB%8C&Activity=%D8%B3%D8%A7%D8%AE%D8%AA%20%D8%B3%D8%A7%DB%8C%D8%B1%20%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D8%A2%D9%84%D8%A7%D8%AA%20%D8%A8%D8%A7%20%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%20%D8%AE%D8%A7%D8%B5
+              - link "- ساخت سایر ماشین آلات با کاربرد خاص" [ref=e13200] [cursor=pointer]:
+                - /url: /company/details?code=425066&Company=%D8%A7%D9%85%DB%8C%D8%B1%20%D8%AD%D8%AF%D8%A7%D8%AF%DB%8C&Activity=%D8%B3%D8%A7%D8%AE%D8%AA%20%D8%B3%D8%A7%DB%8C%D8%B1%20%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D8%A2%D9%84%D8%A7%D8%AA%20%D8%A8%D8%A7%20%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%20%D8%AE%D8%A7%D8%B5
+              - generic [ref=e13201]: ری
+              - generic [ref=e13202]: حقیقی
+              - generic [ref=e13203]: شهرک صنعتی شمس آباد
+              - generic [ref=e13204]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13205]:
+              - link "محمودفاموری" [ref=e13206] [cursor=pointer]:
+                - /url: /company/details?code=C74512&Company=%D9%85%D8%AD%D9%85%D9%88%D8%AF%D9%81%D8%A7%D9%85%D9%88%D8%B1%DB%8C&Activity=%D8%AE%D8%AF%D9%85%D8%A7%D8%AA%20%D8%B3%D8%A7%D8%AE%D8%AA%20%D9%82%D8%B7%D8%B9%D8%A7%D8%AA%20%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C%20%D8%A8%D9%87%20%D8%B1%D9%88%D8%B4%20%D8%AA%D8%B2%D8%B1%DB%8C%D9%82
+              - link "- خدمات ساخت قطعات پلاستیکی به روش تزریق" [ref=e13207] [cursor=pointer]:
+                - /url: /company/details?code=C74512&Company=%D9%85%D8%AD%D9%85%D9%88%D8%AF%D9%81%D8%A7%D9%85%D9%88%D8%B1%DB%8C&Activity=%D8%AE%D8%AF%D9%85%D8%A7%D8%AA%20%D8%B3%D8%A7%D8%AE%D8%AA%20%D9%82%D8%B7%D8%B9%D8%A7%D8%AA%20%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C%20%D8%A8%D9%87%20%D8%B1%D9%88%D8%B4%20%D8%AA%D8%B2%D8%B1%DB%8C%D9%82
+              - generic [ref=e13208]: ری
+              - generic [ref=e13209]: حقیقی
+              - generic [ref=e13210]: شهرک صنعتی شمس آباد
+              - generic [ref=e13211]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13212]:
+              - link "کارا پارسیان یکصد و ده" [ref=e13213] [cursor=pointer]:
+                - /url: /company/details?code=FF49A9&Company=%DA%A9%D8%A7%D8%B1%D8%A7%20%D9%BE%D8%A7%D8%B1%D8%B3%DB%8C%D8%A7%D9%86%20%DB%8C%DA%A9%D8%B5%D8%AF%20%D9%88%20%D8%AF%D9%87&Activity=%20%D9%82%D9%88%D8%B7%DB%8C%20%D8%A7%D8%B3%D9%BE%D8%B1%DB%8C%20%D9%81%D9%88%D9%84%D8%A7%D8%AF%DB%8C
+              - link "- قوطی اسپری فولادی" [ref=e13214] [cursor=pointer]:
+                - /url: /company/details?code=FF49A9&Company=%DA%A9%D8%A7%D8%B1%D8%A7%20%D9%BE%D8%A7%D8%B1%D8%B3%DB%8C%D8%A7%D9%86%20%DB%8C%DA%A9%D8%B5%D8%AF%20%D9%88%20%D8%AF%D9%87&Activity=%20%D9%82%D9%88%D8%B7%DB%8C%20%D8%A7%D8%B3%D9%BE%D8%B1%DB%8C%20%D9%81%D9%88%D9%84%D8%A7%D8%AF%DB%8C
+              - generic [ref=e13215]: تهران
+              - generic [ref=e13216]: شرکت تولیدی
+              - generic [ref=e13217]: شهرک صنعتی شمس آباد
+              - generic [ref=e13218]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13219]:
+              - link "نورد گرم پیشتاز" [ref=e13220] [cursor=pointer]:
+                - /url: /company/details?code=219D57&Company=%D9%86%D9%88%D8%B1%D8%AF%20%DA%AF%D8%B1%D9%85%20%D9%BE%DB%8C%D8%B4%D8%AA%D8%A7%D8%B2&Activity=%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D9%85%DB%8C%D9%84%D9%87%20%D9%88%20%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF%20%D9%81%D9%88%D9%84%D8%A7%D8%AF%DB%8C
+              - link "- انواع میله و میلگرد فولادی" [ref=e13221] [cursor=pointer]:
+                - /url: /company/details?code=219D57&Company=%D9%86%D9%88%D8%B1%D8%AF%20%DA%AF%D8%B1%D9%85%20%D9%BE%DB%8C%D8%B4%D8%AA%D8%A7%D8%B2&Activity=%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D9%85%DB%8C%D9%84%D9%87%20%D9%88%20%D9%85%DB%8C%D9%84%DA%AF%D8%B1%D8%AF%20%D9%81%D9%88%D9%84%D8%A7%D8%AF%DB%8C
+              - generic [ref=e13222]: تهران
+              - generic [ref=e13223]: شرکت تولیدی
+              - generic [ref=e13224]: شهرک صنعتی شمس آباد
+              - generic [ref=e13225]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13226]:
+              - link "تولیدی لوله وپروفیل کیهان" [ref=e13227] [cursor=pointer]:
+                - /url: /company/details?code=02DF42&Company=%D8%AA%D9%88%D9%84%DB%8C%D8%AF%DB%8C%20%D9%84%D9%88%D9%84%D9%87%20%D9%88%D9%BE%D8%B1%D9%88%D9%81%DB%8C%D9%84%20%DA%A9%DB%8C%D9%87%D8%A7%D9%86&Activity=%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D8%A2%D9%87%D9%86%20%D8%AE%D8%A7%D9%85%20%D9%88%20%D9%81%D9%88%D9%84%D8%A7%D8%AF
+              - link "- تولید آهن خام و فولاد" [ref=e13228] [cursor=pointer]:
+                - /url: /company/details?code=02DF42&Company=%D8%AA%D9%88%D9%84%DB%8C%D8%AF%DB%8C%20%D9%84%D9%88%D9%84%D9%87%20%D9%88%D9%BE%D8%B1%D9%88%D9%81%DB%8C%D9%84%20%DA%A9%DB%8C%D9%87%D8%A7%D9%86&Activity=%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D8%A2%D9%87%D9%86%20%D8%AE%D8%A7%D9%85%20%D9%88%20%D9%81%D9%88%D9%84%D8%A7%D8%AF
+              - generic [ref=e13229]: ری
+              - generic [ref=e13230]: خصوصی
+              - generic [ref=e13231]: شهرک صنعتی شمس آباد
+              - generic [ref=e13232]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13233]:
+              - link "اصغر حاجی‌ زاده‌" [ref=e13234] [cursor=pointer]:
+                - /url: /company/details?code=F69789&Company=%D8%A7%D8%B5%D8%BA%D8%B1%20%D8%AD%D8%A7%D8%AC%DB%8C%E2%80%8C%20%D8%B2%D8%A7%D8%AF%D9%87%E2%80%8C&Activity=%20%D8%B1%DB%8C%D8%AE%D8%AA%D9%87%20%DA%AF%D8%B1%DB%8C%20%D9%81%D9%88%D9%84%D8%A7%D8%AF
+              - link "- ریخته گری فولاد" [ref=e13235] [cursor=pointer]:
+                - /url: /company/details?code=F69789&Company=%D8%A7%D8%B5%D8%BA%D8%B1%20%D8%AD%D8%A7%D8%AC%DB%8C%E2%80%8C%20%D8%B2%D8%A7%D8%AF%D9%87%E2%80%8C&Activity=%20%D8%B1%DB%8C%D8%AE%D8%AA%D9%87%20%DA%AF%D8%B1%DB%8C%20%D9%81%D9%88%D9%84%D8%A7%D8%AF
+              - generic [ref=e13236]: تهران
+              - generic [ref=e13237]: شرکت تولیدی
+              - generic [ref=e13238]: شهرک صنعتی شمس آباد
+              - generic [ref=e13239]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13240]:
+              - link "سنگبری پارت اسفید" [ref=e13241] [cursor=pointer]:
+                - /url: /company/details?code=458247&Company=%D8%B3%D9%86%DA%AF%D8%A8%D8%B1%DB%8C%20%D9%BE%D8%A7%D8%B1%D8%AA%20%D8%A7%D8%B3%D9%81%DB%8C%D8%AF&Activity=%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA%20%D8%B3%D9%86%DA%AF%DB%8C
+              - link "- انواع محصولات سنگی" [ref=e13242] [cursor=pointer]:
+                - /url: /company/details?code=458247&Company=%D8%B3%D9%86%DA%AF%D8%A8%D8%B1%DB%8C%20%D9%BE%D8%A7%D8%B1%D8%AA%20%D8%A7%D8%B3%D9%81%DB%8C%D8%AF&Activity=%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA%20%D8%B3%D9%86%DA%AF%DB%8C
+              - generic [ref=e13243]: تهران
+              - generic [ref=e13244]: شرکت تولیدی
+              - generic [ref=e13245]: شهرک صنعتی شمس آباد
+              - generic [ref=e13246]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13247]:
+              - link "گروه صنعتی آبشار شیمی" [ref=e13248] [cursor=pointer]:
+                - /url: /company/details?code=E0C882&Company=%DA%AF%D8%B1%D9%88%D9%87%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1%20%D8%B4%DB%8C%D9%85%DB%8C&Activity=%D8%B3%D8%A7%D8%AE%D8%AA%20%D9%81%D8%B1%D8%A2%D9%88%D8%B1%D8%AF%D9%87%20%D9%87%D8%A7%DB%8C%20%D9%86%D9%81%D8%AA%DB%8C%20%D8%AA%D8%B5%D9%81%DB%8C%D9%87%20%D8%B4%D8%AF%D9%87
+              - link "- ساخت فرآورده های نفتی تصفیه شده" [ref=e13249] [cursor=pointer]:
+                - /url: /company/details?code=E0C882&Company=%DA%AF%D8%B1%D9%88%D9%87%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1%20%D8%B4%DB%8C%D9%85%DB%8C&Activity=%D8%B3%D8%A7%D8%AE%D8%AA%20%D9%81%D8%B1%D8%A2%D9%88%D8%B1%D8%AF%D9%87%20%D9%87%D8%A7%DB%8C%20%D9%86%D9%81%D8%AA%DB%8C%20%D8%AA%D8%B5%D9%81%DB%8C%D9%87%20%D8%B4%D8%AF%D9%87
+              - generic [ref=e13250]: ری
+              - generic [ref=e13251]: خصوصی
+              - generic [ref=e13252]: شهرک صنعتی شمس آباد
+              - generic [ref=e13253]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13254]:
+              - link "غیبعلی‌ قره‌داغی‌" [ref=e13255] [cursor=pointer]:
+                - /url: /company/details?code=0AB53C&Company=%D8%BA%DB%8C%D8%A8%D8%B9%D9%84%DB%8C%E2%80%8C%20%20%D9%82%D8%B1%D9%87%E2%80%8C%D8%AF%D8%A7%D8%BA%DB%8C%E2%80%8C&Activity=%20%20%D8%A8%D8%B7%D8%B1%DB%8C%D9%87%D8%A7%DB%8C%20%D9%BE%D8%AA%20%28PET%29-%20%20%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1%D9%87%20%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%B8%D8%B1%D9%88%D9%81
+              - link "- بطریهای پت (PET)- دستگیره پلاستیکی انواع ظروف" [ref=e13256] [cursor=pointer]:
+                - /url: /company/details?code=0AB53C&Company=%D8%BA%DB%8C%D8%A8%D8%B9%D9%84%DB%8C%E2%80%8C%20%20%D9%82%D8%B1%D9%87%E2%80%8C%D8%AF%D8%A7%D8%BA%DB%8C%E2%80%8C&Activity=%20%20%D8%A8%D8%B7%D8%B1%DB%8C%D9%87%D8%A7%DB%8C%20%D9%BE%D8%AA%20%28PET%29-%20%20%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1%D9%87%20%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%B8%D8%B1%D9%88%D9%81
+              - generic [ref=e13257]: تهران
+              - generic [ref=e13258]: حقیقی
+              - generic [ref=e13259]: شهرک صنعتی شمس آباد
+              - generic [ref=e13260]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13261]:
+              - link "فلز سازان مهام" [ref=e13262] [cursor=pointer]:
+                - /url: /company/details?code=CB8731&Company=%D9%81%D9%84%D8%B2%20%D8%B3%D8%A7%D8%B2%D8%A7%D9%86%20%D9%85%D9%87%D8%A7%D9%85&Activity=%20%D8%B4%DA%A9%D9%84%20%D8%AF%D9%87%DB%8C%20%D9%88%D8%B1%D9%82
+              - link "- شکل دهی ورق" [ref=e13263] [cursor=pointer]:
+                - /url: /company/details?code=CB8731&Company=%D9%81%D9%84%D8%B2%20%D8%B3%D8%A7%D8%B2%D8%A7%D9%86%20%D9%85%D9%87%D8%A7%D9%85&Activity=%20%D8%B4%DA%A9%D9%84%20%D8%AF%D9%87%DB%8C%20%D9%88%D8%B1%D9%82
+              - generic [ref=e13264]: تهران
+              - generic [ref=e13265]: شرکت تولیدی
+              - generic [ref=e13266]: شهرک صنعتی شمس آباد
+              - generic [ref=e13267]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13268]:
+              - link "فرامرز تهران" [ref=e13269] [cursor=pointer]:
+                - /url: /company/details?code=B11857&Company=%D9%81%D8%B1%D8%A7%D9%85%D8%B1%D8%B2%20%D8%AA%D9%87%D8%B1%D8%A7%D9%86&Activity=%20%D8%A8%D8%B1%D8%B4%20%DA%A9%D8%A7%D8%B1%DB%8C%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%B3%D9%86%DA%AF
+              - link "- برش کاری انواع سنگ" [ref=e13270] [cursor=pointer]:
+                - /url: /company/details?code=B11857&Company=%D9%81%D8%B1%D8%A7%D9%85%D8%B1%D8%B2%20%D8%AA%D9%87%D8%B1%D8%A7%D9%86&Activity=%20%D8%A8%D8%B1%D8%B4%20%DA%A9%D8%A7%D8%B1%DB%8C%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%B3%D9%86%DA%AF
+              - generic [ref=e13271]: تهران
+              - generic [ref=e13272]: شرکت تولیدی
+              - generic [ref=e13273]: شهرک صنعتی شمس آباد
+              - generic [ref=e13274]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13275]:
+              - link "غضنفر اسکندری‌ پارس‌ آباد" [ref=e13276] [cursor=pointer]:
+                - /url: /company/details?code=FC4355&Company=%D8%BA%D8%B6%D9%86%D9%81%D8%B1%20%D8%A7%D8%B3%DA%A9%D9%86%D8%AF%D8%B1%DB%8C%E2%80%8C%20%D9%BE%D8%A7%D8%B1%D8%B3%E2%80%8C%20%D8%A2%D8%A8%D8%A7%D8%AF&Activity=%20%D8%B1%DB%8C%D8%AE%D8%AA%D9%87%20%DA%AF%D8%B1%DB%8C%20%D8%B3%D8%A7%DB%8C%D8%B1%20%D8%A2%D9%84%DB%8C%D8%A7%DA%98%D9%87%D8%A7%DB%8C%20%D9%85%D8%B3%20%D8%B7%D8%A8%D9%82%D9%87%20%D8%A8%D9%86%D8%AF%DB%8C%20%D9%86%D8%B4%D8%AF%D9%87%20%D8%AF%D8%B1%20%D8%AC%D8%A7%DB%8C%20%D8%AF%DB%8C%DA%AF%D8%B1-%20%D8%B1%DB%8C%D8%AE%D8%AA%D9%87%20%DA%AF%D8%B1%DB%8C%20%D9%85%D8%A7%D8%B3%D9%87%20%D8%A7%DB%8C%20%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85-%20%D8%B1%DB%8C%D8%AE%D8%AA%D9%87%20%DA%AF%D8%B1%DB%8C%20%D9%81%D9%88%D9%84%D8%A7%D8%AF-%20%D8%B1%DB%8C%D8%AE%D8%AA%D9%87%20%DA%AF%D8%B1%DB%8C%20%D8%A8%D8%B1%D9%86%D8%AC-%20%D8%B1%DB%8C%D8%AE%D8%AA%D9%87%20%DA%AF%D8%B1%DB%8C%20%D8%A8%D8%B1%D9%86%D8%B2
+              - link "- ریخته گری سایر آلیاژهای مس طبقه بندی نشده در جای دیگر- ریخته گری ماسه ای آلومینیوم- ریخته گری فولاد- ریخته گری برنج- ریخته گری برنز" [ref=e13277] [cursor=pointer]:
+                - /url: /company/details?code=FC4355&Company=%D8%BA%D8%B6%D9%86%D9%81%D8%B1%20%D8%A7%D8%B3%DA%A9%D9%86%D8%AF%D8%B1%DB%8C%E2%80%8C%20%D9%BE%D8%A7%D8%B1%D8%B3%E2%80%8C%20%D8%A2%D8%A8%D8%A7%D8%AF&Activity=%20%D8%B1%DB%8C%D8%AE%D8%AA%D9%87%20%DA%AF%D8%B1%DB%8C%20%D8%B3%D8%A7%DB%8C%D8%B1%20%D8%A2%D9%84%DB%8C%D8%A7%DA%98%D9%87%D8%A7%DB%8C%20%D9%85%D8%B3%20%D8%B7%D8%A8%D9%82%D9%87%20%D8%A8%D9%86%D8%AF%DB%8C%20%D9%86%D8%B4%D8%AF%D9%87%20%D8%AF%D8%B1%20%D8%AC%D8%A7%DB%8C%20%D8%AF%DB%8C%DA%AF%D8%B1-%20%D8%B1%DB%8C%D8%AE%D8%AA%D9%87%20%DA%AF%D8%B1%DB%8C%20%D9%85%D8%A7%D8%B3%D9%87%20%D8%A7%DB%8C%20%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85-%20%D8%B1%DB%8C%D8%AE%D8%AA%D9%87%20%DA%AF%D8%B1%DB%8C%20%D9%81%D9%88%D9%84%D8%A7%D8%AF-%20%D8%B1%DB%8C%D8%AE%D8%AA%D9%87%20%DA%AF%D8%B1%DB%8C%20%D8%A8%D8%B1%D9%86%D8%AC-%20%D8%B1%DB%8C%D8%AE%D8%AA%D9%87%20%DA%AF%D8%B1%DB%8C%20%D8%A8%D8%B1%D9%86%D8%B2
+              - generic [ref=e13278]: تهران
+              - generic [ref=e13279]: شرکت تولیدی
+              - generic [ref=e13280]: شهرک صنعتی شمس آباد
+              - generic [ref=e13281]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13282]:
+              - link "حسن‌ رضایی‌" [ref=e13283] [cursor=pointer]:
+                - /url: /company/details?code=E8A4A6&Company=%D8%AD%D8%B3%D9%86%E2%80%8C%20%20%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C%E2%80%8C&Activity=%20%20%D8%AA%D8%B3%D9%85%D9%87%20%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C
+              - link "- تسمه پلاستیکی" [ref=e13284] [cursor=pointer]:
+                - /url: /company/details?code=E8A4A6&Company=%D8%AD%D8%B3%D9%86%E2%80%8C%20%20%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C%E2%80%8C&Activity=%20%20%D8%AA%D8%B3%D9%85%D9%87%20%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C
+              - generic [ref=e13285]: تهران
+              - generic [ref=e13286]: حقیقی
+              - generic [ref=e13287]: شهرک صنعتی شمس آباد
+              - generic [ref=e13288]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13289]:
+              - link "گروه صنایع شیشه و گاز" [ref=e13290] [cursor=pointer]:
+                - /url: /company/details?code=FAHK97&Company=%DA%AF%D8%B1%D9%88%D9%87%20%D8%B5%D9%86%D8%A7%DB%8C%D8%B9%20%D8%B4%DB%8C%D8%B4%D9%87%20%D9%88%20%DA%AF%D8%A7%D8%B2&Activity=%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D8%A8%D8%B7%D8%B1%20%D9%88%20%D8%AC%D8%A7%D8%B1%20%D8%B4%DB%8C%D8%B4%D9%87%20%D8%A7%DB%8C
+              - link "- تولید بطر و جار شیشه ای" [ref=e13291] [cursor=pointer]:
+                - /url: /company/details?code=FAHK97&Company=%DA%AF%D8%B1%D9%88%D9%87%20%D8%B5%D9%86%D8%A7%DB%8C%D8%B9%20%D8%B4%DB%8C%D8%B4%D9%87%20%D9%88%20%DA%AF%D8%A7%D8%B2&Activity=%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D8%A8%D8%B7%D8%B1%20%D9%88%20%D8%AC%D8%A7%D8%B1%20%D8%B4%DB%8C%D8%B4%D9%87%20%D8%A7%DB%8C
+              - generic [ref=e13292]: تهران
+              - generic [ref=e13294]: شهرک صنعتی شمس آباد
+              - generic [ref=e13295]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13296]:
+              - link "پایکار صنعت آرا" [ref=e13297] [cursor=pointer]:
+                - /url: /company/details?code=FAA063&Company=%D9%BE%D8%A7%DB%8C%DA%A9%D8%A7%D8%B1%20%D8%B5%D9%86%D8%B9%D8%AA%20%D8%A2%D8%B1%D8%A7&Activity=%20%D8%B1%DB%8C%D9%86%DA%AF%20%D9%81%D9%88%D9%84%D8%A7%D8%AF%DB%8C%20%D8%AE%D9%88%D8%AF%D8%B1%D9%88
+              - link "- رینگ فولادی خودرو" [ref=e13298] [cursor=pointer]:
+                - /url: /company/details?code=FAA063&Company=%D9%BE%D8%A7%DB%8C%DA%A9%D8%A7%D8%B1%20%D8%B5%D9%86%D8%B9%D8%AA%20%D8%A2%D8%B1%D8%A7&Activity=%20%D8%B1%DB%8C%D9%86%DA%AF%20%D9%81%D9%88%D9%84%D8%A7%D8%AF%DB%8C%20%D8%AE%D9%88%D8%AF%D8%B1%D9%88
+              - generic [ref=e13299]: تهران
+              - generic [ref=e13300]: شرکت تولیدی
+              - generic [ref=e13301]: شهرک صنعتی شمس آباد
+              - generic [ref=e13302]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13303]:
+              - link "محمد داودآبادی‌" [ref=e13304] [cursor=pointer]:
+                - /url: /company/details?code=C0FDE2&Company=%D9%85%D8%AD%D9%85%D8%AF%20%D8%AF%D8%A7%D9%88%D8%AF%D8%A2%D8%A8%D8%A7%D8%AF%DB%8C%E2%80%8C&Activity=%20%20%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D8%A7%D9%84%D8%A7%D8%AA%20%D9%82%D8%A7%D9%84%D8%A8%D8%B3%D8%A7%D8%B2%DB%8C%20%D8%A8%D8%AC%D8%B2%D9%82%D8%A7%D9%84%D8%A8%20%D8%B4%D9%85%D8%B4
+              - link "- ماشین الات قالبسازی بجزقالب شمش" [ref=e13305] [cursor=pointer]:
+                - /url: /company/details?code=C0FDE2&Company=%D9%85%D8%AD%D9%85%D8%AF%20%D8%AF%D8%A7%D9%88%D8%AF%D8%A2%D8%A8%D8%A7%D8%AF%DB%8C%E2%80%8C&Activity=%20%20%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D8%A7%D9%84%D8%A7%D8%AA%20%D9%82%D8%A7%D9%84%D8%A8%D8%B3%D8%A7%D8%B2%DB%8C%20%D8%A8%D8%AC%D8%B2%D9%82%D8%A7%D9%84%D8%A8%20%D8%B4%D9%85%D8%B4
+              - generic [ref=e13306]: تهران
+              - generic [ref=e13307]: حقیقی
+              - generic [ref=e13308]: شهرک صنعتی شمس آباد
+              - generic [ref=e13309]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13310]:
+              - link "محمد فر مهینی فراهانی" [ref=e13311] [cursor=pointer]:
+                - /url: /company/details?code=D5FF95&Company=%D9%85%D8%AD%D9%85%D8%AF%20%D9%81%D8%B1%20%D9%85%D9%87%DB%8C%D9%86%DB%8C%20%D9%81%D8%B1%D8%A7%D9%87%D8%A7%D9%86%DB%8C&Activity=%20%D9%82%D8%A7%D9%84%D8%A8%20%D8%B3%D8%A7%D8%AE%D8%AA%20%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA%20%D8%B4%DB%8C%D8%B4%D9%87%20%D8%A7%DB%8C%20%D9%88%20%D9%85%D8%B9%D8%AF%D9%86%DB%8C
+              - link "- قالب ساخت محصولات شیشه ای و معدنی" [ref=e13312] [cursor=pointer]:
+                - /url: /company/details?code=D5FF95&Company=%D9%85%D8%AD%D9%85%D8%AF%20%D9%81%D8%B1%20%D9%85%D9%87%DB%8C%D9%86%DB%8C%20%D9%81%D8%B1%D8%A7%D9%87%D8%A7%D9%86%DB%8C&Activity=%20%D9%82%D8%A7%D9%84%D8%A8%20%D8%B3%D8%A7%D8%AE%D8%AA%20%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA%20%D8%B4%DB%8C%D8%B4%D9%87%20%D8%A7%DB%8C%20%D9%88%20%D9%85%D8%B9%D8%AF%D9%86%DB%8C
+              - generic [ref=e13313]: تهران
+              - generic [ref=e13314]: حقیقی
+              - generic [ref=e13315]: شهرک صنعتی شمس آباد
+              - generic [ref=e13316]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13317]:
+              - link "جهان‌ کریستال‌" [ref=e13318] [cursor=pointer]:
+                - /url: /company/details?code=C5F3A4&Company=%D8%AC%D9%87%D8%A7%D9%86%E2%80%8C%20%DA%A9%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7%D9%84%E2%80%8C&Activity=%20%D8%B8%D8%B1%D9%88%D9%81%20%DA%A9%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7%D9%84
+              - link "- ظروف کریستال" [ref=e13319] [cursor=pointer]:
+                - /url: /company/details?code=C5F3A4&Company=%D8%AC%D9%87%D8%A7%D9%86%E2%80%8C%20%DA%A9%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7%D9%84%E2%80%8C&Activity=%20%D8%B8%D8%B1%D9%88%D9%81%20%DA%A9%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7%D9%84
+              - generic [ref=e13320]: تهران
+              - generic [ref=e13321]: شرکت تولیدی
+              - generic [ref=e13322]: شهرک صنعتی شمس آباد
+              - generic [ref=e13323]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13324]:
+              - link "محمد ابراهیم مصفا" [ref=e13325] [cursor=pointer]:
+                - /url: /company/details?code=549AB7&Company=%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%DB%8C%D9%85%20%D9%85%D8%B5%D9%81%D8%A7&Activity=%20%D8%A8%D8%B1%D8%B4%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%B3%D9%86%DA%AF%20%D9%85%D8%B1%D9%85%D8%B1%DB%8C%D8%AA
+              - link "- برش انواع سنگ مرمریت" [ref=e13326] [cursor=pointer]:
+                - /url: /company/details?code=549AB7&Company=%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%DB%8C%D9%85%20%D9%85%D8%B5%D9%81%D8%A7&Activity=%20%D8%A8%D8%B1%D8%B4%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%B3%D9%86%DA%AF%20%D9%85%D8%B1%D9%85%D8%B1%DB%8C%D8%AA
+              - generic [ref=e13327]: تهران
+              - generic [ref=e13328]: حقیقی
+              - generic [ref=e13329]: شهرک صنعتی شمس آباد
+              - generic [ref=e13330]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13331]:
+              - link "رضاومحمودشیاسی ارانی" [ref=e13332] [cursor=pointer]:
+                - /url: /company/details?code=3C8C2C&Company=%D8%B1%D8%B6%D8%A7%D9%88%D9%85%D8%AD%D9%85%D9%88%D8%AF%D8%B4%DB%8C%D8%A7%D8%B3%DB%8C%20%D8%A7%D8%B1%D8%A7%D9%86%DB%8C&Activity=%D8%A8%D8%B1%D8%B4%D8%8C%20%D8%B4%DA%A9%D9%84%20%D8%AF%D8%A7%D8%AF%D9%86%20%D9%88%20%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA%20%D8%B3%D9%86%DA%AF
+              - link "- برش، شکل دادن و پرداخت سنگ" [ref=e13333] [cursor=pointer]:
+                - /url: /company/details?code=3C8C2C&Company=%D8%B1%D8%B6%D8%A7%D9%88%D9%85%D8%AD%D9%85%D9%88%D8%AF%D8%B4%DB%8C%D8%A7%D8%B3%DB%8C%20%D8%A7%D8%B1%D8%A7%D9%86%DB%8C&Activity=%D8%A8%D8%B1%D8%B4%D8%8C%20%D8%B4%DA%A9%D9%84%20%D8%AF%D8%A7%D8%AF%D9%86%20%D9%88%20%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA%20%D8%B3%D9%86%DA%AF
+              - generic [ref=e13334]: ری
+              - generic [ref=e13335]: حقیقی
+              - generic [ref=e13336]: شهرک صنعتی شمس آباد
+              - generic [ref=e13337]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13338]:
+              - link "غلامرضا مختاری‌ میرآبادی‌" [ref=e13339] [cursor=pointer]:
+                - /url: /company/details?code=30D0BD&Company=%D8%BA%D9%84%D8%A7%D9%85%D8%B1%D8%B6%D8%A7%20%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%DB%8C%E2%80%8C%20%D9%85%DB%8C%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF%DB%8C%E2%80%8C&Activity=%20%D8%AF%DB%8C%DA%AF%20%D8%A8%D8%AE%D8%A7%D8%B1%20%D9%88%D8%A7%D8%AA%D8%B1%D8%AA%DB%8C%D9%88%D8%A8%20%D8%A8%D8%A7%20%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D8%A8%D8%AE%D8%A7%D8%B1%20%DA%A9%D9%85%D8%AA%D8%B1%20%D8%A7%D8%B2%2045%20%D8%AA%D9%86%20%D8%A8%D8%B1%20%D8%B3%D8%A7%D8%B9%D8%AA-%20%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87%20%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D9%BE%D9%88%DA%A9%D9%87%20%D8%A2%D9%85%D9%BE%D9%88%D9%84%20%D9%88%20%D9%88%20%DB%8C%D8%A7%D9%84-%20%D8%A7%D8%AA%D9%88%DA%A9%D9%84%D8%A7%D9%88%20%D8%AF%D9%86%D8%AF%D8%A7%D9%86%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%20%D9%86%D9%88%D8%B9%20B-%20%D8%AA%D8%B5%D9%81%DB%8C%D9%87%20%DA%A9%D9%86%D9%86%D8%AF%D9%87%20%D8%A2%D8%A8%20%D8%A7%D8%B3%D9%85%D8%B2%DB%8C%20%D9%85%D8%B9%DA%A9%D9%88%D8%B3%20%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C
+              - link "- دیگ بخار واترتیوب با تولید بخار کمتر از 45 تن بر ساعت- دستگاه تولید پوکه آمپول و و یال- اتوکلاو دندانپزشکی نوع B- تصفیه کننده آب اسمزی معکوس پزشکی" [ref=e13340] [cursor=pointer]:
+                - /url: /company/details?code=30D0BD&Company=%D8%BA%D9%84%D8%A7%D9%85%D8%B1%D8%B6%D8%A7%20%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%DB%8C%E2%80%8C%20%D9%85%DB%8C%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF%DB%8C%E2%80%8C&Activity=%20%D8%AF%DB%8C%DA%AF%20%D8%A8%D8%AE%D8%A7%D8%B1%20%D9%88%D8%A7%D8%AA%D8%B1%D8%AA%DB%8C%D9%88%D8%A8%20%D8%A8%D8%A7%20%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D8%A8%D8%AE%D8%A7%D8%B1%20%DA%A9%D9%85%D8%AA%D8%B1%20%D8%A7%D8%B2%2045%20%D8%AA%D9%86%20%D8%A8%D8%B1%20%D8%B3%D8%A7%D8%B9%D8%AA-%20%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87%20%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D9%BE%D9%88%DA%A9%D9%87%20%D8%A2%D9%85%D9%BE%D9%88%D9%84%20%D9%88%20%D9%88%20%DB%8C%D8%A7%D9%84-%20%D8%A7%D8%AA%D9%88%DA%A9%D9%84%D8%A7%D9%88%20%D8%AF%D9%86%D8%AF%D8%A7%D9%86%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%20%D9%86%D9%88%D8%B9%20B-%20%D8%AA%D8%B5%D9%81%DB%8C%D9%87%20%DA%A9%D9%86%D9%86%D8%AF%D9%87%20%D8%A2%D8%A8%20%D8%A7%D8%B3%D9%85%D8%B2%DB%8C%20%D9%85%D8%B9%DA%A9%D9%88%D8%B3%20%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C
+              - generic [ref=e13341]: تهران
+              - generic [ref=e13342]: حقیقی
+              - generic [ref=e13343]: شهرک صنعتی شمس آباد
+              - generic [ref=e13344]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13345]:
+              - link "شمس اله نجفی" [ref=e13346] [cursor=pointer]:
+                - /url: /company/details?code=E2BE31&Company=%D8%B4%D9%85%D8%B3%20%D8%A7%D9%84%D9%87%20%D9%86%D8%AC%D9%81%DB%8C&Activity=%20%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%B3%D9%86%DA%AF%D8%A8%D8%B1%DB%8C
+              - link "- انواع سنگبری" [ref=e13347] [cursor=pointer]:
+                - /url: /company/details?code=E2BE31&Company=%D8%B4%D9%85%D8%B3%20%D8%A7%D9%84%D9%87%20%D9%86%D8%AC%D9%81%DB%8C&Activity=%20%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%B3%D9%86%DA%AF%D8%A8%D8%B1%DB%8C
+              - generic [ref=e13348]: تهران
+              - generic [ref=e13349]: حقیقی
+              - generic [ref=e13350]: شهرک صنعتی شمس آباد
+              - generic [ref=e13351]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13352]:
+              - link "اسماعیل حاج صمدی ورنوسفادرانی" [ref=e13353] [cursor=pointer]:
+                - /url: /company/details?code=7A2BFE&Company=%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%DB%8C%D9%84%20%D8%AD%D8%A7%D8%AC%20%D8%B5%D9%85%D8%AF%DB%8C%20%D9%88%D8%B1%D9%86%D9%88%D8%B3%D9%81%D8%A7%D8%AF%D8%B1%D8%A7%D9%86%DB%8C&Activity=%D8%A8%D8%B1%D8%B4%D8%8C%20%D8%B4%DA%A9%D9%84%20%D8%AF%D8%A7%D8%AF%D9%86%20%D9%88%20%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA%20%D8%B3%D9%86%DA%AF
+              - link "- برش، شکل دادن و پرداخت سنگ" [ref=e13354] [cursor=pointer]:
+                - /url: /company/details?code=7A2BFE&Company=%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%DB%8C%D9%84%20%D8%AD%D8%A7%D8%AC%20%D8%B5%D9%85%D8%AF%DB%8C%20%D9%88%D8%B1%D9%86%D9%88%D8%B3%D9%81%D8%A7%D8%AF%D8%B1%D8%A7%D9%86%DB%8C&Activity=%D8%A8%D8%B1%D8%B4%D8%8C%20%D8%B4%DA%A9%D9%84%20%D8%AF%D8%A7%D8%AF%D9%86%20%D9%88%20%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA%20%D8%B3%D9%86%DA%AF
+              - generic [ref=e13355]: ری
+              - generic [ref=e13356]: حقیقی
+              - generic [ref=e13357]: شهرک صنعتی شمس آباد
+              - generic [ref=e13358]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13359]:
+              - link "مادسا صنعت الماس" [ref=e13360] [cursor=pointer]:
+                - /url: /company/details?code=7E54B7&Company=%D9%85%D8%A7%D8%AF%D8%B3%D8%A7%20%D8%B5%D9%86%D8%B9%D8%AA%20%D8%A7%D9%84%D9%85%D8%A7%D8%B3&Activity=%20%D9%BE%DB%8C%DA%86%20%D9%81%D9%88%D9%84%D8%A7%D8%AF%DB%8C%20%D8%A2%D9%84%DB%8C%D8%A7%DA%98%DB%8C%20%D8%A8%D8%B2%D8%B1%DA%AF%20%D8%AA%D8%B1%20%D8%A7%D8%B2%20M12
+              - link "- پیچ فولادی آلیاژی بزرگ تر از M12" [ref=e13361] [cursor=pointer]:
+                - /url: /company/details?code=7E54B7&Company=%D9%85%D8%A7%D8%AF%D8%B3%D8%A7%20%D8%B5%D9%86%D8%B9%D8%AA%20%D8%A7%D9%84%D9%85%D8%A7%D8%B3&Activity=%20%D9%BE%DB%8C%DA%86%20%D9%81%D9%88%D9%84%D8%A7%D8%AF%DB%8C%20%D8%A2%D9%84%DB%8C%D8%A7%DA%98%DB%8C%20%D8%A8%D8%B2%D8%B1%DA%AF%20%D8%AA%D8%B1%20%D8%A7%D8%B2%20M12
+              - generic [ref=e13362]: تهران
+              - generic [ref=e13363]: شرکت تولیدی
+              - generic [ref=e13364]: شهرک صنعتی شمس آباد
+              - generic [ref=e13365]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13366]:
+              - link "رونق عمران" [ref=e13367] [cursor=pointer]:
+                - /url: /company/details?code=0BA407&Company=%D8%B1%D9%88%D9%86%D9%82%20%D8%B9%D9%85%D8%B1%D8%A7%D9%86&Activity=%20%D8%A2%D8%B3%D8%AA%D8%B1%DB%8C%20%D8%AE%D9%88%D8%AF%D8%B1%D9%88%DB%8C%DB%8C%20%D9%BE%D8%A7%DB%8C%D9%87%20%D8%A2%D8%A8%DB%8C-%20%D8%B1%D9%88%D8%A7%D9%86%20%D8%B3%D8%A7%D8%B2%20%D8%B1%D9%86%DA%AF%20%D9%BE%D9%88%D8%AF%D8%B1%DB%8C-%20%D9%86%D9%88%D8%A7%D8%B1%20%DA%86%D8%B3%D8%A8%20%DA%A9%D8%A7%D8%BA%D8%B0%DB%8C-%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%AD%D9%84%D8%A7%D9%84%20%D9%85%D8%B1%DA%A9%D8%A8%20%DA%86%D8%A7%D9%BE-%20%D8%B1%D9%86%DA%AF%20%D9%86%D8%B3%D8%A7%D8%AC%DB%8C%20%D9%82%D9%84%DB%8C%D8%A7%DB%8C%DB%8C-%20%D9%85%DB%8C%DA%A9%D8%B3%D8%B1%20%D8%B1%D9%86%DA%AF%20%D8%B3%D8%A7%D8%B2%DB%8C-%20%D9%85%D8%A7%DB%8C%D8%B9%20%D9%BE%D8%A7%DA%A9%20%DA%A9%D9%86%D9%86%D8%AF%D9%87%20%D8%B1%D9%88%D8%BA%D9%86%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C-%20%D8%B1%D9%86%DA%AF%20%D9%86%D8%B3%D8%A7%D8%AC%DB%8C%20%D9%85%D8%B3%D8%AA%D9%82%DB%8C%D9%85
+              - link "- آستری خودرویی پایه آبی- روان ساز رنگ پودری- نوار چسب کاغذی- انواع حلال مرکب چاپ- رنگ نساجی قلیایی- میکسر رنگ سازی- مایع پاک کننده روغن صنعتی- رنگ نساجی مستقیم" [ref=e13368] [cursor=pointer]:
+                - /url: /company/details?code=0BA407&Company=%D8%B1%D9%88%D9%86%D9%82%20%D8%B9%D9%85%D8%B1%D8%A7%D9%86&Activity=%20%D8%A2%D8%B3%D8%AA%D8%B1%DB%8C%20%D8%AE%D9%88%D8%AF%D8%B1%D9%88%DB%8C%DB%8C%20%D9%BE%D8%A7%DB%8C%D9%87%20%D8%A2%D8%A8%DB%8C-%20%D8%B1%D9%88%D8%A7%D9%86%20%D8%B3%D8%A7%D8%B2%20%D8%B1%D9%86%DA%AF%20%D9%BE%D9%88%D8%AF%D8%B1%DB%8C-%20%D9%86%D9%88%D8%A7%D8%B1%20%DA%86%D8%B3%D8%A8%20%DA%A9%D8%A7%D8%BA%D8%B0%DB%8C-%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%AD%D9%84%D8%A7%D9%84%20%D9%85%D8%B1%DA%A9%D8%A8%20%DA%86%D8%A7%D9%BE-%20%D8%B1%D9%86%DA%AF%20%D9%86%D8%B3%D8%A7%D8%AC%DB%8C%20%D9%82%D9%84%DB%8C%D8%A7%DB%8C%DB%8C-%20%D9%85%DB%8C%DA%A9%D8%B3%D8%B1%20%D8%B1%D9%86%DA%AF%20%D8%B3%D8%A7%D8%B2%DB%8C-%20%D9%85%D8%A7%DB%8C%D8%B9%20%D9%BE%D8%A7%DA%A9%20%DA%A9%D9%86%D9%86%D8%AF%D9%87%20%D8%B1%D9%88%D8%BA%D9%86%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C-%20%D8%B1%D9%86%DA%AF%20%D9%86%D8%B3%D8%A7%D8%AC%DB%8C%20%D9%85%D8%B3%D8%AA%D9%82%DB%8C%D9%85
+              - generic [ref=e13369]: تهران
+              - generic [ref=e13370]: شرکت تولیدی
+              - generic [ref=e13371]: شهرک صنعتی شمس آباد
+              - generic [ref=e13372]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13373]:
+              - link "محمد صفر و محمدهادی طاهری و وراث مرحوم محمد مطلبی کربکندی" [ref=e13374] [cursor=pointer]:
+                - /url: /company/details?code=782CB0&Company=%D9%85%D8%AD%D9%85%D8%AF%20%D8%B5%D9%81%D8%B1%20%D9%88%20%D9%85%D8%AD%D9%85%D8%AF%D9%87%D8%A7%D8%AF%DB%8C%20%D8%B7%D8%A7%D9%87%D8%B1%DB%8C%20%D9%88%20%D9%88%D8%B1%D8%A7%D8%AB%20%D9%85%D8%B1%D8%AD%D9%88%D9%85%20%D9%85%D8%AD%D9%85%D8%AF%20%D9%85%D8%B7%D9%84%D8%A8%DB%8C%20%DA%A9%D8%B1%D8%A8%DA%A9%D9%86%D8%AF%DB%8C&Activity=%20%D8%A8%D8%A7%D8%B2%DB%8C%D8%A7%D9%81%D8%AA%20%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85
+              - link "- بازیافت آلومینیوم" [ref=e13375] [cursor=pointer]:
+                - /url: /company/details?code=782CB0&Company=%D9%85%D8%AD%D9%85%D8%AF%20%D8%B5%D9%81%D8%B1%20%D9%88%20%D9%85%D8%AD%D9%85%D8%AF%D9%87%D8%A7%D8%AF%DB%8C%20%D8%B7%D8%A7%D9%87%D8%B1%DB%8C%20%D9%88%20%D9%88%D8%B1%D8%A7%D8%AB%20%D9%85%D8%B1%D8%AD%D9%88%D9%85%20%D9%85%D8%AD%D9%85%D8%AF%20%D9%85%D8%B7%D9%84%D8%A8%DB%8C%20%DA%A9%D8%B1%D8%A8%DA%A9%D9%86%D8%AF%DB%8C&Activity=%20%D8%A8%D8%A7%D8%B2%DB%8C%D8%A7%D9%81%D8%AA%20%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85
+              - generic [ref=e13376]: تهران
+              - generic [ref=e13377]: حقیقی
+              - generic [ref=e13378]: شهرک صنعتی شمس آباد
+              - generic [ref=e13379]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13380]:
+              - link "عباس‌ امیدی‌" [ref=e13381] [cursor=pointer]:
+                - /url: /company/details?code=D7A989&Company=%D8%B9%D8%A8%D8%A7%D8%B3%E2%80%8C%20%20%D8%A7%D9%85%DB%8C%D8%AF%DB%8C%E2%80%8C&Activity=%20%D8%B1%DB%8C%D8%AE%D8%AA%D9%87%20%DA%AF%D8%B1%DB%8C%20%DA%86%D8%AF%D9%86
+              - link "- ریخته گری چدن" [ref=e13382] [cursor=pointer]:
+                - /url: /company/details?code=D7A989&Company=%D8%B9%D8%A8%D8%A7%D8%B3%E2%80%8C%20%20%D8%A7%D9%85%DB%8C%D8%AF%DB%8C%E2%80%8C&Activity=%20%D8%B1%DB%8C%D8%AE%D8%AA%D9%87%20%DA%AF%D8%B1%DB%8C%20%DA%86%D8%AF%D9%86
+              - generic [ref=e13383]: تهران
+              - generic [ref=e13384]: حقیقی
+              - generic [ref=e13385]: شهرک صنعتی شمس آباد
+              - generic [ref=e13386]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13387]:
+              - link "پکا شیمی" [ref=e13388] [cursor=pointer]:
+                - /url: /company/details?code=C68D57&Company=%D9%BE%DA%A9%D8%A7%20%D8%B4%DB%8C%D9%85%DB%8C&Activity=%20%D9%82%D8%B7%D8%B9%D8%A7%D8%AA%20%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C%20%D8%B8%D8%B1%D9%88%D9%81%20%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87
+              - link "- قطعات پلاستیکی ظروف آشپزخانه" [ref=e13389] [cursor=pointer]:
+                - /url: /company/details?code=C68D57&Company=%D9%BE%DA%A9%D8%A7%20%D8%B4%DB%8C%D9%85%DB%8C&Activity=%20%D9%82%D8%B7%D8%B9%D8%A7%D8%AA%20%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C%20%D8%B8%D8%B1%D9%88%D9%81%20%D8%A2%D8%B4%D9%BE%D8%B2%D8%AE%D8%A7%D9%86%D9%87
+              - generic [ref=e13390]: تهران
+              - generic [ref=e13391]: شرکت تولیدی
+              - generic [ref=e13392]: شهرک صنعتی شمس آباد
+              - generic [ref=e13393]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13394]:
+              - link "بهروش ریل آسانبر" [ref=e13395] [cursor=pointer]:
+                - /url: /company/details?code=2E108D&Company=%D8%A8%D9%87%D8%B1%D9%88%D8%B4%20%D8%B1%DB%8C%D9%84%20%D8%A2%D8%B3%D8%A7%D9%86%D8%A8%D8%B1&Activity=%D8%B3%D8%A7%D8%AE%D8%AA%20%D8%AA%D8%AC%D9%87%DB%8C%D8%B2%D8%A7%D8%AA%20%D8%A8%D8%A7%D9%84%D8%A7%D8%A8%D8%B1%D9%86%D8%AF%D9%87%20%D9%88%20%D8%AC%D8%A7%D8%A8%D8%AC%D8%A7%20%DA%A9%D9%86%D9%86%D8%AF%D9%87
+              - link "- ساخت تجهیزات بالابرنده و جابجا کننده" [ref=e13396] [cursor=pointer]:
+                - /url: /company/details?code=2E108D&Company=%D8%A8%D9%87%D8%B1%D9%88%D8%B4%20%D8%B1%DB%8C%D9%84%20%D8%A2%D8%B3%D8%A7%D9%86%D8%A8%D8%B1&Activity=%D8%B3%D8%A7%D8%AE%D8%AA%20%D8%AA%D8%AC%D9%87%DB%8C%D8%B2%D8%A7%D8%AA%20%D8%A8%D8%A7%D9%84%D8%A7%D8%A8%D8%B1%D9%86%D8%AF%D9%87%20%D9%88%20%D8%AC%D8%A7%D8%A8%D8%AC%D8%A7%20%DA%A9%D9%86%D9%86%D8%AF%D9%87
+              - generic [ref=e13397]: ری
+              - generic [ref=e13398]: خصوصی
+              - generic [ref=e13399]: شهرک صنعتی شمس آباد
+              - generic [ref=e13400]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13401]:
+              - link "وطن پلاست شمس مقیمی" [ref=e13402] [cursor=pointer]:
+                - /url: /company/details?code=B4B363&Company=%D9%88%D8%B7%D9%86%20%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%20%D8%B4%D9%85%D8%B3%20%D9%85%D9%82%DB%8C%D9%85%DB%8C&Activity=%20%D9%81%DB%8C%D9%84%D9%85%20%D8%A7%D8%B2%20%D9%81%D9%88%D9%85%20%D9%BE%D9%84%DB%8C%20%D8%A7%D8%AA%DB%8C%D9%84%D9%86-%20%D9%81%DB%8C%D9%84%D9%85%20%DB%8C%DA%A9%20%D9%84%D8%A7%DB%8C%D9%87%20%D8%B9%D8%B1%DB%8C%D8%B6%20%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C%20%D8%A7%D8%B2%20%D9%BE%D9%84%DB%8C%20%D8%A7%D8%AA%DB%8C%D9%84%D9%86
+              - link "- فیلم از فوم پلی اتیلن- فیلم یک لایه عریض کشاورزی از پلی اتیلن" [ref=e13403] [cursor=pointer]:
+                - /url: /company/details?code=B4B363&Company=%D9%88%D8%B7%D9%86%20%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%20%D8%B4%D9%85%D8%B3%20%D9%85%D9%82%DB%8C%D9%85%DB%8C&Activity=%20%D9%81%DB%8C%D9%84%D9%85%20%D8%A7%D8%B2%20%D9%81%D9%88%D9%85%20%D9%BE%D9%84%DB%8C%20%D8%A7%D8%AA%DB%8C%D9%84%D9%86-%20%D9%81%DB%8C%D9%84%D9%85%20%DB%8C%DA%A9%20%D9%84%D8%A7%DB%8C%D9%87%20%D8%B9%D8%B1%DB%8C%D8%B6%20%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C%20%D8%A7%D8%B2%20%D9%BE%D9%84%DB%8C%20%D8%A7%D8%AA%DB%8C%D9%84%D9%86
+              - generic [ref=e13404]: تهران
+              - generic [ref=e13405]: شرکت تولیدی
+              - generic [ref=e13406]: شهرک صنعتی شمس آباد
+              - generic [ref=e13407]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13408]:
+              - link "محمود قریب‌ گرگانی‌" [ref=e13409] [cursor=pointer]:
+                - /url: /company/details?code=D8F696&Company=%D9%85%D8%AD%D9%85%D9%88%D8%AF%20%20%D9%82%D8%B1%DB%8C%D8%A8%E2%80%8C%20%DA%AF%D8%B1%DA%AF%D8%A7%D9%86%DB%8C%E2%80%8C&Activity=%20%D8%B1%D8%A7%D8%AF%DB%8C%D9%88%20%D9%88%20%D9%BE%D8%AE%D8%B4%20%D9%86%D9%88%D8%A7%D8%B1%20%DA%A9%D8%A7%D8%B3%D8%AA-%20%D9%86%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%B1%20lcd
+              - link "- رادیو و پخش نوار کاست- نمایشگر lcd" [ref=e13410] [cursor=pointer]:
+                - /url: /company/details?code=D8F696&Company=%D9%85%D8%AD%D9%85%D9%88%D8%AF%20%20%D9%82%D8%B1%DB%8C%D8%A8%E2%80%8C%20%DA%AF%D8%B1%DA%AF%D8%A7%D9%86%DB%8C%E2%80%8C&Activity=%20%D8%B1%D8%A7%D8%AF%DB%8C%D9%88%20%D9%88%20%D9%BE%D8%AE%D8%B4%20%D9%86%D9%88%D8%A7%D8%B1%20%DA%A9%D8%A7%D8%B3%D8%AA-%20%D9%86%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%B1%20lcd
+              - generic [ref=e13411]: تهران
+              - generic [ref=e13412]: حقیقی
+              - generic [ref=e13413]: شهرک صنعتی شمس آباد
+              - generic [ref=e13414]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13415]:
+              - link "علی‌ اصغردرامامی‌" [ref=e13416] [cursor=pointer]:
+                - /url: /company/details?code=598F9A&Company=%D8%B9%D9%84%DB%8C%E2%80%8C%20%D8%A7%D8%B5%D8%BA%D8%B1%D8%AF%D8%B1%D8%A7%D9%85%D8%A7%D9%85%DB%8C%E2%80%8C&Activity=%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%B9%D8%A7%DB%8C%D9%82%20%D9%87%D8%A7%DB%8C%20%D8%B1%D8%B7%D9%88%D8%A8%D8%AA%DB%8C-%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%AF%D8%B3%D8%AA%DA%A9%D8%B4%20%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C
+              - link "- انواع عایق های رطوبتی- انواع دستکش لاستیکی" [ref=e13417] [cursor=pointer]:
+                - /url: /company/details?code=598F9A&Company=%D8%B9%D9%84%DB%8C%E2%80%8C%20%D8%A7%D8%B5%D8%BA%D8%B1%D8%AF%D8%B1%D8%A7%D9%85%D8%A7%D9%85%DB%8C%E2%80%8C&Activity=%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%B9%D8%A7%DB%8C%D9%82%20%D9%87%D8%A7%DB%8C%20%D8%B1%D8%B7%D9%88%D8%A8%D8%AA%DB%8C-%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%AF%D8%B3%D8%AA%DA%A9%D8%B4%20%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C
+              - generic [ref=e13418]: تهران
+              - generic [ref=e13419]: حقیقی
+              - generic [ref=e13420]: شهرک صنعتی شمس آباد
+              - generic [ref=e13421]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13422]:
+              - link "رمضان‌ بارانی‌نجف‌ آبادی‌" [ref=e13423] [cursor=pointer]:
+                - /url: /company/details?code=4AC836&Company=%D8%B1%D9%85%D8%B6%D8%A7%D9%86%E2%80%8C%20%20%D8%A8%D8%A7%D8%B1%D8%A7%D9%86%DB%8C%E2%80%8C%D9%86%D8%AC%D9%81%E2%80%8C%20%D8%A2%D8%A8%D8%A7%D8%AF%DB%8C%E2%80%8C&Activity=%20%20%D8%B1%DB%8C%D8%AE%D8%AA%D9%87%20%DA%AF%D8%B1%DB%8C%20%D8%B2%D8%A7%D9%85%D8%A7%DA%A9-%20%20%D8%B4%D9%85%D8%B4%20%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85-%20%20%D8%B4%D9%85%D8%B4%20%20%D8%B1%D9%88%DB%8C
+              - link "- ریخته گری زاماک- شمش آلومینیوم- شمش روی" [ref=e13424] [cursor=pointer]:
+                - /url: /company/details?code=4AC836&Company=%D8%B1%D9%85%D8%B6%D8%A7%D9%86%E2%80%8C%20%20%D8%A8%D8%A7%D8%B1%D8%A7%D9%86%DB%8C%E2%80%8C%D9%86%D8%AC%D9%81%E2%80%8C%20%D8%A2%D8%A8%D8%A7%D8%AF%DB%8C%E2%80%8C&Activity=%20%20%D8%B1%DB%8C%D8%AE%D8%AA%D9%87%20%DA%AF%D8%B1%DB%8C%20%D8%B2%D8%A7%D9%85%D8%A7%DA%A9-%20%20%D8%B4%D9%85%D8%B4%20%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85-%20%20%D8%B4%D9%85%D8%B4%20%20%D8%B1%D9%88%DB%8C
+              - generic [ref=e13425]: تهران
+              - generic [ref=e13426]: حقیقی
+              - generic [ref=e13427]: شهرک صنعتی شمس آباد
+              - generic [ref=e13428]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13429]:
+              - link "رحیم و فاضل شفیعی" [ref=e13430] [cursor=pointer]:
+                - /url: /company/details?code=7B097E&Company=%D8%B1%D8%AD%DB%8C%D9%85%20%D9%88%20%D9%81%D8%A7%D8%B6%D9%84%20%D8%B4%D9%81%DB%8C%D8%B9%DB%8C&Activity=%D8%B3%D8%A7%D8%AE%D8%AA%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA%20%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C
+              - link "- ساخت انواع محصولات پلاستیکی" [ref=e13431] [cursor=pointer]:
+                - /url: /company/details?code=7B097E&Company=%D8%B1%D8%AD%DB%8C%D9%85%20%D9%88%20%D9%81%D8%A7%D8%B6%D9%84%20%D8%B4%D9%81%DB%8C%D8%B9%DB%8C&Activity=%D8%B3%D8%A7%D8%AE%D8%AA%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA%20%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C
+              - generic [ref=e13432]: ری
+              - generic [ref=e13433]: حقیقی
+              - generic [ref=e13434]: شهرک صنعتی شمس آباد
+              - generic [ref=e13435]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13436]:
+              - link "حصار ایمن پیشرفته" [ref=e13437] [cursor=pointer]:
+                - /url: /company/details?code=B05E8D&Company=%D8%AD%D8%B5%D8%A7%D8%B1%20%D8%A7%DB%8C%D9%85%D9%86%20%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87&Activity=%D8%B3%D8%A7%D8%AE%D8%AA%20%D8%B3%D8%A7%DB%8C%D8%B1%20%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA%20%D9%81%D9%84%D8%B2%DB%8C%20%D9%81%D8%A7%D8%A8%D8%B1%DB%8C%DA%A9%DB%8C%D8%8C%20%D8%B7%D8%A8%D9%82%D9%87%20%D8%A8%D9%86%D8%AF%DB%8C%20%D9%86%D8%B4%D8%AF%D9%87%20%D8%AF%D8%B1%20%D8%AC%D8%A7%DB%8C%20%D8%AF%DB%8C%DA%AF%D8%B1
+              - link "- ساخت سایر محصولات فلزی فابریکی، طبقه بندی نشده در جای دیگر" [ref=e13438] [cursor=pointer]:
+                - /url: /company/details?code=B05E8D&Company=%D8%AD%D8%B5%D8%A7%D8%B1%20%D8%A7%DB%8C%D9%85%D9%86%20%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87&Activity=%D8%B3%D8%A7%D8%AE%D8%AA%20%D8%B3%D8%A7%DB%8C%D8%B1%20%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA%20%D9%81%D9%84%D8%B2%DB%8C%20%D9%81%D8%A7%D8%A8%D8%B1%DB%8C%DA%A9%DB%8C%D8%8C%20%D8%B7%D8%A8%D9%82%D9%87%20%D8%A8%D9%86%D8%AF%DB%8C%20%D9%86%D8%B4%D8%AF%D9%87%20%D8%AF%D8%B1%20%D8%AC%D8%A7%DB%8C%20%D8%AF%DB%8C%DA%AF%D8%B1
+              - generic [ref=e13439]: ری
+              - generic [ref=e13441]: شهرک صنعتی شمس آباد
+              - generic [ref=e13442]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13443]:
+              - link "پایدار پلیمر اوژن" [ref=e13444] [cursor=pointer]:
+                - /url: /company/details?code=6E0F99&Company=%D9%BE%D8%A7%DB%8C%D8%AF%D8%A7%D8%B1%20%D9%BE%D9%84%DB%8C%D9%85%D8%B1%20%D8%A7%D9%88%DA%98%D9%86&Activity=%D8%AA%D9%88%D9%84%DB%8C%D8%AF%DA%A9%D9%86%D9%86%D8%AF%D9%87%20%D9%82%D8%B7%D8%B9%D8%A7%D8%AA%20%D8%B1%D9%88%D8%B4%D9%86%D8%A7%DB%8C%DB%8C
+              - link "- تولیدکننده قطعات روشنایی" [ref=e13445] [cursor=pointer]:
+                - /url: /company/details?code=6E0F99&Company=%D9%BE%D8%A7%DB%8C%D8%AF%D8%A7%D8%B1%20%D9%BE%D9%84%DB%8C%D9%85%D8%B1%20%D8%A7%D9%88%DA%98%D9%86&Activity=%D8%AA%D9%88%D9%84%DB%8C%D8%AF%DA%A9%D9%86%D9%86%D8%AF%D9%87%20%D9%82%D8%B7%D8%B9%D8%A7%D8%AA%20%D8%B1%D9%88%D8%B4%D9%86%D8%A7%DB%8C%DB%8C
+              - generic [ref=e13446]: تهران
+              - generic [ref=e13448]: شهرک صنعتی شمس آباد
+              - generic [ref=e13449]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13450]:
+              - link "محمد پناهی‌ارزنق‌" [ref=e13451] [cursor=pointer]:
+                - /url: /company/details?code=22FE92&Company=%D9%85%D8%AD%D9%85%D8%AF%20%D9%BE%D9%86%D8%A7%D9%87%DB%8C%E2%80%8C%D8%A7%D8%B1%D8%B2%D9%86%D9%82%E2%80%8C&Activity=%20%D8%A8%D9%84%D8%A8%D8%B1%DB%8C%D9%86%DA%AF%20%D8%AA%D9%85%D8%A7%D8%B3%20%D8%B2%D8%A7%D9%88%DB%8C%D9%87%20%D8%A7%DB%8C
+              - link "- بلبرینگ تماس زاویه ای" [ref=e13452] [cursor=pointer]:
+                - /url: /company/details?code=22FE92&Company=%D9%85%D8%AD%D9%85%D8%AF%20%D9%BE%D9%86%D8%A7%D9%87%DB%8C%E2%80%8C%D8%A7%D8%B1%D8%B2%D9%86%D9%82%E2%80%8C&Activity=%20%D8%A8%D9%84%D8%A8%D8%B1%DB%8C%D9%86%DA%AF%20%D8%AA%D9%85%D8%A7%D8%B3%20%D8%B2%D8%A7%D9%88%DB%8C%D9%87%20%D8%A7%DB%8C
+              - generic [ref=e13453]: تهران
+              - generic [ref=e13454]: حقیقی
+              - generic [ref=e13455]: شهرک صنعتی شمس آباد
+              - generic [ref=e13456]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13457]:
+              - link "زارع‌ پاش‌" [ref=e13458] [cursor=pointer]:
+                - /url: /company/details?code=F9BDBD&Company=%D8%B2%D8%A7%D8%B1%D8%B9%E2%80%8C%20%D9%BE%D8%A7%D8%B4%E2%80%8C&Activity=%20%DA%A9%DB%8C%D8%B3%D9%87%20%D8%A8%D8%AF%D9%88%D9%86%20%D8%A8%D8%A7%D9%81%D8%AA%20%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C%20%DB%8C%DA%A9%20%D9%84%D8%A7%DB%8C%D9%87%20%D8%A7%D8%B2%20%D9%BE%D9%84%DB%8C%20%D8%A7%D8%AA%DB%8C%D9%84%D9%86
+              - link "- کیسه بدون بافت پلاستیکی یک لایه از پلی اتیلن" [ref=e13459] [cursor=pointer]:
+                - /url: /company/details?code=F9BDBD&Company=%D8%B2%D8%A7%D8%B1%D8%B9%E2%80%8C%20%D9%BE%D8%A7%D8%B4%E2%80%8C&Activity=%20%DA%A9%DB%8C%D8%B3%D9%87%20%D8%A8%D8%AF%D9%88%D9%86%20%D8%A8%D8%A7%D9%81%D8%AA%20%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C%20%DB%8C%DA%A9%20%D9%84%D8%A7%DB%8C%D9%87%20%D8%A7%D8%B2%20%D9%BE%D9%84%DB%8C%20%D8%A7%D8%AA%DB%8C%D9%84%D9%86
+              - generic [ref=e13460]: تهران
+              - generic [ref=e13461]: شرکت تولیدی
+              - generic [ref=e13462]: شهرک صنعتی شمس آباد
+              - generic [ref=e13463]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13464]:
+              - link "محمد رضا اسمعیلی" [ref=e13465] [cursor=pointer]:
+                - /url: /company/details?code=7BF0E1&Company=%D9%85%D8%AD%D9%85%D8%AF%20%D8%B1%D8%B6%D8%A7%20%D8%A7%D8%B3%D9%85%D8%B9%DB%8C%D9%84%DB%8C&Activity=%20%D8%B3%D9%86%DA%AF%20%D8%B3%D8%A7%D8%A8
+              - link "- سنگ ساب" [ref=e13466] [cursor=pointer]:
+                - /url: /company/details?code=7BF0E1&Company=%D9%85%D8%AD%D9%85%D8%AF%20%D8%B1%D8%B6%D8%A7%20%D8%A7%D8%B3%D9%85%D8%B9%DB%8C%D9%84%DB%8C&Activity=%20%D8%B3%D9%86%DA%AF%20%D8%B3%D8%A7%D8%A8
+              - generic [ref=e13467]: تهران
+              - generic [ref=e13468]: حقیقی
+              - generic [ref=e13469]: شهرک صنعتی شمس آباد
+              - generic [ref=e13470]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13471]:
+              - link "رضا و مصطفی نظری گل شکنانی" [ref=e13472] [cursor=pointer]:
+                - /url: /company/details?code=CB380D&Company=%D8%B1%D8%B6%D8%A7%20%D9%88%20%D9%85%D8%B5%D8%B7%D9%81%DB%8C%20%D9%86%D8%B8%D8%B1%DB%8C%20%DA%AF%D9%84%20%D8%B4%DA%A9%D9%86%D8%A7%D9%86%DB%8C&Activity=%D8%A8%D8%B1%D8%B4%D8%8C%20%D8%B4%DA%A9%D9%84%20%D8%AF%D8%A7%D8%AF%D9%86%20%D9%88%20%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA%20%D8%B3%D9%86%DA%AF
+              - link "- برش، شکل دادن و پرداخت سنگ" [ref=e13473] [cursor=pointer]:
+                - /url: /company/details?code=CB380D&Company=%D8%B1%D8%B6%D8%A7%20%D9%88%20%D9%85%D8%B5%D8%B7%D9%81%DB%8C%20%D9%86%D8%B8%D8%B1%DB%8C%20%DA%AF%D9%84%20%D8%B4%DA%A9%D9%86%D8%A7%D9%86%DB%8C&Activity=%D8%A8%D8%B1%D8%B4%D8%8C%20%D8%B4%DA%A9%D9%84%20%D8%AF%D8%A7%D8%AF%D9%86%20%D9%88%20%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA%20%D8%B3%D9%86%DA%AF
+              - generic [ref=e13474]: ری
+              - generic [ref=e13475]: حقیقی
+              - generic [ref=e13476]: شهرک صنعتی شمس آباد
+              - generic [ref=e13477]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13478]:
+              - link "محمد رضا صالحی" [ref=e13479] [cursor=pointer]:
+                - /url: /company/details?code=0C7A8C&Company=%D9%85%D8%AD%D9%85%D8%AF%20%D8%B1%D8%B6%D8%A7%20%D8%B5%D8%A7%D9%84%D8%AD%DB%8C&Activity=%20%D8%A8%D8%B3%D8%AA%D9%87%20%D8%A8%D9%86%D8%AF%DB%8C%20%D9%82%D9%86%D8%AF%20%D9%88%20%D8%B4%DA%A9%D8%B1-%20%20%D8%A8%D8%B3%D8%AA%D9%87%20%D8%A8%D9%86%D8%AF%DB%8C%20%D8%AA%D8%AE%D9%85%20%D9%85%D8%B1%D8%BA-%20%D8%A8%D8%B3%D8%AA%D9%87%20%D8%A8%D9%86%D8%AF%DB%8C%20%D8%AD%D8%A8%D9%88%D8%A8%D8%A7%D8%AA%20%D9%88%20%D8%BA%D9%84%D8%A7%D8%AA
+              - link "- بسته بندی قند و شکر- بسته بندی تخم مرغ- بسته بندی حبوبات و غلات" [ref=e13480] [cursor=pointer]:
+                - /url: /company/details?code=0C7A8C&Company=%D9%85%D8%AD%D9%85%D8%AF%20%D8%B1%D8%B6%D8%A7%20%D8%B5%D8%A7%D9%84%D8%AD%DB%8C&Activity=%20%D8%A8%D8%B3%D8%AA%D9%87%20%D8%A8%D9%86%D8%AF%DB%8C%20%D9%82%D9%86%D8%AF%20%D9%88%20%D8%B4%DA%A9%D8%B1-%20%20%D8%A8%D8%B3%D8%AA%D9%87%20%D8%A8%D9%86%D8%AF%DB%8C%20%D8%AA%D8%AE%D9%85%20%D9%85%D8%B1%D8%BA-%20%D8%A8%D8%B3%D8%AA%D9%87%20%D8%A8%D9%86%D8%AF%DB%8C%20%D8%AD%D8%A8%D9%88%D8%A8%D8%A7%D8%AA%20%D9%88%20%D8%BA%D9%84%D8%A7%D8%AA
+              - generic [ref=e13481]: تهران
+              - generic [ref=e13482]: حقیقی
+              - generic [ref=e13483]: شهرک صنعتی شمس آباد
+              - generic [ref=e13484]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13485]:
+              - link "احمد عباسی" [ref=e13486] [cursor=pointer]:
+                - /url: /company/details?code=2674F3&Company=%D8%A7%D8%AD%D9%85%D8%AF%20%D8%B9%D8%A8%D8%A7%D8%B3%DB%8C&Activity=%20%D8%A8%D8%B1%D8%B4%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%B3%D9%86%DA%AF%20%D9%85%D8%B1%D9%85%D8%B1%DB%8C%D8%AA
+              - link "- برش انواع سنگ مرمریت" [ref=e13487] [cursor=pointer]:
+                - /url: /company/details?code=2674F3&Company=%D8%A7%D8%AD%D9%85%D8%AF%20%D8%B9%D8%A8%D8%A7%D8%B3%DB%8C&Activity=%20%D8%A8%D8%B1%D8%B4%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%B3%D9%86%DA%AF%20%D9%85%D8%B1%D9%85%D8%B1%DB%8C%D8%AA
+              - generic [ref=e13488]: تهران
+              - generic [ref=e13489]: حقیقی
+              - generic [ref=e13490]: شهرک صنعتی شمس آباد
+              - generic [ref=e13491]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13492]:
+              - link "لط‌ف‌ اله‌ خانعلی‌زاده‌" [ref=e13493] [cursor=pointer]:
+                - /url: /company/details?code=18869E&Company=%D9%84%D8%B7%E2%80%8C%D9%81%E2%80%8C%20%D8%A7%D9%84%D9%87%E2%80%8C%20%20%D8%AE%D8%A7%D9%86%D8%B9%D9%84%DB%8C%E2%80%8C%D8%B2%D8%A7%D8%AF%D9%87%E2%80%8C&Activity=%20%D8%B4%D9%85%D8%B4%20%D8%A8%D8%B1%D9%86%D8%AC
+              - link "- شمش برنج" [ref=e13494] [cursor=pointer]:
+                - /url: /company/details?code=18869E&Company=%D9%84%D8%B7%E2%80%8C%D9%81%E2%80%8C%20%D8%A7%D9%84%D9%87%E2%80%8C%20%20%D8%AE%D8%A7%D9%86%D8%B9%D9%84%DB%8C%E2%80%8C%D8%B2%D8%A7%D8%AF%D9%87%E2%80%8C&Activity=%20%D8%B4%D9%85%D8%B4%20%D8%A8%D8%B1%D9%86%D8%AC
+              - generic [ref=e13495]: تهران
+              - generic [ref=e13496]: حقیقی
+              - generic [ref=e13497]: شهرک صنعتی شمس آباد
+              - generic [ref=e13498]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13499]:
+              - link "سید مهدی و سید رضا آزاد هاشمی" [ref=e13500] [cursor=pointer]:
+                - /url: /company/details?code=C61744&Company=%D8%B3%DB%8C%D8%AF%20%D9%85%D9%87%D8%AF%DB%8C%20%D9%88%20%D8%B3%DB%8C%D8%AF%20%D8%B1%D8%B6%D8%A7%20%D8%A2%D8%B2%D8%A7%D8%AF%20%D9%87%D8%A7%D8%B4%D9%85%DB%8C&Activity=%20%D8%B4%DB%8C%D9%84%D9%86%DA%AF%20%D9%86%D8%AE%20%D8%AF%D8%A7%D8%B1%20%D8%A7%D8%B2%20%D9%BE%DB%8C%20%D9%88%DB%8C%20%D8%B3%DB%8C
+              - link "- شیلنگ نخ دار از پی وی سی" [ref=e13501] [cursor=pointer]:
+                - /url: /company/details?code=C61744&Company=%D8%B3%DB%8C%D8%AF%20%D9%85%D9%87%D8%AF%DB%8C%20%D9%88%20%D8%B3%DB%8C%D8%AF%20%D8%B1%D8%B6%D8%A7%20%D8%A2%D8%B2%D8%A7%D8%AF%20%D9%87%D8%A7%D8%B4%D9%85%DB%8C&Activity=%20%D8%B4%DB%8C%D9%84%D9%86%DA%AF%20%D9%86%D8%AE%20%D8%AF%D8%A7%D8%B1%20%D8%A7%D8%B2%20%D9%BE%DB%8C%20%D9%88%DB%8C%20%D8%B3%DB%8C
+              - generic [ref=e13502]: تهران
+              - generic [ref=e13503]: حقیقی
+              - generic [ref=e13504]: شهرک صنعتی شمس آباد
+              - generic [ref=e13505]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13506]:
+              - link "تجهیزات‌ نفت‌" [ref=e13507] [cursor=pointer]:
+                - /url: /company/details?code=CA7DC6&Company=%D8%AA%D8%AC%D9%87%DB%8C%D8%B2%D8%A7%D8%AA%E2%80%8C%20%D9%86%D9%81%D8%AA%E2%80%8C&Activity=%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1%20%D8%AA%D8%B1%D8%A7%D8%B4%DA%A9%D8%A7%D8%B1%DB%8C%20%D9%88%20%D8%AA%DB%8C%D8%BA%DA%86%D9%87%20%D9%87%D8%A7
+              - link "- انواع ابزار تراشکاری و تیغچه ها" [ref=e13508] [cursor=pointer]:
+                - /url: /company/details?code=CA7DC6&Company=%D8%AA%D8%AC%D9%87%DB%8C%D8%B2%D8%A7%D8%AA%E2%80%8C%20%D9%86%D9%81%D8%AA%E2%80%8C&Activity=%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1%20%D8%AA%D8%B1%D8%A7%D8%B4%DA%A9%D8%A7%D8%B1%DB%8C%20%D9%88%20%D8%AA%DB%8C%D8%BA%DA%86%D9%87%20%D9%87%D8%A7
+              - generic [ref=e13509]: تهران
+              - generic [ref=e13510]: شرکت تولیدی
+              - generic [ref=e13511]: شهرک صنعتی شمس آباد
+              - generic [ref=e13512]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13513]:
+              - link "صنایع‌پویاقالب‌" [ref=e13514] [cursor=pointer]:
+                - /url: /company/details?code=3206B0&Company=%D8%B5%D9%86%D8%A7%DB%8C%D8%B9%E2%80%8C%D9%BE%D9%88%DB%8C%D8%A7%D9%82%D8%A7%D9%84%D8%A8%E2%80%8C&Activity=%20%D8%B1%DB%8C%D8%AE%D8%AA%D9%87%20%DA%AF%D8%B1%DB%8C%20%DA%AF%D8%B1%DB%8C%D8%B2%20%D8%A7%D8%B2%20%D9%85%D8%B1%DA%A9%D8%B2%20%20%D9%81%D9%88%D9%84%D8%A7%D8%AF
+              - link "- ریخته گری گریز از مرکز فولاد" [ref=e13515] [cursor=pointer]:
+                - /url: /company/details?code=3206B0&Company=%D8%B5%D9%86%D8%A7%DB%8C%D8%B9%E2%80%8C%D9%BE%D9%88%DB%8C%D8%A7%D9%82%D8%A7%D9%84%D8%A8%E2%80%8C&Activity=%20%D8%B1%DB%8C%D8%AE%D8%AA%D9%87%20%DA%AF%D8%B1%DB%8C%20%DA%AF%D8%B1%DB%8C%D8%B2%20%D8%A7%D8%B2%20%D9%85%D8%B1%DA%A9%D8%B2%20%20%D9%81%D9%88%D9%84%D8%A7%D8%AF
+              - generic [ref=e13516]: تهران
+              - generic [ref=e13517]: شرکت تولیدی
+              - generic [ref=e13518]: شهرک صنعتی شمس آباد
+              - generic [ref=e13519]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13520]:
+              - link "تعاونی تولید نوشابه گازدارغیرالکلی وسترپوش" [ref=e13521] [cursor=pointer]:
+                - /url: /company/details?code=33561F&Company=%D8%AA%D8%B9%D8%A7%D9%88%D9%86%DB%8C%20%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D9%86%D9%88%D8%B4%D8%A7%D8%A8%D9%87%20%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1%D8%BA%DB%8C%D8%B1%D8%A7%D9%84%DA%A9%D9%84%DB%8C%20%D9%88%D8%B3%D8%AA%D8%B1%D9%BE%D9%88%D8%B4&Activity=%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D9%86%D9%88%D8%B4%D8%A7%D8%A8%D9%87%20%D9%87%D8%A7%DB%8C%20%D8%BA%DB%8C%D8%B1%20%D8%A7%D9%84%DA%A9%D9%84%DB%8C%D8%9B%20%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D8%A2%D8%A8%20%D9%85%D8%B9%D8%AF%D9%86%DB%8C
+              - link "- تولید نوشابه های غیر الکلی؛ تولید آب معدنی" [ref=e13522] [cursor=pointer]:
+                - /url: /company/details?code=33561F&Company=%D8%AA%D8%B9%D8%A7%D9%88%D9%86%DB%8C%20%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D9%86%D9%88%D8%B4%D8%A7%D8%A8%D9%87%20%DA%AF%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1%D8%BA%DB%8C%D8%B1%D8%A7%D9%84%DA%A9%D9%84%DB%8C%20%D9%88%D8%B3%D8%AA%D8%B1%D9%BE%D9%88%D8%B4&Activity=%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D9%86%D9%88%D8%B4%D8%A7%D8%A8%D9%87%20%D9%87%D8%A7%DB%8C%20%D8%BA%DB%8C%D8%B1%20%D8%A7%D9%84%DA%A9%D9%84%DB%8C%D8%9B%20%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D8%A2%D8%A8%20%D9%85%D8%B9%D8%AF%D9%86%DB%8C
+              - generic [ref=e13523]: ری
+              - generic [ref=e13524]: خصوصی
+              - generic [ref=e13525]: شهرک صنعتی شمس آباد
+              - generic [ref=e13526]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13527]:
+              - link "غفاری داورپناه و رنوسفادارانی" [ref=e13528] [cursor=pointer]:
+                - /url: /company/details?code=13CBED&Company=%D8%BA%D9%81%D8%A7%D8%B1%DB%8C%20%D8%AF%D8%A7%D9%88%D8%B1%D9%BE%D9%86%D8%A7%D9%87%20%D9%88%20%D8%B1%D9%86%D9%88%D8%B3%D9%81%D8%A7%D8%AF%D8%A7%D8%B1%D8%A7%D9%86%DB%8C&Activity=%D8%A8%D8%B1%D8%B4%D8%8C%20%D8%B4%DA%A9%D9%84%20%D8%AF%D8%A7%D8%AF%D9%86%20%D9%88%20%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA%20%D8%B3%D9%86%DA%AF
+              - link "- برش، شکل دادن و پرداخت سنگ" [ref=e13529] [cursor=pointer]:
+                - /url: /company/details?code=13CBED&Company=%D8%BA%D9%81%D8%A7%D8%B1%DB%8C%20%D8%AF%D8%A7%D9%88%D8%B1%D9%BE%D9%86%D8%A7%D9%87%20%D9%88%20%D8%B1%D9%86%D9%88%D8%B3%D9%81%D8%A7%D8%AF%D8%A7%D8%B1%D8%A7%D9%86%DB%8C&Activity=%D8%A8%D8%B1%D8%B4%D8%8C%20%D8%B4%DA%A9%D9%84%20%D8%AF%D8%A7%D8%AF%D9%86%20%D9%88%20%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA%20%D8%B3%D9%86%DA%AF
+              - generic [ref=e13530]: ری
+              - generic [ref=e13531]: خصوصی
+              - generic [ref=e13532]: شهرک صنعتی شمس آباد
+              - generic [ref=e13533]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13534]:
+              - link "دنیا استیل طرح ایرانیان" [ref=e13535] [cursor=pointer]:
+                - /url: /company/details?code=247549&Company=%D8%AF%D9%86%DB%8C%D8%A7%20%D8%A7%D8%B3%D8%AA%DB%8C%D9%84%20%D8%B7%D8%B1%D8%AD%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%D8%A7%D9%86&Activity=%D8%B3%D8%A7%D8%AE%D8%AA%20%D8%AA%D8%AC%D9%87%DB%8C%D8%B2%D8%A7%D8%AA%20%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%20%D9%88%20%D8%AC%D8%B1%D8%A7%D8%AD%DB%8C%20%D9%88%20%D9%88%D8%B3%D8%A7%DB%8C%D9%84%20%D8%A7%D8%B1%D8%AA%D9%88%D9%BE%D8%AF%DB%8C
+              - link "- ساخت تجهیزات پزشکی و جراحی و وسایل ارتوپدی" [ref=e13536] [cursor=pointer]:
+                - /url: /company/details?code=247549&Company=%D8%AF%D9%86%DB%8C%D8%A7%20%D8%A7%D8%B3%D8%AA%DB%8C%D9%84%20%D8%B7%D8%B1%D8%AD%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%D8%A7%D9%86&Activity=%D8%B3%D8%A7%D8%AE%D8%AA%20%D8%AA%D8%AC%D9%87%DB%8C%D8%B2%D8%A7%D8%AA%20%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%20%D9%88%20%D8%AC%D8%B1%D8%A7%D8%AD%DB%8C%20%D9%88%20%D9%88%D8%B3%D8%A7%DB%8C%D9%84%20%D8%A7%D8%B1%D8%AA%D9%88%D9%BE%D8%AF%DB%8C
+              - generic [ref=e13537]: ری
+              - generic [ref=e13539]: شهرک صنعتی شمس آباد
+              - generic [ref=e13540]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13541]:
+              - link "حمید میانجی‌" [ref=e13542] [cursor=pointer]:
+                - /url: /company/details?code=3D8F9F&Company=%D8%AD%D9%85%DB%8C%D8%AF%20%20%D9%85%DB%8C%D8%A7%D9%86%D8%AC%DB%8C%E2%80%8C&Activity=%20%D9%BE%D9%85%D9%BE%20%D8%A7%D9%86%DA%98%DA%A9%D8%AA%D9%88%D8%B1-%20%D9%84%D9%88%D9%84%D9%87%20%D8%AE%D9%88%D9%86%DA%AF%DB%8C%D8%B1%DB%8C%20%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C
+              - link "- پمپ انژکتور- لوله خونگیری پلاستیکی" [ref=e13543] [cursor=pointer]:
+                - /url: /company/details?code=3D8F9F&Company=%D8%AD%D9%85%DB%8C%D8%AF%20%20%D9%85%DB%8C%D8%A7%D9%86%D8%AC%DB%8C%E2%80%8C&Activity=%20%D9%BE%D9%85%D9%BE%20%D8%A7%D9%86%DA%98%DA%A9%D8%AA%D9%88%D8%B1-%20%D9%84%D9%88%D9%84%D9%87%20%D8%AE%D9%88%D9%86%DA%AF%DB%8C%D8%B1%DB%8C%20%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C
+              - generic [ref=e13544]: تهران
+              - generic [ref=e13545]: حقیقی
+              - generic [ref=e13546]: شهرک صنعتی شمس آباد
+              - generic [ref=e13547]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13548]:
+              - link "روناک روی گسترمومن زاده" [ref=e13549] [cursor=pointer]:
+                - /url: /company/details?code=75EF81&Company=%D8%B1%D9%88%D9%86%D8%A7%DA%A9%20%D8%B1%D9%88%DB%8C%20%DA%AF%D8%B3%D8%AA%D8%B1%D9%85%D9%88%D9%85%D9%86%20%D8%B2%D8%A7%D8%AF%D9%87&Activity=%D8%B3%D8%A7%D8%AE%D8%AA%20%D9%81%D9%84%D8%B2%D8%A7%D8%AA%20%D8%A7%D8%B3%D8%A7%D8%B3%DB%8C%20%D9%82%DB%8C%D9%85%D8%AA%DB%8C%20%D9%88%20%D9%81%D9%84%D8%B2%D8%A7%D8%AA%20%D8%BA%DB%8C%D8%B1%20%D8%A2%D9%87%D9%86%DB%8C
+              - link "- ساخت فلزات اساسی قیمتی و فلزات غیر آهنی" [ref=e13550] [cursor=pointer]:
+                - /url: /company/details?code=75EF81&Company=%D8%B1%D9%88%D9%86%D8%A7%DA%A9%20%D8%B1%D9%88%DB%8C%20%DA%AF%D8%B3%D8%AA%D8%B1%D9%85%D9%88%D9%85%D9%86%20%D8%B2%D8%A7%D8%AF%D9%87&Activity=%D8%B3%D8%A7%D8%AE%D8%AA%20%D9%81%D9%84%D8%B2%D8%A7%D8%AA%20%D8%A7%D8%B3%D8%A7%D8%B3%DB%8C%20%D9%82%DB%8C%D9%85%D8%AA%DB%8C%20%D9%88%20%D9%81%D9%84%D8%B2%D8%A7%D8%AA%20%D8%BA%DB%8C%D8%B1%20%D8%A2%D9%87%D9%86%DB%8C
+              - generic [ref=e13551]: ری
+              - generic [ref=e13552]: خصوصی
+              - generic [ref=e13553]: شهرک صنعتی شمس آباد
+              - generic [ref=e13554]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13555]:
+              - link "پویان صنعت نهاد" [ref=e13556] [cursor=pointer]:
+                - /url: /company/details?code=9D8518&Company=%D9%BE%D9%88%DB%8C%D8%A7%D9%86%20%D8%B5%D9%86%D8%B9%D8%AA%20%D9%86%D9%87%D8%A7%D8%AF&Activity=%D8%A8%D9%84%D8%A8%D8%B1%DB%8C%D9%86%DA%AF%D8%8C%20%D8%B1%D9%88%D9%84%D8%A8%D8%B1%DB%8C%D9%86%DA%AF%D8%8C%20%D8%A8%D9%84%D8%A8%D8%B1%DB%8C%D9%86%DA%AF%20%D8%AA%D9%88%D9%BE%DB%8C%D8%8C%20%D8%A8%D9%84%D8%A8%D8%B1%DB%8C%D9%86%DA%AF%20%DA%86%D8%B1%D8%AE%20%D8%AC%D9%84%D9%88%D8%8C%20%D8%AA%D9%86%D8%B4%D9%86%D8%B1%20%D9%88%20%D9%87%D8%B1%D8%B2%DA%AF%D8%B1%D8%AF
+              - link "- بلبرینگ، رولبرینگ، بلبرینگ توپی، بلبرینگ چرخ جلو، تنشنر و هرزگرد" [ref=e13557] [cursor=pointer]:
+                - /url: /company/details?code=9D8518&Company=%D9%BE%D9%88%DB%8C%D8%A7%D9%86%20%D8%B5%D9%86%D8%B9%D8%AA%20%D9%86%D9%87%D8%A7%D8%AF&Activity=%D8%A8%D9%84%D8%A8%D8%B1%DB%8C%D9%86%DA%AF%D8%8C%20%D8%B1%D9%88%D9%84%D8%A8%D8%B1%DB%8C%D9%86%DA%AF%D8%8C%20%D8%A8%D9%84%D8%A8%D8%B1%DB%8C%D9%86%DA%AF%20%D8%AA%D9%88%D9%BE%DB%8C%D8%8C%20%D8%A8%D9%84%D8%A8%D8%B1%DB%8C%D9%86%DA%AF%20%DA%86%D8%B1%D8%AE%20%D8%AC%D9%84%D9%88%D8%8C%20%D8%AA%D9%86%D8%B4%D9%86%D8%B1%20%D9%88%20%D9%87%D8%B1%D8%B2%DA%AF%D8%B1%D8%AF
+              - generic [ref=e13558]: تهران
+              - generic [ref=e13560]: شهرک صنعتی شمس آباد
+              - generic [ref=e13561]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13562]:
+              - link "محمود توکلی" [ref=e13563] [cursor=pointer]:
+                - /url: /company/details?code=C298B0&Company=%D9%85%D8%AD%D9%85%D9%88%D8%AF%20%D8%AA%D9%88%DA%A9%D9%84%DB%8C&Activity=%D8%A8%D8%B1%D8%B4%D8%8C%20%D8%B4%DA%A9%D9%84%20%D8%AF%D8%A7%D8%AF%D9%86%20%D9%88%20%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA%20%D8%B3%D9%86%DA%AF
+              - link "- برش، شکل دادن و پرداخت سنگ" [ref=e13564] [cursor=pointer]:
+                - /url: /company/details?code=C298B0&Company=%D9%85%D8%AD%D9%85%D9%88%D8%AF%20%D8%AA%D9%88%DA%A9%D9%84%DB%8C&Activity=%D8%A8%D8%B1%D8%B4%D8%8C%20%D8%B4%DA%A9%D9%84%20%D8%AF%D8%A7%D8%AF%D9%86%20%D9%88%20%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA%20%D8%B3%D9%86%DA%AF
+              - generic [ref=e13565]: ری
+              - generic [ref=e13566]: حقیقی
+              - generic [ref=e13567]: شهرک صنعتی شمس آباد
+              - generic [ref=e13568]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13569]:
+              - link "وحید نعیمی خالدی" [ref=e13570] [cursor=pointer]:
+                - /url: /company/details?code=8FAAA9&Company=%D9%88%D8%AD%DB%8C%D8%AF%20%D9%86%D8%B9%DB%8C%D9%85%DB%8C%20%D8%AE%D8%A7%D9%84%D8%AF%DB%8C&Activity=%20%D8%AF%D8%B1%D8%A8%20%D9%88%D9%BE%D9%86%D8%AC%D8%B1%D9%87%20%D8%A7%D8%B2upvc
+              - link "- درب وپنجره ازupvc" [ref=e13571] [cursor=pointer]:
+                - /url: /company/details?code=8FAAA9&Company=%D9%88%D8%AD%DB%8C%D8%AF%20%D9%86%D8%B9%DB%8C%D9%85%DB%8C%20%D8%AE%D8%A7%D9%84%D8%AF%DB%8C&Activity=%20%D8%AF%D8%B1%D8%A8%20%D9%88%D9%BE%D9%86%D8%AC%D8%B1%D9%87%20%D8%A7%D8%B2upvc
+              - generic [ref=e13572]: تهران
+              - generic [ref=e13573]: حقیقی
+              - generic [ref=e13574]: شهرک صنعتی شمس آباد
+              - generic [ref=e13575]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13576]:
+              - link "سعید تبریزی‌ نیا" [ref=e13577] [cursor=pointer]:
+                - /url: /company/details?code=2663C0&Company=%D8%B3%D8%B9%DB%8C%D8%AF%20%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2%DB%8C%E2%80%8C%20%D9%86%DB%8C%D8%A7&Activity=%20%D8%AA%D9%88%D8%B1%D8%A8%DB%8C%D9%86%20%DA%AF%D8%A7%D8%B2%DB%8C
+              - link "- توربین گازی" [ref=e13578] [cursor=pointer]:
+                - /url: /company/details?code=2663C0&Company=%D8%B3%D8%B9%DB%8C%D8%AF%20%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2%DB%8C%E2%80%8C%20%D9%86%DB%8C%D8%A7&Activity=%20%D8%AA%D9%88%D8%B1%D8%A8%DB%8C%D9%86%20%DA%AF%D8%A7%D8%B2%DB%8C
+              - generic [ref=e13579]: تهران
+              - generic [ref=e13580]: شرکت تولیدی
+              - generic [ref=e13581]: شهرک صنعتی شمس آباد
+              - generic [ref=e13582]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13583]:
+              - link "رحیم رهبر" [ref=e13584] [cursor=pointer]:
+                - /url: /company/details?code=999441&Company=%D8%B1%D8%AD%DB%8C%D9%85%20%D8%B1%D9%87%D8%A8%D8%B1&Activity=%20%D8%B3%D9%86%DA%AF%20%D9%85%D8%B1%D9%85%D8%B1%20%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%B1%D8%A7%D8%AC%29
+              - link "- سنگ مرمر (استخراج)" [ref=e13585] [cursor=pointer]:
+                - /url: /company/details?code=999441&Company=%D8%B1%D8%AD%DB%8C%D9%85%20%D8%B1%D9%87%D8%A8%D8%B1&Activity=%20%D8%B3%D9%86%DA%AF%20%D9%85%D8%B1%D9%85%D8%B1%20%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%B1%D8%A7%D8%AC%29
+              - generic [ref=e13586]: تهران
+              - generic [ref=e13587]: حقیقی
+              - generic [ref=e13588]: شهرک صنعتی شمس آباد
+              - generic [ref=e13589]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13590]:
+              - link "میلادپگاه‌" [ref=e13591] [cursor=pointer]:
+                - /url: /company/details?code=C80D69&Company=%D9%85%DB%8C%D9%84%D8%A7%D8%AF%D9%BE%DA%AF%D8%A7%D9%87%E2%80%8C&Activity=%20%D8%A7%D8%AA%DB%8C%D9%84%D9%86%20%DA%AF%D9%84%DB%8C%DA%A9%D9%88%D9%84%20%D9%85%D9%88%D9%86%D9%88%20%D8%A7%D8%B3%D8%AA%D8%A6%D8%A7%D8%B1%D8%A7%D8%AA-%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%AA%DB%8C%D9%86%D8%B1%20%28%D8%BA%DB%8C%D8%B1%20%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86%DB%8C%29-%20%DA%86%D8%B3%D8%A8%20%D8%B3%DB%8C%D9%84%DB%8C%DA%A9%D8%A7%D8%AA-%20%D8%A2%D8%B1%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9%20%D8%B3%D9%86%DA%AF%DB%8C%D9%86-%20%D9%85%D8%AA%DB%8C%D9%84%20%D8%A7%D8%B3%D8%AA%D8%A7%D8%AA-%20%D8%A8%D9%88%D8%AA%DB%8C%D9%84%20%D8%A2%DA%A9%D8%B1%DB%8C%D9%84%D8%A7%D8%AA-%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%AA%DB%8C%D9%86%D8%B1%20%28%D8%BA%DB%8C%D8%B1%20%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86%DB%8C%29-%20%D8%A7%D8%AA%DB%8C%D9%84%20%D8%A7%D8%B3%D8%AA%D8%A7%D8%AA-%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%AA%DB%8C%D9%86%D8%B1%20%28%D8%BA%DB%8C%D8%B1%20%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86%DB%8C%29
+              - link "- اتیلن گلیکول مونو استئارات- انواع تینر (غیر ساختمانی)- چسب سیلیکات- آروماتیک سنگین- متیل استات- بوتیل آکریلات- انواع تینر (غیر ساختمانی)- اتیل استات- انواع تینر (غیر ساختمانی)" [ref=e13592] [cursor=pointer]:
+                - /url: /company/details?code=C80D69&Company=%D9%85%DB%8C%D9%84%D8%A7%D8%AF%D9%BE%DA%AF%D8%A7%D9%87%E2%80%8C&Activity=%20%D8%A7%D8%AA%DB%8C%D9%84%D9%86%20%DA%AF%D9%84%DB%8C%DA%A9%D9%88%D9%84%20%D9%85%D9%88%D9%86%D9%88%20%D8%A7%D8%B3%D8%AA%D8%A6%D8%A7%D8%B1%D8%A7%D8%AA-%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%AA%DB%8C%D9%86%D8%B1%20%28%D8%BA%DB%8C%D8%B1%20%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86%DB%8C%29-%20%DA%86%D8%B3%D8%A8%20%D8%B3%DB%8C%D9%84%DB%8C%DA%A9%D8%A7%D8%AA-%20%D8%A2%D8%B1%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9%20%D8%B3%D9%86%DA%AF%DB%8C%D9%86-%20%D9%85%D8%AA%DB%8C%D9%84%20%D8%A7%D8%B3%D8%AA%D8%A7%D8%AA-%20%D8%A8%D9%88%D8%AA%DB%8C%D9%84%20%D8%A2%DA%A9%D8%B1%DB%8C%D9%84%D8%A7%D8%AA-%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%AA%DB%8C%D9%86%D8%B1%20%28%D8%BA%DB%8C%D8%B1%20%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86%DB%8C%29-%20%D8%A7%D8%AA%DB%8C%D9%84%20%D8%A7%D8%B3%D8%AA%D8%A7%D8%AA-%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%AA%DB%8C%D9%86%D8%B1%20%28%D8%BA%DB%8C%D8%B1%20%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86%DB%8C%29
+              - generic [ref=e13593]: تهران
+              - generic [ref=e13594]: شرکت تولیدی
+              - generic [ref=e13595]: شهرک صنعتی شمس آباد
+              - generic [ref=e13596]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13597]:
+              - link "شهرام ذکایی" [ref=e13598] [cursor=pointer]:
+                - /url: /company/details?code=B04B91&Company=%D8%B4%D9%87%D8%B1%D8%A7%D9%85%20%D8%B0%DA%A9%D8%A7%DB%8C%DB%8C&Activity=%20%20%D8%B1%DB%8C%D8%AE%D8%AA%D9%87%20%DA%AF%D8%B1%DB%8C%20%DA%86%D8%AF%D9%86%20%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C
+              - link "- ریخته گری چدن خاکستری" [ref=e13599] [cursor=pointer]:
+                - /url: /company/details?code=B04B91&Company=%D8%B4%D9%87%D8%B1%D8%A7%D9%85%20%D8%B0%DA%A9%D8%A7%DB%8C%DB%8C&Activity=%20%20%D8%B1%DB%8C%D8%AE%D8%AA%D9%87%20%DA%AF%D8%B1%DB%8C%20%DA%86%D8%AF%D9%86%20%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C
+              - generic [ref=e13600]: تهران
+              - generic [ref=e13601]: حقیقی
+              - generic [ref=e13602]: شهرک صنعتی شمس آباد
+              - generic [ref=e13603]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13604]:
+              - link "قدرت‌ اله‌ هاشمی‌" [ref=e13605] [cursor=pointer]:
+                - /url: /company/details?code=8D88F0&Company=%D9%82%D8%AF%D8%B1%D8%AA%E2%80%8C%20%D8%A7%D9%84%D9%87%E2%80%8C%20%20%D9%87%D8%A7%D8%B4%D9%85%DB%8C%E2%80%8C&Activity=%20%D8%B3%D9%86%DA%AF%20%D9%87%D8%A7%DB%8C%20%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C
+              - link "- سنگ های مصنوعی" [ref=e13606] [cursor=pointer]:
+                - /url: /company/details?code=8D88F0&Company=%D9%82%D8%AF%D8%B1%D8%AA%E2%80%8C%20%D8%A7%D9%84%D9%87%E2%80%8C%20%20%D9%87%D8%A7%D8%B4%D9%85%DB%8C%E2%80%8C&Activity=%20%D8%B3%D9%86%DA%AF%20%D9%87%D8%A7%DB%8C%20%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C
+              - generic [ref=e13607]: تهران
+              - generic [ref=e13608]: حقیقی
+              - generic [ref=e13609]: شهرک صنعتی شمس آباد
+              - generic [ref=e13610]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13611]:
+              - link "مهدی قاسم مقدم" [ref=e13612] [cursor=pointer]:
+                - /url: /company/details?code=A64E2C&Company=%D9%85%D9%87%D8%AF%DB%8C%20%D9%82%D8%A7%D8%B3%D9%85%20%D9%85%D9%82%D8%AF%D9%85&Activity=%20%20%D8%A8%D8%B3%D8%AA%D9%87%20%D8%A8%D9%86%D8%AF%DB%8C%20%D8%AE%D8%B4%DA%A9%D8%A8%D8%A7%D8%B1-%20%20%D8%A8%D8%B3%D8%AA%D9%87%20%D8%A8%D9%86%D8%AF%DB%8C%20%D8%B4%DA%A9%D8%B1-%20%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%DA%A9%D9%84%D9%88%DA%86%D9%87-%20%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%DA%A9%DB%8C%DA%A9%20%D9%88%D8%A8%DB%8C%D8%B3%DA%A9%D9%88%DB%8C%D8%AA%20%D9%88%DA%A9%D9%84%D9%88%DA%86%D9%87
+              - link "- بسته بندی خشکبار- بسته بندی شکر- انواع کلوچه- انواع کیک وبیسکویت وکلوچه" [ref=e13613] [cursor=pointer]:
+                - /url: /company/details?code=A64E2C&Company=%D9%85%D9%87%D8%AF%DB%8C%20%D9%82%D8%A7%D8%B3%D9%85%20%D9%85%D9%82%D8%AF%D9%85&Activity=%20%20%D8%A8%D8%B3%D8%AA%D9%87%20%D8%A8%D9%86%D8%AF%DB%8C%20%D8%AE%D8%B4%DA%A9%D8%A8%D8%A7%D8%B1-%20%20%D8%A8%D8%B3%D8%AA%D9%87%20%D8%A8%D9%86%D8%AF%DB%8C%20%D8%B4%DA%A9%D8%B1-%20%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%DA%A9%D9%84%D9%88%DA%86%D9%87-%20%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%DA%A9%DB%8C%DA%A9%20%D9%88%D8%A8%DB%8C%D8%B3%DA%A9%D9%88%DB%8C%D8%AA%20%D9%88%DA%A9%D9%84%D9%88%DA%86%D9%87
+              - generic [ref=e13614]: تهران
+              - generic [ref=e13615]: حقیقی
+              - generic [ref=e13616]: شهرک صنعتی شمس آباد
+              - generic [ref=e13617]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13618]:
+              - link "اصغر مختاری‌" [ref=e13619] [cursor=pointer]:
+                - /url: /company/details?code=0E9D9C&Company=%D8%A7%D8%B5%D8%BA%D8%B1%20%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%DB%8C%E2%80%8C&Activity=%20%D8%A8%D8%B1%D8%B4%20%D8%B3%D9%86%DA%AF%20%D8%AA%D8%B1%D8%A7%D9%88%D8%B1%D8%AA%D9%86%20%D8%A8%D9%87%20%D8%B5%D9%88%D8%B1%D8%AA%20%D8%AA%D8%A7%DB%8C%D9%84-%20%D8%A8%D8%B1%D8%B4%20%D8%B3%D9%86%DA%AF%20%DA%86%DB%8C%D9%86%DB%8C%20%D9%88%20%DA%A9%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7%D9%84%20%D8%A8%D9%87%20%D8%B5%D9%88%D8%B1%D8%AA%20%D8%AA%D8%A7%DB%8C%D9%84-%20%D8%A8%D8%B1%D8%B4%20%D8%B3%D9%86%DA%AF%20%DA%86%DB%8C%D9%86%DB%8C%20%D9%88%20%DA%A9%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7%D9%84%20%D8%A8%D9%87%20%D8%B5%D9%88%D8%B1%D8%AA%20%D8%AA%D8%A7%DB%8C%D9%84
+              - link "- برش سنگ تراورتن به صورت تایل- برش سنگ چینی و کریستال به صورت تایل- برش سنگ چینی و کریستال به صورت تایل" [ref=e13620] [cursor=pointer]:
+                - /url: /company/details?code=0E9D9C&Company=%D8%A7%D8%B5%D8%BA%D8%B1%20%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%DB%8C%E2%80%8C&Activity=%20%D8%A8%D8%B1%D8%B4%20%D8%B3%D9%86%DA%AF%20%D8%AA%D8%B1%D8%A7%D9%88%D8%B1%D8%AA%D9%86%20%D8%A8%D9%87%20%D8%B5%D9%88%D8%B1%D8%AA%20%D8%AA%D8%A7%DB%8C%D9%84-%20%D8%A8%D8%B1%D8%B4%20%D8%B3%D9%86%DA%AF%20%DA%86%DB%8C%D9%86%DB%8C%20%D9%88%20%DA%A9%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7%D9%84%20%D8%A8%D9%87%20%D8%B5%D9%88%D8%B1%D8%AA%20%D8%AA%D8%A7%DB%8C%D9%84-%20%D8%A8%D8%B1%D8%B4%20%D8%B3%D9%86%DA%AF%20%DA%86%DB%8C%D9%86%DB%8C%20%D9%88%20%DA%A9%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7%D9%84%20%D8%A8%D9%87%20%D8%B5%D9%88%D8%B1%D8%AA%20%D8%AA%D8%A7%DB%8C%D9%84
+              - generic [ref=e13621]: تهران
+              - generic [ref=e13622]: شرکت تولیدی
+              - generic [ref=e13623]: شهرک صنعتی شمس آباد
+              - generic [ref=e13624]: شهرک صنعتی شمس آباد
+            - listitem [ref=e13625]:
+              - link "فولاد تدبیر اصفهان" [ref=e13626] [cursor=pointer]:
+                - /url: /company/details?code=7619EC&Company=%D9%81%D9%88%D9%84%D8%A7%D8%AF%20%D8%AA%D8%AF%D8%A8%DB%8C%D8%B1%20%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86&Activity=%20%D8%A7%D8%B3%DA%A9%D9%84%D8%AA%20%D9%81%D9%84%D8%B2%DB%8C%20%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86%DB%8C%20%D9%81%D9%88%D9%84%D8%A7%D8%AF%DB%8C
+              - link "- اسکلت فلزی ساختمانی فولادی" [ref=e13627] [cursor=pointer]:
+                - /url: /company/details?code=7619EC&Company=%D9%81%D9%88%D9%84%D8%A7%D8%AF%20%D8%AA%D8%AF%D8%A8%DB%8C%D8%B1%20%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86&Activity=%20%D8%A7%D8%B3%DA%A9%D9%84%D8%AA%20%D9%81%D9%84%D8%B2%DB%8C%20%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86%DB%8C%20%D9%81%D9%88%D9%84%D8%A7%D8%AF%DB%8C
+              - generic [ref=e13628]: تهران
+              - generic [ref=e13629]: شرکت تولیدی
+              - generic [ref=e13630]: شهرک صنعتی شمس آباد
+              - generic [ref=e13631]: شهرک صنعتی شمس آباد
+          - generic [ref=e13632]:
+            - paragraph [ref=e13633]:
+              - strong [ref=e13634]: "پیشنهاد ویژه:"
+              - link "نرم افزار VicIndex" [ref=e13635] [cursor=pointer]:
+                - /url: https://vic.ir/download/vicfair
+            - paragraph [ref=e13636]: لیست کارخانجات و شرکت های تهران به همراه نرم افزار مدیریت ارتباط با مشتریان CRM / دستیار فروش و بازاریابی
+            - paragraph [ref=e13638]: ویدئو معرفی نرم افزار Vic Index
+  - contentinfo [ref=e13640]:
+    - generic [ref=e13641]:
+      - generic [ref=e13642]:
+        - paragraph [ref=e13643]: برای دریافت آخرین اخبار و رویداد ها، قیمت‌ها و تخفیف‌ها ایمیل خود را وارد کنید
+        - generic [ref=e13645]:
+          - textbox [ref=e13646]
+          - generic [ref=e13647] [cursor=pointer]
+        - paragraph
+      - generic [ref=e13648]:
+        - list [ref=e13650]:
+          - listitem [ref=e13651]:
+            - text: پایگاه اطلاعات صنعتی ایران
+            - list [ref=e13652]:
+              - listitem [ref=e13653]: آشنایی با پایگاه اطلاعات صنعتی
+              - listitem [ref=e13654]: خدماتی که ما ارائه می دهیم
+              - listitem [ref=e13655]: تماس با ما
+        - list [ref=e13657]:
+          - listitem [ref=e13658]:
+            - text: روش کد گذاری اطلاعات در پایگاه اطلاعات صنعتی
+            - list [ref=e13659]:
+              - listitem [ref=e13660]: سیستم ها گد گذاری
+              - listitem [ref=e13661]: سیستم ISIC
+              - listitem [ref=e13662]: سیستم HS
+              - listitem [ref=e13663]: سیستم CPC
+        - list [ref=e13665]:
+          - listitem [ref=e13666]:
+            - text: خدمات و محصولات پایگاه
+            - list [ref=e13667]:
+              - listitem [ref=e13668]: خدمات مشاوره بازاریابی
+              - listitem [ref=e13669]: نرم افزار های فروش
+              - listitem [ref=e13670]: نرم افزار CRM
+              - listitem [ref=e13671]: فهرست مشتریان
+        - generic [ref=e13672]:
+          - text: ارتباط با پایگاه اطلاعات صنعتی ایران
+          - generic [ref=e13673]:
+            - textbox "نام" [ref=e13674]
+            - textbox "ایمیل یا تلفن" [ref=e13675]
+            - textbox "پیام" [ref=e13676]
+            - img "Captcha" [ref=e13677]
+            - textbox [ref=e13678]
+            - button "ارسال پیام" [ref=e13679]
+        - generic [ref=e13680]:
+          - img "logo-samandehi" [ref=e13681] [cursor=pointer]
+          - link [ref=e13682] [cursor=pointer]:
+            - /url: https://trustseal.enamad.ir/?id=178895&Code=01X8SWOs5P0kZiwsIQiz
+      - generic [ref=e13683]:
+        - list [ref=e13684]:
+          - listitem [ref=e13685]:
+            - link "خانه" [ref=e13686] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e13687]:
+            - link "بازار های آنلاین" [ref=e13688] [cursor=pointer]:
+              - /url: /market
+          - listitem [ref=e13689]:
+            - link "شرکت ها" [ref=e13690] [cursor=pointer]:
+              - /url: /company
+          - listitem [ref=e13691]:
+            - link "کالاها" [ref=e13692] [cursor=pointer]:
+              - /url: /products
+          - listitem [ref=e13693]:
+            - link "آگهی" [ref=e13694] [cursor=pointer]:
+              - /url: /adv
+          - listitem [ref=e13695]:
+            - link "اخبار" [ref=e13696] [cursor=pointer]:
+              - /url: /news
+          - listitem [ref=e13697]:
+            - link "خدمات نرم افزار و مشاوره پایگاه" [ref=e13698] [cursor=pointer]:
+              - /url: /market
+        - generic [ref=e13699]:
+          - generic [ref=e13700]: "02187212026"
+          - generic [ref=e13701]: vic.iran@gmail.com
+```

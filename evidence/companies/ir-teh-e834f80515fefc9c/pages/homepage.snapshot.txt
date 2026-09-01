@@ -1,0 +1,203 @@
+### Page
+- Page URL: https://applehyper.com/
+- Page Title: بازار بزرگ مواد غذایی: رب،روغن،برنج-عمده فروشی مواد غذایی-فروشگاه اینترنتی مواد غذایی
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - generic [ref=e11]:
+        - generic [ref=e12] [cursor=pointer]:
+          - link "ورود" [ref=e13]:
+            - /url: "#"
+          - text: /
+          - link "ثبت نام" [ref=e14]:
+            - /url: "#"
+        - generic:
+          - list:
+            - listitem:
+              - link "حساب کاربری من":
+                - /url: https://applehyper.com/profile/account
+            - listitem:
+              - link "تغییر گذر واژه":
+                - /url: https://applehyper.com/profile/account
+            - listitem:
+              - link "سفارشات":
+                - /url: https://applehyper.com/profile/orders
+            - listitem: خروج از حساب کاربری
+      - heading "Apple Hyper" [level=2] [ref=e18]
+      - generic [ref=e26] [cursor=pointer]:
+        - generic [ref=e27]: ۰
+        - generic [ref=e34]: سبد خرید
+      - heading "قیمت 5 درصدکالاهای سایت،به روز نیست درصورت استفاده از موبایل یا تبلت، منوی کالا، در قسمت بالا، سمت راست، مربع سبز رنگ را بزنید کالاهای غذایی در بالاترین تاریخ انقضا می باشد----(سفارش لبنیات تا قبل از ساعت 13 امکان پذیر می باشد ) فروشگاه در ایام تعطیل دایر نمی باشد---(سایت دارای نماد اطمینان هست ) کسانی که با محیط اینترنت برای ثبت سفارش آشنایی ندارند، میتوانند تلفنی سفارش نمایند حداقل سفارش خود را بالای 320 هزار تومان در سایت ثبت فرمایید تا با شما تماس گرفته شود---(خرید حضوری وجود دارد.) ارسال کالا رایگان نمی باشد .هزینه حمل متناسب با وزن و مسافت محاسبه شده و بعد از ثبت سفارش با شما تماس گرفته میشود ((خواهشمند است سفارش خود را تا دریافت کد رهگیری پیش ببرید تا با شما تماس گرفته شود و بعد از هماهنگی با اپراتور ، سفارش شما تایید و رسمی میشود ))" [level=2] [ref=e42]:
+        - strong [ref=e43]:
+          - generic [ref=e47]:
+            - generic [ref=e48]: قیمت
+            - text: 5 درصد
+        - strong [ref=e52]:
+          - generic [ref=e53]: کالاهای سایت،
+        - strong [ref=e54]:
+          - generic [ref=e57]:
+            - generic [ref=e58]:
+              - generic [ref=e59]: به روز نیست
+              - text: درصورت استفاده از
+            - text: موبایل یا تبلت، منوی کالا، در قسمت بالا، سمت راست،
+            - generic [ref=e60]: مربع سبز رنگ
+            - text: را بزنید
+        - strong [ref=e62]:
+          - generic [ref=e64]:
+            - text: کالاهای غذایی در بالاترین تاریخ انقضا می باشد----(سفارش لبنیات تا قبل از ساعت 13 امکان پذیر می باشد )فروشگاه در ایام تعطیل
+            - generic [ref=e65]:
+              - text: دایر نمی باشد---(
+              - generic [ref=e66]: سایت دارای نماد اطمینان هست )کسانی که با محیط اینترنت برای ثبت سفارش آشنایی ندارند، میتوانند تلفنی سفارش نمایند
+            - text: حداقل سفارش خود را بالای 320 هزار تومان در سایت ثبت فرمایید تا با شما تماس گرفته شود---(خرید حضوری وجود دارد.)ارسال کالا
+            - generic [ref=e67]: رایگان نمی باشد .
+            - generic [ref=e68]: هزینه حمل
+            - text: متناسب با وزن و مسافت محاسبه شده و بعد از ثبت سفارش با شما تماس گرفته میشود((خواهشمند است سفارش خود را تا دریافت کد رهگیری پیش ببرید تا با شما تماس گرفته شود و بعد از هماهنگی با اپراتور ، سفارش شما
+            - generic [ref=e69]: تایید و رسمی
+            - text: میشود ))
+      - heading [level=2] [ref=e73]:
+        - generic [ref=e74]:
+          - text: در صورت فراموشی رمز عبور
+          - link:
+            - /url: http://applehyper.com/admin30N3FyYW9nPT0/editor
+          - link "کلیک کنید" [ref=e75] [cursor=pointer]:
+            - /url: https://applehyper.com/صفحه-جدید/
+      - list [ref=e83]:
+        - listitem [ref=e84]:
+          - link "صفحه نخست" [ref=e85] [cursor=pointer]:
+            - /url: https://applehyper.com/
+        - listitem [ref=e86]:
+          - link "لیست کالاها" [ref=e87] [cursor=pointer]:
+            - /url: ""
+          - generic:
+            - list:
+              - listitem:
+                - link "برنج":
+                  - /url: http://applehyper.com/shop/180-%D8%A8%D8%B1%D9%86%D8%AC/
+              - listitem:
+                - link "روغن":
+                  - /url: http://applehyper.com/shop/181-%D8%B1%D9%88%D8%BA%D9%86/
+              - listitem:
+                - link "حبوبات،ادویه جات":
+                  - /url: http://applehyper.com/shop/127-%D8%AD%D8%A8%D9%88%D8%A8%D8%A7%D8%AA-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C/
+              - listitem:
+                - link "رب گوجه":
+                  - /url: http://applehyper.com/shop/182-%D8%B1%D8%A8/
+              - listitem:
+                - link "تن ماهی":
+                  - /url: http://applehyper.com/shop/183-%D8%AA%D9%86-%D9%85%D8%A7%D9%87%DB%8C/
+              - listitem:
+                - link "چای":
+                  - /url: http://applehyper.com/shop/30-%DA%86%D8%A7%DB%8C/
+              - listitem:
+                - link "قند و شکر":
+                  - /url: http://applehyper.com/shop/41-%D9%82%D9%86%D8%AF-%D9%88%D8%B4%DA%A9%D8%B1/
+              - listitem:
+                - link "کنسروجات":
+                  - /url: http://applehyper.com/shop/178-%DA%A9%D9%86%D8%B3%D8%B1%D9%88-1/
+              - listitem:
+                - link "ماکارونی":
+                  - /url: http://applehyper.com/shop/165-%D9%85%D8%A7%DA%A9%D8%A7%D8%B1%D9%88%D9%86%DB%8C/
+              - listitem:
+                - link "مواد شوینده":
+                  - /url: http://applehyper.com/shop/188-%D8%B4%D8%B3%D8%AA-%D9%88-%D8%B4%D9%88-1/
+              - listitem:
+                - link "سلولزی و بهداشتی":
+                  - /url: http://applehyper.com/shop/191-%D8%A8%D9%87%D8%AF%D8%A7%D8%B4%D8%AA%DB%8C/
+              - listitem:
+                - link "لبنیات و صبحانه":
+                  - /url: http://applehyper.com/shop/78-%D9%84%D8%A8%D9%86%DB%8C%D8%A7%D8%AA-1/
+              - listitem:
+                - link "سرکه،آبلیمو،آبغوره":
+                  - /url: http://applehyper.com/shop/169-%D8%B3%D8%B1%DA%A9%D9%87/
+              - listitem:
+                - link "تنقلات،پودر های نوشیدنی":
+                  - /url: http://applehyper.com/shop/103-%D8%AA%D9%86%D9%82%D9%84%D8%A7%D8%AA/
+              - listitem:
+                - link "عسل و مرباجات تک نفره":
+                  - /url: http://applehyper.com/shop/134-%D9%85%D8%B1%D8%A8%D8%A7%D8%AC%D8%A7%D8%AA-%D8%B1%D8%B3%D8%AA%D9%88%D8%B1%D8%A7%D9%86%DB%8C/
+              - listitem:
+                - link "نوشیدنی،شربت":
+                  - /url: http://applehyper.com/shop/26-%D8%A7%D8%A8%D9%85%DB%8C%D9%88%D9%87/
+              - listitem:
+                - link "ملزومات،سایر لوازم":
+                  - /url: http://applehyper.com/shop/167-%D9%85%D9%84%D8%B2%D9%88%D9%85%D8%A7%D8%AA
+        - listitem [ref=e88]:
+          - link "1405/06/06" [ref=e89] [cursor=pointer]:
+            - /url: ""
+    - generic [ref=e91]:
+      - list [ref=e100]:
+        - listitem [ref=e101]:
+          - generic [ref=e102]:
+            - img "مرکز پخش برنج ایرانی،حبوبات،کنسروجات" [ref=e103]
+            - heading "مرکز پخش برنج ایرانی،حبوبات،کنسروجات" [level=3] [ref=e105]
+        - listitem [ref=e106]:
+          - generic [ref=e107]:
+            - img "هاشمی وکشت دوم فقط یکبار امتحان" [ref=e108]
+            - link [ref=e109] [cursor=pointer]:
+              - /url: http://applehyper.com/shop/23-%D8%A8%D8%B1%D9%86%D8%AC/
+            - heading "هاشمی وکشت دوم فقط یکبار امتحان" [level=3] [ref=e111]
+        - listitem [ref=e112]:
+          - generic [ref=e113]:
+            - img "عرضه مستقیم مواد غذایی" [ref=e114]
+            - link [ref=e115] [cursor=pointer]:
+              - /url: https://applehyper.com/قوانین/
+            - heading "عرضه مستقیم مواد غذایی" [level=3] [ref=e117]
+        - listitem [ref=e118]:
+          - generic [ref=e119]:
+            - img "برنج هاشمی کیلویی 20 هزار تومان" [ref=e120]
+            - link [ref=e121] [cursor=pointer]:
+              - /url: http://applehyper.com/shop/23-%D8%A8%D8%B1%D9%86%D8%AC/
+            - heading "برنج هاشمی کیلویی 20 هزار تومان" [level=3] [ref=e123]
+      - generic [ref=e127]:
+        - list [ref=e129]:
+          - listitem [ref=e130]:
+            - link [ref=e132] [cursor=pointer]:
+              - /url: https://applehyper.com/رستورانی/
+          - listitem [ref=e133]
+          - listitem [ref=e135]
+          - listitem [ref=e137]:
+            - link [ref=e139] [cursor=pointer]:
+              - /url: https://applehyper.com/رستورانی/
+          - listitem [ref=e140]
+        - list [ref=e142]:
+          - listitem [ref=e143]:
+            - link "1" [ref=e144]:
+              - /url: "#"
+          - listitem [ref=e145]:
+            - link "2" [ref=e146] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e147]:
+            - link "3" [ref=e148] [cursor=pointer]:
+              - /url: "#"
+        - list:
+          - listitem:
+            - link "" [ref=e149] [cursor=pointer]:
+              - /url: "#"
+          - listitem:
+            - link "" [ref=e150] [cursor=pointer]:
+              - /url: "#"
+    - generic [ref=e176]:
+      - generic [ref=e177]: ساعات کار
+      - paragraph [ref=e188]:
+        - generic [ref=e189]: همه روزه به غیر از روز های تعطیل ساعت 8:30 صبح تا 18 شب و پنجشنبه ها تا ساعت 16:00
+      - paragraph [ref=e207]:
+        - strong [ref=e210]: "آدرس پخش:مولوی،میدان محمدیه،شمال شرقی میدان،جنب مترو محمدیه،سرای عادلی،داخل سرای عادلی اولین بریدگی سمت راست،پ 24(فروشگاه کیا) تماس با ما : 55605538-021 021-55628134"
+      - link [ref=e218] [cursor=pointer]:
+        - /url: https://trustseal.enamad.ir/?id=164844&Code=RSwhJV6M3jYxbYyHVPXG
+    - generic:
+      - generic:
+        - banner:
+          - generic: سبد خرید
+        - generic:
+          - list
+          - generic: جمع کل
+        - contentinfo:
+          - generic:
+            - link "مشاهده سبد خرید":
+              - /url: https://applehyper.com/shop/cart
+            - link "تسویه حساب":
+              - /url: https://applehyper.com/shop/checkout
+  - text: × × × × ×
+```

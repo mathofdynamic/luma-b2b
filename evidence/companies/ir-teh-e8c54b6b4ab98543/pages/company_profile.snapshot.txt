@@ -1,0 +1,334 @@
+### Page
+- Page URL: https://avval.ir/profile/ce670/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%AA%DB%8C%D8%A7%D8%B1%D8%A7-%DA%98%D9%86%D8%B1%D8%A7%D8%AA%D9%88%D8%B1
+- Page Title: شرکت تیارا ژنراتور - فروش دیزل ژنراتور، ژنراتور و موتور برق | کتاب اول
+- Console: 4 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - link "home page" [ref=e5] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - textbox "فعالیت شغلی، نام کسب و کار، خدمات و محصولات و ..." [ref=e11]
+            - generic [ref=e12]: در
+            - generic [ref=e13]:
+              - textbox "شهر، محله، منطقه، خیابان و ..." [ref=e14]
+              - button "جستجو بر اساس موقعیت مکانی" [ref=e16] [cursor=pointer]
+            - button "جستجو" [ref=e19] [cursor=pointer]
+          - list
+      - link "ثبت رایگان اطلاعات شغلی" [ref=e23] [cursor=pointer]:
+        - /url: /%D8%AB%D8%A8%D8%AA-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D8%B4%D8%BA%D9%84%DB%8C
+      - button "ورود | ثبت نام" [ref=e26] [cursor=pointer]
+    - navigation [ref=e30]:
+      - list [ref=e31]:
+        - listitem [ref=e32]:
+          - button "دسته بندی مشاغل" [ref=e33] [cursor=pointer]
+        - listitem [ref=e35]: "|"
+        - listitem [ref=e36]:
+          - link "تبلیغات با ما" [ref=e37] [cursor=pointer]:
+            - /url: /%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-%D9%88%D8%A8-%D8%B3%D8%A7%DB%8C%D8%AA-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+        - listitem [ref=e40]: "|"
+        - listitem [ref=e41]:
+          - link "دسترسی بانک مشاغل" [ref=e42] [cursor=pointer]:
+            - /url: /%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B4%D8%A7%D8%BA%D9%84-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+        - listitem [ref=e45]: "|"
+        - listitem [ref=e46]:
+          - link "پنل اس ام اس" [ref=e47] [cursor=pointer]:
+            - /url: /smspanel
+  - generic [ref=e53]:
+    - main [ref=e54]:
+      - generic [ref=e55]:
+        - img "لوگوی شرکت تیارا ژنراتور - فروش دیزل ژنراتور، ژنراتور و موتور برق" [ref=e57]
+        - generic [ref=e58]:
+          - heading "شرکت تیارا ژنراتور" [level=1] [ref=e59]
+          - generic [ref=e60]:
+            - generic [ref=e69]: "4.0"
+            - generic [ref=e70]: (1 نظر)
+          - generic [ref=e71]: برق دیزل_ژنراتور برق_صنعتی ژنراتور_برق ژنراتور آپارتمان_لوکس مجتمع_مسکونی مجتمع_تجاری پروژه_معماری پروژه_ساختمانی پروژه_عمرانی مولدبرق
+          - list [ref=e72]:
+            - listitem [ref=e73]: فروش دیزل ژنراتور، ژنراتور و موتور برق
+            - listitem [ref=e74]: تجهیزات برق صنعتی
+      - generic [ref=e75]:
+        - link "تماس" [ref=e76] [cursor=pointer]:
+          - /url: "#"
+        - button "ثبت نظر" [ref=e81] [cursor=pointer]
+        - button "ارتقای پروفایل" [ref=e84] [cursor=pointer]
+        - button "ویرایش" [ref=e87] [cursor=pointer]
+        - button "اشتراک گذاری" [ref=e92] [cursor=pointer]
+      - navigation [ref=e100]:
+        - list [ref=e101]:
+          - listitem [ref=e102]:
+            - link "link to home" [ref=e103] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e107]
+          - listitem [ref=e110]:
+            - link "دسته‌بندی مشاغل" [ref=e111] [cursor=pointer]:
+              - /url: /directory
+          - listitem [ref=e112]
+          - listitem [ref=e115]:
+            - link "فروش دیزل ژنراتور، ژنراتور و موتور برق" [ref=e116] [cursor=pointer]:
+              - /url: /directory/%D9%81%D8%B1%D9%88%D8%B4-%D8%AF%DB%8C%D8%B2%D9%84-%DA%98%D9%86%D8%B1%D8%A7%D8%AA%D9%88%D8%B1-%DA%98%D9%86%D8%B1%D8%A7%D8%AA%D9%88%D8%B1-%D9%88-%D9%85%D9%88%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D9%82
+          - listitem [ref=e117]
+          - listitem [ref=e120]:
+            - link "تهران" [ref=e121] [cursor=pointer]:
+              - /url: /directory/%D9%81%D8%B1%D9%88%D8%B4-%D8%AF%DB%8C%D8%B2%D9%84-%DA%98%D9%86%D8%B1%D8%A7%D8%AA%D9%88%D8%B1-%DA%98%D9%86%D8%B1%D8%A7%D8%AA%D9%88%D8%B1-%D9%88-%D9%85%D9%88%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D9%82/%D8%AA%D9%87%D8%B1%D8%A7%D9%86
+          - listitem [ref=e122]
+          - listitem [ref=e125]:
+            - link "محله فرمانیه" [ref=e126] [cursor=pointer]:
+              - /url: /directory/%D9%81%D8%B1%D9%88%D8%B4-%D8%AF%DB%8C%D8%B2%D9%84-%DA%98%D9%86%D8%B1%D8%A7%D8%AA%D9%88%D8%B1-%DA%98%D9%86%D8%B1%D8%A7%D8%AA%D9%88%D8%B1-%D9%88-%D9%85%D9%88%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D9%82/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/%D9%85%D8%AD%D9%84%D9%87-%D9%81%D8%B1%D9%85%D8%A7%D9%86%DB%8C%D9%87
+      - generic [ref=e127]:
+        - heading "اطلاعات تماس" [level=2] [ref=e129]
+        - list [ref=e130]:
+          - listitem [ref=e131]:
+            - generic [ref=e132]: "آدرس :"
+            - generic [ref=e136]: تهران، منطقه 1، محله فرمانیه، فرمانیه، خیابان لواسانی، تقاطع خیابان پاسداران، پلاک 3، طبقه پنجم، واحد 14
+          - listitem [ref=e137]:
+            - generic [ref=e138]: "تلفن :"
+            - button "نمایش شماره" [ref=e141] [cursor=pointer]
+            - generic [ref=e142]: XXXXXXXXXX
+          - listitem [ref=e143]:
+            - generic [ref=e144]: "تلفن همراه :"
+            - button "نمایش شماره" [ref=e147] [cursor=pointer]
+            - generic [ref=e148]: XXXXXXXXXX
+          - listitem [ref=e149]:
+            - generic [ref=e150]: وب سایت
+            - link "tiaragenerators.com" [ref=e154] [cursor=pointer]:
+              - /url: http://tiaragenerators.com
+          - listitem [ref=e155]:
+            - generic [ref=e156]: "صفحات اجتماعی :"
+            - list [ref=e162]:
+              - listitem [ref=e163]:
+                - link "link to instagram" [ref=e164] [cursor=pointer]:
+                  - /url: https://www.instagram.com/tiaragenerators
+      - generic [ref=e173]:
+        - heading "توضیحات" [level=2] [ref=e175]
+        - generic [ref=e176]: شرکت توسعه مولدهای برق تیارا با بیش از یک دهه تجربه در صنعت دیزل ژنراتور و محصولات وابسته، همچنین تجربه همکاری با صنایع ، ارگانها و برندهای معتبر اقتصادی و تجاری و اعتماد آنها افتخار دارد تا در این مسیر با بهترین کیفیت و خدمات در کنار شما باشد. مهندسین و متخصصین تیارا با استفاده از استاندارهای روز دنیا در تمامی مراحل طراحی، تولید، جابجایی و خدمات پس از فروش دیزل ژنراتور همراه شما هستند.همچنین تیم تیارا ژنراتورز آماده ی تولید متعلقات دیزل ژنراتورها از قبیل تابلوهای کنترل، بریکر ، چنج آور ، پارالل و سنکرون، کاناپی و چهارچرخ و ارائه خدمات ساخت اتاق دیزل ژنراتور، کابل کشی، اگزوزکشی، کانال کشی هوای دیزل ژنراتور می باشد تا تمامی زنجیره خدمات قبل و پس از فروش را با کیفیت و قیمت رقابتی و گارانتی پنج ساله به مشتریان خود ارائه کند.
+      - generic [ref=e177]:
+        - heading "نظرات" [level=2] [ref=e179]
+        - generic [ref=e180]:
+          - paragraph [ref=e181]: لطفا به این کسب و کار امتیاز بدید و نظر خودتون رو درباره این کسب و کار بنویسید
+          - generic [ref=e182]:
+            - generic [ref=e185]:
+              - generic [ref=e186]: بدون رای
+              - generic "بدون رای" [ref=e188] [cursor=pointer]:
+                - textbox "امتیاز شما برای این کسب و کار" [ref=e220]
+            - generic [ref=e221]:
+              - generic [ref=e222]: حداکثر 2000 کاراکتر
+              - textbox "به نظر من ..." [ref=e223]
+              - button "ثبت نظر" [ref=e224] [cursor=pointer]
+          - generic [ref=e225]:
+            - generic [ref=e227]:
+              - generic [ref=e231]: حسین گرجی
+              - generic [ref=e232]: 11 ماه پیش
+            - generic [ref=e242]:
+              - button "0" [ref=e243] [cursor=pointer]
+              - button "پاسخ" [ref=e247] [cursor=pointer]
+              - button "گزارش تخلف این نظر" [ref=e252] [cursor=pointer]
+          - text: ✕
+    - complementary [ref=e256]:
+      - generic [ref=e258]:
+        - generic [ref=e259]:
+          - generic:
+            - region "Map" [ref=e260]
+            - generic: برای بزرگنمایی نقشه، از ⌘ + پیمایش استفاده کنید
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e261] [cursor=pointer]
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e262] [cursor=pointer]
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e267] [cursor=pointer]
+            - button "نشانگر موقعیت مکانی روی نقشه" [ref=e276] [cursor=pointer]
+          - generic:
+            - generic:
+              - generic [ref=e290]:
+                - button "Zoom in" [ref=e291] [cursor=pointer]
+                - button "Zoom out" [ref=e293] [cursor=pointer]
+              - button "Enter fullscreen" [ref=e296] [cursor=pointer]
+        - generic [ref=e298]:
+          - button "گوگل" [ref=e299] [cursor=pointer]
+          - button [ref=e306] [cursor=pointer]:
+            - img "بلد" [ref=e307]
+            - text: بلد
+          - button [ref=e308] [cursor=pointer]:
+            - img "نشان" [ref=e309]
+            - text: نشان
+      - list [ref=e312]:
+        - listitem [ref=e313]:
+          - paragraph [ref=e314]: نزدیک ترین پایانه تاکسی به شرکت تیارا ژنراتور
+          - link "پایانه تاکسیرانی نوبنیاد 927 متر" [ref=e315] [cursor=pointer]:
+            - /url: /profile/1a6ed/%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%D9%87-%D8%AA%D8%A7%DA%A9%D8%B3%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D9%86%D9%88%D8%A8%D9%86%DB%8C%D8%A7%D8%AF
+        - listitem [ref=e322]:
+          - paragraph [ref=e323]: نزدیک ترین ایستگاه مترو به شرکت تیارا ژنراتور
+          - link "ایستگاه مترو اقدسیه 857 متر" [ref=e324] [cursor=pointer]:
+            - /url: /profile/7ae0e/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%85%D8%AA%D8%B1%D9%88-%D8%A7%D9%82%D8%AF%D8%B3%DB%8C%D9%87
+        - listitem [ref=e333]:
+          - paragraph [ref=e334]: نزدیک ترین ایستگاه اتوبوس به شرکت تیارا ژنراتور
+          - link "ایستگاه اتوبوس سه راه پاسداران - کد 95 - شرق به غرب 91 متر" [ref=e335] [cursor=pointer]:
+            - /url: /profile/1f747/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A7%D8%AA%D9%88%D8%A8%D9%88%D8%B3-%D8%B3%D9%87-%D8%B1%D8%A7%D9%87-%D9%BE%D8%A7%D8%B3%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%DA%A9%D8%AF-95-%D8%B4%D8%B1%D9%82-%D8%A8%D9%87-%D8%BA%D8%B1%D8%A8
+      - generic [ref=e347]:
+        - heading "تصاویر" [level=2] [ref=e349]
+        - generic [ref=e350]:
+          - link "main image" [ref=e352] [cursor=pointer]:
+            - /url: /filehash/A9zAjjjcgcApsvoCheciigDtzq.jpg
+            - img "شرکت تیارا ژنراتور - فروش دیزل ژنراتور، ژنراتور و موتور برق شماره 1" [ref=e353]
+          - generic [ref=e354]:
+            - link "Images" [ref=e356] [cursor=pointer]:
+              - /url: /filehash/A9zAjjjcgcApsvoCheciihDtzq.jpg
+              - img "شرکت تیارا ژنراتور - فروش دیزل ژنراتور، ژنراتور و موتور برق شماره 2" [ref=e357]
+            - link "Images" [ref=e359] [cursor=pointer]:
+              - /url: /filehash/A9zAjjjcgcApsvoCheciiiDtzq.jpg
+              - img "شرکت تیارا ژنراتور - فروش دیزل ژنراتور، ژنراتور و موتور برق شماره 3" [ref=e360]
+            - link "Images" [ref=e362] [cursor=pointer]:
+              - /url: /filehash/A9zAjjjcgcApsvoCheciijDtzq.jpg
+              - img "شرکت تیارا ژنراتور - فروش دیزل ژنراتور، ژنراتور و موتور برق شماره 4" [ref=e363]
+      - generic [ref=e364]:
+        - heading "کسب و کارهای مشابه" [level=2] [ref=e366]
+        - navigation [ref=e367]:
+          - list [ref=e368]:
+            - listitem [ref=e369]:
+              - link "فروشگاه زنر سیستم فروشگاه زنر سیستم 4.0 (1 نظر) فروش دیزل ژنراتور، ژنراتور و موتور برق تهران، منطقه 12، محله فردوسی ، خیابان لاله زار جنوبی" [ref=e370] [cursor=pointer]:
+                - /url: /profile/4be03/%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87-%D8%B2%D9%86%D8%B1-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85
+                - img "فروشگاه زنر سیستم" [ref=e371]
+                - generic [ref=e372]:
+                  - heading "فروشگاه زنر سیستم" [level=3] [ref=e373]
+                  - generic [ref=e374]:
+                    - generic [ref=e383]: "4.0"
+                    - generic [ref=e384]: (1 نظر)
+                  - list [ref=e385]:
+                    - listitem [ref=e386]: فروش دیزل ژنراتور، ژنراتور و موتور برق
+                  - generic [ref=e387]: تهران، منطقه 12، محله فردوسی ، خیابان لاله زار جنوبی
+            - listitem [ref=e391]:
+              - link "شرکت ریان پیشرو دیزل شرکت ریان پیشرو دیزل 4.0 (1 نظر) تولید دیزل ژنراتور، ژنراتور و موتور برق تهران، منطقه 12، محله فردوسی ، سعدی جنوبی" [ref=e392] [cursor=pointer]:
+                - /url: /profile/dcd2e/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%B1%DB%8C%D8%A7%D9%86-%D9%BE%DB%8C%D8%B4%D8%B1%D9%88-%D8%AF%DB%8C%D8%B2%D9%84
+                - img "شرکت ریان پیشرو دیزل" [ref=e393]
+                - generic [ref=e394]:
+                  - heading "شرکت ریان پیشرو دیزل" [level=3] [ref=e395]
+                  - generic [ref=e396]:
+                    - generic [ref=e405]: "4.0"
+                    - generic [ref=e406]: (1 نظر)
+                  - list [ref=e407]:
+                    - listitem [ref=e408]: تولید دیزل ژنراتور، ژنراتور و موتور برق
+                  - generic [ref=e409]: تهران، منطقه 12، محله فردوسی ، سعدی جنوبی
+            - listitem [ref=e413]:
+              - link [ref=e414] [cursor=pointer]:
+                - /url: /profile/dplvw/%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87-%D9%85%DB%8C%D8%AA%DB%8C%D8%A7%D8%B1%D9%BE%D8%A7%D9%88%D8%B1
+                - img "فروشگاه میتیارپاور" [ref=e415]
+                - generic [ref=e416]:
+                  - heading "فروشگاه میتیارپاور" [level=3] [ref=e417]
+                  - list [ref=e418]:
+                    - listitem [ref=e419]: برق اضطراری
+                  - generic [ref=e420]: تهران، اسلامشهر، شهرک صنعتی چهاردانگه، شهرک صنفی سهند
+            - listitem [ref=e424]:
+              - link "شرکت رادوکو 4.0 (1 نظر) فروش تجهیزات برق صنعتی یا ساختمانی تهران، منطقه 3، محله اختیاریه - رستم آباد، خیابان شریعتی" [ref=e425] [cursor=pointer]:
+                - /url: /profile/2da52/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%B1%D8%A7%D8%AF%D9%88%DA%A9%D9%88
+                - generic [ref=e447]:
+                  - heading "شرکت رادوکو" [level=3] [ref=e448]
+                  - generic [ref=e449]:
+                    - generic [ref=e458]: "4.0"
+                    - generic [ref=e459]: (1 نظر)
+                  - list [ref=e460]:
+                    - listitem [ref=e461]: فروش تجهیزات برق صنعتی یا ساختمانی
+                  - generic [ref=e462]: تهران، منطقه 3، محله اختیاریه - رستم آباد، خیابان شریعتی
+            - listitem [ref=e466]:
+              - link "شرکت فنی مهندسی ثامن نیروی اریکه 4.0 (1 نظر) تاسیسات صنعتی تهران، منطقه 12، محله فردوسی ، خبابان لاله زار جنوبی" [ref=e467] [cursor=pointer]:
+                - /url: /profile/70978/%D8%B4%D8%B1%DA%A9%D8%AA-%D9%81%D9%86%DB%8C-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%AB%D8%A7%D9%85%D9%86-%D9%86%DB%8C%D8%B1%D9%88%DB%8C-%D8%A7%D8%B1%DB%8C%DA%A9%D9%87
+                - generic [ref=e489]:
+                  - heading "شرکت فنی مهندسی ثامن نیروی اریکه" [level=3] [ref=e490]
+                  - generic [ref=e491]:
+                    - generic [ref=e500]: "4.0"
+                    - generic [ref=e501]: (1 نظر)
+                  - list [ref=e502]:
+                    - listitem [ref=e503]: تاسیسات صنعتی
+                  - generic [ref=e504]: تهران، منطقه 12، محله فردوسی ، خبابان لاله زار جنوبی
+            - listitem [ref=e508]:
+              - link "شرکت صنعت نیرو شرکت صنعت نیرو 4.0 (2 نظر) تابلو برق فشار قوی یا ضعیف مشهد، منطقه 10، محله خاتم الانبیا، بزرگراه پیامبر اعظم" [ref=e509] [cursor=pointer]:
+                - /url: /profile/8520f/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%B5%D9%86%D8%B9%D8%AA-%D9%86%DB%8C%D8%B1%D9%88
+                - img "شرکت صنعت نیرو" [ref=e510]
+                - generic [ref=e511]:
+                  - heading "شرکت صنعت نیرو" [level=3] [ref=e512]
+                  - generic [ref=e513]:
+                    - generic [ref=e522]: "4.0"
+                    - generic [ref=e523]: (2 نظر)
+                  - list [ref=e524]:
+                    - listitem [ref=e525]: تابلو برق فشار قوی یا ضعیف
+                  - generic [ref=e526]: مشهد، منطقه 10، محله خاتم الانبیا، بزرگراه پیامبر اعظم
+            - listitem [ref=e530]:
+              - link [ref=e531] [cursor=pointer]:
+                - /url: /profile/uyhlx/%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87-%D9%BE%DB%8C%D8%B4%D8%B1%D9%88-%D8%B5%D9%86%D8%B9%D8%AA-%DB%8C%D8%B2%D8%AF
+                - img "فروشگاه پیشرو صنعت یزد" [ref=e532]
+                - generic [ref=e533]:
+                  - heading "فروشگاه پیشرو صنعت یزد" [level=3] [ref=e534]
+                  - list [ref=e535]:
+                    - listitem [ref=e536]: برق اضطراری
+                    - listitem [ref=e537]: توزیع برق و انتقال نیرو
+                  - generic [ref=e538]: تهران، منطقه 4، محله مهران، بلوار جمهوری
+    - text: ✕ ✕
+  - contentinfo [ref=e542]:
+    - generic [ref=e543]:
+      - generic [ref=e544]:
+        - link "home page" [ref=e545] [cursor=pointer]:
+          - /url: /
+        - list [ref=e548]:
+          - listitem [ref=e549]:
+            - link "Telegram" [ref=e550] [cursor=pointer]:
+              - /url: https://t.me/avval_ir
+          - listitem [ref=e556]:
+            - link "instagram" [ref=e557] [cursor=pointer]:
+              - /url: https://instagram.com/ketabeavval.officialpage
+          - listitem [ref=e562]:
+            - link "Twitter" [ref=e563] [cursor=pointer]:
+              - /url: https://twitter.com/ketabeavvalir
+          - listitem [ref=e567]:
+            - link "Facebook" [ref=e568] [cursor=pointer]:
+              - /url: https://www.facebook.com/avval/
+          - listitem [ref=e572]:
+            - link "Linkedin" [ref=e573] [cursor=pointer]:
+              - /url: https://linkedin.com/company/ketabeavval/
+      - navigation [ref=e578]:
+        - generic [ref=e579]:
+          - generic [ref=e580]: درباره کتاب اول
+          - list [ref=e581]:
+            - listitem [ref=e582]:
+              - link "درباره کتاب اول" [ref=e583] [cursor=pointer]:
+                - /url: /about-ketabeavval
+            - listitem [ref=e584]:
+              - link "تماس با کتاب اول" [ref=e585] [cursor=pointer]:
+                - /url: /contact-us
+            - listitem [ref=e586]:
+              - link "شرایط استفاده" [ref=e587] [cursor=pointer]:
+                - /url: /terms-conditions
+            - listitem [ref=e588]:
+              - link "حریم شخضی" [ref=e589] [cursor=pointer]:
+                - /url: /privacy-policy
+        - generic [ref=e590]:
+          - generic [ref=e591]: کشف کنید
+          - list [ref=e592]:
+            - listitem [ref=e593]:
+              - link "دسته بندی مشاغل" [ref=e594] [cursor=pointer]:
+                - /url: /directory
+            - listitem [ref=e595]:
+              - link "نقشه سایت" [ref=e596] [cursor=pointer]:
+                - /url: /sitemap
+            - listitem [ref=e597]:
+              - link "دسترسی بانک مشاغل کتاب اول" [ref=e598] [cursor=pointer]:
+                - /url: /%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B4%D8%A7%D8%BA%D9%84-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+            - listitem [ref=e599]:
+              - link "پنل اس ام اس" [ref=e600] [cursor=pointer]:
+                - /url: /smspanel
+        - generic [ref=e601]:
+          - generic [ref=e602]: صاحبین مشاغل در کتاب اول
+          - list [ref=e603]:
+            - listitem [ref=e604]:
+              - link "ثبت اطلاعات شغلی" [ref=e605] [cursor=pointer]:
+                - /url: /%D8%AB%D8%A8%D8%AA-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D8%B4%D8%BA%D9%84%DB%8C
+            - listitem [ref=e606]:
+              - link "تبلیغات با کتاب اول" [ref=e607] [cursor=pointer]:
+                - /url: /%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-%D9%88%D8%A8-%D8%B3%D8%A7%DB%8C%D8%AA-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%88%D9%84
+    - generic [ref=e608]:
+      - img "samandehi logo" [ref=e610] [cursor=pointer]
+      - link "enamad logo" [ref=e612] [cursor=pointer]:
+        - /url: https://trustseal.enamad.ir/?id=194990&Code=3Y0m3d1djm9fuqjoC8mT
+        - img "logo-enamad" [ref=e613]
+    - generic [ref=e614]: 1373-1403 © تمامی حقوق برای شرکت کتاب اول محفوظ است
+  - text: ✕ *
+```

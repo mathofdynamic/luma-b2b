@@ -1,0 +1,178 @@
+{
+  "company_id": "ir-teh-bc5ebbc611683dd5",
+  "errors": [],
+  "generated_at": "2026-09-01T07:42:37Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [
+    {
+      "bytes": 1226246,
+      "captured_at": "2026-09-01T07:42:35Z",
+      "company_id": "ir-teh-bc5ebbc611683dd5",
+      "headless": true,
+      "page_title": "صفحه اصلی - نرم افزار حسابداری کیان پرداز",
+      "path": "companies/ir-teh-bc5ebbc611683dd5/screenshots/homepage.png",
+      "reason_this_matters": "Public company homepage is the primary visual evidence surface.",
+      "screenshot_type": "homepage",
+      "source_url": "https://kianpardaz.com/"
+    }
+  ],
+  "sources": [
+    {
+      "discovered_at": "2026-09-01T06:31:54Z",
+      "discovery_reason": "Book-e Avval category: انبارداری",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "شرکت کیان پرداز تولید کننده انواع نرم افزار حسابداری فروشگاهی و شرکتی می باشد. همچنین تولید کننده اپلیکیشن اندروید و وبسایت فروشگاه اینترنتی با قابلیت اتصال به نرم افزار",
+      "source_quality": "directory",
+      "source_title": "انبارداری در تهران | کتاب اول",
+      "source_type": "directory",
+      "source_url": "https://avval.ir/directory/%D8%A7%D9%86%D8%A8%D8%A7%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T06:31:54Z",
+      "claim": "Public source lists the company name and the quoted business/activity context.",
+      "confidence": 0.78,
+      "evidence_id": "ev-61d8d7445f51a05b",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "شرکت کیان پرداز تولید کننده انواع نرم افزار حسابداری فروشگاهی و شرکتی می باشد. همچنین تولید کننده اپلیکیشن اندروید و وبسایت فروشگاه اینترنتی با قابلیت اتصال به نرم افزار",
+      "source_quality": "directory",
+      "source_title": "انبارداری در تهران | کتاب اول",
+      "source_url": "https://avval.ir/directory/%D8%A7%D9%86%D8%A8%D8%A7%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "captured_at": "2026-09-01T07:13:53Z",
+      "claim": "Directory profile lists شرکت کیان پرداز - دفتر مرکزی with a public Tehran business listing.",
+      "confidence": 0.82,
+      "evidence_id": "ev-31a53fe30048fe88",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "شرکت کیان پرداز - دفتر مرکزی - نرم افزار اتوماسیون اداری و مالی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس شرکت کیان پرداز - دفتر مرکزی تولید کننده نرم افزارهای حسابداری فروشگاهی و شرکتی، اپلیکیشن پخش مویرگی، اپلیکیشن و وبسایت فروشگاه اینترنتی با قابلیت اتصال به نرم افزار حسابداری نرم افزار اتوماسیون اداری و مالی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل نرم افزار اتوماسیون اداری و مالی ته",
+      "source_quality": "directory",
+      "source_title": "شرکت کیان پرداز - دفتر مرکزی - نرم افزار اتوماسیون اداری و مالی | کتاب اول",
+      "source_url": "https://avval.ir/profile/554c7/%D8%B4%D8%B1%DA%A9%D8%AA-%DA%A9%DB%8C%D8%A7%D9%86-%D9%BE%D8%B1%D8%AF%D8%A7%D8%B2-%D8%AF%D9%81%D8%AA%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:27Z",
+      "claim": "Public website signal: catalog_or_products",
+      "confidence": 0.86,
+      "evidence_id": "ev-51c3200670211615",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "کاتالوگ; محصولات; محصول | صفحه اصلی - نرم افزار حسابداری کیان پرداز پرش به محتوا درخواست دمو ارسال تیکت تماس با ما درخواست نمایندگی 02191006670 صفحه نخست محصولات کیان پرداز Close محصولات کیان پرداز Open محصولات کیان پرداز نرم افزار های اصلی نرم افزار فروشگاه زنجیره ای نرم افزار هایپر مارکت نرم افزار پخش مویرگی نرم افزار فروشگاهی (اصناف / فروشگاه) نرم افزار شرکتی و بازرگانی نرم افزار اصناف خاص نرم افزار رستوران و فست فود نرم افزار حمل ، نقل و",
+      "signal": "catalog_or_products",
+      "source_quality": "company_site",
+      "source_title": "صفحه اصلی - نرم افزار حسابداری کیان پرداز",
+      "source_url": "https://kianpardaz.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:27Z",
+      "claim": "Public website signal: order_or_contact_form",
+      "confidence": 0.72,
+      "evidence_id": "ev-cbbe1072b0819d8b",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "ثبت سفارش; تماس با ما | صفحه اصلی - نرم افزار حسابداری کیان پرداز پرش به محتوا درخواست دمو ارسال تیکت تماس با ما درخواست نمایندگی 02191006670 صفحه نخست محصولات کیان پرداز Close محصولات کیان پرداز Open محصولات کیان پرداز نرم افزار های اصلی نرم افزار فروشگاه زنجیره ای نرم افزار هایپر مارکت نرم افزار پخش مویرگی نرم افزار فروشگاهی (اصناف / فروشگاه) نرم افزار شرکتی و بازرگانی نرم افزار اصناف خاص نرم افزار رستوران و فست فود نرم افزار حمل ، نقل و",
+      "signal": "order_or_contact_form",
+      "source_quality": "company_site",
+      "source_title": "صفحه اصلی - نرم افزار حسابداری کیان پرداز",
+      "source_url": "https://kianpardaz.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:27Z",
+      "claim": "Public website signal: branches_or_dealers",
+      "confidence": 0.72,
+      "evidence_id": "ev-d4d784d92a54299f",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "شعب; نمایندگان; نمایندگی; دفاتر | صفحه اصلی - نرم افزار حسابداری کیان پرداز پرش به محتوا درخواست دمو ارسال تیکت تماس با ما درخواست نمایندگی 02191006670 صفحه نخست محصولات کیان پرداز Close محصولات کیان پرداز Open محصولات کیان پرداز نرم افزار های اصلی نرم افزار فروشگاه زنجیره ای نرم افزار هایپر مارکت نرم افزار پخش مویرگی نرم افزار فروشگاهی (اصناف / فروشگاه) نرم افزار شرکتی و بازرگانی نرم افزار اصناف خاص نرم افزار رستوران و فست فود نرم افزار حمل ، نقل و",
+      "signal": "branches_or_dealers",
+      "source_quality": "company_site",
+      "source_title": "صفحه اصلی - نرم افزار حسابداری کیان پرداز",
+      "source_url": "https://kianpardaz.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:27Z",
+      "claim": "Public website signal: factory_or_warehouse",
+      "confidence": 0.86,
+      "evidence_id": "ev-f626ce8fd2dc7d76",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "کارخانجات; انبار | صفحه اصلی - نرم افزار حسابداری کیان پرداز پرش به محتوا درخواست دمو ارسال تیکت تماس با ما درخواست نمایندگی 02191006670 صفحه نخست محصولات کیان پرداز Close محصولات کیان پرداز Open محصولات کیان پرداز نرم افزار های اصلی نرم افزار فروشگاه زنجیره ای نرم افزار هایپر مارکت نرم افزار پخش مویرگی نرم افزار فروشگاهی (اصناف / فروشگاه) نرم افزار شرکتی و بازرگانی نرم افزار اصناف خاص نرم افزار رستوران و فست فود نرم افزار حمل ، نقل و",
+      "signal": "factory_or_warehouse",
+      "source_quality": "company_site",
+      "source_title": "صفحه اصلی - نرم افزار حسابداری کیان پرداز",
+      "source_url": "https://kianpardaz.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:27Z",
+      "claim": "Public website signal: service_after_sales",
+      "confidence": 0.72,
+      "evidence_id": "ev-10528d02fcf8564c",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "خدمات پس از فروش | صفحه اصلی - نرم افزار حسابداری کیان پرداز پرش به محتوا درخواست دمو ارسال تیکت تماس با ما درخواست نمایندگی 02191006670 صفحه نخست محصولات کیان پرداز Close محصولات کیان پرداز Open محصولات کیان پرداز نرم افزار های اصلی نرم افزار فروشگاه زنجیره ای نرم افزار هایپر مارکت نرم افزار پخش مویرگی نرم افزار فروشگاهی (اصناف / فروشگاه) نرم افزار شرکتی و بازرگانی نرم افزار اصناف خاص نرم افزار رستوران و فست فود نرم افزار حمل ، نقل و",
+      "signal": "service_after_sales",
+      "source_quality": "company_site",
+      "source_title": "صفحه اصلی - نرم افزار حسابداری کیان پرداز",
+      "source_url": "https://kianpardaz.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:27Z",
+      "claim": "Public website signal: projects_or_clients",
+      "confidence": 0.72,
+      "evidence_id": "ev-872955d60344d080",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "مشتریان; همکاران | صفحه اصلی - نرم افزار حسابداری کیان پرداز پرش به محتوا درخواست دمو ارسال تیکت تماس با ما درخواست نمایندگی 02191006670 صفحه نخست محصولات کیان پرداز Close محصولات کیان پرداز Open محصولات کیان پرداز نرم افزار های اصلی نرم افزار فروشگاه زنجیره ای نرم افزار هایپر مارکت نرم افزار پخش مویرگی نرم افزار فروشگاهی (اصناف / فروشگاه) نرم افزار شرکتی و بازرگانی نرم افزار اصناف خاص نرم افزار رستوران و فست فود نرم افزار حمل ، نقل و",
+      "signal": "projects_or_clients",
+      "source_quality": "company_site",
+      "source_title": "صفحه اصلی - نرم افزار حسابداری کیان پرداز",
+      "source_url": "https://kianpardaz.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:27Z",
+      "claim": "Public website signal: tender_or_contract",
+      "confidence": 0.72,
+      "evidence_id": "ev-c753361539517038",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "قرارداد; بازرگانی | صفحه اصلی - نرم افزار حسابداری کیان پرداز پرش به محتوا درخواست دمو ارسال تیکت تماس با ما درخواست نمایندگی 02191006670 صفحه نخست محصولات کیان پرداز Close محصولات کیان پرداز Open محصولات کیان پرداز نرم افزار های اصلی نرم افزار فروشگاه زنجیره ای نرم افزار هایپر مارکت نرم افزار پخش مویرگی نرم افزار فروشگاهی (اصناف / فروشگاه) نرم افزار شرکتی و بازرگانی نرم افزار اصناف خاص نرم افزار رستوران و فست فود نرم افزار حمل ، نقل و",
+      "signal": "tender_or_contract",
+      "source_quality": "company_site",
+      "source_title": "صفحه اصلی - نرم افزار حسابداری کیان پرداز",
+      "source_url": "https://kianpardaz.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:27Z",
+      "claim": "Public website signal: software_or_erp",
+      "confidence": 0.72,
+      "evidence_id": "ev-12241b3fa0decd83",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "crm; نرم افزار; نرم‌افزار | صفحه اصلی - نرم افزار حسابداری کیان پرداز پرش به محتوا درخواست دمو ارسال تیکت تماس با ما درخواست نمایندگی 02191006670 صفحه نخست محصولات کیان پرداز Close محصولات کیان پرداز Open محصولات کیان پرداز نرم افزار های اصلی نرم افزار فروشگاه زنجیره ای نرم افزار هایپر مارکت نرم افزار پخش مویرگی نرم افزار فروشگاهی (اصناف / فروشگاه) نرم افزار شرکتی و بازرگانی نرم افزار اصناف خاص نرم افزار رستوران و فست فود نرم افزار حمل ، نقل و",
+      "signal": "software_or_erp",
+      "source_quality": "company_site",
+      "source_title": "صفحه اصلی - نرم افزار حسابداری کیان پرداز",
+      "source_url": "https://kianpardaz.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:27Z",
+      "claim": "Public website signal: admin_or_operations_hiring",
+      "confidence": 0.72,
+      "evidence_id": "ev-4aece891e7a9eb79",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "حسابدار | صفحه اصلی - نرم افزار حسابداری کیان پرداز پرش به محتوا درخواست دمو ارسال تیکت تماس با ما درخواست نمایندگی 02191006670 صفحه نخست محصولات کیان پرداز Close محصولات کیان پرداز Open محصولات کیان پرداز نرم افزار های اصلی نرم افزار فروشگاه زنجیره ای نرم افزار هایپر مارکت نرم افزار پخش مویرگی نرم افزار فروشگاهی (اصناف / فروشگاه) نرم افزار شرکتی و بازرگانی نرم افزار اصناف خاص نرم افزار رستوران و فست فود نرم افزار حمل ، نقل و",
+      "signal": "admin_or_operations_hiring",
+      "source_quality": "company_site",
+      "source_title": "صفحه اصلی - نرم افزار حسابداری کیان پرداز",
+      "source_url": "https://kianpardaz.com/"
+    },
+    {
+      "captured_at": "2026-09-01T07:14:27Z",
+      "claim": "Public website signal: expansion_or_activity",
+      "confidence": 0.72,
+      "evidence_id": "ev-2ebd007ca0c18a8a",
+      "evidence_type": "OBSERVED",
+      "quote_or_snippet": "توسعه; سراسر کشور | صفحه اصلی - نرم افزار حسابداری کیان پرداز پرش به محتوا درخواست دمو ارسال تیکت تماس با ما درخواست نمایندگی 02191006670 صفحه نخست محصولات کیان پرداز Close محصولات کیان پرداز Open محصولات کیان پرداز نرم افزار های اصلی نرم افزار فروشگاه زنجیره ای نرم افزار هایپر مارکت نرم افزار پخش مویرگی نرم افزار فروشگاهی (اصناف / فروشگاه) نرم افزار شرکتی و بازرگانی نرم افزار اصناف خاص نرم افزار رستوران و فست فود نرم افزار حمل ، نقل و",
+      "signal": "expansion_or_activity",
+      "source_quality": "company_site",
+      "source_title": "صفحه اصلی - نرم افزار حسابداری کیان پرداز",
+      "source_url": "https://kianpardaz.com/"
+    }
+  ]
+}

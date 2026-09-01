@@ -1,0 +1,305 @@
+### Page
+- Page URL: https://www.mahantarabar.com/
+- Page Title: Mahan Tarabar Arya
+- Console: 3 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - paragraph [ref=e5]
+      - generic:
+        - list:
+          - listitem
+          - listitem
+      - generic:
+        - paragraph
+    - generic [ref=e7]:
+      - generic [ref=e8]:
+        - link "TR" [ref=e9] [cursor=pointer]:
+          - /url: anasayfa.html
+        - text: "|"
+        - link "EN" [ref=e10] [cursor=pointer]:
+          - /url: index.html
+        - text: "|"
+        - link "FA" [ref=e11] [cursor=pointer]:
+          - /url: fa.html
+      - navigation [ref=e13]:
+        - list [ref=e15]:
+          - listitem [ref=e16]:
+            - link "Home Page" [ref=e17] [cursor=pointer]:
+              - /url: index.html
+          - listitem [ref=e18]:
+            - link "About Us" [ref=e19] [cursor=pointer]:
+              - /url: "#about"
+          - listitem [ref=e20]:
+            - link "International Services" [ref=e21] [cursor=pointer]:
+              - /url: "#services"
+          - listitem [ref=e22]:
+            - link "Domestic Operations" [ref=e23] [cursor=pointer]:
+              - /url: "#pricing"
+          - listitem [ref=e24]:
+            - link "Usable Information" [ref=e25] [cursor=pointer]:
+              - /url: "#contact"
+  - generic [ref=e27]:
+    - generic [ref=e31]:
+      - paragraph [ref=e32]: At the international land transport, Mahan Tarabar Arya manages a process that allows for capturing new opportunities by handling operational problems with a solution-oriented structure…
+      - paragraph [ref=e33]: In this process, it provides customers with savings on time and cost by increasing supply chain performance with its support and development services by an experienced team.
+      - paragraph [ref=e34]: It accumulates the infrastructure for this international chain and offers the key to success to company managers by allowing the goods to be dispatched in a suitable format to the companies’ needs and within an acceptable time frame.
+    - generic [ref=e35]:
+      - paragraph [ref=e39]: Mahan Tarabar Arya has continuously supports their customers as a boutique service provider in ocean freight and continues to offer the best possible opportunity today by providing solutions to customer needs...By approaching the notion of customer relations management with the utmost attention and managing logistic costs and dynamics that form the basis of important strategic decisions for you our partners in business, Mahan Tarabar Arya has succeeded in letting customers be aware of the value it gives them. With the service it provides in cooperation with its solution partners proceeding with this awareness, it has provided quality and added value.
+      - paragraph [ref=e43]: In the worldwide air cargo operation and practice processes, providing continuous information flow and dependable fast service to customers has become an essential need…The aim of the Mahan Tarabar Arya operation team is to be able to convey our customers’ dispatches in a reliable way, with correct information and at the right time to the correct sources. This service, which needs to be realized meticulously, is provided by immediately solving possible problems for our customer oriented supply process needs by our employees.
+  - generic [ref=e46]:
+    - paragraph [ref=e48]: About Us
+    - paragraph [ref=e49]
+    - paragraph [ref=e50]
+    - generic [ref=e51]:
+      - paragraph [ref=e52]: During this era when companies active in the international logistics sector reveal their significance and bring in new clientele to their organization, we underline by providing quality service that maintaining customers is at least as important as gaining customers.
+      - paragraph [ref=e53]: We offer information oriented projects about successfully managing time and money combinations to our customers by guiding them with our private consulting services.
+      - paragraph [ref=e54]: For this reason, we offer quality and competitive service with a professional team to manage your operational processes along with an IT infrastructure to simplify your operations.
+      - paragraph [ref=e55]: We emphasize the importance of answering customer needs by being integrated with and getting to know them, the importance of providing the highest quality to our customers, the importance of gaining new customers while maintaining existing customers, and provide customer satisfaction by reaching operational perfection by way of keeping the bar of service standard at a maximum level.
+      - paragraph
+    - paragraph [ref=e56]
+    - generic [ref=e57]:
+      - generic [ref=e58]:
+        - generic [ref=e59]: 
+        - heading "OUR MISSION" [level=3] [ref=e61]
+        - paragraph [ref=e62]: To maintain our strength we gained from our customers’ trust to the future; while managing competitive advantages and quality standards in logistics services as a solution partner.
+      - generic [ref=e63]:
+        - generic [ref=e64]: 
+        - heading "OUR VISION" [level=3] [ref=e66]
+        - paragraph [ref=e67]: GTo emphasize the importance of logistics within the scope of supply chain management by improving our strong infrastructure, producing current solutions and renewing ourselves for the future.
+      - generic [ref=e68]:
+        - generic [ref=e69]: 
+        - heading "HUMAN RESOURCES" [level=3] [ref=e71]
+        - paragraph [ref=e72]: Our company, which provides logistic services to various parts of the World, offers numerous interesting employment opportunities.We always support our team-mates with various training opportunities so that they can improve themselves and plan their careers.
+  - generic [ref=e76]:
+    - generic [ref=e77]:
+      - heading "International Services" [level=3] [ref=e78]
+      - paragraph [ref=e79]: In addition to the complete, partial or consolidated logistic services we provide in the international arena, we offer special and customized services in project transportation, loading gauge shipments, exhibition planning, motorized vehicle transfers.
+      - paragraph [ref=e80]: Mahan Tarabar Arya , which has demonstrated its strength in the field of logistic services, approaches with a problem-free, reliable and solution oriented service to your import and export operations together with its Worldwide partner network that is up to par with its quality standards.
+      - paragraph [ref=e81]: Creating the correct cost analysis and feasibility in today’s dynamic work environment is at least as important as the numbers revealed at the end of the year.
+      - paragraph [ref=e82]: In planning your purchasing budget, Mahan Tarabar Arya abides by your logistic expenditure items and supports your ability to keep your processes at an optimum level.
+    - generic [ref=e83]:
+      - heading "Our Services" [level=3] [ref=e84]
+      - generic [ref=e88]:
+        - paragraph [ref=e89]: "Land Transport Services:"
+        - paragraph [ref=e90]: Groupage service
+        - paragraph [ref=e91]: Transit service
+        - paragraph [ref=e92]: Rail transport
+        - paragraph [ref=e93]: Intermodal shipments
+        - paragraph [ref=e94]: Palletize and packaging
+        - paragraph [ref=e95]: Warehousing
+      - generic [ref=e100]:
+        - paragraph [ref=e101]: "Ocean Freight Services:"
+        - paragraph [ref=e102]: Container port loading
+        - paragraph [ref=e103]: LCL Shipments
+        - paragraph [ref=e104]: Open Top
+        - paragraph [ref=e105]: Reefer
+        - paragraph [ref=e106]: Flat rack
+        - paragraph [ref=e107]: Monitoring
+        - paragraph [ref=e108]: Warehousing
+  - generic [ref=e112]:
+    - paragraph [ref=e114]: International Transport
+    - paragraph [ref=e115]
+    - paragraph [ref=e116]
+    - generic [ref=e117]:
+      - generic [ref=e119]:
+        - link [ref=e121] [cursor=pointer]:
+          - /url: images/8.jpg
+        - heading "LAND TRANSPORT" [level=4] [ref=e123]
+        - paragraph [ref=e124]: Mahan Tarabar Arya is providing services over land, which is the second fastest form of transportation, through truck; rail and intermodal options with specialized personnel and quality service warranty.
+        - paragraph [ref=e125]: Starting with Europe; it has a strong service network in the areas Middle East; C.I.S. countries and Russia.
+        - paragraph [ref=e126]: Turkey, considered a transit country between Europe and the East, offers standard complete and partial land services as well as support for the transit operations of products manufactured worldwide or dispatched to these countries.
+        - paragraph [ref=e127]: Partial Truck Services
+        - paragraph [ref=e128]: We provide partial service for your freight that is too small to fill the entire vehicle in terms of volume and weight.
+        - paragraph [ref=e129]: Complete Truck Services
+        - paragraph
+        - paragraph [ref=e130]: We offer door-to-door land transport service for your freight that can fill the entire vehicle, considering our customer’s expectations.
+      - generic [ref=e132]:
+        - link [ref=e134] [cursor=pointer]:
+          - /url: images/9.jpg
+        - heading "OCEAN FREIGHT" [level=4] [ref=e136]
+        - paragraph [ref=e137]: Mahan Tarabar Arya , which has demonstrated its strength in more than 100 countries with the field of international logistic service, provides problem-free, fast, reliable and solution oriented service in your import and export operations together with its world-wide qualified partner network.
+        - paragraph [ref=e138]: In addition to complete and partial ocean freight services, Mahan Tarabar Arya has the expertise and structure to offer numerous services in terms of truck+ocean, air+ocean or rail+ocean included in combined services.
+        - paragraph [ref=e139]: In this context, we have a quality and reliable service network for our customers whom we create with combinations of other transportation types.
+        - paragraph [ref=e140]: Low Container Load (LCL)
+        - paragraph [ref=e141]: We offer you partial service for freight that is too small to fill the entire container in terms of volume and weight.
+        - paragraph [ref=e142]: Full Container Load (FCL)
+        - paragraph [ref=e143]: We offer port-to-port or door-to-door seaway transportation service for freight that can fill the entire container, taking into account our customers’ expectations.
+      - generic [ref=e145]:
+        - link [ref=e147] [cursor=pointer]:
+          - /url: images/10.jpg
+        - heading "AIR CARGO" [level=4] [ref=e149]
+        - paragraph [ref=e150]: For customers requesting transportation service all around the world, air freight, some of the advantages we offer are customs clearing, door-to-door delivery, including internal transportation in line with your needs and expectations.
+        - paragraph [ref=e151]: PWe offer air freight transport services with our team of a professional background between all world airports due to organized and alternative options. Your dispatch – wherever in the World it may be, will be delivered to you in the fastest, most reliable way to your customers either at the airport or at their doorstep. In case of your demand, your dispatches will be taken from the address you will supply and transferred to the airport.
+  - generic [ref=e154]:
+    - generic [ref=e155]:
+      - generic [ref=e156]:
+        - generic [ref=e157]: 
+        - heading "Project Transportation" [level=4] [ref=e161]
+        - paragraph [ref=e162]: Mahan Tarabar Arya brings a logical flow to your complicated logistic work processes in project transportation service applications and allows for the supply chain control to be efficient and the cargo to reach your customers in a timely fashion.
+        - paragraph [ref=e163]: Our team serving in the operational system helps you to understand work process flows and the costs pursuant to these with all details during the entire duration you use Mahan Tarabar Arya services. We provide turnkey service to your special service project dispatches such as moving your company overseas, loading gauge shipment, heavy tonnage products that need to be delivered as a single unit, combined moving needs and the like. We work flawlessly in order to evaluate your logistic component with the most realistic data regarding the cost feasibility of your project, before you make your purchasing decision. We offer to help you to optimize your logistic budget within your total costs while you are working on the cost feasibility of your project before you make your purchasing order.
+      - generic [ref=e164]:
+        - generic [ref=e165]: 
+        - heading "Transit Shimpents" [level=4] [ref=e169]
+        - paragraph [ref=e170]: We are taking advantage of all transport models, while offering you solutions for your transit shipments from Europe to Middle East; C.I.S. Countries and Asia. Particularly the multimodal and intermodal services we created as an option for the truck transport attract attention due it’s cost advantages.
+        - paragraph [ref=e171]: With this combinations; we designed between the transportation types; we offer quality and secured service to our customers. All documentation processes where followed up painstakingly suitable to the served area conjuncture; planning and organizations where made solution-oriented to avoid any delays.Turkey, considered a transit country opens the door worldwide to with customer satisfaction and gained their trust to move the future, offers standard complete and partial land services as well as support for the transit operations of products manufactured worldwide or dispatched to these countries.
+    - paragraph [ref=e173]
+    - paragraph [ref=e174]
+    - generic [ref=e175]:
+      - generic [ref=e176]:
+        - generic [ref=e177]: 
+        - heading "Third Country" [level=4] [ref=e181]
+        - paragraph [ref=e182]: Today, the optimization of purchasing processes is necessary in the markets where there is high competition. Material flow processes need to be carried out in a healthy manner in order for the storage and dispatch centers to be better managed, without increasing logistic costs. Cross-docking decreases stored amount and minimizes the time wasted during dispatch processes.
+        - paragraph [ref=e183]: Mahan Tarabar Arya adapts to the international integration of cross-docking and offers the services of transportation between third countries, monitoring and reporting. Based on its effective planning, it allows for the dispatches to be made without delay and for the materials to be delivered to the destination on time with minimum cost.
+        - paragraph [ref=e184]
+        - paragraph [ref=e185]
+      - generic [ref=e186]:
+        - generic [ref=e187]: 
+        - heading "Exhibition Lojistics" [level=4] [ref=e191]
+        - paragraph [ref=e192]: Promoting your company in various countries via exhibitions in a world that is quickly developing needs good time and budget planning. Supplying logistics service, which is one of the most important preliminary preparations for exhibitions, needs meticulousness, healthy information flow and the ability to apply correct information.
+        - paragraph [ref=e193]: Mahan Tarabar Arya organizes your work processes by creating an operation network in regards to the exhibition service it provides and manages your entire logistic operation from your door step to the exhibition stall, both throughout Turkey and internationally. The solutions we apply keep your costs under control so you can increase your profit levels and allow for you to manage your operations so that your exhibition is timely displayed in your stall. In addition to the transportation process, all document processes are meticulously tracked so possible trouble may be foreseen and taken care of before it can lead to any trouble.
+  - generic [ref=e196]:
+    - generic [ref=e197]:
+      - paragraph [ref=e199]: Domestic Operation
+      - heading "OPERATIONS THROUGHOUT TURKEY" [level=3] [ref=e201]
+      - generic [ref=e202]:
+        - paragraph [ref=e203]: The logistic services we offer throughout Turkey are designed to cover the entire supply chain management. We provide special and customized service in all areas of logistics here as we do in the international arena.
+        - paragraph [ref=e204]: By guiding our customers with our special consultation services, we offer information oriented projects regarding the healthy management of time and money combination.
+        - paragraph
+      - paragraph [ref=e205]
+    - generic [ref=e206]:
+      - generic [ref=e207]:
+        - heading "INLAND TRANSPORTATION" [level=2] [ref=e208]
+        - generic [ref=e209]: Transportation, which constitutes an important cost item within the supply chain, is used in all operations both nationally and internationally.
+      - generic [ref=e210]: We offer you our services to deliver all your domestic and interurban dispatches whether before the export you plan to make or to the customer address from your warehouse.
+      - list [ref=e212]:
+        - text: •Container transportation
+        - paragraph [ref=e213]: •Product delivery
+        - paragraph [ref=e214]: •Interwarehouse transportation
+        - paragraph [ref=e215]: •Cooler
+        - paragraph [ref=e216]: •Loading gauge transportation
+    - generic [ref=e217]:
+      - generic [ref=e218]:
+        - heading "STORAGE" [level=2] [ref=e219]
+        - generic [ref=e220]: Separating products based on their usage frequency, coding, the structure of the warehouse, its security and quality are important points to be considered.
+      - generic [ref=e221]: Mahan Tarabar Arya offers the following services so your products may be stored at the right conditions.
+      - list [ref=e223]:
+        - text: •Storage
+        - paragraph [ref=e224]: •Cooled and frozen storage in ambient temperature
+        - paragraph [ref=e225]: •Barcoding & Packaging
+        - paragraph [ref=e226]: •Receiving & Delivery
+        - paragraph [ref=e227]: •Order Picking
+    - generic [ref=e228]:
+      - generic [ref=e229]:
+        - heading "STOCK MANAGEMENT" [level=2] [ref=e230]
+        - generic [ref=e231]: Considering stocks constitute a major part of a company’s total actives, a problem that may arise in stock management will result in time and money loss for the company.
+      - generic [ref=e232]: Based on these reasons, Mahan Tarabar Arya gives importance to stock management in providing the below services.
+      - list [ref=e234]:
+        - text: •Warehouse facility
+        - paragraph [ref=e235]: •Packaging & Labelling
+        - paragraph [ref=e236]: •Technological infrastructure
+        - paragraph [ref=e237]: •Security system
+        - paragraph [ref=e238]: •Expert personnel
+        - paragraph [ref=e239]: •Returned product storage
+  - generic [ref=e244]:
+    - generic [ref=e245]:
+      - heading "Contact Us" [level=3] [ref=e246]
+      - list [ref=e247]:
+        - listitem [ref=e248]:
+          - generic [ref=e249]: 
+          - text: MAHAN TARABAR ARYA
+          - generic [ref=e250]: I’TNL TRANSPORT CO LTD.
+          - generic [ref=e251]: Africa Modaress Highway; Padidar Rod No.15 Floor 4 Postcode 1518945656 Tehran / IRAN
+        - listitem [ref=e252]:
+          - generic [ref=e253]: 
+          - text: "Phone : 0098 21 888 74 723"
+          - generic [ref=e254]: ": 0098 21 888 74 277"
+          - generic [ref=e255]: Fax :0098 21 888 74 367
+        - listitem [ref=e256]:
+          - generic [ref=e257]: ✉
+          - link "info@mahantarabar.com" [ref=e258] [cursor=pointer]:
+            - /url: mailto:info@mahantarabar.com<
+    - iframe [ref=e260]:
+      - link "‫‏باز کردن در Maps (در زبانه جدید باز می‌شود)" [ref=f1e4] [cursor=pointer]:
+        - /url: undefined
+        - text: ‏باز کردن در Maps
+    - generic [ref=e261]:
+      - heading "Write Us" [level=3] [ref=e262]
+      - generic [ref=e263]:
+        - textbox [ref=e264]: Name
+        - textbox [ref=e265]: Email
+        - textbox [ref=e266]: Phone
+        - textbox [ref=e267]: Message...
+        - button "Send" [ref=e268] [cursor=pointer]
+  - generic [ref=e272]:
+    - generic [ref=e273]:
+      - heading "Usable Information" [level=3] [ref=e274]
+      - paragraph [ref=e275]:
+        - link "LOJIBLOG Todays Logistic News" [ref=e276] [cursor=pointer]:
+          - /url: http://www.lojiblog.com/category/loji-haber/
+      - paragraph [ref=e277]:
+        - link "TIM Research Report" [ref=e278] [cursor=pointer]:
+          - /url: http://www.tim.org.tr/tr/ihracat-arastirma-raporlari.html
+      - paragraph [ref=e279]:
+        - link "IATA CODES" [ref=e280] [cursor=pointer]:
+          - /url: http://www.iata.org/services/Pages/codes.aspx
+      - link:
+        - /url: http://www.iata.org/services/Pages/codes.aspx
+      - paragraph [ref=e281]:
+        - link:
+          - /url: http://www.iata.org/services/Pages/codes.aspx
+        - link "International Chamber of Commerce - INCOTERMS" [ref=e282] [cursor=pointer]:
+          - /url: http://www.iccwbo.org/products-and-services/trade-facilitation/incoterms-2010/the-incoterms-rules/
+      - link:
+        - /url: http://www.iccwbo.org/products-and-services/trade-facilitation/incoterms-2010/the-incoterms-rules/
+    - link:
+      - /url: http://www.iccwbo.org/products-and-services/trade-facilitation/incoterms-2010/the-incoterms-rules/
+    - generic [ref=e283]:
+      - link [ref=e284] [cursor=pointer]:
+        - /url: http://www.iccwbo.org/products-and-services/trade-facilitation/incoterms-2010/the-incoterms-rules/
+        - heading "Social Network" [level=3] [ref=e285]
+      - list [ref=e286]:
+        - link:
+          - /url: http://www.iccwbo.org/products-and-services/trade-facilitation/incoterms-2010/the-incoterms-rules/
+        - listitem [ref=e287]:
+          - link:
+            - /url: http://www.iccwbo.org/products-and-services/trade-facilitation/incoterms-2010/the-incoterms-rules/
+          - link [ref=e288] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=e289]:
+          - link [ref=e290] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=e291]:
+          - link [ref=e292] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=e293]:
+          - link [ref=e294] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=e295]:
+          - link [ref=e296] [cursor=pointer]:
+            - /url: "#"
+      - generic:
+        - generic:
+          - link:
+            - /url: "#"
+      - generic:
+        - generic:
+          - link:
+            - /url: "#"
+    - generic [ref=e297]:
+      - heading "Join Us" [level=3] [ref=e298]
+      - paragraph [ref=e300]: "-Application Process"
+      - paragraph [ref=e302]:
+        - text: If you are interested in submitting your cv to us, please do so via
+        - link "info@mahantarabar.com" [ref=e303] [cursor=pointer]:
+          - /url: mailto:info@mahantarabar.com
+        - text: After careful consideration, you will receive a response in case of any suitable positions.
+  - paragraph [ref=e307]:
+    - text: Copyright © 2015 Transportation. All rights reserved | Design by
+    - link "Mahan Tarabar Arya" [ref=e308] [cursor=pointer]:
+      - /url: http://www.mahantarabar.com
+```
+### Events
+- New console entries: .playwright-cli/console-2026-09-01T08-12-18-250Z.log#L3
