@@ -1,0 +1,9 @@
+{
+  "completed_at": "2026-09-01T08:10:19Z",
+  "eligible_tiers": [
+    "A",
+    "B"
+  ],
+  "proposals_generated": 59,
+  "strong_b_rule": "B with score >=73, website status 200 or >=4 evidence objects"
+}

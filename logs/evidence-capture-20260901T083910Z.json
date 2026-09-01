@@ -1,0 +1,10 @@
+{
+  "companies_with_screenshot": 63,
+  "completed_at": "2026-09-01T08:39:10Z",
+  "errors": 47,
+  "headless_blocked": 0,
+  "proxy": "http://127.0.0.1:1087",
+  "screenshots_captured": 63,
+  "targets": 110,
+  "visible_browser_launched": false
+}

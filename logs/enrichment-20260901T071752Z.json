@@ -1,0 +1,163 @@
+{
+  "completed_at": "2026-09-01T07:17:52Z",
+  "errors": [
+    {
+      "company_id": "ir-teh-1c2dd3fbb2b2349a",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "website",
+      "url": "http://www.vismanco.com"
+    },
+    {
+      "company_id": "ir-teh-f9d9153b855e8370",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "website",
+      "url": "https://api.whatsapp.com/send?text=avval.ir/profile/enltm/%D8%B4%D8%B1%DA%A9%D8%AA-%D9%88%DB%8C%D8%B3%D8%AA%D8%A7-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D8%A2%D9%88%DB%8C%DA%98%D9%87"
+    },
+    {
+      "company_id": "ir-teh-65fa8993ae25d193",
+      "error": "HTTPError: HTTP Error 500: ",
+      "stage": "website",
+      "url": "https://trustseal.enamad.ir/?id=194990&Code=3Y0m3d1djm9fuqjoC8mT"
+    },
+    {
+      "company_id": "ir-teh-5f4d383c2681f6bc",
+      "error": "HTTPError: HTTP Error 503: Service Unavailable",
+      "stage": "website",
+      "url": "http://www.behroozanco.com"
+    },
+    {
+      "company_id": "ir-teh-90fb4d92479a6c55",
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 14-17: ordinal not in range(128)",
+      "stage": "website",
+      "url": "https://www.sanatmap.com/location/شهرک-صنعتی-شمس-آباد/"
+    },
+    {
+      "company_id": "ir-teh-3b11c1befd6990a8",
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 10-13: ordinal not in range(128)",
+      "stage": "website",
+      "url": "https://sanat.ir/page/شهرک-صنعتی-شمس-آباد-تهران"
+    },
+    {
+      "company_id": "ir-teh-230dd5dcdebeb072",
+      "error": "InvalidURL: URL can't contain control characters. '/company/zone?cp=364230000   &cc=364230000009&cn=شهرک صنعتی شمس آباد&pn=تهران' (found at least ' ')",
+      "stage": "website",
+      "url": "https://vic.ir/company/zone?cp=364230000   &cc=364230000009&cn=شهرک صنعتی شمس آباد&pn=تهران"
+    },
+    {
+      "company_id": "ir-teh-e8c54b6b4ab98543",
+      "error": "HTTPError: HTTP Error 500: Internal Server Error",
+      "stage": "website",
+      "url": "http://tiaragenerators.com"
+    },
+    {
+      "company_id": "ir-teh-5cab717f448616ec",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "website",
+      "url": "https://twitter.com/ketabeavvalir"
+    },
+    {
+      "company_id": "ir-teh-73850047641d29c0",
+      "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)>",
+      "stage": "website",
+      "url": "http://niknamtejarat.com"
+    },
+    {
+      "company_id": "ir-teh-7af7f22e224559be",
+      "error": "HTTPError: HTTP Error 503: Service Unavailable",
+      "stage": "website",
+      "url": "http://www.avina9.ir"
+    },
+    {
+      "company_id": "ir-teh-aaef669c759437a4",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "website",
+      "url": "http://wa.me/+989123968828"
+    },
+    {
+      "company_id": "ir-teh-2d8b8e7a15080856",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "stage": "website",
+      "url": "http://bale.ai/FATEHICO"
+    },
+    {
+      "company_id": "ir-teh-b474cb841e0d98b0",
+      "error": "HTTPError: HTTP Error 503: Service Unavailable",
+      "stage": "website",
+      "url": "http://www.tipaxco.ir"
+    },
+    {
+      "company_id": "ir-teh-78eecab5bca509c2",
+      "error": "HTTPError: HTTP Error 503: Service Unavailable",
+      "stage": "website",
+      "url": "http://zedec.ir"
+    },
+    {
+      "company_id": "ir-teh-ec97f38530b6b1fc",
+      "error": "TimeoutError: The read operation timed out",
+      "stage": "website",
+      "url": "http://www.btarai.com"
+    },
+    {
+      "company_id": "ir-teh-6a264f32a76cc810",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "stage": "website",
+      "url": "http://www.khcgroup.ir"
+    },
+    {
+      "company_id": "ir-teh-b12fca8dcac7066d",
+      "error": "TimeoutError: The read operation timed out",
+      "stage": "website",
+      "url": "http://sarangtejarat.com/"
+    },
+    {
+      "company_id": "ir-teh-8ab48c947b82141c",
+      "error": "HTTPError: HTTP Error 503: Service Unavailable",
+      "stage": "website",
+      "url": "http://www.sadratejarat.com/"
+    },
+    {
+      "company_id": "ir-teh-d7f3011ddfbe07bd",
+      "error": "TimeoutError: timed out",
+      "stage": "website",
+      "url": "http://www.technoviera.ir"
+    },
+    {
+      "company_id": "ir-teh-53acf01ab1c1b9ee",
+      "error": "HTTPError: HTTP Error 503: Service Unavailable",
+      "stage": "website",
+      "url": "http://www.iranflexo.com"
+    },
+    {
+      "company_id": "ir-teh-0c5a70c9be77da4f",
+      "error": "HTTPError: HTTP Error 503: Service Unavailable",
+      "stage": "website",
+      "url": "http://www.asiasolar.co"
+    }
+  ],
+  "industry_counts": {
+    "auto_parts": 324,
+    "building_materials_mep": 724,
+    "epc_engineering_contractors": 240,
+    "food_fmcg": 349,
+    "industrial_distributors_importers": 82,
+    "industrial_maintenance_after_sales": 39,
+    "industrial_manufacturers": 3195,
+    "logistics_freight_customs": 180,
+    "medical_equipment": 284,
+    "other": 5,
+    "pharma": 107,
+    "printing_packaging_labeling": 555
+  },
+  "meaningfully_enriched": 900,
+  "normalized_companies": 6084,
+  "profile_pages_ok": 220,
+  "profile_pages_requested": 220,
+  "proxy": "http://127.0.0.1:1087",
+  "raw_rows": 6576,
+  "status_counts": {
+    "DISCOVERED": 5184,
+    "MEANINGFULLY_ENRICHED": 900
+  },
+  "website_pages_ok": 58,
+  "website_pages_requested": 80
+}

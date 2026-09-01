@@ -1,0 +1,31 @@
+{
+  "companies_scored": 6084,
+  "completed_at": "2026-09-01T08:09:00Z",
+  "industry_counts": {
+    "auto_parts": 311,
+    "building_materials_mep": 718,
+    "epc_engineering_contractors": 222,
+    "food_fmcg": 336,
+    "industrial_distributors_importers": 221,
+    "industrial_maintenance_after_sales": 48,
+    "industrial_manufacturers": 3114,
+    "logistics_freight_customs": 173,
+    "medical_equipment": 276,
+    "other": 11,
+    "pharma": 102,
+    "printing_packaging_labeling": 552
+  },
+  "score_distribution": {
+    "max": 92,
+    "median": 57,
+    "min": 17
+  },
+  "score_version": "2026.09.evidence-first-v1",
+  "tier_counts": {
+    "A": 33,
+    "B": 118,
+    "C": 1095,
+    "D": 4120,
+    "Reject": 718
+  }
+}

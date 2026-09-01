@@ -1,0 +1,30 @@
+{
+  "completed_at": "2026-09-01T07:08:57Z",
+  "errors": [],
+  "industry_counts": {
+    "auto_parts": 324,
+    "building_materials_mep": 724,
+    "epc_engineering_contractors": 240,
+    "food_fmcg": 349,
+    "industrial_distributors_importers": 82,
+    "industrial_maintenance_after_sales": 39,
+    "industrial_manufacturers": 3195,
+    "logistics_freight_customs": 180,
+    "medical_equipment": 284,
+    "other": 5,
+    "pharma": 107,
+    "printing_packaging_labeling": 555
+  },
+  "meaningfully_enriched": 896,
+  "normalized_companies": 6084,
+  "profile_pages_ok": 0,
+  "profile_pages_requested": 0,
+  "proxy": "http://127.0.0.1:1087",
+  "raw_rows": 6576,
+  "status_counts": {
+    "DISCOVERED": 5188,
+    "MEANINGFULLY_ENRICHED": 896
+  },
+  "website_pages_ok": 0,
+  "website_pages_requested": 0
+}

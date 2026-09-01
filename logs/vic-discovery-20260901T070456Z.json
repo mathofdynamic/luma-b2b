@@ -1,0 +1,75 @@
+{
+  "candidate_count": 3932,
+  "completed_at": "2026-09-01T07:04:56Z",
+  "errors": [
+    {
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 179-180: ordinal not in range(128)",
+      "url": "https://vic.ir/company/zone?cp=364230000&cc=364230000013&cn=%D8%B4%D9%87%D8%B1%DA%A9%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D9%86%D8%B5%DB%8C%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF&pn=%D8%B4%D9%87%D8%Bری%D8%A7%D8%B1"
+    },
+    {
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 110-113: ordinal not in range(128)",
+      "url": "https://vic.ir/company/zone?cp=364230000&cc=364230000012&cn=%D8%B4%D9%87%D8%B1%DA%A9%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20قرچک&pn=%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    }
+  ],
+  "proxy": "http://127.0.0.1:1087",
+  "runs": [
+    {
+      "elapsed_ms": 1467.9,
+      "rows": 1913,
+      "source": "vic_industrial_estates",
+      "status": 200,
+      "url": "https://vic.ir/company/zone?cp=364230000&cc=364230000009&cn=%D8%B4%D9%87%D8%B1%DA%A9%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D8%B4%D9%85%D8%B3%20%D8%A2%D8%A8%D8%A7%D8%AF&pn=%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
+      "zone": "شهرک صنعتی شمس آباد"
+    },
+    {
+      "elapsed_ms": 1668.3,
+      "rows": 1688,
+      "source": "vic_industrial_estates",
+      "status": 200,
+      "url": "https://vic.ir/company/zone?cp=364230000&cc=364230000010&cn=%D8%B4%D9%87%D8%B1%DA%A9%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D8%B9%D8%A8%D8%A7%D8%B3%20%D8%A2%D8%A8%D8%A7%D8%AF&pn=%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
+      "zone": "شهرک صنعتی عباس آباد"
+    },
+    {
+      "elapsed_ms": 643.5,
+      "rows": 323,
+      "source": "vic_industrial_estates",
+      "status": 200,
+      "url": "https://vic.ir/company/zone?cp=364230000&cc=364230000002&cn=%D8%B4%D9%87%D8%B1%DA%A9%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D9%BE%D8%B1%D9%86%D8%AF&pn=%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
+      "zone": "شهرک صنعتی پرند"
+    },
+    {
+      "elapsed_ms": 17.0,
+      "rows": 0,
+      "source": "vic_industrial_estates",
+      "status": null,
+      "url": "https://vic.ir/company/zone?cp=364230000&cc=364230000013&cn=%D8%B4%D9%87%D8%B1%DA%A9%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D9%86%D8%B5%DB%8C%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF&pn=%D8%B4%D9%87%D8%Bری%D8%A7%D8%B1",
+      "zone": "شهرک صنعتی نصیرآباد"
+    },
+    {
+      "elapsed_ms": 946.1,
+      "rows": 8,
+      "source": "vic_industrial_estates",
+      "status": 200,
+      "url": "https://vic.ir/company/zone?cp=364230000&cc=364230000024&cn=%D8%B4%D9%87%D8%B1%DA%A9%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D9%82%D8%AF%D8%B3&pn=%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
+      "zone": "شهرک صنعتی قدس"
+    },
+    {
+      "elapsed_ms": 29.4,
+      "rows": 0,
+      "source": "vic_industrial_estates",
+      "status": null,
+      "url": "https://vic.ir/company/zone?cp=364230000&cc=364230000012&cn=%D8%B4%D9%87%D8%B1%DA%A9%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20قرچک&pn=%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
+      "zone": "شهرک صنعتی قرچک"
+    }
+  ],
+  "source_counts": {
+    "industrial_estate_registry": 3932
+  },
+  "unique_candidate_count": 3932,
+  "zone_counts": {
+    "شهرک صنعتی شمس آباد": 1913,
+    "شهرک صنعتی عباس آباد": 1688,
+    "شهرک صنعتی قدس": 8,
+    "شهرک صنعتی پرند": 323
+  }
+}

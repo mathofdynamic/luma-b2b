@@ -1,0 +1,10 @@
+{
+  "companies_with_deep_site": 0,
+  "completed_at": "2026-09-01T06:56:02Z",
+  "min_score": 65,
+  "proxy": "http://127.0.0.1:1087",
+  "searches_ok": 2,
+  "site_pages_ok": 0,
+  "site_pages_requested": 1,
+  "target_companies": 300
+}

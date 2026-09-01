@@ -1,0 +1,41 @@
+{
+  "capture_log": "logs/evidence-capture-20260901T083910Z.json",
+  "counts": {
+    "capture_error_entries": 56,
+    "companies": 6084,
+    "duplicate_company_ids": 0,
+    "duplicate_name_address_groups": 0,
+    "evidence_packages": 135,
+    "evidence_url_errors": 0,
+    "headless_blocked_source_entries": 0,
+    "master_companies.csv_rows": 6084,
+    "meaningfully_enriched": 900,
+    "missing_required_identity_fields": 0,
+    "private_contact_field_errors": 0,
+    "proposals": 59,
+    "rejected": 718,
+    "rejected.csv_rows": 718,
+    "scored": 6084,
+    "screenshot_metadata": 98,
+    "screenshots_on_disk": 98,
+    "secret_pattern_hits": 0,
+    "text_encoding_errors": 0,
+    "tier_a": 32,
+    "tier_a.csv_rows": 32,
+    "tier_b": 119,
+    "tier_b.csv_rows": 119,
+    "tier_consistency_errors": 0,
+    "top_100_packages_missing": 0,
+    "top_100_without_visual": 36,
+    "workbook_sheets": 10
+  },
+  "generated_at": "2026-09-01T09:13:24Z",
+  "issues": [],
+  "network_log": "logs/network_preflight-20260901T091041Z.json",
+  "passed": true,
+  "quality_gate": "PASS",
+  "warnings": [
+    "Top-100 records without a screenshot: ['ir-teh-1c2dd3fbb2b2349a', 'ir-teh-1af8f5053a129b31', 'ir-teh-5f4d383c2681f6bc', 'ir-teh-f9d9153b855e8370', 'ir-teh-65fa8993ae25d193', 'ir-teh-ef7fea48f17a9757', 'ir-teh-f42b8013450775b4', 'ir-teh-5cab717f448616ec', 'ir-teh-73850047641d29c0', 'ir-teh-7af7f22e224559be']",
+    "Public-source capture errors retained in company packages: 56"
+  ]
+}
