@@ -1,0 +1,43 @@
+{
+  "captured_at": "2026-09-02T14:46:00Z",
+  "tool": "Playwright CLI session luma-dashboard-qa",
+  "browser_mode": "headless",
+  "server": "http://127.0.0.1:5174",
+  "external_requests": [],
+  "console_errors": [],
+  "page_errors": [],
+  "failed_requests": [],
+  "desktop": {
+    "viewport": "1440x1000",
+    "overview_metrics": 6,
+    "companies_rows_rendered": 24,
+    "companies_total_label": "۶٬۰۸۴ نتیجه",
+    "ready_cards": 10,
+    "sabahi_buyer_matches": 1,
+    "sabahi_workflow_panels": 1,
+    "evidence_cards": 16,
+    "source_family_cards": 4,
+    "materials_rendered": 1,
+    "demo_surfaces": 1,
+    "compare_columns": 2,
+    "review_rows": 40,
+    "horizontal_overflow": false
+  },
+  "mobile": {
+    "viewports": ["390x844", "800x900"],
+    "overview_horizontal_overflow": false,
+    "companies_horizontal_overflow": false,
+    "sabahi_horizontal_overflow": false,
+    "companies_rows_rendered": 24,
+    "sabahi_buyer_matches": 1
+  },
+  "interaction_assertions": {
+    "persian_search": "۳ نتیجه / ۳ rendered rows",
+    "ready_filter": "۳۲ results",
+    "command_palette_finds_sabahi": true,
+    "evidence_lightbox_opens_and_escapes": true,
+    "local_markdown_viewer_opens_and_escapes": true,
+    "review_state_put_get_persists": true,
+    "review_state_reset_after_test": true
+  }
+}
