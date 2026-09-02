@@ -1,0 +1,16 @@
+{
+  "audited_total": 151,
+  "companies_total": 6084,
+  "errors": [],
+  "generated_at": "2026-09-02T07:02:09Z",
+  "input": "data/normalized/companies.jsonl",
+  "manual_review_log": "logs/sales_activation_manual_review.json",
+  "passed": true,
+  "ready_total": 32,
+  "scope": "Exactly the existing READY FOR OUTREACH set; no discovery or contact action.",
+  "waves": {
+    "WAVE 1": 10,
+    "WAVE 2": 10,
+    "WAVE 3": 12
+  }
+}

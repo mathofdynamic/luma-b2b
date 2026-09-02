@@ -1,0 +1,110 @@
+{
+  "generated_at": "2026-09-02T07:02:09Z",
+  "method": "Human inspection through the local image viewer of existing screenshots captured by isolated headless research; no browser launched.",
+  "records": [
+    {
+      "company_id": "ir-teh-2587928f98e4f816",
+      "company_name_fa": "شرکت صباحی",
+      "observation": "Official Sabahi homepage: group identity, product/brand catalog, subsidiaries, customer/experience claims and public phone are visible.",
+      "screenshots": [
+        "evidence/companies/ir-teh-2587928f98e4f816/screenshots/homepage.png"
+      ],
+      "wave_rank": 1
+    },
+    {
+      "company_id": "ir-teh-4b1dd8c047fc2163",
+      "company_name_fa": "بازرگانی اسپوتا",
+      "observation": "Official Spota homepage: industrial product categories, product cards, customer/service sections and a prominent commercial contact surface are visible.",
+      "screenshots": [
+        "evidence/companies/ir-teh-4b1dd8c047fc2163/screenshots/homepage.png"
+      ],
+      "wave_rank": 2
+    },
+    {
+      "company_id": "ir-teh-adb049f466e03f58",
+      "company_name_fa": "شرکت علمی سازان پاسارگاد (کانگورو)",
+      "observation": "Official Kangaroo homepage: industrial/petrochemical imagery, business introduction, multiple material/service categories and public contact links are visible.",
+      "screenshots": [
+        "evidence/companies/ir-teh-adb049f466e03f58/screenshots/homepage_candidate-1.png"
+      ],
+      "wave_rank": 3
+    },
+    {
+      "company_id": "ir-teh-b12fca8dcac7066d",
+      "company_name_fa": "شرکت سارنگ تجارت بین الملل",
+      "observation": "Public Ketab profile for Sarang: company title, import/export food-raw-material description, Tehran map/contact panel and website link are visible; directory UI is internal-only.",
+      "screenshots": [
+        "evidence/companies/ir-teh-b12fca8dcac7066d/screenshots/company_profile.png"
+      ],
+      "wave_rank": 4
+    },
+    {
+      "company_id": "ir-teh-5a0d9c69e8a63c56",
+      "company_name_fa": "گروه صنعتی فرازین صنعت",
+      "observation": "Official Farazin Sanat homepage: ABB/Schneider/Siemens brand surface, industrial product cards, catalog-style browsing and articles are visible.",
+      "screenshots": [
+        "evidence/companies/ir-teh-5a0d9c69e8a63c56/screenshots/homepage_candidate-1.png"
+      ],
+      "wave_rank": 5
+    },
+    {
+      "company_id": "ir-teh-d284bae5deddc82f",
+      "company_name_fa": "شرکت بازرگانی میلاد",
+      "observation": "Official Milad homepage: industrial trading identity, product grid, import/engineering/production/repair service stages and project-oriented content are visible.",
+      "screenshots": [
+        "evidence/companies/ir-teh-d284bae5deddc82f/screenshots/homepage_candidate.png"
+      ],
+      "wave_rank": 6
+    },
+    {
+      "company_id": "ir-teh-5911ae5691d19335",
+      "company_name_fa": "لوکس باکس",
+      "observation": "Official Lux Box homepage: substantial product catalog, category navigation, prices/order buttons and corporate contact/footer are visible; consumer/gift positioning needs care.",
+      "screenshots": [
+        "evidence/companies/ir-teh-5911ae5691d19335/screenshots/homepage.png"
+      ],
+      "wave_rank": 7
+    },
+    {
+      "company_id": "ir-teh-37da8ab7a735aff9",
+      "company_name_fa": "گروه تولیدی سپیدار کارتن",
+      "observation": "Official Sepidar Carton homepage: carton/packaging identity, detailed production copy, service/contact form and corporate contact details are visible.",
+      "screenshots": [
+        "evidence/companies/ir-teh-37da8ab7a735aff9/screenshots/homepage_candidate-1.png"
+      ],
+      "wave_rank": 8
+    },
+    {
+      "company_id": "ir-teh-a1e0c5ed00f31de5",
+      "company_name_fa": "ایران بابکت",
+      "observation": "Official Iran Bobcat homepage: Bobcat product/sales surface, consultation and purchase CTAs, warranty/after-sales content and public contact links are visible; some content blocks are blank in the capture.",
+      "screenshots": [
+        "evidence/companies/ir-teh-a1e0c5ed00f31de5/screenshots/homepage.png"
+      ],
+      "wave_rank": 9
+    },
+    {
+      "company_id": "ir-teh-5d9c46c5fec405da",
+      "company_name_fa": "تک ولتاژ",
+      "observation": "Official Tak Voltage homepage: industrial electrical brand/product catalog, product cards, brand logos, articles and contact/navigation surface are visible.",
+      "screenshots": [
+        "evidence/companies/ir-teh-5d9c46c5fec405da/screenshots/homepage_candidate.png"
+      ],
+      "wave_rank": 10
+    }
+  ],
+  "reviewed_company_ids": [
+    "ir-teh-2587928f98e4f816",
+    "ir-teh-4b1dd8c047fc2163",
+    "ir-teh-adb049f466e03f58",
+    "ir-teh-b12fca8dcac7066d",
+    "ir-teh-5a0d9c69e8a63c56",
+    "ir-teh-d284bae5deddc82f",
+    "ir-teh-5911ae5691d19335",
+    "ir-teh-37da8ab7a735aff9",
+    "ir-teh-a1e0c5ed00f31de5",
+    "ir-teh-5d9c46c5fec405da"
+  ],
+  "reviewed_count": 10,
+  "scope": "All 10 current Wave 1 companies"
+}
