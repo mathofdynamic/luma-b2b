@@ -1,9 +1,9 @@
 {
   "schema_version": "0.2.0",
-  "status": "pending",
+  "status": "confirmed",
   "scope": "design_direction_and_plan",
-  "plan_hash": null,
-  "confirmed_by": null,
-  "confirmed_at": null,
-  "confirmation_evidence": null
+  "plan_hash": "f900072b56ba811754c19072c85041320a34a06b3baec02804a621903ecb6687",
+  "confirmed_by": "user",
+  "confirmed_at": "2026-09-02T17:28:38Z",
+  "confirmation_evidence": ".ocd-designer/runs/run-20260902T135023Z/evidence/artifacts/E-0021-user_confirmation.md"
 }
