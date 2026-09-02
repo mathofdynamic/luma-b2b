@@ -24,6 +24,16 @@ Evidence-backed Tehran B2B prospect discovery, qualification, workflow-opportuni
 
 These are research signals, not claims of revenue, legal standing, buying authority or internal workflow pain. Unknown values stay `UNKNOWN`.
 
+## Sales activation preparation results
+
+- The activation pass processed **only the 32 existing READY FOR OUTREACH companies**. It did not run discovery or add candidates.
+- The bounded pass found **22 usable pages from additional public source families**; **15/32** records now have at least three counted source families. Public decision-maker verification remains intentionally conservative: **one** name is retained and the rest are role-only or unknown.
+- First-contact sequencing is **Wave 1: 10**, **Wave 2: 10**, **Wave 3: 12**. The sales-ready packages are under `sales/`; the current sequence is `reports/first_contact_plan.md`.
+- Generated activation artifacts include 32 internal briefs, 32 Persian client one-pagers, 32 outreach drafts, 32 visual indexes, and 30 current top-prospect dossiers under `reports/dossiers/`.
+- The tracker is `data/outreach_pipeline.csv` and `data/outreach_pipeline.xlsx`. Every record starts as `NOT_CONTACTED`; no outreach was sent.
+
+The bounded activation procedure and its human-approval safeguards are documented in `docs/sales_activation.md`.
+
 ## Scope
 
 The primary scope is Tehran city and Tehran Province, including Tehran-headquartered organizations with facilities elsewhere. Priority segments are industrial distributors/importers, industrial manufacturers, food/FMCG, logistics/freight/customs, printing/packaging/labeling, medical equipment, auto parts, EPC/engineering, building materials/MEP, industrial maintenance/after-sales and pharmaceutical companies.
@@ -82,6 +92,12 @@ python3 -m src.exports.generate --input data/normalized/companies.jsonl
 node src/exports/build_workbook.mjs
 python3 -m src.audit.report --input data/normalized/companies.jsonl
 python3 -m src.utilities.qa --input data/normalized/companies.jsonl
+
+# Sales activation preparation: the existing 32 READY records only
+python3 -m src.utilities.network_preflight --proxy http://127.0.0.1:1087 --target https://didmeet.ir/ --ip-endpoint https://api.ipify.org
+python3 -m src.sales.activation --input data/normalized/companies.jsonl --proxy http://127.0.0.1:1087 --max-official-pages 5 --max-external-pages 5
+node src/exports/build_outreach_pipeline.mjs
+python3 -m src.sales.qa --input data/normalized/companies.jsonl
 ```
 
 For a full discovery refresh, `src.discovery.run` now includes the configured VIC connector. The separate `src.discovery.vic` plus `src.discovery.merge` commands are useful for refreshing only industrial-estate sources without repeating every source.
@@ -96,6 +112,9 @@ For a full discovery refresh, `src.discovery.run` now includes the configured VI
 - Commercial audit report: `reports/ranking_audit.md`
 - Sales-ready report: `reports/sales_ready_prospects.md`
 - Human dossiers: `reports/dossiers/`
+- Sales activation packages: `sales/internal/`, `sales/client/`, `sales/outreach/`, `sales/visual/`
+- First-contact plan: `reports/first_contact_plan.md`
+- Outreach tracker: `data/outreach_pipeline.csv`, `data/outreach_pipeline.xlsx`
 - Evidence: `evidence/companies/`
 - Run logs: `logs/`
 
