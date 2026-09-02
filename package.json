@@ -1,0 +1,12 @@
+{
+  "name": "luma-b2b-review-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "data:build": "node dashboard/scripts/build-index.mjs",
+    "dev": "node dashboard/server.mjs",
+    "start": "node dashboard/server.mjs",
+    "qa": "node dashboard/scripts/qa.mjs"
+  }
+}

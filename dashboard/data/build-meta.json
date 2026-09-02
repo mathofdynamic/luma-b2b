@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-09-02T14:43:23.582Z",
+  "counts": {
+    "total": 6084,
+    "enriched": 900,
+    "tierA": 25,
+    "tierB": 7,
+    "ready": 32,
+    "needsDiscovery": 8,
+    "notReady": 111,
+    "wave1": 10,
+    "wave2": 10,
+    "wave3": 12,
+    "proposals": 32,
+    "outreachFiles": 32,
+    "dossiers": 32,
+    "verifiedDecisionMakers": 1,
+    "threePlusSources": 16,
+    "directoryOnly": 84,
+    "workflowSupported": 20,
+    "workflowHypothesis": 28,
+    "screenshotPackages": 173,
+    "evidenceScreenshots": 140,
+    "demos": 1,
+    "demoScreenshots": 6
+  },
+  "sourceFiles": {
+    "companies": "data/normalized/companies.jsonl",
+    "evidence": "data/normalized/evidence_index.jsonl",
+    "sources": "data/normalized/sources.jsonl",
+    "workflows": "data/normalized/workflows.jsonl",
+    "decisionMakers": "data/normalized/decision_makers.jsonl",
+    "evidenceCapture": "data/normalized/evidence_capture.jsonl"
+  }
+}

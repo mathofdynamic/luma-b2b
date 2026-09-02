@@ -41,6 +41,81 @@
       "evidence_kinds": [
         "http"
       ]
+    },
+    {
+      "id": "D-OVERVIEW",
+      "protocol": "dashboard-visual",
+      "required": false,
+      "evidence_kinds": [
+        "screenshot",
+        "dom",
+        "runtime"
+      ]
+    },
+    {
+      "id": "D-COMPANIES",
+      "protocol": "dashboard-visual",
+      "required": false,
+      "evidence_kinds": [
+        "screenshot",
+        "dom",
+        "runtime"
+      ]
+    },
+    {
+      "id": "D-READY",
+      "protocol": "dashboard-visual",
+      "required": false,
+      "evidence_kinds": [
+        "screenshot",
+        "dom"
+      ]
+    },
+    {
+      "id": "D-SABAH",
+      "protocol": "dashboard-visual",
+      "required": false,
+      "evidence_kinds": [
+        "screenshot",
+        "dom",
+        "runtime"
+      ]
+    },
+    {
+      "id": "D-EVIDENCE",
+      "protocol": "dashboard-visual",
+      "required": false,
+      "evidence_kinds": [
+        "screenshot",
+        "runtime"
+      ]
+    },
+    {
+      "id": "D-MATERIALS",
+      "protocol": "dashboard-visual",
+      "required": false,
+      "evidence_kinds": [
+        "screenshot",
+        "runtime"
+      ]
+    },
+    {
+      "id": "D-COMPARE",
+      "protocol": "dashboard-visual",
+      "required": false,
+      "evidence_kinds": [
+        "screenshot",
+        "runtime"
+      ]
+    },
+    {
+      "id": "D-REVIEW",
+      "protocol": "dashboard-visual",
+      "required": false,
+      "evidence_kinds": [
+        "screenshot",
+        "runtime"
+      ]
     }
   ],
   "items": []
