@@ -59,6 +59,8 @@ npm run dev
 
 در این نسخه، indexing بر اساس خروجی فعلی repository انجام شده است. اگر رکورد جدیدی به canonical outputs اضافه شود، `npm run data:build` کافی است؛ frontend برای هر شرکت جدید نیاز به تغییر دستی ندارد. برای کیفیت بالاتر هنوز قضاوت انسانی، بررسی زنده‌ی sourceها و تصمیم release لازم است.
 
+در عرض‌های tablet و موبایل، پنل‌های مکمل پرونده به‌صورت عمودی stack می‌شوند؛ فهرست‌های بلند تماس با disclosure باز می‌شوند و اسناد Markdown در ورود مستقیم به تب مواد فروش به‌صورت خودکار load می‌شوند.
+
 فایل‌های font با URLهای ارائه‌شده توسط کاربر در ۲ سپتامبر ۲۰۲۶ دریافت شده‌اند. مجوز و provenance آن‌ها در این repository به‌طور مستقل راستی‌آزمایی نشده است.
 
 ## تست و QA
@@ -71,4 +73,4 @@ QA ساختاری، routeهای API، سلامت index، نبودن external ass
 
 ## وضعیت design
 
-فرایند طراحی با OCD Designer در `dashboard/.ocd-designer/` ثبت شده است. Brand Book و direction فعلی برای implementation، provisional هستند و approval صریح کاربر هنوز pending است؛ بنابراین این build به‌عنوان release نهایی یا public product معرفی نمی‌شود.
+فرایند طراحی و QA بهبود با OCD Designer در `dashboard/.ocd-designer/` ثبت شده است. remediation plan این run با تأیید صریح کاربر اجرا شده، اما Brand Book و release acceptance هنوز pending هستند؛ بنابراین این build به‌عنوان release نهایی یا public product معرفی نمی‌شود.

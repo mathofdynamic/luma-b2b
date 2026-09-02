@@ -312,6 +312,7 @@ async function openCompany(id, options = {}) {
     state.detail = detail;
     if (detail.review) reviews.companies[id] = detail.review;
     render();
+    if (state.detailTab === "materials") loadMaterial(state.materialTab || "internal");
   } catch (error) {
     setToast(`جزئیات کامل بارگذاری نشد؛ نمای خلاصه باقی ماند (${error.message}).`);
   }
@@ -379,6 +380,7 @@ async function loadMaterial(key) {
   const material = detail?.materials?.[key];
   if (!material?.available) return;
   const cacheKey = `${detail.id}:${key}`;
+  if (state.materialCache[cacheKey]) return;
   state.materialCache[cacheKey] = "loading";
   render({ focus: false });
   try {
@@ -548,15 +550,18 @@ function handleClick(event) {
     return;
   }
   if (target.dataset.detailTab) {
-    state.detailTab = target.dataset.detailTab;
+    const nextTab = target.dataset.detailTab;
+    state.detailTab = nextTab;
     state.materialTab = "internal";
     if (state.detail) syncUrl(true);
     render({ focus: false });
+    if (nextTab === "materials") loadMaterial(state.materialTab);
     return;
   }
   if (target.dataset.materialTab) {
     state.materialTab = target.dataset.materialTab;
     render({ focus: false });
+    loadMaterial(state.materialTab);
     return;
   }
   if (target.dataset.loadMaterial) {
