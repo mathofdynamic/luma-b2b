@@ -13,11 +13,11 @@
 
 ## Likely operational opportunity
 
-STRONG_INFERENCE — بر پایه زمینه عمومی شرکت و شواهد بالا، فرایند قابل بررسی: **BOQ/specification-to-product matching**. این یک فرضیه فروش/کشف است و مشکل داخلی قطعی ادعا نمی‌کند.
+EVIDENCE_SUPPORTED — بر پایه سطح عمومی عملیات و شواهد لینک‌شده، فرایند قابل بررسی: **BOQ/specification matching and technical submittal support**. این شواهد وجود یک فرایند داخلی ناکارآمد را ثابت نمی‌کند و باید در گفت‌وگوی کشف اعتبارسنجی شود.
 
 ## Proposed LUMA solution
 
-A product/specification matcher that structures BOQ lines, retrieves technical evidence and prepares a versioned submittal or quotation pack for approval.
+A document-grounded matcher that structures BOQ lines, retrieves technical evidence and prepares a versioned submittal or quotation pack for approval.
 
 ## How it would work
 
@@ -32,9 +32,11 @@ ROI percentage is not claimed from public data. Measure: lines matched per hour;
 
 ## What needs validation
 
-- Which BOQ/specification formats arrive most often?
-- How are compliant alternatives selected?
-- Which technical approvals are mandatory?
+- BOQ و مشخصات فنی معمولاً با چه قالبی وارد می‌شوند؟
+- تطبیق گزینه‌های مجاز و جایگزین توسط چه نقشی تأیید می‌شود؟
+- کاتالوگ و گواهی فنی مرجع در کجا نگهداری می‌شود؟
+- کدام بخش از سابمیتال باید نسخه‌بندی و قابل ردیابی باشد؟
+- یک پروژه نمونه برای اندازه‌گیری زمان و خطا کدام است؟
 
 ## Likely person to contact
 
@@ -47,10 +49,17 @@ Public name: UNKNOWN — no publicly verified person name collected.
 
 ## Confidence
 
-High — score 88, 10 evidence objects, website status 200. Public sources establish a researchable context, not budget, internal volume or buying authority.
+Medium — raw opportunity score 89, confidence-adjusted score 74.6, commercial evidence strength 72/100, score confidence 73/100 and 2 independent source families. Public sources establish a researchable context, not budget, internal volume or buying authority.
+
+## What we do not know
+
+Budget, monthly workflow volume, system ownership, buying authority, current manual handoffs and implementation constraints remain UNKNOWN until discovery.
 
 ## Source links
 
 - [https://avval.ir/directory/%D8%B4%DB%8C%D8%B1%D8%A2%D9%84%D8%A7%D8%AA%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA/%D8%AA%D9%87%D8%B1%D8%A7%D9%86](https://avval.ir/directory/%D8%B4%DB%8C%D8%B1%D8%A2%D9%84%D8%A7%D8%AA%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA/%D8%AA%D9%87%D8%B1%D8%A7%D9%86)
 - [https://avval.ir/profile/pddle/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%81%D8%A7%D8%B1%D8%A7%D8%A8-%D8%AE%D8%A7%DA%A9%D9%BE%D9%88%D8%B1](https://avval.ir/profile/pddle/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%81%D8%A7%D8%B1%D8%A7%D8%A8-%D8%AE%D8%A7%DA%A9%D9%BE%D9%88%D8%B1)
 - [https://farabkhakpour.ir/](https://farabkhakpour.ir/)
+- [https://farabkhakpour.ir/product-category/farab-valves/farab-butterfly-valves/](https://farabkhakpour.ir/product-category/farab-valves/farab-butterfly-valves/)
+- [https://farabkhakpour.ir/product-category/farab-valves/gate-valves/](https://farabkhakpour.ir/product-category/farab-valves/gate-valves/)
+- [https://farabkhakpour.ir/product-category/farab-valves/check-valves/](https://farabkhakpour.ir/product-category/farab-valves/check-valves/)

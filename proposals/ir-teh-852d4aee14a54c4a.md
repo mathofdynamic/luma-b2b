@@ -13,11 +13,11 @@
 
 ## Likely operational opportunity
 
-STRONG_INFERENCE — بر پایه زمینه عمومی شرکت و شواهد بالا، فرایند قابل بررسی: **Shipment document intake and exception queue**. این یک فرضیه فروش/کشف است و مشکل داخلی قطعی ادعا نمی‌کند.
+EVIDENCE_SUPPORTED — بر پایه سطح عمومی عملیات و شواهد لینک‌شده، فرایند قابل بررسی: **Shipment-document intake and exception tracking**. این شواهد وجود یک فرایند داخلی ناکارآمد را ثابت نمی‌کند و باید در گفت‌وگوی کشف اعتبارسنجی شود.
 
 ## Proposed LUMA solution
 
-Document classification/extraction with completeness checks and an operator exception queue for invoices, packing lists, bills and status updates.
+A document intake layer that extracts shipment and customs fields, checks missing items and routes exceptions to the responsible operator for approval.
 
 ## How it would work
 
@@ -28,13 +28,15 @@ Document classification/extraction with completeness checks and an operator exce
 
 ## Expected business impact
 
-ROI percentage is not claimed from public data. Measure: minutes per document; correction rate; missing-document delay; shipments per operator
+ROI percentage is not claimed from public data. Measure: document completeness; exception closure time; manual re-keying; shipment-status response time
 
 ## What needs validation
 
-- Which document types create the most re-keying?
-- Where are shipment milestones and missing documents tracked?
-- Which fields require mandatory human verification?
+- کدام اسناد حمل و ترخیص بیشترین حجم ورود و کنترل را دارند؟
+- چطور نقص مدارک یا تأخیر هر پرونده به مسئول آن ارجاع می‌شود؟
+- کدام داده‌ها در ایمیل، اکسل یا سامانه‌های مختلف تکراراً وارد می‌شوند؟
+- چه نقاطی نیازمند تأیید کارشناس گمرک یا مدیر عملیات هستند؟
+- برای شروع پایلوت، کدام مسیر یا نوع محموله کم‌ریسک‌تر است؟
 
 ## Likely person to contact
 
@@ -47,7 +49,11 @@ Public name: UNKNOWN — no publicly verified person name collected.
 
 ## Confidence
 
-High — score 91, 10 evidence objects, website status 200. Public sources establish a researchable context, not budget, internal volume or buying authority.
+Medium — raw opportunity score 84, confidence-adjusted score 70.4, commercial evidence strength 72/100, score confidence 73/100 and 2 independent source families. Public sources establish a researchable context, not budget, internal volume or buying authority.
+
+## What we do not know
+
+Budget, monthly workflow volume, system ownership, buying authority, current manual handoffs and implementation constraints remain UNKNOWN until discovery.
 
 ## Source links
 
@@ -55,3 +61,6 @@ High — score 91, 10 evidence objects, website status 200. Public sources estab
 - [https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%DA%A9%D8%A7%D9%84%D8%A7/%D8%AA%D9%87%D8%B1%D8%A7%D9%86](https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%DA%A9%D8%A7%D9%84%D8%A7/%D8%AA%D9%87%D8%B1%D8%A7%D9%86)
 - [https://avval.ir/profile/4c383/%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1](https://avval.ir/profile/4c383/%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1)
 - [https://mandegarcommerce.com/](https://mandegarcommerce.com/)
+- [https://mandegarcommerce.com/about-mandegar/](https://mandegarcommerce.com/about-mandegar/)
+- [https://mandegarcommerce.com/our-services/](https://mandegarcommerce.com/our-services/)
+- [https://mandegarcommerce.com/contact/](https://mandegarcommerce.com/contact/)

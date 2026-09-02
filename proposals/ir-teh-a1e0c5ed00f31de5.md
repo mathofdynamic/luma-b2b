@@ -13,11 +13,11 @@
 
 ## Likely operational opportunity
 
-STRONG_INFERENCE — بر پایه زمینه عمومی شرکت و شواهد بالا، فرایند قابل بررسی: **Parts knowledge, cross-reference and quotation**. این یک فرضیه فروش/کشف است و مشکل داخلی قطعی ادعا نمی‌کند.
+EVIDENCE_SUPPORTED — بر پایه سطح عمومی عملیات و شواهد لینک‌شده، فرایند قابل بررسی: **RFQ intake, product matching and draft quotation**. این شواهد وجود یک فرایند داخلی ناکارآمد را ثابت نمی‌کند و باید در گفت‌وگوی کشف اعتبارسنجی شود.
 
 ## Proposed LUMA solution
 
-A catalog and compatibility assistant that maps customer descriptions or part numbers to candidate SKUs, stock and price for salesperson confirmation.
+A Persian/English RFQ intake and catalog/SKU matcher that prepares an explainable draft quotation for human approval.
 
 ## How it would work
 
@@ -28,13 +28,15 @@ A catalog and compatibility assistant that maps customer descriptions or part nu
 
 ## Expected business impact
 
-ROI percentage is not claimed from public data. Measure: part-search time; wrong-part corrections/returns; quote turnaround; orders per salesperson
+ROI percentage is not claimed from public data. Measure: quote turnaround time; RFQs handled per salesperson; correction rate; follow-up completion
 
 ## What needs validation
 
-- Which descriptions or part numbers are hardest to match?
-- How often do wrong-part returns occur?
-- Which stock and price source is authoritative?
+- در ماه چند درخواست قیمت وارد می‌شود و از چه کانال‌هایی؟
+- امروز فروشنده برای تطبیق مشخصات، قیمت و موجودی به چه منابعی رجوع می‌کند؟
+- کدام قواعد قیمت‌گذاری و حاشیه سود باید کاملاً قطعی و انسانی باقی بماند؟
+- خروجی مطلوب پیش‌فاکتور است یا فقط پیشنهاد محصول و پاسخ فنی؟
+- داده مرجع محصول و قیمت در کدام سامانه یا فایل نگهداری می‌شود؟
 
 ## Likely person to contact
 
@@ -43,14 +45,21 @@ Public name: UNKNOWN — no publicly verified person name collected.
 
 ## Outreach angle
 
-با توجه به تنوع قطعات و نیاز احتمالی به جست‌وجو و تطبیق، ارزش دارد فرایند تطبیق شماره/شرح قطعه با موجودی و قیمت را با تیم فروش یا عملیات اعتبارسنجی کنیم.
+با توجه به تنوع محصولات و فرایندهای استعلام و فروش، یک گفت‌وگوی کوتاه درباره ساختاردهی RFQ، کاتالوگ و پیش‌فاکتور می‌تواند نقطه شروع مناسبی باشد.
 
 ## Confidence
 
-High — score 90, 8 evidence objects, website status 200. Public sources establish a researchable context, not budget, internal volume or buying authority.
+Medium — raw opportunity score 87, confidence-adjusted score 72.9, commercial evidence strength 72/100, score confidence 73/100 and 2 independent source families. Public sources establish a researchable context, not budget, internal volume or buying authority.
+
+## What we do not know
+
+Budget, monthly workflow volume, system ownership, buying authority, current manual handoffs and implementation constraints remain UNKNOWN until discovery.
 
 ## Source links
 
 - [https://avval.ir/directory/%D9%81%D8%B1%D9%88%D8%B4%20%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D8%A2%D9%84%D8%A7%D8%AA%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D9%88%20%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86](https://avval.ir/directory/%D9%81%D8%B1%D9%88%D8%B4%20%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D8%A2%D9%84%D8%A7%D8%AA%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D9%88%20%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86)
 - [https://avval.ir/profile/edmwb/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%D8%A8%DA%A9%D8%AA](https://avval.ir/profile/edmwb/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%D8%A8%DA%A9%D8%AA)
 - [https://bobcat-iran.ir/](https://bobcat-iran.ir/)
+- [https://bobcat-iran.ir/product-category/excavator/bobcat-excavator/](https://bobcat-iran.ir/product-category/excavator/bobcat-excavator/)
+- [https://bobcat-iran.ir/product-category/excavator/sunny-excavator/](https://bobcat-iran.ir/product-category/excavator/sunny-excavator/)
+- [https://bobcat-iran.ir/product-category/excavator/](https://bobcat-iran.ir/product-category/excavator/)

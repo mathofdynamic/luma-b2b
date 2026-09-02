@@ -13,11 +13,11 @@
 
 ## Likely operational opportunity
 
-STRONG_INFERENCE — بر پایه زمینه عمومی شرکت و شواهد بالا، فرایند قابل بررسی: **RFQ-to-quotation and SKU matching**. این یک فرضیه فروش/کشف است و مشکل داخلی قطعی ادعا نمی‌کند.
+EVIDENCE_SUPPORTED — بر پایه سطح عمومی عملیات و شواهد لینک‌شده، فرایند قابل بررسی: **BOQ/specification matching and technical submittal support**. این شواهد وجود یک فرایند داخلی ناکارآمد را ثابت نمی‌کند و باید در گفت‌وگوی کشف اعتبارسنجی شود.
 
 ## Proposed LUMA solution
 
-A Persian/English RFQ intake, catalog/SKU matcher and draft-quotation workflow with deterministic pricing rules and human approval.
+A document-grounded matcher that structures BOQ lines, retrieves technical evidence and prepares a versioned submittal or quotation pack for approval.
 
 ## How it would work
 
@@ -28,13 +28,15 @@ A Persian/English RFQ intake, catalog/SKU matcher and draft-quotation workflow w
 
 ## Expected business impact
 
-ROI percentage is not claimed from public data. Measure: median quote turnaround; RFQs handled per salesperson; correction rate; follow-up completion
+ROI percentage is not claimed from public data. Measure: lines matched per hour; submittal turnaround; revision errors; follow-up coverage
 
 ## What needs validation
 
-- How many RFQs arrive each month and through which channels?
-- Where do sales staff check specification, price and stock today?
-- Which approval and margin rules must remain deterministic?
+- BOQ و مشخصات فنی معمولاً با چه قالبی وارد می‌شوند؟
+- تطبیق گزینه‌های مجاز و جایگزین توسط چه نقشی تأیید می‌شود؟
+- کاتالوگ و گواهی فنی مرجع در کجا نگهداری می‌شود؟
+- کدام بخش از سابمیتال باید نسخه‌بندی و قابل ردیابی باشد؟
+- یک پروژه نمونه برای اندازه‌گیری زمان و خطا کدام است؟
 
 ## Likely person to contact
 
@@ -43,11 +45,15 @@ Public name: UNKNOWN — no publicly verified person name collected.
 
 ## Outreach angle
 
-با توجه به تنوع محصولات و فرایندهای استعلام و فروش، یک گفت‌وگوی کوتاه درباره ساختاردهی RFQ، کاتالوگ و پیش‌فاکتور می‌تواند نقطه شروع مناسبی باشد.
+با توجه به زمینه مصالح یا تأسیسات، پیشنهاد می‌کنیم مسیر تطبیق BOQ و مشخصات فنی با محصولات و آماده‌سازی سابمیتال را بررسی کنیم.
 
 ## Confidence
 
-High — score 88, 7 evidence objects, website status 200. Public sources establish a researchable context, not budget, internal volume or buying authority.
+Medium — raw opportunity score 82, confidence-adjusted score 68.7, commercial evidence strength 72/100, score confidence 73/100 and 2 independent source families. Public sources establish a researchable context, not budget, internal volume or buying authority.
+
+## What we do not know
+
+Budget, monthly workflow volume, system ownership, buying authority, current manual handoffs and implementation constraints remain UNKNOWN until discovery.
 
 ## Source links
 
@@ -55,3 +61,5 @@ High — score 88, 7 evidence objects, website status 200. Public sources establ
 - [https://avval.ir/directory/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA%20%D9%81%D9%88%D9%84%D8%A7%D8%AF%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86](https://avval.ir/directory/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA%20%D9%81%D9%88%D9%84%D8%A7%D8%AF%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86)
 - [https://avval.ir/profile/4cd1d/%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87-%D9%81%D9%88%D9%84%D8%A7%D8%AF-%D9%BE%D8%A7%DB%8C%D8%AA%D8%AE%D8%AA](https://avval.ir/profile/4cd1d/%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87-%D9%81%D9%88%D9%84%D8%A7%D8%AF-%D9%BE%D8%A7%DB%8C%D8%AA%D8%AE%D8%AA)
 - [https://fooladpaytakht.com/](https://fooladpaytakht.com/)
+- [https://fooladpaytakht.com/contact-us/](https://fooladpaytakht.com/contact-us/)
+- [https://fooladpaytakht.com/about-us/](https://fooladpaytakht.com/about-us/)

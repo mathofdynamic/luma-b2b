@@ -13,11 +13,11 @@
 
 ## Likely operational opportunity
 
-STRONG_INFERENCE — بر پایه زمینه عمومی شرکت و شواهد بالا، فرایند قابل بررسی: **Shipment document intake and exception queue**. این یک فرضیه فروش/کشف است و مشکل داخلی قطعی ادعا نمی‌کند.
+EVIDENCE_SUPPORTED — بر پایه سطح عمومی عملیات و شواهد لینک‌شده، فرایند قابل بررسی: **Shipment-document intake and exception tracking**. این شواهد وجود یک فرایند داخلی ناکارآمد را ثابت نمی‌کند و باید در گفت‌وگوی کشف اعتبارسنجی شود.
 
 ## Proposed LUMA solution
 
-Document classification/extraction with completeness checks and an operator exception queue for invoices, packing lists, bills and status updates.
+A document intake layer that extracts shipment and customs fields, checks missing items and routes exceptions to the responsible operator for approval.
 
 ## How it would work
 
@@ -28,13 +28,15 @@ Document classification/extraction with completeness checks and an operator exce
 
 ## Expected business impact
 
-ROI percentage is not claimed from public data. Measure: minutes per document; correction rate; missing-document delay; shipments per operator
+ROI percentage is not claimed from public data. Measure: document completeness; exception closure time; manual re-keying; shipment-status response time
 
 ## What needs validation
 
-- Which document types create the most re-keying?
-- Where are shipment milestones and missing documents tracked?
-- Which fields require mandatory human verification?
+- کدام اسناد حمل و ترخیص بیشترین حجم ورود و کنترل را دارند؟
+- چطور نقص مدارک یا تأخیر هر پرونده به مسئول آن ارجاع می‌شود؟
+- کدام داده‌ها در ایمیل، اکسل یا سامانه‌های مختلف تکراراً وارد می‌شوند؟
+- چه نقاطی نیازمند تأیید کارشناس گمرک یا مدیر عملیات هستند؟
+- برای شروع پایلوت، کدام مسیر یا نوع محموله کم‌ریسک‌تر است؟
 
 ## Likely person to contact
 
@@ -47,7 +49,11 @@ Public name: UNKNOWN — no publicly verified person name collected.
 
 ## Confidence
 
-High — score 92, 9 evidence objects, website status 200. Public sources establish a researchable context, not budget, internal volume or buying authority.
+Medium — raw opportunity score 83, confidence-adjusted score 77.5, commercial evidence strength 72/100, score confidence 89/100 and 2 independent source families. Public sources establish a researchable context, not budget, internal volume or buying authority.
+
+## What we do not know
+
+Budget, monthly workflow volume, system ownership, buying authority, current manual handoffs and implementation constraints remain UNKNOWN until discovery.
 
 ## Source links
 
@@ -55,3 +61,6 @@ High — score 92, 9 evidence objects, website status 200. Public sources establ
 - [https://avval.ir/directory/%D8%AD%D9%85%D9%84%20%D9%88%20%D9%86%D9%82%D9%84%20%D8%A8%D8%A7%D8%B1/%D8%AA%D9%87%D8%B1%D8%A7%D9%86](https://avval.ir/directory/%D8%AD%D9%85%D9%84%20%D9%88%20%D9%86%D9%82%D9%84%20%D8%A8%D8%A7%D8%B1/%D8%AA%D9%87%D8%B1%D8%A7%D9%86)
 - [https://avval.ir/profile/8fae6/%D8%A2%D9%BE%D8%A7%D8%AF%D8%A7%D9%86%D8%A7-%D8%AA%D8%B1%D8%A7%D8%A8%D8%B1](https://avval.ir/profile/8fae6/%D8%A2%D9%BE%D8%A7%D8%AF%D8%A7%D9%86%D8%A7-%D8%AA%D8%B1%D8%A7%D8%A8%D8%B1)
 - [https://apadanafreight.biz/](https://apadanafreight.biz/)
+- [https://apadanafreight.biz/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%aa%d8%b1%d8%a7%d9%86%d8%b2%db%8c%d8%aa/](https://apadanafreight.biz/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%aa%d8%b1%d8%a7%d9%86%d8%b2%db%8c%d8%aa/)
+- [https://apadanafreight.biz/%d8%ad%d9%85%d9%84-%d9%85%d8%ad%d9%85%d9%88%d9%84%d9%87-%d9%87%d8%a7%db%8c-%d9%be%d8%b1%d9%88%da%98%d9%87/](https://apadanafreight.biz/%d8%ad%d9%85%d9%84-%d9%85%d8%ad%d9%85%d9%88%d9%84%d9%87-%d9%87%d8%a7%db%8c-%d9%be%d8%b1%d9%88%da%98%d9%87/)
+- [https://apadanafreight.biz/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%a2%d8%ab%d8%a7%d8%b1-%d9%87%d9%86%d8%b1%db%8c-%d8%b3%d8%b1%d9%88%db%8c%d8%b3-%d8%a7%d8%ae%d8%aa%d8%b5%d8%a7%d8%b5%db%8c/](https://apadanafreight.biz/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%a2%d8%ab%d8%a7%d8%b1-%d9%87%d9%86%d8%b1%db%8c-%d8%b3%d8%b1%d9%88%db%8c%d8%b3-%d8%a7%d8%ae%d8%aa%d8%b5%d8%a7%d8%b5%db%8c/)
