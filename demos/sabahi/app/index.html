@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="نمونه پیشنهادی LUMA برای ساختاردهی و پاسخ‌گویی به RFQ در شرکت صباحی">
+    <title>LUMA · کارگاه پاسخ‌گویی تجاری · صباحی</title>
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23102c40'/%3E%3Cpath d='M9 23V14h4v9H9Zm5 0V9h4v14h-4Zm5 0V5h4v18h-4Z' fill='%232a847d'/%3E%3C/svg%3E">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <div class="app-shell" id="app-shell">
+      <header class="topbar">
+        <div class="brand-lockup" aria-label="LUMA">
+          <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span>
+          <span class="brand-word">LUMA</span>
+        </div>
+        <div class="topbar-divider" aria-hidden="true"></div>
+        <div class="workspace-title">
+          <span class="eyebrow">کارگاه پاسخ‌گویی تجاری</span>
+          <strong>میزکار پیشنهادی برای صباحی</strong>
+        </div>
+        <div class="topbar-actions">
+          <span class="demo-badge"><span class="status-dot"></span> نمونه پیشنهادی LUMA برای نمایش قابلیت</span>
+          <button class="button button-dark" id="presentation-button" type="button">
+            <span class="button-icon" aria-hidden="true">▶</span>
+            حالت ارائه
+          </button>
+        </div>
+      </header>
+
+      <div class="workspace-grid">
+        <aside class="sidebar" aria-label="ناوبری میزکار">
+          <div class="sidebar-heading">
+            <span class="sidebar-kicker">پروژه نمایشی</span>
+            <h2>شرکت صباحی</h2>
+            <span class="sidebar-code">SABAHI · RFQ-01</span>
+          </div>
+
+          <nav class="side-nav">
+            <button class="nav-item is-active" type="button" data-nav="workbench">
+              <span class="nav-icon nav-icon-grid" aria-hidden="true"></span>
+              <span>میزکار پاسخ‌گویی</span>
+            </button>
+            <button class="nav-item" type="button" data-nav="catalog">
+              <span class="nav-icon nav-icon-book" aria-hidden="true"></span>
+              <span>مرجع محصول</span>
+              <span class="nav-count">۸</span>
+            </button>
+            <button class="nav-item" type="button" data-nav="metrics">
+              <span class="nav-icon nav-icon-chart" aria-hidden="true"></span>
+              <span>شاخص‌های دمو</span>
+            </button>
+          </nav>
+
+          <div class="sidebar-spacer"></div>
+
+          <div class="guard-card">
+            <span class="guard-icon" aria-hidden="true">✓</span>
+            <div>
+              <strong>کنترل انسانی فعال است</strong>
+              <p>هیچ پاسخی بدون تأیید کارشناس ارسال نمی‌شود.</p>
+            </div>
+          </div>
+          <div class="sidebar-footer">
+            <span class="connection-pill"><i></i> محیط محلی · بدون اتصال بیرونی</span>
+            <span class="version-label">نسخه نمایشی ۰.۱</span>
+          </div>
+        </aside>
+
+        <main class="main-content" id="main-content">
+          <div class="page-heading">
+            <div>
+              <div class="breadcrumb"><span>LUMA</span><b>/</b><span>میزکار پاسخ‌گویی</span><b>/</b><span class="current">درخواست جدید</span></div>
+              <h1>درخواست ورودی را به پاسخ قابل بررسی تبدیل کنید.</h1>
+              <p class="page-subtitle">از متن آزاد تا گزینه‌های محصول و پیش‌نویس پاسخ — با نقطه‌های تأیید روشن برای کارشناس.</p>
+            </div>
+            <div class="heading-meta">
+              <span class="secure-label"><span class="lock-icon" aria-hidden="true">⌑</span> داده نمایشی</span>
+              <span class="date-label">آخرین بازنشانی: همین حالا</span>
+            </div>
+          </div>
+
+          <div class="stepper" id="stepper" aria-label="مراحل دمو"></div>
+          <section class="view-host" id="view-host" aria-live="polite"></section>
+        </main>
+      </div>
+    </div>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    <div class="presentation-layer" id="presentation-layer" hidden></div>
+
+    <script src="data.js"></script>
+    <script src="matcher.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
