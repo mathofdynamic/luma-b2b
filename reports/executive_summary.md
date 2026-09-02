@@ -19,3 +19,13 @@ The run covers 11 priority-relevant industry codes plus an unresolved/other buck
 - Search-engine exact-name deep enrichment was stopped after direct-proxy timeouts; the blocked source is recorded rather than rerouted through the VPN.
 - National/legal IDs, employee counts, founding years and active status remain UNKNOWN unless a public source established them; the index is not treated as a legal registry.
 - Headless visual evidence: **134** screenshots; company packages retain 66 ordinary source/capture errors across 47 packages and 0 HEADLESS_BLOCKED pages.
+
+## Commercial quality audit
+
+Generated: 2026-09-02T05:13:08Z
+
+The follow-up audit covered **151** existing Tier A/B records only. Revised tiers are A **25**, B **7**, with **32 READY FOR OUTREACH**, **8 NEEDS DISCOVERY** and **111 NOT READY**.
+
+Use `reports/sales_ready_prospects.md` and `reports/ranking_audit.md` for the commercial decision. The legacy first-run top-100 ranking must not be treated as sales-ready without this audit status.
+
+Top human-quality dossier set: **30** under `reports/dossiers/`.

@@ -1,1 +1,6 @@
-{"company_id": "ir-teh-f42b8013450775b4", "errors": [{"classification": "SOURCE_TIMEOUT", "error": "TimeoutExpired: Command '['/Users/mohammad/.codex/skills/playwright/scripts/playwright_cli.sh', '-s=luma-b2b-ir-teh-f42b8013450775b4-attempt-1', 'open', 'https://api.whatsapp.com/send?text=avval.ir/profile/c3a86/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D9%84%D8%B0%DB%8C%D8%B0-%DA%A9%D8%A7%D9%85', '--config', 'config/playwright.headless.json']' timed out after 15 seconds", "source_url": "https://api.whatsapp.com/send?text=avval.ir/profile/c3a86/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D9%84%D8%B0%DB%8C%D8%B0-%DA%A9%D8%A7%D9%85", "stage": "browser"}], "headless": true, "screenshots": 1}
+{"company_id": "ir-teh-5a0d9c69e8a63c56", "errors": [], "headless": true, "screenshots": 1}
+{"company_id": "ir-teh-37da8ab7a735aff9", "errors": [], "headless": true, "screenshots": 1}
+{"company_id": "ir-teh-bb88c592dba51324", "errors": [], "headless": true, "screenshots": 1}
+{"company_id": "ir-teh-adb049f466e03f58", "errors": [], "headless": true, "screenshots": 1}
+{"company_id": "ir-teh-a21bdca3e98b92a6", "errors": [], "headless": true, "screenshots": 1}
+{"company_id": "ir-teh-ceb8c706aa49522e", "errors": [], "headless": true, "screenshots": 1}

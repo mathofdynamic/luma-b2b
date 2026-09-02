@@ -350,7 +350,7 @@ Qualification: Public Tehran-area business record with a described product/servi
 Evidence notes: شرکت بابکو: نمایندگی انحصاری کیتهای تشخیص طبی TOYO , کیت بارداری و کیت تخمک گذاری RAPIDAN نمایندگی انحصاری ژل اولتراسونیک و ژل سونوگرافی و ژل ECG و ژل هدایتی نوار مغز KON | شرکت بازرگانی بابکو - کیت آزمایشگاهی تشخیص طبی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس شرکت بازرگانی بابکو واردات کیتهای تشخیص طبی toyo و ژل اولتراسونیک konix کیت آزمایشگاهی تشخیص طبی واردات تجهیزات پزشکی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل کیت آزمایشگاهی تشخیص طبی تهران محله فردوس اطلاعات تماس آدرس : تهران، منطقه 5، محله فردوس، بلوار فردوس، پلاک 179، واحد 14 تلفن : نمایش شماره XX
 
 Screenshots:
-- `evidence/companies/ir-teh-62d83cdb07f3e444/screenshots/homepage_candidate-4.png`
+- `evidence/companies/ir-teh-62d83cdb07f3e444/screenshots/company_profile-1.png`
 
 Sources:
 - [https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%AA%D8%AC%D9%87%DB%8C%D8%B2%D8%A7%D8%AA%20%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86](https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%AA%D8%AC%D9%87%DB%8C%D8%B2%D8%A7%D8%AA%20%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86)
@@ -1368,3 +1368,217 @@ Sources:
 - [https://avval.ir/directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D9%88%20%D9%BE%D8%AE%D8%B4%20%D9%84%D9%88%D8%A7%D8%B2%D9%85%20%D8%A8%D8%B1%D9%82%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86](https://avval.ir/directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D9%88%20%D9%BE%D8%AE%D8%B4%20%D9%84%D9%88%D8%A7%D8%B2%D9%85%20%D8%A8%D8%B1%D9%82%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86)
 - [https://avval.ir/search/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86?page=2](https://avval.ir/search/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86?page=2)
 - [https://avval.ir/profile/ba926/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%DB%8C%DA%A9%DB%8C-%D9%85%D8%AF%D8%A7%D8%B1-%D8%B5%D9%81%D8%B1-%D8%AF%D8%B1%D8%AC%D9%87](https://avval.ir/profile/ba926/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%DB%8C%DA%A9%DB%8C-%D9%85%D8%AF%D8%A7%D8%B1-%D8%B5%D9%81%D8%B1-%D8%AF%D8%B1%D8%AC%D9%87)
+
+## Commercial audit gallery
+
+These entries are ranked by confidence-adjusted score within the audited cohort.
+
+### 1. آپادانا ترابر — adjusted score 77.5
+
+- Qualification: Commercial audit: READY FOR OUTREACH; freight_forwarder; 72/100 evidence strength; 2 independent source families; 89/100 score confidence.
+- Evidence notes: Public page shows public quotation or RFQ language. | Public page shows public product/catalog surface. | Public page shows branches, representatives or dealer network.
+- Screenshots: `evidence/companies/ir-teh-3551adf08a41cd22/screenshots/homepage.png`
+- Sources: [source](https://avval.ir/directory/%D8%AD%D9%85%D9%84%20%D9%88%20%D9%86%D9%82%D9%84%20%D8%A8%DB%8C%D9%86%20%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://avval.ir/directory/%D8%AD%D9%85%D9%84%20%D9%88%20%D9%86%D9%82%D9%84%20%D8%A8%D8%A7%D8%B1/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://avval.ir/profile/8fae6/%D8%A2%D9%BE%D8%A7%D8%AF%D8%A7%D9%86%D8%A7-%D8%AA%D8%B1%D8%A7%D8%A8%D8%B1), [source](https://apadanafreight.biz/), [source](https://apadanafreight.biz/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%aa%d8%b1%d8%a7%d9%86%d8%b2%db%8c%d8%aa/), [source](https://apadanafreight.biz/%d8%ad%d9%85%d9%84-%d9%85%d8%ad%d9%85%d9%88%d9%84%d9%87-%d9%87%d8%a7%db%8c-%d9%be%d8%b1%d9%88%da%98%d9%87/), [source](https://apadanafreight.biz/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%a2%d8%ab%d8%a7%d8%b1-%d9%87%d9%86%d8%b1%db%8c-%d8%b3%d8%b1%d9%88%db%8c%d8%b3-%d8%a7%d8%ae%d8%aa%d8%b5%d8%a7%d8%b5%db%8c/)
+
+### 2. شرکت بازرگانی سیال کنترل — adjusted score 77.5
+
+- Qualification: Commercial audit: READY FOR OUTREACH; distributor; 72/100 evidence strength; 2 independent source families; 89/100 score confidence.
+- Evidence notes: Public page shows public product/catalog surface. | Public page shows branches, representatives or dealer network. | Public page shows public projects, clients or partners.
+- Screenshots: `evidence/companies/ir-teh-5541a647bfac567d/screenshots/homepage.png`
+- Sources: [source](https://avval.ir/directory/%D8%B4%D8%B1%DA%A9%D8%AA%20%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://avval.ir/profile/64328/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%B3%DB%8C%D8%A7%D9%84-%DA%A9%D9%86%D8%AA%D8%B1%D9%84), [source](https://flco-co.com/), [source](https://flco-co.com/about-us/), [source](https://flco-co.com/products/fittinigs/), [source](https://flco-co.com/products/valves/)
+
+### 3. گروه تولیدی سپیدار کارتن — adjusted score 77.5
+
+- Qualification: Commercial audit: READY FOR OUTREACH; manufacturer; 72/100 evidence strength; 2 independent source families; 89/100 score confidence.
+- Evidence notes: Public page shows public quotation or RFQ language. | Public page shows public product/catalog surface. | Public page shows public order or contact intake.
+- Screenshots: `evidence/companies/ir-teh-37da8ab7a735aff9/screenshots/homepage_candidate-1.png`
+- Sources: [source](https://avval.ir/directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%DA%A9%D8%A7%D8%B1%D8%AA%D9%86%20%D9%85%D9%82%D9%88%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://avval.ir/directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D8%AC%D8%B9%D8%A8%D9%87%20%D9%85%D9%82%D9%88%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://avval.ir/profile/d3a83/%DA%AF%D8%B1%D9%88%D9%87-%D8%AA%D9%88%D9%84%DB%8C%D8%AF%DB%8C-%D8%B3%D9%BE%DB%8C%D8%AF%D8%A7%D8%B1-%DA%A9%D8%A7%D8%B1%D8%AA%D9%86), [source](https://sepidarcarton.com/), [source](https://sepidarcarton.com/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d8%b3%d9%be%db%8c%d8%af%d8%a7%d8%b1/), [source](https://sepidarcarton.com/%d8%aa%d9%85%d8%a7%d8%b3-%d8%a8%d8%a7-%d8%b3%d9%be%db%8c%d8%af%d8%a7%d8%b1/), [source](https://sepidarcarton.com/%d8%b1%d8%a7%d9%87%d9%86%d9%85%d8%a7%db%8c-%d8%ac%d8%a7%d9%85%d8%b9-%d8%a8%d8%b3%d8%aa%d9%87%d8%a8%d9%86%d8%af%db%8c-%d8%a8%d8%b1%d8%a7%db%8c-%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa-%d9%85%d8%ad/)
+
+### 4. تامین فولاد شاهان — adjusted score 75.7
+
+- Qualification: Commercial audit: READY FOR OUTREACH; distributor; 72/100 evidence strength; 2 independent source families; 89/100 score confidence.
+- Evidence notes: Public page shows public quotation or RFQ language. | Public page shows public product/catalog surface. | Public page shows public order or contact intake.
+- Screenshots: `evidence/companies/ir-teh-768e0abd4ee8c48a/screenshots/homepage.png`
+- Sources: [source](https://avval.ir/directory/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA%20%D9%81%D9%88%D9%84%D8%A7%D8%AF%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://avval.ir/directory/%D8%A8%D8%B1%D8%B4%DA%A9%D8%A7%D8%B1%DB%8C%20%D8%A2%D9%87%D9%86%20%D9%88%20%D9%81%D9%88%D9%84%D8%A7%D8%AF/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://avval.ir/profile/xfhvz/%D8%AA%D8%A7%D9%85%DB%8C%D9%86-%D9%81%D9%88%D9%84%D8%A7%D8%AF-%D8%B4%D8%A7%D9%87%D8%A7%D9%86), [source](https://fooladshahan.com/), [source](https://fooladshahan.com/cat-product/%D9%88%D8%B1%D9%82-%D8%B3%DB%8C%D8%A7%D9%87/), [source](https://fooladshahan.com/cat-product/%D9%88%D8%B1%D9%82-%DA%AF%D8%B1%D9%85/), [source](https://fooladshahan.com/cat-product/%d9%88%d8%b1%d9%82/)
+
+### 5. شرکت صنایع غذایی بیژن - کارخانه — adjusted score 75.7
+
+- Qualification: Commercial audit: READY FOR OUTREACH; manufacturer; 72/100 evidence strength; 2 independent source families; 89/100 score confidence.
+- Evidence notes: Public page shows public product/catalog surface. | Public page shows public order or contact intake. | Public page shows branches, representatives or dealer network.
+- Screenshots: `evidence/companies/ir-teh-e28f7e4955317c88/screenshots/homepage.png`
+- Sources: [source](https://avval.ir/directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://avval.ir/profile/e7a29/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D8%A8%DB%8C%DA%98%D9%86-%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87), [source](https://bijanpakhsh.com/), [source](https://bijanpakhsh.com/about-us/), [source](https://bijanpakhsh.com/contact-us/), [source](https://bijanpakhsh.com/services/)
+
+### 6. شرکت شرکت راهبران صنعت پویا — adjusted score 74.7
+
+- Qualification: Commercial audit: READY FOR OUTREACH; service_company; 72/100 evidence strength; 2 independent source families; 89/100 score confidence.
+- Evidence notes: Public page shows public product/catalog surface. | Public page shows after-sales, repair or service operation. | Public page shows public projects, clients or partners.
+- Screenshots: `evidence/companies/ir-teh-30a037374bb7d4c3/screenshots/homepage_candidate.png`
+- Sources: [source](https://avval.ir/directory/%D9%86%DA%AF%D9%87%D8%AF%D8%A7%D8%B1%DB%8C%20%D9%88%20%D8%AA%D8%B9%D9%85%DB%8C%D8%B1%20%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D8%AC%D8%A7%D8%AA%20%D9%86%D9%81%D8%AA%20%D9%88%20%DA%AF%D8%A7%D8%B2%20%D9%88%20%D9%BE%D8%AA%D8%B1%D9%88%D8%B4%DB%8C%D9%85%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://rspiran.ir/), [source](https://avval.ir/profile/s2e1r/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%B4%D8%B1%DA%A9%D8%AA-%D8%B1%D8%A7%D9%87%D8%A8%D8%B1%D8%A7%D9%86-%D8%B5%D9%86%D8%B9%D8%AA-%D9%BE%D9%88%DB%8C%D8%A7)
+
+### 7. مجموعه فاراب خاکپور — adjusted score 74.6
+
+- Qualification: Commercial audit: READY FOR OUTREACH; distributor; 72/100 evidence strength; 2 independent source families; 73/100 score confidence.
+- Evidence notes: Public page shows public quotation or RFQ language. | Public page shows public product/catalog surface. | Public page shows public order or contact intake.
+- Screenshots: `evidence/companies/ir-teh-b4d018a20d269aac/screenshots/homepage.png`
+- Sources: [source](https://avval.ir/directory/%D8%B4%DB%8C%D8%B1%D8%A2%D9%84%D8%A7%D8%AA%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://avval.ir/profile/pddle/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D9%81%D8%A7%D8%B1%D8%A7%D8%A8-%D8%AE%D8%A7%DA%A9%D9%BE%D9%88%D8%B1), [source](https://farabkhakpour.ir/), [source](https://farabkhakpour.ir/product-category/farab-valves/farab-butterfly-valves/), [source](https://farabkhakpour.ir/product-category/farab-valves/gate-valves/), [source](https://farabkhakpour.ir/product-category/farab-valves/check-valves/)
+
+### 8. گروه صنعتی فرازین صنعت — adjusted score 74.6
+
+- Qualification: Commercial audit: READY FOR OUTREACH; distributor; 72/100 evidence strength; 2 independent source families; 73/100 score confidence.
+- Evidence notes: Public page shows public product/catalog surface. | Public page shows expansion, export, founding or current activity signal. | Public page shows public product/catalog surface.
+- Screenshots: `evidence/companies/ir-teh-5a0d9c69e8a63c56/screenshots/homepage_candidate-1.png`
+- Sources: [source](https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D8%A2%D9%84%D8%A7%D8%AA%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D9%88%20%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://avval.ir/profile/a1908/%DA%AF%D8%B1%D9%88%D9%87-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C-%D9%81%D8%B1%D8%A7%D8%B2%DB%8C%D9%86-%D8%B5%D9%86%D8%B9%D8%AA), [source](https://farazinsanat.ir/), [source](https://farazinsanat.ir/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/), [source](https://farazinsanat.ir/product-category/%da%af%db%8c%d8%b1%d8%a8%da%a9%d8%b3-%d8%b5%d9%86%d8%b9%d8%aa%db%8c/), [source](https://farazinsanat.ir/product-category/%da%af%db%8c%d8%b1%d8%a8%da%a9%d8%b3-%d8%b5%d9%86%d8%b9%d8%aa%db%8c/%da%af%db%8c%d8%b1%d8%a8%da%a9%d8%b3-sew/)
+
+### 9. تولید انواع جعبه و کارتن بهتاپک — adjusted score 73.8
+
+- Qualification: Commercial audit: READY FOR OUTREACH; manufacturer; 72/100 evidence strength; 2 independent source families; 89/100 score confidence.
+- Evidence notes: Public page shows public quotation or RFQ language. | Public page shows public product/catalog surface. | Public page shows public order or contact intake.
+- Screenshots: `evidence/companies/ir-teh-38800362b3107611/screenshots/homepage.png`
+- Sources: [source](https://avval.ir/directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D8%AC%D8%B9%D8%A8%D9%87%20%D9%85%D9%82%D9%88%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://avval.ir/directory/%DA%86%D8%A7%D9%BE%D8%AE%D8%A7%D9%86%D9%87/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://behtapack.com/), [source](https://avval.ir/profile/nabge/%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%AC%D8%B9%D8%A8%D9%87-%D9%88-%DA%A9%D8%A7%D8%B1%D8%AA%D9%86-%D8%A8%D9%87%D8%AA%D8%A7%D9%BE%DA%A9), [source](https://behtapack.com/portfolio/), [source](https://behtapack.com/about/), [source](https://behtapack.com/contact/)
+
+### 10. شرکت بازرگانی میلاد — adjusted score 73.7
+
+- Qualification: Commercial audit: READY FOR OUTREACH; mixed; 72/100 evidence strength; 2 independent source families; 73/100 score confidence.
+- Evidence notes: Public page shows public quotation or RFQ language. | Public page shows public product/catalog surface. | Public page shows factory, warehouse or production facility.
+- Screenshots: `evidence/companies/ir-teh-d284bae5deddc82f/screenshots/homepage_candidate.png`
+- Sources: [source](https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://avval.ir/directory/%D8%B4%D8%B1%DA%A9%D8%AA%20%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://trading-milad.com/), [source](https://avval.ir/profile/9ea91/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D9%85%DB%8C%D9%84%D8%A7%D8%AF), [source](https://trading-milad.com/shop/), [source](https://trading-milad.com/about-us/), [source](https://trading-milad.com/contact-us/), [source](https://avval.ir/profile/wnqtp/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D9%85%DB%8C%D9%84%D8%A7%D8%AF)
+
+### 11. ایران بابکت — adjusted score 72.9
+
+- Qualification: Commercial audit: READY FOR OUTREACH; distributor; 72/100 evidence strength; 2 independent source families; 73/100 score confidence.
+- Evidence notes: Public page shows public quotation or RFQ language. | Public page shows public product/catalog surface. | Public page shows factory, warehouse or production facility.
+- Screenshots: `evidence/companies/ir-teh-a1e0c5ed00f31de5/screenshots/homepage.png`
+- Sources: [source](https://avval.ir/directory/%D9%81%D8%B1%D9%88%D8%B4%20%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D8%A2%D9%84%D8%A7%D8%AA%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D9%88%20%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://avval.ir/profile/edmwb/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%D8%A8%DA%A9%D8%AA), [source](https://bobcat-iran.ir/), [source](https://bobcat-iran.ir/product-category/excavator/bobcat-excavator/), [source](https://bobcat-iran.ir/product-category/excavator/sunny-excavator/), [source](https://bobcat-iran.ir/product-category/excavator/)
+
+### 12. بازرگانی اسپوتا — adjusted score 72.9
+
+- Qualification: Commercial audit: READY FOR OUTREACH; importer; 72/100 evidence strength; 2 independent source families; 73/100 score confidence.
+- Evidence notes: Public page shows public product/catalog surface. | Public page shows public order or contact intake. | Public page shows after-sales, repair or service operation.
+- Screenshots: `evidence/companies/ir-teh-4b1dd8c047fc2163/screenshots/homepage.png`
+- Sources: [source](https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%B4%DB%8C%D9%85%DB%8C%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%DA%A9%D8%A7%D9%84%D8%A7/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://avval.ir/profile/smbtd/%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%A7%D8%B3%D9%BE%D9%88%D8%AA%D8%A7), [source](https://spttrade.com/), [source](https://spttrade.com/product-category/water-treatment-materials/), [source](https://spttrade.com/product/jacobi-aquasorb-1000/)
+
+### 13. تک ولتاژ — adjusted score 72.1
+
+- Qualification: Commercial audit: READY FOR OUTREACH; distributor; 72/100 evidence strength; 2 independent source families; 73/100 score confidence.
+- Evidence notes: Public page shows public product/catalog surface. | Public page shows branches, representatives or dealer network. | Public page shows factory, warehouse or production facility.
+- Screenshots: `evidence/companies/ir-teh-5d9c46c5fec405da/screenshots/homepage_candidate.png`
+- Sources: [source](https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%D9%84%D9%88%D8%A7%D8%B2%D9%85%20%DB%8C%D8%AF%DA%A9%DB%8C%20%D8%AE%D9%88%D8%AF%D8%B1%D9%88/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://avval.ir/profile/47bb8/%D8%AA%DA%A9-%D9%88%D9%84%D8%AA%D8%A7%DA%98), [source](https://takvoltage.com/), [source](https://takvoltage.com/contact-us/), [source](https://takvoltage.com/product-category/abb/), [source](https://takvoltage.com/product-category/abb/abb-circuit-breaker/)
+
+### 14. شرکت بازرگانی مهندسی آبا دیزل — adjusted score 72.1
+
+- Qualification: Commercial audit: READY FOR OUTREACH; distributor; 72/100 evidence strength; 2 independent source families; 73/100 score confidence.
+- Evidence notes: Public page shows public product/catalog surface. | Public page shows factory, warehouse or production facility. | Public page shows certification, license or standards evidence.
+- Screenshots: `evidence/companies/ir-teh-e35afa67335d8d4a/screenshots/homepage_candidate.png`
+- Sources: [source](https://avval.ir/directory/%D8%B4%D8%B1%DA%A9%D8%AA%20%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://avval.ir/profile/8564d/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%A2%D8%A8%D8%A7-%D8%AF%DB%8C%D8%B2%D9%84), [source](https://abadiesel.com/), [source](https://abadiesel.com/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/), [source](https://abadiesel.com/contact/), [source](https://abadiesel.com/product/5389/%d9%85%d9%88%d8%aa%d9%88%d8%b1-%d8%a8%d8%b1%d9%82-%d8%af%db%8c%d8%b2%d9%84%db%8c-%d9%87%db%8c%d9%88%d9%86%d8%af%d8%a7%db%8c-5-5-%da%a9%db%8c%d9%84%d9%88%d9%88%d8%a7%d8%aa-hg6553-dg/)
+
+### 15. بازرگانی شیمی تجارت مهرآوان — adjusted score 71.2
+
+- Qualification: Commercial audit: READY FOR OUTREACH; distributor; 72/100 evidence strength; 2 independent source families; 73/100 score confidence.
+- Evidence notes: Public page shows public quotation or RFQ language. | Public page shows public product/catalog surface. | Public page shows operational hiring signal.
+- Screenshots: `evidence/companies/ir-teh-14630719ebf1ad9b/screenshots/homepage.png`
+- Sources: [source](https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%B4%DB%8C%D9%85%DB%8C%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://shimitejaratmehravan.com/), [source](https://avval.ir/profile/ptd13/%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%B4%DB%8C%D9%85%DB%8C-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D9%85%D9%87%D8%B1%D8%A2%D9%88%D8%A7%D9%86), [source](https://shimitejaratmehravan.com/products/), [source](https://shimitejaratmehravan.com/about-us/), [source](https://shimitejaratmehravan.com/contact-us/)
+
+### 16. شرکت انبار گستران — adjusted score 71.2
+
+- Qualification: Commercial audit: READY FOR OUTREACH; distributor; 72/100 evidence strength; 2 independent source families; 73/100 score confidence.
+- Evidence notes: Public page shows public product/catalog surface. | Public page shows factory, warehouse or production facility. | Public page shows after-sales, repair or service operation.
+- Screenshots: `evidence/companies/ir-teh-2b6116f0350422d7/screenshots/homepage.png`
+- Sources: [source](https://avval.ir/directory/%D8%A7%D9%86%D8%A8%D8%A7%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://anbargostaran.com/), [source](https://avval.ir/profile/03d63/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A7%D9%86%D8%A8%D8%A7%D8%B1-%DA%AF%D8%B3%D8%AA%D8%B1%D8%A7%D9%86)
+
+### 17. بازرگانی ماندگار — adjusted score 70.4
+
+- Qualification: Commercial audit: READY FOR OUTREACH; customs_broker; 72/100 evidence strength; 2 independent source families; 73/100 score confidence.
+- Evidence notes: Public page shows public quotation or RFQ language. | Public page shows public product/catalog surface. | Public page shows public order or contact intake.
+- Screenshots: `evidence/companies/ir-teh-852d4aee14a54c4a/screenshots/homepage.png`
+- Sources: [source](https://avval.ir/search/%D8%AD%D9%85%D9%84-%D9%88-%D9%86%D9%82%D9%84-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86?page=2), [source](https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%DA%A9%D8%A7%D9%84%D8%A7/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://avval.ir/profile/4c383/%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1), [source](https://mandegarcommerce.com/), [source](https://mandegarcommerce.com/about-mandegar/), [source](https://mandegarcommerce.com/our-services/), [source](https://mandegarcommerce.com/contact/)
+
+### 18. شرکت مهندسی سیلاب زیست تهران — adjusted score 70.0
+
+- Qualification: Commercial audit: READY FOR OUTREACH; EPC_contractor; 72/100 evidence strength; 2 independent source families; 89/100 score confidence.
+- Evidence notes: Public page shows public product/catalog surface. | Public page shows public projects, clients or partners. | Public page shows named ERP/CRM/software signal.
+- Screenshots: `evidence/companies/ir-teh-ceb8c706aa49522e/screenshots/homepage_candidate-1.png`
+- Sources: [source](https://avval.ir/directory/%D9%BE%DB%8C%D9%85%D8%A7%D9%86%DA%A9%D8%A7%D8%B1%20%D8%AA%D8%A7%D8%B3%DB%8C%D8%B3%D8%A7%D8%AA%20%D9%88%20%D8%AA%D8%AC%D9%87%DB%8C%D8%B2%D8%A7%D8%AA/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://avval.ir/profile/6e701/%D8%B4%D8%B1%DA%A9%D8%AA-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%B3%DB%8C%D9%84%D8%A7%D8%A8-%D8%B2%DB%8C%D8%B3%D8%AA-%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://seylab-zist.com/), [source](https://seylab-zist.com/product/), [source](https://seylab-zist.com/product/%d8%af%db%8c%d9%81%db%8c%d9%88%d8%b2%d8%b1-%d9%87%d9%88%d8%a7%d8%af%d9%87%db%8c-%d8%b3%db%8c%d9%84%d8%a7%d8%a8-%d8%b2%db%8c%d8%b3%d8%aa-%d8%aa%d9%87%d8%b1%d8%a7%d9%86/), [source](https://seylab-zist.com/product/chemical-dosing-system-chlorination-package/)
+
+### 19. شرکت آسفالت توس — adjusted score 69.6
+
+- Qualification: Commercial audit: READY FOR OUTREACH; EPC_contractor; 72/100 evidence strength; 2 independent source families; 73/100 score confidence.
+- Evidence notes: Public page shows public projects, clients or partners. | Public page shows expansion, export, founding or current activity signal. | Public page shows public product/catalog surface.
+- Screenshots: `evidence/companies/ir-teh-d70b0507dc92c66d/screenshots/homepage_candidate.png`
+- Sources: [source](https://avval.ir/directory/%D9%BE%DB%8C%D9%85%D8%A7%D9%86%DA%A9%D8%A7%D8%B1%20%D9%86%D9%81%D8%AA%20%D9%88%20%DA%AF%D8%A7%D8%B2%20%D9%88%20%D9%BE%D8%AA%D8%B1%D9%88%D8%B4%DB%8C%D9%85%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://asfalt-tous.com/), [source](https://avval.ir/profile/70f70/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A2%D8%B3%D9%81%D8%A7%D9%84%D8%AA-%D8%AA%D9%88%D8%B3), [source](https://asfalt-tous.com/about/), [source](https://asfalt-tous.com/MAP/)
+
+### 20. شرکت سارنگ تجارت بین الملل — adjusted score 69.6
+
+- Qualification: Commercial audit: READY FOR OUTREACH; importer; 72/100 evidence strength; 2 independent source families; 73/100 score confidence.
+- Evidence notes: Public page shows public product/catalog surface. | Public page shows factory, warehouse or production facility. | Public page shows expansion, export, founding or current activity signal.
+- Screenshots: `evidence/companies/ir-teh-b12fca8dcac7066d/screenshots/company_profile.png`
+- Sources: [source](https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%B4%DB%8C%D9%85%DB%8C%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://avval.ir/profile/f1886/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%B3%D8%A7%D8%B1%D9%86%DA%AF-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84), [source](https://sarangtejarat.com/), [source](https://sarangtejarat.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/), [source](https://sarangtejarat.com/%da%a9%d8%a7%d8%aa%d8%a7%d9%84%d9%88%da%af/), [source](https://sarangtejarat.com/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/)
+
+### 21. پیشگامان تجارت و توسعه پایدار — adjusted score 69.6
+
+- Qualification: Commercial audit: READY FOR OUTREACH; EPC_contractor; 72/100 evidence strength; 2 independent source families; 73/100 score confidence.
+- Evidence notes: Public page shows branches, representatives or dealer network. | Public page shows factory, warehouse or production facility. | Public page shows after-sales, repair or service operation.
+- Screenshots: `evidence/companies/ir-teh-d92d288a3b832e64/screenshots/homepage.png`
+- Sources: [source](https://avval.ir/directory/%D9%86%DA%AF%D9%87%D8%AF%D8%A7%D8%B1%DB%8C%20%D9%88%20%D8%AA%D8%B9%D9%85%DB%8C%D8%B1%20%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D8%AC%D8%A7%D8%AA%20%D9%86%D9%81%D8%AA%20%D9%88%20%DA%AF%D8%A7%D8%B2%20%D9%88%20%D9%BE%D8%AA%D8%B1%D9%88%D8%B4%DB%8C%D9%85%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://ptpgroup.ir/), [source](https://avval.ir/profile/cbaa2/%D9%BE%DB%8C%D8%B4%DA%AF%D8%A7%D9%85%D8%A7%D9%86-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D9%88-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D9%BE%D8%A7%DB%8C%D8%AF%D8%A7%D8%B1), [source](https://ptpgroup.ir/department/project-financing-services/), [source](https://ptpgroup.ir/departments/project-execution/), [source](https://ptpgroup.ir/department/recreational-sports-projects/)
+
+### 22. شرکت پیشرو صنعت ورا پارس — adjusted score 68.7
+
+- Qualification: Commercial audit: READY FOR OUTREACH; EPC_contractor; 72/100 evidence strength; 2 independent source families; 73/100 score confidence.
+- Evidence notes: Public page shows public quotation or RFQ language. | Public page shows public product/catalog surface. | Public page shows after-sales, repair or service operation.
+- Screenshots: `evidence/companies/ir-teh-bb88c592dba51324/screenshots/homepage_candidate-1.png`
+- Sources: [source](https://avval.ir/directory/%D9%BE%DB%8C%D9%85%D8%A7%D9%86%DA%A9%D8%A7%D8%B1%20%D9%86%D9%81%D8%AA%20%D9%88%20%DA%AF%D8%A7%D8%B2%20%D9%88%20%D9%BE%D8%AA%D8%B1%D9%88%D8%B4%DB%8C%D9%85%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://avval.ir/profile/wlmgr/%D8%B4%D8%B1%DA%A9%D8%AA-%D9%BE%DB%8C%D8%B4%D8%B1%D9%88-%D8%B5%D9%86%D8%B9%D8%AA-%D9%88%D8%B1%D8%A7-%D9%BE%D8%A7%D8%B1%D8%B3), [source](https://varapars.com/), [source](https://varapars.com/about-us/), [source](https://varapars.com/projects/), [source](https://varapars.com/services/)
+
+### 23. فروشگاه فولاد پایتخت — adjusted score 68.7
+
+- Qualification: Commercial audit: READY FOR OUTREACH; distributor; 72/100 evidence strength; 2 independent source families; 73/100 score confidence.
+- Evidence notes: Public page shows public product/catalog surface. | Public page shows certification, license or standards evidence. | Public page shows expansion, export, founding or current activity signal.
+- Screenshots: `evidence/companies/ir-teh-4bb48d22607d20cf/screenshots/homepage.png`
+- Sources: [source](https://avval.ir/directory/%D8%A2%D9%84%DB%8C%D8%A7%DA%98%20%D9%81%D9%88%D9%84%D8%A7%D8%AF%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://avval.ir/directory/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA%20%D9%81%D9%88%D9%84%D8%A7%D8%AF%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://fooladpaytakht.com/), [source](https://avval.ir/profile/4cd1d/%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87-%D9%81%D9%88%D9%84%D8%A7%D8%AF-%D9%BE%D8%A7%DB%8C%D8%AA%D8%AE%D8%AA), [source](https://fooladpaytakht.com/contact-us/), [source](https://fooladpaytakht.com/about-us/)
+
+### 24. اطلس فرابر جهان — adjusted score 68.2
+
+- Qualification: Commercial audit: READY FOR OUTREACH; freight_forwarder; 72/100 evidence strength; 2 independent source families; 89/100 score confidence.
+- Evidence notes: Public page shows expansion, export, founding or current activity signal. | Public page shows public quotation or RFQ language. | Public page shows certification, license or standards evidence.
+- Screenshots: `evidence/companies/ir-teh-7897e19cde408194/screenshots/homepage.png`
+- Sources: [source](https://avval.ir/search/%D8%AD%D9%85%D9%84-%D9%88-%D9%86%D9%82%D9%84-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86?page=2), [source](https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%DA%A9%D8%A7%D9%84%D8%A7/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://www.atlasfarabarjahan.com/), [source](https://avval.ir/profile/rssln/%D8%A7%D8%B7%D9%84%D8%B3-%D9%81%D8%B1%D8%A7%D8%A8%D8%B1-%D8%AC%D9%87%D8%A7%D9%86), [source](https://www.atlasfarabarjahan.com/contact.html), [source](https://www.atlasfarabarjahan.com/services.html), [source](https://www.atlasfarabarjahan.com/about.html)
+
+### 25. شرکت بازرگانی بابکو — adjusted score 68.2
+
+- Qualification: Commercial audit: READY FOR OUTREACH; importer; 72/100 evidence strength; 2 independent source families; 89/100 score confidence.
+- Evidence notes: Public page shows public product/catalog surface. | Public page shows branches, representatives or dealer network. | Public page shows after-sales, repair or service operation.
+- Screenshots: `evidence/companies/ir-teh-62d83cdb07f3e444/screenshots/company_profile-1.png`
+- Sources: [source](https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%AA%D8%AC%D9%87%DB%8C%D8%B2%D8%A7%D8%AA%20%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://avval.ir/profile/98a52/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7%D8%A8%DA%A9%D9%88), [source](https://www.babco.biz/), [source](https://www.babco.biz/about/index/lang/Fa), [source](https://www.babco.biz/home/contact/lang/Fa), [source](https://www.babco.biz/default.aspx)
+
+### 26. شرکت بازرگانی علیزاده نیک — adjusted score 67.9
+
+- Qualification: Commercial audit: READY FOR OUTREACH; customs_broker; 72/100 evidence strength; 2 independent source families; 73/100 score confidence.
+- Evidence notes: Public page shows public product/catalog surface. | Public page shows public order or contact intake. | Public page shows branches, representatives or dealer network.
+- Screenshots: `evidence/companies/ir-teh-5308e6ccd17b72e9/screenshots/homepage_candidate.png`
+- Sources: [source](https://avval.ir/directory/%D8%B4%D8%B1%DA%A9%D8%AA%20%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](http://alizadehnik.ir), [source](https://avval.ir/profile/ae2qg/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%B9%D9%84%DB%8C%D8%B2%D8%A7%D8%AF%D9%87-%D9%86%DB%8C%DA%A9)
+
+### 27. شرکت علمی سازان پاسارگاد (کانگورو) — adjusted score 67.9
+
+- Qualification: Commercial audit: READY FOR OUTREACH; manufacturer; 72/100 evidence strength; 2 independent source families; 73/100 score confidence.
+- Evidence notes: Public page shows public quotation or RFQ language. | Public page shows public product/catalog surface. | Public page shows expansion, export, founding or current activity signal.
+- Screenshots: `evidence/companies/ir-teh-adb049f466e03f58/screenshots/homepage_candidate-1.png`
+- Sources: [source](https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%B4%DB%8C%D9%85%DB%8C%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://avval.ir/profile/12d05/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%B9%D9%84%D9%85%DB%8C-%D8%B3%D8%A7%D8%B2%D8%A7%D9%86-%D9%BE%D8%A7%D8%B3%D8%A7%D8%B1%DA%AF%D8%A7%D8%AF-%DA%A9%D8%A7%D9%86%DA%AF%D9%88%D8%B1%D9%88), [source](https://yeskangaroo.com/), [source](https://yeskangaroo.com/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/), [source](https://yeskangaroo.com/product-category/chemical/), [source](https://yeskangaroo.com/product-category/chemical/selling-chemicals-in-iran/)
+
+### 28. شرکت کیمیاگران امروز — adjusted score 67.9
+
+- Qualification: Commercial audit: READY FOR OUTREACH; manufacturer; 72/100 evidence strength; 2 independent source families; 73/100 score confidence.
+- Evidence notes: Public page shows public product/catalog surface. | Public page shows branches, representatives or dealer network. | Public page shows factory, warehouse or production facility.
+- Screenshots: `evidence/companies/ir-teh-3fd9d0c220b495e3/screenshots/homepage.png`
+- Sources: [source](https://avval.ir/directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%A7%D9%88%D9%84%DB%8C%D9%87%20%D8%AF%D8%A7%D8%B1%D9%88/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://avval.ir/profile/6c554/%D8%B4%D8%B1%DA%A9%D8%AA-%DA%A9%DB%8C%D9%85%DB%8C%D8%A7%DA%AF%D8%B1%D8%A7%D9%86-%D8%A7%D9%85%D8%B1%D9%88%D8%B2), [source](https://kimyagaran.com/), [source](https://kimyagaran.com/category/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-%d9%81%d8%b1%d9%85%d9%88%d9%84%d9%87-%d8%b4%d8%af%d9%87/), [source](https://kimyagaran.com/%da%a9%d8%a7%d8%aa%d8%a7%d9%84%d9%88%da%af-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-%d9%85%d8%b9%d8%b1%d9%81%db%8c-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/), [source](https://kimyagaran.com/%da%a9%d8%a7%d8%b1%d8%a8%d8%b1%d8%af-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/)
+
+### 29. لوکس باکس — adjusted score 67.0
+
+- Qualification: Commercial audit: READY FOR OUTREACH; manufacturer; 72/100 evidence strength; 2 independent source families; 73/100 score confidence.
+- Evidence notes: Public page shows public product/catalog surface. | Public page shows factory, warehouse or production facility. | Public page shows expansion, export, founding or current activity signal.
+- Screenshots: `evidence/companies/ir-teh-5911ae5691d19335/screenshots/homepage.png`
+- Sources: [source](https://avval.ir/directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D8%AC%D8%B9%D8%A8%D9%87%20%D9%85%D9%82%D9%88%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://avval.ir/profile/00fd5/%D9%84%D9%88%DA%A9%D8%B3-%D8%A8%D8%A7%DA%A9%D8%B3), [source](https://iluxbox.com/), [source](https://iluxbox.com/products/category/Wooden-gift-box), [source](https://iluxbox.com/products/category/nuts-box), [source](https://iluxbox.com/products/category/Herbal-and-tea-box)
+
+### 30. شرکت تیم — adjusted score 66.2
+
+- Qualification: Commercial audit: READY FOR OUTREACH; service_company; 72/100 evidence strength; 2 independent source families; 73/100 score confidence.
+- Evidence notes: Public page shows public product/catalog surface. | Public page shows after-sales, repair or service operation. | Public page shows public projects, clients or partners.
+- Screenshots: `evidence/companies/ir-teh-565c0d935d3681f6/screenshots/homepage_candidate.png`
+- Sources: [source](https://avval.ir/directory/%D9%86%DA%AF%D9%87%D8%AF%D8%A7%D8%B1%DB%8C%20%D9%88%20%D8%AA%D8%B9%D9%85%DB%8C%D8%B1%20%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D8%AC%D8%A7%D8%AA%20%D9%86%D9%81%D8%AA%20%D9%88%20%DA%AF%D8%A7%D8%B2%20%D9%88%20%D9%BE%D8%AA%D8%B1%D9%88%D8%B4%DB%8C%D9%85%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86), [source](https://teampipeline.com/), [source](https://avval.ir/profile/f4475/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%AA%DB%8C%D9%85), [source](https://teampipeline.com/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/), [source](https://teampipeline.com/%d8%aa%d9%85%d8%a7%d8%b3-%d8%a8%d8%a7-%d9%85%d8%a7/), [source](https://teampipeline.com/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%aa%d8%ae%d8%b5%d8%b5%db%8c/)
