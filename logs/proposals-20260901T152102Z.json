@@ -1,0 +1,9 @@
+{
+  "completed_at": "2026-09-01T15:21:02Z",
+  "eligible_tiers": [
+    "A",
+    "B"
+  ],
+  "gate": "READY FOR OUTREACH + EVIDENCE_SUPPORTED/STRONG_HYPOTHESIS workflow + commercial evidence >=70 + score confidence >=65",
+  "proposals_generated": 32
+}

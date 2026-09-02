@@ -1,7 +1,43 @@
 {
+  "commercial_audit": {
+    "independent_source_count": 2,
+    "pages_checked": 8,
+    "pages_usable": 4,
+    "sales_readiness": "READY FOR OUTREACH",
+    "source_families": [
+      "book_e_avval",
+      "company_website:asfalt-tous.com"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
   "company_id": "ir-teh-d70b0507dc92c66d",
-  "errors": [],
-  "generated_at": "2026-09-01T08:36:43Z",
+  "errors": [
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%A2%D8%B3%D9%81%D8%A7%D9%84%D8%AA+%D8%AA%D9%88%D8%B3%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-9: ordinal not in range(128)",
+      "stage": "company_page",
+      "url": "https://asfalt-tous.com/پروژه-ها/"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%A2%D8%B3%D9%81%D8%A7%D9%84%D8%AA+%D8%AA%D9%88%D8%B3%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%A2%D8%B3%D9%81%D8%A7%D9%84%D8%AA+%D8%AA%D9%88%D8%B3%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    }
+  ],
+  "generated_at": "2026-09-01T15:27:12Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
@@ -53,6 +89,62 @@
       "source_quality": "directory",
       "source_title": "شرکت آسفالت توس - پیمانکار نفت و گاز و پتروشیمی | کتاب اول",
       "source_url": "https://avval.ir/profile/70f70/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A2%D8%B3%D9%81%D8%A7%D9%84%D8%AA-%D8%AA%D9%88%D8%B3"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:41Z",
+      "company_id": "ir-teh-d70b0507dc92c66d",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "شرکت آسفالت طوس درباره‌ ما معرفی شرکت ساختار سازمان HSE پروژه‌ها پروژه‌ها بر روی نقشه پروژه‌های صنعت‌ و‌ معدن پروژه‌های نفت‌ و‌ گاز سایر پروژه‌ها رویدادها تماس با ما راه‌های ارتباط با ما ارسال رزومه‌ شغلی مناقصات و مزایدات EN فا قریب به نیم‌قرن فعالیت مستمر شرکت آسفالت طوس (از سال ۱۳۵۴) گواهی است بر توانایی و ظرفیت‌های عظیم این شرکت پیمانکاری در اجرای طرح‌های EPC در پروژه‌های عمرانی، صنعتی و معدنی، و پروژه‌های نفت، گاز و پتروشیمی که به کمک نیروی انسانی متخصص و با تکیه‌بر دانش فنی روز صورت می‌گیرد. اجرا و راهبری پروژه صنعتی ، معدنی ، نفت گاز و پتروشیمی سالها تجربه شرکت آسفالت طوس شامل یک شرکت اصلی و چند شرکت زیرمجموعه است که به‌صورت منسجم در طراحی، اجرا، تأمین کالا، راه‌اندازی و بهره‌برداری ا",
+      "source_family": "company_website:asfalt-tous.com",
+      "source_id": "src-fa339452a9cb4e3a",
+      "source_quality": "public_page",
+      "source_title": "شرکت آسفالت طوس",
+      "source_type": "commercial_audit",
+      "source_url": "https://asfalt-tous.com/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:41Z",
+      "company_id": "ir-teh-d70b0507dc92c66d",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "شرکت آسفالت توس - پیمانکار نفت و گاز و پتروشیمی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس شرکت آسفالت توس پیمانکار نفت و گاز و پتروشیمی حفاری و استخراج پیمانکار معدن تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل پیمانکار نفت و گاز و پتروشیمی تهران محله والفجر اطلاعات تماس آدرس : تهران، منطقه 6، محله والفجر، بزرگراه همت، خیابان شیراز جنوبی، خیابان آقا علی خانی، خیابان گلستان، بن بست 12 متری سوم، پلاک 2 تلفن : نمایش شماره XXXXXXXXXX فکس : نمایش شماره XXXXXXXXXX وب سایت www.asfalt-tous.com ایمیل : asfalttous@neda.net کد پستی : 1436935791 توضیحات شرکت آسفالت طوس شامل یک شرکت اصلی و چند شرکت ز",
+      "source_family": "book_e_avval",
+      "source_id": "src-96a056ae56bb611e",
+      "source_quality": "public_page",
+      "source_title": "شرکت آسفالت توس - پیمانکار نفت و گاز و پتروشیمی | کتاب اول",
+      "source_type": "commercial_audit",
+      "source_url": "https://avval.ir/profile/70f70/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A2%D8%B3%D9%81%D8%A7%D9%84%D8%AA-%D8%AA%D9%88%D8%B3"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:48Z",
+      "company_id": "ir-teh-d70b0507dc92c66d",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "درباره ما درباره‌ ما معرفی شرکت ساختار سازمان HSE پروژه‌ها پروژه‌ها بر روی نقشه پروژه‌های صنعت‌ و‌ معدن پروژه‌های نفت‌ و‌ گاز سایر پروژه‌ها رویدادها تماس با ما راه‌های ارتباط با ما ارسال رزومه‌ شغلی مناقصات و مزایدات EN فا شرکت آسفالت طوس شامل یک شرکت اصلی و چند شرکت زیرمجموعه است که به‌ صورت منسجم در زمینه‌های طراحی، اجرا، تأمین کالا، راه‌اندازی و بهره‌برداری از کارخانجات صنعتی، صنایع نفت و گاز و پتروشیمی، حفاری و آماده‌سازی و استخراج معادن، عملیات خاک‌برداری در حجم بسیار بالا، اجرای ابنیه سنگین بتنی و سازه‌های فلزی صنعتی، ساخت انواع مخازن و برج‌های خنک‌کننده نیروگاهی، خطوط انتقال نیرو، ساخت تونل و سایر پروژه‌های صنعتی و زیرساختی فعالیت دارد. این شرکت نامی ماندگار و قابل ‌اعتماد در عرصه عمر",
+      "source_family": "company_website:asfalt-tous.com",
+      "source_id": "src-6e37c18aa16c2119",
+      "source_quality": "public_page",
+      "source_title": "درباره ما",
+      "source_type": "commercial_audit",
+      "source_url": "https://asfalt-tous.com/about/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:48Z",
+      "company_id": "ir-teh-d70b0507dc92c66d",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "پروژه ها بر روی نقشه | شرکت آسفالت طوس درباره‌ ما معرفی شرکت ساختار سازمان HSE پروژه‌ها پروژه‌ها بر روی نقشه پروژه‌های صنعت‌ و‌ معدن پروژه‌های نفت‌ و‌ گاز سایر پروژه‌ها رویدادها تماس با ما راه‌های ارتباط با ما ارسال رزومه‌ شغلی مناقصات و مزایدات EN فا تماس با ما آدرس:تهران، بزرگراه همت، خيابان شيرازی جنوبی، خيابان آقاعلیخانی، خيابان داوری اردکانی، بن بست 12متری سوم، شماره 2، ساختمان مهرگان تلفن: 43621000-021 نمابر: 43621030-021 ساعت کاری: 7:15 صبح تا 4 بعد از ظهر E-Mail: info@asfalt-tous.com © 1403-1404 | تمامی حقوق این سایت متعلق به شرکت آسفالت طوس می باشد.",
+      "source_family": "company_website:asfalt-tous.com",
+      "source_id": "src-8cf028814cd25c96",
+      "source_quality": "public_page",
+      "source_title": "پروژه ها بر روی نقشه | شرکت آسفالت طوس",
+      "source_type": "commercial_audit",
+      "source_url": "https://asfalt-tous.com/MAP/"
     }
   ]
 }

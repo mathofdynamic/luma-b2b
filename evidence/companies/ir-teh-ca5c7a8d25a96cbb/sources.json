@@ -1,7 +1,31 @@
 {
+  "commercial_audit": {
+    "independent_source_count": 2,
+    "pages_checked": 9,
+    "pages_usable": 5,
+    "sales_readiness": "NOT READY",
+    "source_families": [
+      "book_e_avval",
+      "directory:parscenter.com"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
   "company_id": "ir-teh-ca5c7a8d25a96cbb",
-  "errors": [],
-  "generated_at": "2026-09-01T08:13:12Z",
+  "errors": [
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%DA%AF%D8%B1%D9%88%D9%87+%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C+%D9%88+%D8%B3%D8%A7%D8%AE%D8%AA+%D9%87%D9%88%D8%B1%D8%A7%DB%8C%D8%B2%D9%86%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%DA%AF%D8%B1%D9%88%D9%87+%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C+%D9%88+%D8%B3%D8%A7%D8%AE%D8%AA+%D9%87%D9%88%D8%B1%D8%A7%DB%8C%D8%B2%D9%86%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    }
+  ],
+  "generated_at": "2026-09-01T15:27:09Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
@@ -89,6 +113,160 @@
       "source_quality": "company_site",
       "source_title": "گروه مهندسی و ساخت هورایزن - طراحی و ساخت ماشین آلات...",
       "source_url": "https://parscenter.com/horizongroup"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:07Z",
+      "company_id": "ir-teh-ca5c7a8d25a96cbb",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+9c39@duckduckgo.com Code: 9c39",
+      "source_family": "search_engine",
+      "source_id": "src-5cdae977e67fa36e",
+      "source_quality": "search_index",
+      "source_title": "DuckDuckGo",
+      "source_type": "commercial_audit",
+      "source_url": "https://html.duckduckgo.com/html/?q=%22%DA%AF%D8%B1%D9%88%D9%87+%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C+%D9%88+%D8%B3%D8%A7%D8%AE%D8%AA+%D9%87%D9%88%D8%B1%D8%A7%DB%8C%D8%B2%D9%86%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:07Z",
+      "company_id": "ir-teh-ca5c7a8d25a96cbb",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+9c39@duckduckgo.com Code: 9c39",
+      "source_family": "search_engine",
+      "source_id": "src-30adbb0e91c99d50",
+      "source_quality": "search_index",
+      "source_title": "DuckDuckGo",
+      "source_type": "commercial_audit",
+      "source_url": "https://html.duckduckgo.com/html/?q=%22https+parscenter.com+horizongroup%22+Tehran+Iran+company&kl=ir-fa"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:07Z",
+      "company_id": "ir-teh-ca5c7a8d25a96cbb",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "گروه مهندسی و ساخت هورایزن - تولید ماشین آلات صنعتی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس گروه مهندسی و ساخت هورایزن انجام تخصصی کلیه مراحل ساخت از تحقیق و توسعه تا نظارت و ساخت و راه اندازی تولید ماشین آلات صنعتی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل تولید ماشین آلات صنعتی تهران محله باغ صبا - سهروردی اطلاعات تماس آدرس : تهران، منطقه 7، محله باغ صبا - سهروردی، خیابان مفتح شمالی (روزولت)، خیابان زهره، پلاک 14، واحد 6 تلفن : نمایش شماره XXXXXXXXXX وب سایت parscenter.com/horizongroup ایمیل : ir.horizon.group@gmail.com کد پستی : 1588973318 توضیحات آیا ایده خلق محصول جدیدی دارید آ",
+      "source_family": "book_e_avval",
+      "source_id": "src-6eeec6a87943ed8c",
+      "source_quality": "public_page",
+      "source_title": "گروه مهندسی و ساخت هورایزن - تولید ماشین آلات صنعتی | کتاب اول",
+      "source_type": "commercial_audit",
+      "source_url": "https://avval.ir/profile/68639/%DA%AF%D8%B1%D9%88%D9%87-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D9%88-%D8%B3%D8%A7%D8%AE%D8%AA-%D9%87%D9%88%D8%B1%D8%A7%DB%8C%D8%B2%D9%86"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:07Z",
+      "company_id": "ir-teh-ca5c7a8d25a96cbb",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "گروه مهندسی و ساخت هورایزن - طراحی و ساخت ماشین آلات... تور پارس سنتر راهنما پشتیبانی درباره ما ورود اعضاء ثبت نام رایگان صفحه نخست محصولات تامین کننده ها درخواست خرید آگهی ها (جدید) تعرفه وبلاگ تور پارس سنتر راهنما درباره ما ورود اعضاء ثبت نام رایگان صفحه نخست محصولات تامین کننده ها آگهی ها (جدید) درخواست خرید تعرفه وبلاگ به راهنمایی نیاز دارید؟ تور پارس سنتر راهنما پشتیبانی درباره ما منوی سایت صفحه نخست خدمات مقالات درباره ما اطلاعات تماس گروه مهندسی و ساخت هورایزن طراحی و ساخت ماشین آلات, مهندسی معکوس, طراحی سه بعدی صفحه نخست خدمات مقالات درباره ما اطلاعات تماس گروه مهندسی و ساخت هورایزن با برخورداری از استعدادی ذاتی برای حل مشکلات و با تکیه بر خلاقیت، صبوری، تمرکز و اشتیاقی سوزان برای ار",
+      "source_family": "company_website:parscenter.com",
+      "source_id": "src-5b73138ab31fcd93",
+      "source_quality": "public_page",
+      "source_title": "گروه مهندسی و ساخت هورایزن - طراحی و ساخت ماشین آلات...",
+      "source_type": "commercial_audit",
+      "source_url": "https://parscenter.com/horizongroup"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:14Z",
+      "company_id": "ir-teh-ca5c7a8d25a96cbb",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "پشتیبانی - بزرگترین فهرست محصولات و خدمات ایران در پ... تور پارس سنتر راهنما پشتیبانی درباره ما ورود اعضاء ثبت نام رایگان صفحه نخست محصولات تامین کننده ها درخواست خرید آگهی ها (جدید) تعرفه وبلاگ تور پارس سنتر راهنما درباره ما ورود اعضاء ثبت نام رایگان صفحه نخست محصولات تامین کننده ها آگهی ها (جدید) درخواست خرید تعرفه وبلاگ به راهنمایی نیاز دارید؟ تور پارس سنتر راهنما پشتیبانی درباره ما پشتیبانی پشتیبانی پارس سنتر لطفا چنانچه سوالی در مورد محصولات معرفی شده در پارس سنتر دارید، مستقیما با فروشنده آن تماس بگیرید. این صفحه برای تماس با وب سایت پارس سنتر طراحی شده و صرفا پاسخگو به موارد مربوط به خود وب سایت می باشد. تهران، خیابان ولیعصر، بالاتر از پل پارک وی روبه‌روی خیابان فرشته، بن بست توتیا، پ",
+      "source_family": "company_website:parscenter.com",
+      "source_id": "src-379c12b9947b8443",
+      "source_quality": "public_page",
+      "source_title": "پشتیبانی - بزرگترین فهرست محصولات و خدمات ایران در پ...",
+      "source_type": "commercial_audit",
+      "source_url": "https://parscenter.com/Contact/ContactUs"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:14Z",
+      "company_id": "ir-teh-ca5c7a8d25a96cbb",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "درباره ما - بزرگترین فهرست محصولات و خدمات ایران در ... تور پارس سنتر راهنما پشتیبانی درباره ما ورود اعضاء ثبت نام رایگان صفحه نخست محصولات تامین کننده ها درخواست خرید آگهی ها (جدید) تعرفه وبلاگ تور پارس سنتر راهنما درباره ما ورود اعضاء ثبت نام رایگان صفحه نخست محصولات تامین کننده ها آگهی ها (جدید) درخواست خرید تعرفه وبلاگ به راهنمایی نیاز دارید؟ تور پارس سنتر راهنما پشتیبانی درباره ما درباره ما پارس سنتر پارس‌سنتر، به‌عنوان یکی از بزرگ‌ترین و معتبرترین پلتفرم‌های تجارت الکترونیک B2B در ایران، با هدف تسهیل ارتباط مستقیم بین خریداران و فروشندگان، بستری امن و کارآمد برای انجام معاملات تجاری فراهم کرده است. ما با هدف ارتقاء تجارت داخلی و بین‌المللی، از سال‌ها پیش فعالیت خود را آغاز کرده و هموار",
+      "source_family": "company_website:parscenter.com",
+      "source_id": "src-4b4ebe4a35f0b212",
+      "source_quality": "public_page",
+      "source_title": "درباره ما - بزرگترین فهرست محصولات و خدمات ایران در ...",
+      "source_type": "commercial_audit",
+      "source_url": "https://parscenter.com/Home/About"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:14Z",
+      "company_id": "ir-teh-ca5c7a8d25a96cbb",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "فهرست محصولات، خدمات، تولید کننده ها، وارد کننده ها،... تور پارس سنتر راهنما پشتیبانی درباره ما ورود اعضاء ثبت نام رایگان صفحه نخست محصولات تامین کننده ها درخواست خرید آگهی ها (جدید) تعرفه وبلاگ تور پارس سنتر راهنما درباره ما ورود اعضاء ثبت نام رایگان صفحه نخست محصولات تامین کننده ها آگهی ها (جدید) درخواست خرید تعرفه وبلاگ به راهنمایی نیاز دارید؟ تور پارس سنتر راهنما پشتیبانی درباره ما محصولات بر اساس گروه آرایش، زیبایی و سلامتی (5891) تجهیزات آرایشگاه ؛ تجهیزات زیبایی ؛ خدمات آرایش و زیبایی ؛ عطر و ادکلن و دئودورانت ؛ لوازم آرایش ؛ لوازم اصلاح ؛ لوازم مانیکور و پدیکور ؛ ... ابزار و یراق (16745) ابزار آلات بادی، پنوماتیک ؛ ابزار آلات دستی ؛ ابزارآلات برقی ؛ اتصالات لوله ؛ بکسل و لوازم ؛ جوش ",
+      "source_family": "company_website:parscenter.com",
+      "source_id": "src-eff2ab8666de7e43",
+      "source_quality": "public_page",
+      "source_title": "فهرست محصولات، خدمات، تولید کننده ها، وارد کننده ها،...",
+      "source_type": "commercial_audit",
+      "source_url": "https://parscenter.com/Products"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:19:30Z",
+      "company_id": "ir-teh-ca5c7a8d25a96cbb",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "گروه مهندسی و ساخت هورایزن - طراحی و ساخت ماشین آلات... تور پارس سنتر راهنما پشتیبانی درباره ما ورود اعضاء ثبت نام رایگان صفحه نخست محصولات تامین کننده ها درخواست خرید آگهی ها (جدید) تعرفه وبلاگ تور پارس سنتر راهنما درباره ما ورود اعضاء ثبت نام رایگان صفحه نخست محصولات تامین کننده ها آگهی ها (جدید) درخواست خرید تعرفه وبلاگ به راهنمایی نیاز دارید؟ تور پارس سنتر راهنما پشتیبانی درباره ما منوی سایت صفحه نخست خدمات مقالات درباره ما اطلاعات تماس گروه مهندسی و ساخت هورایزن طراحی و ساخت ماشین آلات, مهندسی معکوس, طراحی سه بعدی صفحه نخست خدمات مقالات درباره ما اطلاعات تماس گروه مهندسی و ساخت هورایزن با برخورداری از استعدادی ذاتی برای حل مشکلات و با تکیه بر خلاقیت، صبوری، تمرکز و اشتیاقی سوزان برای ار",
+      "source_family": "directory:parscenter.com",
+      "source_id": "src-5b73138ab31fcd93",
+      "source_quality": "public_page",
+      "source_title": "گروه مهندسی و ساخت هورایزن - طراحی و ساخت ماشین آلات...",
+      "source_type": "commercial_audit",
+      "source_url": "https://parscenter.com/horizongroup"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:19:34Z",
+      "company_id": "ir-teh-ca5c7a8d25a96cbb",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "پشتیبانی - بزرگترین فهرست محصولات و خدمات ایران در پ... تور پارس سنتر راهنما پشتیبانی درباره ما ورود اعضاء ثبت نام رایگان صفحه نخست محصولات تامین کننده ها درخواست خرید آگهی ها (جدید) تعرفه وبلاگ تور پارس سنتر راهنما درباره ما ورود اعضاء ثبت نام رایگان صفحه نخست محصولات تامین کننده ها آگهی ها (جدید) درخواست خرید تعرفه وبلاگ به راهنمایی نیاز دارید؟ تور پارس سنتر راهنما پشتیبانی درباره ما پشتیبانی پشتیبانی پارس سنتر لطفا چنانچه سوالی در مورد محصولات معرفی شده در پارس سنتر دارید، مستقیما با فروشنده آن تماس بگیرید. این صفحه برای تماس با وب سایت پارس سنتر طراحی شده و صرفا پاسخگو به موارد مربوط به خود وب سایت می باشد. تهران، خیابان ولیعصر، بالاتر از پل پارک وی روبه‌روی خیابان فرشته، بن بست توتیا، پ",
+      "source_family": "directory:parscenter.com",
+      "source_id": "src-379c12b9947b8443",
+      "source_quality": "public_page",
+      "source_title": "پشتیبانی - بزرگترین فهرست محصولات و خدمات ایران در پ...",
+      "source_type": "commercial_audit",
+      "source_url": "https://parscenter.com/Contact/ContactUs"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:19:34Z",
+      "company_id": "ir-teh-ca5c7a8d25a96cbb",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "درباره ما - بزرگترین فهرست محصولات و خدمات ایران در ... تور پارس سنتر راهنما پشتیبانی درباره ما ورود اعضاء ثبت نام رایگان صفحه نخست محصولات تامین کننده ها درخواست خرید آگهی ها (جدید) تعرفه وبلاگ تور پارس سنتر راهنما درباره ما ورود اعضاء ثبت نام رایگان صفحه نخست محصولات تامین کننده ها آگهی ها (جدید) درخواست خرید تعرفه وبلاگ به راهنمایی نیاز دارید؟ تور پارس سنتر راهنما پشتیبانی درباره ما درباره ما پارس سنتر پارس‌سنتر، به‌عنوان یکی از بزرگ‌ترین و معتبرترین پلتفرم‌های تجارت الکترونیک B2B در ایران، با هدف تسهیل ارتباط مستقیم بین خریداران و فروشندگان، بستری امن و کارآمد برای انجام معاملات تجاری فراهم کرده است. ما با هدف ارتقاء تجارت داخلی و بین‌المللی، از سال‌ها پیش فعالیت خود را آغاز کرده و هموار",
+      "source_family": "directory:parscenter.com",
+      "source_id": "src-4b4ebe4a35f0b212",
+      "source_quality": "public_page",
+      "source_title": "درباره ما - بزرگترین فهرست محصولات و خدمات ایران در ...",
+      "source_type": "commercial_audit",
+      "source_url": "https://parscenter.com/Home/About"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:19:34Z",
+      "company_id": "ir-teh-ca5c7a8d25a96cbb",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "فهرست محصولات، خدمات، تولید کننده ها، وارد کننده ها،... تور پارس سنتر راهنما پشتیبانی درباره ما ورود اعضاء ثبت نام رایگان صفحه نخست محصولات تامین کننده ها درخواست خرید آگهی ها (جدید) تعرفه وبلاگ تور پارس سنتر راهنما درباره ما ورود اعضاء ثبت نام رایگان صفحه نخست محصولات تامین کننده ها آگهی ها (جدید) درخواست خرید تعرفه وبلاگ به راهنمایی نیاز دارید؟ تور پارس سنتر راهنما پشتیبانی درباره ما محصولات بر اساس گروه آرایش، زیبایی و سلامتی (5891) تجهیزات آرایشگاه ؛ تجهیزات زیبایی ؛ خدمات آرایش و زیبایی ؛ عطر و ادکلن و دئودورانت ؛ لوازم آرایش ؛ لوازم اصلاح ؛ لوازم مانیکور و پدیکور ؛ ... ابزار و یراق (16745) ابزار آلات بادی، پنوماتیک ؛ ابزار آلات دستی ؛ ابزارآلات برقی ؛ اتصالات لوله ؛ بکسل و لوازم ؛ جوش ",
+      "source_family": "directory:parscenter.com",
+      "source_id": "src-eff2ab8666de7e43",
+      "source_quality": "public_page",
+      "source_title": "فهرست محصولات، خدمات، تولید کننده ها، وارد کننده ها،...",
+      "source_type": "commercial_audit",
+      "source_url": "https://parscenter.com/Products"
     }
   ]
 }

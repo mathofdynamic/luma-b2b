@@ -1,7 +1,36 @@
 {
+  "commercial_audit": {
+    "independent_source_count": 1,
+    "pages_checked": 8,
+    "pages_usable": 1,
+    "sales_readiness": "NOT READY",
+    "source_families": [
+      "book_e_avval"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
   "company_id": "ir-teh-bcd0ce896fd40d80",
-  "errors": [],
-  "generated_at": "2026-09-01T08:38:34Z",
+  "errors": [
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%A8%DB%8C%D9%86+%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C+%D9%86%D8%B5%D8%B1%D9%85%D8%A7%D8%B4%DB%8C%D9%86%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%A8%DB%8C%D9%86+%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C+%D9%86%D8%B5%D8%B1%D9%85%D8%A7%D8%B4%DB%8C%D9%86%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%A8%DB%8C%D9%86+%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C+%D9%86%D8%B5%D8%B1%D9%85%D8%A7%D8%B4%DB%8C%D9%86%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    }
+  ],
+  "generated_at": "2026-09-01T15:27:12Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
@@ -74,6 +103,76 @@
       "source_quality": "directory",
       "source_title": "شرکت بین المللی نصرماشین - تولید ماشین آلات صنعتی و کشاورزی | کتاب اول",
       "source_url": "https://avval.ir/profile/16fa4/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C-%D9%86%D8%B5%D8%B1%D9%85%D8%A7%D8%B4%DB%8C%D9%86"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:41Z",
+      "company_id": "ir-teh-bcd0ce896fd40d80",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "صفحه اصلی - نصر ماشین محصولات بیل مکانیکی لودر لاستیکی تراک معدنی دریل حفاری لیفتراک بولدوزر گریدر تجهیزات قطعات و خدمات آموزش تعمیر و نگهداری هوشمند پشتیبانی از مشتریان قطعات یدکی سرویس و نگهداری نوآوری فناوری پیشرفته خدمات هوشمند نصر ماشین اخبار و گزارش اخبار گزارش بیل مکانیکی لودر لاستیکی تراک معدنی دریل حفاری لیفتراک تجهیزات سرویس و نگهداری استعلام نمایندگان تجهیزات دیزل ژنراتور بولدوزر گریدر لیفتراک دریل حفاری دامپتراک لودر لاستیکی بیل مکانیکی محصولات خود را پیدا کنید نوع محصول انتخاب نوع محصول لودر چرخ لاستیکی دوسان لودر چرخ لاستیکی دولون لودر چرخ لاستیکی نصر بیل مکانیکی دوسان بیل مکانیکی دولون بیل مکانیکی نصر دامپتراک لیفتراک گریدر دریل حفاری فورکاوا چکش هیدرولیکی فورکاوا چکش هیدرولیک",
+      "source_family": "company_website:nasrmachine.com",
+      "source_id": "src-5ad3ea972b5fba0d",
+      "source_quality": "public_page",
+      "source_title": "صفحه اصلی - نصر ماشین",
+      "source_type": "commercial_audit",
+      "source_url": "https://nasrmachine.com/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:41Z",
+      "company_id": "ir-teh-bcd0ce896fd40d80",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "شرکت بین المللی نصرماشین - تولید ماشین آلات صنعتی و کشاورزی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس شرکت بین المللی نصرماشین 4.0 (1 نظر) تولید ماشین آلات صنعتی و کشاورزی فروش ماشین آلات صنعتی و کشاورزی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل تولید ماشین آلات صنعتی و کشاورزی تهران محله آذری اطلاعات تماس آدرس : تهران، منطقه 17، محله آذری، م. شمشیری (سه راه آذری)، خیابان 45 متری زرند، جنب مجتمع تجاری اداری کاترپیلار، ساختمان دوسان، طبقه دوم تلفن : نمایش شماره XXXXXXXXXX فکس : نمایش شماره XXXXXXXXXX وب سایت www.nasrmachine.com ایمیل : info@nasrmachine.com کد پستی : 1358644455 نظرات لط",
+      "source_family": "book_e_avval",
+      "source_id": "src-8b089cb3262f8e8a",
+      "source_quality": "public_page",
+      "source_title": "شرکت بین المللی نصرماشین - تولید ماشین آلات صنعتی و کشاورزی | کتاب اول",
+      "source_type": "commercial_audit",
+      "source_url": "https://avval.ir/profile/16fa4/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C-%D9%86%D8%B5%D8%B1%D9%85%D8%A7%D8%B4%DB%8C%D9%86"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:48Z",
+      "company_id": "ir-teh-bcd0ce896fd40d80",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "خدمات هوشمند نصر ماشین - نصر ماشین محصولات بیل مکانیکی لودر لاستیکی تراک معدنی دریل حفاری لیفتراک بولدوزر گریدر تجهیزات قطعات و خدمات آموزش تعمیر و نگهداری هوشمند پشتیبانی از مشتریان قطعات یدکی سرویس و نگهداری نوآوری فناوری پیشرفته خدمات هوشمند نصر ماشین اخبار و گزارش اخبار گزارش فناوری پیشرفته خدمات هوشمند نصر ماشین استعلام نمایندگان ارتباط از راه دور با نصر ماشین سرویس و نگهداری صحیح و به موقع ماشین آلات عمرانی و معدنی امری دشوار است که به دانش فنی و تجربه کافی نیاز دارد. عدم برنامه‌ریزی صحیح در جهت تعمیر و نگهداری ماشین آلات به بروز خسارات متعدد، متوقف شدن فرآیند کاری، و تضعیف بازده اقتصادی پروژه منجر می‌شود. به منظور تسهیل فرآیند مدیریت امور سرویس و نگهداری ماشین آلات، مهندسین واحد فنی و",
+      "source_family": "company_website:nasrmachine.com",
+      "source_id": "src-86ce8117b5abfe7c",
+      "source_quality": "public_page",
+      "source_title": "خدمات هوشمند نصر ماشین - نصر ماشین",
+      "source_type": "commercial_audit",
+      "source_url": "https://nasrmachine.com/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d9%87%d9%88%d8%b4%d9%85%d9%86%d8%af-%d9%86%d8%b5%d8%b1-%d9%85%d8%a7%d8%b4%db%8c%d9%86/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:48Z",
+      "company_id": "ir-teh-bcd0ce896fd40d80",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "DL550 - نصر ماشین محصولات بیل مکانیکی لودر لاستیکی تراک معدنی دریل حفاری لیفتراک بولدوزر گریدر تجهیزات قطعات و خدمات آموزش تعمیر و نگهداری هوشمند پشتیبانی از مشتریان قطعات یدکی سرویس و نگهداری نوآوری فناوری پیشرفته خدمات هوشمند نصر ماشین اخبار و گزارش اخبار گزارش بیل مکانیکی لودر لاستیکی تراک معدنی دریل حفاری لیفتراک تجهیزات کاتالوگ DL550 خانه » فروشگاه » DL550 استعلام نمایندگان قدرت موتور 396hp/2100rpm ظرفیت باکت 5,4m 3 وزن ماشین 31,125kg قابل استفاده در: پروژه های عمرانی و راه سازی پروژه های معدنی بررسی اجمالی لودر چرخ لاستیکی دولون (دوسان) مدل DL550 از کلیه مزایای مدل قبلی برخوردار است و همچنین مجموعه‌ای از ویژگی‌های جدید را به مالک دستگاه ارائه می‌کند. طراحی لودر DL550 مبتنی بر شعار “ارا",
+      "source_family": "company_website:nasrmachine.com",
+      "source_id": "src-d0f44ff3a8adbe78",
+      "source_quality": "public_page",
+      "source_title": "DL550 - نصر ماشین",
+      "source_type": "commercial_audit",
+      "source_url": "https://nasrmachine.com/product/dl550/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:48Z",
+      "company_id": "ir-teh-bcd0ce896fd40d80",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "DL550-5BH - نصر ماشین محصولات بیل مکانیکی لودر لاستیکی تراک معدنی دریل حفاری لیفتراک بولدوزر گریدر تجهیزات قطعات و خدمات آموزش تعمیر و نگهداری هوشمند پشتیبانی از مشتریان قطعات یدکی سرویس و نگهداری نوآوری فناوری پیشرفته خدمات هوشمند نصر ماشین اخبار و گزارش اخبار گزارش بیل مکانیکی لودر لاستیکی تراک معدنی دریل حفاری لیفتراک تجهیزات کاتالوگ DL550-5BH خانه » فروشگاه » DL550-5BH استعلام نمایندگان قدرت موتور 283Kw/1,800rpm لیفت سنگ 10,000kg وزن ماشین 36,030kg قابل استفاده در: پروژه های عمرانی و راه سازی پروژه های معدنی بررسی اجمالی لودر لاستیکی DL550 از کلیه مزایای مدل قبلی برخوردار است و همچنین مجموعه‌ای از ویژگی‌های جدید را به مالک دستگاه ارائه می‌کند. طراحی دستگاه DL550 مبتنی بر شعار “ارائه بالا",
+      "source_family": "company_website:nasrmachine.com",
+      "source_id": "src-150959ae3cd9bec8",
+      "source_quality": "public_page",
+      "source_title": "DL550-5BH - نصر ماشین",
+      "source_type": "commercial_audit",
+      "source_url": "https://nasrmachine.com/product/dl550-5/"
     }
   ]
 }

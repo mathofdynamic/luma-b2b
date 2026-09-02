@@ -1,4 +1,14 @@
 {
+  "commercial_audit": {
+    "independent_source_count": 1,
+    "pages_checked": 4,
+    "pages_usable": 1,
+    "sales_readiness": "NOT READY",
+    "source_families": [
+      "book_e_avval"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
   "company_id": "ir-teh-e0f6f809fff5413f",
   "errors": [
     {
@@ -6,9 +16,33 @@
       "error": "TimeoutExpired: Command '['/Users/mohammad/.codex/skills/playwright/scripts/playwright_cli.sh', '-s=luma-b2b-ir-teh-e0f6f809fff5413f-attempt-1', 'open', 'https://api.whatsapp.com/send?text=avval.ir/profile/mjips/%DA%A9%DB%8C%D8%A7%D9%86%D8%A7-%D9%BE%D8%B1%D9%88%D8%A7%D8%B2-%DA%A9%D8%A7%D8%B1%D9%88%D9%86', '--config', 'config/playwright.headless.json']' timed out after 15 seconds",
       "source_url": "https://api.whatsapp.com/send?text=avval.ir/profile/mjips/%DA%A9%DB%8C%D8%A7%D9%86%D8%A7-%D9%BE%D8%B1%D9%88%D8%A7%D8%B2-%DA%A9%D8%A7%D8%B1%D9%88%D9%86",
       "stage": "browser"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "company_homepage",
+      "url": "https://api.whatsapp.com/send?text=avval.ir/profile/mjips/%DA%A9%DB%8C%D8%A7%D9%86%D8%A7-%D9%BE%D8%B1%D9%88%D8%A7%D8%B2-%DA%A9%D8%A7%D8%B1%D9%88%D9%86"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%DA%A9%DB%8C%D8%A7%D9%86%D8%A7+%D9%BE%D8%B1%D9%88%D8%A7%D8%B2+%DA%A9%D8%A7%D8%B1%D9%88%D9%86%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%DA%A9%DB%8C%D8%A7%D9%86%D8%A7+%D9%BE%D8%B1%D9%88%D8%A7%D8%B2+%DA%A9%D8%A7%D8%B1%D9%88%D9%86%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%DA%A9%DB%8C%D8%A7%D9%86%D8%A7+%D9%BE%D8%B1%D9%88%D8%A7%D8%B2+%DA%A9%D8%A7%D8%B1%D9%88%D9%86%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
     }
   ],
-  "generated_at": "2026-09-01T09:28:17Z",
+  "generated_at": "2026-09-01T15:27:11Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
@@ -59,6 +93,20 @@
       "quote_or_snippet": "کیانا پرواز کارون - حمل و نقل بار | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس کیانا پرواز کارون 5.0 (1 نظر) کیانا پرواز کارون (KPK) در سال 1404 تأسیس شد و با دریافت مجوز از سازمان هواپیمایی کشوری فعالیت خود را آغاز کرده است. حمل و نقل بار آژانس مسافرتی دفتر فروش بلیط قطار تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل حمل و نقل بار تهران محله نظامی گنجوی اطلاعات تماس آدرس : تهران، منطقه 6، محله ",
       "source_quality": "directory",
       "source_title": "کیانا پرواز کارون - حمل و نقل بار | کتاب اول",
+      "source_url": "https://avval.ir/profile/mjips/%DA%A9%DB%8C%D8%A7%D9%86%D8%A7-%D9%BE%D8%B1%D9%88%D8%A7%D8%B2-%DA%A9%D8%A7%D8%B1%D9%88%D9%86"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:10Z",
+      "company_id": "ir-teh-e0f6f809fff5413f",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "کیانا پرواز کارون - حمل و نقل بار | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس کیانا پرواز کارون 5.0 (1 نظر) کیانا پرواز کارون (KPK) در سال 1404 تأسیس شد و با دریافت مجوز از سازمان هواپیمایی کشوری فعالیت خود را آغاز کرده است. حمل و نقل بار آژانس مسافرتی دفتر فروش بلیط قطار تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل حمل و نقل بار تهران محله نظامی گنجوی اطلاعات تماس آدرس : تهران، منطقه 6، محله نظامی گنجوی، خیابان سیدجمال الدین اسدآبادی (یوسف آباد)، خیابان 59، پلاک 485، طبقه دوم، واحد 24 تلفن : نمایش شماره XXXXXXXXXX تلفن همراه : نمایش شماره XXXXXXXXXX ایمیل : kianaparvazkaroun@gmail.com کد ",
+      "source_family": "book_e_avval",
+      "source_id": "src-bf6b8636b3677874",
+      "source_quality": "public_page",
+      "source_title": "کیانا پرواز کارون - حمل و نقل بار | کتاب اول",
+      "source_type": "commercial_audit",
       "source_url": "https://avval.ir/profile/mjips/%DA%A9%DB%8C%D8%A7%D9%86%D8%A7-%D9%BE%D8%B1%D9%88%D8%A7%D8%B2-%DA%A9%D8%A7%D8%B1%D9%88%D9%86"
     }
   ]

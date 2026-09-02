@@ -1,0 +1,7 @@
+Commercial audit public-page capture
+Company ID: ir-teh-fa5357304a901761
+URL: https://html.duckduckgo.com/html/?q=%22%D8%A7%D9%88%D9%BE%D8%A7%D9%84%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa
+Title: DuckDuckGo
+Source family: search_engine
+Captured at: 2026-09-01T15:26:56Z
+DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+9c39@duckduckgo.com Code: 9c39

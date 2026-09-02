@@ -1,0 +1,114 @@
+{
+  "commercial_audit": {
+    "independent_source_count": 2,
+    "pages_checked": 8,
+    "pages_usable": 5,
+    "sales_readiness": "NOT READY",
+    "source_families": [
+      "book_e_avval",
+      "company_website:tehranitransport.com"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
+  "company_id": "ir-teh-2c74b91a72ca4e9b",
+  "errors": [
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D9%88%D8%B2%DB%8C%D9%86+%D8%AA%D8%B1%D8%A7%D8%A8%D8%B1+%D8%AA%D9%87%D8%B1%D8%A7%D9%86%DB%8C%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D9%88%D8%B2%DB%8C%D9%86+%D8%AA%D8%B1%D8%A7%D8%A8%D8%B1+%D8%AA%D9%87%D8%B1%D8%A7%D9%86%DB%8C%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D9%88%D8%B2%DB%8C%D9%86+%D8%AA%D8%B1%D8%A7%D8%A8%D8%B1+%D8%AA%D9%87%D8%B1%D8%A7%D9%86%DB%8C%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    }
+  ],
+  "generated_at": "2026-09-01T15:27:11Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:40Z",
+      "company_id": "ir-teh-2c74b91a72ca4e9b",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "Home - شرکت وزین ترابر تهرانی تلفن 021-88870624-5 English تماس با ما گالری تجهیزات پروژه ها درباره ما صفحه اصلی English تماس با ما گالری تجهیزات پروژه ها درباره ما صفحه اصلی / 4 / 4 GOLDHOFER Certificate.pdf SGS.pdf Techn. data THP-SL.doc Technical description THP-SL.doc ادامه مطلب آیین نامه ها آيين نامه نحوه بارگيري حمل و مهار ايمن بار وسايل نقليه باربري جاده اي آیین نامه حمل محمولات ترافیکی incoterms2000 ادامه مطلب ما درباره شرکت وزین ترابر تهرانی (سنگین و فوق سنگین) این شرکت در سال 1340 با هدف انجام امور حمل و نقل جاده ای، پروژه های عمرانی و اقتصادی کشور و با در اختیار داشتن تعدادی کامیون و تریلرهای کفی آغاز بکار کرد. بیشتر بخوانید You cannot hope to build a better world without improving",
+      "source_family": "company_website:tehranitransport.com",
+      "source_id": "src-8e7c9a509dc5568a",
+      "source_quality": "public_page",
+      "source_title": "Home - شرکت وزین ترابر تهرانی",
+      "source_type": "commercial_audit",
+      "source_url": "https://tehranitransport.com/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:40Z",
+      "company_id": "ir-teh-2c74b91a72ca4e9b",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "وزین ترابر تهرانی - حمل و نقل بین المللی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس وزین ترابر تهرانی 4.0 (1 نظر) ایمنی بزرگترین هدف ماست (safety is our biggest concern) حمل و نقل بین المللی حمل و نقل بار تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل حمل و نقل بین المللی تهران محله کاووسیه اطلاعات تماس آدرس : تهران، منطقه 3، محله کاووسیه، آفریقا (جردن)، بالاتر از چهارراه جهان کودک، پلاک 88، برج نگین، طبقه دهم، واحد 1008 تلفکس : نمایش شماره XXXXXXXXXX فکس : نمایش شماره XXXXXXXXXX وب سایت www.tehranitransport.com ایمیل : info@tehranitransport.com کد پستی : 1969734653 نظرات لطفا به این کسب و ",
+      "source_family": "book_e_avval",
+      "source_id": "src-690036ae6474c5ba",
+      "source_quality": "public_page",
+      "source_title": "وزین ترابر تهرانی - حمل و نقل بین المللی | کتاب اول",
+      "source_type": "commercial_audit",
+      "source_url": "https://avval.ir/profile/c8d3b/%D9%88%D8%B2%DB%8C%D9%86-%D8%AA%D8%B1%D8%A7%D8%A8%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%DB%8C"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:47Z",
+      "company_id": "ir-teh-2c74b91a72ca4e9b",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "پروژه ها - شرکت وزین ترابر تهرانی تلفن 021-88870624-5 English تماس با ما گالری تجهیزات پروژه ها درباره ما صفحه اصلی English تماس با ما گالری تجهیزات پروژه ها درباره ما صفحه اصلی پروژه ها لیست پروژه های انجام یافته شرکت حمل و نقل وزین ترابر تهرانی پروژه های نفت و گاز و پترو شیمی نوع حمل نام پروژه بارگیری ، حمل و تخلیه 14 نگله فوق سنگین از 184 الی 300 تن در عسلویه پتروشیمی پارس بارگیری و حمل و تخلیه توربین و ژنراتور بوزن 134 تن از مبدا تبریز به مقصد عسلویه پتروشیمی مبین بارگیری ، حمل و تخلیه شش دستگاه تفکیک کننده 90 تنی ازچغادک بوشهر به پالایشگاه پارسیان شرکت نفت مناطق مرکزی ایران بارگیری ،حمل و تخلیه 18 عدد مخزن از اهواز به مقصد عسلویه بوزن 144 تن ابعاد 5/5*5/5*43 شرکت رآکتورساز حمل برجهای مت",
+      "source_family": "company_website:tehranitransport.com",
+      "source_id": "src-07bd886c5e77057b",
+      "source_quality": "public_page",
+      "source_title": "پروژه ها - شرکت وزین ترابر تهرانی",
+      "source_type": "commercial_audit",
+      "source_url": "https://tehranitransport.com/services/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:47Z",
+      "company_id": "ir-teh-2c74b91a72ca4e9b",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "تماس با ما - شرکت وزین ترابر تهرانی تلفن 021-88870624-5 English تماس با ما گالری تجهیزات پروژه ها درباره ما صفحه اصلی English تماس با ما گالری تجهیزات پروژه ها درباره ما صفحه اصلی تماس با ما تماس با ما دفتر مرکزی تهران – خ آفریقا – بین چهارراه جهان کودک و میرداماد – برج نگین آفریقا – بلاک ۸۸ – طبقه دهم – واحد ۱۰۰۸ تلفکس و ۲۵-۸۸۸۷۰۶۲۴-۰۲۱و ۸۸۷۸۰۰۵۵-۰۲۱ ۱۹-۸۸۸۷۴۴۱۸-۰۲۱ ایمیل info@tehranitransport.com واحد بازرگانی و استعلام حمل amir@tehranitransport.com مهندس امیر محمدی واحد اجرایی و عملیات m.tehrani@tehranitransport.com مهندس محمد تهرانیها واحد پروژه ها Hossein.tehrani@tehranitransport.com مهندس حسین تهرانیها دفتر مرکزی تهران – خ آفریقا – بین چهارراه جهان کودک و میرداماد – برج نگین آفریقا – ب",
+      "source_family": "company_website:tehranitransport.com",
+      "source_id": "src-5030124b483c0cf0",
+      "source_quality": "public_page",
+      "source_title": "تماس با ما - شرکت وزین ترابر تهرانی",
+      "source_type": "commercial_audit",
+      "source_url": "https://tehranitransport.com/get-in-touch/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:47Z",
+      "company_id": "ir-teh-2c74b91a72ca4e9b",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "درباره ما - شرکت وزین ترابر تهرانی تلفن 021-88870624-5 English تماس با ما گالری تجهیزات پروژه ها درباره ما صفحه اصلی English تماس با ما گالری تجهیزات پروژه ها درباره ما صفحه اصلی درباره ما شرکت وزین ترابر تهرانی (سنگین و فوق سنگین) این شرکت در سال 1340 با هدف انجام امور حمل و نقل جاده ای، پروژه های عمرانی و اقتصادی کشور و با در اختیار داشتن تعدادی کامیون و تریلرهای کفی آغاز بکار کرد. در طول این مدت و با توجه به نیازهای پروژه های مذکور از تعدادی کمرشکن های 5 الی 11 محور و جرثقیلهای سبک و سنگین در انجام امور بارگیری، حمل و تخلیه تجهیزات پروژه ها استفاده نمودیم تا سرانجام در سالیان اخیر با بهره گیری از تجارب مدیریت و کارکنان با سابقه این شرکت و سرمایه گذاری کلان و خرید ماشین آلات و تجهیزات از ش",
+      "source_family": "company_website:tehranitransport.com",
+      "source_id": "src-d457f5c2136fbbd1",
+      "source_quality": "public_page",
+      "source_title": "درباره ما - شرکت وزین ترابر تهرانی",
+      "source_type": "commercial_audit",
+      "source_url": "https://tehranitransport.com/about-us/"
+    }
+  ]
+}

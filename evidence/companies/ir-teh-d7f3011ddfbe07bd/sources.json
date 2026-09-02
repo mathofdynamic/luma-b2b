@@ -1,7 +1,42 @@
 {
+  "commercial_audit": {
+    "independent_source_count": 1,
+    "pages_checked": 5,
+    "pages_usable": 1,
+    "sales_readiness": "NOT READY",
+    "source_families": [
+      "book_e_avval"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
   "company_id": "ir-teh-d7f3011ddfbe07bd",
-  "errors": [],
-  "generated_at": "2026-09-01T07:52:07Z",
+  "errors": [
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "TimeoutError: timed out",
+      "stage": "company_homepage",
+      "url": "http://www.technoviera.ir"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%DA%AF%D8%B1%D9%88%D9%87+%D8%B5%D9%86%D8%B9%D8%AA%DB%8C+%D9%88%DB%8C%D8%B1%D8%A7+-+%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87+%28%D8%AA%DA%A9%D9%86%D9%88+%D9%88%DB%8C%D8%B1%D8%A7%29%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%DA%AF%D8%B1%D9%88%D9%87+%D8%B5%D9%86%D8%B9%D8%AA%DB%8C+%D9%88%DB%8C%D8%B1%D8%A7+-+%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87+%28%D8%AA%DA%A9%D9%86%D9%88+%D9%88%DB%8C%D8%B1%D8%A7%29%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%DA%AF%D8%B1%D9%88%D9%87+%D8%B5%D9%86%D8%B9%D8%AA%DB%8C+%D9%88%DB%8C%D8%B1%D8%A7+-+%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87+%28%D8%AA%DA%A9%D9%86%D9%88+%D9%88%DB%8C%D8%B1%D8%A7%29%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    }
+  ],
+  "generated_at": "2026-09-01T15:27:11Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
@@ -52,6 +87,20 @@
       "quote_or_snippet": "گروه صنعتی ویرا - فروشگاه (تکنو ویرا) - صنایع برق و الکترونیک | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس گروه صنعتی ویرا - فروشگاه (تکنو ویرا) 2.5 (1 نظر) گروه صنعتی ویرا نماینده رسمی دانفوس برق صنعتی هیوندا، پارس فانال و تولید کننده شمش رابط کلید ریل مینیاتوری شینه ارت و نول مسی و فانتزی تلفن 36615099 صنایع برق و الکترونیک تجهیزات برق صنعتی فروش تجهیزات برق صنعتی یا ساختمانی تماس ثبت نظر ارتقای پروفایل ویرایش ",
       "source_quality": "directory",
       "source_title": "گروه صنعتی ویرا - فروشگاه (تکنو ویرا) - صنایع برق و الکترونیک | کتاب اول",
+      "source_url": "https://avval.ir/profile/299e6/%DA%AF%D8%B1%D9%88%D9%87-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C-%D9%88%DB%8C%D8%B1%D8%A7-%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87-%D8%AA%DA%A9%D9%86%D9%88-%D9%88%DB%8C%D8%B1%D8%A7"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:10Z",
+      "company_id": "ir-teh-d7f3011ddfbe07bd",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "گروه صنعتی ویرا - فروشگاه (تکنو ویرا) - صنایع برق و الکترونیک | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس گروه صنعتی ویرا - فروشگاه (تکنو ویرا) 2.5 (1 نظر) گروه صنعتی ویرا نماینده رسمی دانفوس برق صنعتی هیوندا، پارس فانال و تولید کننده شمش رابط کلید ریل مینیاتوری شینه ارت و نول مسی و فانتزی تلفن 36615099 صنایع برق و الکترونیک تجهیزات برق صنعتی فروش تجهیزات برق صنعتی یا ساختمانی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل صنایع برق و الکترونیک تهران محله فردوسی اطلاعات تماس آدرس : تهران، منطقه 12، محله فردوسی ، لاله زار جنوبی، کوچه اتحادیه، پاساژ اتحادیه، طبقه اول، واحد 12 تلفن : نمایش شمار",
+      "source_family": "book_e_avval",
+      "source_id": "src-8b52a462cdf772d1",
+      "source_quality": "public_page",
+      "source_title": "گروه صنعتی ویرا - فروشگاه (تکنو ویرا) - صنایع برق و الکترونیک | کتاب اول",
+      "source_type": "commercial_audit",
       "source_url": "https://avval.ir/profile/299e6/%DA%AF%D8%B1%D9%88%D9%87-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C-%D9%88%DB%8C%D8%B1%D8%A7-%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87-%D8%AA%DA%A9%D9%86%D9%88-%D9%88%DB%8C%D8%B1%D8%A7"
     }
   ]

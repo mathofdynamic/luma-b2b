@@ -1,7 +1,32 @@
 {
+  "commercial_audit": {
+    "independent_source_count": 2,
+    "pages_checked": 9,
+    "pages_usable": 7,
+    "sales_readiness": "NOT READY",
+    "source_families": [
+      "book_e_avval",
+      "company_website:anbarajare.com",
+      "search_engine"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
   "company_id": "ir-teh-4c8e703e74b1aec4",
-  "errors": [],
-  "generated_at": "2026-09-01T08:11:13Z",
+  "errors": [
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D9%88%DB%8C.+%D8%A2%DB%8C.+%D9%BE%DB%8C%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D9%88%DB%8C.+%D8%A2%DB%8C.+%D9%BE%DB%8C%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    }
+  ],
+  "generated_at": "2026-09-01T15:27:09Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
@@ -161,6 +186,104 @@
       "source_quality": "company_site",
       "source_title": "اجاره انبار در تهران با قیمت مناسب | انبار VIP تهران",
       "source_url": "https://anbarajare.com/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:08Z",
+      "company_id": "ir-teh-4c8e703e74b1aec4",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+9c39@duckduckgo.com Code: 9c39",
+      "source_family": "search_engine",
+      "source_id": "src-db78bfd56deb5b13",
+      "source_quality": "search_index",
+      "source_title": "DuckDuckGo",
+      "source_type": "commercial_audit",
+      "source_url": "https://html.duckduckgo.com/html/?q=%22%D9%88%DB%8C.+%D8%A2%DB%8C.+%D9%BE%DB%8C%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:08Z",
+      "company_id": "ir-teh-4c8e703e74b1aec4",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "وی. آی. پی - انبار عمومی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس وی. آی. پی اجاره انواع انبار برای وسایت و لوازم منزل و شرکت در سراسر استان تهران و کرج انبار عمومی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل انبار عمومی تهران اطلاعات تماس آدرس : تهران، خاوران، بزرگراه امام رضا، بعد از میدان آقانور تلفن : نمایش شماره XXXXXXXXXX تلفن همراه : نمایش شماره XXXXXXXXXX وب سایت anbarajare.com/ ایمیل : info@anbarajare.com توضیحات اجاره انبار کانتینری داخل سوله مسقف، مخصوص وسایل منزل و لوازم اداری در تهران و کرج در 4 شعبه نظرات لطفا به این کسب و کار امتیاز بدید و نظر خودتون رو درباره این کسب و ",
+      "source_family": "book_e_avval",
+      "source_id": "src-78ac9ea0e0016ef1",
+      "source_quality": "public_page",
+      "source_title": "وی. آی. پی - انبار عمومی | کتاب اول",
+      "source_type": "commercial_audit",
+      "source_url": "https://avval.ir/profile/456ed/%D9%88%DB%8C-%D8%A2%DB%8C-%D9%BE%DB%8C"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:08Z",
+      "company_id": "ir-teh-4c8e703e74b1aec4",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+9c39@duckduckgo.com Code: 9c39",
+      "source_family": "search_engine",
+      "source_id": "src-438272ea92243cb8",
+      "source_quality": "search_index",
+      "source_title": "DuckDuckGo",
+      "source_type": "commercial_audit",
+      "source_url": "https://html.duckduckgo.com/html/?q=%22https+anbarajare.com%22+Tehran+Iran+company&kl=ir-fa"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:08Z",
+      "company_id": "ir-teh-4c8e703e74b1aec4",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "اجاره انبار در تهران با قیمت مناسب | انبار VIP تهران پرش به محتوا خانه درباره ما تماس با ما گالری قیمت اجاره انبار شعبات اجاره انبار اجاره انبار در شمال تهران اجاره انبار در تجریش، نیاوران، جردن و … اجاره انبار در فرمانیه، کامرانیه و … اجاره انبار در شمیرانات اجاره انبار در سعادت آباد اجاره انبار در پاسداران اجاره انبار در کن سولقان اجاره انبار در مرکز تهران اجاره انبار در انقلاب اجاره انبار در جمهوری اجاره انبار در بازار اجاره انبار در غرب تهران اجاره انبار در شهران اجاره انبار در شهر قدس اجاره انبار در صادقیه، چیتگر، پونک و … اجاره انبار در منطقه 22 تهران اجاره انبار در گیشا اجاره انبار در جنت آباد اجاره انبار در ستارخان اجاره کانکس در تهرانسر + بیمه و امنیت بالا اجاره انبار در شرق تهران ا",
+      "source_family": "company_website:anbarajare.com",
+      "source_id": "src-a4e9944ca58c9ae2",
+      "source_quality": "public_page",
+      "source_title": "اجاره انبار در تهران با قیمت مناسب | انبار VIP تهران",
+      "source_type": "commercial_audit",
+      "source_url": "https://anbarajare.com/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:15Z",
+      "company_id": "ir-teh-4c8e703e74b1aec4",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "اجاره انبار پوشاک و تولیدی: هزینه و انواع انبارها - انبار VIP تهران پرش به محتوا خانه درباره ما تماس با ما گالری قیمت اجاره انبار شعبات اجاره انبار اجاره انبار در شمال تهران اجاره انبار در تجریش، نیاوران، جردن و … اجاره انبار در فرمانیه، کامرانیه و … اجاره انبار در شمیرانات اجاره انبار در سعادت آباد اجاره انبار در پاسداران اجاره انبار در کن سولقان اجاره انبار در مرکز تهران اجاره انبار در انقلاب اجاره انبار در جمهوری اجاره انبار در بازار اجاره انبار در غرب تهران اجاره انبار در شهران اجاره انبار در شهر قدس اجاره انبار در صادقیه، چیتگر، پونک و … اجاره انبار در منطقه 22 تهران اجاره انبار در گیشا اجاره انبار در جنت آباد اجاره انبار در ستارخان اجاره کانکس در تهرانسر + بیمه و امنیت بالا اجاره انبار",
+      "source_family": "company_website:anbarajare.com",
+      "source_id": "src-7f6fb7aafc00bdd2",
+      "source_quality": "public_page",
+      "source_title": "اجاره انبار پوشاک و تولیدی: هزینه و انواع انبارها - انبار VIP تهران",
+      "source_type": "commercial_audit",
+      "source_url": "https://anbarajare.com/clothing-and-production-warehouse-rental/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:15Z",
+      "company_id": "ir-teh-4c8e703e74b1aec4",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "تماس با انبار VIP تهران - انبار VIP تهران پرش به محتوا خانه درباره ما تماس با ما گالری قیمت اجاره انبار شعبات اجاره انبار اجاره انبار در شمال تهران اجاره انبار در تجریش، نیاوران، جردن و … اجاره انبار در فرمانیه، کامرانیه و … اجاره انبار در شمیرانات اجاره انبار در سعادت آباد اجاره انبار در پاسداران اجاره انبار در کن سولقان اجاره انبار در مرکز تهران اجاره انبار در انقلاب اجاره انبار در جمهوری اجاره انبار در بازار اجاره انبار در غرب تهران اجاره انبار در شهران اجاره انبار در شهر قدس اجاره انبار در صادقیه، چیتگر، پونک و … اجاره انبار در منطقه 22 تهران اجاره انبار در گیشا اجاره انبار در جنت آباد اجاره انبار در ستارخان اجاره کانکس در تهرانسر + بیمه و امنیت بالا اجاره انبار در شرق تهران اجاره انبار ",
+      "source_family": "company_website:anbarajare.com",
+      "source_id": "src-f137b05d86c86cec",
+      "source_quality": "public_page",
+      "source_title": "تماس با انبار VIP تهران - انبار VIP تهران",
+      "source_type": "commercial_audit",
+      "source_url": "https://anbarajare.com/contact/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:15Z",
+      "company_id": "ir-teh-4c8e703e74b1aec4",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "درباره ما - انبار VIP تهران پرش به محتوا خانه درباره ما تماس با ما گالری قیمت اجاره انبار شعبات اجاره انبار اجاره انبار در شمال تهران اجاره انبار در تجریش، نیاوران، جردن و … اجاره انبار در فرمانیه، کامرانیه و … اجاره انبار در شمیرانات اجاره انبار در سعادت آباد اجاره انبار در پاسداران اجاره انبار در کن سولقان اجاره انبار در مرکز تهران اجاره انبار در انقلاب اجاره انبار در جمهوری اجاره انبار در بازار اجاره انبار در غرب تهران اجاره انبار در شهران اجاره انبار در شهر قدس اجاره انبار در صادقیه، چیتگر، پونک و … اجاره انبار در منطقه 22 تهران اجاره انبار در گیشا اجاره انبار در جنت آباد اجاره انبار در ستارخان اجاره کانکس در تهرانسر + بیمه و امنیت بالا اجاره انبار در شرق تهران اجاره انبار در هروی، حسین ",
+      "source_family": "company_website:anbarajare.com",
+      "source_id": "src-f64eb01cd1f916d3",
+      "source_quality": "public_page",
+      "source_title": "درباره ما - انبار VIP تهران",
+      "source_type": "commercial_audit",
+      "source_url": "https://anbarajare.com/about-us/"
     }
   ]
 }

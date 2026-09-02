@@ -1,0 +1,120 @@
+{
+  "commercial_audit": {
+    "independent_source_count": 2,
+    "pages_checked": 9,
+    "pages_usable": 5,
+    "sales_readiness": "NOT READY",
+    "source_families": [
+      "book_e_avval",
+      "company_website:caspiantamin.com"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
+  "company_id": "ir-teh-2667467d077458bd",
+  "errors": [
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%DA%A9%D8%A7%D8%B3%D9%BE%DB%8C%D9%86+%D8%AA%D8%A7%D9%85%DB%8C%D9%86+%28%D8%B3%D9%87%D8%A7%D9%85%DB%8C+%D8%B9%D8%A7%D9%85%29+-+%D8%AF%D9%81%D8%AA%D8%B1+%D9%85%D8%B1%DA%A9%D8%B2%DB%8C%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22TPICO%22+Tehran+Iran+company&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%DA%A9%D8%A7%D8%B3%D9%BE%DB%8C%D9%86+%D8%AA%D8%A7%D9%85%DB%8C%D9%86+%28%D8%B3%D9%87%D8%A7%D9%85%DB%8C+%D8%B9%D8%A7%D9%85%29+-+%D8%AF%D9%81%D8%AA%D8%B1+%D9%85%D8%B1%DA%A9%D8%B2%DB%8C%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%DA%A9%D8%A7%D8%B3%D9%BE%DB%8C%D9%86+%D8%AA%D8%A7%D9%85%DB%8C%D9%86+%28%D8%B3%D9%87%D8%A7%D9%85%DB%8C+%D8%B9%D8%A7%D9%85%29+-+%D8%AF%D9%81%D8%AA%D8%B1+%D9%85%D8%B1%DA%A9%D8%B2%DB%8C%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    }
+  ],
+  "generated_at": "2026-09-01T15:27:12Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:42Z",
+      "company_id": "ir-teh-2667467d077458bd",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "شرکت کاسپین تامین (سهامی عام) - دفتر مرکزی - داروسازی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس شرکت کاسپین تامین (سهامی عام) - دفتر مرکزی 5.0 (1 نظر) تولید اشکال نیمه جامد (کرم، پماد، ژل و شیاف) ، محلولهای خوراکی و شربتها، آمپول داروسازی پخش دارو تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل داروسازی تهران محله جهاد اطلاعات تماس آدرس : تهران، منطقه 6، محله جهاد، میدان جهاد (فاطمی)، خیابان بیستون، پلاک 1، ساختمان دارو گستر تلفن : نمایش شماره XXXXXXXXXX فکس : نمایش شماره XXXXXXXXXX وب سایت www.caspiantamin.com/ ایمیل : info@caspiantamin.com کد پستی : 1431663135 توضیحات شرکت داروسازی کاسپین",
+      "source_family": "book_e_avval",
+      "source_id": "src-26a1789a6f95ef24",
+      "source_quality": "public_page",
+      "source_title": "شرکت کاسپین تامین (سهامی عام) - دفتر مرکزی - داروسازی | کتاب اول",
+      "source_type": "commercial_audit",
+      "source_url": "https://avval.ir/profile/8bafe/%D8%B4%D8%B1%DA%A9%D8%AA-%DA%A9%D8%A7%D8%B3%D9%BE%DB%8C%D9%86-%D8%AA%D8%A7%D9%85%DB%8C%D9%86-%D8%B3%D9%87%D8%A7%D9%85%DB%8C-%D8%B9%D8%A7%D9%85-%D8%AF%D9%81%D8%AA%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:42Z",
+      "company_id": "ir-teh-2667467d077458bd",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "خانه - Caspian tamin pharmaceutical Co. پرش به محتوا فارسی English صفحه نخست محصولات گروه درمانی ضد درد، ضد التهاب و تب بر ضد میاستنی، شل کننده های عضلانی، مسدود کننده‌های عصبی-عضلانی داروهای هورمونی و آنابولیک آنتی هیستامین، برونکودیلاتور و ضد آسم فرآورده های هموستاتیک، قلبی و عروقی کورتیکواستروئید ضد باکتری گوارشی آنتاگونیست مکمل های غذایی، ویتامین ها و سایر مواد الکترولیت پوستی و ضد آفتاب ضد قارچ تعدیل کننده های ایمنی شکل دارویی آمپول سرنگ آماده تزریق شربت و محلول خوراکی شیاف کرم، پماد و ژل ویال واحدهای سازمان تولید تحقیق و توسعه تضمین و کنترل کیفیت بازاریابی و فروش صادرات خبر ها تماس با ما پورتال سهامداران ثبت شکایت ارزیابی رضایت شرکتهای پخش ارزیابی رضایت داروخانه ها ارزیابی رضایت پزشکان",
+      "source_family": "company_website:caspiantamin.com",
+      "source_id": "src-fe6cc7bd22bcd8e1",
+      "source_quality": "public_page",
+      "source_title": "خانه - Caspian tamin pharmaceutical Co.",
+      "source_type": "commercial_audit",
+      "source_url": "https://caspiantamin.com/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:48Z",
+      "company_id": "ir-teh-2667467d077458bd",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "بایگانی‌های داروهای هورمونی و آنابولیک - Caspian tamin pharmaceutical Co. پرش به محتوا فارسی English صفحه نخست محصولات گروه درمانی ضد درد، ضد التهاب و تب بر ضد میاستنی، شل کننده های عضلانی، مسدود کننده‌های عصبی-عضلانی داروهای هورمونی و آنابولیک آنتی هیستامین، برونکودیلاتور و ضد آسم فرآورده های هموستاتیک، قلبی و عروقی کورتیکواستروئید ضد باکتری گوارشی آنتاگونیست مکمل های غذایی، ویتامین ها و سایر مواد الکترولیت پوستی و ضد آفتاب ضد قارچ تعدیل کننده های ایمنی شکل دارویی آمپول سرنگ آماده تزریق شربت و محلول خوراکی شیاف کرم، پماد و ژل ویال واحدهای سازمان تولید تحقیق و توسعه تضمین و کنترل کیفیت بازاریابی و فروش صادرات خبر ها تماس با ما پورتال سهامداران ثبت شکایت ارزیابی رضایت شرکتهای پخش ارزیابی رضای",
+      "source_family": "company_website:caspiantamin.com",
+      "source_id": "src-131cd6b1bbb8b774",
+      "source_quality": "public_page",
+      "source_title": "بایگانی‌های داروهای هورمونی و آنابولیک - Caspian tamin pharmaceutical Co.",
+      "source_type": "commercial_audit",
+      "source_url": "https://caspiantamin.com/products-category/group-therapy/hormonal-anabolic-drugs/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:48Z",
+      "company_id": "ir-teh-2667467d077458bd",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "بایگانی‌های ضد درد، ضد التهاب و تب بر - Caspian tamin pharmaceutical Co. پرش به محتوا فارسی English صفحه نخست محصولات گروه درمانی ضد درد، ضد التهاب و تب بر ضد میاستنی، شل کننده های عضلانی، مسدود کننده‌های عصبی-عضلانی داروهای هورمونی و آنابولیک آنتی هیستامین، برونکودیلاتور و ضد آسم فرآورده های هموستاتیک، قلبی و عروقی کورتیکواستروئید ضد باکتری گوارشی آنتاگونیست مکمل های غذایی، ویتامین ها و سایر مواد الکترولیت پوستی و ضد آفتاب ضد قارچ تعدیل کننده های ایمنی شکل دارویی آمپول سرنگ آماده تزریق شربت و محلول خوراکی شیاف کرم، پماد و ژل ویال واحدهای سازمان تولید تحقیق و توسعه تضمین و کنترل کیفیت بازاریابی و فروش صادرات خبر ها تماس با ما پورتال سهامداران ثبت شکایت ارزیابی رضایت شرکتهای پخش ارزیابی رضایت",
+      "source_family": "company_website:caspiantamin.com",
+      "source_id": "src-250014bf3917e1e7",
+      "source_quality": "public_page",
+      "source_title": "بایگانی‌های ضد درد، ضد التهاب و تب بر - Caspian tamin pharmaceutical Co.",
+      "source_type": "commercial_audit",
+      "source_url": "https://caspiantamin.com/products-category/group-therapy/analgesics-anti-inflammatory-antipyretics-drugs/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:48Z",
+      "company_id": "ir-teh-2667467d077458bd",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "بایگانی‌های ضد میاستنی و شل کننده عضلانی - Caspian tamin pharmaceutical Co. پرش به محتوا فارسی English صفحه نخست محصولات گروه درمانی ضد درد، ضد التهاب و تب بر ضد میاستنی، شل کننده های عضلانی، مسدود کننده‌های عصبی-عضلانی داروهای هورمونی و آنابولیک آنتی هیستامین، برونکودیلاتور و ضد آسم فرآورده های هموستاتیک، قلبی و عروقی کورتیکواستروئید ضد باکتری گوارشی آنتاگونیست مکمل های غذایی، ویتامین ها و سایر مواد الکترولیت پوستی و ضد آفتاب ضد قارچ تعدیل کننده های ایمنی شکل دارویی آمپول سرنگ آماده تزریق شربت و محلول خوراکی شیاف کرم، پماد و ژل ویال واحدهای سازمان تولید تحقیق و توسعه تضمین و کنترل کیفیت بازاریابی و فروش صادرات خبر ها تماس با ما پورتال سهامداران ثبت شکایت ارزیابی رضایت شرکتهای پخش ارزیابی رض",
+      "source_family": "company_website:caspiantamin.com",
+      "source_id": "src-a53bf90c7aa8d3ba",
+      "source_quality": "public_page",
+      "source_title": "بایگانی‌های ضد میاستنی و شل کننده عضلانی - Caspian tamin pharmaceutical Co.",
+      "source_type": "commercial_audit",
+      "source_url": "https://caspiantamin.com/products-category/group-therapy/antimyasthenic-muscle-relaxant/"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "commercial_audit": {
+    "independent_source_count": 1,
+    "pages_checked": 5,
+    "pages_usable": 1,
+    "sales_readiness": "NOT READY",
+    "source_families": [
+      "book_e_avval"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
+  "company_id": "ir-teh-444ce494be100f94",
+  "errors": [
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%DB%8C%DA%A9%D8%AA%D8%A7+%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA+%D8%B1%D8%A7%D8%AF%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%DB%8C%DA%A9%D8%AA%D8%A7+%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA+%D8%B1%D8%A7%D8%AF%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%DB%8C%DA%A9%D8%AA%D8%A7+%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA+%D8%B1%D8%A7%D8%AF%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    }
+  ],
+  "generated_at": "2026-09-01T15:27:11Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:41Z",
+      "company_id": "ir-teh-444ce494be100f94",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "yektatejarat.com yektatejarat.com Something amazing will be constructed here... To change this page, upload your website into the public_html directory. Powered by Created at: Sun Oct 26 10:48:50 2025",
+      "source_family": "company_website:yektatejarat.com",
+      "source_id": "src-467763e367d85c19",
+      "source_quality": "public_page",
+      "source_title": "yektatejarat.com",
+      "source_type": "commercial_audit",
+      "source_url": "http://www.yektatejarat.com"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:41Z",
+      "company_id": "ir-teh-444ce494be100f94",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "یکتا تجارت راد - ترخیص کالا | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس یکتا تجارت راد یکتا تجارت راد کارگزار رسمی گمرک ایران ترخیص کالا از گمرک بندرعباس ترخیص کالا از گمرکات تهران عضو اتحادیه کارگزاران گمرکی ایران ترخیص کالا گمرک واردات صادرات کالا حمل و نقل دریایی تماس ثبت نظر ویرایش اشتراک گذاری دسته‌بندی مشاغل ترخیص کالا تهران محله جهاد اطلاعات تماس آدرس : تهران، منطقه 6، محله جهاد، میدان جهاد (فاطمی)، خیابان چهلستون، پلاک 30، واحد 5 تلفن : نمایش شماره XXXXXXXXXX تلفن همراه : نمایش شماره XXXXXXXXXX وب سایت www.yektatejarat.com ایمیل : info@yektatejarat.com کد پستی : 1431673416 صفحات اجتماعی : لیست خدمات ",
+      "source_family": "book_e_avval",
+      "source_id": "src-d33b12255410b8ba",
+      "source_quality": "public_page",
+      "source_title": "یکتا تجارت راد - ترخیص کالا | کتاب اول",
+      "source_type": "commercial_audit",
+      "source_url": "https://avval.ir/profile/aad38/%DB%8C%DA%A9%D8%AA%D8%A7-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D8%B1%D8%A7%D8%AF"
+    }
+  ]
+}

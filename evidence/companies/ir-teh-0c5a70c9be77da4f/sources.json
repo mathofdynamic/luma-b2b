@@ -1,4 +1,14 @@
 {
+  "commercial_audit": {
+    "independent_source_count": 1,
+    "pages_checked": 5,
+    "pages_usable": 1,
+    "sales_readiness": "NOT READY",
+    "source_families": [
+      "book_e_avval"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
   "company_id": "ir-teh-0c5a70c9be77da4f",
   "errors": [
     {
@@ -22,9 +32,33 @@
       "error": "TimeoutExpired: Command '['/Users/mohammad/.codex/skills/playwright/scripts/playwright_cli.sh', '-s=luma-b2b-ir-teh-0c5a70c9be77da4f-attempt-4', 'open', 'https://avval.ir/profile/93c36/%D8%AA%D8%AD%D9%82%DB%8C%D9%82-%D9%88-%D8%AA%D9%88%D8%B3%D9%87-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF%DB%8C-%D8%A2%D8%B3%DB%8C%D8%A7-%D8%B3%D9%88%D9%84%D8%A7%D8%B1', '--config', 'config/playwright.headless.json']' timed out after 55 seconds",
       "source_url": "https://avval.ir/profile/93c36/%D8%AA%D8%AD%D9%82%DB%8C%D9%82-%D9%88-%D8%AA%D9%88%D8%B3%D9%87-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF%DB%8C-%D8%A2%D8%B3%DB%8C%D8%A7-%D8%B3%D9%88%D9%84%D8%A7%D8%B1",
       "stage": "browser"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 503: Service Unavailable",
+      "stage": "company_homepage",
+      "url": "http://www.asiasolar.co"
+    },
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%AA%D8%AD%D9%82%DB%8C%D9%82+%D9%88+%D8%AA%D9%88%D8%B3%D9%87+%D8%A7%D9%86%D8%B1%DA%98%DB%8C+%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF%DB%8C+%D8%A2%D8%B3%DB%8C%D8%A7+%D8%B3%D9%88%D9%84%D8%A7%D8%B1%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%AA%D8%AD%D9%82%DB%8C%D9%82+%D9%88+%D8%AA%D9%88%D8%B3%D9%87+%D8%A7%D9%86%D8%B1%DA%98%DB%8C+%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF%DB%8C+%D8%A2%D8%B3%DB%8C%D8%A7+%D8%B3%D9%88%D9%84%D8%A7%D8%B1%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%AA%D8%AD%D9%82%DB%8C%D9%82+%D9%88+%D8%AA%D9%88%D8%B3%D9%87+%D8%A7%D9%86%D8%B1%DA%98%DB%8C+%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF%DB%8C+%D8%A2%D8%B3%DB%8C%D8%A7+%D8%B3%D9%88%D9%84%D8%A7%D8%B1%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
     }
   ],
-  "generated_at": "2026-09-01T08:45:28Z",
+  "generated_at": "2026-09-01T15:27:11Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
@@ -75,6 +109,20 @@
       "quote_or_snippet": "تحقیق و توسه انرژی خورشیدی آسیا سولار - دکل مخابراتی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس تحقیق و توسه انرژی خورشیدی آسیا سولار چراغ دکل خورشیدی آسیا سولار طراحی و ساخته شده با آخرین استانداردها سازمان هوانوردی بین المللی (ایکائو) جهت مرتفع نمودن تمامی نیاز های ایمنی و هشدار دکل مخابراتی تولید و پخش لوازم برقی تولید تجهیزات مخابراتی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل دکل مخابر",
       "source_quality": "directory",
       "source_title": "تحقیق و توسه انرژی خورشیدی آسیا سولار - دکل مخابراتی | کتاب اول",
+      "source_url": "https://avval.ir/profile/93c36/%D8%AA%D8%AD%D9%82%DB%8C%D9%82-%D9%88-%D8%AA%D9%88%D8%B3%D9%87-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF%DB%8C-%D8%A2%D8%B3%DB%8C%D8%A7-%D8%B3%D9%88%D9%84%D8%A7%D8%B1"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:11Z",
+      "company_id": "ir-teh-0c5a70c9be77da4f",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "تحقیق و توسه انرژی خورشیدی آسیا سولار - دکل مخابراتی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس تحقیق و توسه انرژی خورشیدی آسیا سولار چراغ دکل خورشیدی آسیا سولار طراحی و ساخته شده با آخرین استانداردها سازمان هوانوردی بین المللی (ایکائو) جهت مرتفع نمودن تمامی نیاز های ایمنی و هشدار دکل مخابراتی تولید و پخش لوازم برقی تولید تجهیزات مخابراتی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل دکل مخابراتی تهران محله رضویه اطلاعات تماس آدرس : تهران، منطقه 15، محله رضویه، خاوران، شهرک رضویه، خیابان اسکندرلو، کوچه فکوری، پلاک 74 تلفن : نمایش شماره XXXXXXXXXX تلفن همراه : نمایش شماره XXXXXXXXXX وب سایت",
+      "source_family": "book_e_avval",
+      "source_id": "src-1bccb3fcd1673669",
+      "source_quality": "public_page",
+      "source_title": "تحقیق و توسه انرژی خورشیدی آسیا سولار - دکل مخابراتی | کتاب اول",
+      "source_type": "commercial_audit",
       "source_url": "https://avval.ir/profile/93c36/%D8%AA%D8%AD%D9%82%DB%8C%D9%82-%D9%88-%D8%AA%D9%88%D8%B3%D9%87-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF%DB%8C-%D8%A2%D8%B3%DB%8C%D8%A7-%D8%B3%D9%88%D9%84%D8%A7%D8%B1"
     }
   ]

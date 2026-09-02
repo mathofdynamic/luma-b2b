@@ -1,7 +1,43 @@
 {
+  "commercial_audit": {
+    "independent_source_count": 2,
+    "pages_checked": 9,
+    "pages_usable": 5,
+    "sales_readiness": "READY FOR OUTREACH",
+    "source_families": [
+      "book_e_avval",
+      "company_website:mandegarcommerce.com"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
   "company_id": "ir-teh-852d4aee14a54c4a",
-  "errors": [],
-  "generated_at": "2026-09-01T08:11:21Z",
+  "errors": [
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22https+mandegarcommerce.com%22+Tehran+Iran+company&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    }
+  ],
+  "generated_at": "2026-09-01T15:27:11Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
@@ -158,6 +194,76 @@
       "source_quality": "company_site",
       "source_title": "صفحه اصلی | بازرگانی ماندگار | واردات و صادرات | ترخیص کالا | حمل و نقل",
       "source_url": "https://mandegarcommerce.com/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:11Z",
+      "company_id": "ir-teh-852d4aee14a54c4a",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "بازرگانی ماندگار - حمل و نقل بین المللی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس بازرگانی ماندگار با سال ها سابقه درخشان در زمینه واردات، صادرات، ترخیص کالا و با در اختیار داشتن کادر مجرب ، اماده ارائه خدمات بازرگانی در خدمت شما عزیزان می باشیم. حمل و نقل بین المللی ترخیص کالا تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل حمل و نقل بین المللی تهران محله عباس آباد اطلاعات تماس آدرس : تهران، منطقه 7، محله عباس آباد، خیابان سهروردی شمالی، خیابان سورنا، پلاک 44 تلفن : نمایش شماره XXXXXXXXXX وب سایت www.mandegarcommerce.com ایمیل : mandegarcommerce.com@gmail.com صفحات اجتماعی : نظرات لطفا به ",
+      "source_family": "book_e_avval",
+      "source_id": "src-19ab5bd8865afcae",
+      "source_quality": "public_page",
+      "source_title": "بازرگانی ماندگار - حمل و نقل بین المللی | کتاب اول",
+      "source_type": "commercial_audit",
+      "source_url": "https://avval.ir/profile/4c383/%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:11Z",
+      "company_id": "ir-teh-852d4aee14a54c4a",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "صفحه اصلی | بازرگانی ماندگار | واردات و صادرات | ترخیص کالا | حمل و نقل Skip to content صفحه اصلی خانه بلاگ فروشگاه ترندیول خدمات واردات کالا چین امارات ترکیه اروپا آمریکا خرید کالا چین امارات ترکیه اروپا آمریکا صادرات کالا بازاریابی و تحقیق بازار خرید اینترنتی ترندیول (ترکیه) آمازون علی بابا ebay ثبت سفارش کالا حواله ارزی تخصیص ارز رفع تعهد صادراتی رفع تعهد وارداتی ضمانت بانکی ترخیص کالا گمرک فرودگاه امام گمرک شهریار گمرک غرب گمرک شهید رجایی گمرک پیام کرج گمرک بازرگان ترخیص گمرکات خارجی امارات ترکیه حمل و نقل هوایی دریایی زمینی ریلی اخبار و مقالات اخبار روز حوزه تجارت درباره ما داستان بازرگانی ماندگار تماس با ما با مجموعه ماندگار در تماس باشید صفحات دیگر اخبار و مقالات درباره ما تماس با ما ",
+      "source_family": "company_website:mandegarcommerce.com",
+      "source_id": "src-70c2c087aee67660",
+      "source_quality": "public_page",
+      "source_title": "صفحه اصلی | بازرگانی ماندگار | واردات و صادرات | ترخیص کالا | حمل و نقل",
+      "source_type": "commercial_audit",
+      "source_url": "https://mandegarcommerce.com/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:18Z",
+      "company_id": "ir-teh-852d4aee14a54c4a",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "تماس با ما | بازرگانی ماندگار | واردات و صادرات | ترخیص کالا | حمل و نقل Skip to content صفحه اصلی خانه بلاگ فروشگاه ترندیول خدمات واردات کالا چین امارات ترکیه اروپا آمریکا خرید کالا چین امارات ترکیه اروپا آمریکا صادرات کالا بازاریابی و تحقیق بازار خرید اینترنتی ترندیول (ترکیه) آمازون علی بابا ebay ثبت سفارش کالا حواله ارزی تخصیص ارز رفع تعهد صادراتی رفع تعهد وارداتی ضمانت بانکی ترخیص کالا گمرک فرودگاه امام گمرک شهریار گمرک غرب گمرک شهید رجایی گمرک پیام کرج گمرک بازرگان ترخیص گمرکات خارجی امارات ترکیه حمل و نقل هوایی دریایی زمینی ریلی اخبار و مقالات اخبار روز حوزه تجارت درباره ما داستان بازرگانی ماندگار تماس با ما با مجموعه ماندگار در تماس باشید صفحات دیگر اخبار و مقالات درباره ما تماس با ما",
+      "source_family": "company_website:mandegarcommerce.com",
+      "source_id": "src-df64e2cc4abff61c",
+      "source_quality": "public_page",
+      "source_title": "تماس با ما | بازرگانی ماندگار | واردات و صادرات | ترخیص کالا | حمل و نقل",
+      "source_type": "commercial_audit",
+      "source_url": "https://mandegarcommerce.com/contact/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:18Z",
+      "company_id": "ir-teh-852d4aee14a54c4a",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "درباره ما | بازرگانی ماندگار | واردات و صادرات | ترخیص کالا | حمل و نقل Skip to content صفحه اصلی خانه بلاگ فروشگاه ترندیول خدمات واردات کالا چین امارات ترکیه اروپا آمریکا خرید کالا چین امارات ترکیه اروپا آمریکا صادرات کالا بازاریابی و تحقیق بازار خرید اینترنتی ترندیول (ترکیه) آمازون علی بابا ebay ثبت سفارش کالا حواله ارزی تخصیص ارز رفع تعهد صادراتی رفع تعهد وارداتی ضمانت بانکی ترخیص کالا گمرک فرودگاه امام گمرک شهریار گمرک غرب گمرک شهید رجایی گمرک پیام کرج گمرک بازرگان ترخیص گمرکات خارجی امارات ترکیه حمل و نقل هوایی دریایی زمینی ریلی اخبار و مقالات اخبار روز حوزه تجارت درباره ما داستان بازرگانی ماندگار تماس با ما با مجموعه ماندگار در تماس باشید صفحات دیگر اخبار و مقالات درباره ما تماس با ما ",
+      "source_family": "company_website:mandegarcommerce.com",
+      "source_id": "src-bf44d31a934a3002",
+      "source_quality": "public_page",
+      "source_title": "درباره ما | بازرگانی ماندگار | واردات و صادرات | ترخیص کالا | حمل و نقل",
+      "source_type": "commercial_audit",
+      "source_url": "https://mandegarcommerce.com/about-mandegar/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:18Z",
+      "company_id": "ir-teh-852d4aee14a54c4a",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "خدمات بازرگانی | بازرگانی ماندگار | واردات و صادرات | ترخیص کالا | حمل و نقل Skip to content صفحه اصلی خانه بلاگ فروشگاه ترندیول خدمات واردات کالا چین امارات ترکیه اروپا آمریکا خرید کالا چین امارات ترکیه اروپا آمریکا صادرات کالا بازاریابی و تحقیق بازار خرید اینترنتی ترندیول (ترکیه) آمازون علی بابا ebay ثبت سفارش کالا حواله ارزی تخصیص ارز رفع تعهد صادراتی رفع تعهد وارداتی ضمانت بانکی ترخیص کالا گمرک فرودگاه امام گمرک شهریار گمرک غرب گمرک شهید رجایی گمرک پیام کرج گمرک بازرگان ترخیص گمرکات خارجی امارات ترکیه حمل و نقل هوایی دریایی زمینی ریلی اخبار و مقالات اخبار روز حوزه تجارت درباره ما داستان بازرگانی ماندگار تماس با ما با مجموعه ماندگار در تماس باشید صفحات دیگر اخبار و مقالات درباره ما تماس ب",
+      "source_family": "company_website:mandegarcommerce.com",
+      "source_id": "src-0242858d6700446f",
+      "source_quality": "public_page",
+      "source_title": "خدمات بازرگانی | بازرگانی ماندگار | واردات و صادرات | ترخیص کالا | حمل و نقل",
+      "source_type": "commercial_audit",
+      "source_url": "https://mandegarcommerce.com/our-services/"
     }
   ]
 }

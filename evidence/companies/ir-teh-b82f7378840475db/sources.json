@@ -1,7 +1,42 @@
 {
+  "commercial_audit": {
+    "independent_source_count": 1,
+    "pages_checked": 5,
+    "pages_usable": 1,
+    "sales_readiness": "NOT READY",
+    "source_families": [
+      "book_e_avval"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
   "company_id": "ir-teh-b82f7378840475db",
-  "errors": [],
-  "generated_at": "2026-09-01T08:29:43Z",
+  "errors": [
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "company_homepage",
+      "url": "http://www.shidarian.com"
+    },
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%B4%DB%8C%D8%AF%D8%A2%D8%B1%DB%8C%D9%86+%D8%AA%D9%87%D8%B1%D8%A7%D9%86%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%B4%DB%8C%D8%AF%D8%A2%D8%B1%DB%8C%D9%86+%D8%AA%D9%87%D8%B1%D8%A7%D9%86%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%B4%DB%8C%D8%AF%D8%A2%D8%B1%DB%8C%D9%86+%D8%AA%D9%87%D8%B1%D8%A7%D9%86%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    }
+  ],
+  "generated_at": "2026-09-01T15:27:12Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
@@ -52,6 +87,20 @@
       "quote_or_snippet": "شرکت شیدآرین تهران - نگهداری و تعمیر کارخانجات نفت و گاز و پتروشیمی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس شرکت شیدآرین تهران نگهداری و تعمیر کارخانجات نفت و گاز و پتروشیمی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل نگهداری و تعمیر کارخانجات نفت و گاز و پتروشیمی تهران منطقه 2 اطلاعات تماس آدرس : تهران، منطقه 2، بزرگراه همت، خیابان اشرفی اصفهانی جنوبی، خیابان 22 بهمن، خیابان اکبری، پلاک ",
       "source_quality": "directory",
       "source_title": "شرکت شیدآرین تهران - نگهداری و تعمیر کارخانجات نفت و گاز و پتروشیمی | کتاب اول",
+      "source_url": "https://avval.ir/profile/ae84f/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%B4%DB%8C%D8%AF%D8%A2%D8%B1%DB%8C%D9%86-%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:41Z",
+      "company_id": "ir-teh-b82f7378840475db",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "شرکت شیدآرین تهران - نگهداری و تعمیر کارخانجات نفت و گاز و پتروشیمی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس شرکت شیدآرین تهران نگهداری و تعمیر کارخانجات نفت و گاز و پتروشیمی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل نگهداری و تعمیر کارخانجات نفت و گاز و پتروشیمی تهران منطقه 2 اطلاعات تماس آدرس : تهران، منطقه 2، بزرگراه همت، خیابان اشرفی اصفهانی جنوبی، خیابان 22 بهمن، خیابان اکبری، پلاک 33، طبقه چهارم تلفن : نمایش شماره XXXXXXXXXX وب سایت www.shidarian.com ایمیل : info@shidarian.com نظرات لطفا به این کسب و کار امتیاز بدید و نظر خودتون رو درباره این کسب و کار بنویسید حداکثر 2000 کاراک",
+      "source_family": "book_e_avval",
+      "source_id": "src-8bb95a8b86241c80",
+      "source_quality": "public_page",
+      "source_title": "شرکت شیدآرین تهران - نگهداری و تعمیر کارخانجات نفت و گاز و پتروشیمی | کتاب اول",
+      "source_type": "commercial_audit",
       "source_url": "https://avval.ir/profile/ae84f/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%B4%DB%8C%D8%AF%D8%A2%D8%B1%DB%8C%D9%86-%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
     }
   ]

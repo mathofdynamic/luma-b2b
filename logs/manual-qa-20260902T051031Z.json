@@ -1,0 +1,1445 @@
+{
+  "audited_company_count": 151,
+  "errors": [],
+  "generated_at": "2026-09-02T05:10:31Z",
+  "input": "data/normalized/companies.jsonl",
+  "output": "logs/manual-qa-20260902T051031Z.json",
+  "passed": true,
+  "scope_policy": "Existing commercial-audit records only; no new discovery records.",
+  "scopes": {
+    "all_raw_score_85_plus": {
+      "count": 9,
+      "errors": 0,
+      "records": [
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-b4d018a20d269aac",
+          "company_name_fa": "مجموعه فاراب خاکپور",
+          "company_type": "distributor",
+          "confidence_adjusted_score": 74.6,
+          "independent_source_count": 2,
+          "industry": "building_materials_mep",
+          "luma_opportunity_score": 89,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-b4d018a20d269aac/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-5a0d9c69e8a63c56",
+          "company_name_fa": "گروه صنعتی فرازین صنعت",
+          "company_type": "distributor",
+          "confidence_adjusted_score": 74.6,
+          "independent_source_count": 2,
+          "industry": "industrial_distributors_importers",
+          "luma_opportunity_score": 89,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-5a0d9c69e8a63c56/screenshots/homepage_candidate-1.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-d284bae5deddc82f",
+          "company_name_fa": "شرکت بازرگانی میلاد",
+          "company_type": "mixed",
+          "confidence_adjusted_score": 73.7,
+          "independent_source_count": 2,
+          "industry": "industrial_distributors_importers",
+          "luma_opportunity_score": 88,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-d284bae5deddc82f/screenshots/homepage_candidate.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-a1e0c5ed00f31de5",
+          "company_name_fa": "ایران بابکت",
+          "company_type": "distributor",
+          "confidence_adjusted_score": 72.9,
+          "independent_source_count": 2,
+          "industry": "industrial_distributors_importers",
+          "luma_opportunity_score": 87,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-a1e0c5ed00f31de5/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-4b1dd8c047fc2163",
+          "company_name_fa": "بازرگانی اسپوتا",
+          "company_type": "importer",
+          "confidence_adjusted_score": 72.9,
+          "independent_source_count": 2,
+          "industry": "industrial_distributors_importers",
+          "luma_opportunity_score": 87,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-4b1dd8c047fc2163/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-5d9c46c5fec405da",
+          "company_name_fa": "تک ولتاژ",
+          "company_type": "distributor",
+          "confidence_adjusted_score": 72.1,
+          "independent_source_count": 2,
+          "industry": "industrial_distributors_importers",
+          "luma_opportunity_score": 86,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-5d9c46c5fec405da/screenshots/homepage_candidate.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-e35afa67335d8d4a",
+          "company_name_fa": "شرکت بازرگانی مهندسی آبا دیزل",
+          "company_type": "distributor",
+          "confidence_adjusted_score": 72.1,
+          "independent_source_count": 2,
+          "industry": "industrial_distributors_importers",
+          "luma_opportunity_score": 86,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-e35afa67335d8d4a/screenshots/homepage_candidate.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-14630719ebf1ad9b",
+          "company_name_fa": "بازرگانی شیمی تجارت مهرآوان",
+          "company_type": "distributor",
+          "confidence_adjusted_score": 71.2,
+          "independent_source_count": 2,
+          "industry": "industrial_distributors_importers",
+          "luma_opportunity_score": 85,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-14630719ebf1ad9b/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-2b6116f0350422d7",
+          "company_name_fa": "شرکت انبار گستران",
+          "company_type": "distributor",
+          "confidence_adjusted_score": 71.2,
+          "independent_source_count": 2,
+          "industry": "building_materials_mep",
+          "luma_opportunity_score": 85,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-2b6116f0350422d7/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        }
+      ]
+    },
+    "all_ready_for_outreach": {
+      "count": 32,
+      "errors": 0,
+      "records": [
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-3551adf08a41cd22",
+          "company_name_fa": "آپادانا ترابر",
+          "company_type": "freight_forwarder",
+          "confidence_adjusted_score": 77.5,
+          "independent_source_count": 2,
+          "industry": "logistics_freight_customs",
+          "luma_opportunity_score": 83,
+          "priority_tier": "A",
+          "score_confidence": 89,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-3551adf08a41cd22/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-5541a647bfac567d",
+          "company_name_fa": "شرکت بازرگانی سیال کنترل",
+          "company_type": "distributor",
+          "confidence_adjusted_score": 77.5,
+          "independent_source_count": 2,
+          "industry": "building_materials_mep",
+          "luma_opportunity_score": 83,
+          "priority_tier": "A",
+          "score_confidence": 89,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-5541a647bfac567d/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-37da8ab7a735aff9",
+          "company_name_fa": "گروه تولیدی سپیدار کارتن",
+          "company_type": "manufacturer",
+          "confidence_adjusted_score": 77.5,
+          "independent_source_count": 2,
+          "industry": "printing_packaging_labeling",
+          "luma_opportunity_score": 83,
+          "priority_tier": "A",
+          "score_confidence": 89,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-37da8ab7a735aff9/screenshots/homepage_candidate-1.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-768e0abd4ee8c48a",
+          "company_name_fa": "تامین فولاد شاهان",
+          "company_type": "distributor",
+          "confidence_adjusted_score": 75.7,
+          "independent_source_count": 2,
+          "industry": "building_materials_mep",
+          "luma_opportunity_score": 81,
+          "priority_tier": "A",
+          "score_confidence": 89,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-768e0abd4ee8c48a/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-e28f7e4955317c88",
+          "company_name_fa": "شرکت صنایع غذایی بیژن - کارخانه",
+          "company_type": "manufacturer",
+          "confidence_adjusted_score": 75.7,
+          "independent_source_count": 2,
+          "industry": "food_fmcg",
+          "luma_opportunity_score": 81,
+          "priority_tier": "A",
+          "score_confidence": 89,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-e28f7e4955317c88/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-30a037374bb7d4c3",
+          "company_name_fa": "شرکت شرکت راهبران صنعت پویا",
+          "company_type": "service_company",
+          "confidence_adjusted_score": 74.7,
+          "independent_source_count": 2,
+          "industry": "industrial_maintenance_after_sales",
+          "luma_opportunity_score": 80,
+          "priority_tier": "A",
+          "score_confidence": 89,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-30a037374bb7d4c3/screenshots/homepage_candidate.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-b4d018a20d269aac",
+          "company_name_fa": "مجموعه فاراب خاکپور",
+          "company_type": "distributor",
+          "confidence_adjusted_score": 74.6,
+          "independent_source_count": 2,
+          "industry": "building_materials_mep",
+          "luma_opportunity_score": 89,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-b4d018a20d269aac/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-5a0d9c69e8a63c56",
+          "company_name_fa": "گروه صنعتی فرازین صنعت",
+          "company_type": "distributor",
+          "confidence_adjusted_score": 74.6,
+          "independent_source_count": 2,
+          "industry": "industrial_distributors_importers",
+          "luma_opportunity_score": 89,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-5a0d9c69e8a63c56/screenshots/homepage_candidate-1.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-38800362b3107611",
+          "company_name_fa": "تولید انواع جعبه و کارتن بهتاپک",
+          "company_type": "manufacturer",
+          "confidence_adjusted_score": 73.8,
+          "independent_source_count": 2,
+          "industry": "printing_packaging_labeling",
+          "luma_opportunity_score": 79,
+          "priority_tier": "B",
+          "score_confidence": 89,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-38800362b3107611/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-d284bae5deddc82f",
+          "company_name_fa": "شرکت بازرگانی میلاد",
+          "company_type": "mixed",
+          "confidence_adjusted_score": 73.7,
+          "independent_source_count": 2,
+          "industry": "industrial_distributors_importers",
+          "luma_opportunity_score": 88,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-d284bae5deddc82f/screenshots/homepage_candidate.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-a1e0c5ed00f31de5",
+          "company_name_fa": "ایران بابکت",
+          "company_type": "distributor",
+          "confidence_adjusted_score": 72.9,
+          "independent_source_count": 2,
+          "industry": "industrial_distributors_importers",
+          "luma_opportunity_score": 87,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-a1e0c5ed00f31de5/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-4b1dd8c047fc2163",
+          "company_name_fa": "بازرگانی اسپوتا",
+          "company_type": "importer",
+          "confidence_adjusted_score": 72.9,
+          "independent_source_count": 2,
+          "industry": "industrial_distributors_importers",
+          "luma_opportunity_score": 87,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-4b1dd8c047fc2163/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-5d9c46c5fec405da",
+          "company_name_fa": "تک ولتاژ",
+          "company_type": "distributor",
+          "confidence_adjusted_score": 72.1,
+          "independent_source_count": 2,
+          "industry": "industrial_distributors_importers",
+          "luma_opportunity_score": 86,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-5d9c46c5fec405da/screenshots/homepage_candidate.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-e35afa67335d8d4a",
+          "company_name_fa": "شرکت بازرگانی مهندسی آبا دیزل",
+          "company_type": "distributor",
+          "confidence_adjusted_score": 72.1,
+          "independent_source_count": 2,
+          "industry": "industrial_distributors_importers",
+          "luma_opportunity_score": 86,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-e35afa67335d8d4a/screenshots/homepage_candidate.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-14630719ebf1ad9b",
+          "company_name_fa": "بازرگانی شیمی تجارت مهرآوان",
+          "company_type": "distributor",
+          "confidence_adjusted_score": 71.2,
+          "independent_source_count": 2,
+          "industry": "industrial_distributors_importers",
+          "luma_opportunity_score": 85,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-14630719ebf1ad9b/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-2b6116f0350422d7",
+          "company_name_fa": "شرکت انبار گستران",
+          "company_type": "distributor",
+          "confidence_adjusted_score": 71.2,
+          "independent_source_count": 2,
+          "industry": "building_materials_mep",
+          "luma_opportunity_score": 85,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-2b6116f0350422d7/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-852d4aee14a54c4a",
+          "company_name_fa": "بازرگانی ماندگار",
+          "company_type": "customs_broker",
+          "confidence_adjusted_score": 70.4,
+          "independent_source_count": 2,
+          "industry": "logistics_freight_customs",
+          "luma_opportunity_score": 84,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-852d4aee14a54c4a/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-ceb8c706aa49522e",
+          "company_name_fa": "شرکت مهندسی سیلاب زیست تهران",
+          "company_type": "EPC_contractor",
+          "confidence_adjusted_score": 70.0,
+          "independent_source_count": 2,
+          "industry": "epc_engineering_contractors",
+          "luma_opportunity_score": 75,
+          "priority_tier": "B",
+          "score_confidence": 89,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-ceb8c706aa49522e/screenshots/homepage_candidate-1.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-d70b0507dc92c66d",
+          "company_name_fa": "شرکت آسفالت توس",
+          "company_type": "EPC_contractor",
+          "confidence_adjusted_score": 69.6,
+          "independent_source_count": 2,
+          "industry": "epc_engineering_contractors",
+          "luma_opportunity_score": 83,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-d70b0507dc92c66d/screenshots/homepage_candidate.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-b12fca8dcac7066d",
+          "company_name_fa": "شرکت سارنگ تجارت بین الملل",
+          "company_type": "importer",
+          "confidence_adjusted_score": 69.6,
+          "independent_source_count": 2,
+          "industry": "industrial_distributors_importers",
+          "luma_opportunity_score": 83,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-b12fca8dcac7066d/screenshots/company_profile.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-d92d288a3b832e64",
+          "company_name_fa": "پیشگامان تجارت و توسعه پایدار",
+          "company_type": "EPC_contractor",
+          "confidence_adjusted_score": 69.6,
+          "independent_source_count": 2,
+          "industry": "epc_engineering_contractors",
+          "luma_opportunity_score": 83,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-d92d288a3b832e64/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-bb88c592dba51324",
+          "company_name_fa": "شرکت پیشرو صنعت ورا پارس",
+          "company_type": "EPC_contractor",
+          "confidence_adjusted_score": 68.7,
+          "independent_source_count": 2,
+          "industry": "epc_engineering_contractors",
+          "luma_opportunity_score": 82,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-bb88c592dba51324/screenshots/homepage_candidate-1.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-4bb48d22607d20cf",
+          "company_name_fa": "فروشگاه فولاد پایتخت",
+          "company_type": "distributor",
+          "confidence_adjusted_score": 68.7,
+          "independent_source_count": 2,
+          "industry": "building_materials_mep",
+          "luma_opportunity_score": 82,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-4bb48d22607d20cf/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-7897e19cde408194",
+          "company_name_fa": "اطلس فرابر جهان",
+          "company_type": "freight_forwarder",
+          "confidence_adjusted_score": 68.2,
+          "independent_source_count": 2,
+          "industry": "logistics_freight_customs",
+          "luma_opportunity_score": 73,
+          "priority_tier": "B",
+          "score_confidence": 89,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-7897e19cde408194/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-62d83cdb07f3e444",
+          "company_name_fa": "شرکت بازرگانی بابکو",
+          "company_type": "importer",
+          "confidence_adjusted_score": 68.2,
+          "independent_source_count": 2,
+          "industry": "medical_equipment",
+          "luma_opportunity_score": 73,
+          "priority_tier": "B",
+          "score_confidence": 89,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-62d83cdb07f3e444/screenshots/company_profile-1.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-5308e6ccd17b72e9",
+          "company_name_fa": "شرکت بازرگانی علیزاده نیک",
+          "company_type": "customs_broker",
+          "confidence_adjusted_score": 67.9,
+          "independent_source_count": 2,
+          "industry": "logistics_freight_customs",
+          "luma_opportunity_score": 81,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-5308e6ccd17b72e9/screenshots/homepage_candidate.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-adb049f466e03f58",
+          "company_name_fa": "شرکت علمی سازان پاسارگاد (کانگورو)",
+          "company_type": "manufacturer",
+          "confidence_adjusted_score": 67.9,
+          "independent_source_count": 2,
+          "industry": "industrial_manufacturers",
+          "luma_opportunity_score": 81,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-adb049f466e03f58/screenshots/homepage_candidate-1.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-3fd9d0c220b495e3",
+          "company_name_fa": "شرکت کیمیاگران امروز",
+          "company_type": "manufacturer",
+          "confidence_adjusted_score": 67.9,
+          "independent_source_count": 2,
+          "industry": "pharma",
+          "luma_opportunity_score": 81,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-3fd9d0c220b495e3/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-5911ae5691d19335",
+          "company_name_fa": "لوکس باکس",
+          "company_type": "manufacturer",
+          "confidence_adjusted_score": 67.0,
+          "independent_source_count": 2,
+          "industry": "printing_packaging_labeling",
+          "luma_opportunity_score": 80,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-5911ae5691d19335/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-565c0d935d3681f6",
+          "company_name_fa": "شرکت تیم",
+          "company_type": "service_company",
+          "confidence_adjusted_score": 66.2,
+          "independent_source_count": 2,
+          "industry": "industrial_maintenance_after_sales",
+          "luma_opportunity_score": 79,
+          "priority_tier": "B",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-565c0d935d3681f6/screenshots/homepage_candidate.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-a21bdca3e98b92a6",
+          "company_name_fa": "مهندسی و خدمات ایفا صنعت تابا",
+          "company_type": "EPC_contractor",
+          "confidence_adjusted_score": 66.2,
+          "independent_source_count": 2,
+          "industry": "epc_engineering_contractors",
+          "luma_opportunity_score": 79,
+          "priority_tier": "B",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-a21bdca3e98b92a6/screenshots/homepage_candidate-1.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-2587928f98e4f816",
+          "company_name_fa": "شرکت صباحی",
+          "company_type": "distributor",
+          "confidence_adjusted_score": 65.4,
+          "independent_source_count": 2,
+          "industry": "industrial_distributors_importers",
+          "luma_opportunity_score": 78,
+          "priority_tier": "B",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-2587928f98e4f816/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        }
+      ]
+    },
+    "fixed_seed_demoted_sample": {
+      "count": 10,
+      "errors": 0,
+      "records": [
+        {
+          "commercial_evidence_strength": 28,
+          "commercial_readiness": "NOT READY",
+          "company_id": "ir-teh-5425834530e56c91",
+          "company_name_fa": "شرکت به پخش - شعبه تهران شمال",
+          "company_type": "branch",
+          "confidence_adjusted_score": 2.6,
+          "independent_source_count": 1,
+          "industry": "other",
+          "luma_opportunity_score": 5,
+          "priority_tier": "Reject",
+          "score_confidence": 20,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-5425834530e56c91/screenshots/homepage_candidate-2.png"
+          ],
+          "workflow_evidence_classification": "UNSUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 28,
+          "commercial_readiness": "NOT READY",
+          "company_id": "ir-teh-63ad8c5824516d73",
+          "company_name_fa": "اجاره انبار و سوله انبارچیان",
+          "company_type": "warehouse_operator",
+          "confidence_adjusted_score": 2.6,
+          "independent_source_count": 1,
+          "industry": "other",
+          "luma_opportunity_score": 5,
+          "priority_tier": "Reject",
+          "score_confidence": 20,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-63ad8c5824516d73/screenshots/homepage_candidate-2.png"
+          ],
+          "workflow_evidence_classification": "UNSUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 46,
+          "commercial_readiness": "NOT READY",
+          "company_id": "ir-teh-00fd6c517166a741",
+          "company_name_fa": "شرکت سنگ نبشته هورامان",
+          "company_type": "unknown",
+          "confidence_adjusted_score": 2.6,
+          "independent_source_count": 1,
+          "industry": "epc_engineering_contractors",
+          "luma_opportunity_score": 5,
+          "priority_tier": "Reject",
+          "score_confidence": 20,
+          "screenshot_paths": [],
+          "workflow_evidence_classification": "UNSUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "NOT READY",
+          "company_id": "ir-teh-3ebe5c0606d9d9d6",
+          "company_name_fa": "گروه صنعتی خاور هسته ایرانیان - دفتر مرکزی",
+          "company_type": "branch",
+          "confidence_adjusted_score": 24.3,
+          "independent_source_count": 2,
+          "industry": "other",
+          "luma_opportunity_score": 29,
+          "priority_tier": "Reject",
+          "score_confidence": 73,
+          "screenshot_paths": [],
+          "workflow_evidence_classification": "UNSUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 46,
+          "commercial_readiness": "NOT READY",
+          "company_id": "ir-teh-1ab1b33bcac7d8ea",
+          "company_name_fa": "پخش مواد غذایی مهان",
+          "company_type": "distributor",
+          "confidence_adjusted_score": 2.6,
+          "independent_source_count": 1,
+          "industry": "food_fmcg",
+          "luma_opportunity_score": 5,
+          "priority_tier": "Reject",
+          "score_confidence": 20,
+          "screenshot_paths": [],
+          "workflow_evidence_classification": "UNSUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 28,
+          "commercial_readiness": "NOT READY",
+          "company_id": "ir-teh-2870dacd3867ee9f",
+          "company_name_fa": "تیپاکس - شعبه پیروزی",
+          "company_type": "branch",
+          "confidence_adjusted_score": 2.6,
+          "independent_source_count": 1,
+          "industry": "other",
+          "luma_opportunity_score": 5,
+          "priority_tier": "Reject",
+          "score_confidence": 20,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-2870dacd3867ee9f/screenshots/homepage_candidate-2.png"
+          ],
+          "workflow_evidence_classification": "UNSUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 46,
+          "commercial_readiness": "NOT READY",
+          "company_id": "ir-teh-bcd0ce896fd40d80",
+          "company_name_fa": "شرکت بین المللی نصرماشین",
+          "company_type": "distributor",
+          "confidence_adjusted_score": 2.6,
+          "independent_source_count": 1,
+          "industry": "industrial_distributors_importers",
+          "luma_opportunity_score": 5,
+          "priority_tier": "Reject",
+          "score_confidence": 20,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-bcd0ce896fd40d80/screenshots/homepage_candidate.png"
+          ],
+          "workflow_evidence_classification": "UNSUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 49,
+          "commercial_readiness": "NOT READY",
+          "company_id": "ir-teh-1af8f5053a129b31",
+          "company_name_fa": "شرکت بین المللی پیشتاز اطلس",
+          "company_type": "unknown",
+          "confidence_adjusted_score": 9.4,
+          "independent_source_count": 1,
+          "industry": "logistics_freight_customs",
+          "luma_opportunity_score": 18,
+          "priority_tier": "Reject",
+          "score_confidence": 20,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-1af8f5053a129b31/screenshots/homepage_candidate-2.png"
+          ],
+          "workflow_evidence_classification": "UNSUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "NEEDS DISCOVERY",
+          "company_id": "ir-teh-78624fde323f1e81",
+          "company_name_fa": "شرکت بازرگانی ترخیص 24",
+          "company_type": "customs_broker",
+          "confidence_adjusted_score": 55.3,
+          "independent_source_count": 2,
+          "industry": "logistics_freight_customs",
+          "luma_opportunity_score": 66,
+          "priority_tier": "C",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-78624fde323f1e81/screenshots/homepage_candidate.png"
+          ],
+          "workflow_evidence_classification": "STRONG_HYPOTHESIS"
+        },
+        {
+          "commercial_evidence_strength": 68,
+          "commercial_readiness": "NOT READY",
+          "company_id": "ir-teh-741eced25d5c56dd",
+          "company_name_fa": "انصار کالای ستاره صبا",
+          "company_type": "retailer",
+          "confidence_adjusted_score": 26.0,
+          "independent_source_count": 2,
+          "industry": "other",
+          "luma_opportunity_score": 31,
+          "priority_tier": "Reject",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-741eced25d5c56dd/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "UNSUPPORTED"
+        }
+      ]
+    },
+    "top_30_corrected_prospects": {
+      "count": 30,
+      "errors": 0,
+      "records": [
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-3551adf08a41cd22",
+          "company_name_fa": "آپادانا ترابر",
+          "company_type": "freight_forwarder",
+          "confidence_adjusted_score": 77.5,
+          "independent_source_count": 2,
+          "industry": "logistics_freight_customs",
+          "luma_opportunity_score": 83,
+          "priority_tier": "A",
+          "score_confidence": 89,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-3551adf08a41cd22/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-5541a647bfac567d",
+          "company_name_fa": "شرکت بازرگانی سیال کنترل",
+          "company_type": "distributor",
+          "confidence_adjusted_score": 77.5,
+          "independent_source_count": 2,
+          "industry": "building_materials_mep",
+          "luma_opportunity_score": 83,
+          "priority_tier": "A",
+          "score_confidence": 89,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-5541a647bfac567d/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-37da8ab7a735aff9",
+          "company_name_fa": "گروه تولیدی سپیدار کارتن",
+          "company_type": "manufacturer",
+          "confidence_adjusted_score": 77.5,
+          "independent_source_count": 2,
+          "industry": "printing_packaging_labeling",
+          "luma_opportunity_score": 83,
+          "priority_tier": "A",
+          "score_confidence": 89,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-37da8ab7a735aff9/screenshots/homepage_candidate-1.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-768e0abd4ee8c48a",
+          "company_name_fa": "تامین فولاد شاهان",
+          "company_type": "distributor",
+          "confidence_adjusted_score": 75.7,
+          "independent_source_count": 2,
+          "industry": "building_materials_mep",
+          "luma_opportunity_score": 81,
+          "priority_tier": "A",
+          "score_confidence": 89,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-768e0abd4ee8c48a/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-e28f7e4955317c88",
+          "company_name_fa": "شرکت صنایع غذایی بیژن - کارخانه",
+          "company_type": "manufacturer",
+          "confidence_adjusted_score": 75.7,
+          "independent_source_count": 2,
+          "industry": "food_fmcg",
+          "luma_opportunity_score": 81,
+          "priority_tier": "A",
+          "score_confidence": 89,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-e28f7e4955317c88/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-30a037374bb7d4c3",
+          "company_name_fa": "شرکت شرکت راهبران صنعت پویا",
+          "company_type": "service_company",
+          "confidence_adjusted_score": 74.7,
+          "independent_source_count": 2,
+          "industry": "industrial_maintenance_after_sales",
+          "luma_opportunity_score": 80,
+          "priority_tier": "A",
+          "score_confidence": 89,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-30a037374bb7d4c3/screenshots/homepage_candidate.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-b4d018a20d269aac",
+          "company_name_fa": "مجموعه فاراب خاکپور",
+          "company_type": "distributor",
+          "confidence_adjusted_score": 74.6,
+          "independent_source_count": 2,
+          "industry": "building_materials_mep",
+          "luma_opportunity_score": 89,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-b4d018a20d269aac/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-5a0d9c69e8a63c56",
+          "company_name_fa": "گروه صنعتی فرازین صنعت",
+          "company_type": "distributor",
+          "confidence_adjusted_score": 74.6,
+          "independent_source_count": 2,
+          "industry": "industrial_distributors_importers",
+          "luma_opportunity_score": 89,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-5a0d9c69e8a63c56/screenshots/homepage_candidate-1.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-38800362b3107611",
+          "company_name_fa": "تولید انواع جعبه و کارتن بهتاپک",
+          "company_type": "manufacturer",
+          "confidence_adjusted_score": 73.8,
+          "independent_source_count": 2,
+          "industry": "printing_packaging_labeling",
+          "luma_opportunity_score": 79,
+          "priority_tier": "B",
+          "score_confidence": 89,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-38800362b3107611/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-d284bae5deddc82f",
+          "company_name_fa": "شرکت بازرگانی میلاد",
+          "company_type": "mixed",
+          "confidence_adjusted_score": 73.7,
+          "independent_source_count": 2,
+          "industry": "industrial_distributors_importers",
+          "luma_opportunity_score": 88,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-d284bae5deddc82f/screenshots/homepage_candidate.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-a1e0c5ed00f31de5",
+          "company_name_fa": "ایران بابکت",
+          "company_type": "distributor",
+          "confidence_adjusted_score": 72.9,
+          "independent_source_count": 2,
+          "industry": "industrial_distributors_importers",
+          "luma_opportunity_score": 87,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-a1e0c5ed00f31de5/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-4b1dd8c047fc2163",
+          "company_name_fa": "بازرگانی اسپوتا",
+          "company_type": "importer",
+          "confidence_adjusted_score": 72.9,
+          "independent_source_count": 2,
+          "industry": "industrial_distributors_importers",
+          "luma_opportunity_score": 87,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-4b1dd8c047fc2163/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-5d9c46c5fec405da",
+          "company_name_fa": "تک ولتاژ",
+          "company_type": "distributor",
+          "confidence_adjusted_score": 72.1,
+          "independent_source_count": 2,
+          "industry": "industrial_distributors_importers",
+          "luma_opportunity_score": 86,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-5d9c46c5fec405da/screenshots/homepage_candidate.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-e35afa67335d8d4a",
+          "company_name_fa": "شرکت بازرگانی مهندسی آبا دیزل",
+          "company_type": "distributor",
+          "confidence_adjusted_score": 72.1,
+          "independent_source_count": 2,
+          "industry": "industrial_distributors_importers",
+          "luma_opportunity_score": 86,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-e35afa67335d8d4a/screenshots/homepage_candidate.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-14630719ebf1ad9b",
+          "company_name_fa": "بازرگانی شیمی تجارت مهرآوان",
+          "company_type": "distributor",
+          "confidence_adjusted_score": 71.2,
+          "independent_source_count": 2,
+          "industry": "industrial_distributors_importers",
+          "luma_opportunity_score": 85,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-14630719ebf1ad9b/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-2b6116f0350422d7",
+          "company_name_fa": "شرکت انبار گستران",
+          "company_type": "distributor",
+          "confidence_adjusted_score": 71.2,
+          "independent_source_count": 2,
+          "industry": "building_materials_mep",
+          "luma_opportunity_score": 85,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-2b6116f0350422d7/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-852d4aee14a54c4a",
+          "company_name_fa": "بازرگانی ماندگار",
+          "company_type": "customs_broker",
+          "confidence_adjusted_score": 70.4,
+          "independent_source_count": 2,
+          "industry": "logistics_freight_customs",
+          "luma_opportunity_score": 84,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-852d4aee14a54c4a/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-ceb8c706aa49522e",
+          "company_name_fa": "شرکت مهندسی سیلاب زیست تهران",
+          "company_type": "EPC_contractor",
+          "confidence_adjusted_score": 70.0,
+          "independent_source_count": 2,
+          "industry": "epc_engineering_contractors",
+          "luma_opportunity_score": 75,
+          "priority_tier": "B",
+          "score_confidence": 89,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-ceb8c706aa49522e/screenshots/homepage_candidate-1.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-d70b0507dc92c66d",
+          "company_name_fa": "شرکت آسفالت توس",
+          "company_type": "EPC_contractor",
+          "confidence_adjusted_score": 69.6,
+          "independent_source_count": 2,
+          "industry": "epc_engineering_contractors",
+          "luma_opportunity_score": 83,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-d70b0507dc92c66d/screenshots/homepage_candidate.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-b12fca8dcac7066d",
+          "company_name_fa": "شرکت سارنگ تجارت بین الملل",
+          "company_type": "importer",
+          "confidence_adjusted_score": 69.6,
+          "independent_source_count": 2,
+          "industry": "industrial_distributors_importers",
+          "luma_opportunity_score": 83,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-b12fca8dcac7066d/screenshots/company_profile.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-d92d288a3b832e64",
+          "company_name_fa": "پیشگامان تجارت و توسعه پایدار",
+          "company_type": "EPC_contractor",
+          "confidence_adjusted_score": 69.6,
+          "independent_source_count": 2,
+          "industry": "epc_engineering_contractors",
+          "luma_opportunity_score": 83,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-d92d288a3b832e64/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-bb88c592dba51324",
+          "company_name_fa": "شرکت پیشرو صنعت ورا پارس",
+          "company_type": "EPC_contractor",
+          "confidence_adjusted_score": 68.7,
+          "independent_source_count": 2,
+          "industry": "epc_engineering_contractors",
+          "luma_opportunity_score": 82,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-bb88c592dba51324/screenshots/homepage_candidate-1.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-4bb48d22607d20cf",
+          "company_name_fa": "فروشگاه فولاد پایتخت",
+          "company_type": "distributor",
+          "confidence_adjusted_score": 68.7,
+          "independent_source_count": 2,
+          "industry": "building_materials_mep",
+          "luma_opportunity_score": 82,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-4bb48d22607d20cf/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-7897e19cde408194",
+          "company_name_fa": "اطلس فرابر جهان",
+          "company_type": "freight_forwarder",
+          "confidence_adjusted_score": 68.2,
+          "independent_source_count": 2,
+          "industry": "logistics_freight_customs",
+          "luma_opportunity_score": 73,
+          "priority_tier": "B",
+          "score_confidence": 89,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-7897e19cde408194/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-62d83cdb07f3e444",
+          "company_name_fa": "شرکت بازرگانی بابکو",
+          "company_type": "importer",
+          "confidence_adjusted_score": 68.2,
+          "independent_source_count": 2,
+          "industry": "medical_equipment",
+          "luma_opportunity_score": 73,
+          "priority_tier": "B",
+          "score_confidence": 89,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-62d83cdb07f3e444/screenshots/company_profile-1.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-5308e6ccd17b72e9",
+          "company_name_fa": "شرکت بازرگانی علیزاده نیک",
+          "company_type": "customs_broker",
+          "confidence_adjusted_score": 67.9,
+          "independent_source_count": 2,
+          "industry": "logistics_freight_customs",
+          "luma_opportunity_score": 81,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-5308e6ccd17b72e9/screenshots/homepage_candidate.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-adb049f466e03f58",
+          "company_name_fa": "شرکت علمی سازان پاسارگاد (کانگورو)",
+          "company_type": "manufacturer",
+          "confidence_adjusted_score": 67.9,
+          "independent_source_count": 2,
+          "industry": "industrial_manufacturers",
+          "luma_opportunity_score": 81,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-adb049f466e03f58/screenshots/homepage_candidate-1.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-3fd9d0c220b495e3",
+          "company_name_fa": "شرکت کیمیاگران امروز",
+          "company_type": "manufacturer",
+          "confidence_adjusted_score": 67.9,
+          "independent_source_count": 2,
+          "industry": "pharma",
+          "luma_opportunity_score": 81,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-3fd9d0c220b495e3/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-5911ae5691d19335",
+          "company_name_fa": "لوکس باکس",
+          "company_type": "manufacturer",
+          "confidence_adjusted_score": 67.0,
+          "independent_source_count": 2,
+          "industry": "printing_packaging_labeling",
+          "luma_opportunity_score": 80,
+          "priority_tier": "A",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-5911ae5691d19335/screenshots/homepage.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        },
+        {
+          "commercial_evidence_strength": 72,
+          "commercial_readiness": "READY FOR OUTREACH",
+          "company_id": "ir-teh-565c0d935d3681f6",
+          "company_name_fa": "شرکت تیم",
+          "company_type": "service_company",
+          "confidence_adjusted_score": 66.2,
+          "independent_source_count": 2,
+          "industry": "industrial_maintenance_after_sales",
+          "luma_opportunity_score": 79,
+          "priority_tier": "B",
+          "score_confidence": 73,
+          "screenshot_paths": [
+            "evidence/companies/ir-teh-565c0d935d3681f6/screenshots/homepage_candidate.png"
+          ],
+          "workflow_evidence_classification": "EVIDENCE_SUPPORTED"
+        }
+      ]
+    }
+  },
+  "visual_review": {
+    "method": "Human visual inspection of the headless screenshot for every top-30 corrected prospect and every READY FOR OUTREACH record.",
+    "missing_screenshot_ids": [],
+    "reviewed_company_ids": [
+      "ir-teh-14630719ebf1ad9b",
+      "ir-teh-2587928f98e4f816",
+      "ir-teh-2b6116f0350422d7",
+      "ir-teh-30a037374bb7d4c3",
+      "ir-teh-3551adf08a41cd22",
+      "ir-teh-37da8ab7a735aff9",
+      "ir-teh-38800362b3107611",
+      "ir-teh-3fd9d0c220b495e3",
+      "ir-teh-4b1dd8c047fc2163",
+      "ir-teh-4bb48d22607d20cf",
+      "ir-teh-5308e6ccd17b72e9",
+      "ir-teh-5541a647bfac567d",
+      "ir-teh-565c0d935d3681f6",
+      "ir-teh-5911ae5691d19335",
+      "ir-teh-5a0d9c69e8a63c56",
+      "ir-teh-5d9c46c5fec405da",
+      "ir-teh-62d83cdb07f3e444",
+      "ir-teh-768e0abd4ee8c48a",
+      "ir-teh-7897e19cde408194",
+      "ir-teh-852d4aee14a54c4a",
+      "ir-teh-a1e0c5ed00f31de5",
+      "ir-teh-a21bdca3e98b92a6",
+      "ir-teh-adb049f466e03f58",
+      "ir-teh-b12fca8dcac7066d",
+      "ir-teh-b4d018a20d269aac",
+      "ir-teh-bb88c592dba51324",
+      "ir-teh-ceb8c706aa49522e",
+      "ir-teh-d284bae5deddc82f",
+      "ir-teh-d70b0507dc92c66d",
+      "ir-teh-d92d288a3b832e64",
+      "ir-teh-e28f7e4955317c88",
+      "ir-teh-e35afa67335d8d4a"
+    ],
+    "reviewed_record_count": 32
+  }
+}

@@ -1,0 +1,409 @@
+### Page
+- Page URL: https://seylab-zist.com/
+- Page Title: سیلاب زیست - صفحه اصلی - شرکت مهندسی سیلاب زیست تهران
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e7]:
+          - generic [ref=e12]:
+            - link [ref=e17] [cursor=pointer]:
+              - /url: https://seylab-zist.com
+            - generic [ref=e22]:
+              - generic [ref=e23]: 
+              - generic [ref=e26]:
+                - heading "نشانی:" [level=6] [ref=e27]
+                - paragraph [ref=e28]: تهران ، بزرگراه رسالت ، جنب خیابان شهید همایی ، پلاک 16 ، ساختمان سپیدار ، طبقه چهارم ، واحد 8
+            - generic [ref=e35]:
+              - link [ref=e37] [cursor=pointer]:
+                - /url: tel:02122331216
+                - generic [ref=e38]: 
+              - generic [ref=e39]:
+                - heading [level=6] [ref=e40]:
+                  - link "تلفن تماس:" [ref=e41] [cursor=pointer]:
+                    - /url: tel:02122331216
+                - paragraph [ref=e42]: 02122331216 09123700249
+          - text:   
+        - navigation "ناوبری اصلی" [ref=e48]:
+          - list [ref=e49]:
+            - listitem [ref=e50]:
+              - link "صفحه اصلی" [ref=e51] [cursor=pointer]:
+                - /url: https://seylab-zist.com/
+            - listitem [ref=e53]:
+              - link "محصولات " [ref=e54] [cursor=pointer]:
+                - /url: https://seylab-zist.com/product/
+                - generic [ref=e55]: محصولات
+                - text: 
+            - listitem [ref=e56]:
+              - link "خدمات" [ref=e57] [cursor=pointer]:
+                - /url: https://seylab-zist.com/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/
+            - listitem [ref=e59]:
+              - link "دانلود کاتالوگ" [ref=e60] [cursor=pointer]:
+                - /url: https://seylab-zist.com/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%da%a9%d8%a7%d8%aa%d8%a7%d9%84%d9%88%da%af/
+            - listitem [ref=e62]:
+              - link "نمایشگاه آب و فاضلاب" [ref=e63] [cursor=pointer]:
+                - /url: https://seylab-zist.com/%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87-%d8%a2%d8%a8-%d9%88-%d9%81%d8%a7%d8%b6%d9%84%d8%a7%d8%a8/
+            - listitem [ref=e65]:
+              - link "گالری تصاویر" [ref=e66] [cursor=pointer]:
+                - /url: https://seylab-zist.com/gallery/
+            - listitem [ref=e68]:
+              - link "نمایش ویدئو" [ref=e69] [cursor=pointer]:
+                - /url: https://seylab-zist.com/%d9%86%d9%85%d8%a7%db%8c%d8%b4-%d9%88%db%8c%d8%af%d8%a6%d9%88/
+            - listitem [ref=e71]:
+              - link "درباره ما" [ref=e72] [cursor=pointer]:
+                - /url: https://seylab-zist.com/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/
+            - listitem [ref=e74]:
+              - link "تماس با ما" [ref=e75] [cursor=pointer]:
+                - /url: https://seylab-zist.com/%d8%aa%d9%85%d8%a7%d8%b3-%d8%a8%d8%a7-%d9%85%d8%a7/
+    - main [ref=e80]:
+      - article [ref=e81]:
+        - generic [ref=e83]:
+          - generic [ref=e91]:
+            - generic [ref=e92]:
+              - group "1 / 9" [ref=e93]:
+                - generic [ref=e96]:
+                  - generic [ref=e97]: شرکت مهندسی سیلاب زیست تهران
+                  - generic [ref=e98]: تصفیه آب ، فاضلاب و پساب های صنعتیتأمین کننده انواع هواده های سطحی
+              - group "2 / 9" [ref=e99]:
+                - generic [ref=e103]:
+                  - generic [ref=e104]: شرکت مهندسی سیلاب زیست تهران
+                  - generic [ref=e105]: تصفیه آب ، فاضلاب و پساب های صنعتیتأمین کننده انواع هواده های سطحی
+              - group "3 / 9" [ref=e106]:
+                - generic [ref=e110]:
+                  - generic [ref=e111]: شرکت مهندسی سیلاب زیست تهران
+                  - generic [ref=e112]: تصفیه آب ، فاضلاب و پساب های صنعتیتأمین کننده انواع هواده های سطحی
+              - group "4 / 9" [ref=e113]:
+                - generic [ref=e117]:
+                  - generic [ref=e118]: شرکت مهندسی سیلاب زیست تهران
+                  - generic [ref=e119]: تصفیه آب ، فاضلاب و پساب های صنعتیتأمین کننده انواع هواده های سطحی
+              - group "5 / 9" [ref=e120]:
+                - generic [ref=e123]:
+                  - generic [ref=e124]: شرکت مهندسی سیلاب زیست تهران
+                  - generic [ref=e125]: تصفیه آب ، فاضلاب و پساب های صنعتیتأمین کننده انواع هواده های سطحی
+              - group "6 / 9" [ref=e126]:
+                - generic [ref=e130]:
+                  - generic [ref=e131]: شرکت مهندسی سیلاب زیست تهران
+                  - generic [ref=e132]: تصفیه آب ، فاضلاب و پساب های صنعتیتأمین کننده انواع هواده های سطحی
+              - group "7 / 9" [ref=e133]:
+                - generic [ref=e137]:
+                  - generic [ref=e138]: شرکت مهندسی سیلاب زیست تهران
+                  - generic [ref=e139]: تصفیه آب ، فاضلاب و پساب های صنعتیتأمین کننده انواع هواده های سطحی
+              - group "8 / 9" [ref=e140]:
+                - generic [ref=e143]:
+                  - generic [ref=e144]: شرکت مهندسی سیلاب زیست تهران
+                  - generic [ref=e145]: تصفیه آب ، فاضلاب و پساب های صنعتیتأمین کننده انواع هواده های سطحی
+              - group "9 / 9" [ref=e146]:
+                - generic [ref=e149]:
+                  - generic [ref=e150]: شرکت مهندسی سیلاب زیست تهران
+                  - generic [ref=e151]: تصفیه آب ، فاضلاب و پساب های صنعتیتأمین کننده انواع هواده های سطحی
+              - group "1 / 9" [ref=e152]:
+                - generic [ref=e155]:
+                  - generic [ref=e156]: شرکت مهندسی سیلاب زیست تهران
+                  - generic [ref=e157]: تصفیه آب ، فاضلاب و پساب های صنعتیتأمین کننده انواع هواده های سطحی
+              - group "2 / 9" [ref=e158]:
+                - generic [ref=e162]:
+                  - generic [ref=e163]: شرکت مهندسی سیلاب زیست تهران
+                  - generic [ref=e164]: تصفیه آب ، فاضلاب و پساب های صنعتیتأمین کننده انواع هواده های سطحی
+              - group "3 / 9" [ref=e165]:
+                - generic [ref=e169]:
+                  - generic [ref=e170]: شرکت مهندسی سیلاب زیست تهران
+                  - generic [ref=e171]: تصفیه آب ، فاضلاب و پساب های صنعتیتأمین کننده انواع هواده های سطحی
+              - group "4 / 9" [ref=e172]:
+                - generic [ref=e176]:
+                  - generic [ref=e177]: شرکت مهندسی سیلاب زیست تهران
+                  - generic [ref=e178]: تصفیه آب ، فاضلاب و پساب های صنعتیتأمین کننده انواع هواده های سطحی
+              - group "5 / 9" [ref=e179]:
+                - generic [ref=e182]:
+                  - generic [ref=e183]: شرکت مهندسی سیلاب زیست تهران
+                  - generic [ref=e184]: تصفیه آب ، فاضلاب و پساب های صنعتیتأمین کننده انواع هواده های سطحی
+              - group "6 / 9" [ref=e185]:
+                - generic [ref=e189]:
+                  - generic [ref=e190]: شرکت مهندسی سیلاب زیست تهران
+                  - generic [ref=e191]: تصفیه آب ، فاضلاب و پساب های صنعتیتأمین کننده انواع هواده های سطحی
+              - group "7 / 9" [ref=e192]:
+                - generic [ref=e196]:
+                  - generic [ref=e197]: شرکت مهندسی سیلاب زیست تهران
+                  - generic [ref=e198]: تصفیه آب ، فاضلاب و پساب های صنعتیتأمین کننده انواع هواده های سطحی
+              - group "8 / 9" [ref=e199]:
+                - generic [ref=e202]:
+                  - generic [ref=e203]: شرکت مهندسی سیلاب زیست تهران
+                  - generic [ref=e204]: تصفیه آب ، فاضلاب و پساب های صنعتیتأمین کننده انواع هواده های سطحی
+              - group "9 / 9" [ref=e205]:
+                - generic [ref=e208]:
+                  - generic [ref=e209]: شرکت مهندسی سیلاب زیست تهران
+                  - generic [ref=e210]: تصفیه آب ، فاضلاب و پساب های صنعتیتأمین کننده انواع هواده های سطحی
+              - group "1 / 9" [ref=e211]:
+                - generic [ref=e214]:
+                  - generic [ref=e215]: شرکت مهندسی سیلاب زیست تهران
+                  - generic [ref=e216]: تصفیه آب ، فاضلاب و پساب های صنعتیتأمین کننده انواع هواده های سطحی
+              - group "2 / 9" [ref=e217]:
+                - generic [ref=e221]:
+                  - generic [ref=e222]: شرکت مهندسی سیلاب زیست تهران
+                  - generic [ref=e223]: تصفیه آب ، فاضلاب و پساب های صنعتیتأمین کننده انواع هواده های سطحی
+              - group "3 / 9" [ref=e224]:
+                - generic [ref=e228]:
+                  - generic [ref=e229]: شرکت مهندسی سیلاب زیست تهران
+                  - generic [ref=e230]: تصفیه آب ، فاضلاب و پساب های صنعتیتأمین کننده انواع هواده های سطحی
+              - group "4 / 9" [ref=e231]:
+                - generic [ref=e235]:
+                  - generic [ref=e236]: شرکت مهندسی سیلاب زیست تهران
+                  - generic [ref=e237]: تصفیه آب ، فاضلاب و پساب های صنعتیتأمین کننده انواع هواده های سطحی
+              - group "5 / 9" [ref=e238]:
+                - generic [ref=e241]:
+                  - generic [ref=e242]: شرکت مهندسی سیلاب زیست تهران
+                  - generic [ref=e243]: تصفیه آب ، فاضلاب و پساب های صنعتیتأمین کننده انواع هواده های سطحی
+              - group "6 / 9" [ref=e244]:
+                - generic [ref=e248]:
+                  - generic [ref=e249]: شرکت مهندسی سیلاب زیست تهران
+                  - generic [ref=e250]: تصفیه آب ، فاضلاب و پساب های صنعتیتأمین کننده انواع هواده های سطحی
+              - group "7 / 9" [ref=e251]:
+                - generic [ref=e255]:
+                  - generic [ref=e256]: شرکت مهندسی سیلاب زیست تهران
+                  - generic [ref=e257]: تصفیه آب ، فاضلاب و پساب های صنعتیتأمین کننده انواع هواده های سطحی
+              - group "8 / 9" [ref=e258]:
+                - generic [ref=e261]:
+                  - generic [ref=e262]: شرکت مهندسی سیلاب زیست تهران
+                  - generic [ref=e263]: تصفیه آب ، فاضلاب و پساب های صنعتیتأمین کننده انواع هواده های سطحی
+              - group "9 / 9" [ref=e264]:
+                - generic [ref=e267]:
+                  - generic [ref=e268]: شرکت مهندسی سیلاب زیست تهران
+                  - generic [ref=e269]: تصفیه آب ، فاضلاب و پساب های صنعتیتأمین کننده انواع هواده های سطحی
+            - generic [ref=e270]:
+              - button "Go to slide 1" [ref=e271] [cursor=pointer]
+              - button "Go to slide 2" [ref=e272] [cursor=pointer]
+              - button "Go to slide 3" [ref=e273] [cursor=pointer]
+              - button "Go to slide 4" [ref=e274] [cursor=pointer]
+              - button "Go to slide 5" [ref=e275] [cursor=pointer]
+              - button "Go to slide 6" [ref=e276] [cursor=pointer]
+              - button "Go to slide 7" [ref=e277] [cursor=pointer]
+              - button "Go to slide 8" [ref=e278] [cursor=pointer]
+              - button "Go to slide 9" [ref=e279] [cursor=pointer]
+            - button "Previous slide" [ref=e280] [cursor=pointer]:
+              - generic [ref=e281]: 
+              - generic [ref=e282]: اسلاید قبلی
+            - button "Next slide" [ref=e283] [cursor=pointer]:
+              - generic [ref=e284]: 
+              - generic [ref=e285]: اسلاید بعدی
+          - generic [ref=e292]:
+            - heading "محصولات" [level=4] [ref=e297]
+            - generic [ref=e299]:
+              - generic [ref=e301]:
+                - link [ref=e304] [cursor=pointer]:
+                  - /url: https://seylab-zist.com/%d8%b3%db%8c%d9%84%d8%a7%d8%a8-%d8%b2%db%8c%d8%b3%d8%aa-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-%d9%87%d9%88%d8%a7%d8%af%d9%87-%d8%b3%d8%b7%d8%ad%db%8c/
+                  - img "سخت" [ref=e305]
+                - heading [level=4] [ref=e308]:
+                  - link "هواده سطحی" [ref=e309] [cursor=pointer]:
+                    - /url: https://seylab-zist.com/%d8%b3%db%8c%d9%84%d8%a7%d8%a8-%d8%b2%db%8c%d8%b3%d8%aa-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-%d9%87%d9%88%d8%a7%d8%af%d9%87-%d8%b3%d8%b7%d8%ad%db%8c/
+                - heading [level=4] [ref=e312]:
+                  - link "Surface Aerator" [ref=e313] [cursor=pointer]:
+                    - /url: https://www.lme.com/en/Metals/Non-ferrous/LME-Copper#Trading+day+summary
+              - generic [ref=e315]:
+                - link [ref=e318] [cursor=pointer]:
+                  - /url: https://seylab-zist.com/%d9%be%da%a9%db%8c%d8%ac-%d8%aa%d8%b5%d9%81%db%8c%d9%87-%d9%81%d8%a7%d8%b6%d9%84%d8%a7%d8%a8/
+                  - img "پکیج تصفیه فاضلاب" [ref=e319]
+                - heading [level=4] [ref=e322]:
+                  - link "پکیج تصفیه فاضلاب" [ref=e323] [cursor=pointer]:
+                    - /url: https://seylab-zist.com/%d9%be%da%a9%db%8c%d8%ac-%d8%aa%d8%b5%d9%81%db%8c%d9%87-%d9%81%d8%a7%d8%b6%d9%84%d8%a7%d8%a8/
+                - heading [level=4] [ref=e326]:
+                  - link "Wastewater Treatment Package" [ref=e327] [cursor=pointer]:
+                    - /url: https://www.lme.com/en/Metals/Non-ferrous/LME-Copper#Trading+day+summary
+              - generic [ref=e329]:
+                - link [ref=e332] [cursor=pointer]:
+                  - /url: https://seylab-zist.com/%d9%81%db%8c%d9%84%d8%aa%d8%b1-%d8%b4%d9%86%db%8c-%d8%aa%d8%ad%d8%aa-%d9%81%d8%b4%d8%a7%d8%b1-%d8%b4%d8%b1%da%a9%d8%aa-%d9%85%d9%87%d9%86%d8%af%d8%b3%db%8c-%d8%b3%db%8c%d9%84%d8%a7%d8%a8-%d8%b2%db%8c/
+                  - img "فیلتر شنی تحت فشار" [ref=e333]
+                - heading [level=4] [ref=e336]:
+                  - link "فیلتر شنی تحت فشار" [ref=e337] [cursor=pointer]:
+                    - /url: https://seylab-zist.com/%d9%81%db%8c%d9%84%d8%aa%d8%b1-%d8%b4%d9%86%db%8c-%d8%aa%d8%ad%d8%aa-%d9%81%d8%b4%d8%a7%d8%b1-%d8%b4%d8%b1%da%a9%d8%aa-%d9%85%d9%87%d9%86%d8%af%d8%b3%db%8c-%d8%b3%db%8c%d9%84%d8%a7%d8%a8-%d8%b2%db%8c/
+                - heading [level=4] [ref=e340]:
+                  - link "Pressure Sand Filter" [ref=e341] [cursor=pointer]:
+                    - /url: https://seylab-zist.com/%d9%81%db%8c%d9%84%d8%aa%d8%b1-%d8%b4%d9%86%db%8c-%d8%aa%d8%ad%d8%aa-%d9%81%d8%b4%d8%a7%d8%b1-%d8%b4%d8%b1%da%a9%d8%aa-%d9%85%d9%87%d9%86%d8%af%d8%b3%db%8c-%d8%b3%db%8c%d9%84%d8%a7%d8%a8-%d8%b2%db%8c/
+            - generic [ref=e343]:
+              - generic [ref=e345]:
+                - link [ref=e348] [cursor=pointer]:
+                  - /url: https://seylab-zist.com/%d8%b3%d8%ae%d8%aa%db%8c-%da%af%db%8c%d8%b1-%d8%a2%d8%a8-%d8%b3%db%8c%d9%84%d8%a7%d8%a8-%d8%b2%db%8c%d8%b3%d8%aa-%d8%aa%d9%87%d8%b1%d8%a7%d9%86/
+                  - img "سختی گیر آب" [ref=e349]
+                - heading [level=4] [ref=e352]:
+                  - link "سختی گیر آب" [ref=e353] [cursor=pointer]:
+                    - /url: https://seylab-zist.com/%d8%b3%d8%ae%d8%aa%db%8c-%da%af%db%8c%d8%b1-%d8%a2%d8%a8-%d8%b3%db%8c%d9%84%d8%a7%d8%a8-%d8%b2%db%8c%d8%b3%d8%aa-%d8%aa%d9%87%d8%b1%d8%a7%d9%86/
+                - heading [level=4] [ref=e356]:
+                  - link "Water Softener" [ref=e357] [cursor=pointer]:
+                    - /url: https://seylab-zist.com/%d8%b3%d8%ae%d8%aa%db%8c-%da%af%db%8c%d8%b1-%d8%a2%d8%a8-%d8%b3%db%8c%d9%84%d8%a7%d8%a8-%d8%b2%db%8c%d8%b3%d8%aa-%d8%aa%d9%87%d8%b1%d8%a7%d9%86/
+              - generic [ref=e359]:
+                - link [ref=e362] [cursor=pointer]:
+                  - /url: https://seylab-zist.com/aeration-turbine/
+                - heading [level=4] [ref=e365]:
+                  - link "پروانه هوادهی" [ref=e366] [cursor=pointer]:
+                    - /url: https://seylab-zist.com/aeration-turbine/
+                - heading [level=4] [ref=e369]:
+                  - link "Aeration Turbine" [ref=e370] [cursor=pointer]:
+                    - /url: https://seylab-zist.com/aeration-turbine/
+              - generic [ref=e372]:
+                - link [ref=e375] [cursor=pointer]:
+                  - /url: https://seylab-zist.com/product/%d8%af%db%8c%d9%81%db%8c%d9%88%d8%b2%d8%b1-%d9%87%d9%88%d8%a7%d8%af%d9%87%db%8c-%d8%b3%db%8c%d9%84%d8%a7%d8%a8-%d8%b2%db%8c%d8%b3%d8%aa-%d8%aa%d9%87%d8%b1%d8%a7%d9%86/
+                  - img "دیفیوزر هوادهی" [ref=e376]
+                - heading [level=4] [ref=e379]:
+                  - link "دیفیوزر هوادهی" [ref=e380] [cursor=pointer]:
+                    - /url: https://seylab-zist.com/product/%d8%af%db%8c%d9%81%db%8c%d9%88%d8%b2%d8%b1-%d9%87%d9%88%d8%a7%d8%af%d9%87%db%8c-%d8%b3%db%8c%d9%84%d8%a7%d8%a8-%d8%b2%db%8c%d8%b3%d8%aa-%d8%aa%d9%87%d8%b1%d8%a7%d9%86/
+                - heading [level=4] [ref=e383]:
+                  - link "Aeration Diffuser" [ref=e384] [cursor=pointer]:
+                    - /url: https://seylab-zist.com/product/%d8%af%db%8c%d9%81%db%8c%d9%88%d8%b2%d8%b1-%d9%87%d9%88%d8%a7%d8%af%d9%87%db%8c-%d8%b3%db%8c%d9%84%d8%a7%d8%a8-%d8%b2%db%8c%d8%b3%d8%aa-%d8%aa%d9%87%d8%b1%d8%a7%d9%86/
+            - generic [ref=e386]:
+              - generic [ref=e388]:
+                - link [ref=e391] [cursor=pointer]:
+                  - /url: https://seylab-zist.com/product/chemical-dosing-system-chlorination-package/
+                - heading [level=4] [ref=e394]:
+                  - link "پکیج کلرزنی و تزریق مواد شیمیایی" [ref=e395] [cursor=pointer]:
+                    - /url: https://seylab-zist.com/product/chemical-dosing-system-chlorination-package/
+                - heading [level=4] [ref=e398]:
+                  - link "Chemical & Chlorine Injection Package" [ref=e399] [cursor=pointer]:
+                    - /url: https://seylab-zist.com/product/chemical-dosing-system-chlorination-package/
+              - generic [ref=e401]:
+                - link [ref=e404] [cursor=pointer]:
+                  - /url: https://seylab-zist.com/product/sluice-weir-gates/
+                - heading [level=4] [ref=e407]:
+                  - link "دریچه کشویی و سرریز" [ref=e408] [cursor=pointer]:
+                    - /url: https://seylab-zist.com/product/sluice-weir-gates/
+                - heading [level=4] [ref=e411]:
+                  - link "Sluice & Weir Gates" [ref=e412] [cursor=pointer]:
+                    - /url: https://seylab-zist.com/product/sluice-weir-gates/
+              - generic [ref=e414]:
+                - link [ref=e417] [cursor=pointer]:
+                  - /url: https://seylab-zist.com/%d9%87%d9%85%d8%b2%d9%86-%d8%a7%d8%ae%d8%aa%d9%84%d8%a7%d8%b7-mixin-agitator-%d8%b3%db%8c%d9%84%d8%a7%d8%a8-%d8%b2%db%8c%d8%b3%d8%aa/
+                - heading [level=4] [ref=e420]:
+                  - link "همزن اختلاط" [ref=e421] [cursor=pointer]:
+                    - /url: https://seylab-zist.com/%d9%87%d9%85%d8%b2%d9%86-%d8%a7%d8%ae%d8%aa%d9%84%d8%a7%d8%b7-mixin-agitator-%d8%b3%db%8c%d9%84%d8%a7%d8%a8-%d8%b2%db%8c%d8%b3%d8%aa/
+                - heading [level=4] [ref=e424]:
+                  - link "Mixing Agitator" [ref=e425] [cursor=pointer]:
+                    - /url: https://seylab-zist.com/%d9%87%d9%85%d8%b2%d9%86-%d8%a7%d8%ae%d8%aa%d9%84%d8%a7%d8%b7-mixin-agitator-%d8%b3%db%8c%d9%84%d8%a7%d8%a8-%d8%b2%db%8c%d8%b3%d8%aa/
+            - link "مشاهده همه" [ref=e429] [cursor=pointer]:
+              - /url: https://seylab-zist.com/product/
+              - generic [ref=e430]:
+                - generic [ref=e431]: 
+                - generic [ref=e433]: مشاهده همه
+          - generic [ref=e437]:
+            - heading "نمایشگاه آب و فاضلاب" [level=4] [ref=e442]
+            - generic [ref=e445]:
+              - link [ref=e446] [cursor=pointer]:
+                - /url: https://seylab-zist.com/wp-content/uploads/2024/10/نمایشگاه-آب-و-فاضلاب-1-scaled.jpg
+              - link [ref=e447] [cursor=pointer]:
+                - /url: https://seylab-zist.com/wp-content/uploads/2024/10/نمایشگاه-آب-و-فاضلاب-2-scaled.jpg
+              - link [ref=e448] [cursor=pointer]:
+                - /url: https://seylab-zist.com/wp-content/uploads/2024/10/نمایشگاه-آب-و-فاضلاب-3-scaled.jpg
+              - link [ref=e449] [cursor=pointer]:
+                - /url: https://seylab-zist.com/wp-content/uploads/2024/10/نمایشگاه-آب-و-فاضلاب-4-scaled.jpg
+            - link "مشاهده همه" [ref=e453] [cursor=pointer]:
+              - /url: https://seylab-zist.com/%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87-%d8%a2%d8%a8-%d9%88-%d9%81%d8%a7%d8%b6%d9%84%d8%a7%d8%a8/
+              - generic [ref=e454]:
+                - generic [ref=e455]: 
+                - generic [ref=e457]: مشاهده همه
+          - generic [ref=e469]:
+            - heading "پروژه های آب و فاضلاب" [level=4] [ref=e474]
+            - generic [ref=e477]:
+              - link [ref=e478] [cursor=pointer]:
+                - /url: https://seylab-zist.com/wp-content/uploads/2025/02/1740331842141.jpg
+              - link [ref=e479] [cursor=pointer]:
+                - /url: https://seylab-zist.com/wp-content/uploads/2025/02/1740331842148.jpg
+              - link [ref=e480] [cursor=pointer]:
+                - /url: https://seylab-zist.com/wp-content/uploads/2025/02/1740331842156.jpg
+              - link [ref=e481] [cursor=pointer]:
+                - /url: https://seylab-zist.com/wp-content/uploads/2025/02/1740331842163.jpg
+              - link [ref=e482] [cursor=pointer]:
+                - /url: https://seylab-zist.com/wp-content/uploads/2025/02/1740331842172.jpg
+              - link [ref=e483] [cursor=pointer]:
+                - /url: https://seylab-zist.com/wp-content/uploads/2025/02/1740331842180.jpg
+              - link [ref=e484] [cursor=pointer]:
+                - /url: https://seylab-zist.com/wp-content/uploads/2025/02/1740331842189.jpg
+              - link [ref=e485] [cursor=pointer]:
+                - /url: https://seylab-zist.com/wp-content/uploads/2025/02/1740331842198.jpg
+          - generic [ref=e497]:
+            - heading "گالری تصاویر" [level=4] [ref=e502]
+            - generic [ref=e505]:
+              - link [ref=e506] [cursor=pointer]:
+                - /url: https://seylab-zist.com/wp-content/uploads/2024/10/21.-چربیگیر-سیلاب-زیست-تهران.jpg
+              - link [ref=e507] [cursor=pointer]:
+                - /url: https://seylab-zist.com/wp-content/uploads/2024/10/16.-پروانه-هواده-سطحی.-سیلاب-زیست-تهران-scaled.jpg
+              - link [ref=e508] [cursor=pointer]:
+                - /url: https://seylab-zist.com/wp-content/uploads/2024/10/1.jpg
+              - link [ref=e509] [cursor=pointer]:
+                - /url: https://seylab-zist.com/wp-content/uploads/2024/10/هواده-سطحی-دور-کند-.-پروانه-فایبرگلاس-.jpg
+            - link "مشاهده همه" [ref=e513] [cursor=pointer]:
+              - /url: https://seylab-zist.com/gallery/
+              - generic [ref=e514]:
+                - generic [ref=e515]: 
+                - generic [ref=e517]: مشاهده همه
+            - link "مشاهده و دانلود کاتالوگ" [ref=e521] [cursor=pointer]:
+              - /url: https://seylab-zist.com/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%da%a9%d8%a7%d8%aa%d8%a7%d9%84%d9%88%da%af/
+              - generic [ref=e522]:
+                - generic [ref=e523]: 
+                - generic [ref=e525]: مشاهده و دانلود کاتالوگ
+    - contentinfo [ref=e527]:
+      - generic [ref=e529]:
+        - generic [ref=e531]:
+          - generic [ref=e533]:
+            - heading "شرکت مهندسی سیلاب زیست تهران" [level=4] [ref=e536]
+            - heading "تصفیه آب، فاضلاب و پساب های صنعتی" [level=5] [ref=e539]
+            - paragraph [ref=e542]: آب هدیه آسمانی و منشاء حیات است و جايگزيني براي آن وجود ندارد . كمبود ، محدودیت و آلودگي آب علاوه بر خطرات سلامتي و زيست محيطي می تواند بحران های اجتماعی ، پیامدهای اقتصادی و سیاسی جبران ناپذیری به همراه داشته باشد . بنابراين نه تنها حفظ كميت آب از طريق روشهای بهينه سازي مصرف و ارتقاء کیفی آن با روش های مدرن تصفیه امري ضروریست بلکه پالايش و بازیابی فاضلاب ها و پساب ها نیز به لحاظ حفظ ذخایر آبی و جلوگیری از آلودگی آنها از اهمیت بسیار بالایی برخوردار است .
+          - generic [ref=e546]:
+            - heading "ارتباط با ما:" [level=4] [ref=e549]
+            - list [ref=e552]:
+              - listitem [ref=e553]:
+                - generic [ref=e554]: 
+                - generic [ref=e556]: "نشانی : تهران ، بزرگراه رسالت ، جنب خیابان شهید همایی ، پلاک 16 ، ساختمان سپیدار ، طبقه چهارم ، واحد 8"
+              - listitem [ref=e557]:
+                - 'link "شماره تماس: 26314136 - 22331216" [ref=e558] [cursor=pointer]':
+                  - /url: tel:02122331216%20
+                  - generic [ref=e559]: 
+              - listitem [ref=e562]:
+                - 'link "تلفن همراه : 09123700249" [ref=e563] [cursor=pointer]':
+                  - /url: tel:09123700249%20
+                  - generic [ref=e564]: 
+              - listitem [ref=e567]:
+                - 'link "ایمیل : seylabzist@gmail.com" [ref=e568] [cursor=pointer]':
+                  - /url: mailto:seylabzist@gmail.com
+                  - generic [ref=e569]: 
+            - generic [ref=e574]:
+              - link "Instagram " [ref=e576] [cursor=pointer]:
+                - /url: https://instagram.com/seylab_ziste_tehran
+                - generic [ref=e577]: Instagram
+                - generic [ref=e578]: 
+              - link "Telegram " [ref=e580] [cursor=pointer]:
+                - /url: https://t.me/seylab_zist_tehran
+                - generic [ref=e581]: Telegram
+                - generic [ref=e582]: 
+        - paragraph [ref=e592]: کلیه حقوق این وبسایت متعلق به شرکت مهندسی سیلاب زیست تهران می باشد.
+  - link "دکمه اسکرول به بالا":
+    - /url: "#"
+    - text: 
+  - list [ref=e594]:
+    - listitem [ref=e595]:
+      - link "صفحه اصلی" [ref=e596] [cursor=pointer]:
+        - /url: https://seylab-zist.com/
+    - listitem [ref=e598]:
+      - link "محصولات" [ref=e599] [cursor=pointer]:
+        - /url: https://seylab-zist.com/product/
+      - generic [ref=e601] [cursor=pointer]: 
+    - listitem [ref=e602]:
+      - link "خدمات" [ref=e603] [cursor=pointer]:
+        - /url: https://seylab-zist.com/%d8%ae%d8%af%d9%85%d8%a7%d8%aa/
+    - listitem [ref=e605]:
+      - link "دانلود کاتالوگ" [ref=e606] [cursor=pointer]:
+        - /url: https://seylab-zist.com/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%da%a9%d8%a7%d8%aa%d8%a7%d9%84%d9%88%da%af/
+    - listitem [ref=e608]:
+      - link "نمایشگاه آب و فاضلاب" [ref=e609] [cursor=pointer]:
+        - /url: https://seylab-zist.com/%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87-%d8%a2%d8%a8-%d9%88-%d9%81%d8%a7%d8%b6%d9%84%d8%a7%d8%a8/
+    - listitem [ref=e611]:
+      - link "گالری تصاویر" [ref=e612] [cursor=pointer]:
+        - /url: https://seylab-zist.com/gallery/
+    - listitem [ref=e614]:
+      - link "نمایش ویدئو" [ref=e615] [cursor=pointer]:
+        - /url: https://seylab-zist.com/%d9%86%d9%85%d8%a7%db%8c%d8%b4-%d9%88%db%8c%d8%af%d8%a6%d9%88/
+    - listitem [ref=e617]:
+      - link "درباره ما" [ref=e618] [cursor=pointer]:
+        - /url: https://seylab-zist.com/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/
+    - listitem [ref=e620]:
+      - link "تماس با ما" [ref=e621] [cursor=pointer]:
+        - /url: https://seylab-zist.com/%d8%aa%d9%85%d8%a7%d8%b3-%d8%a8%d8%a7-%d9%85%d8%a7/
+  - generic [ref=e623]: desktop
+```

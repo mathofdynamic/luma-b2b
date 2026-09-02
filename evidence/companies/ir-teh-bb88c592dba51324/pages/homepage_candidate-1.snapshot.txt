@@ -1,0 +1,456 @@
+### Page
+- Page URL: https://varapars.com/
+- Page Title: راهکارهای مهندسی و تامین در صنایع انرژی | پیشرو صنعت ورا پارس
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - link "پرش به محتوا" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - banner [ref=e6]:
+        - generic [ref=e7]:
+          - generic [ref=e10]:
+            - figure [ref=e11]:
+              - link [ref=e12] [cursor=pointer]:
+                - /url: https://varapars.com
+            - heading [level=3] [ref=e14]:
+              - link "پیشرو صنعت ورا پارس" [ref=e15] [cursor=pointer]:
+                - /url: https://varapars.com
+          - navigation "Menu" [ref=e18]:
+            - list [ref=e19]:
+              - listitem [ref=e20]:
+                - link "خانه" [ref=e21] [cursor=pointer]:
+                  - /url: https://varapars.com/
+              - listitem [ref=e22]:
+                - link [ref=e23] [cursor=pointer]:
+                  - /url: https://varapars.com/about-us/
+                  - text: ورا پارس
+                  - button "تغییر وضعیت فهرست"
+              - listitem [ref=e27]:
+                - link "سوابق پروژه‌ای" [ref=e28] [cursor=pointer]:
+                  - /url: https://varapars.com/projects/
+              - listitem [ref=e29]:
+                - link "خدمات" [ref=e30] [cursor=pointer]:
+                  - /url: https://varapars.com/services/
+              - listitem [ref=e31]:
+                - link "تماس با ما" [ref=e32] [cursor=pointer]:
+                  - /url: https://varapars.com/contact-us/
+          - navigation [ref=e35]:
+            - link "فارسی FA" [ref=e37] [cursor=pointer]:
+              - /url: https://varapars.com/
+              - img "فارسی" [ref=e39]
+              - generic [ref=e40]: FA
+              - generic [ref=e41]: 
+            - list:
+              - listitem [ref=e42]:
+                - link "English EN" [ref=e43] [cursor=pointer]:
+                  - /url: https://varapars.com/en/home-2/
+                  - img "English" [ref=e45]
+                  - generic [ref=e46]: EN
+          - generic [ref=e47]:
+            - search [ref=e49]:
+              - generic [ref=e51]:
+                - generic [ref=e52]: جستجو
+                - generic [ref=e53]: جستجو
+                - searchbox "جستجو" [ref=e58]
+            - link "تماس با ما" [ref=e60] [cursor=pointer]:
+              - /url: https://varapars.com/contact-us/
+    - generic [ref=e69]:
+      - generic [ref=e70]:
+        - heading "شرکت پیشرو صنعت ورا پارس" [level=2] [ref=e72]
+        - paragraph [ref=e74]:
+          - strong [ref=e75]: راهکارهای مهندسی و تامین در صنایع انرژی
+        - link "خدمات ما" [ref=e77] [cursor=pointer]:
+          - /url: https://varapars.com/services/
+      - list [ref=e87]:
+        - listitem [ref=e88]:
+          - generic [ref=e92]: پشتیبانی فنی و تجاری پروژه‌ها
+        - listitem [ref=e93]:
+          - generic [ref=e97]: پشتوانه ۲۸ سال تجربه صنعتی
+        - listitem [ref=e98]:
+          - generic [ref=e102]: شبکه تأمین داخلی و بین‌المللی
+        - listitem [ref=e103]:
+          - generic [ref=e107]: رویکرد مهندسی محور
+      - generic [ref=e111]:
+        - heading "دربــاره مـا" [level=2] [ref=e113]
+        - paragraph [ref=e116]:
+          - strong [ref=e117]: شرکت پیشرو صـنعـت ورا پـارس بـا باور بـه شـعار «فراتر از تأمین، به سوی راه‌حل»، فـعالیـت خود را فراتر از یک تأمین‌کننده صرف تعریف کرده است. ما با ترکیب تجربه مهندسی، شبکه گسترده زنجیره تأمین و نگاه راهکارمحور، در کنار مشتریان خود می‌ایستیم تا بهترین نتایج برای پروژه‌های صنعتی رقم بخورد.
+        - link "بیشتر بخوانید" [ref=e119] [cursor=pointer]:
+          - /url: https://varapars.com/about-us/
+      - generic [ref=e128]:
+        - heading "خــدمـات مــا" [level=2] [ref=e130]
+        - generic [ref=e131]:
+          - generic [ref=e133]:
+            - heading "خرید و تأمین فنی تجهیزات و قطعات" [level=2] [ref=e135]
+            - paragraph [ref=e137]: در حوزه خرید فنی، ما فرآیند استعلام، ارزیابی، مذاکره و تأمین تجهیزات و قطعات تخصصی را به‌صـورت کـامـل پوشش می‌دهیــم. رویـکرد مــا بـر پایه دقــت فـنی، انـطـباق بـا مـشـخصـات، و بهینه‌سازی هزینه و زمان اجراست.
+          - generic [ref=e139]:
+            - heading "مهندسی جوش و بازرسی ساخت" [level=2] [ref=e141]
+            - paragraph [ref=e143]: ما خدمات مشاوره مهندسی جوش، بازبینی مدارک WPS/PQR، کنترل کیفیت ساخت و هماهنگی بازرسی‌های تخصصی را ارائه می‌دهیم. هدف این خدمت، کاهش ریسک‌های فنی، جلوگیری از دوباره‌کاری و اطمینان از انطباق فرآیند ساخت با الزامات پروژه است.
+          - generic [ref=e145]:
+            - heading "شناسایی و تأمین منابع داخلی و بین‌المللی" [level=2] [ref=e147]
+            - paragraph [ref=e149]: با بـهره‌گــیری از شـبـکـه گـسـتـرده تأمین‌کنندگان داخلی و بین‌المللی، مناسب‌ترین منـابـع را بـرای تـهـیـه تـجـهـیـزات، قـطـعات و مـواد مـورد نـیــاز شـنـاسـایی می‌کنیم. تمرکز ما بر کیفیت، اصالت کالا، قیمت رقابتی و زمان تحویل مطمئن است.
+        - generic [ref=e150]:
+          - generic [ref=e152]:
+            - heading "راهکارهای مرتبط با توربین‌های گازی و تجهیزات دوار" [level=2] [ref=e154]
+            - paragraph [ref=e156]: ما راهکارهای تخصصی برای تأمین، پشتیبانی و مدیریت تجهیزات مرتبط با توربـین‌هـای گـازی و سـایـر تجهیزات دوار ارائه می‌دهیم. این خدمات با هــدف افـزایـش قـابـلیـت اطـمـینـان، کـاهـش ریـسـک عـملـیـاتـی و بـهبـود بهره‌وری سـیستم‌ها طراحی شده‌اند.
+          - generic [ref=e158]:
+            - heading "تجهیزات ثابت، مبدل‌های حرارتی و مخازن تحت فشار" [level=2] [ref=e160]
+            - paragraph [ref=e162]: در زمـینـه تـأمـیـن تـجهیـزات ثـابـت، مـبـدل‌های حرارتی، مـخازن تـحـت فـشـار و سـایـر تجهیزات فـرایـندی، خدماتی مبتنی بر استانداردهای فنی، الـزامـات کـیـفی و نـیازهـای عـمـلیاتی پروژه ارائـه می‌کنیم. انتخاب دقیق و تأمین مطـمئـن، محور اصلی این خدمت است.
+          - generic [ref=e164]:
+            - heading "مدیریت و پشتیبانی زنجیره تأمین پروژه‌ها" [level=2] [ref=e166]
+            - paragraph [ref=e168]: ما با ارائه خدمات مدیریت و پشتیبانی زنـجیـره تأمـین، به هـماهنـگی بـهتر میان تأمین‌کنندگان، انبار، حمل‌ونقل و نیازهای پروژه کمک می‌کنیم. هـدف مـا افـزایـش شفـافیت، کـاهش تأخیرها و تـضـمین جـریـان پـایـدار تأمـیـن در طـول اجـرای پروژه است.
+      - generic [ref=e170]:
+        - generic [ref=e172]:
+          - heading "چرا پیشرو صنعت ورا پارس؟" [level=2] [ref=e174]
+          - generic [ref=e175]:
+            - paragraph [ref=e176]:
+              - text: در
+              - strong [ref=e177]: پـیشـرو صـنعت ورا پـارس، خـدمــات مـا تنــهـا بـه تـأمـیـن کـالا مـحـدود نمی‌شود. ما با نگاه راهکارمحور و بر اساس شعار «فراتر از تأمین، به سوی راه‌حل»، مجموعه‌ای کامل از خدمات مهندسی و تأمین را ارائه می‌دهیم.
+            - paragraph [ref=e178]:
+              - text: ما در
+              - strong [ref=e179]: پـیـشـرو صـنعـت ورا پارس
+              - text: ارائه‌دهنده راهـکـارهـای مهنـدسـی و تأمین در صنایع انرژی هستیم. خدمات ما شامل تأمین تجهیزات صنعتی، تأمین تجهیزات نفت، گاز، پتروشیمی و نیروگاهی، تأمـین و خـرید فـنی تجهیزات و قطعات، شناسایی و توسعه منابع تأمین داخلی و بین‌المللی، و پشتیبانی زنجیره تأمین پروژه‌های صنعتی می‌باشد. ما با تکیه بر تجربه مهندسی و شبکه گسترده تأمین، در کنار مشتریان خود برای اجرای موفق پروژه‌ها حضور داریم.
+            - list [ref=e180]:
+              - listitem [ref=e181]:
+                - strong [ref=e182]: پشتوانه ۲۸ سال تجربه صنعتی
+              - listitem [ref=e183]:
+                - strong [ref=e184]: شبکه تأمین داخلی و بین‌المللی
+              - listitem [ref=e185]:
+                - strong [ref=e186]: رویکرد مهندسی محور
+              - listitem [ref=e187]:
+                - strong [ref=e188]: پشتیبانی فنی و تجاری پروژه‌ها
+        - img "Heat exchanger" [ref=e191]
+      - generic [ref=e193]:
+        - heading "پــروژه هــای مــا" [level=2] [ref=e195]
+        - generic [ref=e197]:
+          - generic [ref=e199]:
+            - group "1 / 3" [ref=e200]:
+              - generic [ref=e202]:
+                - link "مهندسی و تامین ملزومات نیروگاه ها در زمان احداث، راه اندازی و بهره برداری" [ref=e204] [cursor=pointer]:
+                  - /url: https://varapars.com/projects/power-plant-equipment-supply/
+                - generic [ref=e207]:
+                  - heading [level=2] [ref=e208]:
+                    - link "مهندسی و تامین ملزومات نیروگاه ها در زمان احداث، راه اندازی و بهره برداری" [ref=e209] [cursor=pointer]:
+                      - /url: https://varapars.com/projects/power-plant-equipment-supply/
+                  - generic [ref=e210]:
+                    - generic [ref=e211]: ۱۰/۰۳/۱۴۰۵
+                    - generic [ref=e212]: "-"
+                    - generic [ref=e213]: بدون دیدگاه
+            - group "2 / 3" [ref=e214]:
+              - generic [ref=e216]:
+                - link "مهندسی و تامین ملزومات مجتمع های پتروشیمی در زمان احداث، راه اندازی و بهره برداری" [ref=e218] [cursor=pointer]:
+                  - /url: https://varapars.com/projects/petrochemical-equipment-supply/
+                - generic [ref=e221]:
+                  - heading [level=2] [ref=e222]:
+                    - link "مهندسی و تامین ملزومات مجتمع های پتروشیمی در زمان احداث، راه اندازی و بهره برداری" [ref=e223] [cursor=pointer]:
+                      - /url: https://varapars.com/projects/petrochemical-equipment-supply/
+                  - generic [ref=e224]:
+                    - generic [ref=e225]: ۱۰/۰۳/۱۴۰۵
+                    - generic [ref=e226]: "-"
+                    - generic [ref=e227]: بدون دیدگاه
+            - group "3 / 3" [ref=e228]:
+              - generic [ref=e230]:
+                - link [ref=e232] [cursor=pointer]:
+                  - /url: https://varapars.com/projects/gas-compressor-station-supply/
+                  - img "ایستگاه تقویت فشار گاز" [ref=e233]
+                - generic [ref=e236]:
+                  - heading [level=2] [ref=e237]:
+                    - link "مهندسی و تامین ملزومات ایستگاههای تقویت فشار گاز در زمان احداث، راه اندازی و بهره برداری" [ref=e238] [cursor=pointer]:
+                      - /url: https://varapars.com/projects/gas-compressor-station-supply/
+                  - generic [ref=e239]:
+                    - generic [ref=e240]: ۱۰/۰۳/۱۴۰۵
+                    - generic [ref=e241]: "-"
+                    - generic [ref=e242]: بدون دیدگاه
+            - group "1 / 3" [ref=e243]:
+              - generic [ref=e245]:
+                - link "مهندسی و تامین ملزومات نیروگاه ها در زمان احداث، راه اندازی و بهره برداری" [ref=e247] [cursor=pointer]:
+                  - /url: https://varapars.com/projects/power-plant-equipment-supply/
+                - generic [ref=e250]:
+                  - heading [level=2] [ref=e251]:
+                    - link "مهندسی و تامین ملزومات نیروگاه ها در زمان احداث، راه اندازی و بهره برداری" [ref=e252] [cursor=pointer]:
+                      - /url: https://varapars.com/projects/power-plant-equipment-supply/
+                  - generic [ref=e253]:
+                    - generic [ref=e254]: ۱۰/۰۳/۱۴۰۵
+                    - generic [ref=e255]: "-"
+                    - generic [ref=e256]: بدون دیدگاه
+            - group "2 / 3" [ref=e257]:
+              - generic [ref=e259]:
+                - link "مهندسی و تامین ملزومات مجتمع های پتروشیمی در زمان احداث، راه اندازی و بهره برداری" [ref=e261] [cursor=pointer]:
+                  - /url: https://varapars.com/projects/petrochemical-equipment-supply/
+                - generic [ref=e264]:
+                  - heading [level=2] [ref=e265]:
+                    - link "مهندسی و تامین ملزومات مجتمع های پتروشیمی در زمان احداث، راه اندازی و بهره برداری" [ref=e266] [cursor=pointer]:
+                      - /url: https://varapars.com/projects/petrochemical-equipment-supply/
+                  - generic [ref=e267]:
+                    - generic [ref=e268]: ۱۰/۰۳/۱۴۰۵
+                    - generic [ref=e269]: "-"
+                    - generic [ref=e270]: بدون دیدگاه
+            - group "3 / 3" [ref=e271]:
+              - generic [ref=e273]:
+                - link [ref=e275] [cursor=pointer]:
+                  - /url: https://varapars.com/projects/gas-compressor-station-supply/
+                  - img "ایستگاه تقویت فشار گاز" [ref=e276]
+                - generic [ref=e279]:
+                  - heading [level=2] [ref=e280]:
+                    - link "مهندسی و تامین ملزومات ایستگاههای تقویت فشار گاز در زمان احداث، راه اندازی و بهره برداری" [ref=e281] [cursor=pointer]:
+                      - /url: https://varapars.com/projects/gas-compressor-station-supply/
+                  - generic [ref=e282]:
+                    - generic [ref=e283]: ۱۰/۰۳/۱۴۰۵
+                    - generic [ref=e284]: "-"
+                    - generic [ref=e285]: بدون دیدگاه
+            - group "1 / 3" [ref=e286]:
+              - generic [ref=e288]:
+                - link "مهندسی و تامین ملزومات نیروگاه ها در زمان احداث، راه اندازی و بهره برداری" [ref=e290] [cursor=pointer]:
+                  - /url: https://varapars.com/projects/power-plant-equipment-supply/
+                - generic [ref=e293]:
+                  - heading [level=2] [ref=e294]:
+                    - link "مهندسی و تامین ملزومات نیروگاه ها در زمان احداث، راه اندازی و بهره برداری" [ref=e295] [cursor=pointer]:
+                      - /url: https://varapars.com/projects/power-plant-equipment-supply/
+                  - generic [ref=e296]:
+                    - generic [ref=e297]: ۱۰/۰۳/۱۴۰۵
+                    - generic [ref=e298]: "-"
+                    - generic [ref=e299]: بدون دیدگاه
+            - group "2 / 3" [ref=e300]:
+              - generic [ref=e302]:
+                - link "مهندسی و تامین ملزومات مجتمع های پتروشیمی در زمان احداث، راه اندازی و بهره برداری" [ref=e304] [cursor=pointer]:
+                  - /url: https://varapars.com/projects/petrochemical-equipment-supply/
+                - generic [ref=e307]:
+                  - heading [level=2] [ref=e308]:
+                    - link "مهندسی و تامین ملزومات مجتمع های پتروشیمی در زمان احداث، راه اندازی و بهره برداری" [ref=e309] [cursor=pointer]:
+                      - /url: https://varapars.com/projects/petrochemical-equipment-supply/
+                  - generic [ref=e310]:
+                    - generic [ref=e311]: ۱۰/۰۳/۱۴۰۵
+                    - generic [ref=e312]: "-"
+                    - generic [ref=e313]: بدون دیدگاه
+            - group "3 / 3" [ref=e314]:
+              - generic [ref=e316]:
+                - link [ref=e318] [cursor=pointer]:
+                  - /url: https://varapars.com/projects/gas-compressor-station-supply/
+                  - img "ایستگاه تقویت فشار گاز" [ref=e319]
+                - generic [ref=e322]:
+                  - heading [level=2] [ref=e323]:
+                    - link "مهندسی و تامین ملزومات ایستگاههای تقویت فشار گاز در زمان احداث، راه اندازی و بهره برداری" [ref=e324] [cursor=pointer]:
+                      - /url: https://varapars.com/projects/gas-compressor-station-supply/
+                  - generic [ref=e325]:
+                    - generic [ref=e326]: ۱۰/۰۳/۱۴۰۵
+                    - generic [ref=e327]: "-"
+                    - generic [ref=e328]: بدون دیدگاه
+          - button "Previous slide" [ref=e329] [cursor=pointer]
+          - button "Next slide" [ref=e332] [cursor=pointer]
+          - generic [ref=e335]: Showing Slide 1 of 4
+      - generic [ref=e337]:
+        - heading "ما با تکیه بر شبکه تامین بین المللی خود، محصولات و قطعات یدکی مرتبط با شرکت های زیر را برای مشتریان تامین می نماییم:" [level=2] [ref=e339]
+        - generic [ref=e342]:
+          - generic [ref=e343]:
+            - group [ref=e344]
+            - group [ref=e348]
+            - group [ref=e352]
+            - group "1 / 6" [ref=e356]:
+              - img "Sulzer" [ref=e359]
+            - group [ref=e360]
+            - group [ref=e364]
+            - group [ref=e368]
+            - group [ref=e372]
+            - group [ref=e376]
+            - group "1 / 6" [ref=e380]:
+              - img "Sulzer" [ref=e383]
+            - group [ref=e384]
+            - group [ref=e388]
+          - generic [ref=e392]:
+            - button "Go to slide 1" [ref=e393] [cursor=pointer]
+            - button "Go to slide 2" [ref=e394] [cursor=pointer]
+            - button "Go to slide 3" [ref=e395] [cursor=pointer]
+            - button "Go to slide 4" [ref=e396] [cursor=pointer]
+            - button "Go to slide 5" [ref=e397] [cursor=pointer]
+            - button "Go to slide 6" [ref=e398] [cursor=pointer]
+          - button "Previous slide" [ref=e399] [cursor=pointer]
+          - button "Next slide" [ref=e402] [cursor=pointer]
+          - generic [ref=e405]: Showing Slide 1 of 6
+      - generic [ref=e407]:
+        - generic [ref=e409]:
+          - generic [ref=e410]: "با ما ارتباط بگیرید :"
+          - form "فرم تماس با ما" [ref=e412]:
+            - generic [ref=e413]:
+              - generic [ref=e414]:
+                - generic [ref=e415] [cursor=pointer]: نام
+                - textbox "نام" [ref=e416]
+              - generic [ref=e417]:
+                - generic [ref=e418] [cursor=pointer]: نام خانوادگی
+                - textbox "نام خانوادگی" [ref=e419]
+              - generic [ref=e420]:
+                - generic [ref=e421] [cursor=pointer]: شماره تماس
+                - textbox "شماره تماس" [ref=e422]
+              - generic [ref=e423]:
+                - generic [ref=e424] [cursor=pointer]: موضوع پیام
+                - combobox "موضوع پیام" [ref=e426]:
+                  - option "موضوع پیام" [selected]
+                  - option "درخواست تأمین کالا"
+                  - option "ارسال درخواست قیمت"
+                  - option "تماس با واحد فروش"
+              - generic [ref=e427]:
+                - generic [ref=e428] [cursor=pointer]: متن پیام
+                - textbox "متن پیام" [ref=e429]
+              - button "ارسال" [ref=e431] [cursor=pointer]
+        - generic [ref=e436]:
+          - heading "در سریعترین زمان ممکن پاسخگوی شما خواهیم بود..." [level=1] [ref=e438]
+          - paragraph [ref=e440]: پـیشـرو صـنعـت ورا پـارس ارائـه‌دهنـده راهـکارهای مـهندسـی و تأمین در صنایع انرژی است. خدمات ما شامل تأمین تجهیزات صنعتی، تأمین تجهیزات نفت، گاز، پتروشیمی و نیروگاهی، تأمین و خرید فنی تجهیزات و قطعات، شناسایی و توسعه منابع تأمین داخلی و بین‌المللی، و پشتیبانی زنجیره تأمین پروژه‌های صنعتی می‌باشد. ما با تکیه بر تجربه مهندسی و شبکه گسترده تأمین، در کنار مشتریان خود برای اجرای موفق پروژه‌ها حضور داریم.
+          - link "درباره‌ی شرکت" [ref=e442] [cursor=pointer]:
+            - /url: https://varapars.com/about-us/
+      - generic [ref=e456]:
+        - generic [ref=e457]:
+          - generic [ref=e458]:
+            - group "1 / 3" [ref=e459]:
+              - generic [ref=e461]:
+                - generic [ref=e462]:
+                  - link "Air Products و نقش فناوری در امنیت زنجیره تأمین جهانی هلیوم":
+                    - /url: https://varapars.com/air-products-helium-liquefaction/
+                - generic:
+                  - generic: اخبار
+                  - banner:
+                    - heading "Air Products و نقش فناوری در امنیت زنجیره تأمین جهانی هلیوم" [level=2]
+                  - generic:
+                    - generic:
+                      - generic: نوشته شده در
+                      - text: ۲۲/۰۵/۱۴۰۵
+              - generic [ref=e463]:
+                - generic [ref=e464]:
+                  - generic [ref=e465]:
+                    - link "مایع‌سازی هلیوم؛ حلقه مفقوده زنجیره تأمین هلیوم در ایران":
+                      - /url: https://varapars.com/helium-liquefaction-iran/
+                  - generic:
+                    - generic: اخبار
+                    - banner:
+                      - heading "مایع‌سازی هلیوم؛ حلقه مفقوده زنجیره تأمین هلیوم در ایران" [level=2]
+                    - generic:
+                      - generic:
+                        - generic: نوشته شده در
+                        - text: ۱۵/۰۵/۱۴۰۵
+                - generic [ref=e466]:
+                  - generic [ref=e467]:
+                    - link "آیا توربین گازی SGT-۶۰۰ می‌تواند با هیدروژن کار کند؟":
+                      - /url: https://varapars.com/sgt-600-hydrogen-fuel-retrofit/
+                  - generic:
+                    - generic: اخبار
+                    - banner:
+                      - heading "آیا توربین گازی SGT-۶۰۰ می‌تواند با هیدروژن کار کند؟" [level=2]
+                    - generic:
+                      - generic:
+                        - generic: نوشته شده در
+                        - text: ۰۲/۰۵/۱۴۰۵
+            - group [ref=e468]:
+              - generic [ref=e470]:
+                - generic:
+                  - generic: اخبار
+                  - banner:
+                    - heading [level=2]: توربین‌های گازی هیدروژن‌پذیر؛ مسیر جدید نیروگاه‌ها در گذار انرژی
+                  - generic:
+                    - generic:
+                      - generic: نوشته شده در
+                      - text: ۲۹/۰۴/۱۴۰۵
+              - generic [ref=e472]:
+                - generic [ref=e473]:
+                  - generic:
+                    - generic: اخبار
+                    - banner:
+                      - heading [level=2]: بازگشت توجه جهانی به توربین‌های گازی؛ چرا SGT-۶۰۰ برای صنعت ایران همچنان مهم است؟
+                    - generic:
+                      - generic:
+                        - generic: نوشته شده در
+                        - text: ۲۴/۰۴/۱۴۰۵
+                - generic [ref=e475]:
+                  - generic:
+                    - generic: اخبار
+                    - banner:
+                      - heading [level=2]: توسعه ظرفیت برق عمان با دو نیروگاه سیکل ترکیبی ۲.۶ گیگاواتی
+                    - generic:
+                      - generic:
+                        - generic: نوشته شده در
+                        - text: ۱۳/۰۴/۱۴۰۵
+            - group [ref=e477]:
+              - generic [ref=e479]:
+                - generic:
+                  - generic: اخبار
+                  - banner:
+                    - heading [level=2]: مبدل‌های حرارتی پیشرفته؛ راهکار صنایع برای کاهش مصرف انرژی
+                  - generic:
+                    - generic:
+                      - generic: نوشته شده در
+                      - text: ۳۰/۰۳/۱۴۰۵
+              - generic [ref=e481]:
+                - generic [ref=e482]:
+                  - generic:
+                    - generic: اخبار
+                    - banner:
+                      - heading [level=2]: کمپرسورهای صنعتی، افزایش تقاضا در پروژه‌های گاز و پتروشیمی
+                    - generic:
+                      - generic:
+                        - generic: نوشته شده در
+                        - text: ۳۰/۰۳/۱۴۰۵
+                - generic [ref=e484]:
+                  - generic:
+                    - generic: اخبار
+                    - banner:
+                      - heading [level=2]: نوسازی شبکه‌ برق؛ افزایش سرمایه‌گذاری جهانی برای پاسخ به رشد مصرف انرژی
+                    - generic:
+                      - generic:
+                        - generic: نوشته شده در
+                        - text: ۳۰/۰۳/۱۴۰۵
+          - generic [ref=e486]: Showing Slide 1 of 3
+        - button "Previous slide" [disabled] [ref=e487] [cursor=pointer]
+        - button "Next slide" [ref=e490] [cursor=pointer]
+      - link [ref=e494] [cursor=pointer]:
+        - /url: https://sanat.ir/62304
+    - contentinfo [ref=e495]:
+      - generic [ref=e506]:
+        - generic [ref=e514]:
+          - generic [ref=e515]: پیشرو صنعت ورا پارس
+          - paragraph [ref=e517]: شرکت پیشرو صنعت ورا پارس با باور به شعار «فراتر از تأمین به سوی راه‌حل»، فعالیت خود را فراتر از یک تأمین‌کننده صرف تعریف کرده است. ما با ترکیب تجربه مهندسی، شبکه گسترده زنجیره تأمین و نگاه راهکارمحور، در کنار مشتریان خود می‌ایستیم تا بهترین نتایج برای پروژه‌های صنعتی رقم بخورد.
+        - generic [ref=e518]:
+          - generic [ref=e519]:
+            - generic [ref=e520]: دسترسی سریع
+            - list [ref=e522]:
+              - listitem [ref=e523]:
+                - link "خانه" [ref=e524] [cursor=pointer]:
+                  - /url: https://varapars.com
+              - listitem [ref=e529]:
+                - link "درباره ما" [ref=e530] [cursor=pointer]:
+                  - /url: https://varapars.com/about-us/
+              - listitem [ref=e535]:
+                - link "خدمات" [ref=e536] [cursor=pointer]:
+                  - /url: https://varapars.com/services/
+              - listitem [ref=e541]:
+                - link "تماس با ما" [ref=e542] [cursor=pointer]:
+                  - /url: https://varapars.com/contact-us/
+          - generic [ref=e547]:
+            - generic [ref=e556]: شبکه های اجتماعی
+            - list [ref=e558]:
+              - listitem [ref=e559]:
+                - link "تلگرام" [ref=e560] [cursor=pointer]:
+                  - /url: https://t.me/pishrosanatvarapars
+              - listitem [ref=e565]:
+                - link "اینستاگرام" [ref=e566] [cursor=pointer]:
+                  - /url: https://www.instagram.com/pishrosanatvarapars
+              - listitem [ref=e572]:
+                - link "واتساپ" [ref=e573] [cursor=pointer]:
+                  - /url: https://api.whatsapp.com/send?phone=989928822040
+              - listitem [ref=e578]:
+                - link "لینکدین" [ref=e579] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/pishro-sanat-vara-pars/
+          - generic [ref=e584]:
+            - generic [ref=e593]: اطلاعات تماس
+            - list [ref=e595]:
+              - listitem [ref=e596]:
+                - generic [ref=e597]: با ما تماس بگیرید
+              - listitem [ref=e598]:
+                - generic [ref=e599]: "02128428840"
+              - listitem [ref=e600]:
+                - generic [ref=e601]: به ما ایمیل بزنید
+              - listitem [ref=e602]:
+                - generic [ref=e603]: info@varapars.com
+      - generic [ref=e605]:
+        - generic [ref=e606]: 1405 © تمامی حقوق برای پیشرو صنعت ورا پارس محفوظ است و هر گونه کپی برداری پیگرد قانونی دارد
+        - link "طراحی شده با ❤️ توسط تیم وب پرس" [ref=e609] [cursor=pointer]:
+          - /url: https://www.webprees.ir/
+  - generic [ref=e610]: desktop
+```

@@ -1,7 +1,42 @@
 {
+  "commercial_audit": {
+    "independent_source_count": 1,
+    "pages_checked": 5,
+    "pages_usable": 1,
+    "sales_readiness": "NOT READY",
+    "source_families": [
+      "book_e_avval"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
   "company_id": "ir-teh-39f637b12501ac5b",
-  "errors": [],
-  "generated_at": "2026-09-01T08:34:24Z",
+  "errors": [
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 500: Internal Server Error",
+      "stage": "company_homepage",
+      "url": "http://www.abadpey.com"
+    },
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%A2%D8%A8%D8%A7%D8%AF+%D9%BE%DB%8C+%D9%BE%D8%A7%DB%8C%D8%AF%D8%A7%D8%B1%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%A2%D8%A8%D8%A7%D8%AF+%D9%BE%DB%8C+%D9%BE%D8%A7%DB%8C%D8%AF%D8%A7%D8%B1%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%A2%D8%A8%D8%A7%D8%AF+%D9%BE%DB%8C+%D9%BE%D8%A7%DB%8C%D8%AF%D8%A7%D8%B1%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    }
+  ],
+  "generated_at": "2026-09-01T15:27:11Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
@@ -73,6 +108,20 @@
       "quote_or_snippet": "آباد پی پایدار - پیمانکار نفت و گاز و پتروشیمی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس آباد پی پایدار 5.0 (2 نظر) کیفیت مهمترین بخش کار ماست پیمانکار نفت و گاز و پتروشیمی پیمانکار تاسیسات و تجهیزات پیمانکار پروژه صنعتی مهندسین مشاور تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل پیمانکار نفت و گاز و پتروشیمی تهران محله اختیاریه - رستم آباد اطلاعات تماس آدرس : تهران، منطقه 3، محله اختیاریه - ",
       "source_quality": "directory",
       "source_title": "آباد پی پایدار - پیمانکار نفت و گاز و پتروشیمی | کتاب اول",
+      "source_url": "https://avval.ir/profile/rchqd/%D8%A2%D8%A8%D8%A7%D8%AF-%D9%BE%DB%8C-%D9%BE%D8%A7%DB%8C%D8%AF%D8%A7%D8%B1"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:41Z",
+      "company_id": "ir-teh-39f637b12501ac5b",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "آباد پی پایدار - پیمانکار نفت و گاز و پتروشیمی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس آباد پی پایدار 5.0 (2 نظر) کیفیت مهمترین بخش کار ماست پیمانکار نفت و گاز و پتروشیمی پیمانکار تاسیسات و تجهیزات پیمانکار پروژه صنعتی مهندسین مشاور تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل پیمانکار نفت و گاز و پتروشیمی تهران محله اختیاریه - رستم آباد اطلاعات تماس آدرس : تهران، منطقه 3، محله اختیاریه - رستم آباد، خیابان کلاهدوز (دولت)، بعد از چهارراه اختیاریه، پلاک 119، واحد 5 تلفن : نمایش شماره XXXXXXXXXX تلفن همراه : نمایش شماره XXXXXXXXXX وب سایت www.abadpey.com ایمیل : info@abadpey.com توضیحات آ",
+      "source_family": "book_e_avval",
+      "source_id": "src-62c98b3c111d1fd5",
+      "source_quality": "public_page",
+      "source_title": "آباد پی پایدار - پیمانکار نفت و گاز و پتروشیمی | کتاب اول",
+      "source_type": "commercial_audit",
       "source_url": "https://avval.ir/profile/rchqd/%D8%A2%D8%A8%D8%A7%D8%AF-%D9%BE%DB%8C-%D9%BE%D8%A7%DB%8C%D8%AF%D8%A7%D8%B1"
     }
   ]

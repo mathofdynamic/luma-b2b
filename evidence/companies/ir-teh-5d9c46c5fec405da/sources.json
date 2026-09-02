@@ -1,7 +1,37 @@
 {
+  "commercial_audit": {
+    "independent_source_count": 2,
+    "pages_checked": 8,
+    "pages_usable": 5,
+    "sales_readiness": "READY FOR OUTREACH",
+    "source_families": [
+      "book_e_avval",
+      "company_website:takvoltage.com"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
   "company_id": "ir-teh-5d9c46c5fec405da",
-  "errors": [],
-  "generated_at": "2026-09-01T08:26:48Z",
+  "errors": [
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%AA%DA%A9+%D9%88%D9%84%D8%AA%D8%A7%DA%98%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%AA%DA%A9+%D9%88%D9%84%D8%AA%D8%A7%DA%98%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%AA%DA%A9+%D9%88%D9%84%D8%AA%D8%A7%DA%98%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    }
+  ],
+  "generated_at": "2026-09-01T15:27:11Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
@@ -53,6 +83,76 @@
       "source_quality": "directory",
       "source_title": "تک ولتاژ - واردات و صادرات لوازم الکتریکی | کتاب اول",
       "source_url": "https://avval.ir/profile/47bb8/%D8%AA%DA%A9-%D9%88%D9%84%D8%AA%D8%A7%DA%98"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:11Z",
+      "company_id": "ir-teh-5d9c46c5fec405da",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "تک ولتاژ - واردات و صادرات لوازم الکتریکی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس تک ولتاژ 4.0 (1 نظر) واردات و صادرات لوازم الکتریکی فروش ترموکوپل صنعتی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل واردات و صادرات لوازم الکتریکی تهران محله فردوسی اطلاعات تماس آدرس : تهران، منطقه 12، محله فردوسی ، خیابان لاله زار جنوبی، جنب بانک ملی، پاساژ عزیزی، طبقه دوم، واحد 204 تلفن : نمایش شماره XXXXXXXXXX وب سایت takvoltage.com/ ایمیل : mahdiyarnam22@gmail.com کد پستی : 1669743333 توضیحات پی ال سی، فشار ضعیف، فشار متوسط، درایو و ابزار دقیق محصولات اتوماسیون صنعتی قطعات اورجینال با قیمت غیر قابل ر",
+      "source_family": "book_e_avval",
+      "source_id": "src-7c83211c4064c1a8",
+      "source_quality": "public_page",
+      "source_title": "تک ولتاژ - واردات و صادرات لوازم الکتریکی | کتاب اول",
+      "source_type": "commercial_audit",
+      "source_url": "https://avval.ir/profile/47bb8/%D8%AA%DA%A9-%D9%88%D9%84%D8%AA%D8%A7%DA%98"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:11Z",
+      "company_id": "ir-teh-5d9c46c5fec405da",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "اتوماسیون صنعتی و نمایندگی زیمنس، خرید تجهیزات اتوماسیون صنعتی تک ولتاژ رد کردن به ناوبری رد کردن به محتوای اصلی محصولات اتوماسیون صنعتی با قیمت غیر قابل رقابت خبرنامه تماس با ما سوالات متداول محصولات اتوماسیون صنعتی تلفن سفارش و مشاوره: 02133928000 انتخاب دسته بندی انتخاب دسته بندی ABB کلید اتوماتیک ABB کنتاکتورهای ABB اتوماسیون صنعتی زیمنس پی ال سی زیمنس رله زیمنس سافت استارتر زیمنس | لیست قیمت سافت استارتر زیمنس فروش درایو زیمنس | نمایندگی درایو زیمنس | کاتالوگ درایو زیمنس کلید اتوماتیک زیمنس کنتاکتور زیمنس | قیمت کنتاکتور زیمنس | خرید کنتاکتور زیمنس اشنایدر رله اشنایدر کلید اتوماتیک اشنایدر کنتاکتور اشنایدر ال اس LS hmi ال اس پی ال سی ال اس کلید اتوماتیک ال اس کنتاکتورهای ال اس جستجو 0 0",
+      "source_family": "company_website:takvoltage.com",
+      "source_id": "src-85b1b3d6ce5faa5e",
+      "source_quality": "public_page",
+      "source_title": "اتوماسیون صنعتی و نمایندگی زیمنس، خرید تجهیزات اتوماسیون صنعتی تک ولتاژ",
+      "source_type": "commercial_audit",
+      "source_url": "https://takvoltage.com/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:18Z",
+      "company_id": "ir-teh-5d9c46c5fec405da",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "تماس با ما | تک ولتاژ رد کردن به ناوبری رد کردن به محتوای اصلی محصولات اتوماسیون صنعتی با قیمت غیر قابل رقابت خبرنامه تماس با ما سوالات متداول محصولات اتوماسیون صنعتی تلفن سفارش و مشاوره: 02133928000 انتخاب دسته بندی انتخاب دسته بندی ABB کلید اتوماتیک ABB کنتاکتورهای ABB اتوماسیون صنعتی زیمنس پی ال سی زیمنس رله زیمنس سافت استارتر زیمنس | لیست قیمت سافت استارتر زیمنس فروش درایو زیمنس | نمایندگی درایو زیمنس | کاتالوگ درایو زیمنس کلید اتوماتیک زیمنس کنتاکتور زیمنس | قیمت کنتاکتور زیمنس | خرید کنتاکتور زیمنس اشنایدر رله اشنایدر کلید اتوماتیک اشنایدر کنتاکتور اشنایدر ال اس LS hmi ال اس پی ال سی ال اس کلید اتوماتیک ال اس کنتاکتورهای ال اس جستجو 0 0 منو 0 دسته بندی کالاها محصولات زیمنس اشنایدر کنتا",
+      "source_family": "company_website:takvoltage.com",
+      "source_id": "src-06b00ee91958a1f1",
+      "source_quality": "public_page",
+      "source_title": "تماس با ما | تک ولتاژ",
+      "source_type": "commercial_audit",
+      "source_url": "https://takvoltage.com/contact-us/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:18Z",
+      "company_id": "ir-teh-5d9c46c5fec405da",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "کلید اتوماتیک ABB | تک ولتاژ رد کردن به ناوبری رد کردن به محتوای اصلی محصولات اتوماسیون صنعتی با قیمت غیر قابل رقابت خبرنامه تماس با ما سوالات متداول محصولات اتوماسیون صنعتی تلفن سفارش و مشاوره: 02133928000 انتخاب دسته بندی انتخاب دسته بندی ABB کلید اتوماتیک ABB کنتاکتورهای ABB اتوماسیون صنعتی زیمنس پی ال سی زیمنس رله زیمنس سافت استارتر زیمنس | لیست قیمت سافت استارتر زیمنس فروش درایو زیمنس | نمایندگی درایو زیمنس | کاتالوگ درایو زیمنس کلید اتوماتیک زیمنس کنتاکتور زیمنس | قیمت کنتاکتور زیمنس | خرید کنتاکتور زیمنس اشنایدر رله اشنایدر کلید اتوماتیک اشنایدر کنتاکتور اشنایدر ال اس LS hmi ال اس پی ال سی ال اس کلید اتوماتیک ال اس کنتاکتورهای ال اس جستجو 0 0 منو 0 دسته بندی کالاها محصولات زیمنس اشنای",
+      "source_family": "company_website:takvoltage.com",
+      "source_id": "src-ccfbe777dbe7be99",
+      "source_quality": "public_page",
+      "source_title": "کلید اتوماتیک ABB | تک ولتاژ",
+      "source_type": "commercial_audit",
+      "source_url": "https://takvoltage.com/product-category/abb/abb-circuit-breaker/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:18Z",
+      "company_id": "ir-teh-5d9c46c5fec405da",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "اتوماسیون صنعتی ABB با اصالت کیفیت و قیمت مناسب | تک ولتاژ رد کردن به ناوبری رد کردن به محتوای اصلی محصولات اتوماسیون صنعتی با قیمت غیر قابل رقابت خبرنامه تماس با ما سوالات متداول محصولات اتوماسیون صنعتی تلفن سفارش و مشاوره: 02133928000 انتخاب دسته بندی انتخاب دسته بندی ABB کلید اتوماتیک ABB کنتاکتورهای ABB اتوماسیون صنعتی زیمنس پی ال سی زیمنس رله زیمنس سافت استارتر زیمنس | لیست قیمت سافت استارتر زیمنس فروش درایو زیمنس | نمایندگی درایو زیمنس | کاتالوگ درایو زیمنس کلید اتوماتیک زیمنس کنتاکتور زیمنس | قیمت کنتاکتور زیمنس | خرید کنتاکتور زیمنس اشنایدر رله اشنایدر کلید اتوماتیک اشنایدر کنتاکتور اشنایدر ال اس LS hmi ال اس پی ال سی ال اس کلید اتوماتیک ال اس کنتاکتورهای ال اس جستجو 0 0 منو 0 دسته ب",
+      "source_family": "company_website:takvoltage.com",
+      "source_id": "src-76fb7c01b6852e06",
+      "source_quality": "public_page",
+      "source_title": "اتوماسیون صنعتی ABB با اصالت کیفیت و قیمت مناسب | تک ولتاژ",
+      "source_type": "commercial_audit",
+      "source_url": "https://takvoltage.com/product-category/abb/"
     }
   ]
 }

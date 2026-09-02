@@ -1,7 +1,31 @@
 {
+  "commercial_audit": {
+    "independent_source_count": 2,
+    "pages_checked": 6,
+    "pages_usable": 2,
+    "sales_readiness": "NEEDS DISCOVERY",
+    "source_families": [
+      "book_e_avval",
+      "company_website:applehyper.com"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
   "company_id": "ir-teh-e834f80515fefc9c",
-  "errors": [],
-  "generated_at": "2026-09-01T08:16:25Z",
+  "errors": [
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D9%BE%D8%AE%D8%B4+%D9%85%D9%88%D8%A7%D8%AF+%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C+%DA%A9%DB%8C%D8%A7%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D9%BE%D8%AE%D8%B4+%D9%85%D9%88%D8%A7%D8%AF+%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C+%DA%A9%DB%8C%D8%A7%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    }
+  ],
+  "generated_at": "2026-09-01T15:27:09Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
@@ -77,6 +101,62 @@
       "source_quality": "company_site",
       "source_title": "بازار بزرگ مواد غذایی: رب،روغن،برنج-عمده فروشی مواد غذایی-فروشگاه اینترنتی مواد غذایی",
       "source_url": "https://applehyper.com/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:08Z",
+      "company_id": "ir-teh-e834f80515fefc9c",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+9c39@duckduckgo.com Code: 9c39",
+      "source_family": "search_engine",
+      "source_id": "src-d7c46eb9d4eb04dc",
+      "source_quality": "search_index",
+      "source_title": "DuckDuckGo",
+      "source_type": "commercial_audit",
+      "source_url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D9%BE%D8%AE%D8%B4+%D9%85%D9%88%D8%A7%D8%AF+%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C+%DA%A9%DB%8C%D8%A7%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:08Z",
+      "company_id": "ir-teh-e834f80515fefc9c",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "بازار بزرگ مواد غذایی: رب،روغن،برنج-عمده فروشی مواد غذایی-فروشگاه اینترنتی مواد غذایی ورود / ثبت نام حساب کاربری من تغییر گذر واژه سفارشات خروج از حساب کاربری Apple Hyper ۰ سبد خرید جستجو ​​​​قیمت ​​​​​​​5 درصد کالاهای سایت، به روز نیست درصورت استفاده از موبایل یا تبلت ، منوی کالا، در قسمت بالا، سمت راست، مربع سبز رنگ را بزنید ​​​ ​​​​​کالاهای غذایی در بالاترین تاریخ انقضا می باشد ----( سفارش لبنیات تا قبل از ساعت 13 امکان پذیر می باشد ) فروشگاه در ایام تعطیل دایر نمی باشد ---( سایت دارای نماد اطمینان هست ) کسانی که با محیط اینترنت برای ثبت سفارش آشنایی ندارند، میتوانند تلفنی سفارش نمایند حداقل سفارش خود را بالای 320 هزار تومان در سایت ثبت فرمایید تا با شما تماس گرفته شود---( خرید حضوری وجود",
+      "source_family": "company_website:applehyper.com",
+      "source_id": "src-c57275947a6db27c",
+      "source_quality": "public_page",
+      "source_title": "بازار بزرگ مواد غذایی: رب،روغن،برنج-عمده فروشی مواد غذایی-فروشگاه اینترنتی مواد غذایی",
+      "source_type": "commercial_audit",
+      "source_url": "https://applehyper.com/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:08Z",
+      "company_id": "ir-teh-e834f80515fefc9c",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+9c39@duckduckgo.com Code: 9c39",
+      "source_family": "search_engine",
+      "source_id": "src-1d51814d75778776",
+      "source_quality": "search_index",
+      "source_title": "DuckDuckGo",
+      "source_type": "commercial_audit",
+      "source_url": "https://html.duckduckgo.com/html/?q=%22https+applehyper.com%22+Tehran+Iran+company&kl=ir-fa"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:08Z",
+      "company_id": "ir-teh-e834f80515fefc9c",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "شرکت پخش مواد غذایی کیا - فروش عمده مواد غذایی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس شرکت پخش مواد غذایی کیا عرضه مستقیم رب، روغن، برنج و سایر کالاهای غذایی در (سایت اپل هایپر) تمامی کالاها با نرخ مصوب اتحادیه بنکداران مواد غذایی و به قیمت عمده در سایت (اپل ها هایپر) فروش عمده مواد غذایی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل فروش عمده مواد غذایی تهران محله بازار اطلاعات تماس آدرس : تهران، منطقه 12، محله بازار، خیابان مولوی، سرای عادلی، پلاک 24 تلفن : نمایش شماره XXXXXXXXXX وب سایت www.applehyper.com ایمیل : applehypering@gmail.com کد پستی : 1164719331 توضیحات فروش کلیه محصولات",
+      "source_family": "book_e_avval",
+      "source_id": "src-7250a1227c20f0b1",
+      "source_quality": "public_page",
+      "source_title": "شرکت پخش مواد غذایی کیا - فروش عمده مواد غذایی | کتاب اول",
+      "source_type": "commercial_audit",
+      "source_url": "https://avval.ir/profile/90760/%D8%B4%D8%B1%DA%A9%D8%AA-%D9%BE%D8%AE%D8%B4-%D9%85%D9%88%D8%A7%D8%AF-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%DA%A9%DB%8C%D8%A7"
     }
   ]
 }

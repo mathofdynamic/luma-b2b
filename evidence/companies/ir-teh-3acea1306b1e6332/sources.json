@@ -1,4 +1,14 @@
 {
+  "commercial_audit": {
+    "independent_source_count": 1,
+    "pages_checked": 5,
+    "pages_usable": 1,
+    "sales_readiness": "NOT READY",
+    "source_families": [
+      "book_e_avval"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
   "company_id": "ir-teh-3acea1306b1e6332",
   "errors": [
     {
@@ -11,9 +21,39 @@
       "error": "### Browser `luma-b2b-ir-teh-3acea1306b1e6332-attempt-2` opened with pid 51695.\n### Error\nError: net::ERR_CONNECTION_CLOSED at https://api.whatsapp.com/send?text=avval.ir/profile/mcael/%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%D9%88-%D8%B5%D9%86%D8%B9%D8%AA-%D8%AD%DB%8C%D8%AF%D8%B1%DB%8C\nCall log:\n\u001b[2m  - navigating to \"https://api.whatsapp.com/send?text=avval.ir/profile/mcael/%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%D9%88-%D8%B5%D9%86%D8%B9%D8%AA-%D8%AD%DB%8C%D8%AF%D8%B1%DB%8C\", waiting until \"domcontentloaded\"\u001b[22m\n\n",
       "source_url": "https://api.whatsapp.com/send?text=avval.ir/profile/mcael/%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%D9%88-%D8%B5%D9%86%D8%B9%D8%AA-%D8%AD%DB%8C%D8%AF%D8%B1%DB%8C",
       "stage": "open"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "company_homepage",
+      "url": "http://wa.me/+989124832079"
+    },
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22pkc%22+Tehran+Iran+company&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%D9%88+%D8%B5%D9%86%D8%B9%D8%AA+%D8%AD%DB%8C%D8%AF%D8%B1%DB%8C%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%D9%88+%D8%B5%D9%86%D8%B9%D8%AA+%D8%AD%DB%8C%D8%AF%D8%B1%DB%8C%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%D9%88+%D8%B5%D9%86%D8%B9%D8%AA+%D8%AD%DB%8C%D8%AF%D8%B1%DB%8C%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
     }
   ],
-  "generated_at": "2026-09-01T09:29:12Z",
+  "generated_at": "2026-09-01T15:27:11Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
@@ -64,6 +104,20 @@
       "quote_or_snippet": "الکترو صنعت حیدری - تجهیزات برق صنعتی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس الکترو صنعت حیدری 5.0 (1 نظر) بهترین قیمت،بالاترین کیفیت و تخفیف ،شرایط فروش هم داریم تجهیزات برق صنعتی فروش تجهیزات برق صنعتی یا ساختمانی تجهیزات هیدرولیک و پنوماتیک تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل تجهیزات برق صنعتی تهران محله فردوسی اطلاعات تماس آدرس : تهران، منطقه 12، محله فردوسی ، خیابان لاله زار",
       "source_quality": "directory",
       "source_title": "الکترو صنعت حیدری - تجهیزات برق صنعتی | کتاب اول",
+      "source_url": "https://avval.ir/profile/mcael/%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%D9%88-%D8%B5%D9%86%D8%B9%D8%AA-%D8%AD%DB%8C%D8%AF%D8%B1%DB%8C"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:11Z",
+      "company_id": "ir-teh-3acea1306b1e6332",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "الکترو صنعت حیدری - تجهیزات برق صنعتی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس الکترو صنعت حیدری 5.0 (1 نظر) بهترین قیمت،بالاترین کیفیت و تخفیف ،شرایط فروش هم داریم تجهیزات برق صنعتی فروش تجهیزات برق صنعتی یا ساختمانی تجهیزات هیدرولیک و پنوماتیک تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل تجهیزات برق صنعتی تهران محله فردوسی اطلاعات تماس آدرس : تهران، منطقه 12، محله فردوسی ، خیابان لاله زارجنوبی، کوچه علیپور، پاساژ ممتاز، طبقه اول، واحد 2/11 تلفن : نمایش شماره XXXXXXXXXX تلفن همراه : نمایش شماره XXXXXXXXXX چت : واتس اپ ایمیل : electrosanatheidarilalezar@gmail.com صفحات اجتماعی : توضیحات",
+      "source_family": "book_e_avval",
+      "source_id": "src-b047166f20b87d38",
+      "source_quality": "public_page",
+      "source_title": "الکترو صنعت حیدری - تجهیزات برق صنعتی | کتاب اول",
+      "source_type": "commercial_audit",
       "source_url": "https://avval.ir/profile/mcael/%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%D9%88-%D8%B5%D9%86%D8%B9%D8%AA-%D8%AD%DB%8C%D8%AF%D8%B1%DB%8C"
     }
   ]

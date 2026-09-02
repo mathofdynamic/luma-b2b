@@ -1,7 +1,31 @@
 {
+  "commercial_audit": {
+    "independent_source_count": 2,
+    "pages_checked": 9,
+    "pages_usable": 4,
+    "sales_readiness": "READY FOR OUTREACH",
+    "source_families": [
+      "book_e_avval",
+      "company_website:spttrade.com"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
   "company_id": "ir-teh-4b1dd8c047fc2163",
-  "errors": [],
-  "generated_at": "2026-09-01T08:13:21Z",
+  "errors": [
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D8%A7%D8%B3%D9%BE%D9%88%D8%AA%D8%A7%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D8%A7%D8%B3%D9%BE%D9%88%D8%AA%D8%A7%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    }
+  ],
+  "generated_at": "2026-09-01T15:27:09Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
@@ -182,6 +206,104 @@
       "source_quality": "company_site",
       "source_title": "بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی",
       "source_url": "https://spttrade.com/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:07Z",
+      "company_id": "ir-teh-4b1dd8c047fc2163",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+9c39@duckduckgo.com Code: 9c39",
+      "source_family": "search_engine",
+      "source_id": "src-3119d8e553b48ce6",
+      "source_quality": "search_index",
+      "source_title": "DuckDuckGo",
+      "source_type": "commercial_audit",
+      "source_url": "https://html.duckduckgo.com/html/?q=%22%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D8%A7%D8%B3%D9%BE%D9%88%D8%AA%D8%A7%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:07Z",
+      "company_id": "ir-teh-4b1dd8c047fc2163",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "بازرگانی اسپوتا - تجهیزات تصفیه آب و فاضلاب | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس بازرگانی اسپوتا تجهیزات تصفیه آب و فاضلاب واردات صادرات مواد شیمیایی فروش مواد شیمیایی تماس ثبت نظر ویرایش اشتراک گذاری دسته‌بندی مشاغل تجهیزات تصفیه آب و فاضلاب تهران محله آبشار اطلاعات تماس آدرس : تهران، منطقه 12، محله آبشار، میدان مادر (محسنی)، خیابان شاه نظری، کوچه دوم، پلاک 22 تلفن : نمایش شماره XXXXXXXXXX تلفن همراه : نمایش شماره XXXXXXXXXX چت : واتس اپ وب سایت spttrade.com کد پستی : 5714733604 صفحات اجتماعی : لیست خدمات و محصولات تجهیزات تصفیه آب و فاضلاب واردات صادرات مواد شیمیایی فروش مواد شیمیایی مواد اولیه شیمی",
+      "source_family": "book_e_avval",
+      "source_id": "src-6833c1d1fd588205",
+      "source_quality": "public_page",
+      "source_title": "بازرگانی اسپوتا - تجهیزات تصفیه آب و فاضلاب | کتاب اول",
+      "source_type": "commercial_audit",
+      "source_url": "https://avval.ir/profile/smbtd/%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%A7%D8%B3%D9%BE%D9%88%D8%AA%D8%A7"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:07Z",
+      "company_id": "ir-teh-4b1dd8c047fc2163",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+9c39@duckduckgo.com Code: 9c39",
+      "source_family": "search_engine",
+      "source_id": "src-de6f827982b36a75",
+      "source_quality": "search_index",
+      "source_title": "DuckDuckGo",
+      "source_type": "commercial_audit",
+      "source_url": "https://html.duckduckgo.com/html/?q=%22https+spttrade.com%22+Tehran+Iran+company&kl=ir-fa"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:08Z",
+      "company_id": "ir-teh-4b1dd8c047fc2163",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی Skip to navigation Skip to main content همه دسته بندی ها مواد تصفیه آب کربن فعال کربن اکتیو جاکوبی 1000 کربن اکتیو جاکوبی 2000 کربن اکتیو جاکوبی 6000 ضد کف | آنتی فوم ضد کف سیلیکونی ضد کف غیر سیلیکونی آنتی اسکالانت آنتی اسکالانت فلوکن 260 آنتی اسکالانت فلوکن 190 آنتی اسکالانت آویستا آنتی اسکالانت جنسیس رزین تبادل یونی رزین سختی گیر رزین آنیونی رزین میکس بد کلر کلر هندی آکوافیت کلر پارس تبریز کلر کلران سمنان کلر نیروکلر اصفهان سایر مواد تصفیه آب اکسیژنه نمک سختی گیر خاک دیاتومه پلی الکترولیت آنتراسیت سیلیس تجهیزات تصفیه آب فیلتر ممبران فیلتر ممبران صنعتی فیلتر ممبران نیمه صنعتی فیلتر ممبران خانگی فیلتر ممبران آمریکایی فیلت",
+      "source_family": "company_website:spttrade.com",
+      "source_id": "src-de1afc5d9fa38566",
+      "source_quality": "public_page",
+      "source_title": "بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی",
+      "source_type": "commercial_audit",
+      "source_url": "https://spttrade.com/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:14Z",
+      "company_id": "ir-teh-4b1dd8c047fc2163",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "مواد تصفیه آب | قیمت فروش و خرید [2024] - بازرگانی اسپوتا Skip to navigation Skip to main content همه دسته بندی ها مواد تصفیه آب کربن فعال کربن اکتیو جاکوبی 1000 کربن اکتیو جاکوبی 2000 کربن اکتیو جاکوبی 6000 ضد کف | آنتی فوم ضد کف سیلیکونی ضد کف غیر سیلیکونی آنتی اسکالانت آنتی اسکالانت فلوکن 260 آنتی اسکالانت فلوکن 190 آنتی اسکالانت آویستا آنتی اسکالانت جنسیس رزین تبادل یونی رزین سختی گیر رزین آنیونی رزین میکس بد کلر کلر هندی آکوافیت کلر پارس تبریز کلر کلران سمنان کلر نیروکلر اصفهان سایر مواد تصفیه آب اکسیژنه نمک سختی گیر خاک دیاتومه پلی الکترولیت آنتراسیت سیلیس تجهیزات تصفیه آب فیلتر ممبران فیلتر ممبران صنعتی فیلتر ممبران نیمه صنعتی فیلتر ممبران خانگی فیلتر ممبران آمریکایی فیلتر ممبران ال ج",
+      "source_family": "company_website:spttrade.com",
+      "source_id": "src-a00a70b891a119de",
+      "source_quality": "public_page",
+      "source_title": "مواد تصفیه آب | قیمت فروش و خرید [2024] - بازرگانی اسپوتا",
+      "source_type": "commercial_audit",
+      "source_url": "https://spttrade.com/product-category/water-treatment-materials/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:15Z",
+      "company_id": "ir-teh-4b1dd8c047fc2163",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "کربن اکتیو جاکوبی 1000 آکواسرب AquaSorb - بازرگانی اسپوتا Skip to navigation Skip to main content همه دسته بندی ها مواد تصفیه آب کربن فعال کربن اکتیو جاکوبی 1000 کربن اکتیو جاکوبی 2000 کربن اکتیو جاکوبی 6000 ضد کف | آنتی فوم ضد کف سیلیکونی ضد کف غیر سیلیکونی آنتی اسکالانت آنتی اسکالانت فلوکن 260 آنتی اسکالانت فلوکن 190 آنتی اسکالانت آویستا آنتی اسکالانت جنسیس رزین تبادل یونی رزین سختی گیر رزین آنیونی رزین میکس بد کلر کلر هندی آکوافیت کلر پارس تبریز کلر کلران سمنان کلر نیروکلر اصفهان سایر مواد تصفیه آب اکسیژنه نمک سختی گیر خاک دیاتومه پلی الکترولیت آنتراسیت سیلیس تجهیزات تصفیه آب فیلتر ممبران فیلتر ممبران صنعتی فیلتر ممبران نیمه صنعتی فیلتر ممبران خانگی فیلتر ممبران آمریکایی فیلتر ممبران ال ج",
+      "source_family": "company_website:spttrade.com",
+      "source_id": "src-4122ad987c7e1943",
+      "source_quality": "public_page",
+      "source_title": "کربن اکتیو جاکوبی 1000 آکواسرب AquaSorb - بازرگانی اسپوتا",
+      "source_type": "commercial_audit",
+      "source_url": "https://spttrade.com/product/jacobi-aquasorb-1000/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:15Z",
+      "company_id": "ir-teh-4b1dd8c047fc2163",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "خرید کربن فعال | قیمت کربن اکتیو [شهریور 1405] Skip to navigation Skip to main content همه دسته بندی ها مواد تصفیه آب کربن فعال کربن اکتیو جاکوبی 1000 کربن اکتیو جاکوبی 2000 کربن اکتیو جاکوبی 6000 ضد کف | آنتی فوم ضد کف سیلیکونی ضد کف غیر سیلیکونی آنتی اسکالانت آنتی اسکالانت فلوکن 260 آنتی اسکالانت فلوکن 190 آنتی اسکالانت آویستا آنتی اسکالانت جنسیس رزین تبادل یونی رزین سختی گیر رزین آنیونی رزین میکس بد کلر کلر هندی آکوافیت کلر پارس تبریز کلر کلران سمنان کلر نیروکلر اصفهان سایر مواد تصفیه آب اکسیژنه نمک سختی گیر خاک دیاتومه پلی الکترولیت آنتراسیت سیلیس تجهیزات تصفیه آب فیلتر ممبران فیلتر ممبران صنعتی فیلتر ممبران نیمه صنعتی فیلتر ممبران خانگی فیلتر ممبران آمریکایی فیلتر ممبران ال جی کم فیلتر ",
+      "source_family": "company_website:spttrade.com",
+      "source_id": "src-5a018b5a63051aed",
+      "source_quality": "public_page",
+      "source_title": "خرید کربن فعال | قیمت کربن اکتیو [شهریور 1405]",
+      "source_type": "commercial_audit",
+      "source_url": "https://spttrade.com/product-category/activated-carbon/"
     }
   ]
 }

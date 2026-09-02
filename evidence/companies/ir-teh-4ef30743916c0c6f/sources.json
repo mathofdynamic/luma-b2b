@@ -1,0 +1,63 @@
+{
+  "commercial_audit": {
+    "independent_source_count": 1,
+    "pages_checked": 5,
+    "pages_usable": 1,
+    "sales_readiness": "NOT READY",
+    "source_families": [
+      "book_e_avval"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
+  "company_id": "ir-teh-4ef30743916c0c6f",
+  "errors": [
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%DA%AF%D8%B1%D9%88%D9%87+%D8%B5%D9%86%D8%B9%D8%AA%DB%8C+%D8%AF%D8%B1%D9%88%DB%8C%D8%B4%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 503: Service Unavailable",
+      "stage": "company_homepage",
+      "url": "http://www.darvishpump.ir"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%DA%AF%D8%B1%D9%88%D9%87+%D8%B5%D9%86%D8%B9%D8%AA%DB%8C+%D8%AF%D8%B1%D9%88%DB%8C%D8%B4%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%DA%AF%D8%B1%D9%88%D9%87+%D8%B5%D9%86%D8%B9%D8%AA%DB%8C+%D8%AF%D8%B1%D9%88%DB%8C%D8%B4%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    }
+  ],
+  "generated_at": "2026-09-01T15:27:11Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:41Z",
+      "company_id": "ir-teh-4ef30743916c0c6f",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "گروه صنعتی درویش - فروش ماشین آلات صنعتی و کشاورزی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس گروه صنعتی درویش 4.0 (1 نظر) فروش پمپ اسید با الکتروموتور تک فاز و سه فاز مناسب برای انتقال مواد اسیدی بازی و شیمیایی نمایندگی فروش ماشین آلات صنعتی و کشاورزی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل فروش ماشین آلات صنعتی و کشاورزی تهران محله بهارستان اطلاعات تماس آدرس : تهران، منطقه 12، محله بهارستان، خیابان سعدی جنوبی، کوچه خوانساری، کوچه فخرایی، پاساژ صدقی نژاد، طبقه همکف، پلاک 9 تلفن : نمایش شماره XXXXXXXXXX وب سایت www.darvishpump.ir ایمیل : darvishgr@gmail.com کد پستی : 1143746316 صفحات",
+      "source_family": "book_e_avval",
+      "source_id": "src-b73d86d6178dffb2",
+      "source_quality": "public_page",
+      "source_title": "گروه صنعتی درویش - فروش ماشین آلات صنعتی و کشاورزی | کتاب اول",
+      "source_type": "commercial_audit",
+      "source_url": "https://avval.ir/profile/414e9/%DA%AF%D8%B1%D9%88%D9%87-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C-%D8%AF%D8%B1%D9%88%DB%8C%D8%B4"
+    }
+  ]
+}

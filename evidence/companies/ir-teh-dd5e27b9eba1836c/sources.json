@@ -1,0 +1,63 @@
+{
+  "commercial_audit": {
+    "independent_source_count": 1,
+    "pages_checked": 5,
+    "pages_usable": 1,
+    "sales_readiness": "NOT READY",
+    "source_families": [
+      "book_e_avval"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
+  "company_id": "ir-teh-dd5e27b9eba1836c",
+  "errors": [
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 503: Service Unavailable",
+      "stage": "company_homepage",
+      "url": "http://www.half-co.com"
+    },
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D9%87%D8%A7%D9%84%D9%81%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D9%87%D8%A7%D9%84%D9%81%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D9%87%D8%A7%D9%84%D9%81%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    }
+  ],
+  "generated_at": "2026-09-01T15:27:11Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:40Z",
+      "company_id": "ir-teh-dd5e27b9eba1836c",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "هالف - فروش تجهیزات پزشکی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس هالف 4.0 (1 نظر) صادرات و واردات انواع محصولات پزشکی فروش تجهیزات پزشکی تعمیر تجهیزات پزشکی تولید و پخش تجهیزات پزشکی واردات تجهیزات پزشکی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل فروش تجهیزات پزشکی تهران منطقه 7 اطلاعات تماس آدرس : تهران، منطقه 7، خیابان سهروردی شمالی، کوچه آزادی، پلاک 38 تلفن : نمایش شماره XXXXXXXXXX تلفن همراه : نمایش شماره XXXXXXXXXX فکس : نمایش شماره XXXXXXXXXX وب سایت www.half-co.com ایمیل : ganj.halfco@gmail.com توضیحات این شرکت در زمینه واردات و صادارت انواع محصولات پزشکی و غذایی به ایران و ک",
+      "source_family": "book_e_avval",
+      "source_id": "src-964534b50f2069a7",
+      "source_quality": "public_page",
+      "source_title": "هالف - فروش تجهیزات پزشکی | کتاب اول",
+      "source_type": "commercial_audit",
+      "source_url": "https://avval.ir/profile/2c506/%D9%87%D8%A7%D9%84%D9%81"
+    }
+  ]
+}

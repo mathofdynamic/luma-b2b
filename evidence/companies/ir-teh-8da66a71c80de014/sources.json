@@ -1,4 +1,14 @@
 {
+  "commercial_audit": {
+    "independent_source_count": 1,
+    "pages_checked": 5,
+    "pages_usable": 1,
+    "sales_readiness": "NOT READY",
+    "source_families": [
+      "book_e_avval"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
   "company_id": "ir-teh-8da66a71c80de014",
   "errors": [
     {
@@ -6,9 +16,39 @@
       "error": "TimeoutExpired: Command '['/Users/mohammad/.codex/skills/playwright/scripts/playwright_cli.sh', '-s=luma-b2b-ir-teh-8da66a71c80de014-attempt-1', 'open', 'https://api.whatsapp.com/send?text=avval.ir/profile/qlkch/%D8%A2%D8%B1%D8%A7%D8%AF-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D9%BE%DB%8C%D8%B4%D8%B1%D9%88-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%A2%D8%B1%D8%A7%D9%86%D9%88%D8%A7', '--config', 'config/playwright.headless.json']' timed out after 15 seconds",
       "source_url": "https://api.whatsapp.com/send?text=avval.ir/profile/qlkch/%D8%A2%D8%B1%D8%A7%D8%AF-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D9%BE%DB%8C%D8%B4%D8%B1%D9%88-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%A2%D8%B1%D8%A7%D9%86%D9%88%D8%A7",
       "stage": "browser"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%A2%D8%B1%D8%A7%D8%AF+%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA+%D9%BE%DB%8C%D8%B4%D8%B1%D9%88+%D9%BE%D8%A7%D8%B1%D8%B3+%28+%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D8%A2%D8%B1%D8%A7%D9%86%D9%88%D8%A7%29%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22ARANOVA%22+Tehran+Iran+company&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "company_homepage",
+      "url": "https://api.whatsapp.com/send?text=avval.ir/profile/qlkch/%D8%A2%D8%B1%D8%A7%D8%AF-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D9%BE%DB%8C%D8%B4%D8%B1%D9%88-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%A2%D8%B1%D8%A7%D9%86%D9%88%D8%A7"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%A2%D8%B1%D8%A7%D8%AF+%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA+%D9%BE%DB%8C%D8%B4%D8%B1%D9%88+%D9%BE%D8%A7%D8%B1%D8%B3+%28+%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D8%A2%D8%B1%D8%A7%D9%86%D9%88%D8%A7%29%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%A2%D8%B1%D8%A7%D8%AF+%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA+%D9%BE%DB%8C%D8%B4%D8%B1%D9%88+%D9%BE%D8%A7%D8%B1%D8%B3+%28+%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D8%A2%D8%B1%D8%A7%D9%86%D9%88%D8%A7%29%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
     }
   ],
-  "generated_at": "2026-09-01T09:28:43Z",
+  "generated_at": "2026-09-01T15:27:11Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
@@ -101,6 +141,20 @@
       "quote_or_snippet": "آراد تجارت پیشرو پارس ( بازرگانی آرانوا) - واردات صادرات مواد شیمیایی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس آراد تجارت پیشرو پارس ( بازرگانی آرانوا) 5.0 (1 نظر) شرکت آراد تجارت پیشرو پارس برند تجاری: ARANOVA آرانوا واردکننده و تأمین کننده تخصصی انواع مواد اولیه صنایع غذایی با کیفیت و قیمت رقابتی. واردات صادرات مواد شیمیایی اسید و باز واردات و صادرات مواد اولیه غذایی تماس ثبت نظر ارتقای پروفایل ویرایش اشترا",
       "source_quality": "directory",
       "source_title": "آراد تجارت پیشرو پارس ( بازرگانی آرانوا) - واردات صادرات مواد شیمیایی | کتاب اول",
+      "source_url": "https://avval.ir/profile/qlkch/%D8%A2%D8%B1%D8%A7%D8%AF-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D9%BE%DB%8C%D8%B4%D8%B1%D9%88-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%A2%D8%B1%D8%A7%D9%86%D9%88%D8%A7"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:11Z",
+      "company_id": "ir-teh-8da66a71c80de014",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "آراد تجارت پیشرو پارس ( بازرگانی آرانوا) - واردات صادرات مواد شیمیایی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس آراد تجارت پیشرو پارس ( بازرگانی آرانوا) 5.0 (1 نظر) شرکت آراد تجارت پیشرو پارس برند تجاری: ARANOVA آرانوا واردکننده و تأمین کننده تخصصی انواع مواد اولیه صنایع غذایی با کیفیت و قیمت رقابتی. واردات صادرات مواد شیمیایی اسید و باز واردات و صادرات مواد اولیه غذایی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل واردات صادرات مواد شیمیایی تهران محله جنت آباد مرکزی اطلاعات تماس آدرس : تهران، منطقه 5، محله جنت آباد مرکزی، بزرگراه اشرفی اصفهانی تلفن همراه : نمایش شماره XXXXXXXXXX تلفن : ن",
+      "source_family": "book_e_avval",
+      "source_id": "src-39c348a23aa48828",
+      "source_quality": "public_page",
+      "source_title": "آراد تجارت پیشرو پارس ( بازرگانی آرانوا) - واردات صادرات مواد شیمیایی | کتاب اول",
+      "source_type": "commercial_audit",
       "source_url": "https://avval.ir/profile/qlkch/%D8%A2%D8%B1%D8%A7%D8%AF-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D9%BE%DB%8C%D8%B4%D8%B1%D9%88-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%A2%D8%B1%D8%A7%D9%86%D9%88%D8%A7"
     }
   ]

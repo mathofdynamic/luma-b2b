@@ -1,7 +1,37 @@
 {
+  "commercial_audit": {
+    "independent_source_count": 2,
+    "pages_checked": 9,
+    "pages_usable": 3,
+    "sales_readiness": "NOT READY",
+    "source_families": [
+      "book_e_avval",
+      "company_website:caspiank.com"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
   "company_id": "ir-teh-788839fced8a31cb",
-  "errors": [],
-  "generated_at": "2026-09-01T08:15:21Z",
+  "errors": [
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%DA%A9%D8%A7%D8%B3%D9%BE%DB%8C%D9%86+%DA%A9%D9%88%D9%87%D8%AF%D8%B4%D8%AA%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22https+caspiank.com%22+Tehran+Iran+company&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%DA%A9%D8%A7%D8%B3%D9%BE%DB%8C%D9%86+%DA%A9%D9%88%D9%87%D8%AF%D8%B4%D8%AA%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    }
+  ],
+  "generated_at": "2026-09-01T15:27:11Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
@@ -101,6 +131,90 @@
       "source_quality": "company_site",
       "source_title": "Home - Caspiank",
       "source_url": "https://caspiank.com/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:10Z",
+      "company_id": "ir-teh-788839fced8a31cb",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "Home - Caspiank Search Popular searches herbal index Close Offerings Offerings Active Pharmaceutical ingredientsAPI) With our experience in extracting essential oil, we lunch our new narcotic API factory. We have the brightest people in the industry and believe that their divers experience and perspectives help to bring out our best idea, drive innovation and achieve transformative business result. Herbal Products We offer sweat, seeds oil essential oil, from Fennel, Mint Peppermint, Cinnamon, Savory Coriander, Sesame and Lavender our products are used in cosmetic and food industries Food Products Caspian is an Iranian leading malting company with a 20.000 tones production capacity.Producing",
+      "source_family": "company_website:caspiank.com",
+      "source_id": "src-d07f80d9bdbca99d",
+      "source_quality": "public_page",
+      "source_title": "Home - Caspiank",
+      "source_type": "commercial_audit",
+      "source_url": "https://caspiank.com/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:10Z",
+      "company_id": "ir-teh-788839fced8a31cb",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "کاسپین کوهدشت - تولید مواد غذایی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس کاسپین کوهدشت 5.0 (1 نظر) تولید مواد غذایی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل تولید مواد غذایی تهران محله مرزداران اطلاعات تماس آدرس : تهران، منطقه 5، محله مرزداران، بزرگراه اشرفی اصفهانی، بن بست گلها، پلاک 2، واحد 7 تلفن : نمایش شماره XXXXXXXXXX وب سایت www.caspiank.com ایمیل : contact@caspiank.com کد پستی : 1461714133 توضیحات کارخانه : استان همدان ، نهاوند، کمربندی نهاوند به بروجرد ، جاده روستای وشت ، کارخانه مالت کاسپین نظرات لطفا به این کسب و کار امتیاز بدید و نظر خودتون رو درباره این کسب و کار بنویس",
+      "source_family": "book_e_avval",
+      "source_id": "src-e3df994782309cfa",
+      "source_quality": "public_page",
+      "source_title": "کاسپین کوهدشت - تولید مواد غذایی | کتاب اول",
+      "source_type": "commercial_audit",
+      "source_url": "https://avval.ir/profile/7d90b/%DA%A9%D8%A7%D8%B3%D9%BE%DB%8C%D9%86-%DA%A9%D9%88%D9%87%D8%AF%D8%B4%D8%AA"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:18Z",
+      "company_id": "ir-teh-788839fced8a31cb",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "گیاهی - Caspian Sabz Search Popular searches herbal index Close فعالیتهای ما فعالیت های ما ماده موثره داروئی نارکوتیک تولید ماده موثره دارویی از مواد مخدر گیاهی که در تولید طیف گسترده ای از دارو ها ماننده داروهای مسکن ، آرامبخش ، بیهوشی ، ضد سرفه و … استفاده میگردد. کیفیت محصول ما مطابق با آخرین فارما کوپه های دارویی جهان و تایید سازمان غذا و دارو ایران میباشد. گیاهی تولید روغن و اسانس از اندام های گیاهان ، پودر و ژل آلوئه ورا به روش های غیر شیمیایی مورد مصرف در خطوط تولید صنایع غذایی ، آرایشی بهداشتی و دارویی صنایع غذایی کاسپین بزرگترین تولید کننده مالت جو مورد مصرف در صنایع آبجو سازی میباشد.همچنین آلوئه ورا مورد نیاز درصنایع غذایی را در گلخانه های خود تولید می نماید. تحقیق و توسعه انجام پر",
+      "source_family": "company_website:caspiank.com",
+      "source_id": "src-7c805e191a920706",
+      "source_quality": "public_page",
+      "source_title": "گیاهی - Caspian Sabz",
+      "source_type": "commercial_audit",
+      "source_url": "https://caspiank.com/fa/herbal/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:18Z",
+      "company_id": "ir-teh-788839fced8a31cb",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "غذا - Caspian Sabz Search Popular searches herbal index Close فعالیتهای ما فعالیت های ما ماده موثره داروئی نارکوتیک تولید ماده موثره دارویی از مواد مخدر گیاهی که در تولید طیف گسترده ای از دارو ها ماننده داروهای مسکن ، آرامبخش ، بیهوشی ، ضد سرفه و … استفاده میگردد. کیفیت محصول ما مطابق با آخرین فارما کوپه های دارویی جهان و تایید سازمان غذا و دارو ایران میباشد. گیاهی تولید روغن و اسانس از اندام های گیاهان ، پودر و ژل آلوئه ورا به روش های غیر شیمیایی مورد مصرف در خطوط تولید صنایع غذایی ، آرایشی بهداشتی و دارویی صنایع غذایی کاسپین بزرگترین تولید کننده مالت جو مورد مصرف در صنایع آبجو سازی میباشد.همچنین آلوئه ورا مورد نیاز درصنایع غذایی را در گلخانه های خود تولید می نماید. تحقیق و توسعه انجام پروژ",
+      "source_family": "company_website:caspiank.com",
+      "source_id": "src-c4abd995154368d4",
+      "source_quality": "public_page",
+      "source_title": "غذا - Caspian Sabz",
+      "source_type": "commercial_audit",
+      "source_url": "https://caspiank.com/fa/food/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:18Z",
+      "company_id": "ir-teh-788839fced8a31cb",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "Products & Services - Caspiank Search Popular searches herbal index Close Offerings Offerings Active Pharmaceutical ingredientsAPI) With our experience in extracting essential oil, we lunch our new narcotic API factory. We have the brightest people in the industry and believe that their divers experience and perspectives help to bring out our best idea, drive innovation and achieve transformative business result. Herbal Products We offer sweat, seeds oil essential oil, from Fennel, Mint Peppermint, Cinnamon, Savory Coriander, Sesame and Lavender our products are used in cosmetic and food industries Food Products Caspian is an Iranian leading malting company with a 20.000 tones production cap",
+      "source_family": "company_website:caspiank.com",
+      "source_id": "src-211481f395fe4286",
+      "source_quality": "public_page",
+      "source_title": "Products & Services - Caspiank",
+      "source_type": "commercial_audit",
+      "source_url": "https://caspiank.com/products-services/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:44:22Z",
+      "company_id": "ir-teh-788839fced8a31cb",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+9c39@duckduckgo.com Code: 9c39",
+      "source_family": "search_engine",
+      "source_id": "src-89c0aefa9a57fcb8",
+      "source_quality": "search_index",
+      "source_title": "DuckDuckGo",
+      "source_type": "commercial_audit",
+      "source_url": "https://html.duckduckgo.com/html/?q=%22%DA%A9%D8%A7%D8%B3%D9%BE%DB%8C%D9%86+%DA%A9%D9%88%D9%87%D8%AF%D8%B4%D8%AA%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
     }
   ]
 }

@@ -1,0 +1,373 @@
+### Page
+- Page URL: https://tabaservice.ir/
+- Page Title: ایفا صنعت تابا - مهندسی و خدمات تابا
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - link "پرش به محتوا" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=e3]:
+    - generic [ref=e5]:
+      - link [ref=e8] [cursor=pointer]:
+        - /url: https://tabaservice.ir
+      - navigation "منو" [ref=e12]:
+        - generic "تنظیم فهرست" [ref=e13]:
+          - list [ref=e14]:
+            - listitem [ref=e15]:
+              - generic [ref=e16]:
+                - generic [ref=e17]: منو
+                - button "باز کردن در منو"
+            - listitem [ref=e28]:
+              - link "ارتباط با تابا" [ref=e30] [cursor=pointer]:
+                - /url: /contact-us/
+      - link "021-75041000" [ref=e42] [cursor=pointer]:
+        - /url: tel:02175041000
+      - link "Language" [ref=e54] [cursor=pointer]:
+        - /url: "#elementor-action%3Aaction%3Doff_canvas%3Aopen%26settings%3DeyJpZCI6IjY1NDNjYzMiLCJkaXNwbGF5TW9kZSI6Im9wZW4ifQ%3D%3D"
+        - img "Language" [ref=e55]
+      - link [ref=e63] [cursor=pointer]:
+        - /url: "#elementor-action%3Aaction%3Doff_canvas%3Aopen%26settings%3DeyJpZCI6ImM2MWIyMDMiLCJkaXNwbGF5TW9kZSI6Im9wZW4ifQ%3D%3D"
+  - main [ref=e69]:
+    - generic [ref=e71]:
+      - generic [ref=e73]:
+        - heading "مـهـنـدسـی و خـدمـات تـابـا" [level=1] [ref=e75]:
+          - text: مـهـنـدسـی و خـدمـات
+          - generic [ref=e76]: تـابـا
+        - paragraph [ref=e79]: تـبـلـور انـدیـشـه‌هـا، بـاور ایده‌هـا
+        - paragraph [ref=e85]: شرکت مهندسی و خدمات تابا در سال 93 با هدف ارایه خدمات پیشرو نوین در صنایع نفت ، گاز ، پتروشیمی و نیروگاهی در داخل کشور و نیز کشور های منطقه به عنوان یکی از شرکت های گروه تانا انرژی شروع به فعالیت نموده است.
+      - heading "تضمین عملکرد پایدار با خدمات با کیفیت مهندسی و خدمات تابا" [level=2] [ref=e89]
+      - generic [ref=e91]:
+        - generic [ref=e92]:
+          - heading "توربین‌های گازی" [level=2] [ref=e106]
+          - generic [ref=e107]:
+            - heading "توربین‌های گازی" [level=2] [ref=e109]
+            - link "مطالعه بیشتر" [ref=e111] [cursor=pointer]:
+              - /url: /solutions/turbines-and-rotating-equipment/
+        - generic [ref=e117]:
+          - heading "توربین‌های بخاری" [level=2] [ref=e128]
+          - generic [ref=e129]:
+            - heading "توربین‌های بخاری" [level=2] [ref=e131]
+            - link "مطالعه بیشتر" [ref=e133] [cursor=pointer]:
+              - /url: "#"
+        - generic [ref=e139]:
+          - heading "کمپرسورهای فرایندی" [level=2] [ref=e153]
+          - generic [ref=e154]:
+            - heading "کمپرسورهای فرایندی" [level=2] [ref=e156]
+            - link "مطالعه بیشتر" [ref=e158] [cursor=pointer]:
+              - /url: /solutions/process-compressors/
+        - generic [ref=e164]:
+          - heading "برج‌های خنک کننده" [level=2] [ref=e173]
+          - generic [ref=e174]:
+            - heading "برج‌های خنک کننده" [level=2] [ref=e176]
+            - link "مطالعه بیشتر" [ref=e178] [cursor=pointer]:
+              - /url: /solutions/cooling-towers-and-systems/
+        - generic [ref=e184]:
+          - heading "بهره برداری و تعمیرات" [level=2] [ref=e196]
+          - generic [ref=e197]:
+            - heading "بهره برداری و تعمیرات" [level=2] [ref=e199]
+            - link "مطالعه بیشتر" [ref=e201] [cursor=pointer]:
+              - /url: /abilities/maintenance-and-rehabilitation/
+        - generic [ref=e207]:
+          - heading "تصفیه خانه‌های آب" [level=2] [ref=e217]
+          - generic [ref=e218]:
+            - heading "تصفیه خانه‌های آب" [level=2] [ref=e220]
+            - link "مطالعه بیشتر" [ref=e222] [cursor=pointer]:
+              - /url: /solutions/water-and-environment/
+      - generic [ref=e230]:
+        - generic [ref=e231]:
+          - heading "تبدیل ظرفیت‌ها به موفقیت در هر حوزه تخصصی" [level=2] [ref=e233]
+          - paragraph [ref=e235]: ما به‌عنوان شریک قابل اعتماد شما در زمینه ماشین‌آلات دوار، پشتیبانی مستمر از عملکرد روزانه تجهیزات حیاتی شما را بر عهده داریم و با ارائه راهکارهای انعطاف‌پذیر، به کسب‌وکار شما کمک می‌کنیم تا برای تحولات و چالش‌های آینده آماده باشد.
+        - generic [ref=e236]:
+          - generic [ref=e237]:
+            - heading "تولید برق و انرژی" [level=2] [ref=e249]
+            - generic [ref=e250]:
+              - heading "تولید برق و انرژی" [level=2] [ref=e261]
+              - link "مطالعه بیشتر" [ref=e263] [cursor=pointer]:
+                - /url: /markets/renewable-energy/
+          - generic [ref=e269]:
+            - heading "پالایشگاه‌ها" [level=2] [ref=e286]
+            - generic [ref=e287]:
+              - heading "پالایشگاه‌ها" [level=2] [ref=e303]
+              - link "مطالعه بیشتر" [ref=e305] [cursor=pointer]:
+                - /url: /markets/refineries/
+          - generic [ref=e311]:
+            - heading "نفت، گاز و پتروشیمی" [level=2] [ref=e322]
+            - generic [ref=e323]:
+              - heading "نفت، گاز و پتروشیمی" [level=2] [ref=e333]
+              - link "مطالعه بیشتر" [ref=e335] [cursor=pointer]:
+                - /url: /markets/oil-and-gas/
+      - generic [ref=e342]:
+        - generic [ref=e343]:
+          - heading "راهکارهای اثبات‌شده تابا" [level=2] [ref=e345]
+          - paragraph [ref=e347]: ما به تعهدات خود عمل می‌کنیم. نمونه‌هایی از همکاری‌ها و پروژه‌های موفق ما با مشتریان را مشاهده کنید و ببینید چگونه با ارائه راهکارهای مؤثر، به دستیابی به نتایج واقعی کمک کرده‌ایم.
+          - link "پروژه های ما را دنبال کنید" [ref=e349] [cursor=pointer]:
+            - /url: /completed-projects/
+        - list [ref=e357]:
+          - generic [ref=e358]:
+            - group "1 / 2" [ref=e359]:
+              - generic [ref=e360]:
+                - link [ref=e362] [cursor=pointer]:
+                  - /url: https://tabaservice.ir/projects/kashan-evaporative-cooling-system/
+                - generic [ref=e363]:
+                  - link [ref=e366] [cursor=pointer]:
+                    - /url: https://tabaservice.ir/projects/kashan-evaporative-cooling-system/
+                  - paragraph [ref=e370]: مطالعه موردی
+                  - heading [level=3] [ref=e372]:
+                    - link "مهندسی، ساخت و اجرای دو واحد سامانه خنک کاری تبخیری هوای ورودی توربین گاز نیروگاه سیکل ترکیبی کاشان" [ref=e373] [cursor=pointer]:
+                      - /url: https://tabaservice.ir/projects/kashan-evaporative-cooling-system/
+            - group "2 / 2" [ref=e374]:
+              - generic [ref=e375]:
+                - link [ref=e377] [cursor=pointer]:
+                  - /url: https://tabaservice.ir/projects/kazerun-evaporative-cooling-system/
+                - generic [ref=e378]:
+                  - link [ref=e381] [cursor=pointer]:
+                    - /url: https://tabaservice.ir/projects/kazerun-evaporative-cooling-system/
+                  - paragraph [ref=e385]: مطالعه موردی
+                  - heading [level=3] [ref=e387]:
+                    - link "مهندسی، ساخت و اجرای چهار واحد سامانه خنک کاری تبخیری هوای ورودی توربین گاز نیروگاه کازرون" [ref=e388] [cursor=pointer]:
+                      - /url: https://tabaservice.ir/projects/kazerun-evaporative-cooling-system/
+      - generic [ref=e390]:
+        - generic [ref=e391]:
+          - heading "جدیدترین اطلاعات و اخبار تابا را دنبال کنید" [level=2] [ref=e393]
+          - paragraph [ref=e395]: مهندسی و خدمات تابا به شما کمک میکند تا از آخرین اخبار و اطلاعات جهان انرژی مطلع شوید.
+          - link "مشاهده همه اخبار و مقالات" [ref=e397] [cursor=pointer]:
+            - /url: /news-and-events/
+        - list [ref=e405]:
+          - generic [ref=e406]:
+            - group "1 / 2" [ref=e407]:
+              - generic [ref=e408]:
+                - link [ref=e410] [cursor=pointer]:
+                  - /url: https://tabaservice.ir/%d8%b1%d9%88%d9%86%d9%85%d8%a7%db%8c%db%8c-%d8%a7%d8%b2-%d9%be%d9%88%d8%b3%d8%aa%d9%87-%d8%af%d8%a7%d8%ba-%d8%aa%d9%88%d8%b1%d8%a8%db%8c%d9%86-%da%af%d8%a7%d8%b2-%d8%a2%d8%b3%da%a9-%d9%86%db%8c%d8%b1/
+                - generic [ref=e411]:
+                  - link [ref=e414] [cursor=pointer]:
+                    - /url: https://tabaservice.ir/%d8%b1%d9%88%d9%86%d9%85%d8%a7%db%8c%db%8c-%d8%a7%d8%b2-%d9%be%d9%88%d8%b3%d8%aa%d9%87-%d8%af%d8%a7%d8%ba-%d8%aa%d9%88%d8%b1%d8%a8%db%8c%d9%86-%da%af%d8%a7%d8%b2-%d8%a2%d8%b3%da%a9-%d9%86%db%8c%d8%b1/
+                  - paragraph [ref=e418]: مقالات
+                  - heading [level=3] [ref=e420]:
+                    - link "رونمایی از پوسته داغ توربین گاز آسک نیروگاه ری" [ref=e421] [cursor=pointer]:
+                      - /url: https://tabaservice.ir/%d8%b1%d9%88%d9%86%d9%85%d8%a7%db%8c%db%8c-%d8%a7%d8%b2-%d9%be%d9%88%d8%b3%d8%aa%d9%87-%d8%af%d8%a7%d8%ba-%d8%aa%d9%88%d8%b1%d8%a8%db%8c%d9%86-%da%af%d8%a7%d8%b2-%d8%a2%d8%b3%da%a9-%d9%86%db%8c%d8%b1/
+                  - list [ref=e423]:
+                    - listitem [ref=e424]:
+                      - time [ref=e426]: 19 نوامبر, 2025
+            - group "2 / 2" [ref=e427]:
+              - generic [ref=e428]:
+                - link [ref=e430] [cursor=pointer]:
+                  - /url: https://tabaservice.ir/%d8%ad%d8%b6%d9%88%d8%b1-%d8%aa%d8%a7%d8%a8%d8%a7-%d8%af%d8%b1-%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87-%d8%b5%d9%86%d8%b9%d8%aa-%d8%a8%d8%b1%d9%82-%d8%a7%db%8c%d8%b1%d8%a7%d9%86/
+                - generic [ref=e431]:
+                  - link [ref=e434] [cursor=pointer]:
+                    - /url: https://tabaservice.ir/%d8%ad%d8%b6%d9%88%d8%b1-%d8%aa%d8%a7%d8%a8%d8%a7-%d8%af%d8%b1-%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87-%d8%b5%d9%86%d8%b9%d8%aa-%d8%a8%d8%b1%d9%82-%d8%a7%db%8c%d8%b1%d8%a7%d9%86/
+                  - paragraph [ref=e438]: مقالات
+                  - heading [level=3] [ref=e440]:
+                    - link "حضور تابا در بیست و پنجمین نمایشگاه صنعت برق ایران" [ref=e441] [cursor=pointer]:
+                      - /url: https://tabaservice.ir/%d8%ad%d8%b6%d9%88%d8%b1-%d8%aa%d8%a7%d8%a8%d8%a7-%d8%af%d8%b1-%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87-%d8%b5%d9%86%d8%b9%d8%aa-%d8%a8%d8%b1%d9%82-%d8%a7%db%8c%d8%b1%d8%a7%d9%86/
+                  - list [ref=e443]:
+                    - listitem [ref=e444]:
+                      - time [ref=e446]: 19 نوامبر, 2025
+      - generic [ref=e449]:
+        - heading "شرکای علمی و تجاری" [level=2] [ref=e451]
+        - generic [ref=e452]:
+          - generic [ref=e453]:
+            - paragraph [ref=e456]: Franco Tosi یکی از شرکت‌های باسابقه و شناخته‌شده در زمینه طراحی و تولید تجهیزات صنعتی و ماشین‌آلات تخصصی است. همکاری با این مجموعه، امکان بهره‌مندی از تجربه مهندسی، فناوری‌های پیشرفته و راهکارهای قابل‌اعتماد برای پروژه‌های صنعتی را فراهم می‌کند.
+            - link "مشاهده سایت" [ref=e458] [cursor=pointer]:
+              - /url: https://www.francotosimeccanica.it/
+          - generic [ref=e461]:
+            - paragraph [ref=e464]: دانشگاه صنعتی امیرکبیر به‌عنوان یکی از معتبرترین مراکز علمی و مهندسی کشور، نقش مهمی در توسعه دانش، پژوهش و تربیت نیروی متخصص ایفا می‌کند. همکاری با این مجموعه علمی، زمینه‌ساز بهره‌گیری از دانش و ارتباط مؤثر میان صنعت و دانشگاه است.
+            - link "مشاهده سایت" [ref=e466] [cursor=pointer]:
+              - /url: https://aut.ac.ir/
+          - generic [ref=e469]:
+            - paragraph [ref=e472]: گروه شرکت‌های توربو کمپرسور نفت با سال‌ها تجربه در طراحی، تولید و پشتیبانی تجهیزات دوار و کمپرسورهای صنعتی، یکی از مجموعه‌های شناخته‌شده در صنایع نفت، گاز و پتروشیمی به شمار می‌رود که با خدمات مهندسی تابا همکاری دیرینه دارد.
+            - link "مشاهده سایت" [ref=e474] [cursor=pointer]:
+              - /url: https://otc-irco.com/
+          - generic [ref=e477]:
+            - paragraph [ref=e480]: زیمنس یکی از پیشروترین شرکت‌های جهان در حوزه فناوری، اتوماسیون صنعتی و تجهیزات الکتریکی است. همکاری با محصولات و راهکارهای Siemens به ما این امکان را می‌دهد تا کیفیت، نوآوری و قابلیت اطمینان را در پروژه‌های خود به بالاترین سطح برسانیم.
+            - link "مشاهده سایت" [ref=e482] [cursor=pointer]:
+              - /url: https://www.siemens.com/de-de/
+      - generic [ref=e486]:
+        - heading "تماس با ما" [level=2] [ref=e488]
+        - paragraph [ref=e490]: اگر درباره خدمات و قابلیت‌های ما سؤالی دارید یا می‌خواهید بدانید چگونه می‌توانیم در حل چالش‌های کسب‌وکارتان به شما کمک کنیم، مشتاق دریافت پیام شما هستیم.
+        - heading "در چه زمینه‌ای می‌توانیم شما را همراهی کنیم؟" [level=2] [ref=e492]
+        - generic [ref=e493]:
+          - generic [ref=e494]:
+            - link [ref=e505] [cursor=pointer]:
+              - /url: /contact-us/
+            - paragraph [ref=e510]:
+              - link "راه‌های ارتباطی" [ref=e511] [cursor=pointer]:
+                - /url: /contact-us/
+          - generic [ref=e512]:
+            - link [ref=e524] [cursor=pointer]:
+              - /url: /careers/
+            - paragraph [ref=e529]:
+              - link "فرصت‌های شغلی" [ref=e530] [cursor=pointer]:
+                - /url: /careers/
+          - paragraph [ref=e545]: پیمانکاران
+          - generic [ref=e546]:
+            - link [ref=e562] [cursor=pointer]:
+              - /url: https://takaane.com/
+            - paragraph [ref=e567]:
+              - link "استارتاپ و سرمایه‌گذاری" [ref=e568] [cursor=pointer]:
+                - /url: https://takaane.com/
+          - generic [ref=e569]:
+            - link [ref=e579] [cursor=pointer]:
+              - /url: tel:02175041000
+            - paragraph [ref=e584]:
+              - link "تماس با ما" [ref=e585] [cursor=pointer]:
+                - /url: tel:02175041000
+  - contentinfo [ref=e586]:
+    - generic [ref=e588]:
+      - generic [ref=e589]:
+        - generic [ref=e590]:
+          - link [ref=e592] [cursor=pointer]:
+            - /url: https://tabaservice.ir
+            - img "لوگو تابا سیاه و سفید" [ref=e593]
+          - list [ref=e595]:
+            - listitem [ref=e596]:
+              - generic [ref=e597]: انتخاب زبان
+          - generic [ref=e599]:
+            - generic [ref=e600]: یک زبان انتخاب کنید
+            - combobox "یک زبان انتخاب کنید" [ref=e601]:
+              - option "فارسی" [selected]
+              - option "English"
+              - option "العربية"
+              - option "Türkçe"
+          - list [ref=e603]:
+            - listitem [ref=e604]:
+              - generic [ref=e605]: با ما در ارتباط باشید
+          - list [ref=e607]:
+            - listitem [ref=e608]:
+              - link "Linkedin-in" [ref=e609] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/taba-engineering-and-service-co.
+            - listitem [ref=e613]:
+              - link "Instagram" [ref=e614] [cursor=pointer]:
+                - /url: https://www.instagram.com/tabaservice/
+            - listitem [ref=e618]:
+              - link "Eaparat" [ref=e619] [cursor=pointer]:
+                - /url: https://www.aparat.com/tabaservice
+                - generic [ref=e621]: 
+            - listitem [ref=e622]:
+              - link "Envelope-open" [ref=e623] [cursor=pointer]:
+                - /url: http://info@tabaservice.com
+        - generic [ref=e627]:
+          - list [ref=e629]:
+            - listitem [ref=e630]:
+              - generic [ref=e631]: راهکارها
+          - list [ref=e633]:
+            - listitem [ref=e634]:
+              - link "تولید توان" [ref=e635] [cursor=pointer]:
+                - /url: /solutions/power-generation/
+            - listitem [ref=e640]:
+              - link "توربین‌ها و تجهیزات دوار" [ref=e641] [cursor=pointer]:
+                - /url: /solutions/turbines-and-rotating-equipment/
+            - listitem [ref=e646]:
+              - link "کمپرسورهای فرآیندی" [ref=e647] [cursor=pointer]:
+                - /url: /solutions/process-compressors/
+            - listitem [ref=e652]:
+              - link "برج‌ها و سامانه خنک‌کن" [ref=e653] [cursor=pointer]:
+                - /url: /solutions/cooling-towers-and-systems/
+            - listitem [ref=e658]:
+              - link "آب و محیط زیست" [ref=e659] [cursor=pointer]:
+                - /url: /solutions/water-and-environment/
+            - listitem [ref=e664]:
+              - link "مهندسی و ساخت" [ref=e665] [cursor=pointer]:
+                - /url: /solutions/engineering-and-construction/
+        - generic [ref=e670]:
+          - list [ref=e672]:
+            - listitem [ref=e673]:
+              - generic [ref=e674]: بازارها
+          - list [ref=e676]:
+            - listitem [ref=e677]:
+              - link "نیروگاه‌ها" [ref=e678] [cursor=pointer]:
+                - /url: /markets/power-plants/
+            - listitem [ref=e683]:
+              - link "نفت و گاز" [ref=e684] [cursor=pointer]:
+                - /url: /markets/oil-and-gas/
+            - listitem [ref=e689]:
+              - link "پالایشگاه‌ها" [ref=e690] [cursor=pointer]:
+                - /url: /markets/refineries/
+            - listitem [ref=e695]:
+              - link "پتروشیمی" [ref=e696] [cursor=pointer]:
+                - /url: /markets/petrochemical/
+            - listitem [ref=e701]:
+              - link "فولاد و معادن" [ref=e702] [cursor=pointer]:
+                - /url: /markets/steel-and-mining/
+            - listitem [ref=e707]:
+              - link "انرژی‌های تجدیدپذیر" [ref=e708] [cursor=pointer]:
+                - /url: /markets/renewable-energy/
+        - generic [ref=e713]:
+          - list [ref=e715]:
+            - listitem [ref=e716]:
+              - generic [ref=e717]: درباره ما
+          - list [ref=e719]:
+            - listitem [ref=e720]:
+              - link "آشنایی با تابا" [ref=e721] [cursor=pointer]:
+                - /url: /about-us/
+            - listitem [ref=e726]:
+              - link "رهبری و مدیریت" [ref=e727] [cursor=pointer]:
+                - /url: /our-leadership/
+            - listitem [ref=e732]:
+              - link "پروژه ها" [ref=e733] [cursor=pointer]:
+                - /url: /completed-projects/
+            - listitem [ref=e738]:
+              - link "شرکت های همکار" [ref=e739] [cursor=pointer]:
+                - /url: /participants/
+            - listitem [ref=e744]:
+              - link "فرصت‌های شغلی" [ref=e745] [cursor=pointer]:
+                - /url: /careers/
+            - listitem [ref=e750]:
+              - link "ارتباط با ما" [ref=e751] [cursor=pointer]:
+                - /url: /contact-us/
+        - generic [ref=e756]:
+          - list [ref=e758]:
+            - listitem [ref=e759]:
+              - generic [ref=e760]: آخرین اخبار
+          - list [ref=e763]:
+            - listitem [ref=e764]:
+              - paragraph [ref=e766]:
+                - link "رونمایی از پوسته داغ توربین گاز آسک نیروگاه ری" [ref=e767] [cursor=pointer]:
+                  - /url: https://tabaservice.ir/%d8%b1%d9%88%d9%86%d9%85%d8%a7%db%8c%db%8c-%d8%a7%d8%b2-%d9%be%d9%88%d8%b3%d8%aa%d9%87-%d8%af%d8%a7%d8%ba-%d8%aa%d9%88%d8%b1%d8%a8%db%8c%d9%86-%da%af%d8%a7%d8%b2-%d8%a2%d8%b3%da%a9-%d9%86%db%8c%d8%b1/
+            - listitem [ref=e768]:
+              - paragraph [ref=e770]:
+                - link "حضور تابا در بیست و پنجمین نمایشگاه صنعت برق ایران" [ref=e771] [cursor=pointer]:
+                  - /url: https://tabaservice.ir/%d8%ad%d8%b6%d9%88%d8%b1-%d8%aa%d8%a7%d8%a8%d8%a7-%d8%af%d8%b1-%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87-%d8%b5%d9%86%d8%b9%d8%aa-%d8%a8%d8%b1%d9%82-%d8%a7%db%8c%d8%b1%d8%a7%d9%86/
+            - listitem [ref=e772]:
+              - paragraph [ref=e774]:
+                - link "دعوتنامه نمایشگاه بین المللی صنعت برق" [ref=e775] [cursor=pointer]:
+                  - /url: https://tabaservice.ir/%d8%af%d8%b9%d9%88%d8%aa%d9%86%d8%a7%d9%85%d9%87-%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87-%d8%a8%db%8c%d9%86-%d8%a7%d9%84%d9%85%d9%84%d9%84%db%8c-%d8%b5%d9%86%d8%b9%d8%aa-%d8%a8%d8%b1%d9%82/
+            - listitem [ref=e776]:
+              - paragraph [ref=e778]:
+                - link "برگزاری دوره آموزشی رهبری، مدیریت و ابعاد آن در نیروگاه هریس" [ref=e779] [cursor=pointer]:
+                  - /url: https://tabaservice.ir/%d8%a8%d8%b1%da%af%d8%b2%d8%a7%d8%b1%db%8c-%d8%af%d9%88%d8%b1%d9%87-%d8%a2%d9%85%d9%88%d8%b2%d8%b4%db%8c-%d8%b1%d9%87%d8%a8%d8%b1%db%8c-%d8%af%d8%b1-%d9%87%d8%b1%db%8c%d8%b3/
+            - listitem [ref=e780]:
+              - paragraph [ref=e782]:
+                - link "راه‌اندازی و بهره‌برداری از سیستم خنک‌کاری هوای ورودی توربین گاز نیروگاه پرند" [ref=e783] [cursor=pointer]:
+                  - /url: https://tabaservice.ir/%d8%b1%d8%a7%d9%87%d8%a7%d9%86%d8%af%d8%a7%d8%b2%db%8c-%d9%88-%d8%a8%d9%87%d8%b1%d9%87%d8%a8%d8%b1%d8%af%d8%a7%d8%b1%db%8c-%d8%a7%d8%b2-%d8%b3%db%8c%d8%b3%d8%aa%d9%85-%d8%ae%d9%86/
+      - generic [ref=e784]:
+        - list [ref=e786]:
+          - listitem [ref=e787]:
+            - generic [ref=e788]: "لینک های مفید :"
+        - list [ref=e790]:
+          - listitem [ref=e791]:
+            - link "وزارت نیرو" [ref=e792] [cursor=pointer]:
+              - /url: https://www.moe.gov.ir
+          - listitem [ref=e797]:
+            - link "برق حرارتی" [ref=e798] [cursor=pointer]:
+              - /url: https://tpph.ir/
+          - listitem [ref=e803]:
+            - link "پژوهشگاه نیروی ایران" [ref=e804] [cursor=pointer]:
+              - /url: https://www.nri.ac.ir/
+          - listitem [ref=e809]:
+            - link "شرکت مدیریت شبکه برق ایران" [ref=e810] [cursor=pointer]:
+              - /url: https://www.igmc.ir/
+          - listitem [ref=e815]:
+            - link "شرکت توانیر" [ref=e816] [cursor=pointer]:
+              - /url: https://www.tavanir.org.ir/
+          - listitem [ref=e821]:
+            - link "سازمان انرژی های تجدیدپذیر" [ref=e822] [cursor=pointer]:
+              - /url: https://www.satba.gov.ir/
+      - generic [ref=e827]:
+        - paragraph [ref=e830]: © کلیه حقوق مادی و معنوی این وب‌سایت متعلق به ایفا صنعت تابا بوده و هرگونه استفاده بدون مجوز کتبی پیگرد قانونی دارد.
+        - paragraph [ref=e833]:
+          - text: طراحی و پشتیبانی توسط
+          - link [ref=e834] [cursor=pointer]:
+            - /url: https://alireza663.ir
+            - strong [ref=e835]: AGonix
+  - generic [ref=e836]: desktop
+```

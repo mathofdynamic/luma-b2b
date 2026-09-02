@@ -1,7 +1,37 @@
 {
+  "commercial_audit": {
+    "independent_source_count": 2,
+    "pages_checked": 6,
+    "pages_usable": 1,
+    "sales_readiness": "NOT READY",
+    "source_families": [
+      "book_e_avval",
+      "company_website:highpacks.com"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
   "company_id": "ir-teh-68623ffb070d4bac",
-  "errors": [],
-  "generated_at": "2026-09-01T09:03:25Z",
+  "errors": [
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D9%81%D8%B1%D8%A7%D8%AF%DB%8C%D8%AF+%D8%B4%D8%B1%D9%82%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D9%81%D8%B1%D8%A7%D8%AF%DB%8C%D8%AF+%D8%B4%D8%B1%D9%82%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D9%81%D8%B1%D8%A7%D8%AF%DB%8C%D8%AF+%D8%B4%D8%B1%D9%82%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    }
+  ],
+  "generated_at": "2026-09-01T15:27:10Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
@@ -108,6 +138,48 @@
       "source_quality": "company_site",
       "source_title": "Home Page - High Packs Distribution",
       "source_url": "https://highpacks.com/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:09Z",
+      "company_id": "ir-teh-68623ffb070d4bac",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "Home Page - High Packs Distribution Home Full Menu Custom Offerings Contact Us Your one stop shop for all things cannabis Full Menu Contact Us Please enable JavaScript in your browser to complete this form. Name * First Last Email * Phone Number * License Comment or Message Submit LinkedIn Facebook Instagram",
+      "source_family": "company_website:highpacks.com",
+      "source_id": "src-022c1abaff7b5c5d",
+      "source_quality": "public_page",
+      "source_title": "Home Page - High Packs Distribution",
+      "source_type": "commercial_audit",
+      "source_url": "https://highpacks.com/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:09Z",
+      "company_id": "ir-teh-68623ffb070d4bac",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "فرادید شرق - تولید پاکت | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس فرادید شرق طراحی و تولید بسته بندی ایستاده زیپدار و جعبه تولید پاکت تولید کارتن مقوایی ماشین آلات بسته بندی خدمات بسته بندی بسته بندی مواد غذایی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل تولید پاکت تهران محله کاووسیه اطلاعات تماس آدرس : تهران، منطقه 3، محله کاووسیه، آفریقا (جردن)، خیابان سپیدار، پلاک 1، واحد 108 تلفن : نمایش شماره XXXXXXXXXX فکس : نمایش شماره XXXXXXXXXX وب سایت www.highpacks.com ایمیل : info@highpacks.com توضیحات فرادید شرق به ارائه راهکارهایی فراگیر برای موفقیت کسب و کار مشتریان خویش همت گمارده و این م",
+      "source_family": "book_e_avval",
+      "source_id": "src-456abe5b27103b50",
+      "source_quality": "public_page",
+      "source_title": "فرادید شرق - تولید پاکت | کتاب اول",
+      "source_type": "commercial_audit",
+      "source_url": "https://avval.ir/profile/f9273/%D9%81%D8%B1%D8%A7%D8%AF%DB%8C%D8%AF-%D8%B4%D8%B1%D9%82"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:15Z",
+      "company_id": "ir-teh-68623ffb070d4bac",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "Contact Us - High Packs Distribution Home Full Menu Custom Offerings Contact Us Contact Us Please enable JavaScript in your browser to complete this form. Name * First Last Email * Phone Number * License Comment or Message Submit LinkedIn Facebook Instagram",
+      "source_family": "company_website:highpacks.com",
+      "source_id": "src-b40c5010aa07d638",
+      "source_quality": "public_page",
+      "source_title": "Contact Us - High Packs Distribution",
+      "source_type": "commercial_audit",
+      "source_url": "https://highpacks.com/contact-us/"
     }
   ]
 }

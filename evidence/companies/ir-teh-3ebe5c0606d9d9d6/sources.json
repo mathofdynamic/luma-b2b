@@ -1,0 +1,114 @@
+{
+  "commercial_audit": {
+    "independent_source_count": 2,
+    "pages_checked": 8,
+    "pages_usable": 5,
+    "sales_readiness": "NOT READY",
+    "source_families": [
+      "book_e_avval",
+      "company_website:khavarhasteh.com"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
+  "company_id": "ir-teh-3ebe5c0606d9d9d6",
+  "errors": [
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%DA%AF%D8%B1%D9%88%D9%87+%D8%B5%D9%86%D8%B9%D8%AA%DB%8C+%D8%AE%D8%A7%D9%88%D8%B1+%D9%87%D8%B3%D8%AA%D9%87+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%D8%A7%D9%86+-+%D8%AF%D9%81%D8%AA%D8%B1+%D9%85%D8%B1%DA%A9%D8%B2%DB%8C%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%DA%AF%D8%B1%D9%88%D9%87+%D8%B5%D9%86%D8%B9%D8%AA%DB%8C+%D8%AE%D8%A7%D9%88%D8%B1+%D9%87%D8%B3%D8%AA%D9%87+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%D8%A7%D9%86+-+%D8%AF%D9%81%D8%AA%D8%B1+%D9%85%D8%B1%DA%A9%D8%B2%DB%8C%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%DA%AF%D8%B1%D9%88%D9%87+%D8%B5%D9%86%D8%B9%D8%AA%DB%8C+%D8%AE%D8%A7%D9%88%D8%B1+%D9%87%D8%B3%D8%AA%D9%87+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%D8%A7%D9%86+-+%D8%AF%D9%81%D8%AA%D8%B1+%D9%85%D8%B1%DA%A9%D8%B2%DB%8C%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    }
+  ],
+  "generated_at": "2026-09-01T15:27:12Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:42Z",
+      "company_id": "ir-teh-3ebe5c0606d9d9d6",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "صفحه اصلی - خاور هسته پرش به محتوا ۰۹۹۳۹۵۳۰۸۵۰ تهرانپارس ، چهار راه تیرانداز ، نرسیده به متروی تهرانپارس ، پلاک ۹۶ ، طبقه ۴ ، واحد ۷و۸ Telegram Whatsapp Instagram صفحه اصلی محصولات Close محصولات Open محصولات قطعات ملزومات هسته ترانس انواع موتور قطعات لوازم خانگی جک‌های درب بازکن پارکینگی پنکه سقفی پمپ آب هود (K30) توربو درب آسانسور / تخت بیمارستان / صندلی دندانپزشکی فن هواکش قفل کتابی سینک آشپزخانه هیت سینک انواع بست گاز قطعات خودرویی دیسک و صفحه کمک فنر صندلی کوئل احتراق برف پاک کن بالابر شیشه فن خنک کننده قطعات بخاری بوق خدمات Close خدمات Open خدمات برش رول به رول خدمات فنی و مهندسی ساخت انواع قالب‌های پروگرسیو و تنگستن کارباید مقالات ارتباط با ما درباره ما ایفای نقش در زنجیره تامین صنایع ",
+      "source_family": "company_website:khavarhasteh.com",
+      "source_id": "src-c9869160c74ec466",
+      "source_quality": "public_page",
+      "source_title": "صفحه اصلی - خاور هسته",
+      "source_type": "commercial_audit",
+      "source_url": "https://khavarhasteh.com/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:42Z",
+      "company_id": "ir-teh-3ebe5c0606d9d9d6",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "گروه صنعتی خاور هسته ایرانیان - دفتر مرکزی - تولید لوازم یدکی خودرو | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس گروه صنعتی خاور هسته ایرانیان - دفتر مرکزی آنچه دیگران در شعار آورند ما به عمل آوریم. تولید لوازم یدکی خودرو تراشکاری و قالب سازی قالب سازی صنعتی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل تولید لوازم یدکی خودرو تهران محله سنائی اطلاعات تماس آدرس : تهران، منطقه 6، محله سنائی، خیابان بهشتی (عباس آباد)، خیابان سرافراز، کوچه هفتم (عمید سمنانی)، پلاک 15، واحد 10 تلفن : نمایش شماره XXXXXXXXXX وب سایت khavarhasteh.com/ ایمیل : info@khavarhasteh.com توضیحات تاریخچه تأسیس و توسعه: گروه",
+      "source_family": "book_e_avval",
+      "source_id": "src-333ef79c23209ec7",
+      "source_quality": "public_page",
+      "source_title": "گروه صنعتی خاور هسته ایرانیان - دفتر مرکزی - تولید لوازم یدکی خودرو | کتاب اول",
+      "source_type": "commercial_audit",
+      "source_url": "https://avval.ir/profile/vudfd/%DA%AF%D8%B1%D9%88%D9%87-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C-%D8%AE%D8%A7%D9%88%D8%B1-%D9%87%D8%B3%D8%AA%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%D8%A7%D9%86-%D8%AF%D9%81%D8%AA%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:48Z",
+      "company_id": "ir-teh-3ebe5c0606d9d9d6",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "پنکه سقفی Archives - خاور هسته پرش به محتوا ۰۹۹۳۹۵۳۰۸۵۰ تهرانپارس ، چهار راه تیرانداز ، نرسیده به متروی تهرانپارس ، پلاک ۹۶ ، طبقه ۴ ، واحد ۷و۸ Telegram Whatsapp Instagram صفحه اصلی محصولات Close محصولات Open محصولات قطعات ملزومات هسته ترانس انواع موتور قطعات لوازم خانگی جک‌های درب بازکن پارکینگی پنکه سقفی پمپ آب هود (K30) توربو درب آسانسور / تخت بیمارستان / صندلی دندانپزشکی فن هواکش قفل کتابی سینک آشپزخانه هیت سینک انواع بست گاز قطعات خودرویی دیسک و صفحه کمک فنر صندلی کوئل احتراق برف پاک کن بالابر شیشه فن خنک کننده قطعات بخاری بوق خدمات Close خدمات Open خدمات برش رول به رول خدمات فنی و مهندسی ساخت انواع قالب‌های پروگرسیو و تنگستن کارباید مقالات ارتباط با ما درباره ما پنکه سقفی پنکه سقفی است",
+      "source_family": "company_website:khavarhasteh.com",
+      "source_id": "src-7b66f0e433f4923b",
+      "source_quality": "public_page",
+      "source_title": "پنکه سقفی Archives - خاور هسته",
+      "source_type": "commercial_audit",
+      "source_url": "https://khavarhasteh.com/product-category/%d9%82%d8%b7%d8%b9%d8%a7%d8%aa/%d9%82%d8%b7%d8%b9%d8%a7%d8%aa-%d9%84%d9%88%d8%a7%d8%b2%d9%85-%d8%ae%d8%a7%d9%86%da%af%db%8c/%d9%be%d9%86%da%a9%d9%87-%d8%b3%d9%82%d9%81%db%8c/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:48Z",
+      "company_id": "ir-teh-3ebe5c0606d9d9d6",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "جک‌های درب بازکن پارکینگی Archives - خاور هسته پرش به محتوا ۰۹۹۳۹۵۳۰۸۵۰ تهرانپارس ، چهار راه تیرانداز ، نرسیده به متروی تهرانپارس ، پلاک ۹۶ ، طبقه ۴ ، واحد ۷و۸ Telegram Whatsapp Instagram صفحه اصلی محصولات Close محصولات Open محصولات قطعات ملزومات هسته ترانس انواع موتور قطعات لوازم خانگی جک‌های درب بازکن پارکینگی پنکه سقفی پمپ آب هود (K30) توربو درب آسانسور / تخت بیمارستان / صندلی دندانپزشکی فن هواکش قفل کتابی سینک آشپزخانه هیت سینک انواع بست گاز قطعات خودرویی دیسک و صفحه کمک فنر صندلی کوئل احتراق برف پاک کن بالابر شیشه فن خنک کننده قطعات بخاری بوق خدمات Close خدمات Open خدمات برش رول به رول خدمات فنی و مهندسی ساخت انواع قالب‌های پروگرسیو و تنگستن کارباید مقالات ارتباط با ما درباره ما جک‌های ",
+      "source_family": "company_website:khavarhasteh.com",
+      "source_id": "src-57dab187f1326d2d",
+      "source_quality": "public_page",
+      "source_title": "جک‌های درب بازکن پارکینگی Archives - خاور هسته",
+      "source_type": "commercial_audit",
+      "source_url": "https://khavarhasteh.com/product-category/%d9%82%d8%b7%d8%b9%d8%a7%d8%aa/%d9%82%d8%b7%d8%b9%d8%a7%d8%aa-%d9%84%d9%88%d8%a7%d8%b2%d9%85-%d8%ae%d8%a7%d9%86%da%af%db%8c/%d8%ac%da%a9%d9%87%d8%a7%db%8c-%d8%af%d8%b1%d8%a8-%d8%a8%d8%a7%d8%b2%da%a9%d9%86-%d9%be%d8%a7%d8%b1%da%a9%db%8c%d9%86%da%af%db%8c/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:48Z",
+      "company_id": "ir-teh-3ebe5c0606d9d9d6",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "قطعات لوازم خانگی Archives - خاور هسته پرش به محتوا ۰۹۹۳۹۵۳۰۸۵۰ تهرانپارس ، چهار راه تیرانداز ، نرسیده به متروی تهرانپارس ، پلاک ۹۶ ، طبقه ۴ ، واحد ۷و۸ Telegram Whatsapp Instagram صفحه اصلی محصولات Close محصولات Open محصولات قطعات ملزومات هسته ترانس انواع موتور قطعات لوازم خانگی جک‌های درب بازکن پارکینگی پنکه سقفی پمپ آب هود (K30) توربو درب آسانسور / تخت بیمارستان / صندلی دندانپزشکی فن هواکش قفل کتابی سینک آشپزخانه هیت سینک انواع بست گاز قطعات خودرویی دیسک و صفحه کمک فنر صندلی کوئل احتراق برف پاک کن بالابر شیشه فن خنک کننده قطعات بخاری بوق خدمات Close خدمات Open خدمات برش رول به رول خدمات فنی و مهندسی ساخت انواع قالب‌های پروگرسیو و تنگستن کارباید مقالات ارتباط با ما درباره ما قطعات لوازم خان",
+      "source_family": "company_website:khavarhasteh.com",
+      "source_id": "src-9fa691ad46b905c1",
+      "source_quality": "public_page",
+      "source_title": "قطعات لوازم خانگی Archives - خاور هسته",
+      "source_type": "commercial_audit",
+      "source_url": "https://khavarhasteh.com/product-category/%d9%82%d8%b7%d8%b9%d8%a7%d8%aa/%d9%82%d8%b7%d8%b9%d8%a7%d8%aa-%d9%84%d9%88%d8%a7%d8%b2%d9%85-%d8%ae%d8%a7%d9%86%da%af%db%8c/"
+    }
+  ]
+}

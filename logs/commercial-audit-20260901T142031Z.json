@@ -1,0 +1,47 @@
+{
+  "audit_version": "2026.09.commercial-audit-v1",
+  "classification_counts": {
+    "EPC_contractor": 10,
+    "branch": 19,
+    "customs_broker": 10,
+    "distributor": 16,
+    "freight_forwarder": 9,
+    "importer": 3,
+    "manufacturer": 54,
+    "retailer": 1,
+    "service_company": 6,
+    "unknown": 21,
+    "warehouse_operator": 2
+  },
+  "companies_with_usable_pages": 151,
+  "completed_at": "2026-09-01T14:20:31Z",
+  "failed_sources": 245,
+  "followup_tasks": 191,
+  "headless_browser_tasks": 0,
+  "independent_source_count_distribution": {
+    "1": 84,
+    "2": 66,
+    "4": 1
+  },
+  "initial_tasks": 506,
+  "pages_failed": 245,
+  "pages_ok": 452,
+  "proxy": "http://127.0.0.1:1087",
+  "readiness_counts": {
+    "NEEDS DISCOVERY": 38,
+    "NOT READY": 113
+  },
+  "target_companies": 151,
+  "tier_counts": {
+    "B": 35,
+    "C": 3,
+    "D": 5,
+    "Reject": 108
+  },
+  "visible_browser_launched": false,
+  "workflow_classification_counts": {
+    "EVIDENCE_SUPPORTED": 45,
+    "UNSUPPORTED": 100,
+    "WEAK_HYPOTHESIS": 6
+  }
+}

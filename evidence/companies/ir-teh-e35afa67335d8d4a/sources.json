@@ -1,7 +1,37 @@
 {
+  "commercial_audit": {
+    "independent_source_count": 2,
+    "pages_checked": 8,
+    "pages_usable": 5,
+    "sales_readiness": "READY FOR OUTREACH",
+    "source_families": [
+      "book_e_avval",
+      "company_website:abadiesel.com"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
   "company_id": "ir-teh-e35afa67335d8d4a",
-  "errors": [],
-  "generated_at": "2026-09-01T08:37:29Z",
+  "errors": [
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C+%D8%A2%D8%A8%D8%A7+%D8%AF%DB%8C%D8%B2%D9%84%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C+%D8%A2%D8%A8%D8%A7+%D8%AF%DB%8C%D8%B2%D9%84%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C+%D8%A2%D8%A8%D8%A7+%D8%AF%DB%8C%D8%B2%D9%84%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    }
+  ],
+  "generated_at": "2026-09-01T15:27:11Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
@@ -53,6 +83,76 @@
       "source_quality": "directory",
       "source_title": "شرکت بازرگانی مهندسی آبا دیزل - فروش دیزل ژنراتور، ژنراتور و موتور برق | کتاب اول",
       "source_url": "https://avval.ir/profile/8564d/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%A2%D8%A8%D8%A7-%D8%AF%DB%8C%D8%B2%D9%84"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:11Z",
+      "company_id": "ir-teh-e35afa67335d8d4a",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "شرکت بازرگانی مهندسی آبا دیزل - فروش دیزل ژنراتور، ژنراتور و موتور برق | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس شرکت بازرگانی مهندسی آبا دیزل 4.0 (1 نظر) فروش دیزل ژنراتور، ژنراتور و موتور برق تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل فروش دیزل ژنراتور، ژنراتور و موتور برق تهران محله بهارستان اطلاعات تماس آدرس : تهران، منطقه 12، محله بهارستان، خیابان سعدی جنوبی، نبش کوچه خوانساری، مجتمع اداری تجاری سعدی، طبقه چهارم، واحد ۴۱۲ تلفن : نمایش شماره XXXXXXXXXX تلفن همراه : نمایش شماره XXXXXXXXXX فکس : نمایش شماره XXXXXXXXXX وب سایت www.abadiesel.com ایمیل : m.ghorbani6565@yahoo.com توضیحات",
+      "source_family": "book_e_avval",
+      "source_id": "src-f3163cabb62c9224",
+      "source_quality": "public_page",
+      "source_title": "شرکت بازرگانی مهندسی آبا دیزل - فروش دیزل ژنراتور، ژنراتور و موتور برق | کتاب اول",
+      "source_type": "commercial_audit",
+      "source_url": "https://avval.ir/profile/8564d/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%A2%D8%A8%D8%A7-%D8%AF%DB%8C%D8%B2%D9%84"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:11Z",
+      "company_id": "ir-teh-e35afa67335d8d4a",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "آبادیزل | مرجع فروش اینترنتی انواع کالای صنعتی Skip to navigation Skip to main content جستجو 33992294 -021 درخواست خرید کالا دسته بندی محصولات ژنراتور دیزل ژنراتور دیزل ژنراتور بادوین دیزل ژنراتور موتورسازان دیزل ژنراتور تلک دیزل ژنراتور پرکینز دیزل ژنراتور ولوو پنتا دیزل ژنراتور کامینز دیزل ژنراتور بنز ایدم دیزل ژنراتور یوچای دیزل ژنراتور RMP دیزل ژنراتور استریم دیزل ژنراتور دویتس دیزل ژنراتور ایوول دیزل ژنراتور پراماک دیزل ژنراتور جی اف دیزل ژنراتور سنسی دیزل ژنراتور فاو دیزل ژنراتور لوول دیزل ژنراتور لیستر دیزل ژنراتور یانمار دیزل ژنراتور کاترپیلار برد کنترل دیزل ژنراتور برد کنترل دیپسی برد کنترل دیتا کام برد کنترل کومپ برد کنترل دیاکو برد کنترل هنز برد کنترل ام کو برد کنترل ان کو تابلو ب",
+      "source_family": "company_website:abadiesel.com",
+      "source_id": "src-f0de7c4641fdbefc",
+      "source_quality": "public_page",
+      "source_title": "آبادیزل | مرجع فروش اینترنتی انواع کالای صنعتی",
+      "source_type": "commercial_audit",
+      "source_url": "https://abadiesel.com/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:19Z",
+      "company_id": "ir-teh-e35afa67335d8d4a",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "درباره ما - آبادیزل Skip to navigation Skip to main content جستجو 33992294 -021 درخواست خرید کالا دسته بندی محصولات ژنراتور دیزل ژنراتور دیزل ژنراتور بادوین دیزل ژنراتور موتورسازان دیزل ژنراتور تلک دیزل ژنراتور پرکینز دیزل ژنراتور ولوو پنتا دیزل ژنراتور کامینز دیزل ژنراتور بنز ایدم دیزل ژنراتور یوچای دیزل ژنراتور RMP دیزل ژنراتور استریم دیزل ژنراتور دویتس دیزل ژنراتور ایوول دیزل ژنراتور پراماک دیزل ژنراتور جی اف دیزل ژنراتور سنسی دیزل ژنراتور فاو دیزل ژنراتور لوول دیزل ژنراتور لیستر دیزل ژنراتور یانمار دیزل ژنراتور کاترپیلار برد کنترل دیزل ژنراتور برد کنترل دیپسی برد کنترل دیتا کام برد کنترل کومپ برد کنترل دیاکو برد کنترل هنز برد کنترل ام کو برد کنترل ان کو تابلو برق دیزل ژنراتور تابلو برق ا",
+      "source_family": "company_website:abadiesel.com",
+      "source_id": "src-c228b131ce8e5686",
+      "source_quality": "public_page",
+      "source_title": "درباره ما - آبادیزل",
+      "source_type": "commercial_audit",
+      "source_url": "https://abadiesel.com/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:19Z",
+      "company_id": "ir-teh-e35afa67335d8d4a",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "تماس با ما - آبادیزل Skip to navigation Skip to main content منوی نادرست انتخاب شده FREE SHIPPING FOR ALL ORDERS OF $150 منوی نادرست انتخاب شده جستجو 33992294 -021 درخواست خرید کالا دسته بندی محصولات ژنراتور دیزل ژنراتور دیزل ژنراتور بادوین دیزل ژنراتور موتورسازان دیزل ژنراتور تلک دیزل ژنراتور پرکینز دیزل ژنراتور ولوو پنتا دیزل ژنراتور کامینز دیزل ژنراتور بنز ایدم دیزل ژنراتور یوچای دیزل ژنراتور RMP دیزل ژنراتور استریم دیزل ژنراتور دویتس دیزل ژنراتور ایوول دیزل ژنراتور پراماک دیزل ژنراتور جی اف دیزل ژنراتور سنسی دیزل ژنراتور فاو دیزل ژنراتور لوول دیزل ژنراتور لیستر دیزل ژنراتور یانمار دیزل ژنراتور کاترپیلار برد کنترل دیزل ژنراتور برد کنترل دیپسی برد کنترل دیتا کام برد کنترل کومپ برد کنترل دی",
+      "source_family": "company_website:abadiesel.com",
+      "source_id": "src-132bcebb2142b2fa",
+      "source_quality": "public_page",
+      "source_title": "تماس با ما - آبادیزل",
+      "source_type": "commercial_audit",
+      "source_url": "https://abadiesel.com/contact/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:19Z",
+      "company_id": "ir-teh-e35afa67335d8d4a",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "خرید و قیمت موتور برق دیزلی هیوندای 5.5 کیلووات مدل HG6553-DG Skip to navigation Skip to main content جستجو 33992294 -021 درخواست خرید کالا دسته بندی محصولات ژنراتور دیزل ژنراتور دیزل ژنراتور بادوین دیزل ژنراتور موتورسازان دیزل ژنراتور تلک دیزل ژنراتور پرکینز دیزل ژنراتور ولوو پنتا دیزل ژنراتور کامینز دیزل ژنراتور بنز ایدم دیزل ژنراتور یوچای دیزل ژنراتور RMP دیزل ژنراتور استریم دیزل ژنراتور دویتس دیزل ژنراتور ایوول دیزل ژنراتور پراماک دیزل ژنراتور جی اف دیزل ژنراتور سنسی دیزل ژنراتور فاو دیزل ژنراتور لوول دیزل ژنراتور لیستر دیزل ژنراتور یانمار دیزل ژنراتور کاترپیلار برد کنترل دیزل ژنراتور برد کنترل دیپسی برد کنترل دیتا کام برد کنترل کومپ برد کنترل دیاکو برد کنترل هنز برد کنترل ام کو برد کنتر",
+      "source_family": "company_website:abadiesel.com",
+      "source_id": "src-57135271ffe25c31",
+      "source_quality": "public_page",
+      "source_title": "خرید و قیمت موتور برق دیزلی هیوندای 5.5 کیلووات مدل HG6553-DG",
+      "source_type": "commercial_audit",
+      "source_url": "https://abadiesel.com/product/5389/%d9%85%d9%88%d8%aa%d9%88%d8%b1-%d8%a8%d8%b1%d9%82-%d8%af%db%8c%d8%b2%d9%84%db%8c-%d9%87%db%8c%d9%88%d9%86%d8%af%d8%a7%db%8c-5-5-%da%a9%db%8c%d9%84%d9%88%d9%88%d8%a7%d8%aa-hg6553-dg/"
     }
   ]
 }

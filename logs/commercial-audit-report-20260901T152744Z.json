@@ -1,0 +1,20 @@
+{
+  "audited": 151,
+  "classification_errors_fixed": 72,
+  "demoted": 123,
+  "dossiers": 30,
+  "generated_at": "2026-09-01T15:27:44Z",
+  "needs_discovery": 8,
+  "new_tier_a": 25,
+  "new_tier_b": 7,
+  "not_ready": 111,
+  "old_tier_a": 32,
+  "old_tier_b": 119,
+  "promoted": 11,
+  "ready_for_outreach": 32,
+  "rejected": 108,
+  "source_bias": {
+    "Book-e Avval only": 84,
+    "Book-e Avval plus corroboration": 67
+  }
+}

@@ -1,7 +1,55 @@
 {
+  "commercial_audit": {
+    "independent_source_count": 2,
+    "pages_checked": 8,
+    "pages_usable": 2,
+    "sales_readiness": "READY FOR OUTREACH",
+    "source_families": [
+      "book_e_avval",
+      "company_website:alizadehnik.ir"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
   "company_id": "ir-teh-5308e6ccd17b72e9",
-  "errors": [],
-  "generated_at": "2026-09-01T08:37:14Z",
+  "errors": [
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D8%B9%D9%84%DB%8C%D8%B2%D8%A7%D8%AF%D9%87+%D9%86%DB%8C%DA%A9%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "stage": "company_page",
+      "url": "http://alizadehnik.ir/%d8%aa%d9%85%d8%a7%d8%b3-%d8%a8%d8%a7-%d9%85%d8%a7/"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "stage": "company_page",
+      "url": "http://alizadehnik.ir/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "stage": "company_page",
+      "url": "http://alizadehnik.ir/%d8%aa%d8%b1%d8%ae%db%8c%d8%b5-%da%a9%d8%a7%d9%84%d8%a7-%d9%88-%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d9%be%d8%b3-%d8%a7%d8%b2-%d8%a2%d9%86/"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D8%B9%D9%84%DB%8C%D8%B2%D8%A7%D8%AF%D9%87+%D9%86%DB%8C%DA%A9%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D8%B9%D9%84%DB%8C%D8%B2%D8%A7%D8%AF%D9%87+%D9%86%DB%8C%DA%A9%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    }
+  ],
+  "generated_at": "2026-09-01T15:27:12Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
@@ -52,6 +100,34 @@
       "quote_or_snippet": "شرکت بازرگانی علیزاده نیک - واردات صادرات کالا | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس شرکت بازرگانی علیزاده نیک 5.0 (1 نظر) صادرات ،واردات کالا از چین ،ترکیه ،آلمان توسعه کسب کار در ترکیه ،امارات ،کانادا واردات صادرات کالا تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل واردات صادرات کالا تهران محله کشاورز اطلاعات تماس آدرس : تهران، منطقه 6، محله کشاورز، میدان جهاد (فاطمی)، کوچه غزالی، پلاک ",
       "source_quality": "directory",
       "source_title": "شرکت بازرگانی علیزاده نیک - واردات صادرات کالا | کتاب اول",
+      "source_url": "https://avval.ir/profile/ae2qg/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%B9%D9%84%DB%8C%D8%B2%D8%A7%D8%AF%D9%87-%D9%86%DB%8C%DA%A9"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:41Z",
+      "company_id": "ir-teh-5308e6ccd17b72e9",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "صفحه اصلی - بازرگانی علیزاده نیک پایتخت شرکت بازرگانی علیزاده نیک پایتخت منو موبایل ارتباط با ما 092122226666 دسترسی سریع گمرک درخواست مشاوره رهگیری سفارش صفحه اصلی فروشگاه صادرات چین گمرک صادرات واردات کالاهای تخصصی درباره ما تماس با ما Skip to content شرکت بازرگانی علیزاده نیک پایتخت (سهامی خاص ) تاسیس 1388 ارتباط با ما 88926390 دسترسی سریع گمرک درخواست مشاوره رهگیری سفارش صفحه اصلی فروشگاه صادرات چین گمرک صادرات واردات کالاهای تخصصی درباره ما تماس با ما سوالات متداول پاسخ به سوالات متداول مراحل ترخیص بعد از ورود کالا چیست؟ بارنامه، قبض انبار، گواهی مبدا و ارائه کارت بازرگانی. چه کالاهایی نیازبه ترخیص از گمرک دارند؟ کلیه کالاهایی مجازی که ارزش آنها بیش از ۸۰ دلار باشد. شرایط واردات موقت کا",
+      "source_family": "company_website:alizadehnik.ir",
+      "source_id": "src-9e2db54833406c00",
+      "source_quality": "public_page",
+      "source_title": "صفحه اصلی - بازرگانی علیزاده نیک پایتخت شرکت بازرگانی علیزاده نیک پایتخت",
+      "source_type": "commercial_audit",
+      "source_url": "http://alizadehnik.ir"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:41Z",
+      "company_id": "ir-teh-5308e6ccd17b72e9",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "شرکت بازرگانی علیزاده نیک - واردات صادرات کالا | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس شرکت بازرگانی علیزاده نیک 5.0 (1 نظر) صادرات ،واردات کالا از چین ،ترکیه ،آلمان توسعه کسب کار در ترکیه ،امارات ،کانادا واردات صادرات کالا تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل واردات صادرات کالا تهران محله کشاورز اطلاعات تماس آدرس : تهران، منطقه 6، محله کشاورز، میدان جهاد (فاطمی)، کوچه غزالی، پلاک 8، واحد 2 تلفن : نمایش شماره XXXXXXXXXX تلفن همراه : نمایش شماره XXXXXXXXXX وب سایت alizadehnik.ir ایمیل : s.alizadehnik@gmai.com کد پستی : 1415894756 توضیحات شرکت بازرگانی علیزاده نیک(بازرگانی نیک) ص",
+      "source_family": "book_e_avval",
+      "source_id": "src-297300a4d2b83bad",
+      "source_quality": "public_page",
+      "source_title": "شرکت بازرگانی علیزاده نیک - واردات صادرات کالا | کتاب اول",
+      "source_type": "commercial_audit",
       "source_url": "https://avval.ir/profile/ae2qg/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%B9%D9%84%DB%8C%D8%B2%D8%A7%D8%AF%D9%87-%D9%86%DB%8C%DA%A9"
     }
   ]

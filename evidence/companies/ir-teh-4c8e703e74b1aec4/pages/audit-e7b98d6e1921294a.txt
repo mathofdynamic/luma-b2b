@@ -1,0 +1,7 @@
+Commercial audit public-page capture
+Company ID: ir-teh-4c8e703e74b1aec4
+URL: https://html.duckduckgo.com/html/?q=%22https+anbarajare.com%22+Tehran+Iran+company&kl=ir-fa
+Title: DuckDuckGo
+Source family: search_engine
+Captured at: 2026-09-01T15:26:55Z
+DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+9c39@duckduckgo.com Code: 9c39

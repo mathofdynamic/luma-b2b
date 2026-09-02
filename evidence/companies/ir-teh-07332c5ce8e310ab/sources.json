@@ -1,0 +1,114 @@
+{
+  "commercial_audit": {
+    "independent_source_count": 2,
+    "pages_checked": 8,
+    "pages_usable": 5,
+    "sales_readiness": "NOT READY",
+    "source_families": [
+      "book_e_avval",
+      "company_website:mazandshimipars.com"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
+  "company_id": "ir-teh-07332c5ce8e310ab",
+  "errors": [
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D9%85%D8%A7%D8%B2%D9%86%D8%AF+%D8%B4%DB%8C%D9%85%DB%8C+%D9%BE%D8%A7%D8%B1%D8%B3%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D9%85%D8%A7%D8%B2%D9%86%D8%AF+%D8%B4%DB%8C%D9%85%DB%8C+%D9%BE%D8%A7%D8%B1%D8%B3%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D9%85%D8%A7%D8%B2%D9%86%D8%AF+%D8%B4%DB%8C%D9%85%DB%8C+%D9%BE%D8%A7%D8%B1%D8%B3%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    }
+  ],
+  "generated_at": "2026-09-01T15:27:12Z",
+  "headless_policy": {
+    "headless": true,
+    "isolated_context": true,
+    "proxy": "http://127.0.0.1:1087",
+    "visible_browser_launched": false
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:41Z",
+      "company_id": "ir-teh-07332c5ce8e310ab",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "شرکت مازند شیمی پارس تلفن: ۳۶۶۰۶۲۸۹ - 36606283 (021) - همراه: 09123587256 | info@mazandshimipars.com 0 محصول ﷼ 0 جستجو ورود / ثبت نام ورود ایجاد حساب کاربری نام کاربری یا آدرس ایمیل * رمز عبور * ورود رمز عبور را فراموش کرده اید؟ مرا به خاطر بسپار علاقه مندی منو 0 محصول ﷼ 0 صفحه اصلی مواد شیمیایی آزمایشگاهی مواد شیمیایی سیگما مواد شیمیایی مرک کاربردها اخبار آزمایشگاهی مقالات تماس با ما درباره ما ثبت سفارش کالای وارداتی استخدام شرکت مازند شیمی پارس وارد کننده و مواد شیمیایی و آزمایشگاهی واردکننده مواد شیمیایی مرک آلمان و سیگما آلدریچ واردکننده مواد شیمیایی مرک آلمان و سیگما آلدریچ Merck و Sigma Aldrich ♦️ سفارش سفارش محصولات مازند شیمی پارس خدمات خدمات شرکت مازند شیمی پارس محصولات محصولات شرکت",
+      "source_family": "company_website:mazandshimipars.com",
+      "source_id": "src-b3f60647db44f874",
+      "source_quality": "public_page",
+      "source_title": "شرکت مازند شیمی پارس",
+      "source_type": "commercial_audit",
+      "source_url": "https://www.mazandshimipars.com/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:41Z",
+      "company_id": "ir-teh-07332c5ce8e310ab",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "شرکت مازند شیمی پارس - فروش تجهیزات آزمایشگاهی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس شرکت مازند شیمی پارس 4.0 (1 نظر) واردکننده ی مواد merck آلمان فروش تجهیزات آزمایشگاهی فروش مواد شیمیایی واردات صادرات مواد شیمیایی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل فروش تجهیزات آزمایشگاهی تهران محله شکوفه اطلاعات تماس آدرس : تهران، منطقه 14، محله شکوفه، خیابان پیروزی، خیابان شکوفه، نبش کوچه یزدی، ساختمان حکیم، طبقه سوم، واحد 5 تلفن : نمایش شماره XXXXXXXXXX تلفن همراه : نمایش شماره XXXXXXXXXX فکس : نمایش شماره XXXXXXXXXX وب سایت www.mazandshimipars.com ایمیل : mazandshimi@gmail.com کد پستی",
+      "source_family": "book_e_avval",
+      "source_id": "src-ac322d5ca3a15bfc",
+      "source_quality": "public_page",
+      "source_title": "شرکت مازند شیمی پارس - فروش تجهیزات آزمایشگاهی | کتاب اول",
+      "source_type": "commercial_audit",
+      "source_url": "https://avval.ir/profile/96d14/%D8%B4%D8%B1%DA%A9%D8%AA-%D9%85%D8%A7%D8%B2%D9%86%D8%AF-%D8%B4%DB%8C%D9%85%DB%8C-%D9%BE%D8%A7%D8%B1%D8%B3"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:48Z",
+      "company_id": "ir-teh-07332c5ce8e310ab",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "سبد خرید – شرکت مازند شیمی پارس تلفن: ۳۶۶۰۶۲۸۹ - 36606283 (021) - همراه: 09123587256 | info@mazandshimipars.com 0 محصول ﷼ 0 جستجو ورود / ثبت نام ورود ایجاد حساب کاربری نام کاربری یا آدرس ایمیل * رمز عبور * ورود رمز عبور را فراموش کرده اید؟ مرا به خاطر بسپار علاقه مندی منو 0 محصول ﷼ 0 صفحه اصلی مواد شیمیایی آزمایشگاهی مواد شیمیایی سیگما مواد شیمیایی مرک کاربردها اخبار آزمایشگاهی مقالات تماس با ما درباره ما ثبت سفارش کالای وارداتی استخدام سبد خرید تسویه حساب تکمیل سفارش سبد خرید شما در حال حاضر خالی است. Before proceed to checkout you must add some products to your shopping cart. You will find a lot of interesting products on our \"Shop\" page. بازگشت به فروشگاه close جستجو جستجو نوشته‌های تازه ",
+      "source_family": "company_website:mazandshimipars.com",
+      "source_id": "src-fa3b3b0839c37210",
+      "source_quality": "public_page",
+      "source_title": "سبد خرید – شرکت مازند شیمی پارس",
+      "source_type": "commercial_audit",
+      "source_url": "https://www.mazandshimipars.com/cart/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:48Z",
+      "company_id": "ir-teh-07332c5ce8e310ab",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "مرک – شرکت مازند شیمی پارس تلفن: ۳۶۶۰۶۲۸۹ - 36606283 (021) - همراه: 09123587256 | info@mazandshimipars.com 0 محصول ﷼ 0 جستجو ورود / ثبت نام ورود ایجاد حساب کاربری نام کاربری یا آدرس ایمیل * رمز عبور * ورود رمز عبور را فراموش کرده اید؟ مرا به خاطر بسپار علاقه مندی منو 0 محصول ﷼ 0 صفحه اصلی مواد شیمیایی آزمایشگاهی مواد شیمیایی سیگما مواد شیمیایی مرک کاربردها اخبار آزمایشگاهی مقالات تماس با ما درباره ما ثبت سفارش کالای وارداتی استخدام مرک دسته بندی ها همه محصولات بدون دسته‌بندی 2 محصول تیترازول 12 محصول سیگما 10 محصول محیط کشت 10 محصول مرک 136 محصول مواد شیمیایی 139 محصول میلیپور 4 محصول خانه مرک نمایش 1–12 از 136 نتیجه مشاهده فیلترها نمایش 9 12 18 24 مرتب‌سازی پیشفرض مرتب‌سازی بر اساس محبوبیت ",
+      "source_family": "company_website:mazandshimipars.com",
+      "source_id": "src-0d3ff9c2a3a5b171",
+      "source_quality": "public_page",
+      "source_title": "مرک – شرکت مازند شیمی پارس",
+      "source_type": "commercial_audit",
+      "source_url": "https://www.mazandshimipars.com/product-category/%d9%85%d8%b1%da%a9/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:48Z",
+      "company_id": "ir-teh-07332c5ce8e310ab",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "سیگما – شرکت مازند شیمی پارس تلفن: ۳۶۶۰۶۲۸۹ - 36606283 (021) - همراه: 09123587256 | info@mazandshimipars.com 0 محصول ﷼ 0 جستجو ورود / ثبت نام ورود ایجاد حساب کاربری نام کاربری یا آدرس ایمیل * رمز عبور * ورود رمز عبور را فراموش کرده اید؟ مرا به خاطر بسپار علاقه مندی منو 0 محصول ﷼ 0 صفحه اصلی مواد شیمیایی آزمایشگاهی مواد شیمیایی سیگما مواد شیمیایی مرک کاربردها اخبار آزمایشگاهی مقالات تماس با ما درباره ما ثبت سفارش کالای وارداتی استخدام سیگما دسته بندی ها همه محصولات بدون دسته‌بندی 2 محصول تیترازول 12 محصول سیگما 10 محصول محیط کشت 10 محصول مرک 136 محصول مواد شیمیایی 139 محصول میلیپور 4 محصول خانه سیگما نمایش همه 10 نتیجه مشاهده فیلترها نمایش 9 12 18 24 مرتب‌سازی پیشفرض مرتب‌سازی بر اساس محبوبیت",
+      "source_family": "company_website:mazandshimipars.com",
+      "source_id": "src-e571170d16b127f4",
+      "source_quality": "public_page",
+      "source_title": "سیگما – شرکت مازند شیمی پارس",
+      "source_type": "commercial_audit",
+      "source_url": "https://www.mazandshimipars.com/product-category/%d8%b3%db%8c%da%af%d9%85%d8%a7/"
+    }
+  ]
+}

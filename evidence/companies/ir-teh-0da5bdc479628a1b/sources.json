@@ -1,7 +1,31 @@
 {
+  "commercial_audit": {
+    "independent_source_count": 2,
+    "pages_checked": 9,
+    "pages_usable": 5,
+    "sales_readiness": "NOT READY",
+    "source_families": [
+      "book_e_avval",
+      "company_website:tipaxco.com"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
   "company_id": "ir-teh-0da5bdc479628a1b",
-  "errors": [],
-  "generated_at": "2026-09-01T08:13:31Z",
+  "errors": [
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%AA%DB%8C%D9%BE%D8%A7%DA%A9%D8%B3+-+%D8%B4%D8%B9%D8%A8%D9%87+%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86+%D9%82%D8%B2%D9%88%DB%8C%D9%86%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%AA%DB%8C%D9%BE%D8%A7%DA%A9%D8%B3+-+%D8%B4%D8%B9%D8%A8%D9%87+%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86+%D9%82%D8%B2%D9%88%DB%8C%D9%86%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    }
+  ],
+  "generated_at": "2026-09-01T15:27:09Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
@@ -113,6 +137,104 @@
       "source_quality": "company_site",
       "source_title": "تیپاکس تهران قزوین | آدرس، تلفن و ساعات کاری نمایندگی",
       "source_url": "https://tipaxco.com/branches/ghazvin-th"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:07Z",
+      "company_id": "ir-teh-0da5bdc479628a1b",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "تیپاکس - شعبه خیابان قزوین - حمل و نقل بار | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس تیپاکس - شعبه خیابان قزوین حمل و نقل بار تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل حمل و نقل بار تهران محله بلورسازی اطلاعات تماس آدرس : تهران، منطقه 17، محله بلورسازی، خیابان قزوین، بین پل نواب و خیابان عسگری، پلاک 646 تلفن : نمایش شماره XXXXXXXXXX وب سایت tipaxco.com/branches/ghazvin-th کد پستی : 1359993613 تیپاکس - شعبه خیابان قزوین زیر مجموعه شهر فعالیت شغلی تهران شرکت تیپاکس - دفتر مرکزی حمل و نقل بار شرکت تیپاکس - دفتر مرکزی نظرات لطفا به این کسب و کار امتیاز بدید و نظر خودتون رو درباره این کسب ",
+      "source_family": "book_e_avval",
+      "source_id": "src-e3366db28445f2c6",
+      "source_quality": "public_page",
+      "source_title": "تیپاکس - شعبه خیابان قزوین - حمل و نقل بار | کتاب اول",
+      "source_type": "commercial_audit",
+      "source_url": "https://avval.ir/profile/0af02/%D8%AA%DB%8C%D9%BE%D8%A7%DA%A9%D8%B3-%D8%B4%D8%B9%D8%A8%D9%87-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D9%82%D8%B2%D9%88%DB%8C%D9%86"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:08Z",
+      "company_id": "ir-teh-0da5bdc479628a1b",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "تیپاکس تهران قزوین | آدرس، تلفن و ساعات کاری نمایندگی ثبت سفارش ورود | ثبت‌نام EN درباره ما سخن مدیر عامل معرفی مدیران مسئولیت‌های اجتماعی کتاب تاریخچه تیپاکس گالری تیپاکس تور مجازی تیپاکس ارتباط با ما تماس با ما مرکز خدمات حضوری خدمات ارسال درون‌شهری ارسال بین‌شهری باکس‌لاین سرویس بازگشتی خدمات تکمیلی بسته‌بندی لاکر هوشمند پرداخت در محل لینک پرداخت آنلاین پس‌کرایه جبران خسارت ثبت و پیگیری شکایت ثبت شکایت ارسال مستندات شکایت پیگیری شکایت تاییدیه مبلغ جبران خسارت قوانین و راهنما ویدیوهای آموزشی سوالات متداول قوانین و مقررات ممنوعات ارسال حریم خصوصی دسترسی سریع رهگیری بسته برآورد قیمت برآورد زمان ارسال بازیابی کد رهگیری نمایندگی‌ها ارسال بسته تیپاکسی شو درخواست نمایندگی فرصت‌های شغلی توسعه منا",
+      "source_family": "company_website:tipaxco.com",
+      "source_id": "src-dff82db31de29e45",
+      "source_quality": "public_page",
+      "source_title": "تیپاکس تهران قزوین | آدرس، تلفن و ساعات کاری نمایندگی",
+      "source_type": "commercial_audit",
+      "source_url": "https://tipaxco.com/branches/ghazvin-th"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:08Z",
+      "company_id": "ir-teh-0da5bdc479628a1b",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+9c39@duckduckgo.com Code: 9c39",
+      "source_family": "search_engine",
+      "source_id": "src-ae5f31014c6ac61d",
+      "source_quality": "search_index",
+      "source_title": "DuckDuckGo",
+      "source_type": "commercial_audit",
+      "source_url": "https://html.duckduckgo.com/html/?q=%22https+tipaxco.com+branches+ghazvin-th%22+Tehran+Iran+company&kl=ir-fa"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:08Z",
+      "company_id": "ir-teh-0da5bdc479628a1b",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+9c39@duckduckgo.com Code: 9c39",
+      "source_family": "search_engine",
+      "source_id": "src-d408b4a3513233d7",
+      "source_quality": "search_index",
+      "source_title": "DuckDuckGo",
+      "source_type": "commercial_audit",
+      "source_url": "https://html.duckduckgo.com/html/?q=%22%D8%AA%DB%8C%D9%BE%D8%A7%DA%A9%D8%B3+-+%D8%B4%D8%B9%D8%A8%D9%87+%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86+%D9%82%D8%B2%D9%88%DB%8C%D9%86%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:14Z",
+      "company_id": "ir-teh-0da5bdc479628a1b",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "معرفی تیپاکس، خط مشی و مسئولیت‌های اجتماعی ثبت سفارش ورود | ثبت‌نام EN درباره ما سخن مدیر عامل معرفی مدیران مسئولیت‌های اجتماعی کتاب تاریخچه تیپاکس گالری تیپاکس تور مجازی تیپاکس ارتباط با ما تماس با ما مرکز خدمات حضوری خدمات ارسال درون‌شهری ارسال بین‌شهری باکس‌لاین سرویس بازگشتی خدمات تکمیلی بسته‌بندی لاکر هوشمند پرداخت در محل لینک پرداخت آنلاین پس‌کرایه جبران خسارت ثبت و پیگیری شکایت ثبت شکایت ارسال مستندات شکایت پیگیری شکایت تاییدیه مبلغ جبران خسارت قوانین و راهنما ویدیوهای آموزشی سوالات متداول قوانین و مقررات ممنوعات ارسال حریم خصوصی دسترسی سریع رهگیری بسته برآورد قیمت برآورد زمان ارسال بازیابی کد رهگیری نمایندگی‌ها ارسال بسته تیپاکسی شو درخواست نمایندگی فرصت‌های شغلی توسعه منابع انسانی پ",
+      "source_family": "company_website:tipaxco.com",
+      "source_id": "src-27f050e1fbe3281d",
+      "source_quality": "public_page",
+      "source_title": "معرفی تیپاکس، خط مشی و مسئولیت‌های اجتماعی",
+      "source_type": "commercial_audit",
+      "source_url": "https://tipaxco.com/abouttipax"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:15Z",
+      "company_id": "ir-teh-0da5bdc479628a1b",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "مرکز خدمات حضوری تیپاکس | مشاوره تخصصی و حل شکایات مشتریان ثبت سفارش ورود | ثبت‌نام EN درباره ما سخن مدیر عامل معرفی مدیران مسئولیت‌های اجتماعی کتاب تاریخچه تیپاکس گالری تیپاکس تور مجازی تیپاکس ارتباط با ما تماس با ما مرکز خدمات حضوری خدمات ارسال درون‌شهری ارسال بین‌شهری باکس‌لاین سرویس بازگشتی خدمات تکمیلی بسته‌بندی لاکر هوشمند پرداخت در محل لینک پرداخت آنلاین پس‌کرایه جبران خسارت ثبت و پیگیری شکایت ثبت شکایت ارسال مستندات شکایت پیگیری شکایت تاییدیه مبلغ جبران خسارت قوانین و راهنما ویدیوهای آموزشی سوالات متداول قوانین و مقررات ممنوعات ارسال حریم خصوصی دسترسی سریع رهگیری بسته برآورد قیمت برآورد زمان ارسال بازیابی کد رهگیری نمایندگی‌ها ارسال بسته تیپاکسی شو درخواست نمایندگی فرصت‌های شغلی توسع",
+      "source_family": "company_website:tipaxco.com",
+      "source_id": "src-13b58288ef8b78ba",
+      "source_quality": "public_page",
+      "source_title": "مرکز خدمات حضوری تیپاکس | مشاوره تخصصی و حل شکایات مشتریان",
+      "source_type": "commercial_audit",
+      "source_url": "https://tipaxco.com/service-center"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:15Z",
+      "company_id": "ir-teh-0da5bdc479628a1b",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "تماس با دفتر مرکزی تیپاکس ثبت سفارش ورود | ثبت‌نام EN درباره ما سخن مدیر عامل معرفی مدیران مسئولیت‌های اجتماعی کتاب تاریخچه تیپاکس گالری تیپاکس تور مجازی تیپاکس ارتباط با ما تماس با ما مرکز خدمات حضوری خدمات ارسال درون‌شهری ارسال بین‌شهری باکس‌لاین سرویس بازگشتی خدمات تکمیلی بسته‌بندی لاکر هوشمند پرداخت در محل لینک پرداخت آنلاین پس‌کرایه جبران خسارت ثبت و پیگیری شکایت ثبت شکایت ارسال مستندات شکایت پیگیری شکایت تاییدیه مبلغ جبران خسارت قوانین و راهنما ویدیوهای آموزشی سوالات متداول قوانین و مقررات ممنوعات ارسال حریم خصوصی دسترسی سریع رهگیری بسته برآورد قیمت برآورد زمان ارسال بازیابی کد رهگیری نمایندگی‌ها ارسال بسته تیپاکسی شو درخواست نمایندگی فرصت‌های شغلی توسعه منابع انسانی پلتفرم‌های تجارت ه",
+      "source_family": "company_website:tipaxco.com",
+      "source_id": "src-e05b5536b4b178fc",
+      "source_quality": "public_page",
+      "source_title": "تماس با دفتر مرکزی تیپاکس",
+      "source_type": "commercial_audit",
+      "source_url": "https://tipaxco.com/contactus"
     }
   ]
 }

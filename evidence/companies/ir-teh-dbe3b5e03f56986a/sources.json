@@ -1,4 +1,14 @@
 {
+  "commercial_audit": {
+    "independent_source_count": 1,
+    "pages_checked": 4,
+    "pages_usable": 1,
+    "sales_readiness": "NOT READY",
+    "source_families": [
+      "book_e_avval"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
   "company_id": "ir-teh-dbe3b5e03f56986a",
   "errors": [
     {
@@ -6,9 +16,33 @@
       "error": "TimeoutExpired: Command '['/Users/mohammad/.codex/skills/playwright/scripts/playwright_cli.sh', '-s=luma-b2b-ir-teh-dbe3b5e03f56986a-attempt-1', 'open', 'https://api.whatsapp.com/send?text=avval.ir/profile/e8325/%D8%A2%D8%B1%DB%8C%D8%A7-%D8%A8%D9%86%D8%A7%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%D8%A7%D9%86', '--config', 'config/playwright.headless.json']' timed out after 15 seconds",
       "source_url": "https://api.whatsapp.com/send?text=avval.ir/profile/e8325/%D8%A2%D8%B1%DB%8C%D8%A7-%D8%A8%D9%86%D8%A7%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%D8%A7%D9%86",
       "stage": "browser"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "company_homepage",
+      "url": "https://api.whatsapp.com/send?text=avval.ir/profile/e8325/%D8%A2%D8%B1%DB%8C%D8%A7-%D8%A8%D9%86%D8%A7%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%D8%A7%D9%86"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%A2%D8%B1%DB%8C%D8%A7+%D8%A8%D9%86%D8%A7%D8%AF%D8%B1+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%D8%A7%D9%86%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%A2%D8%B1%DB%8C%D8%A7+%D8%A8%D9%86%D8%A7%D8%AF%D8%B1+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%D8%A7%D9%86%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%A2%D8%B1%DB%8C%D8%A7+%D8%A8%D9%86%D8%A7%D8%AF%D8%B1+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%D8%A7%D9%86%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
     }
   ],
-  "generated_at": "2026-09-01T09:20:38Z",
+  "generated_at": "2026-09-01T15:27:10Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
@@ -59,6 +93,20 @@
       "quote_or_snippet": "آریا بنادر ایرانیان - خدمات دریایی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس آریا بنادر ایرانیان وظایف سنگین را به حرفه ای ها بسپارید. خدمات دریایی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل خدمات دریایی تهران محله کاووسیه اطلاعات تماس آدرس : تهران، منطقه 3، محله کاووسیه، آفریقا (جردن)، بالاتر از جهان کودک، خیابان کیش، پلاک 40، طبقه سوم تلفن : نمایش شماره XXXXXXXXXX فکس : نمایش شماره XXXXX",
       "source_quality": "directory",
       "source_title": "آریا بنادر ایرانیان - خدمات دریایی | کتاب اول",
+      "source_url": "https://avval.ir/profile/e8325/%D8%A2%D8%B1%DB%8C%D8%A7-%D8%A8%D9%86%D8%A7%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%D8%A7%D9%86"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:09Z",
+      "company_id": "ir-teh-dbe3b5e03f56986a",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "آریا بنادر ایرانیان - خدمات دریایی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس آریا بنادر ایرانیان وظایف سنگین را به حرفه ای ها بسپارید. خدمات دریایی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل خدمات دریایی تهران محله کاووسیه اطلاعات تماس آدرس : تهران، منطقه 3، محله کاووسیه، آفریقا (جردن)، بالاتر از جهان کودک، خیابان کیش، پلاک 40، طبقه سوم تلفن : نمایش شماره XXXXXXXXXX فکس : نمایش شماره XXXXXXXXXX ایمیل : info@abiports.com کد پستی : 1969734653 نظرات لطفا به این کسب و کار امتیاز بدید و نظر خودتون رو درباره این کسب و کار بنویسید حداکثر 2000 کاراکتر ثبت نظر اعلام تخلف دلیل نامناسب بودم محتوا",
+      "source_family": "book_e_avval",
+      "source_id": "src-1c847471a064767d",
+      "source_quality": "public_page",
+      "source_title": "آریا بنادر ایرانیان - خدمات دریایی | کتاب اول",
+      "source_type": "commercial_audit",
       "source_url": "https://avval.ir/profile/e8325/%D8%A2%D8%B1%DB%8C%D8%A7-%D8%A8%D9%86%D8%A7%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%D8%A7%D9%86"
     }
   ]

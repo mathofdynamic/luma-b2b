@@ -1,0 +1,306 @@
+### Page
+- Page URL: https://yeskangaroo.com/
+- Page Title: شرکت تولیدی صنعتی علمی سازان پاسارگاد | فروش مواد شیمیایی | فروش مواد پلیمری
+- Console: 3 errors, 1 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - generic:      
+  - generic:
+    - link "استعلام قیمت" [ref=e4] [cursor=pointer]:
+      - /url: https://yeskangaroo.com/%d8%a7%d8%b3%d8%aa%d8%b9%d9%84%d8%a7%d9%85-%d9%82%db%8c%d9%85%d8%aa/
+    - link "نرخ ارز" [ref=e7] [cursor=pointer]:
+      - /url: https://www.tgju.org/currency
+  - generic [ref=e10]:
+    - generic [ref=e11]:
+      - link:
+        - /url: ""
+      - paragraph [ref=e12]:
+        - link:
+          - /url: ""
+        - link [ref=e13] [cursor=pointer]:
+          - /url: https://yeskangaroo.com/
+        - link [ref=e15] [cursor=pointer]:
+          - /url: https://yeskangaroo.com/en
+        - text: "پیام امروز : قوی باش، تو نقش اول قصه ی خودتی...! :))️ 1405/06/10"
+    - generic [ref=e17]:
+      - generic [ref=e18]:
+        - generic [ref=e19]: info@yeskangaroo.com
+        - generic [ref=e21]: 021-88064800
+      - generic [ref=e24]:
+        - link [ref=e25] [cursor=pointer]:
+          - /url: https://www.aparat.com/yeskangaroo
+        - link "" [ref=e27] [cursor=pointer]:
+          - /url: https://www.instagram.com/yeskangaro_co/?r=nametag
+        - link "" [ref=e29] [cursor=pointer]:
+          - /url: https://www.linkedin.com/in/yeskangaroo/
+        - link "" [ref=e31] [cursor=pointer]:
+          - /url: https://api.whatsapp.com/send/?phone=989122091491&text&app_absent=0
+  - generic [ref=e33]:
+    - link [ref=e35] [cursor=pointer]:
+      - /url: https://yeskangaroo.com
+    - generic [ref=e38]:
+      - generic [ref=e39]:
+        - text: 
+        - navigation [ref=e40]:
+          - list [ref=e41]:
+            - listitem [ref=e42]:
+              - link "صفحه نخست" [ref=e43] [cursor=pointer]:
+                - /url: https://yeskangaroo.com/
+            - listitem [ref=e45]:
+              - generic [ref=e46]:
+                - generic [ref=e47]: فروش داخلی
+                - generic [ref=e48]: 
+                - text: 
+            - listitem [ref=e49]:
+              - link "واردات" [ref=e50] [cursor=pointer]:
+                - /url: https://yeskangaroo.com/%d9%88%d8%a7%d8%b1%d8%af%d8%a7%d8%aa/
+            - listitem [ref=e52]:
+              - link "صادرات" [ref=e53] [cursor=pointer]:
+                - /url: https://yeskangaroo.com/%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa/
+      - generic [ref=e55]:
+        - text: 
+        - navigation [ref=e56]:
+          - list [ref=e57]:
+            - listitem [ref=e58]:
+              - link "درباره کانگورو " [ref=e59] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e60]: درباره کانگورو
+                - generic [ref=e61]: 
+                - text: 
+            - listitem [ref=e62]:
+              - link "اخبار" [ref=e63] [cursor=pointer]:
+                - /url: https://yeskangaroo.com/news/
+            - listitem [ref=e65]:
+              - link "مقالات" [ref=e66] [cursor=pointer]:
+                - /url: https://yeskangaroo.com/blog/
+            - listitem [ref=e68]:
+              - link "تماس با ما" [ref=e69] [cursor=pointer]:
+                - /url: https://yeskangaroo.com/contact-us/
+  - generic [ref=e72]:
+    - generic [ref=e73] [cursor=pointer]: 
+    - generic [ref=e74] [cursor=pointer]: 
+    - generic [ref=e76]:
+      - img "پتروشیمی" [ref=e79]
+      - img "ppp" [ref=e82]
+      - heading [level=3] [ref=e84]
+  - generic [ref=e91]:
+    - generic [ref=e92] [cursor=pointer]
+    - search "Search form" [ref=e97]:
+      - searchbox "Search input" [ref=e98]
+      - textbox [disabled] [ref=e99]
+    - button "Search magnifier button" [ref=e100] [cursor=pointer]
+  - generic [ref=e106]:
+    - link [ref=e107] [cursor=pointer]:
+      - /url: ""
+      - generic [ref=e108]: 
+      - generic [ref=e109]: 
+      - heading "درباره کانگورو" [level=3] [ref=e110]
+    - generic [ref=e111]:
+      - heading "شرکت علمی سازان پاسارگاد برند کانگورو" [level=2] [ref=e112]
+      - paragraph [ref=e113]: در سال 1386 با هدف تولید و تامین مواد شیمیایی در زمینه ی صادرات و واردات فروش مواد شیمیایی تاسیس شد. یکی از اصلی ترین اهداف متخصصان و کارشناسان فروش این شرکت، کمک به خرید و فروش مواد شیمیایی و پلیمری مورد نیاز در هر جای ایران با مطمئن ترین حالت، بهترین قیمت و کیفیت ممکن می باشد.
+      - link "01 ماموریت ایجاد اطمینان در مشتریان" [ref=e114] [cursor=pointer]:
+        - /url: https://yeskangaroo.com/%d9%85%d8%a7%d9%85%d9%88%d8%b1%db%8c%d8%aa/
+        - generic:
+          - generic:
+            - heading "01 ماموریت" [level=4]
+            - paragraph: ایجاد اطمینان در مشتریان
+      - link "02 چشم انداز توسعه شبکه تامین و تولید در صنعت شیمیایی" [ref=e115] [cursor=pointer]:
+        - /url: https://yeskangaroo.com/%da%86%d8%b4%d9%85-%d8%a7%d9%86%d8%af%d8%a7%d8%b2/
+        - generic:
+          - generic:
+            - heading "02 چشم انداز" [level=4]
+            - paragraph: توسعه شبکه تامین و تولید در صنعت شیمیایی
+      - link "03 سوابق کاری تولید انواع افزودنی ها در صنعت پتروشیمی" [ref=e116] [cursor=pointer]:
+        - /url: https://yeskangaroo.com/resume/
+        - generic:
+          - generic:
+            - heading "03 سوابق کاری" [level=4]
+            - paragraph: تولید انواع افزودنی ها در صنعت پتروشیمی
+    - iframe [ref=e121]:
+      - button "video poster yeskangaroo 02:19" [ref=f1e5] [cursor=pointer]:
+        - img "video poster" [ref=f1e6]
+        - generic [ref=f1e10]:
+          - link [ref=f1e11]:
+            - /url: https://www.aparat.com/yeskangaroo
+            - img "yeskangaroo" [ref=f1e12]
+          - generic [ref=f1e13]: 02:19
+  - generic [ref=e126]:
+    - generic [ref=e127]:
+      - generic [ref=e128]: 
+      - generic [ref=e129]: 
+      - heading "دسته‌بندی صنایع" [level=3] [ref=e130]
+    - generic [ref=e131]:
+      - link [ref=e133] [cursor=pointer]:
+        - /url: https://yeskangaroo.com/%d9%87%d9%85%d9%87-%da%86%db%8c%d8%b2-%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%84%d8%a7%d8%b3%d8%aa%db%8c%da%a9-%d9%87%d8%a7%db%8c-%d9%be%d9%84%db%8c%d9%85%d8%b1%db%8c/
+        - generic [ref=e135]:
+          - paragraph [ref=e148]: پلیمر/ پلاستیک
+          - paragraph [ref=e153]: پلیمر/ پلاستیک
+      - link [ref=e155] [cursor=pointer]:
+        - /url: https://yeskangaroo.com/product-category/polymer/%d9%85%d9%88%d8%a7%d8%af-%d9%be%d9%84%db%8c%d9%85%d8%b1%db%8c-%d8%b9%d9%85%d9%88%d9%85%db%8c/
+        - generic [ref=e157]:
+          - paragraph [ref=e166]: پلیمرعمومی
+          - paragraph [ref=e171]: پلیمرعمومی
+      - link [ref=e173] [cursor=pointer]:
+        - /url: https://yeskangaroo.com/product-category/%d9%85%d9%88%d8%a7%d8%af-%d8%aa%d8%b5%d9%81%db%8c%d9%87-%d8%a2%d8%a8/%d9%85%d9%88%d8%a7%d8%af-%d8%b4%db%8c%d9%85%db%8c%d8%a7%db%8c%db%8c-%d8%aa%d8%b5%d9%81%db%8c%d9%87-%d9%be%d8%b3%d8%a7%d8%a8/
+        - generic [ref=e175]:
+          - paragraph [ref=e185]: تصفیه آب
+          - paragraph [ref=e190]: تصفیه آب
+      - link [ref=e192] [cursor=pointer]:
+        - /url: https://yeskangaroo.com/product-category/paint-and-coating/
+        - generic [ref=e194]:
+          - paragraph [ref=e206]: رنگ، رزین، چسب
+          - paragraph [ref=e211]: رنگ، رزین، چسب
+      - link [ref=e213] [cursor=pointer]:
+        - /url: https://yeskangaroo.com/product-category/%da%86%d8%b1%d9%85-%d9%88-%d9%86%d8%b3%d8%a7%d8%ac%db%8c/
+        - generic [ref=e215]:
+          - paragraph [ref=e260]: چرم و نساجی
+          - paragraph [ref=e265]: چرم و نساجی
+      - link [ref=e267] [cursor=pointer]:
+        - /url: https://yeskangaroo.com/product-category/polymer/%d9%84%d8%a7%d8%b3%d8%aa%db%8c%da%a9/
+        - generic [ref=e269]:
+          - paragraph [ref=e274]: لاستیک
+          - paragraph [ref=e279]: لاستیک
+      - link [ref=e281] [cursor=pointer]:
+        - /url: https://yeskangaroo.com/category/%da%a9%d8%b4%d8%a7%d9%88%d8%b1%d8%b2%db%8c/
+        - generic [ref=e283]:
+          - paragraph [ref=e290]: کشاورزی
+          - paragraph [ref=e295]: کشاورزی
+    - generic [ref=e296]:
+      - link [ref=e298] [cursor=pointer]:
+        - /url: https://yeskangaroo.com/product-category/chemical/%d9%85%d9%88%d8%a7%d8%af-%d8%b4%db%8c%d9%85%db%8c%d8%a7%db%8c%db%8c-%d9%be%d8%aa%d8%b1%d9%88%d8%b4%db%8c%d9%85%db%8c/
+        - generic [ref=e300]:
+          - paragraph [ref=e308]: نفت، گاز، پتروشیمی
+          - paragraph [ref=e313]: نفت، گاز، پتروشیمی
+      - link [ref=e315] [cursor=pointer]:
+        - /url: https://yeskangaroo.com/product-category/%d8%b5%d9%86%d8%a7%db%8c%d8%b9-%d8%ba%d8%b0%d8%a7%db%8c%db%8c/
+        - generic [ref=e317]:
+          - paragraph [ref=e334]: صنایع غذایی
+          - paragraph [ref=e339]: صنایع غذایی
+      - link [ref=e341] [cursor=pointer]:
+        - /url: ""
+        - generic [ref=e343]:
+          - paragraph [ref=e348]: چاپ و بسته بندی
+          - paragraph [ref=e353]: چاپ و بسته بندی
+  - generic [ref=e358]:
+    - link [ref=e361] [cursor=pointer]:
+      - /url: https://yeskangaroo.com/wp-content/uploads/2026/08/قیمت-مواد-شیمیایی.pdf
+      - generic [ref=e362]: 1405/06/07
+      - heading "تغییر قیمت مواد شیمیایی" [level=2] [ref=e363]
+    - link [ref=e366] [cursor=pointer]:
+      - /url: https://yeskangaroo.com/wp-content/uploads/2026/08/قیمت-مواد-پلیمری.pdf
+      - generic [ref=e367]: 1405/06/07
+      - heading "تغییر قیمت مواد پلیمری" [level=2] [ref=e368]
+    - link [ref=e371] [cursor=pointer]:
+      - /url: https://yeskangaroo.com/wp-content/uploads/2025/08/Abs-n70.png
+      - generic [ref=e372]: 1404/10/20
+      - heading "فروش ویژه" [level=2] [ref=e373]
+  - generic [ref=e376]:
+    - generic [ref=e377]:
+      - generic [ref=e378]: 
+      - generic [ref=e379]: 
+      - heading "مقالات و اخبار کانگورو" [level=3] [ref=e380]
+    - generic [ref=e381]:
+      - link "دلار دو نرخی دو نرخ برای دلار بازار؟ ادامه " [ref=e383] [cursor=pointer]:
+        - /url: https://yeskangaroo.com/%d8%af%d9%88-%d9%86%d8%b1%d8%ae-%d8%a8%d8%b1%d8%a7%db%8c-%d8%af%d9%84%d8%a7%d8%b1-%d8%a8%d8%a7%d8%b2%d8%a7%d8%b1%d8%9f/
+        - img "دلار دو نرخی" [ref=e384]
+        - generic [ref=e385]:
+          - heading "دو نرخ برای دلار بازار؟" [level=2] [ref=e386]
+          - paragraph [ref=e387]:
+            - text: ادامه
+            - generic [ref=e388]: 
+      - generic [ref=e389]:
+        - link "صادرات کشاورزی بازآرایی نقشه صادرات کشاورزی ادامه " [ref=e390] [cursor=pointer]:
+          - /url: https://yeskangaroo.com/%d8%a8%d8%a7%d8%b2%d8%a2%d8%b1%d8%a7%db%8c%db%8c-%d9%86%d9%82%d8%b4%d9%87-%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa-%da%a9%d8%b4%d8%a7%d9%88%d8%b1%d8%b2%db%8c/
+          - generic [ref=e391]:
+            - img "صادرات کشاورزی" [ref=e393]
+            - generic [ref=e394]:
+              - heading "بازآرایی نقشه صادرات کشاورزی" [level=2] [ref=e395]
+              - paragraph [ref=e396]:
+                - text: ادامه
+                - generic [ref=e397]: 
+        - link "صعود بورس دو بال برای صعود بورس ادامه " [ref=e398] [cursor=pointer]:
+          - /url: https://yeskangaroo.com/%d8%af%d9%88-%d8%a8%d8%a7%d9%84-%d8%a8%d8%b1%d8%a7%db%8c-%d8%b5%d8%b9%d9%88%d8%af-%d8%a8%d9%88%d8%b1%d8%b3/
+          - generic [ref=e399]:
+            - img "صعود بورس" [ref=e401]
+            - generic [ref=e402]:
+              - heading "دو بال برای صعود بورس" [level=2] [ref=e403]
+              - paragraph [ref=e404]:
+                - text: ادامه
+                - generic [ref=e405]: 
+        - link "خاموشی بنزینی اجرای خاموش سناریوی اول بنزینی ادامه " [ref=e406] [cursor=pointer]:
+          - /url: https://yeskangaroo.com/%d8%a7%d8%ac%d8%b1%d8%a7%db%8c-%d8%ae%d8%a7%d9%85%d9%88%d8%b4-%d8%b3%d9%86%d8%a7%d8%b1%db%8c%d9%88%db%8c-%d8%a7%d9%88%d9%84-%d8%a8%d9%86%d8%b2%db%8c%d9%86%db%8c/
+          - generic [ref=e407]:
+            - img "خاموشی بنزینی" [ref=e409]
+            - generic [ref=e410]:
+              - heading "اجرای خاموش سناریوی اول بنزینی" [level=2] [ref=e411]
+              - paragraph [ref=e412]:
+                - text: ادامه
+                - generic [ref=e413]: 
+        - link [ref=e414] [cursor=pointer]:
+          - /url: https://yeskangaroo.com/blog
+          - heading "دسترسی به آرشیو مقالات" [level=3] [ref=e416]
+    - generic [ref=e418]:
+      - link "صنایع بورسی تابستان پررونق صنایع بورسی ادامه " [ref=e420] [cursor=pointer]:
+        - /url: https://yeskangaroo.com/news/%d8%aa%d8%a7%d8%a8%d8%b3%d8%aa%d8%a7%d9%86-%d9%be%d8%b1%d8%b1%d9%88%d9%86%d9%82-%d8%b5%d9%86%d8%a7%db%8c%d8%b9-%d8%a8%d9%88%d8%b1%d8%b3%db%8c/
+        - img "صنایع بورسی" [ref=e421]
+        - generic [ref=e422]:
+          - heading "تابستان پررونق صنایع بورسی" [level=2] [ref=e423]
+          - paragraph [ref=e424]:
+            - text: ادامه
+            - generic [ref=e425]: 
+      - generic [ref=e426]:
+        - link "اقتصاد ایران اثر جنگ بر اقتصاد ایران و جهان ادامه " [ref=e427] [cursor=pointer]:
+          - /url: https://yeskangaroo.com/news/%d8%a7%d8%ab%d8%b1-%d8%ac%d9%86%da%af-%d8%a8%d8%b1-%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af-%d8%a7%db%8c%d8%b1%d8%a7%d9%86-%d9%88-%d8%ac%d9%87%d8%a7%d9%86/
+          - generic [ref=e428]:
+            - img "اقتصاد ایران" [ref=e430]
+            - generic [ref=e431]:
+              - heading "اثر جنگ بر اقتصاد ایران و جهان" [level=2] [ref=e432]
+              - paragraph [ref=e433]:
+                - text: ادامه
+                - generic [ref=e434]: 
+        - link "تورم مسیریابی تورم تا پایان ۱۴۰۵ ادامه " [ref=e435] [cursor=pointer]:
+          - /url: https://yeskangaroo.com/news/%d9%85%d8%b3%db%8c%d8%b1%db%8c%d8%a7%d8%a8%db%8c-%d8%aa%d9%88%d8%b1%d9%85-%d8%aa%d8%a7-%d9%be%d8%a7%db%8c%d8%a7%d9%86-%db%b1%db%b4%db%b0%db%b5/
+          - generic [ref=e436]:
+            - img "تورم" [ref=e438]
+            - generic [ref=e439]:
+              - heading "مسیریابی تورم تا پایان ۱۴۰۵" [level=2] [ref=e440]
+              - paragraph [ref=e441]:
+                - text: ادامه
+                - generic [ref=e442]: 
+        - link "قرارداد نفتی امارات نقشه راه ۱۰‌ میلیارد دلاری برای عصر پسا‌نفت ادامه " [ref=e443] [cursor=pointer]:
+          - /url: https://yeskangaroo.com/news/%d9%86%d9%82%d8%b4%d9%87-%d8%b1%d8%a7%d9%87-%db%b1%db%b0-%d9%85%db%8c%d9%84%db%8c%d8%a7%d8%b1%d8%af-%d8%af%d9%84%d8%a7%d8%b1%db%8c-%d8%a8%d8%b1%d8%a7%db%8c-%d8%b9%d8%b5%d8%b1-%d9%be%d8%b3/
+          - generic [ref=e444]:
+            - img "قرارداد نفتی امارات" [ref=e446]
+            - generic [ref=e447]:
+              - heading "نقشه راه ۱۰‌ میلیارد دلاری برای عصر پسا‌نفت" [level=2] [ref=e448]
+              - paragraph [ref=e449]:
+                - text: ادامه
+                - generic [ref=e450]: 
+        - link [ref=e451] [cursor=pointer]:
+          - /url: https://yeskangaroo.com/news
+          - heading "دسترسی به آرشیو اخبار" [level=3] [ref=e453]
+  - contentinfo [ref=e455]:
+    - generic [ref=e462]:
+      - link [ref=e463] [cursor=pointer]:
+        - /url: https://www.aparat.com/yeskangaroo
+      - link "" [ref=e465] [cursor=pointer]:
+        - /url: https://www.instagram.com/yeskangaro_co/?r=nametag
+      - link "" [ref=e467] [cursor=pointer]:
+        - /url: https://www.linkedin.com/in/yeskangaroo/
+      - link "" [ref=e469] [cursor=pointer]:
+        - /url: https://api.whatsapp.com/send/?phone=989122091491&text&app_absent=0
+  - link [ref=e472] [cursor=pointer]:
+    - /url: ""
+    - paragraph [ref=e475]: بالا
+  - generic [ref=e477]:
+    - paragraph [ref=e479]: کلیه حقوق مادی و معنوی وب‌ سایت برای شرکت تولیدی صنعتی علمی سازان پاسارگاد محفوظ می‌ باشد .
+    - paragraph [ref=e481]:
+      - link "طراحی سایت" [ref=e482] [cursor=pointer]:
+        - /url: https://sitedp.com
+      - text: ":"
+      - link "اسپیناس وب" [ref=e483] [cursor=pointer]:
+        - /url: https://sitedp.com
+  - iframe [ref=e484]:
+    - generic [ref=f2e1] [cursor=pointer]
+```

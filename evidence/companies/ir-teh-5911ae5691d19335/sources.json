@@ -1,7 +1,31 @@
 {
+  "commercial_audit": {
+    "independent_source_count": 2,
+    "pages_checked": 9,
+    "pages_usable": 5,
+    "sales_readiness": "READY FOR OUTREACH",
+    "source_families": [
+      "book_e_avval",
+      "company_website:iluxbox.com"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
   "company_id": "ir-teh-5911ae5691d19335",
-  "errors": [],
-  "generated_at": "2026-09-01T08:14:13Z",
+  "errors": [
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D9%84%D9%88%DA%A9%D8%B3+%D8%A8%D8%A7%DA%A9%D8%B3%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22https+iluxbox.com%22+Tehran+Iran+company&kl=ir-fa"
+    }
+  ],
+  "generated_at": "2026-09-01T15:27:10Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
@@ -101,6 +125,104 @@
       "source_quality": "company_site",
       "source_title": "فروشگاه ظروف چوبی پذیرایی و جعبه های چوبی، مقوایی (هاردباکس) کادو، هدیه",
       "source_url": "https://iluxbox.com/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:10Z",
+      "company_id": "ir-teh-5911ae5691d19335",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "لوکس باکس - تولید جعبه مقوایی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس لوکس باکس لوکس باش ، با لوکس باکس به بزرگترین خانواده لوکس ایران بپیوندید تولید جعبه مقوایی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل تولید جعبه مقوایی تهران محله سلسبیل اطلاعات تماس آدرس : تهران، منطقه 10، محله سلسبیل، بلوار فردوس شرق، بین خیابان قبادی و ولی عصر، پلاک 86، واحد 9 تلفن : نمایش شماره XXXXXXXXXX وب سایت www.iluxbox.com ایمیل : iluxbox@gmail.com کد پستی : 1345697913 صفحات اجتماعی : توضیحات شرکت لوکس باکس اولین تولید کننده انواع جعبه های لوکس چوبی در ایران با ارائه بهترین کیفیت در مناسب ترین قیمت ارائه",
+      "source_family": "book_e_avval",
+      "source_id": "src-00641193d95c3c56",
+      "source_quality": "public_page",
+      "source_title": "لوکس باکس - تولید جعبه مقوایی | کتاب اول",
+      "source_type": "commercial_audit",
+      "source_url": "https://avval.ir/profile/00fd5/%D9%84%D9%88%DA%A9%D8%B3-%D8%A8%D8%A7%DA%A9%D8%B3"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:10Z",
+      "company_id": "ir-teh-5911ae5691d19335",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "فروشگاه ظروف چوبی پذیرایی و جعبه های چوبی، مقوایی (هاردباکس) کادو، هدیه جستجوی دسته‌بندی همه دسته ها قیمت جعبه ساعت و جواهرات جعبه های شیشه ای قیمت خرید سفارش سینی چوبی سرو و پذیرایی جعبه قاشق و چنگال قیمت جعبه کادویی مقوایی چوبی سفارش عمده تک قیمت سفارش خرید جعبه دمنوش و پذیرایی قیمت سفارش خرید جعبه آجیل و خشکبار خرید قیمت سفارش ظروف چوبی و اکسسوری خرید قیمت سفارش جعبه وارمردار پذیرایی محصولات لوکس باکس متفرقه هارد باکس تولید سفارش عمده قیمت خرید جعبه هاردباکس آماده هدیه تبلیغاتی سازمانی قوطی مقوایی استوانه تولید سفارش عمده قیمت خرید انواع قوطی مقوایی آماده سفارش و قیمت خرید تولید جعبه عطر ادکلن پرفیوم سفارشی قیمت،خرید،سفارش تک و عمده جعبه چوبی لیزر کات سفارش قیمت خرید جعبه مقوایی ورود / ثب",
+      "source_family": "company_website:iluxbox.com",
+      "source_id": "src-dc00631612be3924",
+      "source_quality": "public_page",
+      "source_title": "فروشگاه ظروف چوبی پذیرایی و جعبه های چوبی، مقوایی (هاردباکس) کادو، هدیه",
+      "source_type": "commercial_audit",
+      "source_url": "https://iluxbox.com/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:17Z",
+      "company_id": "ir-teh-5911ae5691d19335",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "لوکس باکس - قیمت جعبه کادویی مقوایی چوبی سفارش عمده تک جستجوی دسته‌بندی همه دسته ها قیمت جعبه ساعت و جواهرات جعبه های شیشه ای قیمت خرید سفارش سینی چوبی سرو و پذیرایی جعبه قاشق و چنگال قیمت جعبه کادویی مقوایی چوبی سفارش عمده تک قیمت سفارش خرید جعبه دمنوش و پذیرایی قیمت سفارش خرید جعبه آجیل و خشکبار خرید قیمت سفارش ظروف چوبی و اکسسوری خرید قیمت سفارش جعبه وارمردار پذیرایی محصولات لوکس باکس متفرقه هارد باکس تولید سفارش عمده قیمت خرید جعبه هاردباکس آماده هدیه تبلیغاتی سازمانی قوطی مقوایی استوانه تولید سفارش عمده قیمت خرید انواع قوطی مقوایی آماده سفارش و قیمت خرید تولید جعبه عطر ادکلن پرفیوم سفارشی قیمت،خرید،سفارش تک و عمده جعبه چوبی لیزر کات سفارش قیمت خرید جعبه مقوایی ورود / ثبت نام جعبه کادویی",
+      "source_family": "company_website:iluxbox.com",
+      "source_id": "src-01a40604ccefec64",
+      "source_quality": "public_page",
+      "source_title": "لوکس باکس - قیمت جعبه کادویی مقوایی چوبی سفارش عمده تک",
+      "source_type": "commercial_audit",
+      "source_url": "https://iluxbox.com/products/category/Wooden-gift-box"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:17Z",
+      "company_id": "ir-teh-5911ae5691d19335",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "لوکس باکس - قیمت سفارش خرید جعبه آجیل و خشکبار جستجوی دسته‌بندی همه دسته ها قیمت جعبه ساعت و جواهرات جعبه های شیشه ای قیمت خرید سفارش سینی چوبی سرو و پذیرایی جعبه قاشق و چنگال قیمت جعبه کادویی مقوایی چوبی سفارش عمده تک قیمت سفارش خرید جعبه دمنوش و پذیرایی قیمت سفارش خرید جعبه آجیل و خشکبار خرید قیمت سفارش ظروف چوبی و اکسسوری خرید قیمت سفارش جعبه وارمردار پذیرایی محصولات لوکس باکس متفرقه هارد باکس تولید سفارش عمده قیمت خرید جعبه هاردباکس آماده هدیه تبلیغاتی سازمانی قوطی مقوایی استوانه تولید سفارش عمده قیمت خرید انواع قوطی مقوایی آماده سفارش و قیمت خرید تولید جعبه عطر ادکلن پرفیوم سفارشی قیمت،خرید،سفارش تک و عمده جعبه چوبی لیزر کات سفارش قیمت خرید جعبه مقوایی ورود / ثبت نام جعبه کادویی مقوایی ",
+      "source_family": "company_website:iluxbox.com",
+      "source_id": "src-31b2c0181b260625",
+      "source_quality": "public_page",
+      "source_title": "لوکس باکس - قیمت سفارش خرید جعبه آجیل و خشکبار",
+      "source_type": "commercial_audit",
+      "source_url": "https://iluxbox.com/products/category/nuts-box"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:18Z",
+      "company_id": "ir-teh-5911ae5691d19335",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "لوکس باکس - قیمت سفارش خرید جعبه دمنوش و پذیرایی جستجوی دسته‌بندی همه دسته ها قیمت جعبه ساعت و جواهرات جعبه های شیشه ای قیمت خرید سفارش سینی چوبی سرو و پذیرایی جعبه قاشق و چنگال قیمت جعبه کادویی مقوایی چوبی سفارش عمده تک قیمت سفارش خرید جعبه دمنوش و پذیرایی قیمت سفارش خرید جعبه آجیل و خشکبار خرید قیمت سفارش ظروف چوبی و اکسسوری خرید قیمت سفارش جعبه وارمردار پذیرایی محصولات لوکس باکس متفرقه هارد باکس تولید سفارش عمده قیمت خرید جعبه هاردباکس آماده هدیه تبلیغاتی سازمانی قوطی مقوایی استوانه تولید سفارش عمده قیمت خرید انواع قوطی مقوایی آماده سفارش و قیمت خرید تولید جعبه عطر ادکلن پرفیوم سفارشی قیمت،خرید،سفارش تک و عمده جعبه چوبی لیزر کات سفارش قیمت خرید جعبه مقوایی ورود / ثبت نام جعبه کادویی مقوای",
+      "source_family": "company_website:iluxbox.com",
+      "source_id": "src-4002333dd9edcea7",
+      "source_quality": "public_page",
+      "source_title": "لوکس باکس - قیمت سفارش خرید جعبه دمنوش و پذیرایی",
+      "source_type": "commercial_audit",
+      "source_url": "https://iluxbox.com/products/category/Herbal-and-tea-box"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:44:15Z",
+      "company_id": "ir-teh-5911ae5691d19335",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+9c39@duckduckgo.com Code: 9c39",
+      "source_family": "search_engine",
+      "source_id": "src-ef462f033ee883a0",
+      "source_quality": "search_index",
+      "source_title": "DuckDuckGo",
+      "source_type": "commercial_audit",
+      "source_url": "https://html.duckduckgo.com/html/?q=%22%D9%84%D9%88%DA%A9%D8%B3+%D8%A8%D8%A7%DA%A9%D8%B3%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:44:15Z",
+      "company_id": "ir-teh-5911ae5691d19335",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+9c39@duckduckgo.com Code: 9c39",
+      "source_family": "search_engine",
+      "source_id": "src-ed03997c409711d5",
+      "source_quality": "search_index",
+      "source_title": "DuckDuckGo",
+      "source_type": "commercial_audit",
+      "source_url": "https://html.duckduckgo.com/html/?q=%22%D9%84%D9%88%DA%A9%D8%B3+%D8%A8%D8%A7%DA%A9%D8%B3%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
     }
   ]
 }

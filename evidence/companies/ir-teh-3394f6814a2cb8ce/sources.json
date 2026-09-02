@@ -1,7 +1,55 @@
 {
+  "commercial_audit": {
+    "independent_source_count": 2,
+    "pages_checked": 8,
+    "pages_usable": 2,
+    "sales_readiness": "NEEDS DISCOVERY",
+    "source_families": [
+      "book_e_avval",
+      "company_website:parsianfoolad.ir"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
   "company_id": "ir-teh-3394f6814a2cb8ce",
-  "errors": [],
-  "generated_at": "2026-09-01T08:33:58Z",
+  "errors": [
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D9%BE%D8%A7%D8%B1%D8%B3%DB%8C%D8%A7%D9%86+%D9%81%D9%88%D9%84%D8%A7%D8%AF+-+%D8%A8%D8%B3%D8%AA+%D8%AF%D8%A7%D8%B1%D8%A8%D8%B3%D8%AA+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86+%D8%A8%D8%B3%D8%AA%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "TimeoutError: The read operation timed out",
+      "stage": "company_page",
+      "url": "https://parsianfoolad.ir/product-category/%d8%a8%d8%b3%d8%aa-%d8%af%d8%a7%d8%b1%d8%a8%d8%b3%d8%aa/%d8%a8%d8%b3%d8%aa-%d8%af%d8%a7%d8%b1%d8%a8%d8%b3%d8%aa-%d8%a7%db%8c%d8%b1%d8%a7%d9%86-%d8%a8%d8%b3%d8%aa/"
+    },
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "TimeoutError: The read operation timed out",
+      "stage": "company_page",
+      "url": "https://parsianfoolad.ir/product-category/%d8%a8%d8%b3%d8%aa-%d8%af%d8%a7%d8%b1%d8%a8%d8%b3%d8%aa/"
+    },
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "TimeoutError: The read operation timed out",
+      "stage": "company_page",
+      "url": "https://parsianfoolad.ir/product-category/%d8%a8%d8%b3%d8%aa-%d8%af%d8%a7%d8%b1%d8%a8%d8%b3%d8%aa/%d8%a8%d8%b3%d8%aa-%d8%a2%d9%87%d9%86%da%af%db%8c%d8%b1/"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D9%BE%D8%A7%D8%B1%D8%B3%DB%8C%D8%A7%D9%86+%D9%81%D9%88%D9%84%D8%A7%D8%AF+-+%D8%A8%D8%B3%D8%AA+%D8%AF%D8%A7%D8%B1%D8%A8%D8%B3%D8%AA+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86+%D8%A8%D8%B3%D8%AA%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D9%BE%D8%A7%D8%B1%D8%B3%DB%8C%D8%A7%D9%86+%D9%81%D9%88%D9%84%D8%A7%D8%AF+-+%D8%A8%D8%B3%D8%AA+%D8%AF%D8%A7%D8%B1%D8%A8%D8%B3%D8%AA+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86+%D8%A8%D8%B3%D8%AA%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    }
+  ],
+  "generated_at": "2026-09-01T15:27:11Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
@@ -53,6 +101,34 @@
       "source_quality": "directory",
       "source_title": "پارسیان فولاد - بست داربست ایران بست - لوله و اتصالات پی وی سی | کتاب اول",
       "source_url": "https://avval.ir/profile/veruq/%D9%BE%D8%A7%D8%B1%D8%B3%DB%8C%D8%A7%D9%86-%D9%81%D9%88%D9%84%D8%A7%D8%AF-%D8%A8%D8%B3%D8%AA-%D8%AF%D8%A7%D8%B1%D8%A8%D8%B3%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:40Z",
+      "company_id": "ir-teh-3394f6814a2cb8ce",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "پارسیان فولاد - بست داربست ایران بست - لوله و اتصالات پی وی سی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس پارسیان فولاد - بست داربست ایران بست 5.0 (2 نظر) فروشگاه پارسیان فولاد با تیکه بر دانش و تجربه سالیان متوالی و با هدف رضایتمندی مشتریان گرامی توانسته است از سال 1382 با تهیه و فروش بهترین برند ها لوله و اتصالات پی وی سی شیرآلات گازی فروش لوله و اتصالات شیرآلات و اتصالات داربست تولید تجهیزات آتش نشانی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل لوله و اتصالات پی وی سی تهران محله امام خمینی اطلاعات تماس آدرس : تهران، منطقه 18، محله امام خمینی، شادآباد، بازار آهن تهران، مجتمع پارسیان، ب",
+      "source_family": "book_e_avval",
+      "source_id": "src-de060ec50b379463",
+      "source_quality": "public_page",
+      "source_title": "پارسیان فولاد - بست داربست ایران بست - لوله و اتصالات پی وی سی | کتاب اول",
+      "source_type": "commercial_audit",
+      "source_url": "https://avval.ir/profile/veruq/%D9%BE%D8%A7%D8%B1%D8%B3%DB%8C%D8%A7%D9%86-%D9%81%D9%88%D9%84%D8%A7%D8%AF-%D8%A8%D8%B3%D8%AA-%D8%AF%D8%A7%D8%B1%D8%A8%D8%B3%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:41Z",
+      "company_id": "ir-teh-3394f6814a2cb8ce",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "پارسیان فولاد - مرکز فروش لوله و اتصالات پارسیان فولاد سبد خرید 0 سبد خرید شما خالی است. حساب کاربری تمام دسته ها اخبار بست داربست دسته‌بندی نشده مقالات وبلاگ جستجو user ورود / عضویت 0 دسته محصولات بست داربست ایران بست بست داربست بست آهنگیر بست پیچ بست آهنگیر یا بست h داربست بست تک پیچ بست دو پیچ بست چهار پیچ تجهیزات آتش نشانی لوازم اطفاء حریق انواع نازل آریا کوپلینگ جعبه آتش نشانی آریا هیدرانت آریا کوپلینگ انواع نازل آریا کوپلینگ نازل شیر آتش نشانی شلنگ آتش نشانی کوپلینگ آریا شیرآتش نشانی آریا لوازم اعلام حریق اسپیرنکلر استاندارد اعلام حریق اسپیرنکلر واکنش سریع اعلام حریق تجهیزات موتورخانه تجهیزات گاز رسانی چسب و نوار پرایمر نیاشیمی نوار و چسب پرایمر شیرگازی امین اتصالات جوشی امین ایران اتص",
+      "source_family": "company_website:parsianfoolad.ir",
+      "source_id": "src-d3b6c942d88cbf1d",
+      "source_quality": "public_page",
+      "source_title": "پارسیان فولاد - مرکز فروش لوله و اتصالات پارسیان فولاد",
+      "source_type": "commercial_audit",
+      "source_url": "https://parsianfoolad.ir/"
     }
   ]
 }

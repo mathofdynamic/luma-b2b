@@ -1,4 +1,14 @@
 {
+  "commercial_audit": {
+    "independent_source_count": 1,
+    "pages_checked": 4,
+    "pages_usable": 1,
+    "sales_readiness": "NOT READY",
+    "source_families": [
+      "book_e_avval"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
   "company_id": "ir-teh-2870dacd3867ee9f",
   "errors": [
     {
@@ -6,9 +16,21 @@
       "error": "TimeoutExpired: Command '['/Users/mohammad/.codex/skills/playwright/scripts/playwright_cli.sh', '-s=luma-b2b-ir-teh-2870dacd3867ee9f-attempt-1', 'open', 'https://api.whatsapp.com/send?text=avval.ir/profile/eafae/%D8%AA%DB%8C%D9%BE%D8%A7%DA%A9%D8%B3-%D8%B4%D8%B9%D8%A8%D9%87-%D9%BE%DB%8C%D8%B1%D9%88%D8%B2%DB%8C', '--config', 'config/playwright.headless.json']' timed out after 15 seconds",
       "source_url": "https://api.whatsapp.com/send?text=avval.ir/profile/eafae/%D8%AA%DB%8C%D9%BE%D8%A7%DA%A9%D8%B3-%D8%B4%D8%B9%D8%A8%D9%87-%D9%BE%DB%8C%D8%B1%D9%88%D8%B2%DB%8C",
       "stage": "browser"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "company_homepage",
+      "url": "https://api.whatsapp.com/send?text=avval.ir/profile/eafae/%D8%AA%DB%8C%D9%BE%D8%A7%DA%A9%D8%B3-%D8%B4%D8%B9%D8%A8%D9%87-%D9%BE%DB%8C%D8%B1%D9%88%D8%B2%DB%8C"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%AA%DB%8C%D9%BE%D8%A7%DA%A9%D8%B3+-+%D8%B4%D8%B9%D8%A8%D9%87+%D9%BE%DB%8C%D8%B1%D9%88%D8%B2%DB%8C%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
     }
   ],
-  "generated_at": "2026-09-01T09:26:11Z",
+  "generated_at": "2026-09-01T15:27:10Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
@@ -60,6 +82,48 @@
       "source_quality": "directory",
       "source_title": "تیپاکس - شعبه پیروزی - حمل و نقل بار | کتاب اول",
       "source_url": "https://avval.ir/profile/eafae/%D8%AA%DB%8C%D9%BE%D8%A7%DA%A9%D8%B3-%D8%B4%D8%B9%D8%A8%D9%87-%D9%BE%DB%8C%D8%B1%D9%88%D8%B2%DB%8C"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:10Z",
+      "company_id": "ir-teh-2870dacd3867ee9f",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "تیپاکس - شعبه پیروزی - حمل و نقل بار | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس تیپاکس - شعبه پیروزی 5.0 (1 نظر) حمل و نقل بار تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل حمل و نقل بار تهران محله پیروزی اطلاعات تماس آدرس : تهران، منطقه 13، محله پیروزی، خیابان پیروزی، روبروی پایانه کلاهدوز، داخل پایانه براری، پلاک 10 تلفن : نمایش شماره XXXXXXXXXX ایمیل : info@tipaxco.com کد پستی : 1739963844 صفحات اجتماعی : تیپاکس - شعبه پیروزی زیر مجموعه شهر فعالیت شغلی تهران شرکت تیپاکس - دفتر مرکزی حمل و نقل بار شرکت تیپاکس - دفتر مرکزی نظرات لطفا به این کسب و کار امتیاز بدید و نظر خودتون رو درباره این",
+      "source_family": "book_e_avval",
+      "source_id": "src-4b08e8370b920563",
+      "source_quality": "public_page",
+      "source_title": "تیپاکس - شعبه پیروزی - حمل و نقل بار | کتاب اول",
+      "source_type": "commercial_audit",
+      "source_url": "https://avval.ir/profile/eafae/%D8%AA%DB%8C%D9%BE%D8%A7%DA%A9%D8%B3-%D8%B4%D8%B9%D8%A8%D9%87-%D9%BE%DB%8C%D8%B1%D9%88%D8%B2%DB%8C"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:44:01Z",
+      "company_id": "ir-teh-2870dacd3867ee9f",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+9c39@duckduckgo.com Code: 9c39",
+      "source_family": "search_engine",
+      "source_id": "src-09696d84d804c09a",
+      "source_quality": "search_index",
+      "source_title": "DuckDuckGo",
+      "source_type": "commercial_audit",
+      "source_url": "https://html.duckduckgo.com/html/?q=%22%D8%AA%DB%8C%D9%BE%D8%A7%DA%A9%D8%B3+-+%D8%B4%D8%B9%D8%A8%D9%87+%D9%BE%DB%8C%D8%B1%D9%88%D8%B2%DB%8C%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:44:02Z",
+      "company_id": "ir-teh-2870dacd3867ee9f",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+9c39@duckduckgo.com Code: 9c39",
+      "source_family": "search_engine",
+      "source_id": "src-47b374f7a4b124b7",
+      "source_quality": "search_index",
+      "source_title": "DuckDuckGo",
+      "source_type": "commercial_audit",
+      "source_url": "https://html.duckduckgo.com/html/?q=%22%D8%AA%DB%8C%D9%BE%D8%A7%DA%A9%D8%B3+-+%D8%B4%D8%B9%D8%A8%D9%87+%D9%BE%DB%8C%D8%B1%D9%88%D8%B2%DB%8C%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
     }
   ]
 }

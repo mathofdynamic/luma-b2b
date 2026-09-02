@@ -1,7 +1,31 @@
 {
+  "commercial_audit": {
+    "independent_source_count": 2,
+    "pages_checked": 9,
+    "pages_usable": 5,
+    "sales_readiness": "NOT READY",
+    "source_families": [
+      "book_e_avval",
+      "company_website:arkabast.com"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
   "company_id": "ir-teh-93ed01677840b499",
-  "errors": [],
-  "generated_at": "2026-09-01T08:21:57Z",
+  "errors": [
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%A2%D8%B1%DA%A9%D8%A7+%D8%A8%D8%B3%D8%AA%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%A2%D8%B1%DA%A9%D8%A7+%D8%A8%D8%B3%D8%AA%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    }
+  ],
+  "generated_at": "2026-09-01T15:27:10Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
@@ -89,6 +113,104 @@
       "source_quality": "company_site",
       "source_title": "فروشگاه اینترنتی آرکابست",
       "source_url": "https://arkabast.com/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:08Z",
+      "company_id": "ir-teh-93ed01677840b499",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "آرکا بست - تولید بست فلزی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس آرکا بست 5.0 (2 نظر) آرکابست نماینده اصلی بست TORK در کشور انواع بست فشار قوی تولید بست فلزی تجهیزات برق صنعتی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل تولید بست فلزی تهران محله پامنار اطلاعات تماس آدرس : تهران، منطقه 12، محله پامنار، خیابان امیرکبیر، خیابان ناظم الاطبا جنوبی، کوچه ناهید، پلاک 2، واحد 3 تلفن : نمایش شماره XXXXXXXXXX تلفن همراه : نمایش شماره XXXXXXXXXX وب سایت arkabast.com/ ایمیل : arkabast.ir@gmail.com کد پستی : 1115667514 توضیحات آرکا بست : مرجع تخصصی انواع بست فشار قوی عمده محصولات این مجموعه : خری",
+      "source_family": "book_e_avval",
+      "source_id": "src-51ab165f27301e06",
+      "source_quality": "public_page",
+      "source_title": "آرکا بست - تولید بست فلزی | کتاب اول",
+      "source_type": "commercial_audit",
+      "source_url": "https://avval.ir/profile/njesl/%D8%A2%D8%B1%DA%A9%D8%A7-%D8%A8%D8%B3%D8%AA"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:08Z",
+      "company_id": "ir-teh-93ed01677840b499",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+9c39@duckduckgo.com Code: 9c39",
+      "source_family": "search_engine",
+      "source_id": "src-6cc28065e0c80552",
+      "source_quality": "search_index",
+      "source_title": "DuckDuckGo",
+      "source_type": "commercial_audit",
+      "source_url": "https://html.duckduckgo.com/html/?q=%22https+arkabast.com+TORK+FF-CO+FMI%22+Tehran+Iran+company&kl=ir-fa"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:08Z",
+      "company_id": "ir-teh-93ed01677840b499",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+9c39@duckduckgo.com Code: 9c39",
+      "source_family": "search_engine",
+      "source_id": "src-2f2c8780ce4dea31",
+      "source_quality": "search_index",
+      "source_title": "DuckDuckGo",
+      "source_type": "commercial_audit",
+      "source_url": "https://html.duckduckgo.com/html/?q=%22%D8%A2%D8%B1%DA%A9%D8%A7+%D8%A8%D8%B3%D8%AA%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:08Z",
+      "company_id": "ir-teh-93ed01677840b499",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "فروشگاه اینترنتی آرکابست آرکابست – مرکز جامع تولید و توزیع محصولات صنعتی و یدکی توجه: قبل از سفارش حتما استعلام قیمت بگیرید. خانه دسته ها 0 علاقه مندی ها حساب کاربری منو ورود/ثبت نام وارد شوید کاربر جدید هستید؟ ثبت نام پیشخوان سفارش ها دانلود ها آدرس اطلاعات حساب كاربری اعلانات من نظرات پیگیری سفارش خروج 0 دسته بندی محصولات ابزارآلات برقی دریل اره برقی پیچ گوشتی و دریل شارژی آچار ضربه ای پروفیل بر جاروبرقی صنعتی دستگاه جوش ابزار برش و تراشکاری فرز و سنگ رومیزی قیچی برقی ابزارآلات دستی آچار اره دستی انبردست سوهان انبر پرچ چکش سنباده سنبه ابزارآلات دقیق تراز گیج و کولیس متر مولتی متر میکرومتر انواع بست بست فشار قوی بست فلزی بست کمربندی بست هیدرولیک جعبه ابزار شیلنگ و اتصالات شیلنگ آب شیلنگ گاز",
+      "source_family": "company_website:arkabast.com",
+      "source_id": "src-9e3a5ea544377055",
+      "source_quality": "public_page",
+      "source_title": "فروشگاه اینترنتی آرکابست",
+      "source_type": "commercial_audit",
+      "source_url": "https://arkabast.com/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:15Z",
+      "company_id": "ir-teh-93ed01677840b499",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "لوازم آپاراتی - آرکابست لوازم آپاراتی – آرکابست منو ورود/ثبت نام وارد شوید کاربر جدید هستید؟ ثبت نام پیشخوان سفارش ها دانلود ها آدرس اطلاعات حساب كاربری اعلانات من نظرات پیگیری سفارش خروج 0 دسته بندی محصولات ابزارآلات برقی دریل اره برقی پیچ گوشتی و دریل شارژی آچار ضربه ای پروفیل بر جاروبرقی صنعتی دستگاه جوش ابزار برش و تراشکاری فرز و سنگ رومیزی قیچی برقی ابزارآلات دستی آچار اره دستی انبردست سوهان انبر پرچ چکش سنباده سنبه ابزارآلات دقیق تراز گیج و کولیس متر مولتی متر میکرومتر انواع بست بست فشار قوی بست فلزی بست کمربندی بست هیدرولیک جعبه ابزار شیلنگ و اتصالات شیلنگ آب شیلنگ گاز شیلنگ استیل شیلنگ فشارقوی شیلنگ آبنما فنز دار شیلنگ لاستیکی سیم دار فنردار شیلنگ آتش نشانی شیلنگ باد شیلنگ فشارقوی شی",
+      "source_family": "company_website:arkabast.com",
+      "source_id": "src-5928311c351cd801",
+      "source_quality": "public_page",
+      "source_title": "لوازم آپاراتی - آرکابست",
+      "source_type": "commercial_audit",
+      "source_url": "https://arkabast.com/tire-service-tools/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:15Z",
+      "company_id": "ir-teh-93ed01677840b499",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "تماس با آرکابست تماس با آرکابست – آرکابست منو ورود/ثبت نام وارد شوید کاربر جدید هستید؟ ثبت نام پیشخوان سفارش ها دانلود ها آدرس اطلاعات حساب كاربری اعلانات من نظرات پیگیری سفارش خروج 0 دسته بندی محصولات ابزارآلات برقی دریل اره برقی پیچ گوشتی و دریل شارژی آچار ضربه ای پروفیل بر جاروبرقی صنعتی دستگاه جوش ابزار برش و تراشکاری فرز و سنگ رومیزی قیچی برقی ابزارآلات دستی آچار اره دستی انبردست سوهان انبر پرچ چکش سنباده سنبه ابزارآلات دقیق تراز گیج و کولیس متر مولتی متر میکرومتر انواع بست بست فشار قوی بست فلزی بست کمربندی بست هیدرولیک جعبه ابزار شیلنگ و اتصالات شیلنگ آب شیلنگ گاز شیلنگ استیل شیلنگ فشارقوی شیلنگ آبنما فنز دار شیلنگ لاستیکی سیم دار فنردار شیلنگ آتش نشانی شیلنگ باد شیلنگ فشارقوی شیلنگ بن",
+      "source_family": "company_website:arkabast.com",
+      "source_id": "src-9a03a854ac9aac76",
+      "source_quality": "public_page",
+      "source_title": "تماس با آرکابست",
+      "source_type": "commercial_audit",
+      "source_url": "https://arkabast.com/contact-us/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:15Z",
+      "company_id": "ir-teh-93ed01677840b499",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "خرید بست فلزی | قیمت روز + ارسال فوری بست فلزی – آرکابست منو ورود/ثبت نام وارد شوید کاربر جدید هستید؟ ثبت نام پیشخوان سفارش ها دانلود ها آدرس اطلاعات حساب كاربری اعلانات من نظرات پیگیری سفارش خروج 0 دسته بندی محصولات ابزارآلات برقی دریل اره برقی پیچ گوشتی و دریل شارژی آچار ضربه ای پروفیل بر جاروبرقی صنعتی دستگاه جوش ابزار برش و تراشکاری فرز و سنگ رومیزی قیچی برقی ابزارآلات دستی آچار اره دستی انبردست سوهان انبر پرچ چکش سنباده سنبه ابزارآلات دقیق تراز گیج و کولیس متر مولتی متر میکرومتر انواع بست بست فشار قوی بست فلزی بست کمربندی بست هیدرولیک جعبه ابزار شیلنگ و اتصالات شیلنگ آب شیلنگ گاز شیلنگ استیل شیلنگ فشارقوی شیلنگ آبنما فنز دار شیلنگ لاستیکی سیم دار فنردار شیلنگ آتش نشانی شیلنگ باد شیلنگ ف",
+      "source_family": "company_website:arkabast.com",
+      "source_id": "src-17d2f54046afe623",
+      "source_quality": "public_page",
+      "source_title": "خرید بست فلزی | قیمت روز + ارسال فوری",
+      "source_type": "commercial_audit",
+      "source_url": "https://arkabast.com/metal-clamp/"
     }
   ]
 }

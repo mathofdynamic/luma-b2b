@@ -1,7 +1,31 @@
 {
+  "commercial_audit": {
+    "independent_source_count": 2,
+    "pages_checked": 8,
+    "pages_usable": 1,
+    "sales_readiness": "NOT READY",
+    "source_families": [
+      "book_e_avval",
+      "company_website:afcaf.com"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
   "company_id": "ir-teh-49f01ae7bb24b21a",
-  "errors": [],
-  "generated_at": "2026-09-01T08:29:01Z",
+  "errors": [
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22https+afcaf.com%22+Tehran+Iran+company&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%AE%D8%AF%D9%85%D8%A7%D8%AA+%D9%85%D8%A7%D9%84%DB%8C+%D9%88+%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D8%A7%D9%85%DB%8C%D9%86%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    }
+  ],
+  "generated_at": "2026-09-01T15:27:10Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
@@ -137,6 +161,90 @@
       "source_quality": "company_site",
       "source_title": "Financial & Commercial Firm – Nik",
       "source_url": "https://afcaf.com/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:10Z",
+      "company_id": "ir-teh-49f01ae7bb24b21a",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "خدمات مالی و بازرگانی امین - حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس خدمات مالی و بازرگانی امین 5.0 (2 نظر) با ما تماس بگیرید. حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی تماس ثبت نظر ویرایش اشتراک گذاری دسته‌بندی مشاغل حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی تهران محله صادقيه - آرياشهر اطلاعات تماس آدرس : تهران، منطقه 2، محله صادقيه - آرياشهر، ستارخان، نرسیده به چهارراه خسرو، پلاک 912 تلفن : نمایش شماره XXXXXXXXXX تلفن همراه : نمایش شماره XXXXXXXXXX وب سایت www.afcaf.com ایمیل : info@afcaf.com لیست خدمات و محصولات حسابداری حسابرسی مشاوره مالیاتی و خدمات",
+      "source_family": "book_e_avval",
+      "source_id": "src-a187553e9f864b67",
+      "source_quality": "public_page",
+      "source_title": "خدمات مالی و بازرگانی امین - حسابداری حسابرسی مشاوره مالیاتی و خدمات مالی | کتاب اول",
+      "source_type": "commercial_audit",
+      "source_url": "https://avval.ir/profile/e771d/%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D9%85%D8%A7%D9%84%DB%8C-%D9%88-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%A7%D9%85%DB%8C%D9%86"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:10Z",
+      "company_id": "ir-teh-49f01ae7bb24b21a",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "Financial & Commercial Firm – Nik Skip to content Financial & Commercial Firm Home Introduction Financial Accounting Cost Accounting Inventory Audit & Control of Accounts Financial Management Advisory & Training Business Commercial & Trading Future Plan Representative Affairs About Me Contact Blog Financial & Commercial Firm About Me Accounting Advisory & Training Audit & Control of Accounts Blog Commercial & Trading Contact Cost Accounting Financial Management Future Plan Home Introduction Inventory Representative Affairs I Work with the Clients on a Long-Term Basis Providing Advice for Ongoing Business Welcome to Amin Financial & Commercial Advising Firm Page For having a long-term coopera",
+      "source_family": "company_website:afcaf.com",
+      "source_id": "src-ddf9240f1a248a20",
+      "source_quality": "public_page",
+      "source_title": "Financial & Commercial Firm – Nik",
+      "source_type": "commercial_audit",
+      "source_url": "https://afcaf.com/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:17Z",
+      "company_id": "ir-teh-49f01ae7bb24b21a",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "About Me – Financial & Commercial Firm Skip to content Financial & Commercial Firm Home Introduction Financial Accounting Cost Accounting Inventory Audit & Control of Accounts Financial Management Advisory & Training Business Commercial & Trading Future Plan Representative Affairs About Me Contact Blog Financial & Commercial Firm About Me Accounting Advisory & Training Audit & Control of Accounts Blog Commercial & Trading Contact Cost Accounting Financial Management Future Plan Home Introduction Inventory Representative Affairs ABOUT ME I am not perfect, but I am always myself I’m very pleased for your visiting my Site and it would be my great honor of having opportunity to introduce myself ",
+      "source_family": "company_website:afcaf.com",
+      "source_id": "src-5096d648ccbcc597",
+      "source_quality": "public_page",
+      "source_title": "About Me – Financial & Commercial Firm",
+      "source_type": "commercial_audit",
+      "source_url": "https://afcaf.com/about-me/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:17Z",
+      "company_id": "ir-teh-49f01ae7bb24b21a",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "Contact – Financial & Commercial Firm Skip to content Financial & Commercial Firm Home Introduction Financial Accounting Cost Accounting Inventory Audit & Control of Accounts Financial Management Advisory & Training Business Commercial & Trading Future Plan Representative Affairs About Me Contact Blog Financial & Commercial Firm About Me Accounting Advisory & Training Audit & Control of Accounts Blog Commercial & Trading Contact Cost Accounting Financial Management Future Plan Home Introduction Inventory Representative Affairs Contact Me Let's Be In Touch Contact Information Amin Financial & Commercial Advising Firm Manager: Reza Nikkhah Mobile: (+98) 912 108 5287 Mobile: (+98) 912 112 0138 ",
+      "source_family": "company_website:afcaf.com",
+      "source_id": "src-44e177cc2a6656d5",
+      "source_quality": "public_page",
+      "source_title": "Contact – Financial & Commercial Firm",
+      "source_type": "commercial_audit",
+      "source_url": "https://afcaf.com/contact/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:44:02Z",
+      "company_id": "ir-teh-49f01ae7bb24b21a",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+9c39@duckduckgo.com Code: 9c39",
+      "source_family": "search_engine",
+      "source_id": "src-01ca3acc9419cccb",
+      "source_quality": "search_index",
+      "source_title": "DuckDuckGo",
+      "source_type": "commercial_audit",
+      "source_url": "https://html.duckduckgo.com/html/?q=%22%D8%AE%D8%AF%D9%85%D8%A7%D8%AA+%D9%85%D8%A7%D9%84%DB%8C+%D9%88+%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D8%A7%D9%85%DB%8C%D9%86%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:44:03Z",
+      "company_id": "ir-teh-49f01ae7bb24b21a",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+9c39@duckduckgo.com Code: 9c39",
+      "source_family": "search_engine",
+      "source_id": "src-9148146dfddcff1c",
+      "source_quality": "search_index",
+      "source_title": "DuckDuckGo",
+      "source_type": "commercial_audit",
+      "source_url": "https://html.duckduckgo.com/html/?q=%22%D8%AE%D8%AF%D9%85%D8%A7%D8%AA+%D9%85%D8%A7%D9%84%DB%8C+%D9%88+%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D8%A7%D9%85%DB%8C%D9%86%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
     }
   ]
 }

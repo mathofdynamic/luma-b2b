@@ -1,7 +1,31 @@
 {
+  "commercial_audit": {
+    "independent_source_count": 2,
+    "pages_checked": 9,
+    "pages_usable": 5,
+    "sales_readiness": "READY FOR OUTREACH",
+    "source_families": [
+      "book_e_avval",
+      "company_website:flco-co.com"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
   "company_id": "ir-teh-5541a647bfac567d",
-  "errors": [],
-  "generated_at": "2026-09-01T08:11:35Z",
+  "errors": [
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22https+flco-co.com%22+Tehran+Iran+company&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D8%B3%DB%8C%D8%A7%D9%84+%DA%A9%D9%86%D8%AA%D8%B1%D9%84%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    }
+  ],
+  "generated_at": "2026-09-01T15:27:10Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
@@ -149,6 +173,104 @@
       "source_quality": "company_site",
       "source_title": "تامین، تولید و واردات تجهیزات صنعت آب، نفت، گاز و پتروشیمی",
       "source_url": "https://flco-co.com/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:10Z",
+      "company_id": "ir-teh-5541a647bfac567d",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "تامین، تولید و واردات تجهیزات صنعت آب، نفت، گاز و پتروشیمی خانه درباره ما محصولات شیرآلات صنعتی اتصالات صنعتی لوله ها عملگرها برندها میراب کیز ایران ارتعاشات صنعتی پترو فجر مرکزی cepex آریا کوپلینگ آوند؛ تولیدکننده تخصصی شیرآلات اسلاری و پینچ ولو effebi AKO پیشگام تکاب اتصال دماوند کورتک پلی پارک نگین شیر Herbe گروه صنعتی آریا خدمات پروژه ها بلاگ تماس با ما اطلاعات تماس جذب نمایندگی ریتاپی | خرید آنلاین شبکه های اجتماعی : باشگاه مشتریان ۷۴۵۲۵ باشگاه مشتریان ۷۴۵۲۵ EN ما راهی را پیدا می‌کنیم اسکرول کنید بازرگانی سیال کنترل شرکت بازرگانی سیال کنترل به عنوان تامین کننده و وارد کننده شیرآلات ، اتصالات و تجهیزات صنعت پایپینگ به ویژه صنعت آب و فاضلاب و تجهیزات نفت، گاز و پتروشیمی ، با گسترش محصولات",
+      "source_family": "company_website:flco-co.com",
+      "source_id": "src-b6d18325ceb7effb",
+      "source_quality": "public_page",
+      "source_title": "تامین، تولید و واردات تجهیزات صنعت آب، نفت، گاز و پتروشیمی",
+      "source_type": "commercial_audit",
+      "source_url": "https://flco-co.com/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:10Z",
+      "company_id": "ir-teh-5541a647bfac567d",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "شرکت بازرگانی سیال کنترل - تولید تجهیزات پالایشگاهی نفت و گاز و پتروشیمی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس شرکت بازرگانی سیال کنترل 5.0 (1 نظر) تولید تجهیزات پالایشگاهی نفت و گاز و پتروشیمی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل تولید تجهیزات پالایشگاهی نفت و گاز و پتروشیمی تهران محله زرگنده اطلاعات تماس آدرس : تهران، منطقه 3، محله زرگنده، خیابان دستگردی (ظفر)، پلاک 197، واحد 11 تلفن : نمایش شماره XXXXXXXXXX فکس : نمایش شماره XXXXXXXXXX وب سایت www.flco-co.com ایمیل : info@flco-co.com صفحات اجتماعی : توضیحات شرکت بازرگانی سیال کنترل، فعال در زمینه تامین و تجهیز صنایع نفت، گ",
+      "source_family": "book_e_avval",
+      "source_id": "src-b75cb5ea86c7be93",
+      "source_quality": "public_page",
+      "source_title": "شرکت بازرگانی سیال کنترل - تولید تجهیزات پالایشگاهی نفت و گاز و پتروشیمی | کتاب اول",
+      "source_type": "commercial_audit",
+      "source_url": "https://avval.ir/profile/64328/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%B3%DB%8C%D8%A7%D9%84-%DA%A9%D9%86%D8%AA%D8%B1%D9%84"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:17Z",
+      "company_id": "ir-teh-5541a647bfac567d",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "درباره ما - شرکت بازرگانی سیال کنترل پرش به محتوا خانه درباره ما محصولات شیرآلات صنعتی اتصالات صنعتی لوله ها عملگرها برندها میراب کیز ایران ارتعاشات صنعتی پترو فجر مرکزی cepex آریا کوپلینگ آوند؛ تولیدکننده تخصصی شیرآلات اسلاری و پینچ ولو effebi AKO پیشگام تکاب اتصال دماوند کورتک پلی پارک نگین شیر Herbe گروه صنعتی آریا خدمات پروژه ها بلاگ تماس با ما اطلاعات تماس جذب نمایندگی ریتاپی | خرید آنلاین باشگاه مشتریان ۷۴۵۲۵ باشگاه مشتریان ۷۴۵۲۵ EN درباره سیال کنترل بیشتر بدانید شرکت بازرگانی سیال کنترل ، فعال در زمینه تامین و تجهیز شیرآلات و اتصالات صنعت پایپینگ در صنایع نفت و گاز و پتروشیمی، آب و فاضلاب، ساختمان، معدن و فولاد کشور بوده و توانسته با گسترش محصولات و خدمات خود و بهبود کیفیت آن‌ها، با ت",
+      "source_family": "company_website:flco-co.com",
+      "source_id": "src-8d2f2a1b21292e4d",
+      "source_quality": "public_page",
+      "source_title": "درباره ما - شرکت بازرگانی سیال کنترل",
+      "source_type": "commercial_audit",
+      "source_url": "https://flco-co.com/about-us/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:17Z",
+      "company_id": "ir-teh-5541a647bfac567d",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "شیرآلات صنعتی - سیال کنترل پرش به محتوا خانه درباره ما محصولات شیرآلات صنعتی اتصالات صنعتی لوله ها عملگرها برندها میراب کیز ایران ارتعاشات صنعتی پترو فجر مرکزی cepex آریا کوپلینگ آوند؛ تولیدکننده تخصصی شیرآلات اسلاری و پینچ ولو effebi AKO پیشگام تکاب اتصال دماوند کورتک پلی پارک نگین شیر Herbe گروه صنعتی آریا خدمات پروژه ها بلاگ تماس با ما اطلاعات تماس جذب نمایندگی ریتاپی | خرید آنلاین باشگاه مشتریان ۷۴۵۲۵ باشگاه مشتریان ۷۴۵۲۵ EN شیرآلات صنعتی در قلب هر سیستم پایپینگ صنعتی، قطعه‌ای وجود دارد که وظیفه کنترل، هدایت و ایمنی جریان سیالات را بر عهده دارد؛ قطعه‌ای به نام شیرآلات صنعتی . از پالایشگاه‌های عظیم نفت و گاز گرفته تا موتورخانه ساختمان‌ها، خطوط انتقال آب، صنایع دریایی، نیروگاه‌ها و کارخانه",
+      "source_family": "company_website:flco-co.com",
+      "source_id": "src-4c0992ddbfe15c13",
+      "source_quality": "public_page",
+      "source_title": "شیرآلات صنعتی - سیال کنترل",
+      "source_type": "commercial_audit",
+      "source_url": "https://flco-co.com/products/valves/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:17Z",
+      "company_id": "ir-teh-5541a647bfac567d",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "اتصالات صنعتی - سیال کنترل پرش به محتوا خانه درباره ما محصولات شیرآلات صنعتی اتصالات صنعتی لوله ها عملگرها برندها میراب کیز ایران ارتعاشات صنعتی پترو فجر مرکزی cepex آریا کوپلینگ آوند؛ تولیدکننده تخصصی شیرآلات اسلاری و پینچ ولو effebi AKO پیشگام تکاب اتصال دماوند کورتک پلی پارک نگین شیر Herbe گروه صنعتی آریا خدمات پروژه ها بلاگ تماس با ما اطلاعات تماس جذب نمایندگی ریتاپی | خرید آنلاین باشگاه مشتریان ۷۴۵۲۵ باشگاه مشتریان ۷۴۵۲۵ EN اتصالات صنعتی اتصالات صنعتی، قطعات مکانیکی هستند که برای اتصال دو یا چند قطعه از یک سیستم لوله‌کشی یا خطوط انتقال استفاده می‌شوند. اتصالات صنعتی انواع مختلفی دارند و از مواد مختلفی ساخته می‌شوند. زانویی‌ها، فلنج‌ها، کوپلینگ‌ها و انشعابات از انواع اتصالات هستند. تامین",
+      "source_family": "company_website:flco-co.com",
+      "source_id": "src-444dc54515f28102",
+      "source_quality": "public_page",
+      "source_title": "اتصالات صنعتی - سیال کنترل",
+      "source_type": "commercial_audit",
+      "source_url": "https://flco-co.com/products/fittinigs/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:44:05Z",
+      "company_id": "ir-teh-5541a647bfac567d",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+9c39@duckduckgo.com Code: 9c39",
+      "source_family": "search_engine",
+      "source_id": "src-6c10cc026edd1ee1",
+      "source_quality": "search_index",
+      "source_title": "DuckDuckGo",
+      "source_type": "commercial_audit",
+      "source_url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D8%B3%DB%8C%D8%A7%D9%84+%DA%A9%D9%86%D8%AA%D8%B1%D9%84%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:44:05Z",
+      "company_id": "ir-teh-5541a647bfac567d",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+9c39@duckduckgo.com Code: 9c39",
+      "source_family": "search_engine",
+      "source_id": "src-37d9d1d4f75a2db6",
+      "source_quality": "search_index",
+      "source_title": "DuckDuckGo",
+      "source_type": "commercial_audit",
+      "source_url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D8%B3%DB%8C%D8%A7%D9%84+%DA%A9%D9%86%D8%AA%D8%B1%D9%84%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
     }
   ]
 }

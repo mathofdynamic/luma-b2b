@@ -1,7 +1,30 @@
 {
+  "commercial_audit": {
+    "independent_source_count": 1,
+    "pages_checked": 5,
+    "pages_usable": 1,
+    "sales_readiness": "NOT READY",
+    "source_families": [
+      "book_e_avval"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
   "company_id": "ir-teh-6a264f32a76cc810",
-  "errors": [],
-  "generated_at": "2026-09-01T08:29:22Z",
+  "errors": [
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "stage": "company_homepage",
+      "url": "http://www.khcgroup.ir"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%AE%D8%A7%DA%A9%D8%B3%D8%A7%D8%B1+%D8%B4%DB%8C%D9%85%DB%8C+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%D8%A7%D9%86%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    }
+  ],
+  "generated_at": "2026-09-01T15:27:10Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
@@ -53,6 +76,48 @@
       "source_quality": "directory",
       "source_title": "شرکت خاکسار شیمی ایرانیان - تولید مواد اولیه دارو | کتاب اول",
       "source_url": "https://avval.ir/profile/73f3b/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%AE%D8%A7%DA%A9%D8%B3%D8%A7%D8%B1-%D8%B4%DB%8C%D9%85%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%D8%A7%D9%86"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:10Z",
+      "company_id": "ir-teh-6a264f32a76cc810",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "شرکت خاکسار شیمی ایرانیان - تولید مواد اولیه دارو | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس شرکت خاکسار شیمی ایرانیان خاکسار شیمی ایرانیان تامین کننده و تولید کننده انواع مواد اولیه و محصولات شیمیایی، خوراکی، آرایشی و بهداشتی آماده ارایه خدمات به مشتریان است. تولید مواد اولیه دارو تولید مواد اولیه شیمیایی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل تولید مواد اولیه دارو تهران محله سنائی اطلاعات تماس آدرس : تهران، منطقه 6، محله سنائی، خیابان مطهری (تخت طاووس)، خیابان قائم مقام فراهانی، کوچه الوند، پلاک 14، واحد 2 تلفن : نمایش شماره XXXXXXXXXX تلفن همراه : نمایش شماره XXXXXXXXXX تلفکس : ن",
+      "source_family": "book_e_avval",
+      "source_id": "src-eec0a7a7fe17c61f",
+      "source_quality": "public_page",
+      "source_title": "شرکت خاکسار شیمی ایرانیان - تولید مواد اولیه دارو | کتاب اول",
+      "source_type": "commercial_audit",
+      "source_url": "https://avval.ir/profile/73f3b/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%AE%D8%A7%DA%A9%D8%B3%D8%A7%D8%B1-%D8%B4%DB%8C%D9%85%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%D8%A7%D9%86"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:44:08Z",
+      "company_id": "ir-teh-6a264f32a76cc810",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+9c39@duckduckgo.com Code: 9c39",
+      "source_family": "search_engine",
+      "source_id": "src-1315365ecf3f6edc",
+      "source_quality": "search_index",
+      "source_title": "DuckDuckGo",
+      "source_type": "commercial_audit",
+      "source_url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%AE%D8%A7%DA%A9%D8%B3%D8%A7%D8%B1+%D8%B4%DB%8C%D9%85%DB%8C+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%D8%A7%D9%86%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:44:08Z",
+      "company_id": "ir-teh-6a264f32a76cc810",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+9c39@duckduckgo.com Code: 9c39",
+      "source_family": "search_engine",
+      "source_id": "src-b81d9bfbe536af66",
+      "source_quality": "search_index",
+      "source_title": "DuckDuckGo",
+      "source_type": "commercial_audit",
+      "source_url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%AE%D8%A7%DA%A9%D8%B3%D8%A7%D8%B1+%D8%B4%DB%8C%D9%85%DB%8C+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%D8%A7%D9%86%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
     }
   ]
 }

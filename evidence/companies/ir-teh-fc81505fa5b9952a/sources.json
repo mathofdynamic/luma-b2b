@@ -1,4 +1,14 @@
 {
+  "commercial_audit": {
+    "independent_source_count": 1,
+    "pages_checked": 6,
+    "pages_usable": 1,
+    "sales_readiness": "NOT READY",
+    "source_families": [
+      "book_e_avval"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
   "company_id": "ir-teh-fc81505fa5b9952a",
   "errors": [
     {
@@ -11,9 +21,39 @@
       "error": "TimeoutExpired: Command '['/Users/mohammad/.codex/skills/playwright/scripts/playwright_cli.sh', '-s=luma-b2b-ir-teh-fc81505fa5b9952a-attempt-2', 'open', 'https://api.whatsapp.com/send?text=avval.ir/profile/9b288/%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D8%AF%D9%88%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%AF%D9%88%D8%A7%D9%86%DB%8C', '--config', 'config/playwright.headless.json']' timed out after 15 seconds",
       "source_url": "https://api.whatsapp.com/send?text=avval.ir/profile/9b288/%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D8%AF%D9%88%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%AF%D9%88%D8%A7%D9%86%DB%8C",
       "stage": "browser"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 503: Service Unavailable",
+      "stage": "company_homepage",
+      "url": "http://www.davantd.com"
+    },
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22ic+coi+-%22+Tehran+Iran+company&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D8%AA%D9%88%D8%B3%D8%B9%D9%87+%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA+%D8%AF%D9%88%D8%A7%D9%86+%28%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D8%AF%D9%88%D8%A7%D9%86%DB%8C%29%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D8%AA%D9%88%D8%B3%D8%B9%D9%87+%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA+%D8%AF%D9%88%D8%A7%D9%86+%28%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D8%AF%D9%88%D8%A7%D9%86%DB%8C%29%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D8%AA%D9%88%D8%B3%D8%B9%D9%87+%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA+%D8%AF%D9%88%D8%A7%D9%86+%28%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D8%AF%D9%88%D8%A7%D9%86%DB%8C%29%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
     }
   ],
-  "generated_at": "2026-09-01T09:29:43Z",
+  "generated_at": "2026-09-01T15:27:11Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
@@ -64,6 +104,20 @@
       "quote_or_snippet": "بازرگانی توسعه تجارت دوان (بازرگانی دوانی) - ترخیص کالا | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس بازرگانی توسعه تجارت دوان (بازرگانی دوانی) تجارت امن و پایدار را با ما تجربه کنید. مفتخر به ارائه خدمات بازرگانی و گمرکی با بهترین کیفیت در حداقل زمان هستیم. ترخیص کالا تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل ترخیص کالا تهران محله ولیعصر اطلاعات تماس آدرس : تهران، منطقه 6، محله ولیعصر، میدا",
       "source_quality": "directory",
       "source_title": "بازرگانی توسعه تجارت دوان (بازرگانی دوانی) - ترخیص کالا | کتاب اول",
+      "source_url": "https://avval.ir/profile/9b288/%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D8%AF%D9%88%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%AF%D9%88%D8%A7%D9%86%DB%8C"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:41Z",
+      "company_id": "ir-teh-fc81505fa5b9952a",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "بازرگانی توسعه تجارت دوان (بازرگانی دوانی) - ترخیص کالا | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس بازرگانی توسعه تجارت دوان (بازرگانی دوانی) تجارت امن و پایدار را با ما تجربه کنید. مفتخر به ارائه خدمات بازرگانی و گمرکی با بهترین کیفیت در حداقل زمان هستیم. ترخیص کالا تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل ترخیص کالا تهران محله ولیعصر اطلاعات تماس آدرس : تهران، منطقه 6، محله ولیعصر، میدان ولی عصر، جنب ساختمان ایرانیان، کوچه شقایق، ساختمان شقایق، پلاک 40، طبقه 9، واحد 18 تلفن : نمایش شماره XXXXXXXXXX تلفن همراه : نمایش شماره XXXXXXXXXX فکس : نمایش شماره XXXXXXXXXX وب سایت www.davantd.",
+      "source_family": "book_e_avval",
+      "source_id": "src-842ddb657e3c9a1c",
+      "source_quality": "public_page",
+      "source_title": "بازرگانی توسعه تجارت دوان (بازرگانی دوانی) - ترخیص کالا | کتاب اول",
+      "source_type": "commercial_audit",
       "source_url": "https://avval.ir/profile/9b288/%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D8%AF%D9%88%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%AF%D9%88%D8%A7%D9%86%DB%8C"
     }
   ]

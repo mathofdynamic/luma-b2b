@@ -1,7 +1,37 @@
 {
+  "commercial_audit": {
+    "independent_source_count": 2,
+    "pages_checked": 9,
+    "pages_usable": 5,
+    "sales_readiness": "NOT READY",
+    "source_families": [
+      "book_e_avval",
+      "company_website:bartarproducts.com"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
   "company_id": "ir-teh-65e64ef273ed4fd4",
-  "errors": [],
-  "generated_at": "2026-09-01T08:14:03Z",
+  "errors": [
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22https+bartarproducts.com%22+Tehran+Iran+company&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D9%86%D9%88%DB%8C%D8%AF%DA%A9%D8%A7%D8%B1%D8%A7%D9%86+-+%D8%AF%D9%81%D8%AA%D8%B1+%D9%85%D8%B1%DA%A9%D8%B2%DB%8C+%28%D8%A8%D8%B1%D8%AA%D8%B1%29%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_TIMEOUT",
+      "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D9%86%D9%88%DB%8C%D8%AF%DA%A9%D8%A7%D8%B1%D8%A7%D9%86+-+%D8%AF%D9%81%D8%AA%D8%B1+%D9%85%D8%B1%DA%A9%D8%B2%DB%8C+%28%D8%A8%D8%B1%D8%AA%D8%B1%29%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    }
+  ],
+  "generated_at": "2026-09-01T15:27:10Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
@@ -101,6 +131,90 @@
       "source_quality": "company_site",
       "source_title": "محصولات غذایی برتر",
       "source_url": "https://bartarproducts.com/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:08Z",
+      "company_id": "ir-teh-65e64ef273ed4fd4",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "شرکت نویدکاران - دفتر مرکزی (برتر) - بسته بندی مواد غذایی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس شرکت نویدکاران - دفتر مرکزی (برتر) بسته بندی مواد غذایی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل بسته بندی مواد غذایی تهران محله زرگنده اطلاعات تماس آدرس : تهران، منطقه 3، محله زرگنده، بلوار آفریقا، بلوار آرش شرقی، بعد از زیرگذر، پلاک 10 تلفن : نمایش شماره XXXXXXXXXX تلفن همراه : نمایش شماره XXXXXXXXXX فکس : نمایش شماره XXXXXXXXXX وب سایت bartarproducts.com/ کد پستی : 1919865775 توضیحات شرکت تعاونی تولیدی نویدکاران تولیدکنندۀ محصولات غذایی برتر در سال ۱۳۷۳ تأسیس و تولید خود را به صورت ",
+      "source_family": "book_e_avval",
+      "source_id": "src-db89ef578b333216",
+      "source_quality": "public_page",
+      "source_title": "شرکت نویدکاران - دفتر مرکزی (برتر) - بسته بندی مواد غذایی | کتاب اول",
+      "source_type": "commercial_audit",
+      "source_url": "https://avval.ir/profile/065a8/%D8%B4%D8%B1%DA%A9%D8%AA-%D9%86%D9%88%DB%8C%D8%AF%DA%A9%D8%A7%D8%B1%D8%A7%D9%86-%D8%AF%D9%81%D8%AA%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%A8%D8%B1%D8%AA%D8%B1"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:09Z",
+      "company_id": "ir-teh-65e64ef273ed4fd4",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+9c39@duckduckgo.com Code: 9c39",
+      "source_family": "search_engine",
+      "source_id": "src-46d91723a641320f",
+      "source_quality": "search_index",
+      "source_title": "DuckDuckGo",
+      "source_type": "commercial_audit",
+      "source_url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D9%86%D9%88%DB%8C%D8%AF%DA%A9%D8%A7%D8%B1%D8%A7%D9%86+-+%D8%AF%D9%81%D8%AA%D8%B1+%D9%85%D8%B1%DA%A9%D8%B2%DB%8C+%28%D8%A8%D8%B1%D8%AA%D8%B1%29%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:09Z",
+      "company_id": "ir-teh-65e64ef273ed4fd4",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "محصولات غذایی برتر پرش به محتوا خانه درباره برتر تاریخچه و معرفی سازمان دستاوردها و افتخارات امکانات و توانمندی‌ها کاتالوگ محصولات فیلم صنعتی محصولات آشپزی به سبک برتر مراکز فروش شعب نمایندگی ها فروشگاه های آنلاین فروش سازمانی صادرات اخبار همکاری با ما تماس با ما خانه درباره برتر تاریخچه و معرفی سازمان دستاوردها و افتخارات امکانات و توانمندی‌ها کاتالوگ محصولات فیلم صنعتی محصولات آشپزی به سبک برتر مراکز فروش شعب نمایندگی ها فروشگاه های آنلاین فروش سازمانی صادرات اخبار همکاری با ما تماس با ما محصولات شعب داخلی فارسی English العربية دانلود درسان دسک فارسی English العربية فارسی English العربية نمایندگی شهریور ۱۴۰۵ جذب نیرو بنر سایت برتر محصولات غذایی برتر شرکت برتر آجیل برتر خشکبار برتر دفتر برت",
+      "source_family": "company_website:bartarproducts.com",
+      "source_id": "src-e2213bb820ce9d46",
+      "source_quality": "public_page",
+      "source_title": "محصولات غذایی برتر",
+      "source_type": "commercial_audit",
+      "source_url": "https://bartarproducts.com/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:15Z",
+      "company_id": "ir-teh-65e64ef273ed4fd4",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "محصولات غذایی برتر پرش به محتوا خانه درباره برتر تاریخچه و معرفی سازمان دستاوردها و افتخارات امکانات و توانمندی‌ها کاتالوگ محصولات فیلم صنعتی محصولات آشپزی به سبک برتر مراکز فروش شعب نمایندگی ها فروشگاه های آنلاین فروش سازمانی صادرات اخبار همکاری با ما تماس با ما خانه درباره برتر تاریخچه و معرفی سازمان دستاوردها و افتخارات امکانات و توانمندی‌ها کاتالوگ محصولات فیلم صنعتی محصولات آشپزی به سبک برتر مراکز فروش شعب نمایندگی ها فروشگاه های آنلاین فروش سازمانی صادرات اخبار همکاری با ما تماس با ما محصولات شعب داخلی فارسی English العربية دانلود درسان دسک فارسی English العربية فارسی English العربية نمایندگی شهریور ۱۴۰۵ جذب نیرو بنر سایت برتر محصولات غذایی برتر شرکت برتر آجیل برتر خشکبار برتر دفتر برت",
+      "source_family": "company_website:bartarproducts.com",
+      "source_id": "src-d8ee8d5f57d26096",
+      "source_quality": "public_page",
+      "source_title": "محصولات غذایی برتر",
+      "source_type": "commercial_audit",
+      "source_url": "https://bartarproducts.com"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:15Z",
+      "company_id": "ir-teh-65e64ef273ed4fd4",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "تاریخچه و معرفی سازمان – محصولات غذایی برتر پرش به محتوا خانه درباره برتر تاریخچه و معرفی سازمان دستاوردها و افتخارات امکانات و توانمندی‌ها کاتالوگ محصولات فیلم صنعتی محصولات آشپزی به سبک برتر مراکز فروش شعب نمایندگی ها فروشگاه های آنلاین فروش سازمانی صادرات اخبار همکاری با ما تماس با ما خانه درباره برتر تاریخچه و معرفی سازمان دستاوردها و افتخارات امکانات و توانمندی‌ها کاتالوگ محصولات فیلم صنعتی محصولات آشپزی به سبک برتر مراکز فروش شعب نمایندگی ها فروشگاه های آنلاین فروش سازمانی صادرات اخبار همکاری با ما تماس با ما محصولات شعب داخلی فارسی English دانلود درسان دسک فارسی English فارسی English تاریخچه و معرفی سازمان معرفی شرکت شرکت تعاونی تولیدی نویدکاران تولیدکنندۀ محصولات غذایی برتر در سال ۱۳",
+      "source_family": "company_website:bartarproducts.com",
+      "source_id": "src-63475a6aacb565a3",
+      "source_quality": "public_page",
+      "source_title": "تاریخچه و معرفی سازمان – محصولات غذایی برتر",
+      "source_type": "commercial_audit",
+      "source_url": "https://bartarproducts.com/%d8%aa%d8%a7%d8%b1%db%8c%d8%ae%da%86%d9%87-%d9%88-%d9%85%d8%b9%d8%b1%d9%81%db%8c-%d8%b3%d8%a7%d8%b2%d9%85%d8%a7%d9%86/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:15Z",
+      "company_id": "ir-teh-65e64ef273ed4fd4",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "دستاوردها و افتخارات – محصولات غذایی برتر پرش به محتوا خانه درباره برتر تاریخچه و معرفی سازمان دستاوردها و افتخارات امکانات و توانمندی‌ها کاتالوگ محصولات فیلم صنعتی محصولات آشپزی به سبک برتر مراکز فروش شعب نمایندگی ها فروشگاه های آنلاین فروش سازمانی صادرات اخبار همکاری با ما تماس با ما خانه درباره برتر تاریخچه و معرفی سازمان دستاوردها و افتخارات امکانات و توانمندی‌ها کاتالوگ محصولات فیلم صنعتی محصولات آشپزی به سبک برتر مراکز فروش شعب نمایندگی ها فروشگاه های آنلاین فروش سازمانی صادرات اخبار همکاری با ما تماس با ما محصولات شعب داخلی فارسی English دانلود درسان دسک فارسی English فارسی English دستاوردها و افتخارات محصولات غذایی برتر با توجه به داشتن ویژگیهای کیفی و تطبیق با استانداردهای ملی موفق ",
+      "source_family": "company_website:bartarproducts.com",
+      "source_id": "src-ac162f8ae4925ea6",
+      "source_quality": "public_page",
+      "source_title": "دستاوردها و افتخارات – محصولات غذایی برتر",
+      "source_type": "commercial_audit",
+      "source_url": "https://bartarproducts.com/%d8%af%d8%b3%d8%aa%d8%a7%d9%88%d8%b1%d8%af%d9%87%d8%a7-%d9%88-%d8%a7%d9%81%d8%aa%d8%ae%d8%a7%d8%b1%d8%a7%d8%aa/"
     }
   ]
 }

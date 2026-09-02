@@ -1,4 +1,14 @@
 {
+  "commercial_audit": {
+    "independent_source_count": 1,
+    "pages_checked": 5,
+    "pages_usable": 1,
+    "sales_readiness": "NOT READY",
+    "source_families": [
+      "book_e_avval"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
   "company_id": "ir-teh-e43c6e9dee989404",
   "errors": [
     {
@@ -6,9 +16,27 @@
       "error": "TimeoutExpired: Command '['/Users/mohammad/.codex/skills/playwright/scripts/playwright_cli.sh', '-s=luma-b2b-ir-teh-e43c6e9dee989404-attempt-1', 'open', 'https://api.whatsapp.com/send?text=avval.ir/profile/fe973/%D9%88%DB%8C%DA%98%D9%86-%D8%A2%D8%B1%DB%8C%D8%A7-%DA%AF%D8%B3%D8%AA%D8%B1', '--config', 'config/playwright.headless.json']' timed out after 15 seconds",
       "source_url": "https://api.whatsapp.com/send?text=avval.ir/profile/fe973/%D9%88%DB%8C%DA%98%D9%86-%D8%A2%D8%B1%DB%8C%D8%A7-%DA%AF%D8%B3%D8%AA%D8%B1",
       "stage": "browser"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "company_homepage",
+      "url": "https://api.whatsapp.com/send?text=avval.ir/profile/fe973/%D9%88%DB%8C%DA%98%D9%86-%D8%A2%D8%B1%DB%8C%D8%A7-%DA%AF%D8%B3%D8%AA%D8%B1"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D9%88%DB%8C%DA%98%D9%86+%D8%A2%D8%B1%DB%8C%D8%A7+%DA%AF%D8%B3%D8%AA%D8%B1%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22PET%22+Tehran+Iran+company&kl=ir-fa"
     }
   ],
-  "generated_at": "2026-09-01T09:27:52Z",
+  "generated_at": "2026-09-01T15:27:11Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
@@ -60,6 +88,48 @@
       "source_quality": "directory",
       "source_title": "ویژن آریا گستر - فروش لوازم بسته بندی | کتاب اول",
       "source_url": "https://avval.ir/profile/fe973/%D9%88%DB%8C%DA%98%D9%86-%D8%A2%D8%B1%DB%8C%D8%A7-%DA%AF%D8%B3%D8%AA%D8%B1"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:10Z",
+      "company_id": "ir-teh-e43c6e9dee989404",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "ویژن آریا گستر - فروش لوازم بسته بندی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس ویژن آریا گستر فروش پایان معامله نیست ، آغاز یک تعهد است فروش لوازم بسته بندی تولید لوازم بسته بندی ماشین آلات بسته بندی تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل فروش لوازم بسته بندی تهران محله هفت حوض اطلاعات تماس آدرس : تهران، منطقه 8، محله هفت حوض، خیابان دماوند، تقاطع آیت، پلاک 597، طبقه چهارم، واحد 16 تلفن : نمایش شماره XXXXXXXXXX تلفن همراه : نمایش شماره XXXXXXXXXX ایمیل : v.ariagostar@gmail.com توضیحات محصولات شرکت ویژن آریا گستر: 1- تسمه های پلاستیکی : a) تسمه پلی اتیلن ترفتالات (PET) جهت بسته بند",
+      "source_family": "book_e_avval",
+      "source_id": "src-f2d15c1c7bda8f6e",
+      "source_quality": "public_page",
+      "source_title": "ویژن آریا گستر - فروش لوازم بسته بندی | کتاب اول",
+      "source_type": "commercial_audit",
+      "source_url": "https://avval.ir/profile/fe973/%D9%88%DB%8C%DA%98%D9%86-%D8%A2%D8%B1%DB%8C%D8%A7-%DA%AF%D8%B3%D8%AA%D8%B1"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:44:20Z",
+      "company_id": "ir-teh-e43c6e9dee989404",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+9c39@duckduckgo.com Code: 9c39",
+      "source_family": "search_engine",
+      "source_id": "src-929c04580f7983a2",
+      "source_quality": "search_index",
+      "source_title": "DuckDuckGo",
+      "source_type": "commercial_audit",
+      "source_url": "https://html.duckduckgo.com/html/?q=%22%D9%88%DB%8C%DA%98%D9%86+%D8%A2%D8%B1%DB%8C%D8%A7+%DA%AF%D8%B3%D8%AA%D8%B1%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:44:20Z",
+      "company_id": "ir-teh-e43c6e9dee989404",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "DuckDuckGo DuckDuckGo Unfortunately, bots use DuckDuckGo too. Please complete the following challenge to confirm this search was made by a human. Select all squares containing a duck: Submit Images not loading? Please email the following code to: error-lite+9c39@duckduckgo.com Code: 9c39",
+      "source_family": "search_engine",
+      "source_id": "src-96ccad512c927e7d",
+      "source_quality": "search_index",
+      "source_title": "DuckDuckGo",
+      "source_type": "commercial_audit",
+      "source_url": "https://html.duckduckgo.com/html/?q=%22%D9%88%DB%8C%DA%98%D9%86+%D8%A2%D8%B1%DB%8C%D8%A7+%DA%AF%D8%B3%D8%AA%D8%B1%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
     }
   ]
 }

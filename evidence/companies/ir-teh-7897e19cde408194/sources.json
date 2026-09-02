@@ -1,7 +1,43 @@
 {
+  "commercial_audit": {
+    "independent_source_count": 2,
+    "pages_checked": 9,
+    "pages_usable": 5,
+    "sales_readiness": "READY FOR OUTREACH",
+    "source_families": [
+      "book_e_avval",
+      "company_website:atlasfarabarjahan.com"
+    ],
+    "version": "2026.09.commercial-audit-v1"
+  },
   "company_id": "ir-teh-7897e19cde408194",
-  "errors": [],
-  "generated_at": "2026-09-01T08:16:52Z",
+  "errors": [
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%A7%D8%B7%D9%84%D8%B3+%D9%81%D8%B1%D8%A7%D8%A8%D8%B1+%D8%AC%D9%87%D8%A7%D9%86%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "RemoteDisconnected: Remote end closed connection without response",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22https+www.atlasfarabarjahan.com%22+Tehran+Iran+company&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%A7%D8%B7%D9%84%D8%B3+%D9%81%D8%B1%D8%A7%D8%A8%D8%B1+%D8%AC%D9%87%D8%A7%D9%86%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%A7%D8%B7%D9%84%D8%B3+%D9%81%D8%B1%D8%A7%D8%A8%D8%B1+%D8%AC%D9%87%D8%A7%D9%86%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    }
+  ],
+  "generated_at": "2026-09-01T15:27:11Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
@@ -110,6 +146,76 @@
       "source_quality": "company_site",
       "source_title": "شرکت حمل و نقل اطلس فرابر جهان | حمل بار زمینی، هوایی و ریلی به سراسر جهان",
       "source_url": "https://www.atlasfarabarjahan.com/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:11Z",
+      "company_id": "ir-teh-7897e19cde408194",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "شرکت حمل و نقل اطلس فرابر جهان | حمل بار زمینی، هوایی و ریلی به سراسر جهان اطلس فرابر جهان صفحه اصلی خدمات مقالات شرکت گالری تصاویر درباره ما تماس با ما EN TR ورود حمل و نقل مطمئن و سریع بار به تمام نقاط دنیا با بیش از 20 سال تجربه در زمینه حمل و نقل بار و کالا با بهترین کیفیت و مناسب‌ترین قیمت ثبت درخواست آنلاین حمل زمینی چرا ما را انتخاب می‌کنند؟ مزیت‌های رقابتی شرکت حمل و نقل اطلس فرابر جهان تحویل سریع حمل بار در کوتاه‌ترین زمان ممکن با برنامه‌ریزی دقیق قیمت مناسب بهترین قیمت‌ها با توجه به مسافت و نوع بار بیمه بار پوشش بیمه‌ای کامل برای تمامی محموله‌ها پشتیبانی 24/7 پشتیبانی آنلاین و تلفنی در تمام ساعات خدمات ما انواع خدمات حمل و نقل بار و کالا حمل جاده‌ای حمل بار با انواع کامیون و تریلی ",
+      "source_family": "company_website:atlasfarabarjahan.com",
+      "source_id": "src-ec76ecc096d6d1b9",
+      "source_quality": "public_page",
+      "source_title": "شرکت حمل و نقل اطلس فرابر جهان | حمل بار زمینی، هوایی و ریلی به سراسر جهان",
+      "source_type": "commercial_audit",
+      "source_url": "https://www.atlasfarabarjahan.com/"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:11Z",
+      "company_id": "ir-teh-7897e19cde408194",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "اطلس فرابر جهان - واردات صادرات فرآورده نفت و گاز و پتروشیمی | کتاب اول در اطراف من ثبت رایگان اطلاعات شغلی ورود | ثبت نام دسته بندی مشاغل | تبلیغات با ما | دسترسی بانک مشاغل | پنل اس ام اس اطلس فرابر جهان ارتباط جهان واردات صادرات فرآورده نفت و گاز و پتروشیمی حمل و نقل بین المللی واردات صادرات کالا تماس ثبت نظر ارتقای پروفایل ویرایش اشتراک گذاری دسته‌بندی مشاغل واردات صادرات فرآورده نفت و گاز و پتروشیمی تهران محله جهاد اطلاعات تماس آدرس : تهران، منطقه 6، محله جهاد، خیابان فتحی شقاقی، پلاک 85 تلفن : نمایش شماره XXXXXXXXXX تلفن همراه : نمایش شماره XXXXXXXXXX وب سایت www.atlasfarabarjahan.com ایمیل : info@atlasfarabarjahan.com توضیحات حمل و نقل بین المللی نظرات لطفا به این کسب و کار امتیاز بدی",
+      "source_family": "book_e_avval",
+      "source_id": "src-e3f5696a6fcb63a9",
+      "source_quality": "public_page",
+      "source_title": "اطلس فرابر جهان - واردات صادرات فرآورده نفت و گاز و پتروشیمی | کتاب اول",
+      "source_type": "commercial_audit",
+      "source_url": "https://avval.ir/profile/rssln/%D8%A7%D8%B7%D9%84%D8%B3-%D9%81%D8%B1%D8%A7%D8%A8%D8%B1-%D8%AC%D9%87%D8%A7%D9%86"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:18Z",
+      "company_id": "ir-teh-7897e19cde408194",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "درباره ما | شرکت حمل و نقل اطلس فرابر جهان اطلس فرابر جهان صفحه اصلی خدمات مقالات شرکت گالری تصاویر درباره ما تماس با ما EN TR ورود درباره شرکت ما شرکت حمل و نقل اطلس فرابر جهان با بیش از دو دهه تجربه در صنعت حمل و نقل تاریخچه شرکت شرکت حمل و نقل اطلس فرابر جهان در سال 1404 با هدف ارائه خدمات حمل و نقل بین‌المللی تأسیس شد. (اولین شرکت حمل و نقل ما , ماهان ترابر آریا) ما در ابتدا با یک دفتر کوچک و چند دستگاه کامیون شروع به کار کردیم و امروز به یکی از شرکت‌های پیشرو در صنعت حمل و نقل تبدیل شده‌ایم. طی این سال‌ها، ما با تکیه بر اصول حرفه‌ای و رعایت استانداردهای بین‌المللی، توانسته‌ایم اعتماد مشتریان زیادی را جلب کنیم. امروز، شبکه حمل و نقل ما بیش از 30 کشور در خاورمیانه و اروپا را پوشش می‌دهد. ",
+      "source_family": "company_website:atlasfarabarjahan.com",
+      "source_id": "src-5fefb22a8f8b5db4",
+      "source_quality": "public_page",
+      "source_title": "درباره ما | شرکت حمل و نقل اطلس فرابر جهان",
+      "source_type": "commercial_audit",
+      "source_url": "https://www.atlasfarabarjahan.com/about.html"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:18Z",
+      "company_id": "ir-teh-7897e19cde408194",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "خدمات | شرکت حمل و نقل اطلس فرابر جهان اطلس فرابر جهان صفحه اصلی خدمات مقالات شرکت گالری تصاویر درباره ما تماس با ما EN TR ورود خدمات تخصصی حمل و نقل با شبکه گسترده حمل و نقل در سراسر جهان و بهره‌گیری از مدرن‌ترین ناوگان دسته‌بندی خدمات انتخاب روش حمل بر اساس نیاز شما حمل جاده‌ای حمل ریلی حمل هوایی حمل دریایی حمل ویژه حمل و نقل جاده‌ای مناسب برای حمل بار به تمام نقاط دنیا با انواع وسایل نقلیه سنگین. این روش پرکاربردترین روش حمل است. پوشش تمام کشور های جهان تحویل بین 1 تا 5 هفته امکان حمل بار تا 25 تن رهگیری لحظه‌ای بار تماس با کارشناسان شرکت انواع وسایل نقلیه کامیونت (تا 5 تن) تریلی (تا 30 تن) کامیون یخچال‌دار حمل و نقل ریلی مناسب برای حمل بارهای حجیم و مسافت‌های طولانی با امنیت و صرفه‌جویی ",
+      "source_family": "company_website:atlasfarabarjahan.com",
+      "source_id": "src-d1353587b548c337",
+      "source_quality": "public_page",
+      "source_title": "خدمات | شرکت حمل و نقل اطلس فرابر جهان",
+      "source_type": "commercial_audit",
+      "source_url": "https://www.atlasfarabarjahan.com/services.html"
+    },
+    {
+      "audit_round": "2026.09.commercial-audit-v1",
+      "captured_at": "2026-09-01T14:17:18Z",
+      "company_id": "ir-teh-7897e19cde408194",
+      "discovery_reason": "Targeted commercial audit of an existing Tier A/B company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "تماس با ما | شرکت حمل و نقل اطلس فرابر جهان اطلس فرابر جهان صفحه اصلی خدمات مقالات شرکت گالری تصاویر درباره ما تماس با ما EN TR ورود تماس با ما ما آماده پاسخگویی به سوالات و پیشنهادات شما هستیم راه‌های ارتباطی می‌توانید از طریق روش‌های زیر با ما در ارتباط باشید اطلاعات تماس آدرس دفتر مرکزی تهران، میدان فاطمی، خیابان فتحی شقاقی، به سمت بزرگراه شهید گمنام، پلاک ۸۵، طبقه ۲، واحد۴ تلفن‌های تماس 021-88018692 09125038824 پست الکترونیک info@atlasfarabarjahan.com ساعات کاری شنبه تا چهارشنبه: ۸ صبح تا ۵ عصر پنجشنبه: ۸ صبح تا ۱ ظهر جمعه: تعطیل فرم تماس با ما نام کامل پست الکترونیک شماره تماس موضوع انتخاب کنید استعلام قیمت پیشنهاد همکاری انتقادات و پیشنهادات پشتیبانی سایر پیام شما ارسال پیام سوالات متد",
+      "source_family": "company_website:atlasfarabarjahan.com",
+      "source_id": "src-04e4e672d027fba7",
+      "source_quality": "public_page",
+      "source_title": "تماس با ما | شرکت حمل و نقل اطلس فرابر جهان",
+      "source_type": "commercial_audit",
+      "source_url": "https://www.atlasfarabarjahan.com/contact.html"
     }
   ]
 }
