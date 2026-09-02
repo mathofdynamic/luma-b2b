@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-09-02T14:52:00Z",
+  "tool": "Playwright CLI session luma-dashboard-qa",
+  "browser_mode": "headless",
+  "locale": "fa-IR",
+  "direction": "rtl",
+  "viewport": "1440x1000",
+  "reduced_motion": {
+    "emulated": true,
+    "page_animation_duration": "1e-05s",
+    "page_transition_duration": "1e-05s"
+  },
+  "keyboard": {
+    "first_tab_focus": "button.button.button-dark",
+    "command_palette_focus": "palette-search",
+    "command_palette_escape_closes": true,
+    "unlabeled_controls_found": 0
+  },
+  "landmarks": {
+    "main": 1,
+    "primary_navigation": 1,
+    "header": 1
+  },
+  "responsive_overflow": {
+    "desktop_1440": false,
+    "tablet_800": false,
+    "mobile_390": false
+  }
+}
