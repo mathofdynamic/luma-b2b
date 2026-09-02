@@ -1,6 +1,6 @@
 # First-contact plan
 
-Generated: 2026-09-02T06:51:45Z
+Generated: 2026-09-02T13:00:57Z
 
 Scope: exactly 32 current READY FOR OUTREACH companies. No new discovery was performed and no outreach was sent.
 
@@ -19,7 +19,9 @@ These are ranked first because they combine a visible public operating surface, 
 - Industry: `industrial_distributors_importers` / `distributor`
 - Website: [https://sabahi.com/](https://sabahi.com/)
 - Primary decision-maker role: Commercial / Sales Operations Director
-- Verified name: UNKNOWN
+- Verified primary-contact name: UNKNOWN
+- Economic buyer: Managing Director / CEO — ناصر صباحی
+- Economic-buyer source: [https://ir.linkedin.com/company/sabahi](https://ir.linkedin.com/company/sabahi)
 - Best contact channel: EMAIL
 - Public contact: phone 02188740680, 02188740681, 02188740682, 02188740683, 02188740684, 02188740685, 02188740686, 02188740687, 02188740688, 02188740689, 02188743930, 02188744284; email info@sabahi.com; LinkedIn [https://www.linkedin.com/company/sabahigroup](https://www.linkedin.com/company/sabahigroup)
 - Primary workflow: دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت — `STRONG_HYPOTHESIS`
@@ -36,7 +38,7 @@ These are ranked first because they combine a visible public operating surface, 
 - Industry: `industrial_distributors_importers` / `importer`
 - Website: [https://spttrade.com/](https://spttrade.com/)
 - Primary decision-maker role: Commercial / Sales Operations Director
-- Verified name: UNKNOWN
+- Verified primary-contact name: UNKNOWN
 - Best contact channel: EMAIL
 - Public contact: phone 02126415084; email info@spttrade.com; LinkedIn اطلاعات عمومی تأییدشده‌ای یافت نشد
 - Primary workflow: دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت — `EVIDENCE_SUPPORTED`
@@ -53,7 +55,7 @@ These are ranked first because they combine a visible public operating surface, 
 - Industry: `industrial_manufacturers` / `manufacturer`
 - Website: [https://yeskangaroo.com/](https://yeskangaroo.com/)
 - Primary decision-maker role: Commercial / Sales Operations Director
-- Verified name: UNKNOWN
+- Verified primary-contact name: UNKNOWN
 - Best contact channel: EMAIL
 - Public contact: phone 02188042111, 02188061379, 02188064800, 02188216525; email info@yeskangaroo.com; LinkedIn اطلاعات عمومی تأییدشده‌ای یافت نشد
 - Primary workflow: دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت — `EVIDENCE_SUPPORTED`
@@ -70,7 +72,7 @@ These are ranked first because they combine a visible public operating surface, 
 - Industry: `industrial_distributors_importers` / `importer`
 - Website: [https://sarangtejarat.com/](https://sarangtejarat.com/)
 - Primary decision-maker role: Commercial / Sales Operations Director
-- Verified name: UNKNOWN
+- Verified primary-contact name: UNKNOWN
 - Best contact channel: EMAIL
 - Public contact: phone 02188655780, 02191005520; email info@sarangtejarat.com; LinkedIn [https://www.linkedin.com/company/sarang-tejarat-international](https://www.linkedin.com/company/sarang-tejarat-international)
 - Primary workflow: دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت — `STRONG_HYPOTHESIS`
@@ -87,7 +89,7 @@ These are ranked first because they combine a visible public operating surface, 
 - Industry: `industrial_distributors_importers` / `distributor`
 - Website: [https://farazinsanat.ir/](https://farazinsanat.ir/)
 - Primary decision-maker role: Commercial / Sales Operations Director
-- Verified name: UNKNOWN
+- Verified primary-contact name: UNKNOWN
 - Best contact channel: EMAIL
 - Public contact: phone 02136057761, 02136057961; email info@farazinsanat.ir; LinkedIn اطلاعات عمومی تأییدشده‌ای یافت نشد
 - Primary workflow: دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت — `EVIDENCE_SUPPORTED`
@@ -104,7 +106,7 @@ These are ranked first because they combine a visible public operating surface, 
 - Industry: `industrial_distributors_importers` / `mixed`
 - Website: [https://trading-milad.com/](https://trading-milad.com/)
 - Primary decision-maker role: Commercial / Sales Operations Director
-- Verified name: UNKNOWN
+- Verified primary-contact name: UNKNOWN
 - Best contact channel: EMAIL
 - Public contact: phone 02122096430, 02122343047, 02122343079, 02122343086, 02122343095, 02122344712, 02144554455, 02188731146, 02188731147, 02188731148; email info@trading-milad.com, sales@miladtrading.com; LinkedIn اطلاعات عمومی تأییدشده‌ای یافت نشد
 - Primary workflow: دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت — `EVIDENCE_SUPPORTED`
@@ -121,7 +123,7 @@ These are ranked first because they combine a visible public operating surface, 
 - Industry: `printing_packaging_labeling` / `manufacturer`
 - Website: [https://iluxbox.com/](https://iluxbox.com/)
 - Primary decision-maker role: Estimating / Production Director
-- Verified name: UNKNOWN
+- Verified primary-contact name: UNKNOWN
 - Best contact channel: EMAIL
 - Public contact: phone 02144051339; email info@iluxbox.com; LinkedIn اطلاعات عمومی تأییدشده‌ای یافت نشد
 - Primary workflow: استخراج بریف سفارش و پشتیبانی برآورد — `STRONG_HYPOTHESIS`
@@ -138,7 +140,7 @@ These are ranked first because they combine a visible public operating surface, 
 - Industry: `printing_packaging_labeling` / `manufacturer`
 - Website: [https://sepidarcarton.com/](https://sepidarcarton.com/)
 - Primary decision-maker role: Estimating / Production Director
-- Verified name: UNKNOWN
+- Verified primary-contact name: UNKNOWN
 - Best contact channel: EMAIL
 - Public contact: phone 02177289390, 02177289391, 02177823172; email info@sepidarcarton.com; LinkedIn [https://www.linkedin.com/company/سپیدار-کارتن/](https://www.linkedin.com/company/سپیدار-کارتن/)
 - Primary workflow: استخراج بریف سفارش و پشتیبانی برآورد — `EVIDENCE_SUPPORTED`
@@ -155,7 +157,7 @@ These are ranked first because they combine a visible public operating surface, 
 - Industry: `industrial_distributors_importers` / `distributor`
 - Website: [https://bobcat-iran.ir/](https://bobcat-iran.ir/)
 - Primary decision-maker role: Commercial / Sales Operations Director
-- Verified name: UNKNOWN
+- Verified primary-contact name: UNKNOWN
 - Best contact channel: PHONE
 - Public contact: phone 02166192021; email UNKNOWN; LinkedIn اطلاعات عمومی تأییدشده‌ای یافت نشد
 - Primary workflow: دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت — `EVIDENCE_SUPPORTED`
@@ -172,7 +174,7 @@ These are ranked first because they combine a visible public operating surface, 
 - Industry: `industrial_distributors_importers` / `distributor`
 - Website: [https://takvoltage.com/](https://takvoltage.com/)
 - Primary decision-maker role: Commercial / Sales Operations Director
-- Verified name: UNKNOWN
+- Verified primary-contact name: UNKNOWN
 - Best contact channel: EMAIL
 - Public contact: phone 02133009920, 02133928000; email info@takvoltage.com; LinkedIn اطلاعات عمومی تأییدشده‌ای یافت نشد
 - Primary workflow: دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت — `STRONG_HYPOTHESIS`

@@ -1,6 +1,6 @@
 # Internal sales brief — مجموعه فاراب خاکپور
 
-Prepared: 2026-09-02T06:51:44Z
+Prepared: 2026-09-02T13:00:56Z
 Scope: existing READY FOR OUTREACH record only. No outreach has been sent.
 
 ## Company snapshot
