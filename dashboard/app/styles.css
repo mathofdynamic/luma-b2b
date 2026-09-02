@@ -600,7 +600,7 @@ main { max-width: 1700px; margin: 0 auto; padding: 34px 38px 54px; }
 .review-form textarea { width: 100%; min-height: 93px; resize: vertical; padding: 9px; color: var(--ink); background: white; border: 1px solid var(--line); border-radius: 7px; outline: 0; font-size: 11px; line-height: 1.7; }
 .review-form-footer { grid-column: 1 / -1; display: flex; align-items: center; justify-content: space-between; gap: 12px; color: var(--muted); font-size: 9px; }
 
-.detail-tab-page { display: grid; gap: 16px; }
+.detail-tab-page { min-width: 0; display: grid; grid-template-columns: minmax(0, 1fr); gap: 16px; }
 .evidence-detail-summary { display: flex; align-items: center; justify-content: space-between; gap: 20px; padding: 16px 20px; background: var(--navy-900); border-radius: var(--radius); }
 .evidence-detail-summary h3, .history-banner h3 { margin: 4px 0 2px; color: white; font-size: 18px; }
 .evidence-detail-summary p, .history-banner p { margin: 0; color: #adc8c4; font-size: 11px; }
