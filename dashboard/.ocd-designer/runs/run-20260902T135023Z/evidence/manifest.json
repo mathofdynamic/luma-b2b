@@ -1,6 +1,6 @@
 {
   "schema_version": "0.2.0",
-  "source_fingerprint": "0690b301a641259e840b40d9eae26e55060e97f820ab5c4857565f9ab05a6bf5",
+  "source_fingerprint": "82b01e57400b33fd94fd641fbebad1ed98099af18bf72c2db4575864d7d01722",
   "required_matrix": [
     {
       "id": "M-BRAND-APPROVAL",
@@ -461,6 +461,24 @@
       "locale": "fa-IR",
       "direction": "rtl",
       "notes": "24 route/viewport checks; 12 local font responses; no overflow or browser errors; Persian search and compare interactions verified."
+    },
+    {
+      "id": "E-0020",
+      "kind": "screenshot",
+      "protocol": "dashboard-visual",
+      "matrix_id": "D-SABAH",
+      "path": ".ocd-designer/runs/run-20260902T135023Z/evidence/artifacts/E-0020-screenshot.png",
+      "sha256": "cb63e122e39d0136f87a7cd91fcd08782466a72bc2e089118f9d07e90b9e96a0",
+      "commit": "82b01e57400b33fd94fd641fbebad1ed98099af18bf72c2db4575864d7d01722",
+      "captured_at": "2026-09-02T17:22:12Z",
+      "durable": true,
+      "route": "/?company=ir-teh-2587928f98e4f816",
+      "state": "baseline before remediation: narrow mobile layout",
+      "viewport": "390x844",
+      "browser": "headless Chromium",
+      "locale": "fa-IR",
+      "direction": "rtl",
+      "notes": "Headless baseline showing the decision-maker and public-contact panels incorrectly remaining side-by-side at 142px each; the contact list expands to 2,776px."
     }
   ]
 }
