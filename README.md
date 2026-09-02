@@ -34,6 +34,10 @@ These are research signals, not claims of revenue, legal standing, buying author
 
 The bounded activation procedure and its human-approval safeguards are documented in `docs/sales_activation.md`.
 
+## Sabah demonstration preparation
+
+The private, offline-ready Sabah RFQ demonstration is under `demos/sabahi/`. It uses public Sabah product information plus three synthetic RFQs to show extraction, candidate matching, uncertainty handling, response drafting and human approval. Run it locally with `python3 -m http.server 4178 --bind 127.0.0.1 --directory demos/sabahi/app`; no external AI service or public deployment is required. See `demos/sabahi/README.md` and `demos/sabahi/DEMO_SCRIPT_FA.md`. No outreach was sent.
+
 ## Scope
 
 The primary scope is Tehran city and Tehran Province, including Tehran-headquartered organizations with facilities elsewhere. Priority segments are industrial distributors/importers, industrial manufacturers, food/FMCG, logistics/freight/customs, printing/packaging/labeling, medical equipment, auto parts, EPC/engineering, building materials/MEP, industrial maintenance/after-sales and pharmaceutical companies.
