@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2.0",
+  "project_id": "luma-b2b-review-dashboard",
+  "mode": "build",
+  "stage": "DISCOVERY",
+  "classification": "unknown",
+  "repo": {
+    "path": ".",
+    "head": "786a5f7f4c954d0039313e9bdf5220b531001204",
+    "remote": null
+  },
+  "deployment_url": null,
+  "deployment_identity": null,
+  "deployment_identity_type": null,
+  "deployment_identity_evidence": null,
+  "brand": {
+    "version": "0.1.0",
+    "hash": "unconfirmed",
+    "approval_status": "pending"
+  },
+  "active_run": "run-20260902T135023Z",
+  "config_hash": null,
+  "updated_at": "2026-09-02T13:50:23Z"
+}

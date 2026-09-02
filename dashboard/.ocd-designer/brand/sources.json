@@ -1,0 +1,26 @@
+[
+  {
+    "source_id": "user-brief-dashboard-20260902",
+    "kind": "user_requirement",
+    "title": "LUMA B2B local review dashboard brief",
+    "url": "workspace://conversation/2026-09-02/dashboard",
+    "captured_at": "2026-09-02",
+    "notes": "Primary source for scope, information needs, local-only behavior, evidence semantics, RTL, persistence, comparison, and no-outreach constraints."
+  },
+  {
+    "source_id": "prior-luma-working-direction",
+    "kind": "project_design",
+    "title": "Previous LUMA/Sabah provisional working direction",
+    "url": "workspace://.ocd-designer/brand/brand-book.md",
+    "captured_at": "2026-09-02",
+    "notes": "Reference for provisional navy/teal/paper visual language, Persian-first typography, restrained motion, and local evidence posture; not official brand approval."
+  },
+  {
+    "source_id": "canonical-research-output",
+    "kind": "repository_data",
+    "title": "Normalized LUMA B2B research outputs",
+    "url": "workspace://data/normalized/companies.jsonl",
+    "captured_at": "2026-09-02",
+    "notes": "Current canonical company data and related normalized evidence/workflow/source exports."
+  }
+]

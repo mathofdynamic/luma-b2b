@@ -1,0 +1,47 @@
+{
+  "schema_version": "0.2.0",
+  "source_fingerprint": null,
+  "required_matrix": [
+    {
+      "id": "M-BRAND-APPROVAL",
+      "protocol": "brand",
+      "required": true,
+      "evidence_kinds": [
+        "user_confirmation"
+      ]
+    },
+    {
+      "id": "M-DIRECTION-APPROVAL",
+      "protocol": "direction",
+      "required": true,
+      "evidence_kinds": [
+        "user_confirmation"
+      ]
+    },
+    {
+      "id": "M-RELEASE-ACCEPTANCE",
+      "protocol": "acceptance",
+      "required": false,
+      "evidence_kinds": [
+        "user_confirmation"
+      ]
+    },
+    {
+      "id": "M-MOTION-STATIC-EXCEPTION",
+      "protocol": "motion",
+      "required": false,
+      "evidence_kinds": [
+        "user_confirmation"
+      ]
+    },
+    {
+      "id": "M-DEPLOYMENT-IDENTITY",
+      "protocol": "discoverability",
+      "required": false,
+      "evidence_kinds": [
+        "http"
+      ]
+    }
+  ],
+  "items": []
+}
