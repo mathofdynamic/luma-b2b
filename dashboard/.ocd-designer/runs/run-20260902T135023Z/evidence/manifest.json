@@ -1,6 +1,6 @@
 {
   "schema_version": "0.2.0",
-  "source_fingerprint": "871bc4932769142fed8fb9bbf24928853f0d8a4c9a115c0a91bbfe013603746b",
+  "source_fingerprint": "ca0fa0a24a8b18d4a998adf8c1b675a739eb5c7090ed8f0836b6808c63153e4f",
   "required_matrix": [
     {
       "id": "M-BRAND-APPROVAL",
@@ -281,6 +281,24 @@
       "locale": "fa-IR",
       "direction": "rtl",
       "notes": "Headless runtime sweep: no console/page/request failures, no external requests, no horizontal overflow, interactions and review persistence asserted."
+    },
+    {
+      "id": "E-0010",
+      "kind": "accessibility",
+      "protocol": "dashboard-visual",
+      "matrix_id": "D-OVERVIEW",
+      "path": ".ocd-designer/runs/run-20260902T135023Z/evidence/artifacts/E-0010-accessibility.json",
+      "sha256": "7023b557acd4f36ef4945442a6b68315f9ae1a1f1664b4ec4a590c89a801d952",
+      "commit": "ca0fa0a24a8b18d4a998adf8c1b675a739eb5c7090ed8f0836b6808c63153e4f",
+      "captured_at": "2026-09-02T14:52:25Z",
+      "durable": true,
+      "route": "/?view=overview",
+      "state": "keyboard and reduced motion sweep",
+      "viewport": "1440x1000; 800x900; 390x844",
+      "browser": "Chromium headless via Playwright CLI",
+      "locale": "fa-IR",
+      "direction": "rtl",
+      "notes": "Accessibility assertions: landmarks, control labels, first-tab focus, command-palette focus/escape, reduced motion and responsive overflow."
     }
   ]
 }
