@@ -12,7 +12,7 @@ from urllib.parse import urlencode
 
 from src.discovery.run import parse_ddg
 from src.enrichment.enrich import analyze_website, likely_site
-from src.utilities.common import DEFAULT_PROXY, RateLimiter, canonical_url, domain_of, fetch_url, normalize_persian, now_iso, path_for, read_jsonl, stable_hash, write_json, write_jsonl
+from src.utilities.common import DEFAULT_PROXY, RateLimiter, canonical_url, domain_of, fetch_url, filter_public_emails, normalize_persian, now_iso, path_for, read_jsonl, stable_hash, write_json, write_jsonl
 
 
 def relevant_result(company: dict[str, Any], result: dict[str, Any]) -> bool:
@@ -115,7 +115,7 @@ def main() -> int:
             company["research_status"] = "MEANINGFULLY_ENRICHED"
             company["evidence"].extend(site.get("evidence", []))
             company["phone_public"] = sorted(set(company.get("phone_public", [])) | set(site.get("phones", [])))
-            company["email_public"] = sorted(set(company.get("email_public", [])) | set(site.get("emails", [])))
+            company["email_public"] = filter_public_emails(list(company.get("email_public", [])) + list(site.get("emails", [])))
             company["document_types_public"] = sorted(set(company.get("document_types_public", [])) | ({"PDF"} if site.get("pdf_links") else set()))
         company["last_research_date"] = now_iso()
 

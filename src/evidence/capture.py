@@ -80,6 +80,13 @@ def capture_company(company: dict[str, Any], limit_timeout: int = 55) -> dict[st
     pages = package / "pages"
     screenshots.mkdir(parents=True, exist_ok=True)
     pages.mkdir(parents=True, exist_ok=True)
+    existing_payload: dict[str, Any] = {}
+    package_file = package / "sources.json"
+    if package_file.exists():
+        try:
+            existing_payload = json.loads(package_file.read_text(encoding="utf-8"))
+        except Exception:
+            existing_payload = {}
     for old_file in list(screenshots.glob("*.png")) + list(pages.glob("*.snapshot.txt")):
         if not old_file.name.startswith("._"):
             old_file.unlink()
@@ -149,7 +156,9 @@ def capture_company(company: dict[str, Any], limit_timeout: int = 55) -> dict[st
         "errors": errors,
         "headless_policy": {"headless": True, "proxy": DEFAULT_PROXY, "isolated_context": True, "visible_browser_launched": False},
     }
-    write_json(package / "sources.json", payload)
+    if existing_payload.get("commercial_audit"):
+        payload["commercial_audit"] = existing_payload["commercial_audit"]
+    write_json(package_file, payload)
     notes = [f"# {company.get('company_name_fa')}", "", f"Score: {company.get('luma_opportunity_score')}", f"Tier: {company.get('priority_tier')}", "", "Visual evidence is captured from public pages only. Observations remain separate from workflow hypotheses.", ""]
     if metadata:
         notes.append(f"Captured {len(metadata)} headless screenshot(s):")

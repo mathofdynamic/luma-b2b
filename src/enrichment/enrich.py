@@ -20,6 +20,7 @@ from src.utilities.common import (
     corporate_phones,
     domain_of,
     extract_emails,
+    filter_public_emails,
     extract_links,
     extract_title,
     fetch_url,
@@ -260,7 +261,7 @@ def parse_profile(response: dict[str, Any], profile_url: str) -> dict[str, Any]:
                 elif address:
                     addresses.append(clean_text(address))
     text = html_to_text(body, 18000)
-    emails = [email for email in extract_emails(text) if email.split("@", 1)[-1] not in {"gmail.com", "yahoo.com", "hotmail.com", "outlook.com"}]
+    emails = [email for email in filter_public_emails(extract_emails(text)) if email.split("@", 1)[-1] not in {"gmail.com", "yahoo.com", "hotmail.com", "outlook.com"}]
     return {
         "url": profile_url,
         "status": response.get("status"),
@@ -353,7 +354,7 @@ def analyze_website(response: dict[str, Any], url: str) -> dict[str, Any]:
         "relevant_links": relevant_links[:20],
         "pdf_links": sorted(set(pdf_links))[:30],
         "phones": corporate_phones(text),
-        "emails": [email for email in extract_emails(text) if email.split("@", 1)[-1] not in {"gmail.com", "yahoo.com", "hotmail.com", "outlook.com"}],
+        "emails": [email for email in filter_public_emails(extract_emails(text)) if email.split("@", 1)[-1] not in {"gmail.com", "yahoo.com", "hotmail.com", "outlook.com"}],
         "error": response.get("error"),
     }
 

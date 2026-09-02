@@ -195,7 +195,21 @@ def extract_title(body: str) -> str:
 
 def extract_emails(text: str) -> list[str]:
     values = re.findall(r"[A-Z0-9._%+\-]+@[A-Z0-9.\-]+\.[A-Z]{2,}", text or "", re.I)
-    return sorted({value.lower().strip(".,;:") for value in values})
+    return filter_public_emails(values)
+
+
+def filter_public_emails(values: Iterable[str] | None) -> list[str]:
+    """Remove search-provider artifacts before an email enters public contacts."""
+    cleaned: set[str] = set()
+    for value in values or []:
+        email = str(value).lower().strip(" .,;:")
+        local, separator, domain = email.partition("@")
+        if not separator or not local or not domain:
+            continue
+        if local.startswith("error-lite") and domain.endswith("duckduckgo.com"):
+            continue
+        cleaned.add(email)
+    return sorted(cleaned)
 
 
 def normalize_phone(value: str) -> str:

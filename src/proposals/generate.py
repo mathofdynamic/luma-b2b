@@ -51,12 +51,13 @@ def observed_facts(company: dict[str, Any]) -> list[str]:
 def eligible(company: dict[str, Any]) -> bool:
     if company.get("priority_tier") not in {"A", "B"} or company.get("hard_disqualifier") or company.get("industry") == "other":
         return False
-    if company.get("research_status") != "MEANINGFULLY_ENRICHED":
+    if company.get("sales_readiness") != "READY FOR OUTREACH":
         return False
-    evidence_count = len([item for item in company.get("evidence", []) if not item.get("excluded_from_qualification")])
-    website_ok = str(company.get("website_status", "")).isdigit() and 200 <= int(company.get("website_status")) < 400
-    strong_b = company.get("priority_tier") == "B" and (company.get("luma_opportunity_score", 0) >= 73 or website_ok or evidence_count >= 4)
-    return company.get("priority_tier") == "A" or strong_b
+    if company.get("workflow_evidence_classification") not in {"EVIDENCE_SUPPORTED", "STRONG_HYPOTHESIS"}:
+        return False
+    if not (company.get("workflow_opportunities") or []):
+        return False
+    return (company.get("commercial_evidence_strength") or 0) >= 70 and (company.get("score_confidence") or 0) >= 65
 
 
 def proposal(company: dict[str, Any]) -> dict[str, Any]:
@@ -66,7 +67,7 @@ def proposal(company: dict[str, Any]) -> dict[str, Any]:
         + (company.get("source_urls") or [])
     ))
     website_ok = str(company.get("website_status", "")).isdigit() and int(company.get("website_status")) == 200
-    confidence = "High" if company.get("priority_tier") == "A" and (website_ok or len(company.get("evidence", [])) >= 4) else "Medium"
+    confidence = "High" if (company.get("commercial_evidence_strength") or 0) >= 80 and (company.get("score_confidence") or 0) >= 80 and company.get("workflow_evidence_classification") == "EVIDENCE_SUPPORTED" else "Medium"
     facts = observed_facts(company)
     questions = workflow.get("discovery_questions") or [
         "فرایند فعلی از ورود درخواست تا خروجی نهایی چگونه انجام می‌شود؟",
@@ -83,7 +84,7 @@ def proposal(company: dict[str, Any]) -> dict[str, Any]:
         "",
         "## Likely operational opportunity",
         "",
-        f"STRONG_INFERENCE — بر پایه زمینه عمومی شرکت و شواهد بالا، فرایند قابل بررسی: **{workflow.get('workflow_name', 'Operational reporting and internal knowledge discovery')}**. این یک فرضیه فروش/کشف است و مشکل داخلی قطعی ادعا نمی‌کند.",
+        f"{company.get('workflow_evidence_classification', 'STRONG_HYPOTHESIS')} — بر پایه سطح عمومی عملیات و شواهد لینک‌شده، فرایند قابل بررسی: **{workflow.get('workflow_name', 'Operational reporting and internal knowledge discovery')}**. این شواهد وجود یک فرایند داخلی ناکارآمد را ثابت نمی‌کند و باید در گفت‌وگوی کشف اعتبارسنجی شود.",
         "",
         "## Proposed LUMA solution",
         "",
@@ -115,7 +116,11 @@ def proposal(company: dict[str, Any]) -> dict[str, Any]:
         "",
         "## Confidence",
         "",
-        f"{confidence} — score {company.get('luma_opportunity_score')}, {len(company.get('evidence', []))} evidence objects, website status {company.get('website_status')}. Public sources establish a researchable context, not budget, internal volume or buying authority.",
+        f"{confidence} — raw opportunity score {company.get('luma_opportunity_score')}, confidence-adjusted score {company.get('confidence_adjusted_score')}, commercial evidence strength {company.get('commercial_evidence_strength')}/100, score confidence {company.get('score_confidence')}/100 and {company.get('independent_source_count')} independent source families. Public sources establish a researchable context, not budget, internal volume or buying authority.",
+        "",
+        "## What we do not know",
+        "",
+        "Budget, monthly workflow volume, system ownership, buying authority, current manual handoffs and implementation constraints remain UNKNOWN until discovery.",
         "",
         "## Source links",
         "",
@@ -154,7 +159,7 @@ def main() -> int:
         (proposal_dir / f"{company['company_id']}.md").write_text(item["markdown"], encoding="utf-8")
         outputs.append({key: value for key, value in item.items() if key != "markdown"})
     write_jsonl(path_for("data", "normalized", "proposals.jsonl"), outputs)
-    write_json(path_for("logs", f"proposals-{now_iso().replace(':', '').replace('-', '')}.json"), {"completed_at": now_iso(), "proposals_generated": len(outputs), "eligible_tiers": ["A", "B"], "strong_b_rule": "B with score >=73, website status 200 or >=4 evidence objects"})
+    write_json(path_for("logs", f"proposals-{now_iso().replace(':', '').replace('-', '')}.json"), {"completed_at": now_iso(), "proposals_generated": len(outputs), "eligible_tiers": ["A", "B"], "gate": "READY FOR OUTREACH + EVIDENCE_SUPPORTED/STRONG_HYPOTHESIS workflow + commercial evidence >=70 + score confidence >=65"})
     print(json.dumps({"proposals_generated": len(outputs), "tier_counts": {tier: sum(1 for item in outputs if item["tier"] == tier) for tier in ["A", "B"]}}, ensure_ascii=False, indent=2))
     return 0
 

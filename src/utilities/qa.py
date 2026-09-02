@@ -81,15 +81,77 @@ def check_companies(companies: list[dict[str, Any]], result: dict[str, Any]) -> 
     if duplicate_identity_groups:
         add_issue(result, f"Potential duplicate name/address groups remain: {len(duplicate_identity_groups)}")
 
-    expected = 0
     tier_errors = 0
+    audit_tier_errors = 0
+    audit_formula_errors = 0
+    audit_unknown_policy_errors = 0
+    audit_readiness_errors = 0
+    audit_source_count_errors = 0
+    audit_field_errors = 0
     missing_required = 0
     evidence_url_errors = 0
     private_contact_errors = 0
+    audited_count = 0
+    allowed_workflow_classes = {"EVIDENCE_SUPPORTED", "STRONG_HYPOTHESIS", "WEAK_HYPOTHESIS", "UNSUPPORTED"}
     for company in companies:
         score = company.get("luma_opportunity_score")
         hard = company.get("hard_disqualifier")
-        if score is not None:
+        if company.get("commercial_audit_version"):
+            audited_count += 1
+            try:
+                score_value = float(score)
+                confidence = int(company.get("score_confidence"))
+                factor = float(company.get("confidence_factor"))
+                adjusted = float(company.get("confidence_adjusted_score"))
+                expected_factor = round(0.40 + 0.60 * confidence / 100, 3)
+                expected_adjusted = round(score_value * expected_factor, 1)
+                if not (0 <= confidence <= 100) or abs(factor - expected_factor) > 1e-9 or abs(adjusted - expected_adjusted) > 1e-9:
+                    audit_formula_errors += 1
+            except (TypeError, ValueError):
+                audit_formula_errors += 1
+
+            families = company.get("independent_source_families") or []
+            if company.get("independent_source_count") != len(families):
+                audit_source_count_errors += 1
+            workflow_class = company.get("workflow_evidence_classification")
+            workflows = company.get("workflow_opportunities") or []
+            if workflow_class not in allowed_workflow_classes or (workflow_class == "UNSUPPORTED" and workflows) or (workflow_class != "UNSUPPORTED" and not workflows):
+                audit_field_errors += 1
+            if workflows and workflows[0].get("workflow_evidence_classification") != workflow_class:
+                audit_field_errors += 1
+
+            if company.get("internal_tech_capability_evidence_status") == "UNKNOWN_INTERNAL_TECH" and (
+                company.get("internal_tech_capability_score") != 50 or company.get("outsourcing_fit_score") != 50
+            ):
+                audit_unknown_policy_errors += 1
+            if company.get("digital_maturity_evidence_status") == "UNKNOWN_DIGITAL_MATURITY" and (
+                company.get("digital_maturity_score") != 50 or company.get("digital_maturity_fit_score") != 50
+            ):
+                audit_unknown_policy_errors += 1
+
+            active = company.get("active_status_evidence")
+            strength = company.get("company_strength_evidence_status")
+            complexity = company.get("operational_complexity_evidence_status")
+            meaningful = strength != "UNKNOWN" or complexity != "UNKNOWN"
+            ready_gate = (
+                not hard and active == "SUPPORTED" and meaningful and len(families) >= 2
+                and workflow_class in {"EVIDENCE_SUPPORTED", "STRONG_HYPOTHESIS"}
+                and company.get("internal_tech_capability_evidence_status") != "KNOWN_HIGH_INTERNAL_TECH"
+                and company.get("commercial_evidence_strength", 0) >= 70
+                and company.get("score_confidence", 0) >= 65
+                and score_value >= 70
+            )
+            b_gate = (
+                not hard and score_value >= 70 and company.get("commercial_evidence_strength", 0) >= 50
+                and company.get("score_confidence", 0) >= 50 and workflow_class != "UNSUPPORTED" and active != "NEGATIVE"
+            )
+            expected = "Reject" if hard or score_value < 45 else "A" if ready_gate and score_value >= 80 else "B" if b_gate else "C" if score_value >= 60 else "D"
+            if company.get("priority_tier") != expected:
+                audit_tier_errors += 1
+            expected_readiness = "READY FOR OUTREACH" if ready_gate else "NEEDS DISCOVERY" if not hard and workflow_class != "UNSUPPORTED" and company.get("company_type") not in {"branch", "warehouse_operator", "retailer"} and (adjusted >= 52 or company.get("commercial_evidence_strength", 0) >= 50) else "NOT READY"
+            if company.get("sales_readiness") != expected_readiness or company.get("commercial_readiness") != expected_readiness:
+                audit_readiness_errors += 1
+        elif score is not None:
             expected = "Reject" if hard or score < 45 else "D" if score < 60 else "C" if score < 70 else "B" if score < 80 else "A"
             if company.get("priority_tier") != expected:
                 tier_errors += 1
@@ -105,12 +167,20 @@ def check_companies(companies: list[dict[str, Any]], result: dict[str, Any]) -> 
             if str(phone).startswith("09"):
                 private_contact_errors += 1
         for email in company.get("email_public") or []:
-            if str(email).lower().rsplit("@", 1)[-1] in FREE_EMAIL_DOMAINS:
+            normalized_email = str(email).lower()
+            if normalized_email.rsplit("@", 1)[-1] in FREE_EMAIL_DOMAINS or normalized_email.startswith("error-lite") or normalized_email.endswith("@duckduckgo.com"):
                 private_contact_errors += 1
 
     result["counts"].update({
         "companies": len(companies),
+        "audited_ab_companies": audited_count,
         "tier_consistency_errors": tier_errors,
+        "audit_tier_consistency_errors": audit_tier_errors,
+        "audit_formula_errors": audit_formula_errors,
+        "audit_unknown_policy_errors": audit_unknown_policy_errors,
+        "audit_readiness_errors": audit_readiness_errors,
+        "audit_source_count_errors": audit_source_count_errors,
+        "audit_field_errors": audit_field_errors,
         "missing_required_identity_fields": missing_required,
         "evidence_url_errors": evidence_url_errors,
         "private_contact_field_errors": private_contact_errors,
@@ -122,6 +192,18 @@ def check_companies(companies: list[dict[str, Any]], result: dict[str, Any]) -> 
     })
     if tier_errors:
         add_issue(result, f"Score/tier consistency errors: {tier_errors}", critical=True)
+    if audit_tier_errors:
+        add_issue(result, f"Commercial-audit score/tier consistency errors: {audit_tier_errors}", critical=True)
+    if audit_formula_errors:
+        add_issue(result, f"Commercial-audit confidence formula errors: {audit_formula_errors}", critical=True)
+    if audit_unknown_policy_errors:
+        add_issue(result, f"Commercial-audit UNKNOWN scoring policy errors: {audit_unknown_policy_errors}", critical=True)
+    if audit_readiness_errors:
+        add_issue(result, f"Commercial-audit readiness-gate errors: {audit_readiness_errors}", critical=True)
+    if audit_source_count_errors:
+        add_issue(result, f"Commercial-audit source-family count errors: {audit_source_count_errors}", critical=True)
+    if audit_field_errors:
+        add_issue(result, f"Commercial-audit workflow field errors: {audit_field_errors}", critical=True)
     if missing_required:
         add_issue(result, f"Records missing required identity fields: {missing_required}", critical=True)
     if evidence_url_errors:
@@ -232,7 +314,12 @@ def check_proposals(companies: list[dict[str, Any]], result: dict[str, Any]) -> 
     missing_files = []
     for row in proposal_rows:
         company = by_id.get(row.get("company_id"))
-        if not company or company.get("priority_tier") not in {"A", "B"} or company.get("hard_disqualifier") or company.get("industry") == "other":
+        if not company:
+            invalid.append(row.get("company_id"))
+        elif company.get("commercial_audit_version"):
+            if company.get("sales_readiness") != "READY FOR OUTREACH" or company.get("workflow_evidence_classification") not in {"EVIDENCE_SUPPORTED", "STRONG_HYPOTHESIS"} or company.get("hard_disqualifier"):
+                invalid.append(row.get("company_id"))
+        elif company.get("priority_tier") not in {"A", "B"} or company.get("hard_disqualifier") or company.get("industry") == "other":
             invalid.append(row.get("company_id"))
         if not path_for("proposals", f"{row.get('company_id')}.md").exists():
             missing_files.append(row.get("company_id"))
@@ -276,6 +363,24 @@ def check_network_and_browser(result: dict[str, Any]) -> None:
         add_issue(result, "Latest evidence-capture log does not prove visible_browser_launched=false.", critical=True)
     if capture.get("headless_blocked", 0):
         result["headless_blocked"] = capture.get("headless_blocked")
+
+    audit_files = sorted(
+        [item for item in path_for("logs").glob("commercial-audit-*.json") if not item.name.startswith(("._", "commercial-audit-report-"))],
+        key=lambda item: item.stat().st_mtime,
+    )
+    audit_path, audit = (audit_files[-1], {}) if audit_files else (None, {})
+    if audit_path:
+        try:
+            audit = json.loads(audit_path.read_text(encoding="utf-8"))
+        except Exception:
+            audit = {}
+    result["commercial_audit_log"] = str(audit_path.relative_to(path_for())) if audit_path else None
+    if audit.get("proxy") != DEFAULT_PROXY:
+        add_issue(result, f"Latest commercial-audit log uses unexpected proxy: {audit.get('proxy')}", critical=True)
+    if audit.get("visible_browser_launched") is not False:
+        add_issue(result, "Latest commercial-audit log does not prove visible_browser_launched=false.", critical=True)
+    if audit.get("target_companies") != 151:
+        add_issue(result, f"Commercial-audit target count is not 151: {audit.get('target_companies')}", critical=True)
 
 
 def check_encoding_and_secrets(result: dict[str, Any]) -> None:

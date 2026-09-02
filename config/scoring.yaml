@@ -1,0 +1,36 @@
+# Commercial-audit scoring configuration. The implementation lives in
+# src/audit/commercial.py; this file keeps the adopted policy reviewable.
+version: 2026.09.commercial-audit-v1
+weights:
+  company_strength_score: 12
+  operational_complexity_score: 12
+  workflow_density_score: 10
+  ai_roi_score: 16
+  data_readiness_score: 10
+  digital_maturity_fit_score: 12
+  outsourcing_fit_score: 8
+  sales_access_score: 6
+  expected_project_value_score: 5
+  implementation_score: 4
+  sales_cycle_ease_score: 3
+  regulatory_score: 2
+formula: "raw = sum(weight * component / 100); new_score = clamp(round(raw + trigger_bonus - risk_penalty), 0, 100)"
+confidence_formula: "confidence_factor = round(0.40 + 0.60 * score_confidence / 100, 3); confidence_adjusted_score = round(new_score * confidence_factor, 1)"
+tiers:
+  A: "new_score >= 80 and READY gate"
+  B: "new_score >= 70 and evidence/workflow gates"
+  C: "new_score >= 60"
+  D: "new_score >= 45"
+  Reject: "new_score < 45 or hard disqualifier"
+unknown_policy:
+  internal_tech: "UNKNOWN_INTERNAL_TECH maps to neutral component values (50/50), is not KNOWN_LOW_INTERNAL_TECH, and reduces score confidence."
+  digital_maturity: "UNKNOWN_DIGITAL_MATURITY maps to neutral maturity and fit values (50/50), not the preferred fit window."
+  company_strength: "UNKNOWN maps to 50 and adds an explicit scale-unknown risk."
+  operational_complexity: "UNKNOWN maps to 50 and adds an explicit complexity-unknown risk."
+readiness_gate:
+  active_status: SUPPORTED
+  minimum_independent_source_families: 2
+  minimum_commercial_evidence_strength: 70
+  minimum_score_confidence: 65
+  workflow_classes: [EVIDENCE_SUPPORTED, STRONG_HYPOTHESIS]
+  prohibited_internal_tech_status: KNOWN_HIGH_INTERNAL_TECH

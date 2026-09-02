@@ -18,6 +18,9 @@ COMPANY_COLUMNS = [
     "employee_estimate_min", "employee_estimate_max", "employee_confidence", "founded_year", "company_age_years", "branches_count", "warehouses_count", "factories_count", "geographic_reach",
     "visible_customers", "visible_projects", "products_services", "certifications", "association_memberships", "active_jobs_count", "job_families", "existing_software_signals", "portal_features", "document_types_public",
     "research_status", "last_research_date", "raw_record_count", "source_urls", "discovery_reasons", "evidence_count", "screenshot_count", "hard_disqualifier",
+    "original_priority_tier", "original_luma_opportunity_score", "original_score_confidence", "original_industry", "commercial_audit_version",
+    "commercial_evidence_strength", "commercial_evidence_strength_reason", "independent_source_count", "audit_source_families", "independent_source_families",
+    "industry_classification_confidence", "classification_correction_reason", "company_type", "active_status_evidence", "company_strength_evidence_status", "operational_complexity_evidence_status", "workflow_evidence_status", "workflow_evidence_classification", "internal_tech_capability_evidence_status", "internal_tech_capability_interpretation", "digital_maturity_evidence_status", "digital_maturity_interpretation", "audit_summary", "audit_pages_checked", "audit_pages_usable", "audit_signal_counts", "commercial_readiness", "sales_readiness", "confidence_factor", "confidence_adjusted_score",
     "company_strength_score", "operational_complexity_score", "workflow_density_score", "ai_roi_score", "data_readiness_score", "digital_maturity_score", "digital_maturity_fit_score",
     "internal_tech_capability_score", "outsourcing_fit_score", "sales_access_score", "expected_project_value_score", "implementation_score", "sales_cycle_ease_score", "regulatory_score",
     "trigger_bonus", "risk_penalty", "luma_opportunity_score", "priority_tier", "score_confidence", "qualification_reason", "strongest_observed_evidence", "decision_maker_role", "decision_maker_name_public",
@@ -71,7 +74,7 @@ def row_for(company: dict[str, Any]) -> dict[str, Any]:
 def write_csv(path: Path, rows: Iterable[dict[str, Any]], columns: list[str]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", encoding="utf-8-sig", newline="") as handle:
-        writer = csv.DictWriter(handle, fieldnames=columns, extrasaction="ignore")
+        writer = csv.DictWriter(handle, fieldnames=columns, extrasaction="ignore", lineterminator="\n")
         writer.writeheader()
         for row in rows:
             writer.writerow({key: cell(row.get(key)) for key in columns})
@@ -86,7 +89,7 @@ def main() -> int:
     for company, row in zip(companies, company_rows):
         company["proposal_available"] = Path("proposals", f"{company['company_id']}.md").exists()
         row["proposal_path"] = str(Path("proposals") / f"{company['company_id']}.md") if company["proposal_available"] else ""
-    all_rows = sorted(company_rows, key=lambda row: (-int(row.get("luma_opportunity_score") or 0), row.get("company_name_fa") or ""))
+    all_rows = sorted(company_rows, key=lambda row: (-float(row.get("confidence_adjusted_score") if row.get("confidence_adjusted_score") is not None else row.get("luma_opportunity_score") or 0), row.get("company_name_fa") or ""))
     tier_a = [row for row in all_rows if row.get("priority_tier") == "A"]
     tier_b = [row for row in all_rows if row.get("priority_tier") == "B"]
     rejected = [row for row in all_rows if row.get("priority_tier") == "Reject"]

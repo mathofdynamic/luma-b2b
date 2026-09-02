@@ -2,7 +2,7 @@
 
 Evidence-backed Tehran B2B prospect discovery, qualification, workflow-opportunity analysis and proposal generation for LUMA custom AI/software projects.
 
-## Current first-run results
+## Initial discovery-run results
 
 - 6,576 raw candidate rows
 - 6,084 canonical companies after normalization and deduplication
@@ -12,6 +12,16 @@ Evidence-backed Tehran B2B prospect discovery, qualification, workflow-opportuni
 - 134 metadata-complete real headless screenshots captured across 135 evidence packages
 - 100/100 ranked top-prospect records have a visual evidence package and screenshot
 
+## Current commercial-audit results
+
+- The audit re-enriched **151 existing Tier A/B records only**; no discovery rows were added.
+- Revised tiers: **25 Tier A**, **7 Tier B**, **6 Tier C**, **5 Tier D**, **108 Reject** within that audited cohort.
+- Sales readiness: **32 READY FOR OUTREACH**, **8 NEEDS DISCOVERY**, **111 NOT READY**.
+- **32 evidence-backed proposals** were retained/regenerated; generic first-run proposals outside the READY gate were removed.
+- The refreshed audit evidence set contains **140 headless screenshots across 173 evidence packages**; six missing A/B visuals were captured through the direct proxy.
+- Human-quality dossiers are under `reports/dossiers/`; the actionable ranking is `reports/sales_ready_prospects.md`.
+- The original top-100 artifact is preserved with an audit notice. Do not use it as a sales list without the commercial audit status.
+
 These are research signals, not claims of revenue, legal standing, buying authority or internal workflow pain. Unknown values stay `UNKNOWN`.
 
 ## Scope
@@ -20,13 +30,13 @@ The primary scope is Tehran city and Tehran Province, including Tehran-headquart
 
 ## Method
 
-The pipeline reads the five source reports copied exactly into `research/source/`, records strategic agreement/disagreement in `research/synthesis.md`, discovers Persian-first public records, normalizes names/characters/digits, connects duplicate identities, enriches public company pages, preserves source-backed evidence, detects bounded workflow hypotheses, scores every company and exports review artifacts.
+The pipeline reads the five source reports copied exactly into `research/source/`, records strategic agreement/disagreement in `research/synthesis.md`, discovers Persian-first public records, normalizes names/characters/digits, connects duplicate identities, enriches public company pages, preserves source-backed evidence, detects bounded workflow hypotheses, scores every company and exports review artifacts. The bounded commercial audit re-checks existing A/B records with independent-source counts, evidence strength, explicit UNKNOWN states, company-type correction, workflow validation and confidence-adjusted ranking.
 
 The first production run uses Book-e Avval category pages, public official/association references, Persian search results where responsive, and the public VIC industrial-estate index for Shamsabad, Abbasabad, Parand, Nasirabad, Qods and Qarchak. No one directory is authoritative. Industrial-estate index membership alone never qualifies a company as A/B.
 
 ## Scoring
 
-Every score component is stored separately in `data/master_companies.jsonl` and the workbook. Digital maturity is non-linear: moderate/fragmented maturity is favored, while a missing operating layer and strong internal engineering capability reduce outsourcing fit. Thresholds are A ≥80, B 70–79, C 60–69, D 45–59 and Reject <45 or hard disqualifier. See `docs/scoring.md` and `research/synthesis.md`.
+Every score component is stored separately in `data/master_companies.jsonl` and the workbook. Digital maturity is non-linear: moderate/fragmented maturity is favored, while a missing operating layer and strong internal engineering capability reduce outsourcing fit. UNKNOWN is neutral and confidence-reducing, not evidence of low internal capability. `confidence_adjusted_score = luma_opportunity_score × (0.40 + 0.60 × score_confidence / 100)`. See `docs/scoring.md`, `docs/commercial_audit.md` and `research/synthesis.md`.
 
 ## Evidence and screenshots
 
@@ -64,6 +74,14 @@ python3 -m src.exports.generate --input data/normalized/companies.jsonl
 node src/exports/build_workbook.mjs
 python3 -m src.reports.generate --input data/normalized/companies.jsonl
 python3 -m src.utilities.qa --input data/normalized/companies.jsonl
+
+# Bounded commercial audit of the existing A/B cohort
+python3 -m src.audit.commercial --input data/normalized/companies.jsonl --proxy http://127.0.0.1:1087
+python3 -m src.proposals.generate --input data/normalized/companies.jsonl
+python3 -m src.exports.generate --input data/normalized/companies.jsonl
+node src/exports/build_workbook.mjs
+python3 -m src.audit.report --input data/normalized/companies.jsonl
+python3 -m src.utilities.qa --input data/normalized/companies.jsonl
 ```
 
 For a full discovery refresh, `src.discovery.run` now includes the configured VIC connector. The separate `src.discovery.vic` plus `src.discovery.merge` commands are useful for refreshing only industrial-estate sources without repeating every source.
@@ -75,6 +93,9 @@ For a full discovery refresh, `src.discovery.run` now includes the configured VI
 - Tier exports: `data/tier_a.csv`, `data/tier_b.csv`, `data/rejected.csv`
 - Proposals: `proposals/<company_id>.md`
 - Reports: `reports/`
+- Commercial audit report: `reports/ranking_audit.md`
+- Sales-ready report: `reports/sales_ready_prospects.md`
+- Human dossiers: `reports/dossiers/`
 - Evidence: `evidence/companies/`
 - Run logs: `logs/`
 
