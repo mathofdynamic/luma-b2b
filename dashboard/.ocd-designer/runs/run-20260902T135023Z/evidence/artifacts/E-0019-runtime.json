@@ -1,0 +1,41 @@
+{
+  "capturedAt": "2026-09-02T17:04:56Z",
+  "browser": "headless Chromium via Playwright CLI",
+  "routeChecks": 24,
+  "viewports": [
+    { "width": 1440, "height": 1000 },
+    { "width": 800, "height": 900 },
+    { "width": 390, "height": 844 }
+  ],
+  "computedFonts": {
+    "body": "IRANYekanX, Tahoma, Arial, sans-serif",
+    "numeric": "IRANYekanXFaNum, IRANYekanX, Tahoma, Arial, sans-serif"
+  },
+  "fontChecks": {
+    "regular": true,
+    "bold": true,
+    "faNum": true,
+    "localFontResponses": 12,
+    "localFontResponseFailures": 0
+  },
+  "responsive": {
+    "horizontalOverflow": false,
+    "consoleErrors": 0,
+    "pageErrors": 0,
+    "failedRequests": 0
+  },
+  "interactionChecks": {
+    "persianSearchRows": 3,
+    "compareColumns": 2
+  },
+  "desktopScreenshots": [
+    "dashboard/screenshots/01-overview.png",
+    "dashboard/screenshots/02-companies.png",
+    "dashboard/screenshots/03-sales-ready.png",
+    "dashboard/screenshots/04-company-sabahi.png",
+    "dashboard/screenshots/05-company-evidence.png",
+    "dashboard/screenshots/06-company-sales-materials.png",
+    "dashboard/screenshots/07-compare.png",
+    "dashboard/screenshots/08-review-state.png"
+  ]
+}

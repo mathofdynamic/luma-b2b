@@ -30,6 +30,7 @@ async function main() {
     "dashboard/data/index.json",
     "dashboard/data/company_details.jsonl",
     "dashboard/README.md",
+    "dashboard/qa/typography-runtime.json",
   ];
   const fontFiles = [
     "IRANYekanX-Regular.woff2",

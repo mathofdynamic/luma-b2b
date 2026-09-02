@@ -6,7 +6,7 @@
   "classification": "unknown",
   "repo": {
     "path": ".",
-    "head": "13d9509083c97b0abcf862ec0598215294af74c4",
+    "head": "d1284b355847d52dc64349d6a66bc9f83fe57fdd",
     "remote": null
   },
   "deployment_url": null,
@@ -15,7 +15,7 @@
   "deployment_identity_evidence": null,
   "brand": {
     "version": "0.1.0",
-    "hash": "4d4bf7bf81a52033e3cc3840a0047a84a884cb67bfc7f05686ef658a83c8f623",
+    "hash": "13344c84788e5963829b0cb4d22b0633e2835ba6820e398546403147811b9987",
     "approval_status": "pending"
   },
   "active_run": "run-20260902T135023Z",
