@@ -1,0 +1,18 @@
+[
+  {
+    "source_id": "user-brief-20260902",
+    "kind": "user_requirement",
+    "title": "Sabahi sales demonstration preparation brief",
+    "url": "workspace://conversation/2026-09-02",
+    "captured_at": "2026-09-02",
+    "notes": "Primary source for audience, visual direction, interaction flow, privacy, headless and offline constraints."
+  },
+  {
+    "source_id": "sabahi-public-research",
+    "kind": "public_web",
+    "title": "Public Sabah product research",
+    "url": "workspace://demos/sabahi/research.md",
+    "captured_at": "2026-09-02",
+    "notes": "Public product categories, selected Pexide attributes, source URLs and assumptions."
+  }
+]

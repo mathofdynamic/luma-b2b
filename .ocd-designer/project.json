@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.2.0",
+  "project_id": "luma-b2b-sabahi-demo",
+  "mode": "build",
+  "stage": "DISCOVERY",
+  "classification": "unknown",
+  "repo": {
+    "path": ".",
+    "head": "5c6ef42e7b17785331c200cded0d9cad0900097f",
+    "remote": null
+  },
+  "deployment_url": null,
+  "deployment_identity": null,
+  "deployment_identity_type": null,
+  "deployment_identity_evidence": null,
+  "brand": {
+    "version": "0.1.0",
+    "hash": "56cd680a4918d1c7fb52ed51aa7a9622b0c3fc5fa5eda51f254520af9620d609",
+    "approval_status": "pending"
+  },
+  "active_run": "run-20260902T125234Z",
+  "config_hash": "f372082048bd18111f7ad4586ddaa6dbe07e11c6f4144f00d835859d220f017a",
+  "updated_at": "2026-09-02T12:52:34Z"
+}

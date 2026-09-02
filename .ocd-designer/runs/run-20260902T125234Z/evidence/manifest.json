@@ -1,0 +1,110 @@
+{
+  "schema_version": "0.2.0",
+  "source_fingerprint": "947320057843f31cb87248e139b2b1bed5b467e0b8abbb96021ebe1357b97089",
+  "required_matrix": [
+    {
+      "id": "M-BRAND-APPROVAL",
+      "protocol": "brand",
+      "required": true,
+      "evidence_kinds": [
+        "user_confirmation"
+      ]
+    },
+    {
+      "id": "M-DIRECTION-APPROVAL",
+      "protocol": "direction",
+      "required": true,
+      "evidence_kinds": [
+        "user_confirmation"
+      ]
+    },
+    {
+      "id": "M-RELEASE-ACCEPTANCE",
+      "protocol": "acceptance",
+      "required": false,
+      "evidence_kinds": [
+        "user_confirmation"
+      ]
+    },
+    {
+      "id": "M-MOTION-STATIC-EXCEPTION",
+      "protocol": "motion",
+      "required": false,
+      "evidence_kinds": [
+        "user_confirmation"
+      ]
+    },
+    {
+      "id": "M-DEPLOYMENT-IDENTITY",
+      "protocol": "discoverability",
+      "required": false,
+      "evidence_kinds": [
+        "http"
+      ]
+    },
+    {
+      "id": "M-DEMO-VISUAL-QA",
+      "protocol": "visual",
+      "required": false,
+      "evidence_kinds": [
+        "screenshot"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "E-0001",
+      "kind": "screenshot",
+      "protocol": "visual",
+      "matrix_id": "M-DEMO-VISUAL-QA",
+      "path": ".ocd-designer/runs/run-20260902T125234Z/evidence/artifacts/E-0001-screenshot.png",
+      "sha256": "a13677424ddadf328403bb78792c5030e018ce9b572e23165393e47102e5dbf6",
+      "commit": "2bb2b4a458f89a47acbf31b2f11c178489d0db1e780b75bd0fe7125f61b79636",
+      "captured_at": "2026-09-02T13:34:40Z",
+      "durable": true,
+      "route": "/demos/sabahi/app/index.html",
+      "state": "input",
+      "viewport": "1440x1000",
+      "browser": "chromium-headless",
+      "locale": "fa-IR",
+      "direction": "rtl",
+      "notes": "Headless local visual QA for the private Sabah demo; evidence capture only, not user acceptance."
+    },
+    {
+      "id": "E-0002",
+      "kind": "screenshot",
+      "protocol": "visual",
+      "matrix_id": "M-DEMO-VISUAL-QA",
+      "path": ".ocd-designer/runs/run-20260902T125234Z/evidence/artifacts/E-0002-screenshot.png",
+      "sha256": "93e3cf45b62d53ad1e3de4cebb5b4ae362ab7ed075771a136d7f4e6e77ec8411",
+      "commit": "2bb2b4a458f89a47acbf31b2f11c178489d0db1e780b75bd0fe7125f61b79636",
+      "captured_at": "2026-09-02T13:34:43Z",
+      "durable": true,
+      "route": "/demos/sabahi/app/index.html",
+      "state": "ambiguity",
+      "viewport": "1440x1000",
+      "browser": "chromium-headless",
+      "locale": "fa-IR",
+      "direction": "rtl",
+      "notes": "Headless local visual QA for the private Sabah demo; evidence capture only, not user acceptance."
+    },
+    {
+      "id": "E-0003",
+      "kind": "screenshot",
+      "protocol": "visual",
+      "matrix_id": "M-DEMO-VISUAL-QA",
+      "path": ".ocd-designer/runs/run-20260902T125234Z/evidence/artifacts/E-0003-screenshot.png",
+      "sha256": "541bfdaa478b1e1f959746e2135b001f5a13af7207d79cea30dbec1110157714",
+      "commit": "2bb2b4a458f89a47acbf31b2f11c178489d0db1e780b75bd0fe7125f61b79636",
+      "captured_at": "2026-09-02T13:34:45Z",
+      "durable": true,
+      "route": "/demos/sabahi/app/index.html",
+      "state": "approval",
+      "viewport": "1440x1000",
+      "browser": "chromium-headless",
+      "locale": "fa-IR",
+      "direction": "rtl",
+      "notes": "Headless local visual QA for the private Sabah demo; evidence capture only, not user acceptance."
+    }
+  ]
+}

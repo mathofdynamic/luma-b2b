@@ -1,0 +1,10 @@
+{
+  "schema_version": "0.2.0",
+  "run_id": "run-20260902T125234Z",
+  "status": "active",
+  "stage": "DISCOVERY",
+  "started_at": "2026-09-02T12:52:34Z",
+  "updated_at": "2026-09-02T12:52:34Z",
+  "checkpoints": [],
+  "next_action": "Complete discovery and draft the Brand Book."
+}
