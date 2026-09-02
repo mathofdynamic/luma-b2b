@@ -31,7 +31,22 @@ async function main() {
     "dashboard/data/company_details.jsonl",
     "dashboard/README.md",
   ];
+  const fontFiles = [
+    "IRANYekanX-Regular.woff2",
+    "IRANYekanX-Medium.woff2",
+    "IRANYekanX-DemiBold.woff2",
+    "IRANYekanX-Bold.woff2",
+    "IRANYekanX-ExtraBold.woff2",
+    "IRANYekanX-Black.woff2",
+    "IRANYekanXFaNum-Regular.woff2",
+    "IRANYekanXFaNum-Medium.woff2",
+    "IRANYekanXFaNum-DemiBold.woff2",
+    "IRANYekanXFaNum-Bold.woff2",
+    "IRANYekanXFaNum-ExtraBold.woff2",
+    "IRANYekanXFaNum-Black.woff2",
+  ].map((file) => `dashboard/app/fonts/${file}`);
   for (const file of required) check(await exists(file), `missing required file: ${file}`);
+  for (const file of fontFiles) check(await exists(file), `missing local font file: ${file}`);
 
   let index = null;
   try {
@@ -66,9 +81,14 @@ async function main() {
   const serverSource = await fs.readFile(path.join(DASHBOARD_DIR, "server.mjs"), "utf8");
   check(!/https?:\/\/(?!127\.0\.0\.1)/i.test(appSource), "frontend app contains an external network dependency");
   check(!/https?:\/\/(?!127\.0\.0\.1)/i.test(viewSource), "view layer contains an external network dependency");
+  check(!/url\((['"]?)https?:\/\//i.test(styleSource), "styles contain an external font or asset dependency");
+  check(styleSource.includes('font-family: var(--font-ui)'), "IRANYekanX UI font is not wired into the stylesheet");
+  check(styleSource.includes('font-family: var(--font-numeric)'), "IRANYekanXFaNum numeric font is not wired into the stylesheet");
   check(styleSource.includes("@media (prefers-reduced-motion: reduce)"), "reduced-motion CSS is missing");
   check(appSource.includes("/api/review-state/"), "review persistence action is missing");
   check(serverSource.includes("127.0.0.1"), "server is not visibly loopback-only");
+  check(serverSource.includes('".woff2": "font/woff2"'), "local WOFF2 font MIME type is missing");
+  check(serverSource.includes('url.pathname.startsWith("/fonts/")'), "local font route is missing");
   check(serverSource.includes("path traversal rejected"), "local file path traversal guard is missing");
   check(!/open -a|osascript\s+activate/i.test(`${appSource}\n${serverSource}`), "visible macOS browser launch command found");
 

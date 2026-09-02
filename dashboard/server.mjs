@@ -25,6 +25,9 @@ const MIME = {
   ".webp": "image/webp",
   ".svg": "image/svg+xml",
   ".pdf": "application/pdf",
+  ".woff2": "font/woff2",
+  ".woff": "font/woff",
+  ".ttf": "font/ttf",
 };
 
 const ALLOWED_REPO_PREFIXES = [
@@ -246,6 +249,17 @@ async function handleRequest(request, response) {
       return serveFile(response, appCandidate.absolute);
     } catch {
       return serveFile(response, rootCandidate.absolute);
+    }
+  }
+
+  if (url.pathname.startsWith("/fonts/")) {
+    try {
+      const fontName = normalizeRelative(url.pathname.slice("/fonts/".length));
+      const allowedFont = /^IRANYekanX(?:FaNum)?-(?:Regular|Medium|DemiBold|Bold|ExtraBold|Black)\.woff2$/;
+      if (!allowedFont.test(fontName)) return textResponse(response, 404, "Font not found");
+      return serveFile(response, path.join(APP_DIR, "fonts", fontName));
+    } catch (error) {
+      return textResponse(response, 403, error.message);
     }
   }
 

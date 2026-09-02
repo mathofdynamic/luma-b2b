@@ -41,7 +41,7 @@ Last updated: `2026-09-02`
 - Visual principles: evidence before decoration; small semantic color accents; high information density with clear grouping; shallow depth; compact comparisons; one strong primary action per surface — `inferred`.
 - Anti-goals: generic admin template, CRM clone, colorful vanity cards, neon AI styling, radial-score overload, public/customer-facing appearance, and hidden uncertainty — `confirmed`.
 - Approved colors: no official LUMA palette was supplied, so palette is `unknown`. Working tokens inherit the previous provisional direction: deep navy ink, warm paper/cool canvas, restrained teal, amber for attention, and rose for reject — `inferred`, not officially approved.
-- Typography and font files: system Persian-capable stack with Vazirmatn/IRANSans/Tahoma/Arial fallbacks; no network font dependency — `inferred` from local-only constraints.
+- Typography and font files: locally served IRANYekanX across UI weights, with IRANYekanXFaNum for numeric/data roles and Tahoma/Arial fallbacks; there is no runtime network font dependency — `confirmed` as the user-provided implementation direction for this iteration. Font licensing/provenance remains `unknown` until separately verified.
 - Iconography: small inline SVG or text-safe geometry, used as navigation cues and not as decoration — `inferred`.
 - Imagery and asset rules: use repository screenshots as evidence with metadata; no synthetic or AI-generated evidence; external pages open explicitly rather than being framed — `confirmed`.
 - Motion posture: purposeful discrete transitions for navigation, selection, modal, and save feedback; no looping spectacle; reduced motion removes nonessential movement — `confirmed`/`inferred`.

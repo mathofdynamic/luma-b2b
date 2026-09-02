@@ -25,6 +25,7 @@ npm run dev
 - `dashboard/app/app.js` state، navigation، filtering، compare، material loading و review persistence را مدیریت می‌کند.
 - `dashboard/app/views.js` لایه‌ی ارائه‌ی RTL است؛ داده‌ی شرکت‌ها داخل آن hardcode نشده است.
 - `dashboard/app/styles.css` design system و رفتار responsive را نگه می‌دارد.
+- فونت‌های `IRANYekanX` و `IRANYekanXFaNum` به‌صورت local در `dashboard/app/fonts/` نگه‌داری و توسط server محلی serve می‌شوند؛ داشبورد برای typography به CDN یا network runtime وابسته نیست.
 
 شواهد متنی، source familyها، confidenceها و تفاوت fact / inference / unknown از داده‌ی اصلی حفظ می‌شوند. در صفحه‌ی detail، سندهای داخلی، proposal، outreach، dossier و فایل‌های demo به‌صورت Markdown محلی render می‌شوند.
 
@@ -57,6 +58,8 @@ npm run dev
 این ابزار local-only است و public deploy نشده است. مسیرهای `/repo` و `/api/material` به prefixهای کنترل‌شده‌ی repository محدودند و به فایل‌های دلخواه سیستم دسترسی نمی‌دهند. داده‌ی dashboard همچنان public-research output است و private portal یا credential را وارد نمی‌کند.
 
 در این نسخه، indexing بر اساس خروجی فعلی repository انجام شده است. اگر رکورد جدیدی به canonical outputs اضافه شود، `npm run data:build` کافی است؛ frontend برای هر شرکت جدید نیاز به تغییر دستی ندارد. برای کیفیت بالاتر هنوز قضاوت انسانی، بررسی زنده‌ی sourceها و تصمیم release لازم است.
+
+فایل‌های font با URLهای ارائه‌شده توسط کاربر در ۲ سپتامبر ۲۰۲۶ دریافت شده‌اند. مجوز و provenance آن‌ها در این repository به‌طور مستقل راستی‌آزمایی نشده است.
 
 ## تست و QA
 
