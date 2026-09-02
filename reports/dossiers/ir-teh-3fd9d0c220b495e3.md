@@ -1,70 +1,87 @@
 # شرکت کیمیاگران امروز
 
+Dossier rank: 22 | First-contact score: 63/100 | Wave: WAVE 3
+This is an internal sales preparation document. No outreach has been sent.
+
 ## Snapshot
 
-- Corrected classification: `pharma` / `manufacturer`.
-- Public description: تولید انواع پلی اتیلن گلایکول های دارویی - تولید و عرضه انواع مختلف محصولات اتوکسیله دارویی و شیمیایی از جمله پلی سوربات ها، نونیل فنول های اتوکسیله، الکل های چرب اتوکسیل
+- What the company publicly presents: تولید انواع پلی اتیلن گلایکول های دارویی - تولید و عرضه انواع مختلف محصولات اتوکسیله دارویی و شیمیایی از جمله پلی سوربات ها، نونیل فنول های اتوکسیله، الکل های چرب اتوکسیل
+- Corrected classification: `pharma` / `manufacturer`; B2B signal: `['B2B_candidate']`
 - Location: تهران، منطقه 7، محله نیلوفر، خیابان سهروردی شمالی، خیابان هویزه غربی، پلاک 133
-- Revised score: 81; confidence-adjusted: 67.9; tier: A
-- Commercial evidence strength: 72/100; score confidence: 73/100; independent source families: 2
+- Public website: [https://kimyagaran.com/](https://kimyagaran.com/)
+- Commercial evidence strength: 72
+- Independent source families counted: 3 — book_e_avval, company_website:kimyagaran.com, job_portal
 
 ## Why it is commercially interesting
 
-- OBSERVED — Public page shows public product/catalog surface. Snippet: لن گلایکول ها پروپیلن گلایکول ها گرید صنعتی گرید دارویی پلی اتیلن گلیکول ها گرید صنعتی گرید دارویی گلایکول اترها محصولات فرموله شده مواد موثره دارویی کاتالوگ محصولات کیمیاگران امروز درباره ما تاریخچه رسانه هویت بصری تیم راهبری سرمایه انسانی تماس با ما تماس با ما همکاری با ما شکایات مشتریان اخبار گواهینامه ها تحقیق و توسعه مقالات تحقیق و توسعه همکاری با دانشگاه شکام مالی و بورس امور سهام مدیران شرکت کدال شکام شکام در  ([صفحه اصلی * - کیمیاگران](https://kimyagaran.com/))
-- OBSERVED — Public page shows branches, representatives or dealer network. Snippet: لات کیمیاگران امروز در یک نگاه تعداد مقاصد صادراتی 0 کشور شرکتهای زیرمجموعه 0 کارکنان دفتر مرکزی 0 کارکنان کارخانه 0 ارزش بازار 0 همت تعداد محصولات 0 دفاتر استانی 0 محصولات داروسازی 0 آخرین مقالات مشاهده همه 21 اسفند 1400 مقالات کاربرد های پلی سوربات 80 در صنایع مختلف 18 دی 1400 مقالات کاربرد اسیدهای چرب اتوکسیله در صنایع مختلف 17 آذر 1400 مقالات کاربردهای مونواتیلن گلایکول (MEG) در صنایع مختلف 19 آبان 1400 مقالات کا ([صفحه اصلی * - کیمیاگران](https://kimyagaran.com/))
-- OBSERVED — Public page shows factory, warehouse or production facility. Snippet: ا معرفی محصولات کیمیاگران امروز مشاهده محصولات کیمیاگران امروز در یک نگاه تعداد مقاصد صادراتی 0 کشور شرکتهای زیرمجموعه 0 کارکنان دفتر مرکزی 0 کارکنان کارخانه 0 ارزش بازار 0 همت تعداد محصولات 0 دفاتر استانی 0 محصولات داروسازی 0 آخرین مقالات مشاهده همه 21 اسفند 1400 مقالات کاربرد های پلی سوربات 80 در صنایع مختلف 18 دی 1400 مقالات کاربرد اسیدهای چرب اتوکسیله در صنایع مختلف 17 آذر 1400 مقالات کاربردهای مونواتیلن گلایکول  ([صفحه اصلی * - کیمیاگران](https://kimyagaran.com/))
-- OBSERVED — Public page shows certification, license or standards evidence. Snippet: یی کاتالوگ محصولات کیمیاگران امروز درباره ما تاریخچه رسانه هویت بصری تیم راهبری سرمایه انسانی تماس با ما تماس با ما همکاری با ما شکایات مشتریان اخبار گواهینامه ها تحقیق و توسعه مقالات تحقیق و توسعه همکاری با دانشگاه شکام مالی و بورس امور سهام مدیران شرکت کدال شکام شکام در TSE گزارش های پایداری شرکت گزارش پایداری شرکت ۱۴۰۳ گزارش-پایداری-شرکت ۱۴۰۴ صفحه اصلی محصولات کاربرد محصولات دسته بندی شیمیایی اتوکسیلات ها آمین های ([صفحه اصلی * - کیمیاگران](https://kimyagaran.com/))
-- OBSERVED — Public page shows expansion, export, founding or current activity signal. Snippet: صفحه اصلی * - کیمیاگران صفحه اصلی محصولات کاربرد محصولات دسته بندی شیمیایی اتوکسیلات ها آمین های چرب اتوکسیله استر های اتوکسیله استرهای غیر اتوکسیله اسید های چرب اتوکسیله الکل های اتوکسیله روغن کرچک اتوکسیله روغن کرچک هیدروژنه اتوکسیله سوربیتان استر های اتوکسیله گلیسرین های اتوکسیله لانولین های اتوکسیله نونیل فنول های اتوکسیله اتیلن گلایکول ها پروپیلن گلایکول ها گرید صنعتی گرید دارویی پلی اتیلن گلیکول ها گرید صنعتی گ ([صفحه اصلی * - کیمیاگران](https://kimyagaran.com/))
-- OBSERVED — Public page shows public product/catalog surface. Snippet: لن گلایکول ها پروپیلن گلایکول ها گرید صنعتی گرید دارویی پلی اتیلن گلیکول ها گرید صنعتی گرید دارویی گلایکول اترها محصولات فرموله شده مواد موثره دارویی کاتالوگ محصولات کیمیاگران امروز درباره ما تاریخچه رسانه هویت بصری تیم راهبری سرمایه انسانی تماس با ما تماس با ما همکاری با ما شکایات مشتریان اخبار گواهینامه ها تحقیق و توسعه مقالات تحقیق و توسعه همکاری با دانشگاه شکام مالی و بورس امور سهام مدیران شرکت کدال شکام شکام در  ([محصولات فرموله شده - کیمیاگران](https://kimyagaran.com/category/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-%d9%81%d8%b1%d9%85%d9%88%d9%84%d9%87-%d8%b4%d8%af%d9%87/))
-- The public operating surface suggests meaningful activity around manufacturer; scale and buying power remain bounded by the evidence above.
+The public record supports a conversation around **گزارش تولید، کیفیت و توقفات**. The attraction is the possibility of a bounded process improvement around مدیریت کارخانه، برنامه‌ریزی تولید، QA/QC و نگهداری, while leaving the company's core systems and final decisions under human control.
+This is a sales hypothesis, not a claim that the company currently has a known inefficiency.
 
 ## Evidence
 
-- OBSERVED — Public page shows public product/catalog surface. Snippet: لن گلایکول ها پروپیلن گلایکول ها گرید صنعتی گرید دارویی پلی اتیلن گلیکول ها گرید صنعتی گرید دارویی گلایکول اترها محصولات فرموله شده مواد موثره دارویی کاتالوگ محصولات کیمیاگران امروز درباره ما تاریخچه رسانه هویت بصری تیم راهبری سرمایه انسانی تماس با ما تماس با ما همکاری با ما شکایات مشتریان اخبار گواهینامه ها تحقیق و توسعه مقالات تحقیق و توسعه همکاری با دانشگاه شکام مالی و بورس امور سهام مدیران شرکت کدال شکام شکام در  ([صفحه اصلی * - کیمیاگران](https://kimyagaran.com/))
-- OBSERVED — Public page shows branches, representatives or dealer network. Snippet: لات کیمیاگران امروز در یک نگاه تعداد مقاصد صادراتی 0 کشور شرکتهای زیرمجموعه 0 کارکنان دفتر مرکزی 0 کارکنان کارخانه 0 ارزش بازار 0 همت تعداد محصولات 0 دفاتر استانی 0 محصولات داروسازی 0 آخرین مقالات مشاهده همه 21 اسفند 1400 مقالات کاربرد های پلی سوربات 80 در صنایع مختلف 18 دی 1400 مقالات کاربرد اسیدهای چرب اتوکسیله در صنایع مختلف 17 آذر 1400 مقالات کاربردهای مونواتیلن گلایکول (MEG) در صنایع مختلف 19 آبان 1400 مقالات کا ([صفحه اصلی * - کیمیاگران](https://kimyagaran.com/))
-- OBSERVED — Public page shows factory, warehouse or production facility. Snippet: ا معرفی محصولات کیمیاگران امروز مشاهده محصولات کیمیاگران امروز در یک نگاه تعداد مقاصد صادراتی 0 کشور شرکتهای زیرمجموعه 0 کارکنان دفتر مرکزی 0 کارکنان کارخانه 0 ارزش بازار 0 همت تعداد محصولات 0 دفاتر استانی 0 محصولات داروسازی 0 آخرین مقالات مشاهده همه 21 اسفند 1400 مقالات کاربرد های پلی سوربات 80 در صنایع مختلف 18 دی 1400 مقالات کاربرد اسیدهای چرب اتوکسیله در صنایع مختلف 17 آذر 1400 مقالات کاربردهای مونواتیلن گلایکول  ([صفحه اصلی * - کیمیاگران](https://kimyagaran.com/))
-- OBSERVED — Public page shows certification, license or standards evidence. Snippet: یی کاتالوگ محصولات کیمیاگران امروز درباره ما تاریخچه رسانه هویت بصری تیم راهبری سرمایه انسانی تماس با ما تماس با ما همکاری با ما شکایات مشتریان اخبار گواهینامه ها تحقیق و توسعه مقالات تحقیق و توسعه همکاری با دانشگاه شکام مالی و بورس امور سهام مدیران شرکت کدال شکام شکام در TSE گزارش های پایداری شرکت گزارش پایداری شرکت ۱۴۰۳ گزارش-پایداری-شرکت ۱۴۰۴ صفحه اصلی محصولات کاربرد محصولات دسته بندی شیمیایی اتوکسیلات ها آمین های ([صفحه اصلی * - کیمیاگران](https://kimyagaran.com/))
-- OBSERVED — Public page shows expansion, export, founding or current activity signal. Snippet: صفحه اصلی * - کیمیاگران صفحه اصلی محصولات کاربرد محصولات دسته بندی شیمیایی اتوکسیلات ها آمین های چرب اتوکسیله استر های اتوکسیله استرهای غیر اتوکسیله اسید های چرب اتوکسیله الکل های اتوکسیله روغن کرچک اتوکسیله روغن کرچک هیدروژنه اتوکسیله سوربیتان استر های اتوکسیله گلیسرین های اتوکسیله لانولین های اتوکسیله نونیل فنول های اتوکسیله اتیلن گلایکول ها پروپیلن گلایکول ها گرید صنعتی گرید دارویی پلی اتیلن گلیکول ها گرید صنعتی گ ([صفحه اصلی * - کیمیاگران](https://kimyagaran.com/))
-- OBSERVED — Public page shows public product/catalog surface. Snippet: لن گلایکول ها پروپیلن گلایکول ها گرید صنعتی گرید دارویی پلی اتیلن گلیکول ها گرید صنعتی گرید دارویی گلایکول اترها محصولات فرموله شده مواد موثره دارویی کاتالوگ محصولات کیمیاگران امروز درباره ما تاریخچه رسانه هویت بصری تیم راهبری سرمایه انسانی تماس با ما تماس با ما همکاری با ما شکایات مشتریان اخبار گواهینامه ها تحقیق و توسعه مقالات تحقیق و توسعه همکاری با دانشگاه شکام مالی و بورس امور سهام مدیران شرکت کدال شکام شکام در  ([محصولات فرموله شده - کیمیاگران](https://kimyagaran.com/category/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-%d9%81%d8%b1%d9%85%d9%88%d9%84%d9%87-%d8%b4%d8%af%d9%87/))
+- The public page titled 'صفحه اصلی * - کیمیاگران' exposes product/catalog information, factory/production information. — [صفحه اصلی * - کیمیاگران](https://kimyagaran.com/)
+- The public page titled 'کاتالوگ محصولات | معرفی محصولات - کیمیاگران' exposes product/catalog information, factory/production information. — [کاتالوگ محصولات | معرفی محصولات - کیمیاگران](https://kimyagaran.com/%da%a9%d8%a7%d8%aa%d8%a7%d9%84%d9%88%da%af-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-%d9%85%d8%b9%d8%b1%d9%81%db%8c-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/)
+- The public page titled 'کاربرد محصولات - کیمیاگران' exposes product/catalog information, factory/production information. — [کاربرد محصولات - کیمیاگران](https://kimyagaran.com/%da%a9%d8%a7%d8%b1%d8%a8%d8%b1%d8%af-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/)
+- The public page titled 'محصولات فرموله شده - کیمیاگران' exposes product/catalog information, factory/production information. — [محصولات فرموله شده - کیمیاگران](https://kimyagaran.com/category/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-%d9%81%d8%b1%d9%85%d9%88%d9%84%d9%87-%d8%b4%d8%af%d9%87/)
+- A public employment or employer page associates شرکت کیمیاگران امروز with hiring/activity information. — [استخدام در شرکت شیمیایی کیمیاگران امروز : مشاهده آخرین فرصت‌های شغلی | ایران‌تلنت](https://www.irantalent.com/company/kimyagaran-emrooz/aef9d22b-006a-4ca4-b495-84da5cb54137/job-positions)
+- A public employment or employer page associates شرکت کیمیاگران امروز with hiring/activity information. — [درباره شرکت شرکت شیمیایی کیمیاگران امروز | ایران‌تلنت](https://www.irantalent.com/company/kimyagaran-emrooz/aef9d22b-006a-4ca4-b495-84da5cb54137/overview)
 
 ## Likely operational bottleneck
 
-STRONG_INFERENCE — EVIDENCE_SUPPORTED — Public evidence shows public product/catalog surface, factory, warehouse or production facility, certification, license or standards evidence; the internal handoff and volume require discovery.
-The public record does not establish that the company currently handles this process manually or inefficiently.
+**Inference to validate:** incoming information may need repeated lookup, structuring or approval before the business team can produce the final output described by **گزارش تولید، کیفیت و توقفات**. Public pages establish the customer-facing surface, not the internal handoff, volume or baseline.
 
 ## Recommended LUMA solution
 
-A controlled reporting layer that normalizes shift, quality and downtime documents, surfaces exceptions and retrieves approved SOP or maintenance evidence for human review.
+**گزارش تولید، کیفیت و توقفات** — یک لایه گزارش‌دهی کنترل‌شده که گزارش شیفت، کیفیت و توقف را استاندارد می‌کند، استثناها را نشان می‌دهد و مستندات تأییدشده SOP یا نگهداری را برای بازبینی پیوند می‌دهد.
 
 ## Why this solution could matter financially
 
-No ROI percentage is invented. Validate the KPI categories: report preparation hours; exception detection latency; rework/scrap cases; document retrieval time.
+Measure the baseline and pilot change in terms of:
+- زمان تکمیل گزارش
+- زمان پاسخ به استثنا
+- دقت دسته‌بندی توقف
+- کامل‌بودن سوابق کیفیت
 
-## What we do NOT know
+## What we do not know
 
-- Monthly volume, current handoffs, budget, decision authority, system ownership, data quality and implementation constraints are UNKNOWN.
-- Internal technical capability: `UNKNOWN_INTERNAL_TECH` — UNKNOWN — lack of public evidence is not treated as known low internal capability.
-- Digital maturity: `KNOWN_MODERATE_DIGITAL_MATURITY` — Known moderate/fragmented public digital surface; validate internal handoffs and system ownership.
+- Monthly volume, current handoffs, approval rules and baseline time are not public.
+- The authoritative data owner and integration surface are not public.
+- Budget authority, buying process and timing are not public.
+- Internal software/data capability is not sufficiently established publicly; missing evidence is not treated as evidence of absence.
 
 ## Questions to ask
 
-1. گزارش شیفت، تولید و توقفات امروز در چه قالب‌هایی ثبت می‌شود؟
-2. کدام شاخص کیفیت یا تولید نیازمند جمع‌بندی تکراری است؟
-3. SOP و سوابق تعمیرات معتبر در کجا نسخه‌بندی می‌شوند؟
-4. چه خروجی‌هایی باید قبل از انتشار توسط مدیر یا QA تأیید شوند؟
-5. برای پایلوت، کدام خط یا محصول داده منظم‌تری دارد؟
+1. گزارش‌های شیفت، کیفیت و توقف امروز در چه قالبی ثبت می‌شوند؟
+2. کدام استثنا باید همان روز به مدیر تولید یا QA برسد؟
+3. مرجع نسخه معتبر SOP و دستورالعمل نگهداری کجاست؟
+4. چه خروجی‌ای برای جلسه روزانه یا هفتگی مدیریت لازم است؟
+5. یک خط یا محصول کم‌ریسک برای شروع پایلوت کدام است؟
+6. چه کسی مالک این فرایند و تأیید خروجی نهایی است؟
+7. یک نمونه واقعی و پاک‌سازی‌شده برای مقایسه خط مبنا و پایلوت کدام است؟
+8. اگر پایلوت موفق باشد، گسترش آن به کدام واحد یا قالب بیشترین ارزش را دارد؟
 
 ## Decision maker
 
-- Role: QA / Supply / Operations Director (role status: `ROLE_HYPOTHESIS`).
-- Publicly verified name: UNKNOWN.
-- Source: [public source](https://kimyagaran.com/); confidence: 0.35.
+- Primary business owner: Plant Manager / Operations Director; public name: Not publicly verified.
+- Economic buyer: Managing Director / CEO; public name: Not publicly verified.
+- Technical gatekeeper: QA/QC or Production Systems Lead; public name: Not publicly verified.
 
 ## Contact channels
-
 - Website: [https://kimyagaran.com/](https://kimyagaran.com/)
-- Public corporate phone: 02141769000, 02188757317
-- Public corporate email: info@kimyagaran.com
+- Public phone: 02141769000, 02188757317
+- Corporate email: info@kimyagaran.com
+- Company LinkedIn: اطلاعات عمومی تأییدشده‌ای یافت نشد
+- Public WhatsApp: [https://wa.me/989125700700?text=Kimyagaran_Website](https://wa.me/989125700700?text=Kimyagaran_Website)
+
+## Pilot and demo
+
+- Pilot: پایلوت استانداردسازی گزارش‌های شیفت و کیفیت — شرکت کیمیاگران امروز
+- Scope: یک مسیر محدود و قابل کنترل برای گزارش تولید، کیفیت و توقفات با یک قالب ورودی و یک گروه کاربر؛ هسته ERP یا تصمیم نهایی جایگزین نمی‌شود.
+- Users: مدیریت کارخانه، برنامه‌ریزی تولید، QA/QC و نگهداری
+- Data: گزارش شیفت، سفارش تولید، سوابق QC، لاگ توقف، SOP و خروجی مجاز ERP
+- Human approval: تأیید محصول/مقدار/قیمت، تأیید نقص یا استثنا، و انتشار خروجی نهایی نزد کارشناس یا مدیر مربوط باقی می‌ماند.
+- Duration: حدود ۳ تا ۶ هفته کاری پس از تأیید دسترسی، نمونه داده و دامنه پایلوت؛ مدت دقیق در جلسه کشف تعیین می‌شود.
+- Demo: سه گزارش نمونه شیفت/کیفیت کنار هم قرار می‌گیرد؛ داده‌های کلیدی استخراج، توقف‌های نیازمند توجه مشخص و گزارش خلاصه برای تأیید مدیر آماده می‌شود.
 
 ## Screenshots
 
@@ -72,13 +89,4 @@ No ROI percentage is invented. Validate the KPI categories: report preparation h
 
 ## Sales recommendation
 
-**GO** — READY FOR OUTREACH; the recommendation follows the evidence gate and does not imply verified budget or authority.
-
-## Source links
-
-- [https://avval.ir/directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%A7%D9%88%D9%84%DB%8C%D9%87%20%D8%AF%D8%A7%D8%B1%D9%88/%D8%AA%D9%87%D8%B1%D8%A7%D9%86](https://avval.ir/directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%A7%D9%88%D9%84%DB%8C%D9%87%20%D8%AF%D8%A7%D8%B1%D9%88/%D8%AA%D9%87%D8%B1%D8%A7%D9%86)
-- [https://avval.ir/profile/6c554/%D8%B4%D8%B1%DA%A9%D8%AA-%DA%A9%DB%8C%D9%85%DB%8C%D8%A7%DA%AF%D8%B1%D8%A7%D9%86-%D8%A7%D9%85%D8%B1%D9%88%D8%B2](https://avval.ir/profile/6c554/%D8%B4%D8%B1%DA%A9%D8%AA-%DA%A9%DB%8C%D9%85%DB%8C%D8%A7%DA%AF%D8%B1%D8%A7%D9%86-%D8%A7%D9%85%D8%B1%D9%88%D8%B2)
-- [https://kimyagaran.com/](https://kimyagaran.com/)
-- [https://kimyagaran.com/category/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-%d9%81%d8%b1%d9%85%d9%88%d9%84%d9%87-%d8%b4%d8%af%d9%87/](https://kimyagaran.com/category/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-%d9%81%d8%b1%d9%85%d9%88%d9%84%d9%87-%d8%b4%d8%af%d9%87/)
-- [https://kimyagaran.com/%da%a9%d8%a7%d8%aa%d8%a7%d9%84%d9%88%da%af-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-%d9%85%d8%b9%d8%b1%d9%81%db%8c-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/](https://kimyagaran.com/%da%a9%d8%a7%d8%aa%d8%a7%d9%84%d9%88%da%af-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-%d9%85%d8%b9%d8%b1%d9%81%db%8c-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/)
-- [https://kimyagaran.com/%da%a9%d8%a7%d8%b1%d8%a8%d8%b1%d8%af-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/](https://kimyagaran.com/%da%a9%d8%a7%d8%b1%d8%a8%d8%b1%d8%af-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/)
+**DISCOVERY FIRST** — use the internal brief and outreach draft only after human review. Proposal: `sales/client/ir-teh-3fd9d0c220b495e3.md`; outreach draft: `sales/outreach/ir-teh-3fd9d0c220b495e3.md`.

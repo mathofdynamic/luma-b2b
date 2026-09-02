@@ -29,3 +29,17 @@ Audit fetch notes:
 - SOURCE_ERROR: https://html.duckduckgo.com/html/?q=%22https+bobcat-iran.ir+Bobcat%22+Tehran+Iran+company&kl=ir-fa: HTTPError: HTTP Error 403: Forbidden
 - SOURCE_TIMEOUT: https://html.duckduckgo.com/html/?q=%22%D8%A7%DB%8C%D8%B1%D8%A7%D9%86+%D8%A8%D8%A7%D8%A8%DA%A9%D8%AA%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa: URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>
 - SOURCE_TIMEOUT: https://html.duckduckgo.com/html/?q=%22%D8%A7%DB%8C%D8%B1%D8%A7%D9%86+%D8%A8%D8%A7%D8%A8%DA%A9%D8%AA%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa: URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>
+
+## Sales activation
+
+Activation version: 2026.09.sales-activation-v1
+
+Captured pages:
+- `companies/ir-teh-a1e0c5ed00f31de5/pages/sales-0e13ad4c9a8f2112.txt`
+- `companies/ir-teh-a1e0c5ed00f31de5/pages/sales-f1a446d42da2835d.txt`
+- `companies/ir-teh-a1e0c5ed00f31de5/pages/sales-1ec1ba5d06df4193.txt`
+- `companies/ir-teh-a1e0c5ed00f31de5/pages/sales-f764e95289a6c7c0.txt`
+
+Source families added/confirmed: other_public
+Primary workflow classification: EVIDENCE_SUPPORTED
+No outreach was sent; no contact form, RFQ, email, WhatsApp or phone call was submitted.

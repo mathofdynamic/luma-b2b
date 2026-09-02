@@ -1,70 +1,85 @@
 # بازرگانی ماندگار
 
+Dossier rank: 16 | First-contact score: 64/100 | Wave: WAVE 2
+This is an internal sales preparation document. No outreach has been sent.
+
 ## Snapshot
 
-- Corrected classification: `logistics_freight_customs` / `customs_broker`.
-- Public description: حمل و نقل بین المللی - ترخیص کالا
+- What the company publicly presents: حمل و نقل بین المللی - ترخیص کالا
+- Corrected classification: `logistics_freight_customs` / `customs_broker`; B2B signal: `['B2B_candidate']`
 - Location: تهران، منطقه 7، محله عباس آباد، خیابان سهروردی شمالی، خیابان سورنا، پلاک 44
-- Revised score: 84; confidence-adjusted: 70.4; tier: A
-- Commercial evidence strength: 72/100; score confidence: 73/100; independent source families: 2
+- Public website: [https://mandegarcommerce.com/](https://mandegarcommerce.com/)
+- Commercial evidence strength: 72
+- Independent source families counted: 2 — book_e_avval, company_website:mandegarcommerce.com
 
 ## Why it is commercially interesting
 
-- OBSERVED — Public page shows public quotation or RFQ language. Snippet: یشتر نمی دانید از کجا شروع کنید؟! برای شروع کسب و کار خود با ما تماس بگیرید 📞 مشاوره رایگان اعلام قیمت دقیق و سریع به کمک کارشناسان زبده مجموعه ما ✍️ استعلام قیمت سرعت و عملکرد بالا ترخیص کالا از کشور های همسایه (ترکیه، امارات) اطلاعات بیشتر پشتیبانی قدرتمند با پشتیبان های ما صحبت کنید 🎧 تماس بگیرید خرید تمامی اجناس از ترندیول ترکیه فروشگاه آنلاین الیزا شاپ 👜 مشاهده محصولات گروه بازرگانی ماندگار با در اختیار داشتن کا ([صفحه اصلی | بازرگانی ماندگار | واردات و صادرات | ترخیص کالا | حمل و نقل](https://mandegarcommerce.com/))
-- OBSERVED — Public page shows public product/catalog surface. Snippet: امارات) اطلاعات بیشتر پشتیبانی قدرتمند با پشتیبان های ما صحبت کنید 🎧 تماس بگیرید خرید تمامی اجناس از ترندیول ترکیه فروشگاه آنلاین الیزا شاپ 👜 مشاهده محصولات گروه بازرگانی ماندگار با در اختیار داشتن کادری متعهد و مجرب و با تجربه که در روند پیشرفت تجارت شما تا آخرین لحظه کنار شماست. معرفی کیفیت خدمات ما » پاسخگویی به موقع کارشناسان مجرب قیمت منصفانه مشاوره رایگان تجربه بالا مدیریت مجموعه ماندگار بسیار مفتخرم که خدمت رس ([صفحه اصلی | بازرگانی ماندگار | واردات و صادرات | ترخیص کالا | حمل و نقل](https://mandegarcommerce.com/))
-- OBSERVED — Public page shows public order or contact intake. Snippet: رات ترکیه اروپا آمریکا خرید کالا چین امارات ترکیه اروپا آمریکا صادرات کالا بازاریابی و تحقیق بازار خرید اینترنتی ترندیول (ترکیه) آمازون علی بابا ebay ثبت سفارش کالا حواله ارزی تخصیص ارز رفع تعهد صادراتی رفع تعهد وارداتی ضمانت بانکی ترخیص کالا گمرک فرودگاه امام گمرک شهریار گمرک غرب گمرک شهید رجایی گمرک پیام کرج گمرک بازرگان ترخیص گمرکات خارجی امارات ترکیه حمل و نقل هوایی دریایی زمینی ریلی اخبار و مقالات اخبار روز حوزه ([صفحه اصلی | بازرگانی ماندگار | واردات و صادرات | ترخیص کالا | حمل و نقل](https://mandegarcommerce.com/))
-- OBSERVED — Public page shows branches, representatives or dealer network. Snippet: صفحه اصلی | بازرگانی ماندگار | واردات و صادرات | ترخیص کالا | حمل و نقل Skip to content صفحه اصلی خانه بلاگ فروشگاه ترندیول خدمات واردات کالا چین امارات ترکیه اروپا آمریکا خرید کالا چین امارات ترکیه اروپا آمریکا صادرات کالا بازاریابی و تحقیق بازار خرید اینترنتی ترندیول (ترکیه) آمازون علی بابا ebay ثبت سفارش کالا حواله ارزی تخصیص ارز رفع تعهد صادراتی رفع تعهد وارداتی ضمانت بانکی ترخیص کالا گمرک فرودگاه امام گمرک شهریا ([صفحه اصلی | بازرگانی ماندگار | واردات و صادرات | ترخیص کالا | حمل و نقل](https://mandegarcommerce.com/))
-- OBSERVED — Public page shows public projects, clients or partners. Snippet: یدری / مدیر اروند تجارت برای خرید تعداد از اقلام همچون لباس و کفش ورزشی از ترکیه توسط سایت فروشگاهی الیزا شاپ با شرکت بازرگانی ماندگار آشنا شدیم و در پروژه های بعدی با همکاری های خوب اقای پورجولا توانستیم بار خریداری شده را از کشور ترکیه وارد کنیم. الهام شرفی / مشتری به تازگی برای وارد کردن اقلام کمیاب دارویی با این شرکت قرار داد بسته ایم و از قیمت بسیار مناسب و منصفانه این گروه نهایت استفاده را می بریم و از زمان رسی ([صفحه اصلی | بازرگانی ماندگار | واردات و صادرات | ترخیص کالا | حمل و نقل](https://mandegarcommerce.com/))
-- OBSERVED — Public page shows expansion, export, founding or current activity signal. Snippet: صفحه اصلی | بازرگانی ماندگار | واردات و صادرات | ترخیص کالا | حمل و نقل Skip to content صفحه اصلی خانه بلاگ فروشگاه ترندیول خدمات واردات کالا چین امارات ترکیه اروپا آمریکا خرید کالا چین امارات ترکیه اروپا آمریکا صادرات کالا بازاریابی و تحقیق بازار خرید اینترنتی ترندیول (ترکیه) آمازون علی بابا ebay ثبت سفارش کالا حواله ارزی تخصیص ارز رفع تعهد صادراتی رفع تعهد وارداتی ضمانت بانکی ترخیص کالا گمرک فرودگاه امام گمرک شهریا ([صفحه اصلی | بازرگانی ماندگار | واردات و صادرات | ترخیص کالا | حمل و نقل](https://mandegarcommerce.com/))
-- The public operating surface suggests meaningful activity around customs_broker; scale and buying power remain bounded by the evidence above.
+The public record supports a conversation around **دریافت اسناد حمل و پیگیری نقص پرونده**. The attraction is the possibility of a bounded process improvement around عملیات، ترخیص/کنترل اسناد و خدمات مشتری, while leaving the company's core systems and final decisions under human control.
+This is a sales hypothesis, not a claim that the company currently has a known inefficiency.
 
 ## Evidence
 
-- OBSERVED — Public page shows public quotation or RFQ language. Snippet: یشتر نمی دانید از کجا شروع کنید؟! برای شروع کسب و کار خود با ما تماس بگیرید 📞 مشاوره رایگان اعلام قیمت دقیق و سریع به کمک کارشناسان زبده مجموعه ما ✍️ استعلام قیمت سرعت و عملکرد بالا ترخیص کالا از کشور های همسایه (ترکیه، امارات) اطلاعات بیشتر پشتیبانی قدرتمند با پشتیبان های ما صحبت کنید 🎧 تماس بگیرید خرید تمامی اجناس از ترندیول ترکیه فروشگاه آنلاین الیزا شاپ 👜 مشاهده محصولات گروه بازرگانی ماندگار با در اختیار داشتن کا ([صفحه اصلی | بازرگانی ماندگار | واردات و صادرات | ترخیص کالا | حمل و نقل](https://mandegarcommerce.com/))
-- OBSERVED — Public page shows public product/catalog surface. Snippet: امارات) اطلاعات بیشتر پشتیبانی قدرتمند با پشتیبان های ما صحبت کنید 🎧 تماس بگیرید خرید تمامی اجناس از ترندیول ترکیه فروشگاه آنلاین الیزا شاپ 👜 مشاهده محصولات گروه بازرگانی ماندگار با در اختیار داشتن کادری متعهد و مجرب و با تجربه که در روند پیشرفت تجارت شما تا آخرین لحظه کنار شماست. معرفی کیفیت خدمات ما » پاسخگویی به موقع کارشناسان مجرب قیمت منصفانه مشاوره رایگان تجربه بالا مدیریت مجموعه ماندگار بسیار مفتخرم که خدمت رس ([صفحه اصلی | بازرگانی ماندگار | واردات و صادرات | ترخیص کالا | حمل و نقل](https://mandegarcommerce.com/))
-- OBSERVED — Public page shows public order or contact intake. Snippet: رات ترکیه اروپا آمریکا خرید کالا چین امارات ترکیه اروپا آمریکا صادرات کالا بازاریابی و تحقیق بازار خرید اینترنتی ترندیول (ترکیه) آمازون علی بابا ebay ثبت سفارش کالا حواله ارزی تخصیص ارز رفع تعهد صادراتی رفع تعهد وارداتی ضمانت بانکی ترخیص کالا گمرک فرودگاه امام گمرک شهریار گمرک غرب گمرک شهید رجایی گمرک پیام کرج گمرک بازرگان ترخیص گمرکات خارجی امارات ترکیه حمل و نقل هوایی دریایی زمینی ریلی اخبار و مقالات اخبار روز حوزه ([صفحه اصلی | بازرگانی ماندگار | واردات و صادرات | ترخیص کالا | حمل و نقل](https://mandegarcommerce.com/))
-- OBSERVED — Public page shows branches, representatives or dealer network. Snippet: صفحه اصلی | بازرگانی ماندگار | واردات و صادرات | ترخیص کالا | حمل و نقل Skip to content صفحه اصلی خانه بلاگ فروشگاه ترندیول خدمات واردات کالا چین امارات ترکیه اروپا آمریکا خرید کالا چین امارات ترکیه اروپا آمریکا صادرات کالا بازاریابی و تحقیق بازار خرید اینترنتی ترندیول (ترکیه) آمازون علی بابا ebay ثبت سفارش کالا حواله ارزی تخصیص ارز رفع تعهد صادراتی رفع تعهد وارداتی ضمانت بانکی ترخیص کالا گمرک فرودگاه امام گمرک شهریا ([صفحه اصلی | بازرگانی ماندگار | واردات و صادرات | ترخیص کالا | حمل و نقل](https://mandegarcommerce.com/))
-- OBSERVED — Public page shows public projects, clients or partners. Snippet: یدری / مدیر اروند تجارت برای خرید تعداد از اقلام همچون لباس و کفش ورزشی از ترکیه توسط سایت فروشگاهی الیزا شاپ با شرکت بازرگانی ماندگار آشنا شدیم و در پروژه های بعدی با همکاری های خوب اقای پورجولا توانستیم بار خریداری شده را از کشور ترکیه وارد کنیم. الهام شرفی / مشتری به تازگی برای وارد کردن اقلام کمیاب دارویی با این شرکت قرار داد بسته ایم و از قیمت بسیار مناسب و منصفانه این گروه نهایت استفاده را می بریم و از زمان رسی ([صفحه اصلی | بازرگانی ماندگار | واردات و صادرات | ترخیص کالا | حمل و نقل](https://mandegarcommerce.com/))
-- OBSERVED — Public page shows expansion, export, founding or current activity signal. Snippet: صفحه اصلی | بازرگانی ماندگار | واردات و صادرات | ترخیص کالا | حمل و نقل Skip to content صفحه اصلی خانه بلاگ فروشگاه ترندیول خدمات واردات کالا چین امارات ترکیه اروپا آمریکا خرید کالا چین امارات ترکیه اروپا آمریکا صادرات کالا بازاریابی و تحقیق بازار خرید اینترنتی ترندیول (ترکیه) آمازون علی بابا ebay ثبت سفارش کالا حواله ارزی تخصیص ارز رفع تعهد صادراتی رفع تعهد وارداتی ضمانت بانکی ترخیص کالا گمرک فرودگاه امام گمرک شهریا ([صفحه اصلی | بازرگانی ماندگار | واردات و صادرات | ترخیص کالا | حمل و نقل](https://mandegarcommerce.com/))
+- The public page titled 'تماس با ما | بازرگانی ماندگار | واردات و صادرات | ترخیص کالا | حمل و نقل' exposes product/catalog information, a contact or order entry point. — [تماس با ما | بازرگانی ماندگار | واردات و صادرات | ترخیص کالا | حمل و نقل](https://mandegarcommerce.com/contact/)
+- The public page titled 'صفحه اصلی | بازرگانی ماندگار | واردات و صادرات | ترخیص کالا | حمل و نقل' exposes product/catalog information, a contact or order entry point. — [صفحه اصلی | بازرگانی ماندگار | واردات و صادرات | ترخیص کالا | حمل و نقل](https://mandegarcommerce.com/)
+- The public page titled 'درباره ما | بازرگانی ماندگار | واردات و صادرات | ترخیص کالا | حمل و نقل' exposes product/catalog information, a contact or order entry point. — [درباره ما | بازرگانی ماندگار | واردات و صادرات | ترخیص کالا | حمل و نقل](https://mandegarcommerce.com/about-mandegar/)
+- The public page titled 'خدمات بازرگانی | بازرگانی ماندگار | واردات و صادرات | ترخیص کالا | حمل و نقل' exposes product/catalog information, a contact or order entry point. — [خدمات بازرگانی | بازرگانی ماندگار | واردات و صادرات | ترخیص کالا | حمل و نقل](https://mandegarcommerce.com/our-services/)
 
 ## Likely operational bottleneck
 
-STRONG_INFERENCE — EVIDENCE_SUPPORTED — Public evidence shows public quotation or RFQ language, public product/catalog surface, public order or contact intake; the internal handoff and volume require discovery.
-The public record does not establish that the company currently handles this process manually or inefficiently.
+**Inference to validate:** incoming information may need repeated lookup, structuring or approval before the business team can produce the final output described by **دریافت اسناد حمل و پیگیری نقص پرونده**. Public pages establish the customer-facing surface, not the internal handoff, volume or baseline.
 
 ## Recommended LUMA solution
 
-A document intake layer that extracts shipment and customs fields, checks missing items and routes exceptions to the responsible operator for approval.
+**دریافت اسناد حمل و پیگیری نقص پرونده** — یک لایه دریافت اسناد که اطلاعات پرونده حمل را ساختاریافته می‌کند، چک‌لیست کامل‌بودن را بررسی می‌کند و موارد ناقص را برای تأیید به مسئول مربوط ارجاع می‌دهد.
 
 ## Why this solution could matter financially
 
-No ROI percentage is invented. Validate the KPI categories: document completeness; exception closure time; manual re-keying; shipment-status response time.
+Measure the baseline and pilot change in terms of:
+- کامل‌بودن پرونده
+- زمان بستن نقص
+- ورود دوباره اطلاعات
+- زمان پاسخ‌گویی وضعیت محموله
 
-## What we do NOT know
+## What we do not know
 
-- Monthly volume, current handoffs, budget, decision authority, system ownership, data quality and implementation constraints are UNKNOWN.
-- Internal technical capability: `UNKNOWN_INTERNAL_TECH` — UNKNOWN — lack of public evidence is not treated as known low internal capability.
-- Digital maturity: `KNOWN_MODERATE_DIGITAL_MATURITY` — Known moderate/fragmented public digital surface; validate internal handoffs and system ownership.
+- Monthly volume, current handoffs, approval rules and baseline time are not public.
+- The authoritative data owner and integration surface are not public.
+- Budget authority, buying process and timing are not public.
+- Internal software/data capability is not sufficiently established publicly; missing evidence is not treated as evidence of absence.
 
 ## Questions to ask
 
 1. کدام اسناد حمل و ترخیص بیشترین حجم ورود و کنترل را دارند؟
-2. چطور نقص مدارک یا تأخیر هر پرونده به مسئول آن ارجاع می‌شود؟
-3. کدام داده‌ها در ایمیل، اکسل یا سامانه‌های مختلف تکراراً وارد می‌شوند؟
+2. نقص هر پرونده چگونه به مسئول آن ارجاع و تا بسته‌شدن پیگیری می‌شود؟
+3. کدام داده‌ها بین ایمیل، اکسل و سامانه‌های مختلف دوباره وارد می‌شوند؟
 4. چه نقاطی نیازمند تأیید کارشناس گمرک یا مدیر عملیات هستند؟
-5. برای شروع پایلوت، کدام مسیر یا نوع محموله کم‌ریسک‌تر است؟
+5. برای شروع، کدام نوع محموله یا مسیر کم‌ریسک‌تر است؟
+6. چه کسی مالک این فرایند و تأیید خروجی نهایی است؟
+7. یک نمونه واقعی و پاک‌سازی‌شده برای مقایسه خط مبنا و پایلوت کدام است؟
+8. اگر پایلوت موفق باشد، گسترش آن به کدام واحد یا قالب بیشترین ارزش را دارد؟
 
 ## Decision maker
 
-- Role: Operations Director (role status: `ROLE_HYPOTHESIS`).
-- Publicly verified name: UNKNOWN.
-- Source: [public source](https://mandegarcommerce.com/); confidence: 0.35.
+- Primary business owner: Operations Director / Customs Manager; public name: Not publicly verified.
+- Economic buyer: Managing Director / CEO; public name: Not publicly verified.
+- Technical gatekeeper: Compliance or Operations Systems Lead; public name: Not publicly verified.
 
 ## Contact channels
-
 - Website: [https://mandegarcommerce.com/](https://mandegarcommerce.com/)
-- Public corporate phone: 02126716703, 02186122503, 02188508498
-- Public corporate email: import@mandegarcommerce.com
+- Public phone: 02126716703, 02186122503, 02188508498
+- Corporate email: export@mandegarcommerce.com, import@mandegarcommerce.com, info@mandegarcommerce.com
+- Company LinkedIn: اطلاعات عمومی تأییدشده‌ای یافت نشد
+- Public WhatsApp: [https://wa.me/+989196784698](https://wa.me/+989196784698)
+
+## Pilot and demo
+
+- Pilot: پایلوت کنترل کامل‌بودن پرونده‌های حمل — بازرگانی ماندگار
+- Scope: یک مسیر محدود و قابل کنترل برای دریافت اسناد حمل و پیگیری نقص پرونده با یک قالب ورودی و یک گروه کاربر؛ هسته ERP یا تصمیم نهایی جایگزین نمی‌شود.
+- Users: عملیات، ترخیص/کنترل اسناد و خدمات مشتری
+- Data: بارنامه، فاکتور، پکینگ‌لیست، اسناد گمرکی، نقاط پیشرفت و دستورهای مشتری
+- Human approval: تأیید محصول/مقدار/قیمت، تأیید نقص یا استثنا، و انتشار خروجی نهایی نزد کارشناس یا مدیر مربوط باقی می‌ماند.
+- Duration: حدود ۳ تا ۶ هفته کاری پس از تأیید دسترسی، نمونه داده و دامنه پایلوت؛ مدت دقیق در جلسه کشف تعیین می‌شود.
+- Demo: دو سند نمونه بارگذاری می‌شود؛ فیلدهای اصلی استخراج، موارد جاافتاده مشخص، و یک چک‌لیست قابل پیگیری برای کارشناس عملیات ساخته می‌شود.
 
 ## Screenshots
 
@@ -72,14 +87,4 @@ No ROI percentage is invented. Validate the KPI categories: document completenes
 
 ## Sales recommendation
 
-**GO** — READY FOR OUTREACH; the recommendation follows the evidence gate and does not imply verified budget or authority.
-
-## Source links
-
-- [https://avval.ir/search/%D8%AD%D9%85%D9%84-%D9%88-%D9%86%D9%82%D9%84-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86?page=2](https://avval.ir/search/%D8%AD%D9%85%D9%84-%D9%88-%D9%86%D9%82%D9%84-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86?page=2)
-- [https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%DA%A9%D8%A7%D9%84%D8%A7/%D8%AA%D9%87%D8%B1%D8%A7%D9%86](https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%DA%A9%D8%A7%D9%84%D8%A7/%D8%AA%D9%87%D8%B1%D8%A7%D9%86)
-- [https://avval.ir/profile/4c383/%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1](https://avval.ir/profile/4c383/%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1)
-- [https://mandegarcommerce.com/](https://mandegarcommerce.com/)
-- [https://mandegarcommerce.com/about-mandegar/](https://mandegarcommerce.com/about-mandegar/)
-- [https://mandegarcommerce.com/our-services/](https://mandegarcommerce.com/our-services/)
-- [https://mandegarcommerce.com/contact/](https://mandegarcommerce.com/contact/)
+**DISCOVERY FIRST** — use the internal brief and outreach draft only after human review. Proposal: `sales/client/ir-teh-852d4aee14a54c4a.md`; outreach draft: `sales/outreach/ir-teh-852d4aee14a54c4a.md`.

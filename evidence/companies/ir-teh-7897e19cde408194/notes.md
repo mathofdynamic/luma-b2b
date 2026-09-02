@@ -29,3 +29,17 @@ Audit fetch notes:
 - SOURCE_ERROR: https://html.duckduckgo.com/html/?q=%22%D8%A7%D8%B7%D9%84%D8%B3+%D9%81%D8%B1%D8%A7%D8%A8%D8%B1+%D8%AC%D9%87%D8%A7%D9%86%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa: HTTPError: HTTP Error 403: Forbidden
 - SOURCE_ERROR: https://html.duckduckgo.com/html/?q=%22%D8%A7%D8%B7%D9%84%D8%B3+%D9%81%D8%B1%D8%A7%D8%A8%D8%B1+%D8%AC%D9%87%D8%A7%D9%86%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa: HTTPError: HTTP Error 403: Forbidden
 - SOURCE_ERROR: https://html.duckduckgo.com/html/?q=%22https+www.atlasfarabarjahan.com%22+Tehran+Iran+company&kl=ir-fa: RemoteDisconnected: Remote end closed connection without response
+
+## Sales activation
+
+Activation version: 2026.09.sales-activation-v1
+
+Captured pages:
+- `companies/ir-teh-7897e19cde408194/pages/sales-537fd5d0ea5b2fa0.txt`
+- `companies/ir-teh-7897e19cde408194/pages/sales-9f458a98bc5bb76b.txt`
+- `companies/ir-teh-7897e19cde408194/pages/sales-373b882af52f99f1.txt`
+- `companies/ir-teh-7897e19cde408194/pages/sales-3cc21e2b31ffa61f.txt`
+
+Source families added/confirmed: other_public
+Primary workflow classification: EVIDENCE_SUPPORTED
+No outreach was sent; no contact form, RFQ, email, WhatsApp or phone call was submitted.

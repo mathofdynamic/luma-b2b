@@ -1,70 +1,85 @@
 # شرکت بازرگانی میلاد
 
+Dossier rank: 6 | First-contact score: 70/100 | Wave: WAVE 1
+This is an internal sales preparation document. No outreach has been sent.
+
 ## Snapshot
 
-- Corrected classification: `industrial_distributors_importers` / `mixed`.
-- Public description: تولید سیمان - سنگ شکن - ورق سیمان
+- What the company publicly presents: تولید سیمان - سنگ شکن - ورق سیمان
+- Corrected classification: `industrial_distributors_importers` / `mixed`; B2B signal: `['B2B_candidate']`
 - Location: تهران، منطقه 2، محله سعادت آباد، سعادت آباد، خیابان سرو غربی، خیابان صدف، پلاک 15، واحد 11
-- Revised score: 88; confidence-adjusted: 73.7; tier: A
-- Commercial evidence strength: 72/100; score confidence: 73/100; independent source families: 2
+- Public website: اطلاعات عمومی تأییدشده‌ای یافت نشد
+- Commercial evidence strength: 72
+- Independent source families counted: 2 — book_e_avval, company_website:trading-milad.com
 
 ## Why it is commercially interesting
 
-- OBSERVED — Public page shows public quotation or RFQ language. Snippet: تجربیات صنعت به رشد و توسعه خود ادامه میدهد درباره ما بیشتر بخوانید محصولات مهمترین محصولات ما اطلاعات بیشتر لنس و سر نازل اسپری آب کولینگ تاور برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر نازل مازوت مشعل برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر سنسور ویبره(ارتعاش) برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر صفحه برش استیل بر ماف برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر صفحه برش استیل ([شرکت بازرگانی میلاد | تولید کننده انواع محصولات صنایع سیمان](https://trading-milad.com/))
-- OBSERVED — Public page shows public product/catalog surface. Snippet: شرکت بازرگانی میلاد | تولید کننده انواع محصولات صنایع سیمان ساعت کاری شنبه تا پنجشنبه ، ساعت ۸-۱۶ شماره تماس ۰۲۱-۲۲۳۴۳۰۴۷ آدرس شرکت سعادت آباد سرو غربی، خیابان صدف، پلاک۱۵ واحد ۱۱ درخواست مشاوره شرکت بازرگانی میلاد محصولات وبلاگ چند رسانه ای گالری تصاویر گالری ویدیوها درباره ما ارتباط با ما شرکت بازرگانی میلاد محصولات وبلاگ چند رسانه ای گالری تصاویر گالری ویدیوها درباره ما ارتباط با ما بیش از 10 سال ما به شرکت ها کمک ([شرکت بازرگانی میلاد | تولید کننده انواع محصولات صنایع سیمان](https://trading-milad.com/))
-- OBSERVED — Public page shows factory, warehouse or production facility. Snippet: بین های کوره و گریت و ایر بلستر ها در صنعت سیمان شناخته شده هستیم. 05 تعمیر و نگهداری کارشناسان فنی شرکت بازرگانی میلاد با بازدیدهای دوره‌ای از قطعات کارخانه‌های سیمان، خدمات تعمیر، تعویض قطعه و بهینه‌سازی ارائه می‌دهند که به کاهش هزینه‌ها و افزایش کارایی کمک می‌کند. مزایای ما قدیمی و قابل اعتماد ترین شرکت بازرگانی صنعت سیمان اشتیاق برای نتایج ما با تعهد کامل به نتایج عالی و رضایت مشتریان، همیشه به دنبال بهترین راه‌ح ([شرکت بازرگانی میلاد | تولید کننده انواع محصولات صنایع سیمان](https://trading-milad.com/))
-- OBSERVED — Public page shows after-sales, repair or service operation. Snippet: شرکت بازرگانی میلاد | تولید کننده انواع محصولات صنایع سیمان ساعت کاری شنبه تا پنجشنبه ، ساعت ۸-۱۶ شماره تماس ۰۲۱-۲۲۳۴۳۰۴۷ آدرس شرکت سعادت آباد سرو غربی، خیابان صدف، پلاک۱۵ واحد ۱۱ درخواست مشاوره شرکت بازرگانی میلاد محصولات وبلاگ چند رسانه ای گالری تصاویر گالری ویدیوها درباره ما ارتباط با ما شرکت بازرگانی میلاد محصولات وبلاگ چند رسانه ای گالری تصاویر گالری ویدیوها درباره ما ارتباط با ما بیش از 10 سال ما به شرکت ها کمک ([شرکت بازرگانی میلاد | تولید کننده انواع محصولات صنایع سیمان](https://trading-milad.com/))
-- OBSERVED — Public page shows public projects, clients or partners. Snippet: شرکت بازرگانی میلاد | تولید کننده انواع محصولات صنایع سیمان ساعت کاری شنبه تا پنجشنبه ، ساعت ۸-۱۶ شماره تماس ۰۲۱-۲۲۳۴۳۰۴۷ آدرس شرکت سعادت آباد سرو غربی، خیابان صدف، پلاک۱۵ واحد ۱۱ درخواست مشاوره شرکت بازرگانی میلاد محصولات وبلاگ چند رسانه ای گالری تصاویر گالری ویدیوها درباره ما ارتباط با ما شرکت بازرگانی میلاد محصولات وبلاگ چند رسانه ای گالری تصاویر گالری ویدیوها درباره ما ارتباط با ما بیش از 10 سال ما به شرکت ها کمک ([شرکت بازرگانی میلاد | تولید کننده انواع محصولات صنایع سیمان](https://trading-milad.com/))
-- OBSERVED — Public page shows certification, license or standards evidence. Snippet: اولویت ما ارایه خدمات و سپس دریافت وجه است. فلسفه ما ماموریت ما دیدگاه ما فلسفه ما ما با تمرکز بر کیفیت و نوآوری، به دنبال ارائه‌ی قطعات با بالاترین استاندارد هستیم. هدف ما ایجاد شراکت‌های پایدار و کمک به رشد صنعت از طریق تأمین مطمئن و باکیفیت قطعات است. دریافت مشاوره ماموریت ما خصص ما در تأمین، ساخت و تولید تجهیزات صنعتی از جمله دوربین‌های کوره و دستگاه‌های شوک بلستر و بیگ‌بلستر است. ما به دنبال ارائه‌ی راهکارهای با ([شرکت بازرگانی میلاد | تولید کننده انواع محصولات صنایع سیمان](https://trading-milad.com/))
-- The public operating surface suggests meaningful activity around mixed; scale and buying power remain bounded by the evidence above.
+The public record supports a conversation around **دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت**. The attraction is the possibility of a bounded process improvement around فروش، بازرگانی و کارشناسان فنی محصول, while leaving the company's core systems and final decisions under human control.
+This is a sales hypothesis, not a claim that the company currently has a known inefficiency.
 
 ## Evidence
 
-- OBSERVED — Public page shows public quotation or RFQ language. Snippet: تجربیات صنعت به رشد و توسعه خود ادامه میدهد درباره ما بیشتر بخوانید محصولات مهمترین محصولات ما اطلاعات بیشتر لنس و سر نازل اسپری آب کولینگ تاور برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر نازل مازوت مشعل برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر سنسور ویبره(ارتعاش) برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر صفحه برش استیل بر ماف برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر صفحه برش استیل ([شرکت بازرگانی میلاد | تولید کننده انواع محصولات صنایع سیمان](https://trading-milad.com/))
-- OBSERVED — Public page shows public product/catalog surface. Snippet: شرکت بازرگانی میلاد | تولید کننده انواع محصولات صنایع سیمان ساعت کاری شنبه تا پنجشنبه ، ساعت ۸-۱۶ شماره تماس ۰۲۱-۲۲۳۴۳۰۴۷ آدرس شرکت سعادت آباد سرو غربی، خیابان صدف، پلاک۱۵ واحد ۱۱ درخواست مشاوره شرکت بازرگانی میلاد محصولات وبلاگ چند رسانه ای گالری تصاویر گالری ویدیوها درباره ما ارتباط با ما شرکت بازرگانی میلاد محصولات وبلاگ چند رسانه ای گالری تصاویر گالری ویدیوها درباره ما ارتباط با ما بیش از 10 سال ما به شرکت ها کمک ([شرکت بازرگانی میلاد | تولید کننده انواع محصولات صنایع سیمان](https://trading-milad.com/))
-- OBSERVED — Public page shows factory, warehouse or production facility. Snippet: بین های کوره و گریت و ایر بلستر ها در صنعت سیمان شناخته شده هستیم. 05 تعمیر و نگهداری کارشناسان فنی شرکت بازرگانی میلاد با بازدیدهای دوره‌ای از قطعات کارخانه‌های سیمان، خدمات تعمیر، تعویض قطعه و بهینه‌سازی ارائه می‌دهند که به کاهش هزینه‌ها و افزایش کارایی کمک می‌کند. مزایای ما قدیمی و قابل اعتماد ترین شرکت بازرگانی صنعت سیمان اشتیاق برای نتایج ما با تعهد کامل به نتایج عالی و رضایت مشتریان، همیشه به دنبال بهترین راه‌ح ([شرکت بازرگانی میلاد | تولید کننده انواع محصولات صنایع سیمان](https://trading-milad.com/))
-- OBSERVED — Public page shows after-sales, repair or service operation. Snippet: شرکت بازرگانی میلاد | تولید کننده انواع محصولات صنایع سیمان ساعت کاری شنبه تا پنجشنبه ، ساعت ۸-۱۶ شماره تماس ۰۲۱-۲۲۳۴۳۰۴۷ آدرس شرکت سعادت آباد سرو غربی، خیابان صدف، پلاک۱۵ واحد ۱۱ درخواست مشاوره شرکت بازرگانی میلاد محصولات وبلاگ چند رسانه ای گالری تصاویر گالری ویدیوها درباره ما ارتباط با ما شرکت بازرگانی میلاد محصولات وبلاگ چند رسانه ای گالری تصاویر گالری ویدیوها درباره ما ارتباط با ما بیش از 10 سال ما به شرکت ها کمک ([شرکت بازرگانی میلاد | تولید کننده انواع محصولات صنایع سیمان](https://trading-milad.com/))
-- OBSERVED — Public page shows public projects, clients or partners. Snippet: شرکت بازرگانی میلاد | تولید کننده انواع محصولات صنایع سیمان ساعت کاری شنبه تا پنجشنبه ، ساعت ۸-۱۶ شماره تماس ۰۲۱-۲۲۳۴۳۰۴۷ آدرس شرکت سعادت آباد سرو غربی، خیابان صدف، پلاک۱۵ واحد ۱۱ درخواست مشاوره شرکت بازرگانی میلاد محصولات وبلاگ چند رسانه ای گالری تصاویر گالری ویدیوها درباره ما ارتباط با ما شرکت بازرگانی میلاد محصولات وبلاگ چند رسانه ای گالری تصاویر گالری ویدیوها درباره ما ارتباط با ما بیش از 10 سال ما به شرکت ها کمک ([شرکت بازرگانی میلاد | تولید کننده انواع محصولات صنایع سیمان](https://trading-milad.com/))
-- OBSERVED — Public page shows certification, license or standards evidence. Snippet: اولویت ما ارایه خدمات و سپس دریافت وجه است. فلسفه ما ماموریت ما دیدگاه ما فلسفه ما ما با تمرکز بر کیفیت و نوآوری، به دنبال ارائه‌ی قطعات با بالاترین استاندارد هستیم. هدف ما ایجاد شراکت‌های پایدار و کمک به رشد صنعت از طریق تأمین مطمئن و باکیفیت قطعات است. دریافت مشاوره ماموریت ما خصص ما در تأمین، ساخت و تولید تجهیزات صنعتی از جمله دوربین‌های کوره و دستگاه‌های شوک بلستر و بیگ‌بلستر است. ما به دنبال ارائه‌ی راهکارهای با ([شرکت بازرگانی میلاد | تولید کننده انواع محصولات صنایع سیمان](https://trading-milad.com/))
+- The public page titled 'شرکت بازرگانی میلاد | تولید کننده انواع محصولات صنایع سیمان' exposes product/catalog information, a contact or order entry point. — [شرکت بازرگانی میلاد | تولید کننده انواع محصولات صنایع سیمان](https://trading-milad.com/)
+- The public page titled 'درباره ما - شرکت بازرگانی میلاد' exposes product/catalog information, service or maintenance information. — [درباره ما - شرکت بازرگانی میلاد](https://trading-milad.com/about-us/)
+- The public page titled 'ارتباط با ما - شرکت بازرگانی میلاد' exposes product/catalog information. — [ارتباط با ما - شرکت بازرگانی میلاد](https://trading-milad.com/contact-us/)
+- The public page titled 'محصولات - شرکت بازرگانی میلاد' exposes product/catalog information, a contact or order entry point. — [محصولات - شرکت بازرگانی میلاد](https://trading-milad.com/shop/)
 
 ## Likely operational bottleneck
 
-STRONG_INFERENCE — EVIDENCE_SUPPORTED — Public evidence shows public quotation or RFQ language, public product/catalog surface, factory, warehouse or production facility; the internal handoff and volume require discovery.
-The public record does not establish that the company currently handles this process manually or inefficiently.
+**Inference to validate:** incoming information may need repeated lookup, structuring or approval before the business team can produce the final output described by **دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت**. Public pages establish the customer-facing surface, not the internal handoff, volume or baseline.
 
 ## Recommended LUMA solution
 
-A Persian/English RFQ intake and catalog/SKU matcher that prepares an explainable draft quotation for human approval.
+**دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت** — یک میزکار کنترل‌شده برای ساختاردهی درخواست‌های ورودی، تطبیق آن‌ها با مرجع تأییدشده محصولات و مشخصات، و آماده‌سازی پیش‌نویس پاسخ برای تأیید انسانی.
 
 ## Why this solution could matter financially
 
-No ROI percentage is invented. Validate the KPI categories: quote turnaround time; RFQs handled per salesperson; correction rate; follow-up completion.
+Measure the baseline and pilot change in terms of:
+- زمان پاسخ به استعلام
+- تعداد استعلام قابل پردازش برای هر کارشناس
+- نرخ اصلاح پیشنهاد
+- تکمیل پیگیری
 
-## What we do NOT know
+## What we do not know
 
-- Monthly volume, current handoffs, budget, decision authority, system ownership, data quality and implementation constraints are UNKNOWN.
-- Internal technical capability: `UNKNOWN_INTERNAL_TECH` — UNKNOWN — lack of public evidence is not treated as known low internal capability.
-- Digital maturity: `KNOWN_MODERATE_DIGITAL_MATURITY` — Known moderate/fragmented public digital surface; validate internal handoffs and system ownership.
+- Monthly volume, current handoffs, approval rules and baseline time are not public.
+- The authoritative data owner and integration surface are not public.
+- Budget authority, buying process and timing are not public.
+- Internal software/data capability is not sufficiently established publicly; missing evidence is not treated as evidence of absence.
 
 ## Questions to ask
 
 1. در ماه چند درخواست قیمت وارد می‌شود و از چه کانال‌هایی؟
-2. امروز فروشنده برای تطبیق مشخصات، قیمت و موجودی به چه منابعی رجوع می‌کند؟
+2. امروز برای تطبیق مشخصات، قیمت و موجودی به کدام فایل یا سامانه رجوع می‌شود؟
 3. کدام قواعد قیمت‌گذاری و حاشیه سود باید کاملاً قطعی و انسانی باقی بماند؟
-4. خروجی مطلوب پیش‌فاکتور است یا فقط پیشنهاد محصول و پاسخ فنی؟
-5. داده مرجع محصول و قیمت در کدام سامانه یا فایل نگهداری می‌شود؟
+4. برای شروع، پاسخ فنی، پیشنهاد محصول یا پیش‌فاکتور کدام خروجی ارزشمندتر است؟
+5. یک نمونه استعلام واقعی برای اندازه‌گیری زمان و میزان اصلاحات کدام است؟
+6. چه کسی مالک این فرایند و تأیید خروجی نهایی است؟
+7. یک نمونه واقعی و پاک‌سازی‌شده برای مقایسه خط مبنا و پایلوت کدام است؟
+8. اگر پایلوت موفق باشد، گسترش آن به کدام واحد یا قالب بیشترین ارزش را دارد؟
 
 ## Decision maker
 
-- Role: Plant Manager / Operations Director (role status: `ROLE_HYPOTHESIS`).
-- Publicly verified name: UNKNOWN.
-- Source: [public source](https://trading-milad.com/); confidence: 0.35.
+- Primary business owner: Commercial / Sales Operations Director; public name: Not publicly verified.
+- Economic buyer: Managing Director / CEO; public name: Not publicly verified.
+- Technical gatekeeper: Product or Technical Sales Manager; public name: Not publicly verified.
 
 ## Contact channels
+- Website: اطلاعات عمومی تأییدشده‌ای یافت نشد
+- Public phone: 02122096430, 02122343047, 02122343079, 02122343086, 02122343095, 02122344712, 02144554455, 02188731146, 02188731147, 02188731148
+- Corporate email: info@trading-milad.com, sales@miladtrading.com
+- Company LinkedIn: اطلاعات عمومی تأییدشده‌ای یافت نشد
+- Public WhatsApp: Not explicitly published
 
-- Website: UNKNOWN
-- Public corporate phone: 02122096430, 02122343047, 02122343079, 02122343086, 02122343095, 02122344712, 02144554455, 02188731146, 02188731147, 02188731148
-- Public corporate email: info@trading-milad.com, maxbizz@mail.com, milad@miladtrading.com, sales@miladtrading.com
+## Pilot and demo
+
+- Pilot: پایلوت پاسخ‌گویی ساختاریافته به استعلام‌ها — شرکت بازرگانی میلاد
+- Scope: یک مسیر محدود و قابل کنترل برای دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت با یک قالب ورودی و یک گروه کاربر؛ هسته ERP یا تصمیم نهایی جایگزین نمی‌شود.
+- Users: فروش، بازرگانی و کارشناسان فنی محصول
+- Data: استعلام‌ها، مرجع محصول و SKU، مشخصات فنی، فهرست قیمت، تصویر موجودی، پیشنهادهای قبلی و قواعد تأیید
+- Human approval: تأیید محصول/مقدار/قیمت، تأیید نقص یا استثنا، و انتشار خروجی نهایی نزد کارشناس یا مدیر مربوط باقی می‌ماند.
+- Duration: حدود ۳ تا ۶ هفته کاری پس از تأیید دسترسی، نمونه داده و دامنه پایلوت؛ مدت دقیق در جلسه کشف تعیین می‌شود.
+- Demo: یک استعلام نمونه با چند مشخصه وارد می‌شود؛ سیستم محصولات/گزینه‌های منطبق را با منبع نشان می‌دهد، پیش‌نویس پاسخ می‌سازد و کارشناس آن را تأیید یا اصلاح می‌کند.
 
 ## Screenshots
 
@@ -72,15 +87,4 @@ No ROI percentage is invented. Validate the KPI categories: quote turnaround tim
 
 ## Sales recommendation
 
-**GO** — READY FOR OUTREACH; the recommendation follows the evidence gate and does not imply verified budget or authority.
-
-## Source links
-
-- [https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86](https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86)
-- [https://avval.ir/directory/%D8%B4%D8%B1%DA%A9%D8%AA%20%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86](https://avval.ir/directory/%D8%B4%D8%B1%DA%A9%D8%AA%20%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86)
-- [https://trading-milad.com/](https://trading-milad.com/)
-- [https://avval.ir/profile/9ea91/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D9%85%DB%8C%D9%84%D8%A7%D8%AF](https://avval.ir/profile/9ea91/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D9%85%DB%8C%D9%84%D8%A7%D8%AF)
-- [https://trading-milad.com/shop/](https://trading-milad.com/shop/)
-- [https://trading-milad.com/about-us/](https://trading-milad.com/about-us/)
-- [https://trading-milad.com/contact-us/](https://trading-milad.com/contact-us/)
-- [https://avval.ir/profile/wnqtp/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D9%85%DB%8C%D9%84%D8%A7%D8%AF](https://avval.ir/profile/wnqtp/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D9%85%DB%8C%D9%84%D8%A7%D8%AF)
+**GO** — use the internal brief and outreach draft only after human review. Proposal: `sales/client/ir-teh-d284bae5deddc82f.md`; outreach draft: `sales/outreach/ir-teh-d284bae5deddc82f.md`.

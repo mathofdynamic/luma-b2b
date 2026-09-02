@@ -28,3 +28,14 @@ Audit fetch notes:
 - SOURCE_ERROR: http://alizadehnik.ir/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/: HTTPError: HTTP Error 404: Not Found
 - SOURCE_ERROR: http://alizadehnik.ir/%d8%aa%d8%b1%d8%ae%db%8c%d8%b5-%da%a9%d8%a7%d9%84%d8%a7-%d9%88-%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d9%be%d8%b3-%d8%a7%d8%b2-%d8%a2%d9%86/: HTTPError: HTTP Error 404: Not Found
 - SOURCE_ERROR: http://alizadehnik.ir/%d8%aa%d9%85%d8%a7%d8%b3-%d8%a8%d8%a7-%d9%85%d8%a7/: HTTPError: HTTP Error 404: Not Found
+
+## Sales activation
+
+Activation version: 2026.09.sales-activation-v1
+
+Captured pages:
+- `companies/ir-teh-5308e6ccd17b72e9/pages/sales-374d6736b9f6caba.txt`
+
+Source families added/confirmed: other_public
+Primary workflow classification: STRONG_HYPOTHESIS
+No outreach was sent; no contact form, RFQ, email, WhatsApp or phone call was submitted.

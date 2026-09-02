@@ -24,14 +24,316 @@
       "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
       "stage": "search_query",
       "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%B5%D8%A8%D8%A7%D8%AD%DB%8C%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "InvalidURL: URL can't contain control characters. '/share?url=avval.ir/profile/11b05/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%B5%D8%A8%D8%A7%D8%AD%DB%8C&text=شرکت صباحی' (found at least ' ')",
+      "stage": "official_page",
+      "url": "https://twitter.com/share?url=avval.ir/profile/11b05/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%B5%D8%A8%D8%A7%D8%AD%DB%8C&text=شرکت صباحی"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "official_page",
+      "url": "https://twitter.com/ketabeavvalir"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 500: ",
+      "stage": "official_page",
+      "url": "https://trustseal.enamad.ir/?id=194990&Code=3Y0m3d1djm9fuqjoC8mT"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "official_page",
+      "url": "https://api.whatsapp.com/send?text=avval.ir/profile/11b05/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%B5%D8%A8%D8%A7%D8%AD%DB%8C"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 20-26: ordinal not in range(128)",
+      "stage": "external_page",
+      "url": "https://jobvision.ir/companies/4578/استخدام-گروه-صباحی"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 18-25: ordinal not in range(128)",
+      "stage": "external_page",
+      "url": "https://www.e-estekhdam.com/company/ijdi-بازرگانی-صباحی/jobs"
     }
   ],
-  "generated_at": "2026-09-01T15:27:09Z",
+  "generated_at": "2026-09-02T06:50:51Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
     "proxy": "http://127.0.0.1:1087",
     "visible_browser_launched": false
+  },
+  "sales_activation": {
+    "captured_page_paths": [
+      "companies/ir-teh-2587928f98e4f816/pages/sales-4a083a22b89f0c7a.txt",
+      "companies/ir-teh-2587928f98e4f816/pages/sales-014c8c62e5b0c19f.txt",
+      "companies/ir-teh-2587928f98e4f816/pages/sales-9c0c51220b81f501.txt",
+      "companies/ir-teh-2587928f98e4f816/pages/sales-c351cc22ab1a92f2.txt",
+      "companies/ir-teh-2587928f98e4f816/pages/sales-1aba192f063d4856.txt",
+      "companies/ir-teh-2587928f98e4f816/pages/sales-7610f51736a5ef29.txt",
+      "companies/ir-teh-2587928f98e4f816/pages/sales-93366968095d0e13.txt"
+    ],
+    "contacts": {
+      "decision_maker_direct_candidates": [
+        {
+          "confidence": 0.88,
+          "direct": true,
+          "evidence": "ال در بخشهای مختلف صنعتی، تجاری و تولیدی به فعالیت میپردازد که بنیانگذاری و ریاست گروه را آقای ناصر صباحی بر عهده دارند و هماکنون به کمک نسل سوم خانواده در حال رشد و ترقی است. شرکتهای زیرمجموعه گر",
+          "field": "economic_buyer",
+          "name": "ناصر صباحی",
+          "role": "public founder/owner",
+          "source_family": "linkedin_public",
+          "source_title": "گروه صباحی | LinkedIn",
+          "source_url": "https://ir.linkedin.com/company/sabahi"
+        }
+      ],
+      "decision_maker_search_candidates": [
+        {
+          "confidence": 0.35,
+          "direct": false,
+          "evidence": "در بخش‌های مختلف صنعتی، تجاری و تولیدی به فعالیت می‌پردازد که بنیان‌گذاری و ریاست گروه را آقای ناصر صباحی بر عهده دارند و هم‌اکنون به کمک نسل سوم خانواده در ...",
+          "field": "economic_buyer",
+          "name": "ناصر صباحی",
+          "role": "public founder/owner",
+          "source_family": "other_public",
+          "source_title": "sabahi.com https://sabahi.com گروه صباحی",
+          "source_url": "https://sabahi.com/"
+        },
+        {
+          "confidence": 0.35,
+          "direct": false,
+          "evidence": "در بخش‌های مختلف صنعتی، تجاری و تولیدی به فعالیت می‌پردازد که بنیان‌گذاری و ریاست گروه را آقای ناصر صباحی بر عهده دارند و هم‌اکنون به کمک نسل سوم خانواده در ...",
+          "field": "economic_buyer",
+          "name": "ناصر صباحی",
+          "role": "public founder/owner",
+          "source_family": "other_public",
+          "source_title": "sabahi.com https://sabahi.com گروه صباحی",
+          "source_url": "https://sabahi.com/"
+        },
+        {
+          "confidence": 0.35,
+          "direct": false,
+          "evidence": "در بخش‌های مختلف صنعتی، تجاری و تولیدی به فعالیت می‌پردازد که بنیان‌گذاری و ریاست گروه را آقای ناصر صباحی بر عهده دارند و هم‌اکنون ...",
+          "field": "economic_buyer",
+          "name": "ناصر صباحی",
+          "role": "public founder/owner",
+          "source_family": "other_public",
+          "source_title": "tolidafarinan.com https://tolidafarinan.com › shop › تهران گروه صباحی - مواد اولیه صنایع شیمیایی - مواد اولیه صنایع ...",
+          "source_url": "https://tolidafarinan.com/shop/تهران/P46773-گروه-صباحی.html"
+        }
+      ],
+      "economic_buyer_confidence": 0.88,
+      "economic_buyer_name": "ناصر صباحی",
+      "economic_buyer_role": "Managing Director / CEO",
+      "economic_buyer_source_url": "https://ir.linkedin.com/company/sabahi",
+      "primary_contact_confidence": 0.0,
+      "primary_contact_name": null,
+      "primary_contact_role": "Commercial / Sales Operations Director",
+      "primary_contact_source_url": null,
+      "public_corporate_emails": [
+        "info@sabahi.com"
+      ],
+      "public_corporate_phones": [
+        "02188740680",
+        "02188740681",
+        "02188740682",
+        "02188740683",
+        "02188740684",
+        "02188740685",
+        "02188740686",
+        "02188740687",
+        "02188740688",
+        "02188740689",
+        "02188743930",
+        "02188744284"
+      ],
+      "public_linkedin_company": "https://www.linkedin.com/company/sabahigroup",
+      "public_whatsapp": null,
+      "technical_gatekeeper_confidence": 0.0,
+      "technical_gatekeeper_name": null,
+      "technical_gatekeeper_role": "Product or Technical Sales Manager",
+      "technical_gatekeeper_source_url": null
+    },
+    "no_outreach_sent": true,
+    "public_journey": {
+      "entry_points": [
+        "public product/service information or catalog",
+        "public project/client information"
+      ],
+      "evidence": [
+        {
+          "claim": "The public page titled 'گروه صباحی' exposes product/catalog information, projects or client information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "ه ایران برندها Printon PrintonMaster PrintonMix Aluxide CabShield Pexlane Pexide بلاگ ارتباط با ما فهرست English دانلود کاتالوگ تلفن تماس: 9-02188740680 فهرست صفحه اصلی درباره ما ‌ پیام ریاست درباره لوگو تایم لاین همکاری با ما فرم‌ها شرکت‌های ما شرکت بازرگانی صباحی شرکت پودر‌های میکرونیزه ایران برندها Printon PrintonMaster PrintonMix Aluxide CabShield Pexlane Pexide بلاگ ارتباط با ما فهرست English دانلود کاتالوگ صباحی / برند مورد اعتماد صنعت مشتریان ما، کارخانجات ایرانی هستند و اعتبار ما، سرمایه ماست نسل متوالی 0 سال تجربه + 0 مشتریان وفادار + 0 گروه صباحی با بیش از یک قرن سابقه، متشکل از شرکت‌های فعال در بخش‌های مختلف صنعتی، تجاری و تولیدی ب",
+          "source_family": "other_public",
+          "source_title": "گروه صباحی",
+          "source_url": "https://sabahi.com/"
+        },
+        {
+          "claim": "The public page titled 'درباره گروه صباحی' exposes product/catalog information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "ه ایران برندها Printon PrintonMaster PrintonMix Aluxide CabShield Pexlane Pexide بلاگ ارتباط با ما فهرست English دانلود کاتالوگ تلفن تماس: 9-02188740680 فهرست صفحه اصلی درباره ما ‌ پیام ریاست درباره لوگو تایم لاین همکاری با ما فرم‌ها شرکت‌های ما شرکت بازرگانی صباحی شرکت پودر‌های میکرونیزه ایران برندها Printon PrintonMaster PrintonMix Aluxide CabShield Pexlane Pexide بلاگ ارتباط با ما فهرست English دانلود کاتالوگ پیام ریاست گروه ما بارها نظاره گر پشیمانی مردم بوده ایم که با خود می گویند:”اگر 10 سال پیش بود، چنین و چنان می کردم” برای ما امروز آغاز 10 سال آینده است؛ امروز با شهامت، بی پروا و شجاعانه عمل خواهیم کرد تا 10 سال بعد با خود بگوییم “مو",
+          "source_family": "other_public",
+          "source_title": "درباره گروه صباحی",
+          "source_url": "https://sabahi.com/about/"
+        },
+        {
+          "claim": "The public page titled 'راه‌های ارتباطی با گروه صباحی' exposes product/catalog information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "ه ایران برندها Printon PrintonMaster PrintonMix Aluxide CabShield Pexlane Pexide بلاگ ارتباط با ما فهرست English دانلود کاتالوگ تلفن تماس: 9-02188740680 فهرست صفحه اصلی درباره ما ‌ پیام ریاست درباره لوگو تایم لاین همکاری با ما فرم‌ها شرکت‌های ما شرکت بازرگانی صباحی شرکت پودر‌های میکرونیزه ایران برندها Printon PrintonMaster PrintonMix Aluxide CabShield Pexlane Pexide بلاگ ارتباط با ما فهرست English دانلود کاتالوگ آیا درخواستی دارید؟ تیم ما در خدمت شما هستند نام و نام‌خانوادگی (ضروری) شماره تماس (ضروری) آدرس ایمیل (ضروری) نام شرکت متن پیام خود را اینجا بنویسید... (ضروری) Δ شرکت بازرگانی صباحی تلفن تماس: 9-02188740680 فکس: 02188744284 شرکت پودره",
+          "source_family": "other_public",
+          "source_title": "راه‌های ارتباطی با گروه صباحی",
+          "source_url": "https://sabahi.com/contact/"
+        },
+        {
+          "claim": "The public page titled 'بیشتر در مورد لوگو گروه صباحی' exposes product/catalog information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "ه ایران برندها Printon PrintonMaster PrintonMix Aluxide CabShield Pexlane Pexide بلاگ ارتباط با ما فهرست English دانلود کاتالوگ تلفن تماس: 9-02188740680 فهرست صفحه اصلی درباره ما ‌ پیام ریاست درباره لوگو تایم لاین همکاری با ما فرم‌ها شرکت‌های ما شرکت بازرگانی صباحی شرکت پودر‌های میکرونیزه ایران برندها Printon PrintonMaster PrintonMix Aluxide CabShield Pexlane Pexide بلاگ ارتباط با ما فهرست English دانلود کاتالوگ Sabahi Group Logo Conception of a Legacy گروه صباحی همانند چرخ آسیاب، مولد تحرک و نیرو است. در نتیجه، صنعت (آسیاب) با شتاب و نیروی ایجاد شده توسط تیم صباحی، به صورت بهینه به حرکت در می‌آید تا توسعه، نوآوری و رشد را برای تولیدکنندگان ا",
+          "source_family": "other_public",
+          "source_title": "بیشتر در مورد لوگو گروه صباحی",
+          "source_url": "https://sabahi.com/logo/"
+        }
+      ],
+      "intake_channels": [
+        "published corporate email",
+        "published corporate phone"
+      ],
+      "observable_steps": [
+        "Customer reaches شرکت صباحی through public product/service information or catalog, public project/client information.",
+        "Customer uses published corporate email, published corporate phone to ask for information or service.",
+        "sales team prepares a response or quotation; the public record does not expose the internal handoffs or approval rules.",
+        "A discovery meeting should validate volume, data sources, ownership and the smallest safe pilot."
+      ],
+      "observable_steps_fa": [
+        "مشتری از طریق public product/service information or catalog، public project/client information به شرکت صباحی می‌رسد.",
+        "مشتری از published corporate email، published corporate phone برای دریافت اطلاعات یا خدمت استفاده می‌کند.",
+        "sales team prepares a response or quotation؛ مراحل داخلی و قواعد تأیید از منابع عمومی قابل مشاهده نیست.",
+        "در جلسه کشف، حجم، منابع داده، مالک فرایند و کوچک‌ترین پایلوت امن اعتبارسنجی شود."
+      ]
+    },
+    "source_families_added": [
+      "job_portal",
+      "linkedin_public",
+      "other_public"
+    ],
+    "version": "2026.09.sales-activation-v1",
+    "workflow": {
+      "activation_evidence_classification": "STRONG_HYPOTHESIS",
+      "company_id": "ir-teh-2587928f98e4f816",
+      "confidence": "Medium",
+      "confidence_score": 0.7,
+      "current_problem": "A repeated lookup, document or approval handoff is plausible; validate the actual volume, owner and baseline before proposing automation.",
+      "current_problem_fa": "تکرار جست‌وجو، ساخت سند یا تأیید محتمل است؛ حجم واقعی، مالک و خط مبنا پیش از پیشنهاد خودکارسازی اعتبارسنجی شود.",
+      "current_process_hypothesis": "Based on the public دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت surface, the first process to validate is the handoff from incoming information to a reviewed business output. Public sources do not establish the internal process or a current inefficiency.",
+      "current_process_hypothesis_fa": "با توجه به سطح عمومی دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت، نخستین فرایند قابل بررسی، تبدیل ورودی به خروجی کسب‌وکاریِ قابل بازبینی است؛ منابع عمومی فرایند داخلی یا وجود ناکارآمدی فعلی را اثبات نمی‌کنند.",
+      "department": "Commercial Director / Sales Operations Manager",
+      "discovery_questions": [
+        "در ماه چند درخواست قیمت وارد می‌شود و از چه کانال‌هایی؟",
+        "امروز برای تطبیق مشخصات، قیمت و موجودی به کدام فایل یا سامانه رجوع می‌شود؟",
+        "کدام قواعد قیمت‌گذاری و حاشیه سود باید کاملاً قطعی و انسانی باقی بماند؟",
+        "برای شروع، پاسخ فنی، پیشنهاد محصول یا پیش‌فاکتور کدام خروجی ارزشمندتر است؟",
+        "یک نمونه استعلام واقعی برای اندازه‌گیری زمان و میزان اصلاحات کدام است؟"
+      ],
+      "implementation_complexity": "Medium",
+      "implementation_risks": [
+        "data quality and permissions require discovery",
+        "human approval remains required",
+        "pilot should use a bounded workflow and approved samples"
+      ],
+      "implementation_risks_fa": [
+        "کیفیت داده و مجوزها باید در کشف بررسی شود",
+        "تأیید انسانی حفظ می‌شود",
+        "پایلوت با گردش محدود و نمونه‌های تأییدشده شروع شود"
+      ],
+      "likely_business_owner": "Commercial Director / Sales Operations Manager",
+      "measurable_KPIs": [
+        "quote turnaround time",
+        "RFQs handled per salesperson",
+        "correction rate",
+        "follow-up completion"
+      ],
+      "measurable_KPIs_fa": [
+        "زمان پاسخ به استعلام",
+        "تعداد استعلام قابل پردازش برای هر کارشناس",
+        "نرخ اصلاح پیشنهاد",
+        "تکمیل پیگیری"
+      ],
+      "primary_users": "Sales operations, product specialists and commercial management",
+      "primary_users_fa": "فروش، بازرگانی و کارشناسان فنی محصول",
+      "proposed_luma_solution": "A controlled intake workspace that structures incoming requests, matches them against the approved product/specification master, and prepares an explainable draft response for human approval.",
+      "proposed_luma_solution_fa": "یک میزکار کنترل‌شده برای ساختاردهی درخواست‌های ورودی، تطبیق آن‌ها با مرجع تأییدشده محصولات و مشخصات، و آماده‌سازی پیش‌نویس پاسخ برای تأیید انسانی.",
+      "required_data": [
+        "RFQs, product/SKU master, specifications, price lists, stock snapshots, historical quotes and approval rules"
+      ],
+      "required_data_fa": [
+        "استعلام‌ها، مرجع محصول و SKU، مشخصات فنی، فهرست قیمت، تصویر موجودی، پیشنهادهای قبلی و قواعد تأیید"
+      ],
+      "required_integrations": [
+        "Approved email/form intake and exports or APIs from ERP, CRM or accounting systems if available"
+      ],
+      "required_integrations_fa": [
+        "ورودی ایمیل/فرم و در صورت وجود خروجی یا API سامانه‌های ERP، CRM یا حسابداری"
+      ],
+      "source_urls": [
+        "https://sabahi.com/",
+        "https://sabahi.com/about/",
+        "https://sabahi.com/contact/",
+        "https://sabahi.com/logo/"
+      ],
+      "supporting_evidence": [
+        {
+          "claim": "The public page titled 'گروه صباحی' exposes product/catalog information, projects or client information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "ه ایران برندها Printon PrintonMaster PrintonMix Aluxide CabShield Pexlane Pexide بلاگ ارتباط با ما فهرست English دانلود کاتالوگ تلفن تماس: 9-02188740680 فهرست صفحه اصلی درباره ما ‌ پیام ریاست درباره لوگو تایم لاین همکاری با ما فرم‌ها شرکت‌های ما شرکت بازرگانی صباحی شرکت پودر‌های میکرونیزه ایران برندها Printon PrintonMaster PrintonMix Aluxide CabShield Pexlane Pexide بلاگ ارتباط با ما فهرست English دانلود کاتالوگ صباحی / برند مورد اعتماد صنعت مشتریان ما، کارخانجات ایرانی هستند و اعتبار ما، سرمایه ماست نسل متوالی 0 سال تجربه + 0 مشتریان وفادار + 0 گروه صباحی با بیش از یک قرن سابقه، متشکل از شرکت‌های فعال در بخش‌های مختلف صنعتی، تجاری و تولیدی ب",
+          "source_family": "other_public",
+          "source_title": "گروه صباحی",
+          "source_url": "https://sabahi.com/"
+        },
+        {
+          "claim": "The public page titled 'درباره گروه صباحی' exposes product/catalog information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "ه ایران برندها Printon PrintonMaster PrintonMix Aluxide CabShield Pexlane Pexide بلاگ ارتباط با ما فهرست English دانلود کاتالوگ تلفن تماس: 9-02188740680 فهرست صفحه اصلی درباره ما ‌ پیام ریاست درباره لوگو تایم لاین همکاری با ما فرم‌ها شرکت‌های ما شرکت بازرگانی صباحی شرکت پودر‌های میکرونیزه ایران برندها Printon PrintonMaster PrintonMix Aluxide CabShield Pexlane Pexide بلاگ ارتباط با ما فهرست English دانلود کاتالوگ پیام ریاست گروه ما بارها نظاره گر پشیمانی مردم بوده ایم که با خود می گویند:”اگر 10 سال پیش بود، چنین و چنان می کردم” برای ما امروز آغاز 10 سال آینده است؛ امروز با شهامت، بی پروا و شجاعانه عمل خواهیم کرد تا 10 سال بعد با خود بگوییم “مو",
+          "source_family": "other_public",
+          "source_title": "درباره گروه صباحی",
+          "source_url": "https://sabahi.com/about/"
+        },
+        {
+          "claim": "The public page titled 'راه‌های ارتباطی با گروه صباحی' exposes product/catalog information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "ه ایران برندها Printon PrintonMaster PrintonMix Aluxide CabShield Pexlane Pexide بلاگ ارتباط با ما فهرست English دانلود کاتالوگ تلفن تماس: 9-02188740680 فهرست صفحه اصلی درباره ما ‌ پیام ریاست درباره لوگو تایم لاین همکاری با ما فرم‌ها شرکت‌های ما شرکت بازرگانی صباحی شرکت پودر‌های میکرونیزه ایران برندها Printon PrintonMaster PrintonMix Aluxide CabShield Pexlane Pexide بلاگ ارتباط با ما فهرست English دانلود کاتالوگ آیا درخواستی دارید؟ تیم ما در خدمت شما هستند نام و نام‌خانوادگی (ضروری) شماره تماس (ضروری) آدرس ایمیل (ضروری) نام شرکت متن پیام خود را اینجا بنویسید... (ضروری) Δ شرکت بازرگانی صباحی تلفن تماس: 9-02188740680 فکس: 02188744284 شرکت پودره",
+          "source_family": "other_public",
+          "source_title": "راه‌های ارتباطی با گروه صباحی",
+          "source_url": "https://sabahi.com/contact/"
+        },
+        {
+          "claim": "The public page titled 'بیشتر در مورد لوگو گروه صباحی' exposes product/catalog information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "ه ایران برندها Printon PrintonMaster PrintonMix Aluxide CabShield Pexlane Pexide بلاگ ارتباط با ما فهرست English دانلود کاتالوگ تلفن تماس: 9-02188740680 فهرست صفحه اصلی درباره ما ‌ پیام ریاست درباره لوگو تایم لاین همکاری با ما فرم‌ها شرکت‌های ما شرکت بازرگانی صباحی شرکت پودر‌های میکرونیزه ایران برندها Printon PrintonMaster PrintonMix Aluxide CabShield Pexlane Pexide بلاگ ارتباط با ما فهرست English دانلود کاتالوگ Sabahi Group Logo Conception of a Legacy گروه صباحی همانند چرخ آسیاب، مولد تحرک و نیرو است. در نتیجه، صنعت (آسیاب) با شتاب و نیروی ایجاد شده توسط تیم صباحی، به صورت بهینه به حرکت در می‌آید تا توسعه، نوآوری و رشد را برای تولیدکنندگان ا",
+          "source_family": "other_public",
+          "source_title": "بیشتر در مورد لوگو گروه صباحی",
+          "source_url": "https://sabahi.com/logo/"
+        }
+      ],
+      "workflow_evidence_classification": "STRONG_HYPOTHESIS",
+      "workflow_family": "rfq_quotation",
+      "workflow_id": "wf-d361926fd3249d3c",
+      "workflow_name": "RFQ intake, product matching and draft quotation",
+      "workflow_name_fa": "دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت"
+    }
   },
   "screenshots": [
     {
@@ -257,6 +559,104 @@
       "source_title": "راه‌های ارتباطی با گروه صباحی",
       "source_type": "commercial_audit",
       "source_url": "https://sabahi.com/contact/"
+    },
+    {
+      "captured_at": "2026-09-02T06:14:59Z",
+      "company_id": "ir-teh-2587928f98e4f816",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "گروه صباحی Skip to main content گروه صباحی تلفن تماس: 9-02188740680 فهرست صفحه اصلی درباره ما ‌ پیام ریاست درباره لوگو تایم لاین همکاری با ما فرم‌ها شرکت‌های ما شرکت بازرگانی صباحی شرکت پودر‌های میکرونیزه ایران برندها Printon PrintonMaster PrintonMix Aluxide CabShield Pexlane Pexide بلاگ ارتباط با ما فهرست English دانلود کاتالوگ تلفن تماس: 9-02188740680 فهرست صفحه اصلی درباره ما ‌ پیام ریاست درباره لوگو تایم لاین همکاری با ما فرم‌ها شرکت‌های ما شرکت بازرگانی صباحی شرکت پودر‌های میکرونیزه ایران برندها Printon PrintonMaster PrintonMix Aluxide CabShield Pexlane Pexide بلاگ ارتباط با ما فهرست English دانلود کاتالوگ صباحی / برند مورد اعتماد صنعت مشتریان ما، کارخانجات ایرانی هستند و اعتبار ما، سرم",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-0775fbcf759032f8",
+      "source_quality": "public_page",
+      "source_title": "گروه صباحی",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://sabahi.com/"
+    },
+    {
+      "captured_at": "2026-09-02T06:33:41Z",
+      "company_id": "ir-teh-2587928f98e4f816",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "درباره گروه صباحی Skip to main content گروه صباحی تلفن تماس: 9-02188740680 فهرست صفحه اصلی درباره ما ‌ پیام ریاست درباره لوگو تایم لاین همکاری با ما فرم‌ها شرکت‌های ما شرکت بازرگانی صباحی شرکت پودر‌های میکرونیزه ایران برندها Printon PrintonMaster PrintonMix Aluxide CabShield Pexlane Pexide بلاگ ارتباط با ما فهرست English دانلود کاتالوگ تلفن تماس: 9-02188740680 فهرست صفحه اصلی درباره ما ‌ پیام ریاست درباره لوگو تایم لاین همکاری با ما فرم‌ها شرکت‌های ما شرکت بازرگانی صباحی شرکت پودر‌های میکرونیزه ایران برندها Printon PrintonMaster PrintonMix Aluxide CabShield Pexlane Pexide بلاگ ارتباط با ما فهرست English دانلود کاتالوگ پیام ریاست گروه ما بارها نظاره گر پشیمانی مردم بوده ایم که با خود می گویند",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-d3dff2b275ebd468",
+      "source_quality": "public_page",
+      "source_title": "درباره گروه صباحی",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://sabahi.com/about/"
+    },
+    {
+      "captured_at": "2026-09-02T06:33:41Z",
+      "company_id": "ir-teh-2587928f98e4f816",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "راه‌های ارتباطی با گروه صباحی Skip to main content گروه صباحی تلفن تماس: 9-02188740680 فهرست صفحه اصلی درباره ما ‌ پیام ریاست درباره لوگو تایم لاین همکاری با ما فرم‌ها شرکت‌های ما شرکت بازرگانی صباحی شرکت پودر‌های میکرونیزه ایران برندها Printon PrintonMaster PrintonMix Aluxide CabShield Pexlane Pexide بلاگ ارتباط با ما فهرست English دانلود کاتالوگ تلفن تماس: 9-02188740680 فهرست صفحه اصلی درباره ما ‌ پیام ریاست درباره لوگو تایم لاین همکاری با ما فرم‌ها شرکت‌های ما شرکت بازرگانی صباحی شرکت پودر‌های میکرونیزه ایران برندها Printon PrintonMaster PrintonMix Aluxide CabShield Pexlane Pexide بلاگ ارتباط با ما فهرست English دانلود کاتالوگ آیا درخواستی دارید؟ تیم ما در خدمت شما هستند نام و نام‌خانوادگ",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-a73f544be0e9f504",
+      "source_quality": "public_page",
+      "source_title": "راه‌های ارتباطی با گروه صباحی",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://sabahi.com/contact/"
+    },
+    {
+      "captured_at": "2026-09-02T06:33:41Z",
+      "company_id": "ir-teh-2587928f98e4f816",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "بیشتر در مورد لوگو گروه صباحی Skip to main content گروه صباحی تلفن تماس: 9-02188740680 فهرست صفحه اصلی درباره ما ‌ پیام ریاست درباره لوگو تایم لاین همکاری با ما فرم‌ها شرکت‌های ما شرکت بازرگانی صباحی شرکت پودر‌های میکرونیزه ایران برندها Printon PrintonMaster PrintonMix Aluxide CabShield Pexlane Pexide بلاگ ارتباط با ما فهرست English دانلود کاتالوگ تلفن تماس: 9-02188740680 فهرست صفحه اصلی درباره ما ‌ پیام ریاست درباره لوگو تایم لاین همکاری با ما فرم‌ها شرکت‌های ما شرکت بازرگانی صباحی شرکت پودر‌های میکرونیزه ایران برندها Printon PrintonMaster PrintonMix Aluxide CabShield Pexlane Pexide بلاگ ارتباط با ما فهرست English دانلود کاتالوگ Sabahi Group Logo Conception of a Legacy گروه صباحی همانند چرخ",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-e4b4de43ab6960d4",
+      "source_quality": "public_page",
+      "source_title": "بیشتر در مورد لوگو گروه صباحی",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://sabahi.com/logo/"
+    },
+    {
+      "captured_at": "2026-09-02T06:33:47Z",
+      "company_id": "ir-teh-2587928f98e4f816",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "فرصت‌های شغلی فعال در گروه صباحی | Sabahi Group | جابینجا کارفرما هستید؟ انتشار رایگان آگهی استخدام در ۲۵ استان و ۲۶ دسته‌بندی شغلی ثبت آگهی استخدام Jobinja | جابینجا | استخدام، آگهی استخدام، کاریابی، استخدامی جدید، بازار کار، نیازمندیها، ساخت رزومه رایگان، کار و استخدام دولتی، اشتغال، جستجوگر حرفه ای استخدام و شغل خانه جستجوی مشاغل رزومه‌ساز ۵۰ شرکت برتر ثبت آگهی استخدام ورود کارجو ثبت‌نام کارجو ورود کارجو ثبت‌نام کارجو ۱ جابینجا چطور به استخدام شدن من کمک می‌کند؟ مشاهده مشاهده بیشتر گروه صباحی | Sabahi Group واردات و صادرات ۱۱ تا ۵۰ نفر sabahi.com فرصت‌های شغلی ۰ معرفی گروه صباحی شرکت بازرگانی صباحی با بیش از 50 سال حضور در صنعت با هدف خدمت به تولیدکنندگان ایرانی و با فراهم آوردن خدمات درج",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "job_portal",
+      "source_id": "src-09cac8d4a38f61db",
+      "source_quality": "public_page",
+      "source_title": "فرصت‌های شغلی فعال در گروه صباحی | Sabahi Group | جابینجا",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://jobinja.ir/companies/sabahi/jobs"
+    },
+    {
+      "captured_at": "2026-09-02T06:33:49Z",
+      "company_id": "ir-teh-2587928f98e4f816",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "گروه صباحی | LinkedIn موافقت کنید و به LinkedIn بپیوندید با کلیک روی «ادامه» برای پیوستن یا ورود، با ‏ توافقنامه کاربر ‏، ‏ سیاست حفظ حریم خصوصی ‏، و ‏ سیاست کوکی ‏ LinkedIn موافقت می‌کنید. پرش به محتوای اصلی ‏LinkedIn محتوای برتر افراد یادگیری مشاغل بازی‌ها ورود همین حالا، بپیوندید گروه صباحی شرکتهای نگهدار ‏Tehran‏، ‏Tehran‏ ‏۱٬۰۳۵‏ دنبال ‏کنندگان‏ صباحی / برند مورد اعتماد صنعت مشتریان ما، کارخانجات ایرانی هستند و اعتبار ما، سرمایه ماست دنبال کنید مشاهده ‏همه کارمندان ‏۲۵‏‏ گزارش کردن این شرکت در باره ما گروه صباحی با بیش از یک قرن سابقه، متشکل از شرکتهای فعال در بخشهای مختلف صنعتی، تجاری و تولیدی به فعالیت میپردازد که بنیانگذاری و ریاست گروه را آقای ناصر صباحی بر عهده دارند و هماکنون به ک",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "linkedin_public",
+      "source_id": "src-e431a37940d932d3",
+      "source_quality": "public_page",
+      "source_title": "گروه صباحی | LinkedIn",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://ir.linkedin.com/company/sabahi"
+    },
+    {
+      "captured_at": "2026-09-02T06:33:50Z",
+      "company_id": "ir-teh-2587928f98e4f816",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "درباره شرکت گروه صباحی | ایران‌تلنت فرصت‌های شغلی رزومه ساز امتیاز شرکت‌ها بخش کارفرمایان ورود / ثبت‌نام محصولات ایران‌تلنت کاردیکس اتوماسیون جذب ایران‌تلنت ورود/ثبت‌نام English گروه صباحی 2 درباره شرکت (0) فرصت‌های شغلی (7) نظرات درباره شرکت گروه صباحی وبسایت: sabahi.com مدیر عامل: ناصر صباحی سال تأسیس: 1980 صنعت: دارویی تعداد کارمندان: 10-49کارمند موقعیت: تهران, تهران آدرس: تهران ، خیابان خرمشهر ، شماره 142، ساختمان صباحی، طبقه 5 تصاویر و ویدیوهای شرکت درباره شرکت: گروه صباحی یک گروه تجاری متشکل از مجموعه شرکت هایی فعال در بخش های مختلف صنعتی می باشد. گروه صباحی از طریق شرکت های زیر مجموعه خود در زمینه های اخذ نمایندگی، بازرگانی، تولید و مهندسی در بخش های مختلف صنعتی فعالیت دارد. آقای ناصر",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "job_portal",
+      "source_id": "src-5ff81d525e377466",
+      "source_quality": "public_page",
+      "source_title": "درباره شرکت گروه صباحی | ایران‌تلنت",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://www.irantalent.com/company/sabahi-group/cb523550-e784-4cae-93ad-f9007e00036f/overview"
     }
   ]
 }

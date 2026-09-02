@@ -29,14 +29,283 @@
       "error": "HTTPError: HTTP Error 403: Forbidden",
       "stage": "search_query",
       "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C+%D8%B3%DB%8C%D9%84%D8%A7%D8%A8+%D8%B2%DB%8C%D8%B3%D8%AA+%D8%AA%D9%87%D8%B1%D8%A7%D9%86%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "InvalidURL: URL can't contain control characters. '/share?url=avval.ir/profile/6e701/%D8%B4%D8%B1%DA%A9%D8%AA-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%B3%DB%8C%D9%84%D8%A7%D8%A8-%D8%B2%DB%8C%D8%B3%D8%AA-%D8%AA%D9%87%D8%B1%D8%A7%D9%86&text=شرکت مهندسی سیلاب زیست تهران' (found at least ' ')",
+      "stage": "official_page",
+      "url": "https://twitter.com/share?url=avval.ir/profile/6e701/%D8%B4%D8%B1%DA%A9%D8%AA-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%B3%DB%8C%D9%84%D8%A7%D8%A8-%D8%B2%DB%8C%D8%B3%D8%AA-%D8%AA%D9%87%D8%B1%D8%A7%D9%86&text=شرکت مهندسی سیلاب زیست تهران"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "official_page",
+      "url": "https://twitter.com/ketabeavvalir"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 500: ",
+      "stage": "official_page",
+      "url": "https://trustseal.enamad.ir/?id=194990&Code=3Y0m3d1djm9fuqjoC8mT"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "official_page",
+      "url": "https://api.whatsapp.com/send?text=avval.ir/profile/6e701/%D8%B4%D8%B1%DA%A9%D8%AA-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D8%B3%DB%8C%D9%84%D8%A7%D8%A8-%D8%B2%DB%8C%D8%B3%D8%AA-%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C+%D8%B3%DB%8C%D9%84%D8%A7%D8%A8+%D8%B2%DB%8C%D8%B3%D8%AA+%D8%AA%D9%87%D8%B1%D8%A7%D9%86%22+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C+%D8%B3%DB%8C%D9%84%D8%A7%D8%A8+%D8%B2%DB%8C%D8%B3%D8%AA+%D8%AA%D9%87%D8%B1%D8%A7%D9%86%22+%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+%D9%81%D8%B1%D8%B5%D8%AA+%D8%B4%D8%BA%D9%84%DB%8C&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C+%D8%B3%DB%8C%D9%84%D8%A7%D8%A8+%D8%B2%DB%8C%D8%B3%D8%AA+%D8%AA%D9%87%D8%B1%D8%A7%D9%86%22+%D9%86%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87+%D8%A7%D9%86%D8%AC%D9%85%D9%86+%D8%B9%D8%B6%D9%88&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C+%D8%B3%DB%8C%D9%84%D8%A7%D8%A8+%D8%B2%DB%8C%D8%B3%D8%AA+%D8%AA%D9%87%D8%B1%D8%A7%D9%86%22+%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87+%D9%BE%D8%B1%D9%88%DA%98%D9%87+BOQ+%D9%85%D8%B4%D8%AE%D8%B5%D8%A7%D8%AA+%D9%81%D9%86%DB%8C&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C+%D8%B3%DB%8C%D9%84%D8%A7%D8%A8+%D8%B2%DB%8C%D8%B3%D8%AA+%D8%AA%D9%87%D8%B1%D8%A7%D9%86%22+%22api.whatsapp.com%22+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 500: INKApi Error",
+      "stage": "search_query",
+      "url": "https://search.yahoo.com/search?p=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C+%D8%B3%DB%8C%D9%84%D8%A7%D8%A8+%D8%B2%DB%8C%D8%B3%D8%AA+%D8%AA%D9%87%D8%B1%D8%A7%D9%86%22+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA&vl=lang_fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 500: INKApi Error",
+      "stage": "search_query",
+      "url": "https://search.yahoo.com/search?p=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C+%D8%B3%DB%8C%D9%84%D8%A7%D8%A8+%D8%B2%DB%8C%D8%B3%D8%AA+%D8%AA%D9%87%D8%B1%D8%A7%D9%86%22+%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+%D9%81%D8%B1%D8%B5%D8%AA+%D8%B4%D8%BA%D9%84%DB%8C&vl=lang_fa"
     }
   ],
-  "generated_at": "2026-09-01T15:27:11Z",
+  "generated_at": "2026-09-02T06:51:40Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
     "proxy": "http://127.0.0.1:1087",
     "visible_browser_launched": false
+  },
+  "sales_activation": {
+    "captured_page_paths": [
+      "companies/ir-teh-ceb8c706aa49522e/pages/sales-793f04941bffe482.txt",
+      "companies/ir-teh-ceb8c706aa49522e/pages/sales-6dadac62f46f5ea8.txt",
+      "companies/ir-teh-ceb8c706aa49522e/pages/sales-0e094ae571eae4de.txt",
+      "companies/ir-teh-ceb8c706aa49522e/pages/sales-e11ae193cb4a18cd.txt",
+      "companies/ir-teh-ceb8c706aa49522e/pages/sales-40081175a8984819.txt"
+    ],
+    "contacts": {
+      "decision_maker_direct_candidates": [],
+      "decision_maker_search_candidates": [],
+      "economic_buyer_confidence": 0.0,
+      "economic_buyer_name": null,
+      "economic_buyer_role": "Managing Director / CEO",
+      "economic_buyer_source_url": null,
+      "primary_contact_confidence": 0.0,
+      "primary_contact_name": null,
+      "primary_contact_role": "Technical Office / Project Sales Director",
+      "primary_contact_source_url": null,
+      "public_corporate_emails": [],
+      "public_corporate_phones": [
+        "02126314136"
+      ],
+      "public_linkedin_company": null,
+      "public_whatsapp": null,
+      "technical_gatekeeper_confidence": 0.0,
+      "technical_gatekeeper_name": null,
+      "technical_gatekeeper_role": "Project Controls or Engineering Manager",
+      "technical_gatekeeper_source_url": null
+    },
+    "no_outreach_sent": true,
+    "public_journey": {
+      "entry_points": [
+        "public product/service information or catalog",
+        "public project/client information"
+      ],
+      "evidence": [
+        {
+          "claim": "The public page titled 'سیلاب زیست - صفحه اصلی - شرکت مهندسی سیلاب زیست تهران' exposes product/catalog information, projects or client information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "Package دریچه کشویی و سرریز Sluice & Weir Gates همزن اختلاط Mixing Agitator مشاهده همه نمایشگاه آب و فاضلاب مشاهده همه پروژه های آب و فاضلاب گالری تصاویر مشاهده همه مشاهده و دانلود کاتالوگ شرکت مهندسی سیلاب زیست تهران تصفیه آب، فاضلاب و پساب های صنعتی آب هدیه آسمانی و منشاء حیات است و جايگزيني براي آن وجود ندارد . كمبود ، محدودیت و آلودگي آب علاوه بر خطرات سلامتي و زيست محيطي می تواند بحران های اجتماعی ، پیامدهای اقتصادی و سیاسی جبران ناپذیری به همراه داشته باشد . بنابراين نه تنها حفظ كميت آب از طريق روشهای بهينه سازي مصرف و ارتقاء کیفی آن با روش های مدرن تصفیه امري ضروریست بلکه پالايش و بازیابی فاضلاب ها و پساب ها نیز به لحاظ حفظ ذخایر آبی و",
+          "source_family": "other_public",
+          "source_title": "سیلاب زیست - صفحه اصلی - شرکت مهندسی سیلاب زیست تهران",
+          "source_url": "https://seylab-zist.com/"
+        },
+        {
+          "claim": "The public page titled 'محصولات - شرکت مهندسی سیلاب زیست تهران' exposes product/catalog information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "محصولات - شرکت مهندسی سیلاب زیست تهران شرکت مهندسی سیلاب زیست تهران تصفیه آب، فاضلاب و پساب های صنعتی طراحی، اجراء و تأمین تجهیزات نشانی: تهران ، بزرگراه رسالت ، جنب خیابان شهید همایی ، پلاک 16 ، ساختمان سپیدار ، طبقه چهارم ، واحد 8 تلفن تماس: 02122331216 09123700249 شرکت مهندسی سیلاب زیست تهران تصفیه آب، فاضلاب و پساب های صنعتی طراحی، اجراء و تأمین تجهیزات نشانی: تهران ، بزرگراه رسالت ، جنب خیابان شهید همایی ، پلاک 16 ، ساختمان سپیدار ، طبقه چهارم ، واحد 8 تلفن تماس: 02122331216 09123700249 منو صفحه اصلی محصولات هواده سطحی پکیج تصفیه فاضلاب فیلتر شنی تحت فشار سختی گیر آب دیفیوزر هوادهی پروانه هوادهی پکیج کلرزنی و تزریق مواد شیمیایی دریچه کشو",
+          "source_family": "other_public",
+          "source_title": "محصولات - شرکت مهندسی سیلاب زیست تهران",
+          "source_url": "https://seylab-zist.com/product/"
+        },
+        {
+          "claim": "The public page titled 'دیفیوزر هوادهی - شرکت مهندسی سیلاب زیست تهران دیفیوزر هوادهی' exposes product/catalog information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "حداقل افت فشار و عدم گرفتگی در لوله های هوا – نصب و راهبری ساده و راحت – افزایش بهره وری و تولید در استخرهای آبزی پروری مشخصات فنی دیفیوزرهای حباب ریز : تصویر : دیفیوزر هوادهی نوع بشقابی حباب ریز مدل D-340 مشخصات فنی دیفیوزرهای حباب درشت : تصویر : دیفیوزر هوادهی حباب درشت مدل D-75 تصویر : دیفیوزر هوادهی حباب درشت مدل D-85 تصویر : دیفیوزر های هوادهی حباب درشت مدل D-145 … خرید همزن اختلاط پکیج تصفیه فاضلاب چیست؟ شرکت مهندسی سیلاب زیست تهران تصفیه آب، فاضلاب و پساب های صنعتی آب هدیه آسمانی و منشاء حیات است و جايگزيني براي آن وجود ندارد . كمبود ، محدودیت و آلودگي آب علاوه بر خطرات سلامتي و زيست محيطي می تواند بحران های اجتماعی ، پیامدهای اقتصادی ",
+          "source_family": "other_public",
+          "source_title": "دیفیوزر هوادهی - شرکت مهندسی سیلاب زیست تهران دیفیوزر هوادهی",
+          "source_url": "https://seylab-zist.com/product/%d8%af%db%8c%d9%81%db%8c%d9%88%d8%b2%d8%b1-%d9%87%d9%88%d8%a7%d8%af%d9%87%db%8c-%d8%b3%db%8c%d9%84%d8%a7%d8%a8-%d8%b2%db%8c%d8%b3%d8%aa-%d8%aa%d9%87%d8%b1%d8%a7%d9%86/"
+        },
+        {
+          "claim": "The public page titled 'پکیج کلرزنی و تزریق مواد شیمیایی - شرکت مهندسی سیلاب زیست تهران' exposes product/catalog information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "جنب خیابان شهید همایی ، پلاک 16 ، ساختمان سپیدار ، طبقه چهارم ، واحد 8 تلفن تماس: 02122331216 09123700249 منو صفحه اصلی محصولات هواده سطحی پکیج تصفیه فاضلاب فیلتر شنی تحت فشار سختی گیر آب دیفیوزر هوادهی پروانه هوادهی پکیج کلرزنی و تزریق مواد شیمیایی دریچه کشویی و سرریز همزن اختلاط خدمات دانلود کاتالوگ نمایشگاه آب و فاضلاب گالری تصاویر نمایش ویدئو درباره ما تماس با ما پکیج کلرزنی و تزریق مواد شیمیایی : Chemical & Chlorine Injection Package کاربرد : آماده سازی و تزریق کلرمایع و محلول های شیمیایی در سیستم های تصفیه آب و فاضلاب متعلقات : پکیج های کلرزنی سیلاب زیست تهران شامل همزن اختلاط با شافت و پروانه ضد اسید ، دوزینگ پمپ یا پمپ تزریق (Dosing P",
+          "source_family": "other_public",
+          "source_title": "پکیج کلرزنی و تزریق مواد شیمیایی - شرکت مهندسی سیلاب زیست تهران",
+          "source_url": "https://seylab-zist.com/product/chemical-dosing-system-chlorination-package/"
+        }
+      ],
+      "intake_channels": [
+        "published corporate phone"
+      ],
+      "observable_steps": [
+        "Customer reaches شرکت مهندسی سیلاب زیست تهران through public product/service information or catalog, public project/client information.",
+        "Customer uses published corporate phone to ask for information or service.",
+        "technical/commercial team reviews a project request; the public record does not expose the internal handoffs or approval rules.",
+        "A discovery meeting should validate volume, data sources, ownership and the smallest safe pilot."
+      ],
+      "observable_steps_fa": [
+        "مشتری از طریق public product/service information or catalog، public project/client information به شرکت مهندسی سیلاب زیست تهران می‌رسد.",
+        "مشتری از published corporate phone برای دریافت اطلاعات یا خدمت استفاده می‌کند.",
+        "technical/commercial team reviews a project request؛ مراحل داخلی و قواعد تأیید از منابع عمومی قابل مشاهده نیست.",
+        "در جلسه کشف، حجم، منابع داده، مالک فرایند و کوچک‌ترین پایلوت امن اعتبارسنجی شود."
+      ]
+    },
+    "source_families_added": [
+      "industry_directory",
+      "other_public"
+    ],
+    "version": "2026.09.sales-activation-v1",
+    "workflow": {
+      "activation_evidence_classification": "STRONG_HYPOTHESIS",
+      "company_id": "ir-teh-ceb8c706aa49522e",
+      "confidence": "Medium",
+      "confidence_score": 0.7,
+      "current_problem": "A repeated lookup, document or approval handoff is plausible; validate the actual volume, owner and baseline before proposing automation.",
+      "current_problem_fa": "تکرار جست‌وجو، ساخت سند یا تأیید محتمل است؛ حجم واقعی، مالک و خط مبنا پیش از پیشنهاد خودکارسازی اعتبارسنجی شود.",
+      "current_process_hypothesis": "Based on the public تطبیق BOQ و مشخصات فنی برای پیشنهاد پروژه surface, the first process to validate is the handoff from incoming information to a reviewed business output. Public sources do not establish the internal process or a current inefficiency.",
+      "current_process_hypothesis_fa": "با توجه به سطح عمومی تطبیق BOQ و مشخصات فنی برای پیشنهاد پروژه، نخستین فرایند قابل بررسی، تبدیل ورودی به خروجی کسب‌وکاریِ قابل بازبینی است؛ منابع عمومی فرایند داخلی یا وجود ناکارآمدی فعلی را اثبات نمی‌کنند.",
+      "department": "Technical Office / Project Sales Director",
+      "discovery_questions": [
+        "BOQ و مشخصات فنی معمولاً با چه قالبی وارد می‌شوند؟",
+        "تطبیق گزینه‌های مجاز و جایگزین توسط چه نقشی تأیید می‌شود؟",
+        "کاتالوگ، دیتاشیت و گواهی فنی مرجع در کجا نگهداری می‌شود؟",
+        "کدام بخش از سابمیتال باید نسخه‌بندی و قابل ردیابی باشد؟",
+        "یک پروژه نمونه برای مقایسه زمان و خطا کدام است؟"
+      ],
+      "implementation_complexity": "High",
+      "implementation_risks": [
+        "data quality and permissions require discovery",
+        "human approval remains required",
+        "pilot should use a bounded workflow and approved samples"
+      ],
+      "implementation_risks_fa": [
+        "کیفیت داده و مجوزها باید در کشف بررسی شود",
+        "تأیید انسانی حفظ می‌شود",
+        "پایلوت با گردش محدود و نمونه‌های تأییدشده شروع شود"
+      ],
+      "likely_business_owner": "Technical Office / Project Sales Director",
+      "measurable_KPIs": [
+        "lines matched per hour",
+        "submittal turnaround",
+        "revision errors",
+        "follow-up coverage"
+      ],
+      "measurable_KPIs_fa": [
+        "تعداد ردیف تطبیق‌یافته در ساعت",
+        "زمان آماده‌سازی سابمیتال",
+        "خطاهای اصلاحی",
+        "پوشش پیگیری پروژه"
+      ],
+      "primary_users": "Technical office, project sales, procurement and commercial management",
+      "primary_users_fa": "دفتر فنی، فروش پروژه، تأمین و مدیریت بازرگانی",
+      "proposed_luma_solution": "A document-grounded workspace that structures BOQ lines, retrieves approved technical evidence, and prepares a versioned submittal or quotation pack for review.",
+      "proposed_luma_solution_fa": "یک میزکار مبتنی بر اسناد که ردیف‌های BOQ را ساختاریافته می‌کند، مستندات فنی تأییدشده را بازیابی می‌کند و بسته نسخه‌بندی‌شده سابمیتال یا پیشنهاد قیمت را برای بازبینی آماده می‌کند.",
+      "required_data": [
+        "BOQs, specifications, drawings, product catalogs, alternatives, certificates and prior submittals"
+      ],
+      "required_data_fa": [
+        "BOQ، مشخصات و نقشه‌ها، کاتالوگ محصول، گزینه‌های جایگزین، گواهی‌ها و سابمیتال‌های قبلی"
+      ],
+      "required_integrations": [
+        "Document repository, approved CRM/ERP exports, quotation workflow and approval records"
+      ],
+      "required_integrations_fa": [
+        "مخزن اسناد، خروجی مجاز CRM/ERP، گردش پیشنهاد قیمت و سوابق تأیید"
+      ],
+      "source_urls": [
+        "https://seylab-zist.com/",
+        "https://seylab-zist.com/product/",
+        "https://seylab-zist.com/product/%d8%af%db%8c%d9%81%db%8c%d9%88%d8%b2%d8%b1-%d9%87%d9%88%d8%a7%d8%af%d9%87%db%8c-%d8%b3%db%8c%d9%84%d8%a7%d8%a8-%d8%b2%db%8c%d8%b3%d8%aa-%d8%aa%d9%87%d8%b1%d8%a7%d9%86/",
+        "https://seylab-zist.com/product/chemical-dosing-system-chlorination-package/"
+      ],
+      "supporting_evidence": [
+        {
+          "claim": "The public page titled 'سیلاب زیست - صفحه اصلی - شرکت مهندسی سیلاب زیست تهران' exposes product/catalog information, projects or client information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "Package دریچه کشویی و سرریز Sluice & Weir Gates همزن اختلاط Mixing Agitator مشاهده همه نمایشگاه آب و فاضلاب مشاهده همه پروژه های آب و فاضلاب گالری تصاویر مشاهده همه مشاهده و دانلود کاتالوگ شرکت مهندسی سیلاب زیست تهران تصفیه آب، فاضلاب و پساب های صنعتی آب هدیه آسمانی و منشاء حیات است و جايگزيني براي آن وجود ندارد . كمبود ، محدودیت و آلودگي آب علاوه بر خطرات سلامتي و زيست محيطي می تواند بحران های اجتماعی ، پیامدهای اقتصادی و سیاسی جبران ناپذیری به همراه داشته باشد . بنابراين نه تنها حفظ كميت آب از طريق روشهای بهينه سازي مصرف و ارتقاء کیفی آن با روش های مدرن تصفیه امري ضروریست بلکه پالايش و بازیابی فاضلاب ها و پساب ها نیز به لحاظ حفظ ذخایر آبی و",
+          "source_family": "other_public",
+          "source_title": "سیلاب زیست - صفحه اصلی - شرکت مهندسی سیلاب زیست تهران",
+          "source_url": "https://seylab-zist.com/"
+        },
+        {
+          "claim": "The public page titled 'محصولات - شرکت مهندسی سیلاب زیست تهران' exposes product/catalog information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "محصولات - شرکت مهندسی سیلاب زیست تهران شرکت مهندسی سیلاب زیست تهران تصفیه آب، فاضلاب و پساب های صنعتی طراحی، اجراء و تأمین تجهیزات نشانی: تهران ، بزرگراه رسالت ، جنب خیابان شهید همایی ، پلاک 16 ، ساختمان سپیدار ، طبقه چهارم ، واحد 8 تلفن تماس: 02122331216 09123700249 شرکت مهندسی سیلاب زیست تهران تصفیه آب، فاضلاب و پساب های صنعتی طراحی، اجراء و تأمین تجهیزات نشانی: تهران ، بزرگراه رسالت ، جنب خیابان شهید همایی ، پلاک 16 ، ساختمان سپیدار ، طبقه چهارم ، واحد 8 تلفن تماس: 02122331216 09123700249 منو صفحه اصلی محصولات هواده سطحی پکیج تصفیه فاضلاب فیلتر شنی تحت فشار سختی گیر آب دیفیوزر هوادهی پروانه هوادهی پکیج کلرزنی و تزریق مواد شیمیایی دریچه کشو",
+          "source_family": "other_public",
+          "source_title": "محصولات - شرکت مهندسی سیلاب زیست تهران",
+          "source_url": "https://seylab-zist.com/product/"
+        },
+        {
+          "claim": "The public page titled 'دیفیوزر هوادهی - شرکت مهندسی سیلاب زیست تهران دیفیوزر هوادهی' exposes product/catalog information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "حداقل افت فشار و عدم گرفتگی در لوله های هوا – نصب و راهبری ساده و راحت – افزایش بهره وری و تولید در استخرهای آبزی پروری مشخصات فنی دیفیوزرهای حباب ریز : تصویر : دیفیوزر هوادهی نوع بشقابی حباب ریز مدل D-340 مشخصات فنی دیفیوزرهای حباب درشت : تصویر : دیفیوزر هوادهی حباب درشت مدل D-75 تصویر : دیفیوزر هوادهی حباب درشت مدل D-85 تصویر : دیفیوزر های هوادهی حباب درشت مدل D-145 … خرید همزن اختلاط پکیج تصفیه فاضلاب چیست؟ شرکت مهندسی سیلاب زیست تهران تصفیه آب، فاضلاب و پساب های صنعتی آب هدیه آسمانی و منشاء حیات است و جايگزيني براي آن وجود ندارد . كمبود ، محدودیت و آلودگي آب علاوه بر خطرات سلامتي و زيست محيطي می تواند بحران های اجتماعی ، پیامدهای اقتصادی ",
+          "source_family": "other_public",
+          "source_title": "دیفیوزر هوادهی - شرکت مهندسی سیلاب زیست تهران دیفیوزر هوادهی",
+          "source_url": "https://seylab-zist.com/product/%d8%af%db%8c%d9%81%db%8c%d9%88%d8%b2%d8%b1-%d9%87%d9%88%d8%a7%d8%af%d9%87%db%8c-%d8%b3%db%8c%d9%84%d8%a7%d8%a8-%d8%b2%db%8c%d8%b3%d8%aa-%d8%aa%d9%87%d8%b1%d8%a7%d9%86/"
+        },
+        {
+          "claim": "The public page titled 'پکیج کلرزنی و تزریق مواد شیمیایی - شرکت مهندسی سیلاب زیست تهران' exposes product/catalog information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "جنب خیابان شهید همایی ، پلاک 16 ، ساختمان سپیدار ، طبقه چهارم ، واحد 8 تلفن تماس: 02122331216 09123700249 منو صفحه اصلی محصولات هواده سطحی پکیج تصفیه فاضلاب فیلتر شنی تحت فشار سختی گیر آب دیفیوزر هوادهی پروانه هوادهی پکیج کلرزنی و تزریق مواد شیمیایی دریچه کشویی و سرریز همزن اختلاط خدمات دانلود کاتالوگ نمایشگاه آب و فاضلاب گالری تصاویر نمایش ویدئو درباره ما تماس با ما پکیج کلرزنی و تزریق مواد شیمیایی : Chemical & Chlorine Injection Package کاربرد : آماده سازی و تزریق کلرمایع و محلول های شیمیایی در سیستم های تصفیه آب و فاضلاب متعلقات : پکیج های کلرزنی سیلاب زیست تهران شامل همزن اختلاط با شافت و پروانه ضد اسید ، دوزینگ پمپ یا پمپ تزریق (Dosing P",
+          "source_family": "other_public",
+          "source_title": "پکیج کلرزنی و تزریق مواد شیمیایی - شرکت مهندسی سیلاب زیست تهران",
+          "source_url": "https://seylab-zist.com/product/chemical-dosing-system-chlorination-package/"
+        }
+      ],
+      "workflow_evidence_classification": "STRONG_HYPOTHESIS",
+      "workflow_family": "boq_specification_matching",
+      "workflow_id": "wf-75fb8b5f26db6d33",
+      "workflow_name": "BOQ/specification matching and technical submittal support",
+      "workflow_name_fa": "تطبیق BOQ و مشخصات فنی برای پیشنهاد پروژه"
+    }
   },
   "screenshots": [
     {
@@ -291,6 +560,76 @@
       "source_quality": "public_page",
       "source_title": "پکیج کلرزنی و تزریق مواد شیمیایی - شرکت مهندسی سیلاب زیست تهران",
       "source_url": "https://seylab-zist.com/product/chemical-dosing-system-chlorination-package/"
+    },
+    {
+      "captured_at": "2026-09-02T06:18:19Z",
+      "company_id": "ir-teh-ceb8c706aa49522e",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "سیلاب زیست - صفحه اصلی - شرکت مهندسی سیلاب زیست تهران شرکت مهندسی سیلاب زیست تهران تصفیه آب، فاضلاب و پساب های صنعتی طراحی، اجراء و تأمین تجهیزات نشانی: تهران ، بزرگراه رسالت ، جنب خیابان شهید همایی ، پلاک 16 ، ساختمان سپیدار ، طبقه چهارم ، واحد 8 تلفن تماس: 02122331216 09123700249 شرکت مهندسی سیلاب زیست تهران تصفیه آب، فاضلاب و پساب های صنعتی طراحی، اجراء و تأمین تجهیزات نشانی: تهران ، بزرگراه رسالت ، جنب خیابان شهید همایی ، پلاک 16 ، ساختمان سپیدار ، طبقه چهارم ، واحد 8 تلفن تماس: 02122331216 09123700249 منو صفحه اصلی محصولات هواده سطحی پکیج تصفیه فاضلاب فیلتر شنی تحت فشار سختی گیر آب دیفیوزر هوادهی پروانه هوادهی پکیج کلرزنی و تزریق مواد شیمیایی دریچه کشویی و سرریز همزن اختلاط خدمات دانلود",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-162893c660be1690",
+      "source_quality": "public_page",
+      "source_title": "سیلاب زیست - صفحه اصلی - شرکت مهندسی سیلاب زیست تهران",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://seylab-zist.com/"
+    },
+    {
+      "captured_at": "2026-09-02T06:37:43Z",
+      "company_id": "ir-teh-ceb8c706aa49522e",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "محصولات - شرکت مهندسی سیلاب زیست تهران شرکت مهندسی سیلاب زیست تهران تصفیه آب، فاضلاب و پساب های صنعتی طراحی، اجراء و تأمین تجهیزات نشانی: تهران ، بزرگراه رسالت ، جنب خیابان شهید همایی ، پلاک 16 ، ساختمان سپیدار ، طبقه چهارم ، واحد 8 تلفن تماس: 02122331216 09123700249 شرکت مهندسی سیلاب زیست تهران تصفیه آب، فاضلاب و پساب های صنعتی طراحی، اجراء و تأمین تجهیزات نشانی: تهران ، بزرگراه رسالت ، جنب خیابان شهید همایی ، پلاک 16 ، ساختمان سپیدار ، طبقه چهارم ، واحد 8 تلفن تماس: 02122331216 09123700249 منو صفحه اصلی محصولات هواده سطحی پکیج تصفیه فاضلاب فیلتر شنی تحت فشار سختی گیر آب دیفیوزر هوادهی پروانه هوادهی پکیج کلرزنی و تزریق مواد شیمیایی دریچه کشویی و سرریز همزن اختلاط خدمات دانلود کاتالوگ نمایشگ",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-07af2cde77d3e6a4",
+      "source_quality": "public_page",
+      "source_title": "محصولات - شرکت مهندسی سیلاب زیست تهران",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://seylab-zist.com/product/"
+    },
+    {
+      "captured_at": "2026-09-02T06:37:43Z",
+      "company_id": "ir-teh-ceb8c706aa49522e",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "دیفیوزر هوادهی - شرکت مهندسی سیلاب زیست تهران دیفیوزر هوادهی شرکت مهندسی سیلاب زیست تهران تصفیه آب، فاضلاب و پساب های صنعتی طراحی، اجراء و تأمین تجهیزات نشانی: تهران ، بزرگراه رسالت ، جنب خیابان شهید همایی ، پلاک 16 ، ساختمان سپیدار ، طبقه چهارم ، واحد 8 تلفن تماس: 02122331216 09123700249 شرکت مهندسی سیلاب زیست تهران تصفیه آب، فاضلاب و پساب های صنعتی طراحی، اجراء و تأمین تجهیزات نشانی: تهران ، بزرگراه رسالت ، جنب خیابان شهید همایی ، پلاک 16 ، ساختمان سپیدار ، طبقه چهارم ، واحد 8 تلفن تماس: 02122331216 09123700249 منو صفحه اصلی محصولات هواده سطحی پکیج تصفیه فاضلاب فیلتر شنی تحت فشار سختی گیر آب دیفیوزر هوادهی پروانه هوادهی پکیج کلرزنی و تزریق مواد شیمیایی دریچه کشویی و سرریز همزن اختلاط خدمات",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-fa304dd2a253b95e",
+      "source_quality": "public_page",
+      "source_title": "دیفیوزر هوادهی - شرکت مهندسی سیلاب زیست تهران دیفیوزر هوادهی",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://seylab-zist.com/product/%d8%af%db%8c%d9%81%db%8c%d9%88%d8%b2%d8%b1-%d9%87%d9%88%d8%a7%d8%af%d9%87%db%8c-%d8%b3%db%8c%d9%84%d8%a7%d8%a8-%d8%b2%db%8c%d8%b3%d8%aa-%d8%aa%d9%87%d8%b1%d8%a7%d9%86/"
+    },
+    {
+      "captured_at": "2026-09-02T06:37:43Z",
+      "company_id": "ir-teh-ceb8c706aa49522e",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "پکیج کلرزنی و تزریق مواد شیمیایی - شرکت مهندسی سیلاب زیست تهران شرکت مهندسی سیلاب زیست تهران تصفیه آب، فاضلاب و پساب های صنعتی طراحی، اجراء و تأمین تجهیزات نشانی: تهران ، بزرگراه رسالت ، جنب خیابان شهید همایی ، پلاک 16 ، ساختمان سپیدار ، طبقه چهارم ، واحد 8 تلفن تماس: 02122331216 09123700249 شرکت مهندسی سیلاب زیست تهران تصفیه آب، فاضلاب و پساب های صنعتی طراحی، اجراء و تأمین تجهیزات نشانی: تهران ، بزرگراه رسالت ، جنب خیابان شهید همایی ، پلاک 16 ، ساختمان سپیدار ، طبقه چهارم ، واحد 8 تلفن تماس: 02122331216 09123700249 منو صفحه اصلی محصولات هواده سطحی پکیج تصفیه فاضلاب فیلتر شنی تحت فشار سختی گیر آب دیفیوزر هوادهی پروانه هوادهی پکیج کلرزنی و تزریق مواد شیمیایی دریچه کشویی و سرریز همزن اختلاط خد",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-a41ad69878ed4c67",
+      "source_quality": "public_page",
+      "source_title": "پکیج کلرزنی و تزریق مواد شیمیایی - شرکت مهندسی سیلاب زیست تهران",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://seylab-zist.com/product/chemical-dosing-system-chlorination-package/"
+    },
+    {
+      "captured_at": "2026-09-02T06:37:48Z",
+      "company_id": "ir-teh-ceb8c706aa49522e",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "شرکت مهندسی سیلاب زیست تهران - هواده سطحی، پروانه هو... تور پارس سنتر راهنما پشتیبانی درباره ما ورود اعضاء ثبت نام رایگان صفحه نخست محصولات تامین کننده ها درخواست خرید آگهی ها (جدید) تعرفه وبلاگ تور پارس سنتر راهنما درباره ما ورود اعضاء ثبت نام رایگان صفحه نخست محصولات تامین کننده ها آگهی ها (جدید) درخواست خرید تعرفه وبلاگ به راهنمایی نیاز دارید؟ تور پارس سنتر راهنما پشتیبانی درباره ما منوی سایت صفحه نخست محصولات خدمات درباره ما اطلاعات تماس شرکت مهندسی سیلاب زیست تهران هواده سطحی, پروانه هوادهی, پکیج تصفیه فاضلاب صفحه نخست محصولات خدمات درباره ما اطلاعات تماس خدمات این شرکت شامل موارد زیر می باشد : ارائه مشاوره ،تهیه نقشه و اجراء پروژه های آب ، فاضلاب و پسابهای صنعتی تهیه و تامین ، ساخت ، ن",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "industry_directory",
+      "source_id": "src-07d8f9a2c31be047",
+      "source_quality": "public_page",
+      "source_title": "شرکت مهندسی سیلاب زیست تهران - هواده سطحی، پروانه هو...",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://parscenter.com/Company/CMP181662"
     }
   ]
 }

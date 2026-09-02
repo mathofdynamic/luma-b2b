@@ -29,14 +29,265 @@
       "error": "HTTPError: HTTP Error 403: Forbidden",
       "stage": "search_query",
       "url": "https://html.duckduckgo.com/html/?q=%22%D8%AA%DA%A9+%D9%88%D9%84%D8%AA%D8%A7%DA%98%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "InvalidURL: URL can't contain control characters. '/share?url=avval.ir/profile/47bb8/%D8%AA%DA%A9-%D9%88%D9%84%D8%AA%D8%A7%DA%98&text=تک ولتاژ' (found at least ' ')",
+      "stage": "official_page",
+      "url": "https://twitter.com/share?url=avval.ir/profile/47bb8/%D8%AA%DA%A9-%D9%88%D9%84%D8%AA%D8%A7%DA%98&text=تک ولتاژ"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "official_page",
+      "url": "https://twitter.com/ketabeavvalir"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 500: ",
+      "stage": "official_page",
+      "url": "https://trustseal.enamad.ir/?id=194990&Code=3Y0m3d1djm9fuqjoC8mT"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "official_page",
+      "url": "https://api.whatsapp.com/send?text=avval.ir/profile/47bb8/%D8%AA%DA%A9-%D9%88%D9%84%D8%AA%D8%A7%DA%98"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%AA%DA%A9+%D9%88%D9%84%D8%AA%D8%A7%DA%98%22+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%AA%DA%A9+%D9%88%D9%84%D8%AA%D8%A7%DA%98%22+%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+%D9%81%D8%B1%D8%B5%D8%AA+%D8%B4%D8%BA%D9%84%DB%8C&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%AA%DA%A9+%D9%88%D9%84%D8%AA%D8%A7%DA%98%22+%D9%86%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87+%D8%A7%D9%86%D8%AC%D9%85%D9%86+%D8%B9%D8%B6%D9%88&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%AA%DA%A9+%D9%88%D9%84%D8%AA%D8%A7%DA%98%22+%DA%A9%D8%A7%D8%AA%D8%A7%D9%84%D9%88%DA%AF+%D8%A7%D8%B3%D8%AA%D8%B9%D9%84%D8%A7%D9%85+%D9%82%DB%8C%D9%85%D8%AA+%D9%81%D8%B1%D9%88%D8%B4+%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%AA%DA%A9+%D9%88%D9%84%D8%AA%D8%A7%DA%98%22+%22api.whatsapp.com%22+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "TimeoutError: The read operation timed out",
+      "stage": "official_page",
+      "url": "https://takvoltage.com/"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 18-22: ordinal not in range(128)",
+      "stage": "external_page",
+      "url": "https://www.khabaronline.ir/news/1725560/معرفی-سایت-نمایندگی-شرکت-زیمنس-در-تهران-تک-ولتاژ"
     }
   ],
-  "generated_at": "2026-09-01T15:27:11Z",
+  "generated_at": "2026-09-02T06:51:28Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
     "proxy": "http://127.0.0.1:1087",
     "visible_browser_launched": false
+  },
+  "sales_activation": {
+    "captured_page_paths": [
+      "companies/ir-teh-5d9c46c5fec405da/pages/sales-5931f2cc0ef4a66e.txt",
+      "companies/ir-teh-5d9c46c5fec405da/pages/sales-2e74c24d6ece7f9c.txt",
+      "companies/ir-teh-5d9c46c5fec405da/pages/sales-1807d49f2b471107.txt"
+    ],
+    "contacts": {
+      "decision_maker_direct_candidates": [],
+      "decision_maker_search_candidates": [],
+      "economic_buyer_confidence": 0.0,
+      "economic_buyer_name": null,
+      "economic_buyer_role": "Managing Director / CEO",
+      "economic_buyer_source_url": null,
+      "primary_contact_confidence": 0.0,
+      "primary_contact_name": null,
+      "primary_contact_role": "Commercial / Sales Operations Director",
+      "primary_contact_source_url": null,
+      "public_corporate_emails": [
+        "info@takvoltage.com"
+      ],
+      "public_corporate_phones": [
+        "02133009920",
+        "02133928000"
+      ],
+      "public_linkedin_company": null,
+      "public_whatsapp": null,
+      "technical_gatekeeper_confidence": 0.0,
+      "technical_gatekeeper_name": null,
+      "technical_gatekeeper_role": "Product or Technical Sales Manager",
+      "technical_gatekeeper_source_url": null
+    },
+    "no_outreach_sent": true,
+    "public_journey": {
+      "entry_points": [
+        "public product/service information or catalog",
+        "public service/maintenance information"
+      ],
+      "evidence": [
+        {
+          "claim": "The public page titled 'تماس با ما | تک ولتاژ' exposes product/catalog information, service or maintenance information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "تماس با ما | تک ولتاژ رد کردن به ناوبری رد کردن به محتوای اصلی محصولات اتوماسیون صنعتی با قیمت غیر قابل رقابت خبرنامه تماس با ما سوالات متداول محصولات اتوماسیون صنعتی تلفن سفارش و مشاوره: 02133928000 انتخاب دسته بندی انتخاب دسته بندی ABB کلید اتوماتیک ABB کنتاکتورهای ABB اتوماسیون صنعتی زیمنس پی ال سی زیمنس رله زیمنس سافت استارتر زیمنس | لیست قیمت سافت استارتر زیمنس فروش درایو زیمنس | نمایندگی درایو زیمنس | کاتالوگ درایو زیمنس کلید اتوماتیک زیمنس کنتاکتور زیمنس | قیمت کنتاکتور زیمنس | خرید کنتاکتور زیمنس اشنایدر رله اشنایدر کلید اتوماتیک اشنایدر کنتاکتور اشنایدر ال اس LS hmi ال اس پی ال سی ال اس کلید اتوماتیک ال اس کنتاکتورهای ال اس جستجو 0 0",
+          "source_family": "other_public",
+          "source_title": "تماس با ما | تک ولتاژ",
+          "source_url": "https://takvoltage.com/contact-us/"
+        },
+        {
+          "claim": "The public page titled 'اتوماسیون صنعتی ABB با اصالت کیفیت و قیمت مناسب | تک ولتاژ' exposes product/catalog information, service or maintenance information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "اتوماسیون صنعتی ABB با اصالت کیفیت و قیمت مناسب | تک ولتاژ رد کردن به ناوبری رد کردن به محتوای اصلی محصولات اتوماسیون صنعتی با قیمت غیر قابل رقابت خبرنامه تماس با ما سوالات متداول محصولات اتوماسیون صنعتی تلفن سفارش و مشاوره: 02133928000 انتخاب دسته بندی انتخاب دسته بندی ABB کلید اتوماتیک ABB کنتاکتورهای ABB اتوماسیون صنعتی زیمنس پی ال سی زیمنس رله زیمنس سافت استارتر زیمنس | لیست قیمت سافت استارتر زیمنس فروش درایو زیمنس | نمایندگی درایو زیمنس | کاتالوگ درایو زیمنس کلید اتوماتیک زیمنس کنتاکتور زیمنس | قیمت کنتاکتور زیمنس | خرید کنتاکتور زیمنس اشنایدر رله اشنایدر کلید اتوماتیک اشنایدر کنتاکتور اشنایدر ال اس LS hmi ال اس پی ال سی ال اس کلید اتوما",
+          "source_family": "other_public",
+          "source_title": "اتوماسیون صنعتی ABB با اصالت کیفیت و قیمت مناسب | تک ولتاژ",
+          "source_url": "https://takvoltage.com/product-category/abb/"
+        },
+        {
+          "claim": "The public page titled 'کلید اتوماتیک ABB | تک ولتاژ' exposes product/catalog information, service or maintenance information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "کلید اتوماتیک ABB | تک ولتاژ رد کردن به ناوبری رد کردن به محتوای اصلی محصولات اتوماسیون صنعتی با قیمت غیر قابل رقابت خبرنامه تماس با ما سوالات متداول محصولات اتوماسیون صنعتی تلفن سفارش و مشاوره: 02133928000 انتخاب دسته بندی انتخاب دسته بندی ABB کلید اتوماتیک ABB کنتاکتورهای ABB اتوماسیون صنعتی زیمنس پی ال سی زیمنس رله زیمنس سافت استارتر زیمنس | لیست قیمت سافت استارتر زیمنس فروش درایو زیمنس | نمایندگی درایو زیمنس | کاتالوگ درایو زیمنس کلید اتوماتیک زیمنس کنتاکتور زیمنس | قیمت کنتاکتور زیمنس | خرید کنتاکتور زیمنس اشنایدر رله اشنایدر کلید اتوماتیک اشنایدر کنتاکتور اشنایدر ال اس LS hmi ال اس پی ال سی ال اس کلید اتوماتیک ال اس کنتاکتورهای ال اس جس",
+          "source_family": "other_public",
+          "source_title": "کلید اتوماتیک ABB | تک ولتاژ",
+          "source_url": "https://takvoltage.com/product-category/abb/abb-circuit-breaker/"
+        }
+      ],
+      "intake_channels": [
+        "published corporate email",
+        "published corporate phone"
+      ],
+      "observable_steps": [
+        "Customer reaches تک ولتاژ through public product/service information or catalog, public service/maintenance information.",
+        "Customer uses published corporate email, published corporate phone to ask for information or service.",
+        "sales team prepares a response or quotation; the public record does not expose the internal handoffs or approval rules.",
+        "A discovery meeting should validate volume, data sources, ownership and the smallest safe pilot."
+      ],
+      "observable_steps_fa": [
+        "مشتری از طریق public product/service information or catalog، public service/maintenance information به تک ولتاژ می‌رسد.",
+        "مشتری از published corporate email، published corporate phone برای دریافت اطلاعات یا خدمت استفاده می‌کند.",
+        "sales team prepares a response or quotation؛ مراحل داخلی و قواعد تأیید از منابع عمومی قابل مشاهده نیست.",
+        "در جلسه کشف، حجم، منابع داده، مالک فرایند و کوچک‌ترین پایلوت امن اعتبارسنجی شود."
+      ]
+    },
+    "source_families_added": [
+      "other_public"
+    ],
+    "version": "2026.09.sales-activation-v1",
+    "workflow": {
+      "activation_evidence_classification": "STRONG_HYPOTHESIS",
+      "company_id": "ir-teh-5d9c46c5fec405da",
+      "confidence": "Medium",
+      "confidence_score": 0.7,
+      "current_problem": "A repeated lookup, document or approval handoff is plausible; validate the actual volume, owner and baseline before proposing automation.",
+      "current_problem_fa": "تکرار جست‌وجو، ساخت سند یا تأیید محتمل است؛ حجم واقعی، مالک و خط مبنا پیش از پیشنهاد خودکارسازی اعتبارسنجی شود.",
+      "current_process_hypothesis": "Based on the public دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت surface, the first process to validate is the handoff from incoming information to a reviewed business output. Public sources do not establish the internal process or a current inefficiency.",
+      "current_process_hypothesis_fa": "با توجه به سطح عمومی دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت، نخستین فرایند قابل بررسی، تبدیل ورودی به خروجی کسب‌وکاریِ قابل بازبینی است؛ منابع عمومی فرایند داخلی یا وجود ناکارآمدی فعلی را اثبات نمی‌کنند.",
+      "department": "Commercial Director / Sales Operations Manager",
+      "discovery_questions": [
+        "در ماه چند درخواست قیمت وارد می‌شود و از چه کانال‌هایی؟",
+        "امروز برای تطبیق مشخصات، قیمت و موجودی به کدام فایل یا سامانه رجوع می‌شود؟",
+        "کدام قواعد قیمت‌گذاری و حاشیه سود باید کاملاً قطعی و انسانی باقی بماند؟",
+        "برای شروع، پاسخ فنی، پیشنهاد محصول یا پیش‌فاکتور کدام خروجی ارزشمندتر است؟",
+        "یک نمونه استعلام واقعی برای اندازه‌گیری زمان و میزان اصلاحات کدام است؟"
+      ],
+      "implementation_complexity": "Medium",
+      "implementation_risks": [
+        "data quality and permissions require discovery",
+        "human approval remains required",
+        "pilot should use a bounded workflow and approved samples"
+      ],
+      "implementation_risks_fa": [
+        "کیفیت داده و مجوزها باید در کشف بررسی شود",
+        "تأیید انسانی حفظ می‌شود",
+        "پایلوت با گردش محدود و نمونه‌های تأییدشده شروع شود"
+      ],
+      "likely_business_owner": "Commercial Director / Sales Operations Manager",
+      "measurable_KPIs": [
+        "quote turnaround time",
+        "RFQs handled per salesperson",
+        "correction rate",
+        "follow-up completion"
+      ],
+      "measurable_KPIs_fa": [
+        "زمان پاسخ به استعلام",
+        "تعداد استعلام قابل پردازش برای هر کارشناس",
+        "نرخ اصلاح پیشنهاد",
+        "تکمیل پیگیری"
+      ],
+      "primary_users": "Sales operations, product specialists and commercial management",
+      "primary_users_fa": "فروش، بازرگانی و کارشناسان فنی محصول",
+      "proposed_luma_solution": "A controlled intake workspace that structures incoming requests, matches them against the approved product/specification master, and prepares an explainable draft response for human approval.",
+      "proposed_luma_solution_fa": "یک میزکار کنترل‌شده برای ساختاردهی درخواست‌های ورودی، تطبیق آن‌ها با مرجع تأییدشده محصولات و مشخصات، و آماده‌سازی پیش‌نویس پاسخ برای تأیید انسانی.",
+      "required_data": [
+        "RFQs, product/SKU master, specifications, price lists, stock snapshots, historical quotes and approval rules"
+      ],
+      "required_data_fa": [
+        "استعلام‌ها، مرجع محصول و SKU، مشخصات فنی، فهرست قیمت، تصویر موجودی، پیشنهادهای قبلی و قواعد تأیید"
+      ],
+      "required_integrations": [
+        "Approved email/form intake and exports or APIs from ERP, CRM or accounting systems if available"
+      ],
+      "required_integrations_fa": [
+        "ورودی ایمیل/فرم و در صورت وجود خروجی یا API سامانه‌های ERP، CRM یا حسابداری"
+      ],
+      "source_urls": [
+        "https://takvoltage.com/contact-us/",
+        "https://takvoltage.com/product-category/abb/",
+        "https://takvoltage.com/product-category/abb/abb-circuit-breaker/"
+      ],
+      "supporting_evidence": [
+        {
+          "claim": "The public page titled 'تماس با ما | تک ولتاژ' exposes product/catalog information, service or maintenance information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "تماس با ما | تک ولتاژ رد کردن به ناوبری رد کردن به محتوای اصلی محصولات اتوماسیون صنعتی با قیمت غیر قابل رقابت خبرنامه تماس با ما سوالات متداول محصولات اتوماسیون صنعتی تلفن سفارش و مشاوره: 02133928000 انتخاب دسته بندی انتخاب دسته بندی ABB کلید اتوماتیک ABB کنتاکتورهای ABB اتوماسیون صنعتی زیمنس پی ال سی زیمنس رله زیمنس سافت استارتر زیمنس | لیست قیمت سافت استارتر زیمنس فروش درایو زیمنس | نمایندگی درایو زیمنس | کاتالوگ درایو زیمنس کلید اتوماتیک زیمنس کنتاکتور زیمنس | قیمت کنتاکتور زیمنس | خرید کنتاکتور زیمنس اشنایدر رله اشنایدر کلید اتوماتیک اشنایدر کنتاکتور اشنایدر ال اس LS hmi ال اس پی ال سی ال اس کلید اتوماتیک ال اس کنتاکتورهای ال اس جستجو 0 0",
+          "source_family": "other_public",
+          "source_title": "تماس با ما | تک ولتاژ",
+          "source_url": "https://takvoltage.com/contact-us/"
+        },
+        {
+          "claim": "The public page titled 'اتوماسیون صنعتی ABB با اصالت کیفیت و قیمت مناسب | تک ولتاژ' exposes product/catalog information, service or maintenance information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "اتوماسیون صنعتی ABB با اصالت کیفیت و قیمت مناسب | تک ولتاژ رد کردن به ناوبری رد کردن به محتوای اصلی محصولات اتوماسیون صنعتی با قیمت غیر قابل رقابت خبرنامه تماس با ما سوالات متداول محصولات اتوماسیون صنعتی تلفن سفارش و مشاوره: 02133928000 انتخاب دسته بندی انتخاب دسته بندی ABB کلید اتوماتیک ABB کنتاکتورهای ABB اتوماسیون صنعتی زیمنس پی ال سی زیمنس رله زیمنس سافت استارتر زیمنس | لیست قیمت سافت استارتر زیمنس فروش درایو زیمنس | نمایندگی درایو زیمنس | کاتالوگ درایو زیمنس کلید اتوماتیک زیمنس کنتاکتور زیمنس | قیمت کنتاکتور زیمنس | خرید کنتاکتور زیمنس اشنایدر رله اشنایدر کلید اتوماتیک اشنایدر کنتاکتور اشنایدر ال اس LS hmi ال اس پی ال سی ال اس کلید اتوما",
+          "source_family": "other_public",
+          "source_title": "اتوماسیون صنعتی ABB با اصالت کیفیت و قیمت مناسب | تک ولتاژ",
+          "source_url": "https://takvoltage.com/product-category/abb/"
+        },
+        {
+          "claim": "The public page titled 'کلید اتوماتیک ABB | تک ولتاژ' exposes product/catalog information, service or maintenance information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "کلید اتوماتیک ABB | تک ولتاژ رد کردن به ناوبری رد کردن به محتوای اصلی محصولات اتوماسیون صنعتی با قیمت غیر قابل رقابت خبرنامه تماس با ما سوالات متداول محصولات اتوماسیون صنعتی تلفن سفارش و مشاوره: 02133928000 انتخاب دسته بندی انتخاب دسته بندی ABB کلید اتوماتیک ABB کنتاکتورهای ABB اتوماسیون صنعتی زیمنس پی ال سی زیمنس رله زیمنس سافت استارتر زیمنس | لیست قیمت سافت استارتر زیمنس فروش درایو زیمنس | نمایندگی درایو زیمنس | کاتالوگ درایو زیمنس کلید اتوماتیک زیمنس کنتاکتور زیمنس | قیمت کنتاکتور زیمنس | خرید کنتاکتور زیمنس اشنایدر رله اشنایدر کلید اتوماتیک اشنایدر کنتاکتور اشنایدر ال اس LS hmi ال اس پی ال سی ال اس کلید اتوماتیک ال اس کنتاکتورهای ال اس جس",
+          "source_family": "other_public",
+          "source_title": "کلید اتوماتیک ABB | تک ولتاژ",
+          "source_url": "https://takvoltage.com/product-category/abb/abb-circuit-breaker/"
+        }
+      ],
+      "workflow_evidence_classification": "STRONG_HYPOTHESIS",
+      "workflow_family": "rfq_quotation",
+      "workflow_id": "wf-fb8286c2b7bc7dc7",
+      "workflow_name": "RFQ intake, product matching and draft quotation",
+      "workflow_name_fa": "دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت"
+    }
   },
   "screenshots": [
     {
@@ -153,6 +404,62 @@
       "source_title": "اتوماسیون صنعتی ABB با اصالت کیفیت و قیمت مناسب | تک ولتاژ",
       "source_type": "commercial_audit",
       "source_url": "https://takvoltage.com/product-category/abb/"
+    },
+    {
+      "captured_at": "2026-09-02T06:17:54Z",
+      "company_id": "ir-teh-5d9c46c5fec405da",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "اتوماسیون صنعتی و نمایندگی زیمنس، خرید تجهیزات اتوماسیون صنعتی تک ولتاژ رد کردن به ناوبری رد کردن به محتوای اصلی محصولات اتوماسیون صنعتی با قیمت غیر قابل رقابت خبرنامه تماس با ما سوالات متداول محصولات اتوماسیون صنعتی تلفن سفارش و مشاوره: 02133928000 انتخاب دسته بندی انتخاب دسته بندی ABB کلید اتوماتیک ABB کنتاکتورهای ABB اتوماسیون صنعتی زیمنس پی ال سی زیمنس رله زیمنس سافت استارتر زیمنس | لیست قیمت سافت استارتر زیمنس فروش درایو زیمنس | نمایندگی درایو زیمنس | کاتالوگ درایو زیمنس کلید اتوماتیک زیمنس کنتاکتور زیمنس | قیمت کنتاکتور زیمنس | خرید کنتاکتور زیمنس اشنایدر رله اشنایدر کلید اتوماتیک اشنایدر کنتاکتور اشنایدر ال اس LS hmi ال اس پی ال سی ال اس کلید اتوماتیک ال اس کنتاکتورهای ال اس جستجو 0 0",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-aeceb69b48d2e8a6",
+      "source_quality": "public_page",
+      "source_title": "اتوماسیون صنعتی و نمایندگی زیمنس، خرید تجهیزات اتوماسیون صنعتی تک ولتاژ",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://takvoltage.com/"
+    },
+    {
+      "captured_at": "2026-09-02T06:36:34Z",
+      "company_id": "ir-teh-5d9c46c5fec405da",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "تماس با ما | تک ولتاژ رد کردن به ناوبری رد کردن به محتوای اصلی محصولات اتوماسیون صنعتی با قیمت غیر قابل رقابت خبرنامه تماس با ما سوالات متداول محصولات اتوماسیون صنعتی تلفن سفارش و مشاوره: 02133928000 انتخاب دسته بندی انتخاب دسته بندی ABB کلید اتوماتیک ABB کنتاکتورهای ABB اتوماسیون صنعتی زیمنس پی ال سی زیمنس رله زیمنس سافت استارتر زیمنس | لیست قیمت سافت استارتر زیمنس فروش درایو زیمنس | نمایندگی درایو زیمنس | کاتالوگ درایو زیمنس کلید اتوماتیک زیمنس کنتاکتور زیمنس | قیمت کنتاکتور زیمنس | خرید کنتاکتور زیمنس اشنایدر رله اشنایدر کلید اتوماتیک اشنایدر کنتاکتور اشنایدر ال اس LS hmi ال اس پی ال سی ال اس کلید اتوماتیک ال اس کنتاکتورهای ال اس جستجو 0 0 منو 0 دسته بندی کالاها محصولات زیمنس اشنایدر کنتا",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-b4e80f155322e1ea",
+      "source_quality": "public_page",
+      "source_title": "تماس با ما | تک ولتاژ",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://takvoltage.com/contact-us/"
+    },
+    {
+      "captured_at": "2026-09-02T06:37:00Z",
+      "company_id": "ir-teh-5d9c46c5fec405da",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "اتوماسیون صنعتی ABB با اصالت کیفیت و قیمت مناسب | تک ولتاژ رد کردن به ناوبری رد کردن به محتوای اصلی محصولات اتوماسیون صنعتی با قیمت غیر قابل رقابت خبرنامه تماس با ما سوالات متداول محصولات اتوماسیون صنعتی تلفن سفارش و مشاوره: 02133928000 انتخاب دسته بندی انتخاب دسته بندی ABB کلید اتوماتیک ABB کنتاکتورهای ABB اتوماسیون صنعتی زیمنس پی ال سی زیمنس رله زیمنس سافت استارتر زیمنس | لیست قیمت سافت استارتر زیمنس فروش درایو زیمنس | نمایندگی درایو زیمنس | کاتالوگ درایو زیمنس کلید اتوماتیک زیمنس کنتاکتور زیمنس | قیمت کنتاکتور زیمنس | خرید کنتاکتور زیمنس اشنایدر رله اشنایدر کلید اتوماتیک اشنایدر کنتاکتور اشنایدر ال اس LS hmi ال اس پی ال سی ال اس کلید اتوماتیک ال اس کنتاکتورهای ال اس جستجو 0 0 منو 0 دسته ب",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-06436fa6e88b6b73",
+      "source_quality": "public_page",
+      "source_title": "اتوماسیون صنعتی ABB با اصالت کیفیت و قیمت مناسب | تک ولتاژ",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://takvoltage.com/product-category/abb/"
+    },
+    {
+      "captured_at": "2026-09-02T06:37:00Z",
+      "company_id": "ir-teh-5d9c46c5fec405da",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "کلید اتوماتیک ABB | تک ولتاژ رد کردن به ناوبری رد کردن به محتوای اصلی محصولات اتوماسیون صنعتی با قیمت غیر قابل رقابت خبرنامه تماس با ما سوالات متداول محصولات اتوماسیون صنعتی تلفن سفارش و مشاوره: 02133928000 انتخاب دسته بندی انتخاب دسته بندی ABB کلید اتوماتیک ABB کنتاکتورهای ABB اتوماسیون صنعتی زیمنس پی ال سی زیمنس رله زیمنس سافت استارتر زیمنس | لیست قیمت سافت استارتر زیمنس فروش درایو زیمنس | نمایندگی درایو زیمنس | کاتالوگ درایو زیمنس کلید اتوماتیک زیمنس کنتاکتور زیمنس | قیمت کنتاکتور زیمنس | خرید کنتاکتور زیمنس اشنایدر رله اشنایدر کلید اتوماتیک اشنایدر کنتاکتور اشنایدر ال اس LS hmi ال اس پی ال سی ال اس کلید اتوماتیک ال اس کنتاکتورهای ال اس جستجو 0 0 منو 0 دسته بندی کالاها محصولات زیمنس اشنای",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-01393a2374d2fcc1",
+      "source_quality": "public_page",
+      "source_title": "کلید اتوماتیک ABB | تک ولتاژ",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://takvoltage.com/product-category/abb/abb-circuit-breaker/"
     }
   ]
 }

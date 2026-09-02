@@ -1,50 +1,52 @@
 # گروه تولیدی سپیدار کارتن
 
+Dossier rank: 8 | First-contact score: 68/100 | Wave: WAVE 1
+This is an internal sales preparation document. No outreach has been sent.
+
 ## Snapshot
 
-- Corrected classification: `printing_packaging_labeling` / `manufacturer`.
-- Public description: تولید انواع کارتن 3 لایه و 5 لایه ،چاپ چهار رنگ، لمینت دایکات،و تولید انواع هاردباکس
+- What the company publicly presents: تولید انواع کارتن 3 لایه و 5 لایه ،چاپ چهار رنگ، لمینت دایکات،و تولید انواع هاردباکس
+- Corrected classification: `printing_packaging_labeling` / `manufacturer`; B2B signal: `['B2B_candidate']`
 - Location: تهران، منطقه 8، محله زرکش، خیابان دماوند، خیابان افشاری، پلاک 12، واحد 3
-- Revised score: 83; confidence-adjusted: 77.5; tier: A
-- Commercial evidence strength: 72/100; score confidence: 89/100; independent source families: 2
+- Public website: اطلاعات عمومی تأییدشده‌ای یافت نشد
+- Commercial evidence strength: 72
+- Independent source families counted: 3 — book_e_avval, company_website:sepidarcarton.com, job_portal
 
 ## Why it is commercially interesting
 
-- OBSERVED — Public page shows public quotation or RFQ language. Snippet: کارتن سازی سپیدار | سفارش مستقیم از کارخانه (قیمت عمده) پرش به محتوا کارتن سازی سپیدار محصولات کارتن فلکسو کارتن لمینتی جعبه مقوایی هاردباکس جعبه فانتزی و شکلات نمونه کارها مقالات جعبه هاردباکس بسته بندی فلکسو ورق سازی سوالات متداول درباره ما تماس با ما کارتن سازی سپیدار محصولات کارتن فلکسو کارتن لمینتی جعبه مقوایی هاردباکس جعبه فانتزی و شکلات نمونه کارها مقالات جعبه هاردباکس بسته بندی فلکسو ورق سازی سوالات متداول در ([کارتن سازی سپیدار | سفارش مستقیم از کارخانه (قیمت عمده)](https://sepidarcarton.com/))
-- OBSERVED — Public page shows public product/catalog surface. Snippet: کارتن سازی سپیدار | سفارش مستقیم از کارخانه (قیمت عمده) پرش به محتوا کارتن سازی سپیدار محصولات کارتن فلکسو کارتن لمینتی جعبه مقوایی هاردباکس جعبه فانتزی و شکلات نمونه کارها مقالات جعبه هاردباکس بسته بندی فلکسو ورق سازی سوالات متداول درباره ما تماس با ما کارتن سازی سپیدار محصولات کارتن فلکسو کارتن لمینتی جعبه مقوایی هاردباکس جعبه فانتزی و شکلات نمونه کارها مقالات جعبه هاردباکس بسته بندی فلکسو ورق سازی سوالات متداول در ([کارتن سازی سپیدار | سفارش مستقیم از کارخانه (قیمت عمده)](https://sepidarcarton.com/))
-- OBSERVED — Public page shows public order or contact intake. Snippet: رید کارتن‌های مناسب بسته‌بندی کافی است با مشاوران سپیدار کارتن تماس بگیرید تا لیست کارتن سازی‌های تهران و سراسر ایران را در اختیار شما قرار دهیم. جهت ثبت سفارش شما می‌توانید از طریق سایت یا شماره تلفن مجموعه تماس بگیرید. صنعت کارتن سازی چیست؟ کارتن‌سازی فرآیندی پیچیده و تخصصی است که در آن، ورق‌های مقوایی به اشکال و ابعاد مختلف برش داده شده و به جعبه‌هایی با اندازه‌های گوناگون تبدیل می‌شوند. این فرآیند به منظور ایجاد  ([کارتن سازی سپیدار | سفارش مستقیم از کارخانه (قیمت عمده)](https://sepidarcarton.com/))
-- OBSERVED — Public page shows factory, warehouse or production facility. Snippet: کارتن سازی سپیدار | سفارش مستقیم از کارخانه (قیمت عمده) پرش به محتوا کارتن سازی سپیدار محصولات کارتن فلکسو کارتن لمینتی جعبه مقوایی هاردباکس جعبه فانتزی و شکلات نمونه کارها مقالات جعبه هاردباکس بسته بندی فلکسو ورق سازی سوالات متداول درباره ما تماس با ما کارتن سازی سپیدار محصولات کارتن فلکسو کارتن لمینتی جعبه مقوایی هاردباکس جعبه فانتزی و شکلات نمونه کارها مقالات جعبه هاردباکس بسته بندی فلکسو ورق سازی سوالات متداول در ([کارتن سازی سپیدار | سفارش مستقیم از کارخانه (قیمت عمده)](https://sepidarcarton.com/))
-- OBSERVED — Public page shows after-sales, repair or service operation. Snippet: کارتن سازی سپیدار | سفارش مستقیم از کارخانه (قیمت عمده) پرش به محتوا کارتن سازی سپیدار محصولات کارتن فلکسو کارتن لمینتی جعبه مقوایی هاردباکس جعبه فانتزی و شکلات نمونه کارها مقالات جعبه هاردباکس بسته بندی فلکسو ورق سازی سوالات متداول درباره ما تماس با ما کارتن سازی سپیدار محصولات کارتن فلکسو کارتن لمینتی جعبه مقوایی هاردباکس جعبه فانتزی و شکلات نمونه کارها مقالات جعبه هاردباکس بسته بندی فلکسو ورق سازی سوالات متداول در ([کارتن سازی سپیدار | سفارش مستقیم از کارخانه (قیمت عمده)](https://sepidarcarton.com/))
-- OBSERVED — Public page shows public projects, clients or partners. Snippet: سپیدار | سفارش مستقیم از کارخانه (قیمت عمده) پرش به محتوا کارتن سازی سپیدار محصولات کارتن فلکسو کارتن لمینتی جعبه مقوایی هاردباکس جعبه فانتزی و شکلات نمونه کارها مقالات جعبه هاردباکس بسته بندی فلکسو ورق سازی سوالات متداول درباره ما تماس با ما کارتن سازی سپیدار محصولات کارتن فلکسو کارتن لمینتی جعبه مقوایی هاردباکس جعبه فانتزی و شکلات نمونه کارها مقالات جعبه هاردباکس بسته بندی فلکسو ورق سازی سوالات متداول درباره ما تما ([کارتن سازی سپیدار | سفارش مستقیم از کارخانه (قیمت عمده)](https://sepidarcarton.com/))
-- The public operating surface suggests meaningful activity around manufacturer; scale and buying power remain bounded by the evidence above.
+The public record supports a conversation around **استخراج بریف سفارش و پشتیبانی برآورد**. The attraction is the possibility of a bounded process improvement around فروش، برآورد، پیش‌ازچاپ و برنامه‌ریزی تولید, while leaving the company's core systems and final decisions under human control.
+This is a sales hypothesis, not a claim that the company currently has a known inefficiency.
 
 ## Evidence
 
-- OBSERVED — Public page shows public quotation or RFQ language. Snippet: کارتن سازی سپیدار | سفارش مستقیم از کارخانه (قیمت عمده) پرش به محتوا کارتن سازی سپیدار محصولات کارتن فلکسو کارتن لمینتی جعبه مقوایی هاردباکس جعبه فانتزی و شکلات نمونه کارها مقالات جعبه هاردباکس بسته بندی فلکسو ورق سازی سوالات متداول درباره ما تماس با ما کارتن سازی سپیدار محصولات کارتن فلکسو کارتن لمینتی جعبه مقوایی هاردباکس جعبه فانتزی و شکلات نمونه کارها مقالات جعبه هاردباکس بسته بندی فلکسو ورق سازی سوالات متداول در ([کارتن سازی سپیدار | سفارش مستقیم از کارخانه (قیمت عمده)](https://sepidarcarton.com/))
-- OBSERVED — Public page shows public product/catalog surface. Snippet: کارتن سازی سپیدار | سفارش مستقیم از کارخانه (قیمت عمده) پرش به محتوا کارتن سازی سپیدار محصولات کارتن فلکسو کارتن لمینتی جعبه مقوایی هاردباکس جعبه فانتزی و شکلات نمونه کارها مقالات جعبه هاردباکس بسته بندی فلکسو ورق سازی سوالات متداول درباره ما تماس با ما کارتن سازی سپیدار محصولات کارتن فلکسو کارتن لمینتی جعبه مقوایی هاردباکس جعبه فانتزی و شکلات نمونه کارها مقالات جعبه هاردباکس بسته بندی فلکسو ورق سازی سوالات متداول در ([کارتن سازی سپیدار | سفارش مستقیم از کارخانه (قیمت عمده)](https://sepidarcarton.com/))
-- OBSERVED — Public page shows public order or contact intake. Snippet: رید کارتن‌های مناسب بسته‌بندی کافی است با مشاوران سپیدار کارتن تماس بگیرید تا لیست کارتن سازی‌های تهران و سراسر ایران را در اختیار شما قرار دهیم. جهت ثبت سفارش شما می‌توانید از طریق سایت یا شماره تلفن مجموعه تماس بگیرید. صنعت کارتن سازی چیست؟ کارتن‌سازی فرآیندی پیچیده و تخصصی است که در آن، ورق‌های مقوایی به اشکال و ابعاد مختلف برش داده شده و به جعبه‌هایی با اندازه‌های گوناگون تبدیل می‌شوند. این فرآیند به منظور ایجاد  ([کارتن سازی سپیدار | سفارش مستقیم از کارخانه (قیمت عمده)](https://sepidarcarton.com/))
-- OBSERVED — Public page shows factory, warehouse or production facility. Snippet: کارتن سازی سپیدار | سفارش مستقیم از کارخانه (قیمت عمده) پرش به محتوا کارتن سازی سپیدار محصولات کارتن فلکسو کارتن لمینتی جعبه مقوایی هاردباکس جعبه فانتزی و شکلات نمونه کارها مقالات جعبه هاردباکس بسته بندی فلکسو ورق سازی سوالات متداول درباره ما تماس با ما کارتن سازی سپیدار محصولات کارتن فلکسو کارتن لمینتی جعبه مقوایی هاردباکس جعبه فانتزی و شکلات نمونه کارها مقالات جعبه هاردباکس بسته بندی فلکسو ورق سازی سوالات متداول در ([کارتن سازی سپیدار | سفارش مستقیم از کارخانه (قیمت عمده)](https://sepidarcarton.com/))
-- OBSERVED — Public page shows after-sales, repair or service operation. Snippet: کارتن سازی سپیدار | سفارش مستقیم از کارخانه (قیمت عمده) پرش به محتوا کارتن سازی سپیدار محصولات کارتن فلکسو کارتن لمینتی جعبه مقوایی هاردباکس جعبه فانتزی و شکلات نمونه کارها مقالات جعبه هاردباکس بسته بندی فلکسو ورق سازی سوالات متداول درباره ما تماس با ما کارتن سازی سپیدار محصولات کارتن فلکسو کارتن لمینتی جعبه مقوایی هاردباکس جعبه فانتزی و شکلات نمونه کارها مقالات جعبه هاردباکس بسته بندی فلکسو ورق سازی سوالات متداول در ([کارتن سازی سپیدار | سفارش مستقیم از کارخانه (قیمت عمده)](https://sepidarcarton.com/))
-- OBSERVED — Public page shows public projects, clients or partners. Snippet: سپیدار | سفارش مستقیم از کارخانه (قیمت عمده) پرش به محتوا کارتن سازی سپیدار محصولات کارتن فلکسو کارتن لمینتی جعبه مقوایی هاردباکس جعبه فانتزی و شکلات نمونه کارها مقالات جعبه هاردباکس بسته بندی فلکسو ورق سازی سوالات متداول درباره ما تماس با ما کارتن سازی سپیدار محصولات کارتن فلکسو کارتن لمینتی جعبه مقوایی هاردباکس جعبه فانتزی و شکلات نمونه کارها مقالات جعبه هاردباکس بسته بندی فلکسو ورق سازی سوالات متداول درباره ما تما ([کارتن سازی سپیدار | سفارش مستقیم از کارخانه (قیمت عمده)](https://sepidarcarton.com/))
+- The public page titled 'تماس با ما - کارتن سازی' exposes product/catalog information, a contact or order entry point. — [تماس با ما - کارتن سازی](https://sepidarcarton.com/%d8%aa%d9%85%d8%a7%d8%b3-%d8%a8%d8%a7-%d8%b3%d9%be%db%8c%d8%af%d8%a7%d8%b1/)
+- The public page titled 'کارتن سازی سپیدار | سفارش مستقیم از کارخانه (قیمت عمده)' exposes product/catalog information, a contact or order entry point. — [کارتن سازی سپیدار | سفارش مستقیم از کارخانه (قیمت عمده)](https://sepidarcarton.com/)
+- The public page titled 'درباره ما - کارتن سازی' exposes product/catalog information, projects or client information. — [درباره ما - کارتن سازی](https://sepidarcarton.com/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d8%b3%d9%be%db%8c%d8%af%d8%a7%d8%b1/)
+- The public page titled 'راهنمای جامع بسته‌بندی برای صادرات محصولات - کارتن سازی' exposes product/catalog information, projects or client information. — [راهنمای جامع بسته‌بندی برای صادرات محصولات - کارتن سازی](https://sepidarcarton.com/%d8%b1%d8%a7%d9%87%d9%86%d9%85%d8%a7%db%8c-%d8%ac%d8%a7%d9%85%d8%b9-%d8%a8%d8%b3%d8%aa%d9%87%d8%a8%d9%86%d8%af%db%8c-%d8%a8%d8%b1%d8%a7%db%8c-%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa-%d9%85%d8%ad/)
+- A public employment or employer page associates گروه تولیدی سپیدار کارتن with hiring/activity information. — [فرصت‌های شغلی فعال در سپیدار کارتن | Sepidar Carton | جابینجا](https://jobinja.ir/companies/sepidar-carton/jobs)
 
 ## Likely operational bottleneck
 
-STRONG_INFERENCE — EVIDENCE_SUPPORTED — Public evidence shows public quotation or RFQ language, public product/catalog surface, public order or contact intake; the internal handoff and volume require discovery.
-The public record does not establish that the company currently handles this process manually or inefficiently.
+**Inference to validate:** incoming information may need repeated lookup, structuring or approval before the business team can produce the final output described by **استخراج بریف سفارش و پشتیبانی برآورد**. Public pages establish the customer-facing surface, not the internal handoff, volume or baseline.
 
 ## Recommended LUMA solution
 
-A structured job-brief extractor and similar-job retrieval tool that supports explainable estimating and tracks artwork/specification approvals.
+**استخراج بریف سفارش و پشتیبانی برآورد** — یک ابزار استخراج بریف و بازیابی سفارش‌های مشابه که برآورد قابل توضیح را پشتیبانی می‌کند و تأیید فایل و مشخصات را قابل پیگیری می‌سازد.
 
 ## Why this solution could matter financially
 
-No ROI percentage is invented. Validate the KPI categories: estimate turnaround; revision cycles; estimator throughput; jobs delayed by missing specifications.
+Measure the baseline and pilot change in terms of:
+- زمان برآورد
+- تعداد دور اصلاح
+- خروجی کارشناس برآورد
+- سفارش‌های متوقف به‌دلیل نقص مشخصات
 
-## What we do NOT know
+## What we do not know
 
-- Monthly volume, current handoffs, budget, decision authority, system ownership, data quality and implementation constraints are UNKNOWN.
-- Internal technical capability: `KNOWN_MODERATE_INTERNAL_TECH` — Known moderate business-systems capability; custom delivery ownership remains to be validated.
-- Digital maturity: `KNOWN_HIGH_DIGITAL_MATURITY` — Known high digital surface; outsourcing fit is reduced and internal ownership must be validated.
+- Monthly volume, current handoffs, approval rules and baseline time are not public.
+- The authoritative data owner and integration surface are not public.
+- Budget authority, buying process and timing are not public.
+- Internal software/data capability is not sufficiently established publicly; missing evidence is not treated as evidence of absence.
 
 ## Questions to ask
 
@@ -53,18 +55,32 @@ No ROI percentage is invented. Validate the KPI categories: estimate turnaround;
 3. نسخه نهایی فایل و مشخصات چگونه به تولید تحویل می‌شود؟
 4. چه تعداد استعلام یا سفارش سفارشی در ماه بررسی می‌شود؟
 5. یک نمونه واقعی برای مقایسه زمان برآورد و اصلاحات چیست؟
+6. چه کسی مالک این فرایند و تأیید خروجی نهایی است؟
+7. یک نمونه واقعی و پاک‌سازی‌شده برای مقایسه خط مبنا و پایلوت کدام است؟
+8. اگر پایلوت موفق باشد، گسترش آن به کدام واحد یا قالب بیشترین ارزش را دارد؟
 
 ## Decision maker
 
-- Role: Estimating or Production Director (role status: `ROLE_HYPOTHESIS`).
-- Publicly verified name: UNKNOWN.
-- Source: [public source](https://sepidarcarton.com/); confidence: 0.35.
+- Primary business owner: Estimating / Production Director; public name: Not publicly verified.
+- Economic buyer: Managing Director / CEO; public name: Not publicly verified.
+- Technical gatekeeper: Prepress or Production Planning Manager; public name: Not publicly verified.
 
 ## Contact channels
+- Website: اطلاعات عمومی تأییدشده‌ای یافت نشد
+- Public phone: 02177289390, 02177289391, 02177823172
+- Corporate email: info@sepidarcarton.com
+- Company LinkedIn: [https://www.linkedin.com/company/سپیدار-کارتن/](https://www.linkedin.com/company/سپیدار-کارتن/)
+- Public WhatsApp: [http://wa.me/989122457636](http://wa.me/989122457636)
 
-- Website: UNKNOWN
-- Public corporate phone: 02177289390, 02177289391, 02177823172
-- Public corporate email: info@sepidarcarton.com
+## Pilot and demo
+
+- Pilot: پایلوت تبدیل بریف سفارش به برگه برآورد — گروه تولیدی سپیدار کارتن
+- Scope: یک مسیر محدود و قابل کنترل برای استخراج بریف سفارش و پشتیبانی برآورد با یک قالب ورودی و یک گروه کاربر؛ هسته ERP یا تصمیم نهایی جایگزین نمی‌شود.
+- Users: فروش، برآورد، پیش‌ازچاپ و برنامه‌ریزی تولید
+- Data: بریف مشتری، فایل و مشخصات، سفارش‌های قبلی، قواعد مواد/ماشین و ظرفیت
+- Human approval: تأیید محصول/مقدار/قیمت، تأیید نقص یا استثنا، و انتشار خروجی نهایی نزد کارشناس یا مدیر مربوط باقی می‌ماند.
+- Duration: حدود ۳ تا ۶ هفته کاری پس از تأیید دسترسی، نمونه داده و دامنه پایلوت؛ مدت دقیق در جلسه کشف تعیین می‌شود.
+- Demo: یک بریف واقعیِ پاک‌شده از اطلاعات محرمانه وارد می‌شود؛ ابعاد، جنس، چاپ و نقاط ناقص استخراج، یک سفارش مشابه نشان داده و برگه آماده بررسی تولید می‌شود.
 
 ## Screenshots
 
@@ -72,14 +88,4 @@ No ROI percentage is invented. Validate the KPI categories: estimate turnaround;
 
 ## Sales recommendation
 
-**GO** — READY FOR OUTREACH; the recommendation follows the evidence gate and does not imply verified budget or authority.
-
-## Source links
-
-- [https://avval.ir/directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%DA%A9%D8%A7%D8%B1%D8%AA%D9%86%20%D9%85%D9%82%D9%88%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86](https://avval.ir/directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%DA%A9%D8%A7%D8%B1%D8%AA%D9%86%20%D9%85%D9%82%D9%88%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86)
-- [https://avval.ir/directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D8%AC%D8%B9%D8%A8%D9%87%20%D9%85%D9%82%D9%88%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86](https://avval.ir/directory/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%20%D8%AC%D8%B9%D8%A8%D9%87%20%D9%85%D9%82%D9%88%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86)
-- [https://avval.ir/profile/d3a83/%DA%AF%D8%B1%D9%88%D9%87-%D8%AA%D9%88%D9%84%DB%8C%D8%AF%DB%8C-%D8%B3%D9%BE%DB%8C%D8%AF%D8%A7%D8%B1-%DA%A9%D8%A7%D8%B1%D8%AA%D9%86](https://avval.ir/profile/d3a83/%DA%AF%D8%B1%D9%88%D9%87-%D8%AA%D9%88%D9%84%DB%8C%D8%AF%DB%8C-%D8%B3%D9%BE%DB%8C%D8%AF%D8%A7%D8%B1-%DA%A9%D8%A7%D8%B1%D8%AA%D9%86)
-- [https://sepidarcarton.com/](https://sepidarcarton.com/)
-- [https://sepidarcarton.com/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d8%b3%d9%be%db%8c%d8%af%d8%a7%d8%b1/](https://sepidarcarton.com/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d8%b3%d9%be%db%8c%d8%af%d8%a7%d8%b1/)
-- [https://sepidarcarton.com/%d8%aa%d9%85%d8%a7%d8%b3-%d8%a8%d8%a7-%d8%b3%d9%be%db%8c%d8%af%d8%a7%d8%b1/](https://sepidarcarton.com/%d8%aa%d9%85%d8%a7%d8%b3-%d8%a8%d8%a7-%d8%b3%d9%be%db%8c%d8%af%d8%a7%d8%b1/)
-- [https://sepidarcarton.com/%d8%b1%d8%a7%d9%87%d9%86%d9%85%d8%a7%db%8c-%d8%ac%d8%a7%d9%85%d8%b9-%d8%a8%d8%b3%d8%aa%d9%87%d8%a8%d9%86%d8%af%db%8c-%d8%a8%d8%b1%d8%a7%db%8c-%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa-%d9%85%d8%ad/](https://sepidarcarton.com/%d8%b1%d8%a7%d9%87%d9%86%d9%85%d8%a7%db%8c-%d8%ac%d8%a7%d9%85%d8%b9-%d8%a8%d8%b3%d8%aa%d9%87%d8%a8%d9%86%d8%af%db%8c-%d8%a8%d8%b1%d8%a7%db%8c-%d8%b5%d8%a7%d8%af%d8%b1%d8%a7%d8%aa-%d9%85%d8%ad/)
+**GO** — use the internal brief and outreach draft only after human review. Proposal: `sales/client/ir-teh-37da8ab7a735aff9.md`; outreach draft: `sales/outreach/ir-teh-37da8ab7a735aff9.md`.

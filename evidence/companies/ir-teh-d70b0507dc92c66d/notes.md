@@ -28,3 +28,17 @@ Audit fetch notes:
 - SOURCE_ERROR: https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%A2%D8%B3%D9%81%D8%A7%D9%84%D8%AA+%D8%AA%D9%88%D8%B3%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa: HTTPError: HTTP Error 403: Forbidden
 - SOURCE_ERROR: https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%A2%D8%B3%D9%81%D8%A7%D9%84%D8%AA+%D8%AA%D9%88%D8%B3%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa: HTTPError: HTTP Error 403: Forbidden
 - SOURCE_ERROR: https://asfalt-tous.com/پروژه-ها/: UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-9: ordinal not in range(128)
+
+## Sales activation
+
+Activation version: 2026.09.sales-activation-v1
+
+Captured pages:
+- `companies/ir-teh-d70b0507dc92c66d/pages/sales-f02cdd829f0b022e.txt`
+- `companies/ir-teh-d70b0507dc92c66d/pages/sales-750d623eb03c4b73.txt`
+- `companies/ir-teh-d70b0507dc92c66d/pages/sales-e56c17db9c6921e9.txt`
+- `companies/ir-teh-d70b0507dc92c66d/pages/sales-f0c9cea296dff3f8.txt`
+
+Source families added/confirmed: job_portal, other_public
+Primary workflow classification: STRONG_HYPOTHESIS
+No outreach was sent; no contact form, RFQ, email, WhatsApp or phone call was submitted.

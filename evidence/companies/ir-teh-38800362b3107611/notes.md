@@ -27,3 +27,17 @@ Page captures:
 Audit fetch notes:
 - SOURCE_TIMEOUT: https://html.duckduckgo.com/html/?q=%22%D8%AA%D9%88%D9%84%DB%8C%D8%AF+%D8%A7%D9%86%D9%88%D8%A7%D8%B9+%D8%AC%D8%B9%D8%A8%D9%87+%D9%88+%DA%A9%D8%A7%D8%B1%D8%AA%D9%86+%D8%A8%D9%87%D8%AA%D8%A7%D9%BE%DA%A9%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa: URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>
 - SOURCE_TIMEOUT: https://html.duckduckgo.com/html/?q=%22%D8%AA%D9%88%D9%84%DB%8C%D8%AF+%D8%A7%D9%86%D9%88%D8%A7%D8%B9+%D8%AC%D8%B9%D8%A8%D9%87+%D9%88+%DA%A9%D8%A7%D8%B1%D8%AA%D9%86+%D8%A8%D9%87%D8%AA%D8%A7%D9%BE%DA%A9%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa: URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>
+
+## Sales activation
+
+Activation version: 2026.09.sales-activation-v1
+
+Captured pages:
+- `companies/ir-teh-38800362b3107611/pages/sales-8536fb8c5c8859b8.txt`
+- `companies/ir-teh-38800362b3107611/pages/sales-f898f184845d879c.txt`
+- `companies/ir-teh-38800362b3107611/pages/sales-5d54c9ba4df96896.txt`
+- `companies/ir-teh-38800362b3107611/pages/sales-9a8ceab65c164d99.txt`
+
+Source families added/confirmed: other_public
+Primary workflow classification: EVIDENCE_SUPPORTED
+No outreach was sent; no contact form, RFQ, email, WhatsApp or phone call was submitted.

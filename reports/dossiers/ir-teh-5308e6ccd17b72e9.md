@@ -1,70 +1,82 @@
 # شرکت بازرگانی علیزاده نیک
 
+Dossier rank: 29 | First-contact score: 57/100 | Wave: WAVE 3
+This is an internal sales preparation document. No outreach has been sent.
+
 ## Snapshot
 
-- Corrected classification: `logistics_freight_customs` / `customs_broker`.
-- Public description: شرکت بازرگانی علیزاده نیک(بازرگانی نیک) صادرات و واردات کالا ترخیص کالا از تمام گمرکات کشور بازاریابی و خدمات فروش بین المللی ثبت فرانچایز و توسعه کسب و کار در کانادا (ت
+- What the company publicly presents: شرکت بازرگانی علیزاده نیک(بازرگانی نیک) صادرات و واردات کالا ترخیص کالا از تمام گمرکات کشور بازاریابی و خدمات فروش بین المللی ثبت فرانچایز و توسعه کسب و کار در کانادا (ت
+- Corrected classification: `logistics_freight_customs` / `customs_broker`; B2B signal: `['B2B_candidate']`
 - Location: تهران، منطقه 6، محله کشاورز، میدان جهاد (فاطمی)، کوچه غزالی، پلاک 8، واحد 2
-- Revised score: 81; confidence-adjusted: 67.9; tier: A
-- Commercial evidence strength: 72/100; score confidence: 73/100; independent source families: 2
+- Public website: اطلاعات عمومی تأییدشده‌ای یافت نشد
+- Commercial evidence strength: 72
+- Independent source families counted: 2 — book_e_avval, company_website:alizadehnik.ir
 
 ## Why it is commercially interesting
 
-- OBSERVED — Public page shows public product/catalog surface. Snippet: لعه: < 1 دقیقه پیام مدیر عامل شرکت سهامی علیزاده نیک پایتخت پیام مدیر عامل شرکت سهامی علیزاده نیک پایتخت تلفیقی است از دانش، تخصص، تجربه، جهت ارائه ی محصولات با کیفیت و خدمات مناسب به مشتریان. ما بر این باوریم که توسعه ی شرکت جز با اتکا به منابع انسانی توانمند و متخصص، تحقق نخواهد یافت.در همین راستا ... < 1 دقیقه نویسنده : بازرگانی علیزاده 4 ادامه مقاله ساماندهی صادرات شمش فولادی به روش القایی زمان مطالعه: 3 دقیقه پی ([صفحه اصلی - بازرگانی علیزاده نیک پایتخت شرکت بازرگانی علیزاده نیک پایتخت](http://alizadehnik.ir))
-- OBSERVED — Public page shows public order or contact intake. Snippet: ایشگاه های کشورمبنی برشرکت درنمایشگاه و سپردن تضمین برای کالاهای نمایشگاهی امکان پذیراست. شرایط ورود اتومبیل باری خارجی‌ واردات خودرو به کشور منوط به ثبت سفارش، رعایت ضوابط فنی و پرداخت کامل حقوق ورودی برای تمامی افراد است. ترخیص کالاهای خریداری شده از طریق بانک برای ورود کالا باید ثبت سفارش بازرگانی شده باشد، به جز موارد معدود و اگر بدون ارز یا در مقابل صادرات، واردات انجام شده باشد نیاز به گشایش اعتبار نیست.در غیر  ([صفحه اصلی - بازرگانی علیزاده نیک پایتخت شرکت بازرگانی علیزاده نیک پایتخت](http://alizadehnik.ir))
-- OBSERVED — Public page shows branches, representatives or dealer network. Snippet: نوان تامین کننده پروژه های متعدد در حوزه های گوناگون به سرانجام رساند ، همواره دغدغه مدیران توسعه فعالیت های بازرگانی علیزاده بوده لذا اقدام به تاسیس شعبه در خارج از کشور در دستور کار قرار گرفت . از سال 2020 بغیر از دفتر مرکزی خدمات دفتر استانبول بصورت برون مرزی در حال انجام است خرید کالا خرید کلیه کالاها شما از کشور چین ، هند و آلمان و ترکیه تشریفات گمرکی خرید کلیه کالاها شما از کشور آلمان ،ترکیه ، چین ، هند و آفریق ([صفحه اصلی - بازرگانی علیزاده نیک پایتخت شرکت بازرگانی علیزاده نیک پایتخت](http://alizadehnik.ir))
-- OBSERVED — Public page shows public projects, clients or partners. Snippet: را به ارمغان آورده است. شرکت بازرگانی علیزاده نیک از ابتدا در دوبخش الکترونیک و پلیمر فعالیت خود را آغاز نمود .در ادامه فعالیت خود بعنوان تامین کننده پروژه های متعدد در حوزه های گوناگون به سرانجام رساند ، همواره دغدغه مدیران توسعه فعالیت های بازرگانی علیزاده بوده لذا اقدام به تاسیس شعبه در خارج از کشور در دستور کار قرار گرفت . از سال 2020 بغیر از دفتر مرکزی خدمات دفتر استانبول بصورت برون مرزی در حال انجام است خرید کا ([صفحه اصلی - بازرگانی علیزاده نیک پایتخت شرکت بازرگانی علیزاده نیک پایتخت](http://alizadehnik.ir))
-- OBSERVED — Public page shows expansion, export, founding or current activity signal. Snippet: صفحه اصلی - بازرگانی علیزاده نیک پایتخت شرکت بازرگانی علیزاده نیک پایتخت منو موبایل ارتباط با ما 092122226666 دسترسی سریع گمرک درخواست مشاوره رهگیری سفارش صفحه اصلی فروشگاه صادرات چین گمرک صادرات واردات کالاهای تخصصی درباره ما تماس با ما Skip to content شرکت بازرگانی علیزاده نیک پایتخت (سهامی خاص ) تاسیس 1388 ارتباط با ما 88926390 دسترسی سریع گمرک درخواست مشاوره رهگیری سفارش صفحه اصلی فروشگاه صادرات چین گمرک صادرات و ([صفحه اصلی - بازرگانی علیزاده نیک پایتخت شرکت بازرگانی علیزاده نیک پایتخت](http://alizadehnik.ir))
-- OBSERVED — Public source lists the company name and the quoted business/activity context. Snippet: شرکت بازرگانی علیزاده نیک(بازرگانی نیک) صادرات و واردات کالا ترخیص کالا از تمام گمرکات کشور بازاریابی و خدمات فروش بین المللی ثبت فرانچایز و توسعه کسب و کار در کانادا (ت ([شرکت بازرگانی در تهران | کتاب اول](https://avval.ir/directory/%D8%B4%D8%B1%DA%A9%D8%AA%20%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86))
-- The public operating surface suggests meaningful activity around customs_broker; scale and buying power remain bounded by the evidence above.
+The public record supports a conversation around **دریافت اسناد حمل و پیگیری نقص پرونده**. The attraction is the possibility of a bounded process improvement around عملیات، ترخیص/کنترل اسناد و خدمات مشتری, while leaving the company's core systems and final decisions under human control.
+This is a sales hypothesis, not a claim that the company currently has a known inefficiency.
 
 ## Evidence
 
-- OBSERVED — Public page shows public product/catalog surface. Snippet: لعه: < 1 دقیقه پیام مدیر عامل شرکت سهامی علیزاده نیک پایتخت پیام مدیر عامل شرکت سهامی علیزاده نیک پایتخت تلفیقی است از دانش، تخصص، تجربه، جهت ارائه ی محصولات با کیفیت و خدمات مناسب به مشتریان. ما بر این باوریم که توسعه ی شرکت جز با اتکا به منابع انسانی توانمند و متخصص، تحقق نخواهد یافت.در همین راستا ... < 1 دقیقه نویسنده : بازرگانی علیزاده 4 ادامه مقاله ساماندهی صادرات شمش فولادی به روش القایی زمان مطالعه: 3 دقیقه پی ([صفحه اصلی - بازرگانی علیزاده نیک پایتخت شرکت بازرگانی علیزاده نیک پایتخت](http://alizadehnik.ir))
-- OBSERVED — Public page shows public order or contact intake. Snippet: ایشگاه های کشورمبنی برشرکت درنمایشگاه و سپردن تضمین برای کالاهای نمایشگاهی امکان پذیراست. شرایط ورود اتومبیل باری خارجی‌ واردات خودرو به کشور منوط به ثبت سفارش، رعایت ضوابط فنی و پرداخت کامل حقوق ورودی برای تمامی افراد است. ترخیص کالاهای خریداری شده از طریق بانک برای ورود کالا باید ثبت سفارش بازرگانی شده باشد، به جز موارد معدود و اگر بدون ارز یا در مقابل صادرات، واردات انجام شده باشد نیاز به گشایش اعتبار نیست.در غیر  ([صفحه اصلی - بازرگانی علیزاده نیک پایتخت شرکت بازرگانی علیزاده نیک پایتخت](http://alizadehnik.ir))
-- OBSERVED — Public page shows branches, representatives or dealer network. Snippet: نوان تامین کننده پروژه های متعدد در حوزه های گوناگون به سرانجام رساند ، همواره دغدغه مدیران توسعه فعالیت های بازرگانی علیزاده بوده لذا اقدام به تاسیس شعبه در خارج از کشور در دستور کار قرار گرفت . از سال 2020 بغیر از دفتر مرکزی خدمات دفتر استانبول بصورت برون مرزی در حال انجام است خرید کالا خرید کلیه کالاها شما از کشور چین ، هند و آلمان و ترکیه تشریفات گمرکی خرید کلیه کالاها شما از کشور آلمان ،ترکیه ، چین ، هند و آفریق ([صفحه اصلی - بازرگانی علیزاده نیک پایتخت شرکت بازرگانی علیزاده نیک پایتخت](http://alizadehnik.ir))
-- OBSERVED — Public page shows public projects, clients or partners. Snippet: را به ارمغان آورده است. شرکت بازرگانی علیزاده نیک از ابتدا در دوبخش الکترونیک و پلیمر فعالیت خود را آغاز نمود .در ادامه فعالیت خود بعنوان تامین کننده پروژه های متعدد در حوزه های گوناگون به سرانجام رساند ، همواره دغدغه مدیران توسعه فعالیت های بازرگانی علیزاده بوده لذا اقدام به تاسیس شعبه در خارج از کشور در دستور کار قرار گرفت . از سال 2020 بغیر از دفتر مرکزی خدمات دفتر استانبول بصورت برون مرزی در حال انجام است خرید کا ([صفحه اصلی - بازرگانی علیزاده نیک پایتخت شرکت بازرگانی علیزاده نیک پایتخت](http://alizadehnik.ir))
-- OBSERVED — Public page shows expansion, export, founding or current activity signal. Snippet: صفحه اصلی - بازرگانی علیزاده نیک پایتخت شرکت بازرگانی علیزاده نیک پایتخت منو موبایل ارتباط با ما 092122226666 دسترسی سریع گمرک درخواست مشاوره رهگیری سفارش صفحه اصلی فروشگاه صادرات چین گمرک صادرات واردات کالاهای تخصصی درباره ما تماس با ما Skip to content شرکت بازرگانی علیزاده نیک پایتخت (سهامی خاص ) تاسیس 1388 ارتباط با ما 88926390 دسترسی سریع گمرک درخواست مشاوره رهگیری سفارش صفحه اصلی فروشگاه صادرات چین گمرک صادرات و ([صفحه اصلی - بازرگانی علیزاده نیک پایتخت شرکت بازرگانی علیزاده نیک پایتخت](http://alizadehnik.ir))
-- OBSERVED — Public source lists the company name and the quoted business/activity context. Snippet: شرکت بازرگانی علیزاده نیک(بازرگانی نیک) صادرات و واردات کالا ترخیص کالا از تمام گمرکات کشور بازاریابی و خدمات فروش بین المللی ثبت فرانچایز و توسعه کسب و کار در کانادا (ت ([شرکت بازرگانی در تهران | کتاب اول](https://avval.ir/directory/%D8%B4%D8%B1%DA%A9%D8%AA%20%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86))
+- The public page titled 'صفحه اصلی - بازرگانی علیزاده نیک پایتخت شرکت بازرگانی علیزاده نیک پایتخت' exposes product/catalog information, a contact or order entry point. — [صفحه اصلی - بازرگانی علیزاده نیک پایتخت شرکت بازرگانی علیزاده نیک پایتخت](http://alizadehnik.ir)
 
 ## Likely operational bottleneck
 
-STRONG_INFERENCE — EVIDENCE_SUPPORTED — Public evidence shows public product/catalog surface, public order or contact intake, public projects, clients or partners; the internal handoff and volume require discovery.
-The public record does not establish that the company currently handles this process manually or inefficiently.
+**Inference to validate:** incoming information may need repeated lookup, structuring or approval before the business team can produce the final output described by **دریافت اسناد حمل و پیگیری نقص پرونده**. Public pages establish the customer-facing surface, not the internal handoff, volume or baseline.
 
 ## Recommended LUMA solution
 
-A document intake layer that extracts shipment and customs fields, checks missing items and routes exceptions to the responsible operator for approval.
+**دریافت اسناد حمل و پیگیری نقص پرونده** — یک لایه دریافت اسناد که اطلاعات پرونده حمل را ساختاریافته می‌کند، چک‌لیست کامل‌بودن را بررسی می‌کند و موارد ناقص را برای تأیید به مسئول مربوط ارجاع می‌دهد.
 
 ## Why this solution could matter financially
 
-No ROI percentage is invented. Validate the KPI categories: document completeness; exception closure time; manual re-keying; shipment-status response time.
+Measure the baseline and pilot change in terms of:
+- کامل‌بودن پرونده
+- زمان بستن نقص
+- ورود دوباره اطلاعات
+- زمان پاسخ‌گویی وضعیت محموله
 
-## What we do NOT know
+## What we do not know
 
-- Monthly volume, current handoffs, budget, decision authority, system ownership, data quality and implementation constraints are UNKNOWN.
-- Internal technical capability: `UNKNOWN_INTERNAL_TECH` — UNKNOWN — lack of public evidence is not treated as known low internal capability.
-- Digital maturity: `KNOWN_MODERATE_DIGITAL_MATURITY` — Known moderate/fragmented public digital surface; validate internal handoffs and system ownership.
+- Monthly volume, current handoffs, approval rules and baseline time are not public.
+- The authoritative data owner and integration surface are not public.
+- Budget authority, buying process and timing are not public.
+- Internal software/data capability is not sufficiently established publicly; missing evidence is not treated as evidence of absence.
 
 ## Questions to ask
 
 1. کدام اسناد حمل و ترخیص بیشترین حجم ورود و کنترل را دارند؟
-2. چطور نقص مدارک یا تأخیر هر پرونده به مسئول آن ارجاع می‌شود؟
-3. کدام داده‌ها در ایمیل، اکسل یا سامانه‌های مختلف تکراراً وارد می‌شوند؟
+2. نقص هر پرونده چگونه به مسئول آن ارجاع و تا بسته‌شدن پیگیری می‌شود؟
+3. کدام داده‌ها بین ایمیل، اکسل و سامانه‌های مختلف دوباره وارد می‌شوند؟
 4. چه نقاطی نیازمند تأیید کارشناس گمرک یا مدیر عملیات هستند؟
-5. برای شروع پایلوت، کدام مسیر یا نوع محموله کم‌ریسک‌تر است؟
+5. برای شروع، کدام نوع محموله یا مسیر کم‌ریسک‌تر است؟
+6. چه کسی مالک این فرایند و تأیید خروجی نهایی است؟
+7. یک نمونه واقعی و پاک‌سازی‌شده برای مقایسه خط مبنا و پایلوت کدام است؟
+8. اگر پایلوت موفق باشد، گسترش آن به کدام واحد یا قالب بیشترین ارزش را دارد؟
 
 ## Decision maker
 
-- Role: Operations Director (role status: `ROLE_HYPOTHESIS`).
-- Publicly verified name: UNKNOWN.
-- Source: [public source](http://alizadehnik.ir); confidence: 0.35.
+- Primary business owner: Operations Director / Customs Manager; public name: Not publicly verified.
+- Economic buyer: Managing Director / CEO; public name: Not publicly verified.
+- Technical gatekeeper: Compliance or Operations Systems Lead; public name: Not publicly verified.
 
 ## Contact channels
+- Website: اطلاعات عمومی تأییدشده‌ای یافت نشد
+- Public phone: 02188926390
+- Corporate email: Not preserved
+- Company LinkedIn: اطلاعات عمومی تأییدشده‌ای یافت نشد
+- Public WhatsApp: Not explicitly published
 
-- Website: UNKNOWN
-- Public corporate phone: 02188926390
-- Public corporate email: s.alizadehnik@gmai.com
+## Pilot and demo
+
+- Pilot: پایلوت کنترل کامل‌بودن پرونده‌های حمل — شرکت بازرگانی علیزاده نیک
+- Scope: یک مسیر محدود و قابل کنترل برای دریافت اسناد حمل و پیگیری نقص پرونده با یک قالب ورودی و یک گروه کاربر؛ هسته ERP یا تصمیم نهایی جایگزین نمی‌شود.
+- Users: عملیات، ترخیص/کنترل اسناد و خدمات مشتری
+- Data: بارنامه، فاکتور، پکینگ‌لیست، اسناد گمرکی، نقاط پیشرفت و دستورهای مشتری
+- Human approval: تأیید محصول/مقدار/قیمت، تأیید نقص یا استثنا، و انتشار خروجی نهایی نزد کارشناس یا مدیر مربوط باقی می‌ماند.
+- Duration: حدود ۳ تا ۶ هفته کاری پس از تأیید دسترسی، نمونه داده و دامنه پایلوت؛ مدت دقیق در جلسه کشف تعیین می‌شود.
+- Demo: دو سند نمونه بارگذاری می‌شود؛ فیلدهای اصلی استخراج، موارد جاافتاده مشخص، و یک چک‌لیست قابل پیگیری برای کارشناس عملیات ساخته می‌شود.
 
 ## Screenshots
 
@@ -72,10 +84,4 @@ No ROI percentage is invented. Validate the KPI categories: document completenes
 
 ## Sales recommendation
 
-**GO** — READY FOR OUTREACH; the recommendation follows the evidence gate and does not imply verified budget or authority.
-
-## Source links
-
-- [https://avval.ir/directory/%D8%B4%D8%B1%DA%A9%D8%AA%20%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86](https://avval.ir/directory/%D8%B4%D8%B1%DA%A9%D8%AA%20%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86)
-- [http://alizadehnik.ir](http://alizadehnik.ir)
-- [https://avval.ir/profile/ae2qg/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%B9%D9%84%DB%8C%D8%B2%D8%A7%D8%AF%D9%87-%D9%86%DB%8C%DA%A9](https://avval.ir/profile/ae2qg/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%B9%D9%84%DB%8C%D8%B2%D8%A7%D8%AF%D9%87-%D9%86%DB%8C%DA%A9)
+**DISCOVERY FIRST** — use the internal brief and outreach draft only after human review. Proposal: `sales/client/ir-teh-5308e6ccd17b72e9.md`; outreach draft: `sales/outreach/ir-teh-5308e6ccd17b72e9.md`.

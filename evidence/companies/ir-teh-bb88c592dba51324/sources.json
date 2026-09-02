@@ -29,14 +29,332 @@
       "error": "HTTPError: HTTP Error 403: Forbidden",
       "stage": "search_query",
       "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D9%BE%DB%8C%D8%B4%D8%B1%D9%88+%D8%B5%D9%86%D8%B9%D8%AA+%D9%88%D8%B1%D8%A7+%D9%BE%D8%A7%D8%B1%D8%B3%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "InvalidURL: URL can't contain control characters. '/share?url=avval.ir/profile/wlmgr/%D8%B4%D8%B1%DA%A9%D8%AA-%D9%BE%DB%8C%D8%B4%D8%B1%D9%88-%D8%B5%D9%86%D8%B9%D8%AA-%D9%88%D8%B1%D8%A7-%D9%BE%D8%A7%D8%B1%D8%B3&text=شرکت پیشرو صنعت ورا پارس' (found at least ' ')",
+      "stage": "official_page",
+      "url": "https://twitter.com/share?url=avval.ir/profile/wlmgr/%D8%B4%D8%B1%DA%A9%D8%AA-%D9%BE%DB%8C%D8%B4%D8%B1%D9%88-%D8%B5%D9%86%D8%B9%D8%AA-%D9%88%D8%B1%D8%A7-%D9%BE%D8%A7%D8%B1%D8%B3&text=شرکت پیشرو صنعت ورا پارس"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "official_page",
+      "url": "https://twitter.com/ketabeavvalir"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 500: ",
+      "stage": "official_page",
+      "url": "https://trustseal.enamad.ir/?id=194990&Code=3Y0m3d1djm9fuqjoC8mT"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "official_page",
+      "url": "https://api.whatsapp.com/send?text=avval.ir/profile/wlmgr/%D8%B4%D8%B1%DA%A9%D8%AA-%D9%BE%DB%8C%D8%B4%D8%B1%D9%88-%D8%B5%D9%86%D8%B9%D8%AA-%D9%88%D8%B1%D8%A7-%D9%BE%D8%A7%D8%B1%D8%B3"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D9%BE%DB%8C%D8%B4%D8%B1%D9%88+%D8%B5%D9%86%D8%B9%D8%AA+%D9%88%D8%B1%D8%A7+%D9%BE%D8%A7%D8%B1%D8%B3%22+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D9%BE%DB%8C%D8%B4%D8%B1%D9%88+%D8%B5%D9%86%D8%B9%D8%AA+%D9%88%D8%B1%D8%A7+%D9%BE%D8%A7%D8%B1%D8%B3%22+%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+%D9%81%D8%B1%D8%B5%D8%AA+%D8%B4%D8%BA%D9%84%DB%8C&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D9%BE%DB%8C%D8%B4%D8%B1%D9%88+%D8%B5%D9%86%D8%B9%D8%AA+%D9%88%D8%B1%D8%A7+%D9%BE%D8%A7%D8%B1%D8%B3%22+%D9%86%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87+%D8%A7%D9%86%D8%AC%D9%85%D9%86+%D8%B9%D8%B6%D9%88&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D9%BE%DB%8C%D8%B4%D8%B1%D9%88+%D8%B5%D9%86%D8%B9%D8%AA+%D9%88%D8%B1%D8%A7+%D9%BE%D8%A7%D8%B1%D8%B3%22+%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87+%D9%BE%D8%B1%D9%88%DA%98%D9%87+BOQ+%D9%85%D8%B4%D8%AE%D8%B5%D8%A7%D8%AA+%D9%81%D9%86%DB%8C&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D9%BE%DB%8C%D8%B4%D8%B1%D9%88+%D8%B5%D9%86%D8%B9%D8%AA+%D9%88%D8%B1%D8%A7+%D9%BE%D8%A7%D8%B1%D8%B3%22+%22api.whatsapp.com%22+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 999: Request denied",
+      "stage": "external_page",
+      "url": "https://tr.linkedin.com/in/alireza-mahpour/tr"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 34-49: ordinal not in range(128)",
+      "stage": "external_page",
+      "url": "https://www.linkedin.com/posts/pishro-sanat-vara-pars_پیشروصنعتوراپارس-راهکارهایمهندسی-تامینتجهیزات-activity-7471248264726560768-oFG7"
     }
   ],
-  "generated_at": "2026-09-01T15:27:12Z",
+  "generated_at": "2026-09-02T06:51:44Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
     "proxy": "http://127.0.0.1:1087",
     "visible_browser_launched": false
+  },
+  "sales_activation": {
+    "captured_page_paths": [
+      "companies/ir-teh-bb88c592dba51324/pages/sales-2fb0ce806c83c458.txt",
+      "companies/ir-teh-bb88c592dba51324/pages/sales-96bf5c6a1b40766b.txt",
+      "companies/ir-teh-bb88c592dba51324/pages/sales-c3ee0022bedf05bb.txt",
+      "companies/ir-teh-bb88c592dba51324/pages/sales-0d0cbf6d5801e575.txt"
+    ],
+    "contacts": {
+      "decision_maker_direct_candidates": [],
+      "decision_maker_search_candidates": [
+        {
+          "confidence": 0.35,
+          "direct": false,
+          "evidence": "یشرو_صنعت_ورا پیشرو صنعت ورا پارس - بلینک Sep 9, 2025 · مشاوران علیرضا مه پور عنوان شغلی: مدیر عامل نوع شغل: تمام وقت تاریخ شروع: شهریور 1404",
+          "field": "economic_buyer",
+          "name": "نوع شغل",
+          "role": "مدیر عامل",
+          "source_family": "other_public",
+          "source_title": "بلینک https://belink.ir › company › پیشرو_صنعت_ورا پیشرو صنعت ورا پارس - بلینک",
+          "source_url": "https://belink.ir/company/پیشرو_صنعت_ورا_پارس"
+        },
+        {
+          "confidence": 0.35,
+          "direct": false,
+          "evidence": "اخبار جدید https://akhbarejadid.com › 796228 › سید-مرتضی سید مرتضی منتظرالمهدی، مدیر عامل پارس خودرو کیست؟ - اخبار جدید Aug 25, 2026 · اقتصاد ۲۴- شرکت پارس خودرو در روز‌های اخیر شاهد تغییر در رأس",
+          "field": "economic_buyer",
+          "name": "پارس خودرو کیست؟",
+          "role": "مدیر عامل",
+          "source_family": "other_public",
+          "source_title": "اخبار جدید https://akhbarejadid.com › 796228 › سید-مرتضی سید مرتضی منتظرالمهدی، مدیر عامل پارس خودرو کیست؟ - اخبار جدید",
+          "source_url": "https://akhbarejadid.com/796228/سید-مرتضی-منتظرالمهدی،-مدیر-عامل-پارس/"
+        },
+        {
+          "confidence": 0.35,
+          "direct": false,
+          "evidence": "اخبار جدید https://akhbarejadid.com › 796228 › سید-مرتضی سید مرتضی منتظرالمهدی، مدیر عامل پارس خودرو کیست؟ - اخبار جدید Aug 25, 2026 · اقتصاد ۲۴- شرکت پارس خودرو در روز‌های اخیر ش",
+          "field": "economic_buyer",
+          "name": "مرتضی سید مرتضی منتظرالمهدی",
+          "role": "مدیر عامل",
+          "source_family": "other_public",
+          "source_title": "اخبار جدید https://akhbarejadid.com › 796228 › سید-مرتضی سید مرتضی منتظرالمهدی، مدیر عامل پارس خودرو کیست؟ - اخبار جدید",
+          "source_url": "https://akhbarejadid.com/796228/سید-مرتضی-منتظرالمهدی،-مدیر-عامل-پارس/"
+        },
+        {
+          "confidence": 0.35,
+          "direct": false,
+          "evidence": "belink.ir › company › پیشرو_صنعت_ورا پیشرو صنعت ورا پارس - بلینک Sep 9, 2025 · نوع عضویت: رئیس هیئت مدیره تاریخ شروع: شهریور 1404 حدیث السادات میرزاباقری نوع عضویت: عضو هیئت مدیره تاریخ شروع: شهریور 1404 عل",
+          "field": "economic_buyer",
+          "name": "تاریخ شروع",
+          "role": "رئیس هیئت مدیره",
+          "source_family": "other_public",
+          "source_title": "بلینک https://belink.ir › company › پیشرو_صنعت_ورا پیشرو صنعت ورا پارس - بلینک",
+          "source_url": "https://belink.ir/company/پیشرو_صنعت_ورا_پارس"
+        }
+      ],
+      "economic_buyer_confidence": 0.0,
+      "economic_buyer_name": null,
+      "economic_buyer_role": "Managing Director / CEO",
+      "economic_buyer_source_url": null,
+      "primary_contact_confidence": 0.0,
+      "primary_contact_name": null,
+      "primary_contact_role": "Technical Office / Project Sales Director",
+      "primary_contact_source_url": null,
+      "public_corporate_emails": [
+        "info@varapars.com"
+      ],
+      "public_corporate_phones": [
+        "02128428840"
+      ],
+      "public_linkedin_company": null,
+      "public_whatsapp": "https://api.whatsapp.com/send?phone=989928822040",
+      "technical_gatekeeper_confidence": 0.0,
+      "technical_gatekeeper_name": null,
+      "technical_gatekeeper_role": "Project Controls or Engineering Manager",
+      "technical_gatekeeper_source_url": null
+    },
+    "no_outreach_sent": true,
+    "public_journey": {
+      "entry_points": [
+        "public product/service information or catalog",
+        "public project/client information",
+        "public service/maintenance information"
+      ],
+      "evidence": [
+        {
+          "claim": "The public page titled 'راهکارهای مهندسی و تامین در صنایع انرژی | پیشرو صنعت ورا پارس' exposes product/catalog information, a contact or order entry point.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "محتوا پیشرو صنعت ورا پارس خانه ورا پارس درباره ما چشم انداز بیانیه ماموریت مسئولیت اجتماعی ارزش های اخلاقی اخبار سوابق پروژه‌ای خدمات تماس با ما خانه ورا پارس درباره ما چشم انداز بیانیه ماموریت مسئولیت اجتماعی ارزش های اخلاقی اخبار سوابق پروژه‌ای خدمات تماس با ما FA EN جستجو جستجو تماس با ما خانه پروژه ها خدمات تماس با ما درباره ما FA EN شرکت پیشرو صنعت ورا پارس راهکارهای مهندسی و تامین در صنایع انرژی خدمات ما پشتیبانی فنی و تجاری پروژه‌ها پشتوانه ۲۸ سال تجربه صنعتی شبکه تأمین داخلی و بین‌المللی رویکرد مهندسی محور دربــاره مـا شرکت پیشرو صـنعـت ورا پـارس بـا باور بـه شـعار «فراتر از تأمین، به سوی راه‌حل»، فـعالیـت خود را فراتر از یک تأمین‌کنن",
+          "source_family": "other_public",
+          "source_title": "راهکارهای مهندسی و تامین در صنایع انرژی | پیشرو صنعت ورا پارس",
+          "source_url": "https://varapars.com/"
+        },
+        {
+          "claim": "The public page titled 'درباره ما - پیشرو صنعت ورا پارس' exposes service or maintenance information, projects or client information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "محتوا پیشرو صنعت ورا پارس خانه ورا پارس درباره ما چشم انداز بیانیه ماموریت مسئولیت اجتماعی ارزش های اخلاقی اخبار سوابق پروژه‌ای خدمات تماس با ما خانه ورا پارس درباره ما چشم انداز بیانیه ماموریت مسئولیت اجتماعی ارزش های اخلاقی اخبار سوابق پروژه‌ای خدمات تماس با ما FA EN جستجو جستجو تماس با ما خانه پروژه ها خدمات تماس با ما درباره ما FA EN کیفیت و رضایت مشتریان دستور کار ماست... شرکت پیشرو صـنعـت ورا پـارس بـا باور بـه شـعار «فراتر از تأمین به سوی راه‌حل»، فـعالیـت خود را فراتر از یک تأمین‌کننده صرف تعریف کرده است. ما با ترکیب تجربه مهندسی، شبکه گسترده زنجیره تأمین و نگاه راهکارمحور، در کنار مشتریان خود می‌ایستیم تا بهترین نتایج برای پروژه‌های ",
+          "source_family": "other_public",
+          "source_title": "درباره ما - پیشرو صنعت ورا پارس",
+          "source_url": "https://varapars.com/about-us/"
+        },
+        {
+          "claim": "The public page titled 'پروژه های تأمین تجهیزات صنعتی - پیشرو صنعت ورا پارس' exposes projects or client information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "پروژه های تأمین تجهیزات صنعتی - پیشرو صنعت ورا پارس پرش به محتوا پیشرو صنعت ورا پارس خانه ورا پارس درباره ما چشم انداز بیانیه ماموریت مسئولیت اجتماعی ارزش های اخلاقی اخبار سوابق پروژه‌ای خدمات تماس با ما خانه ورا پارس درباره ما چشم انداز بیانیه ماموریت مسئولیت اجتماعی ارزش های اخلاقی اخبار سوابق پروژه‌ای خدمات تماس با ما FA EN جستجو جستجو تماس با ما خانه پروژه ها خدمات تماس با ما درباره ما FA EN سوابق پروژه ای پیشرو صنعت ورا پارس شرکتی تازه تاسیس با پشتوانه بیش از ۲۸ سال تجربه صنعتی، مهندسی و مدیریت پروژه است. موارد ارائه‌شده در این بخش، منتخبی از پروژه‌ها و فعالیت‌هایی هستند که مدیران و اعضای تیم شرکت در سوابق حرفه‌ای پیشین خود، در طراحی، مد",
+          "source_family": "other_public",
+          "source_title": "پروژه های تأمین تجهیزات صنعتی - پیشرو صنعت ورا پارس",
+          "source_url": "https://varapars.com/projects/"
+        },
+        {
+          "claim": "The public page titled 'تأمین تجهیزات صنعتی - پیشرو صنعت ورا پارس' exposes service or maintenance information, projects or client information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "و پشتیبانی زنجیره تأمین پروژه‌های صنعتی است. در بسیاری از پروژه‌های صنعتی، انتخاب صحیح تجهیزات اهمیت زیادی دارد. کیفیت، مشخصات فنی، استانداردهای ساخت، شرایط بهره‌برداری، زمان تحویل و قابلیت اطمینان سازنده، همگی بر موفقیت پروژه تأثیر می‌گذارند. ما با رویکرد مهندسی‌محور، این عوامل را بررسی می‌کنیم و تلاش می‌کنیم گزینه‌های مناسب‌تری را برای مشتریان شناسایی و معرفی کنیم. تأمین تجهیزات صنعتی با رویکرد فنی تأمین تجهیزات صنعتی تنها به دریافت پیشنهاد قیمت و خرید کالا محدود نیست. در بسیاری از موارد، لازم است مشخصات فنی تجهیز بررسی شود، مدارک سازنده ارزیابی شود، انطباق کالا با نیاز پروژه کنترل شود و شرایط فنی و تجاری پیشنهادها مقایسه گردد. پیشرو صنعت و",
+          "source_family": "other_public",
+          "source_title": "تأمین تجهیزات صنعتی - پیشرو صنعت ورا پارس",
+          "source_url": "https://varapars.com/services/"
+        }
+      ],
+      "intake_channels": [
+        "website contact or inquiry surface",
+        "published corporate email",
+        "published corporate phone",
+        "explicitly published WhatsApp business link"
+      ],
+      "observable_steps": [
+        "Customer reaches شرکت پیشرو صنعت ورا پارس through public product/service information or catalog, public project/client information, public service/maintenance information.",
+        "Customer uses website contact or inquiry surface, published corporate email, published corporate phone, explicitly published WhatsApp business link to ask for information or service.",
+        "technical/commercial team reviews a project request; the public record does not expose the internal handoffs or approval rules.",
+        "A discovery meeting should validate volume, data sources, ownership and the smallest safe pilot."
+      ],
+      "observable_steps_fa": [
+        "مشتری از طریق public product/service information or catalog، public project/client information، public service/maintenance information به شرکت پیشرو صنعت ورا پارس می‌رسد.",
+        "مشتری از website contact or inquiry surface، published corporate email، published corporate phone، explicitly published WhatsApp business link برای دریافت اطلاعات یا خدمت استفاده می‌کند.",
+        "technical/commercial team reviews a project request؛ مراحل داخلی و قواعد تأیید از منابع عمومی قابل مشاهده نیست.",
+        "در جلسه کشف، حجم، منابع داده، مالک فرایند و کوچک‌ترین پایلوت امن اعتبارسنجی شود."
+      ]
+    },
+    "source_families_added": [
+      "other_public"
+    ],
+    "version": "2026.09.sales-activation-v1",
+    "workflow": {
+      "activation_evidence_classification": "EVIDENCE_SUPPORTED",
+      "company_id": "ir-teh-bb88c592dba51324",
+      "confidence": "High",
+      "confidence_score": 0.85,
+      "current_problem": "A repeated lookup, document or approval handoff is plausible; validate the actual volume, owner and baseline before proposing automation.",
+      "current_problem_fa": "تکرار جست‌وجو، ساخت سند یا تأیید محتمل است؛ حجم واقعی، مالک و خط مبنا پیش از پیشنهاد خودکارسازی اعتبارسنجی شود.",
+      "current_process_hypothesis": "Based on the public تطبیق BOQ و مشخصات فنی برای پیشنهاد پروژه surface, the first process to validate is the handoff from incoming information to a reviewed business output. Public sources do not establish the internal process or a current inefficiency.",
+      "current_process_hypothesis_fa": "با توجه به سطح عمومی تطبیق BOQ و مشخصات فنی برای پیشنهاد پروژه، نخستین فرایند قابل بررسی، تبدیل ورودی به خروجی کسب‌وکاریِ قابل بازبینی است؛ منابع عمومی فرایند داخلی یا وجود ناکارآمدی فعلی را اثبات نمی‌کنند.",
+      "department": "Technical Office / Project Sales Director",
+      "discovery_questions": [
+        "BOQ و مشخصات فنی معمولاً با چه قالبی وارد می‌شوند؟",
+        "تطبیق گزینه‌های مجاز و جایگزین توسط چه نقشی تأیید می‌شود؟",
+        "کاتالوگ، دیتاشیت و گواهی فنی مرجع در کجا نگهداری می‌شود؟",
+        "کدام بخش از سابمیتال باید نسخه‌بندی و قابل ردیابی باشد؟",
+        "یک پروژه نمونه برای مقایسه زمان و خطا کدام است؟"
+      ],
+      "implementation_complexity": "High",
+      "implementation_risks": [
+        "data quality and permissions require discovery",
+        "human approval remains required",
+        "pilot should use a bounded workflow and approved samples"
+      ],
+      "implementation_risks_fa": [
+        "کیفیت داده و مجوزها باید در کشف بررسی شود",
+        "تأیید انسانی حفظ می‌شود",
+        "پایلوت با گردش محدود و نمونه‌های تأییدشده شروع شود"
+      ],
+      "likely_business_owner": "Technical Office / Project Sales Director",
+      "measurable_KPIs": [
+        "lines matched per hour",
+        "submittal turnaround",
+        "revision errors",
+        "follow-up coverage"
+      ],
+      "measurable_KPIs_fa": [
+        "تعداد ردیف تطبیق‌یافته در ساعت",
+        "زمان آماده‌سازی سابمیتال",
+        "خطاهای اصلاحی",
+        "پوشش پیگیری پروژه"
+      ],
+      "primary_users": "Technical office, project sales, procurement and commercial management",
+      "primary_users_fa": "دفتر فنی، فروش پروژه، تأمین و مدیریت بازرگانی",
+      "proposed_luma_solution": "A document-grounded workspace that structures BOQ lines, retrieves approved technical evidence, and prepares a versioned submittal or quotation pack for review.",
+      "proposed_luma_solution_fa": "یک میزکار مبتنی بر اسناد که ردیف‌های BOQ را ساختاریافته می‌کند، مستندات فنی تأییدشده را بازیابی می‌کند و بسته نسخه‌بندی‌شده سابمیتال یا پیشنهاد قیمت را برای بازبینی آماده می‌کند.",
+      "required_data": [
+        "BOQs, specifications, drawings, product catalogs, alternatives, certificates and prior submittals"
+      ],
+      "required_data_fa": [
+        "BOQ، مشخصات و نقشه‌ها، کاتالوگ محصول، گزینه‌های جایگزین، گواهی‌ها و سابمیتال‌های قبلی"
+      ],
+      "required_integrations": [
+        "Document repository, approved CRM/ERP exports, quotation workflow and approval records"
+      ],
+      "required_integrations_fa": [
+        "مخزن اسناد، خروجی مجاز CRM/ERP، گردش پیشنهاد قیمت و سوابق تأیید"
+      ],
+      "source_urls": [
+        "https://varapars.com/",
+        "https://varapars.com/about-us/",
+        "https://varapars.com/projects/",
+        "https://varapars.com/services/"
+      ],
+      "supporting_evidence": [
+        {
+          "claim": "The public page titled 'راهکارهای مهندسی و تامین در صنایع انرژی | پیشرو صنعت ورا پارس' exposes product/catalog information, a contact or order entry point.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "محتوا پیشرو صنعت ورا پارس خانه ورا پارس درباره ما چشم انداز بیانیه ماموریت مسئولیت اجتماعی ارزش های اخلاقی اخبار سوابق پروژه‌ای خدمات تماس با ما خانه ورا پارس درباره ما چشم انداز بیانیه ماموریت مسئولیت اجتماعی ارزش های اخلاقی اخبار سوابق پروژه‌ای خدمات تماس با ما FA EN جستجو جستجو تماس با ما خانه پروژه ها خدمات تماس با ما درباره ما FA EN شرکت پیشرو صنعت ورا پارس راهکارهای مهندسی و تامین در صنایع انرژی خدمات ما پشتیبانی فنی و تجاری پروژه‌ها پشتوانه ۲۸ سال تجربه صنعتی شبکه تأمین داخلی و بین‌المللی رویکرد مهندسی محور دربــاره مـا شرکت پیشرو صـنعـت ورا پـارس بـا باور بـه شـعار «فراتر از تأمین، به سوی راه‌حل»، فـعالیـت خود را فراتر از یک تأمین‌کنن",
+          "source_family": "other_public",
+          "source_title": "راهکارهای مهندسی و تامین در صنایع انرژی | پیشرو صنعت ورا پارس",
+          "source_url": "https://varapars.com/"
+        },
+        {
+          "claim": "The public page titled 'درباره ما - پیشرو صنعت ورا پارس' exposes service or maintenance information, projects or client information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "محتوا پیشرو صنعت ورا پارس خانه ورا پارس درباره ما چشم انداز بیانیه ماموریت مسئولیت اجتماعی ارزش های اخلاقی اخبار سوابق پروژه‌ای خدمات تماس با ما خانه ورا پارس درباره ما چشم انداز بیانیه ماموریت مسئولیت اجتماعی ارزش های اخلاقی اخبار سوابق پروژه‌ای خدمات تماس با ما FA EN جستجو جستجو تماس با ما خانه پروژه ها خدمات تماس با ما درباره ما FA EN کیفیت و رضایت مشتریان دستور کار ماست... شرکت پیشرو صـنعـت ورا پـارس بـا باور بـه شـعار «فراتر از تأمین به سوی راه‌حل»، فـعالیـت خود را فراتر از یک تأمین‌کننده صرف تعریف کرده است. ما با ترکیب تجربه مهندسی، شبکه گسترده زنجیره تأمین و نگاه راهکارمحور، در کنار مشتریان خود می‌ایستیم تا بهترین نتایج برای پروژه‌های ",
+          "source_family": "other_public",
+          "source_title": "درباره ما - پیشرو صنعت ورا پارس",
+          "source_url": "https://varapars.com/about-us/"
+        },
+        {
+          "claim": "The public page titled 'پروژه های تأمین تجهیزات صنعتی - پیشرو صنعت ورا پارس' exposes projects or client information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "پروژه های تأمین تجهیزات صنعتی - پیشرو صنعت ورا پارس پرش به محتوا پیشرو صنعت ورا پارس خانه ورا پارس درباره ما چشم انداز بیانیه ماموریت مسئولیت اجتماعی ارزش های اخلاقی اخبار سوابق پروژه‌ای خدمات تماس با ما خانه ورا پارس درباره ما چشم انداز بیانیه ماموریت مسئولیت اجتماعی ارزش های اخلاقی اخبار سوابق پروژه‌ای خدمات تماس با ما FA EN جستجو جستجو تماس با ما خانه پروژه ها خدمات تماس با ما درباره ما FA EN سوابق پروژه ای پیشرو صنعت ورا پارس شرکتی تازه تاسیس با پشتوانه بیش از ۲۸ سال تجربه صنعتی، مهندسی و مدیریت پروژه است. موارد ارائه‌شده در این بخش، منتخبی از پروژه‌ها و فعالیت‌هایی هستند که مدیران و اعضای تیم شرکت در سوابق حرفه‌ای پیشین خود، در طراحی، مد",
+          "source_family": "other_public",
+          "source_title": "پروژه های تأمین تجهیزات صنعتی - پیشرو صنعت ورا پارس",
+          "source_url": "https://varapars.com/projects/"
+        },
+        {
+          "claim": "The public page titled 'تأمین تجهیزات صنعتی - پیشرو صنعت ورا پارس' exposes service or maintenance information, projects or client information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "و پشتیبانی زنجیره تأمین پروژه‌های صنعتی است. در بسیاری از پروژه‌های صنعتی، انتخاب صحیح تجهیزات اهمیت زیادی دارد. کیفیت، مشخصات فنی، استانداردهای ساخت، شرایط بهره‌برداری، زمان تحویل و قابلیت اطمینان سازنده، همگی بر موفقیت پروژه تأثیر می‌گذارند. ما با رویکرد مهندسی‌محور، این عوامل را بررسی می‌کنیم و تلاش می‌کنیم گزینه‌های مناسب‌تری را برای مشتریان شناسایی و معرفی کنیم. تأمین تجهیزات صنعتی با رویکرد فنی تأمین تجهیزات صنعتی تنها به دریافت پیشنهاد قیمت و خرید کالا محدود نیست. در بسیاری از موارد، لازم است مشخصات فنی تجهیز بررسی شود، مدارک سازنده ارزیابی شود، انطباق کالا با نیاز پروژه کنترل شود و شرایط فنی و تجاری پیشنهادها مقایسه گردد. پیشرو صنعت و",
+          "source_family": "other_public",
+          "source_title": "تأمین تجهیزات صنعتی - پیشرو صنعت ورا پارس",
+          "source_url": "https://varapars.com/services/"
+        }
+      ],
+      "workflow_evidence_classification": "EVIDENCE_SUPPORTED",
+      "workflow_family": "boq_specification_matching",
+      "workflow_id": "wf-cbd5dfe1c4869fda",
+      "workflow_name": "BOQ/specification matching and technical submittal support",
+      "workflow_name_fa": "تطبیق BOQ و مشخصات فنی برای پیشنهاد پروژه"
+    }
   },
   "screenshots": [
     {
@@ -395,6 +713,62 @@
       "source_family": "company_website:varapars.com",
       "source_quality": "public_page",
       "source_title": "تأمین تجهیزات صنعتی - پیشرو صنعت ورا پارس",
+      "source_url": "https://varapars.com/services/"
+    },
+    {
+      "captured_at": "2026-09-02T06:19:24Z",
+      "company_id": "ir-teh-bb88c592dba51324",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "راهکارهای مهندسی و تامین در صنایع انرژی | پیشرو صنعت ورا پارس پرش به محتوا پیشرو صنعت ورا پارس خانه ورا پارس درباره ما چشم انداز بیانیه ماموریت مسئولیت اجتماعی ارزش های اخلاقی اخبار سوابق پروژه‌ای خدمات تماس با ما خانه ورا پارس درباره ما چشم انداز بیانیه ماموریت مسئولیت اجتماعی ارزش های اخلاقی اخبار سوابق پروژه‌ای خدمات تماس با ما FA EN جستجو جستجو تماس با ما خانه پروژه ها خدمات تماس با ما درباره ما FA EN شرکت پیشرو صنعت ورا پارس راهکارهای مهندسی و تامین در صنایع انرژی خدمات ما پشتیبانی فنی و تجاری پروژه‌ها پشتوانه ۲۸ سال تجربه صنعتی شبکه تأمین داخلی و بین‌المللی رویکرد مهندسی محور دربــاره مـا شرکت پیشرو صـنعـت ورا پـارس بـا باور بـه شـعار «فراتر از تأمین، به سوی راه‌حل»، فـعالیـت خود را فر",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-e9b7a9620f9e3fe7",
+      "source_quality": "public_page",
+      "source_title": "راهکارهای مهندسی و تامین در صنایع انرژی | پیشرو صنعت ورا پارس",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://varapars.com/"
+    },
+    {
+      "captured_at": "2026-09-02T06:38:47Z",
+      "company_id": "ir-teh-bb88c592dba51324",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "درباره ما - پیشرو صنعت ورا پارس پرش به محتوا پیشرو صنعت ورا پارس خانه ورا پارس درباره ما چشم انداز بیانیه ماموریت مسئولیت اجتماعی ارزش های اخلاقی اخبار سوابق پروژه‌ای خدمات تماس با ما خانه ورا پارس درباره ما چشم انداز بیانیه ماموریت مسئولیت اجتماعی ارزش های اخلاقی اخبار سوابق پروژه‌ای خدمات تماس با ما FA EN جستجو جستجو تماس با ما خانه پروژه ها خدمات تماس با ما درباره ما FA EN کیفیت و رضایت مشتریان دستور کار ماست... شرکت پیشرو صـنعـت ورا پـارس بـا باور بـه شـعار «فراتر از تأمین به سوی راه‌حل»، فـعالیـت خود را فراتر از یک تأمین‌کننده صرف تعریف کرده است. ما با ترکیب تجربه مهندسی، شبکه گسترده زنجیره تأمین و نگاه راهکارمحور، در کنار مشتریان خود می‌ایستیم تا بهترین نتایج برای پروژه‌های صنعتی رقم ب",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-93161d41db6ee2f8",
+      "source_quality": "public_page",
+      "source_title": "درباره ما - پیشرو صنعت ورا پارس",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://varapars.com/about-us/"
+    },
+    {
+      "captured_at": "2026-09-02T06:38:47Z",
+      "company_id": "ir-teh-bb88c592dba51324",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "پروژه های تأمین تجهیزات صنعتی - پیشرو صنعت ورا پارس پرش به محتوا پیشرو صنعت ورا پارس خانه ورا پارس درباره ما چشم انداز بیانیه ماموریت مسئولیت اجتماعی ارزش های اخلاقی اخبار سوابق پروژه‌ای خدمات تماس با ما خانه ورا پارس درباره ما چشم انداز بیانیه ماموریت مسئولیت اجتماعی ارزش های اخلاقی اخبار سوابق پروژه‌ای خدمات تماس با ما FA EN جستجو جستجو تماس با ما خانه پروژه ها خدمات تماس با ما درباره ما FA EN سوابق پروژه ای پیشرو صنعت ورا پارس شرکتی تازه تاسیس با پشتوانه بیش از ۲۸ سال تجربه صنعتی، مهندسی و مدیریت پروژه است. موارد ارائه‌شده در این بخش، منتخبی از پروژه‌ها و فعالیت‌هایی هستند که مدیران و اعضای تیم شرکت در سوابق حرفه‌ای پیشین خود، در طراحی، مدیریت، ساخت، تأمین، کنترل کیفیت و اجرای آن‌ها نقش م",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-8e84c33a261e442a",
+      "source_quality": "public_page",
+      "source_title": "پروژه های تأمین تجهیزات صنعتی - پیشرو صنعت ورا پارس",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://varapars.com/projects/"
+    },
+    {
+      "captured_at": "2026-09-02T06:38:47Z",
+      "company_id": "ir-teh-bb88c592dba51324",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "تأمین تجهیزات صنعتی - پیشرو صنعت ورا پارس پرش به محتوا پیشرو صنعت ورا پارس خانه ورا پارس درباره ما چشم انداز بیانیه ماموریت مسئولیت اجتماعی ارزش های اخلاقی اخبار سوابق پروژه‌ای خدمات تماس با ما خانه ورا پارس درباره ما چشم انداز بیانیه ماموریت مسئولیت اجتماعی ارزش های اخلاقی اخبار سوابق پروژه‌ای خدمات تماس با ما FA EN جستجو جستجو تماس با ما خانه پروژه ها خدمات تماس با ما درباره ما FA EN خدمات شرکت پیشرو صنعت ورا پارس چرا پیشرو صنعت ورا پارس ؟ در پیشرو صنعت ورا پارس، خدمات ما تنها به تأمین کالا محدود نمی‌شود. ما با نگاه راهکارمحور و بر اساس شعار «فراتر از تأمین، به سوی راه‌حل»، مجموعه‌ای کامل از خدمات مهندسی و تأمین را برای صنایع انرژی ارائه می‌دهیم. ما باور داریم که تأمین تجهیزات صنعتی، زمانی",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-59876b1c15fe6473",
+      "source_quality": "public_page",
+      "source_title": "تأمین تجهیزات صنعتی - پیشرو صنعت ورا پارس",
+      "source_type": "sales_activation_public_page",
       "source_url": "https://varapars.com/services/"
     }
   ]

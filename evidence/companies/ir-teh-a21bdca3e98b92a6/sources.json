@@ -29,14 +29,366 @@
       "error": "HTTPError: HTTP Error 403: Forbidden",
       "stage": "search_query",
       "url": "https://html.duckduckgo.com/html/?q=%22%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C+%D9%88+%D8%AE%D8%AF%D9%85%D8%A7%D8%AA+%D8%A7%DB%8C%D9%81%D8%A7+%D8%B5%D9%86%D8%B9%D8%AA+%D8%AA%D8%A7%D8%A8%D8%A7%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "InvalidURL: URL can't contain control characters. '/share?url=avval.ir/profile/unbnh/%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D9%88-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%DB%8C%D9%81%D8%A7-%D8%B5%D9%86%D8%B9%D8%AA-%D8%AA%D8%A7%D8%A8%D8%A7&text=مهندسی و خدمات ایفا صنعت تابا' (found at least ' ')",
+      "stage": "official_page",
+      "url": "https://twitter.com/share?url=avval.ir/profile/unbnh/%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D9%88-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%DB%8C%D9%81%D8%A7-%D8%B5%D9%86%D8%B9%D8%AA-%D8%AA%D8%A7%D8%A8%D8%A7&text=مهندسی و خدمات ایفا صنعت تابا"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "official_page",
+      "url": "https://twitter.com/ketabeavvalir"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 500: ",
+      "stage": "official_page",
+      "url": "https://trustseal.enamad.ir/?id=194990&Code=3Y0m3d1djm9fuqjoC8mT"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "official_page",
+      "url": "https://api.whatsapp.com/send?text=avval.ir/profile/unbnh/%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D9%88-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%DB%8C%D9%81%D8%A7-%D8%B5%D9%86%D8%B9%D8%AA-%D8%AA%D8%A7%D8%A8%D8%A7"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C+%D9%88+%D8%AE%D8%AF%D9%85%D8%A7%D8%AA+%D8%A7%DB%8C%D9%81%D8%A7+%D8%B5%D9%86%D8%B9%D8%AA+%D8%AA%D8%A7%D8%A8%D8%A7%22+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C+%D9%88+%D8%AE%D8%AF%D9%85%D8%A7%D8%AA+%D8%A7%DB%8C%D9%81%D8%A7+%D8%B5%D9%86%D8%B9%D8%AA+%D8%AA%D8%A7%D8%A8%D8%A7%22+%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+%D9%81%D8%B1%D8%B5%D8%AA+%D8%B4%D8%BA%D9%84%DB%8C&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C+%D9%88+%D8%AE%D8%AF%D9%85%D8%A7%D8%AA+%D8%A7%DB%8C%D9%81%D8%A7+%D8%B5%D9%86%D8%B9%D8%AA+%D8%AA%D8%A7%D8%A8%D8%A7%22+%D9%86%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87+%D8%A7%D9%86%D8%AC%D9%85%D9%86+%D8%B9%D8%B6%D9%88&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C+%D9%88+%D8%AE%D8%AF%D9%85%D8%A7%D8%AA+%D8%A7%DB%8C%D9%81%D8%A7+%D8%B5%D9%86%D8%B9%D8%AA+%D8%AA%D8%A7%D8%A8%D8%A7%22+%D9%85%D9%86%D8%A7%D9%82%D8%B5%D9%87+%D9%BE%D8%B1%D9%88%DA%98%D9%87+BOQ+%D9%85%D8%B4%D8%AE%D8%B5%D8%A7%D8%AA+%D9%81%D9%86%DB%8C&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C+%D9%88+%D8%AE%D8%AF%D9%85%D8%A7%D8%AA+%D8%A7%DB%8C%D9%81%D8%A7+%D8%B5%D9%86%D8%B9%D8%AA+%D8%AA%D8%A7%D8%A8%D8%A7%22+%22api.whatsapp.com%22+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 500: INKApi Error",
+      "stage": "search_query",
+      "url": "https://search.yahoo.com/search?p=%22%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C+%D9%88+%D8%AE%D8%AF%D9%85%D8%A7%D8%AA+%D8%A7%DB%8C%D9%81%D8%A7+%D8%B5%D9%86%D8%B9%D8%AA+%D8%AA%D8%A7%D8%A8%D8%A7%22+%D9%86%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87+%D8%A7%D9%86%D8%AC%D9%85%D9%86+%D8%B9%D8%B6%D9%88&vl=lang_fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 67-73: ordinal not in range(128)",
+      "stage": "external_page",
+      "url": "https://jobinja.ir/companies/ifa-sanat-taba-engineering-and-service-co/jobs/CFTe/استخدام-کارشناس-کنترل-کیفیت-آقا-پرند-در-شرکت-مهندسی-و-خدمات-ایفا-صنعت-تابا"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 20-26: ordinal not in range(128)",
+      "stage": "external_page",
+      "url": "https://jobvision.ir/companies/5319/استخدام-شرکت-مهندسی-و-خدمات-ایفا-صنعت-تابا"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 18-24: ordinal not in range(128)",
+      "stage": "external_page",
+      "url": "https://jobvision.ir/jobs/1489324/استخدام-کارشناس-ماشینکاری---آقا"
     }
   ],
-  "generated_at": "2026-09-01T15:27:11Z",
+  "generated_at": "2026-09-02T06:51:41Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
     "proxy": "http://127.0.0.1:1087",
     "visible_browser_launched": false
+  },
+  "sales_activation": {
+    "captured_page_paths": [
+      "companies/ir-teh-a21bdca3e98b92a6/pages/sales-563ef5d5be5145f2.txt",
+      "companies/ir-teh-a21bdca3e98b92a6/pages/sales-aa24dddd7b59612d.txt",
+      "companies/ir-teh-a21bdca3e98b92a6/pages/sales-3f09323020a42701.txt",
+      "companies/ir-teh-a21bdca3e98b92a6/pages/sales-88d2e0bc4c33cf4d.txt",
+      "companies/ir-teh-a21bdca3e98b92a6/pages/sales-3e4564b163fb3d8b.txt"
+    ],
+    "contacts": {
+      "decision_maker_direct_candidates": [],
+      "decision_maker_search_candidates": [
+        {
+          "confidence": 0.35,
+          "direct": false,
+          "evidence": "ی شرکت مهندسی و خدمات ایفا ... 05/06/03 | تعداد بازدید: 498 مهندسی و خدمات ایفا صنعت تابا مدیرعامل : علی نیکبخت تلفن: 021-75041000 فکس: 021-75041000",
+          "field": "economic_buyer",
+          "name": "علی نیکبخت تلفن",
+          "role": "مدیرعامل",
+          "source_family": "other_public",
+          "source_title": "mopkey.ir https://www.mopkey.ir › CompanyInformation دایرکتوری صنعت نفت ، گاز، پتروشیمی شرکت مهندسی و خدمات ایفا ...",
+          "source_url": "https://www.mopkey.ir/CompanyInformation?cid=7cbede27-b077-4265-9b68-eac993452ece"
+        },
+        {
+          "confidence": 0.35,
+          "direct": false,
+          "evidence": "عت نفت ، گاز، پتروشیمی شرکت مهندسی و خدمات ایفا ... 05/06/03 | تعداد بازدید: 498 مهندسی و خدمات ایفا صنعت تابا مدیرعامل : علی نیکبخت تلفن: 021-75041000 فکس: 021-75041000",
+          "field": "economic_buyer",
+          "name": "خدمات ایفا صنعت تابا",
+          "role": "مدیرعامل",
+          "source_family": "other_public",
+          "source_title": "mopkey.ir https://www.mopkey.ir › CompanyInformation دایرکتوری صنعت نفت ، گاز، پتروشیمی شرکت مهندسی و خدمات ایفا ...",
+          "source_url": "https://www.mopkey.ir/CompanyInformation?cid=7cbede27-b077-4265-9b68-eac993452ece"
+        },
+        {
+          "confidence": 0.35,
+          "direct": false,
+          "evidence": ".ir › company مهندسی و خدمات ایفا صنعت تابا - بلینک اعضا هیئت مدیره علی نیکبخت نوع عضویت: مدیر عامل موسی رفان نوع عضویت: رئیس هیئت مدیره خلیل پارسا نوع عضویت: عضو هیئت مدیره",
+          "field": "economic_buyer",
+          "name": "موسی رفان نوع عضویت",
+          "role": "مدیر عامل",
+          "source_family": "other_public",
+          "source_title": "بلینک https://belink.ir › company مهندسی و خدمات ایفا صنعت تابا - بلینک",
+          "source_url": "https://belink.ir/company/مهندسی_و_خدمات_ایفا_صنعت_تابا"
+        },
+        {
+          "confidence": 0.35,
+          "direct": false,
+          "evidence": "فا صنعت تابا - بلینک اعضا هیئت مدیره علی نیکبخت نوع عضویت: مدیر عامل موسی رفان نوع عضویت: رئیس هیئت مدیره خلیل پارسا نوع عضویت: عضو هیئت مدیره",
+          "field": "economic_buyer",
+          "name": "خلیل پارسا نوع عضویت",
+          "role": "رئیس هیئت مدیره",
+          "source_family": "other_public",
+          "source_title": "بلینک https://belink.ir › company مهندسی و خدمات ایفا صنعت تابا - بلینک",
+          "source_url": "https://belink.ir/company/مهندسی_و_خدمات_ایفا_صنعت_تابا"
+        },
+        {
+          "confidence": 0.35,
+          "direct": false,
+          "evidence": "گاز، پتروشیمی شرکت مهندسی و خدمات تابا 05/05/08 | تعداد بازدید: 563 مهندسی و خدمات تا با مدیرعامل : علی نیکبخت تلفن: 75041000 (021) فکس: 75041000 (021) آدرس سایت: www.Tabaservice.com",
+          "field": "economic_buyer",
+          "name": "علی نیکبخت تلفن",
+          "role": "مدیرعامل",
+          "source_family": "other_public",
+          "source_title": "mopkey.ir https://www.mopkey.ir › CompanyInformation دایرکتوری صنعت نفت ، گاز، پتروشیمی شرکت مهندسی و خدمات تابا",
+          "source_url": "https://www.mopkey.ir/CompanyInformation?cid=4399b4de-a705-4dce-9f7e-f5f1a2cbe75e"
+        },
+        {
+          "confidence": 0.35,
+          "direct": false,
+          "evidence": "ی صنعت نفت ، گاز، پتروشیمی شرکت مهندسی و خدمات تابا 05/05/08 | تعداد بازدید: 563 مهندسی و خدمات تا با مدیرعامل : علی نیکبخت تلفن: 75041000 (021) فکس: 75041000 (021) آدرس سایت: www.Tabaservice.com",
+          "field": "economic_buyer",
+          "name": "خدمات تا با",
+          "role": "مدیرعامل",
+          "source_family": "other_public",
+          "source_title": "mopkey.ir https://www.mopkey.ir › CompanyInformation دایرکتوری صنعت نفت ، گاز، پتروشیمی شرکت مهندسی و خدمات تابا",
+          "source_url": "https://www.mopkey.ir/CompanyInformation?cid=4399b4de-a705-4dce-9f7e-f5f1a2cbe75e"
+        }
+      ],
+      "economic_buyer_confidence": 0.0,
+      "economic_buyer_name": null,
+      "economic_buyer_role": "Managing Director / CEO",
+      "economic_buyer_source_url": null,
+      "primary_contact_confidence": 0.0,
+      "primary_contact_name": null,
+      "primary_contact_role": "Technical Office / Project Sales Director",
+      "primary_contact_source_url": null,
+      "public_corporate_emails": [
+        "info@tabaservice.com"
+      ],
+      "public_corporate_phones": [
+        "02175041000"
+      ],
+      "public_linkedin_company": null,
+      "public_whatsapp": null,
+      "technical_gatekeeper_confidence": 0.0,
+      "technical_gatekeeper_name": null,
+      "technical_gatekeeper_role": "Project Controls or Engineering Manager",
+      "technical_gatekeeper_source_url": null
+    },
+    "no_outreach_sent": true,
+    "public_journey": {
+      "entry_points": [
+        "public product/service information or catalog",
+        "public project/client information",
+        "public service/maintenance information"
+      ],
+      "evidence": [
+        {
+          "claim": "The public page titled 'ایفا صنعت تابا - مهندسی و خدمات تابا' exposes product/catalog information, service or maintenance information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "ایفا صنعت تابا - مهندسی و خدمات تابا پرش به محتوا منو بستن منو باز کردن در منو راهکارها بازارها توانمندی‌ها پروژه‌ها و محصولات شرکت راهکارها تولید توان توربین‌ها و تجهیزات دوار کمپرسورهای فرآیندی برج‌ها و سامانه خنک‌کن آب و محیط زیست خدمات دارایی (O&M) مهندسی و ساخت ذخیره‌سازی و انتقال بازارها نیروگاه‌ها نفت و گاز پالایشگاه‌ها پتروشیمی فولاد و معادن آب و فاضلاب انرژی‌های تجدیدپذیر توانمندی‌ها مهندسی و طراحی EPC و مدیریت پروژه ساخت و تولید خدمات میدانی تعمیرات و بازتوانی راهکارهای دیجیتال و بهینه سازی عملکرد پروژه‌ها و محصولات پروژه‌ها - محصولات کاتالوگ تابا اخبار و رویدادها شرکت درباره تابا رهبری و مدیریت HSE و کیفیت گواهینامه‌ها شرکت‌های همک",
+          "source_family": "other_public",
+          "source_title": "ایفا صنعت تابا - مهندسی و خدمات تابا",
+          "source_url": "https://tabaservice.ir"
+        },
+        {
+          "claim": "The public page titled 'ایفا صنعت تابا - مهندسی و خدمات تابا' exposes product/catalog information, service or maintenance information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "ایفا صنعت تابا - مهندسی و خدمات تابا پرش به محتوا منو بستن منو باز کردن در منو راهکارها بازارها توانمندی‌ها پروژه‌ها و محصولات شرکت راهکارها تولید توان توربین‌ها و تجهیزات دوار کمپرسورهای فرآیندی برج‌ها و سامانه خنک‌کن آب و محیط زیست خدمات دارایی (O&M) مهندسی و ساخت ذخیره‌سازی و انتقال بازارها نیروگاه‌ها نفت و گاز پالایشگاه‌ها پتروشیمی فولاد و معادن آب و فاضلاب انرژی‌های تجدیدپذیر توانمندی‌ها مهندسی و طراحی EPC و مدیریت پروژه ساخت و تولید خدمات میدانی تعمیرات و بازتوانی راهکارهای دیجیتال و بهینه سازی عملکرد پروژه‌ها و محصولات پروژه‌ها - محصولات کاتالوگ تابا اخبار و رویدادها شرکت درباره تابا رهبری و مدیریت HSE و کیفیت گواهینامه‌ها شرکت‌های همک",
+          "source_family": "other_public",
+          "source_title": "ایفا صنعت تابا - مهندسی و خدمات تابا",
+          "source_url": "https://tabaservice.ir/"
+        },
+        {
+          "claim": "The public page titled 'تولید توان - مهندسی و خدمات تابا' exposes product/catalog information, service or maintenance information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "تولید توان - مهندسی و خدمات تابا پرش به محتوا منو بستن منو باز کردن در منو راهکارها بازارها توانمندی‌ها پروژه‌ها و محصولات شرکت راهکارها تولید توان توربین‌ها و تجهیزات دوار کمپرسورهای فرآیندی برج‌ها و سامانه خنک‌کن آب و محیط زیست خدمات دارایی (O&M) مهندسی و ساخت ذخیره‌سازی و انتقال بازارها نیروگاه‌ها نفت و گاز پالایشگاه‌ها پتروشیمی فولاد و معادن آب و فاضلاب انرژی‌های تجدیدپذیر توانمندی‌ها مهندسی و طراحی EPC و مدیریت پروژه ساخت و تولید خدمات میدانی تعمیرات و بازتوانی راهکارهای دیجیتال و بهینه سازی عملکرد پروژه‌ها و محصولات پروژه‌ها - محصولات کاتالوگ تابا اخبار و رویدادها شرکت درباره تابا رهبری و مدیریت HSE و کیفیت گواهینامه‌ها شرکت‌های همکار ف",
+          "source_family": "other_public",
+          "source_title": "تولید توان - مهندسی و خدمات تابا",
+          "source_url": "https://tabaservice.ir/solutions/power-generation/"
+        },
+        {
+          "claim": "The public page titled 'توربین‌ها و تجهیزات دوار - مهندسی و خدمات تابا' exposes product/catalog information, service or maintenance information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "توربین‌ها و تجهیزات دوار - مهندسی و خدمات تابا پرش به محتوا منو بستن منو باز کردن در منو راهکارها بازارها توانمندی‌ها پروژه‌ها و محصولات شرکت راهکارها تولید توان توربین‌ها و تجهیزات دوار کمپرسورهای فرآیندی برج‌ها و سامانه خنک‌کن آب و محیط زیست خدمات دارایی (O&M) مهندسی و ساخت ذخیره‌سازی و انتقال بازارها نیروگاه‌ها نفت و گاز پالایشگاه‌ها پتروشیمی فولاد و معادن آب و فاضلاب انرژی‌های تجدیدپذیر توانمندی‌ها مهندسی و طراحی EPC و مدیریت پروژه ساخت و تولید خدمات میدانی تعمیرات و بازتوانی راهکارهای دیجیتال و بهینه سازی عملکرد پروژه‌ها و محصولات پروژه‌ها - محصولات کاتالوگ تابا اخبار و رویدادها شرکت درباره تابا رهبری و مدیریت HSE و کیفیت گواهینامه‌ها شر",
+          "source_family": "other_public",
+          "source_title": "توربین‌ها و تجهیزات دوار - مهندسی و خدمات تابا",
+          "source_url": "https://tabaservice.ir/solutions/turbines-and-rotating-equipment/"
+        }
+      ],
+      "intake_channels": [
+        "published corporate email",
+        "published corporate phone"
+      ],
+      "observable_steps": [
+        "Customer reaches مهندسی و خدمات ایفا صنعت تابا through public product/service information or catalog, public project/client information, public service/maintenance information.",
+        "Customer uses published corporate email, published corporate phone to ask for information or service.",
+        "technical/commercial team reviews a project request; the public record does not expose the internal handoffs or approval rules.",
+        "A discovery meeting should validate volume, data sources, ownership and the smallest safe pilot."
+      ],
+      "observable_steps_fa": [
+        "مشتری از طریق public product/service information or catalog، public project/client information، public service/maintenance information به مهندسی و خدمات ایفا صنعت تابا می‌رسد.",
+        "مشتری از published corporate email، published corporate phone برای دریافت اطلاعات یا خدمت استفاده می‌کند.",
+        "technical/commercial team reviews a project request؛ مراحل داخلی و قواعد تأیید از منابع عمومی قابل مشاهده نیست.",
+        "در جلسه کشف، حجم، منابع داده، مالک فرایند و کوچک‌ترین پایلوت امن اعتبارسنجی شود."
+      ]
+    },
+    "source_families_added": [
+      "job_portal",
+      "other_public"
+    ],
+    "version": "2026.09.sales-activation-v1",
+    "workflow": {
+      "activation_evidence_classification": "STRONG_HYPOTHESIS",
+      "company_id": "ir-teh-a21bdca3e98b92a6",
+      "confidence": "Medium",
+      "confidence_score": 0.7,
+      "current_problem": "A repeated lookup, document or approval handoff is plausible; validate the actual volume, owner and baseline before proposing automation.",
+      "current_problem_fa": "تکرار جست‌وجو، ساخت سند یا تأیید محتمل است؛ حجم واقعی، مالک و خط مبنا پیش از پیشنهاد خودکارسازی اعتبارسنجی شود.",
+      "current_process_hypothesis": "Based on the public تطبیق BOQ و مشخصات فنی برای پیشنهاد پروژه surface, the first process to validate is the handoff from incoming information to a reviewed business output. Public sources do not establish the internal process or a current inefficiency.",
+      "current_process_hypothesis_fa": "با توجه به سطح عمومی تطبیق BOQ و مشخصات فنی برای پیشنهاد پروژه، نخستین فرایند قابل بررسی، تبدیل ورودی به خروجی کسب‌وکاریِ قابل بازبینی است؛ منابع عمومی فرایند داخلی یا وجود ناکارآمدی فعلی را اثبات نمی‌کنند.",
+      "department": "Technical Office / Project Sales Director",
+      "discovery_questions": [
+        "BOQ و مشخصات فنی معمولاً با چه قالبی وارد می‌شوند؟",
+        "تطبیق گزینه‌های مجاز و جایگزین توسط چه نقشی تأیید می‌شود؟",
+        "کاتالوگ، دیتاشیت و گواهی فنی مرجع در کجا نگهداری می‌شود؟",
+        "کدام بخش از سابمیتال باید نسخه‌بندی و قابل ردیابی باشد؟",
+        "یک پروژه نمونه برای مقایسه زمان و خطا کدام است؟"
+      ],
+      "implementation_complexity": "High",
+      "implementation_risks": [
+        "data quality and permissions require discovery",
+        "human approval remains required",
+        "pilot should use a bounded workflow and approved samples"
+      ],
+      "implementation_risks_fa": [
+        "کیفیت داده و مجوزها باید در کشف بررسی شود",
+        "تأیید انسانی حفظ می‌شود",
+        "پایلوت با گردش محدود و نمونه‌های تأییدشده شروع شود"
+      ],
+      "likely_business_owner": "Technical Office / Project Sales Director",
+      "measurable_KPIs": [
+        "lines matched per hour",
+        "submittal turnaround",
+        "revision errors",
+        "follow-up coverage"
+      ],
+      "measurable_KPIs_fa": [
+        "تعداد ردیف تطبیق‌یافته در ساعت",
+        "زمان آماده‌سازی سابمیتال",
+        "خطاهای اصلاحی",
+        "پوشش پیگیری پروژه"
+      ],
+      "primary_users": "Technical office, project sales, procurement and commercial management",
+      "primary_users_fa": "دفتر فنی، فروش پروژه، تأمین و مدیریت بازرگانی",
+      "proposed_luma_solution": "A document-grounded workspace that structures BOQ lines, retrieves approved technical evidence, and prepares a versioned submittal or quotation pack for review.",
+      "proposed_luma_solution_fa": "یک میزکار مبتنی بر اسناد که ردیف‌های BOQ را ساختاریافته می‌کند، مستندات فنی تأییدشده را بازیابی می‌کند و بسته نسخه‌بندی‌شده سابمیتال یا پیشنهاد قیمت را برای بازبینی آماده می‌کند.",
+      "required_data": [
+        "BOQs, specifications, drawings, product catalogs, alternatives, certificates and prior submittals"
+      ],
+      "required_data_fa": [
+        "BOQ، مشخصات و نقشه‌ها، کاتالوگ محصول، گزینه‌های جایگزین، گواهی‌ها و سابمیتال‌های قبلی"
+      ],
+      "required_integrations": [
+        "Document repository, approved CRM/ERP exports, quotation workflow and approval records"
+      ],
+      "required_integrations_fa": [
+        "مخزن اسناد، خروجی مجاز CRM/ERP، گردش پیشنهاد قیمت و سوابق تأیید"
+      ],
+      "source_urls": [
+        "https://tabaservice.ir",
+        "https://tabaservice.ir/",
+        "https://tabaservice.ir/solutions/power-generation/",
+        "https://tabaservice.ir/solutions/turbines-and-rotating-equipment/"
+      ],
+      "supporting_evidence": [
+        {
+          "claim": "The public page titled 'ایفا صنعت تابا - مهندسی و خدمات تابا' exposes product/catalog information, service or maintenance information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "ایفا صنعت تابا - مهندسی و خدمات تابا پرش به محتوا منو بستن منو باز کردن در منو راهکارها بازارها توانمندی‌ها پروژه‌ها و محصولات شرکت راهکارها تولید توان توربین‌ها و تجهیزات دوار کمپرسورهای فرآیندی برج‌ها و سامانه خنک‌کن آب و محیط زیست خدمات دارایی (O&M) مهندسی و ساخت ذخیره‌سازی و انتقال بازارها نیروگاه‌ها نفت و گاز پالایشگاه‌ها پتروشیمی فولاد و معادن آب و فاضلاب انرژی‌های تجدیدپذیر توانمندی‌ها مهندسی و طراحی EPC و مدیریت پروژه ساخت و تولید خدمات میدانی تعمیرات و بازتوانی راهکارهای دیجیتال و بهینه سازی عملکرد پروژه‌ها و محصولات پروژه‌ها - محصولات کاتالوگ تابا اخبار و رویدادها شرکت درباره تابا رهبری و مدیریت HSE و کیفیت گواهینامه‌ها شرکت‌های همک",
+          "source_family": "other_public",
+          "source_title": "ایفا صنعت تابا - مهندسی و خدمات تابا",
+          "source_url": "https://tabaservice.ir"
+        },
+        {
+          "claim": "The public page titled 'ایفا صنعت تابا - مهندسی و خدمات تابا' exposes product/catalog information, service or maintenance information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "ایفا صنعت تابا - مهندسی و خدمات تابا پرش به محتوا منو بستن منو باز کردن در منو راهکارها بازارها توانمندی‌ها پروژه‌ها و محصولات شرکت راهکارها تولید توان توربین‌ها و تجهیزات دوار کمپرسورهای فرآیندی برج‌ها و سامانه خنک‌کن آب و محیط زیست خدمات دارایی (O&M) مهندسی و ساخت ذخیره‌سازی و انتقال بازارها نیروگاه‌ها نفت و گاز پالایشگاه‌ها پتروشیمی فولاد و معادن آب و فاضلاب انرژی‌های تجدیدپذیر توانمندی‌ها مهندسی و طراحی EPC و مدیریت پروژه ساخت و تولید خدمات میدانی تعمیرات و بازتوانی راهکارهای دیجیتال و بهینه سازی عملکرد پروژه‌ها و محصولات پروژه‌ها - محصولات کاتالوگ تابا اخبار و رویدادها شرکت درباره تابا رهبری و مدیریت HSE و کیفیت گواهینامه‌ها شرکت‌های همک",
+          "source_family": "other_public",
+          "source_title": "ایفا صنعت تابا - مهندسی و خدمات تابا",
+          "source_url": "https://tabaservice.ir/"
+        },
+        {
+          "claim": "The public page titled 'تولید توان - مهندسی و خدمات تابا' exposes product/catalog information, service or maintenance information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "تولید توان - مهندسی و خدمات تابا پرش به محتوا منو بستن منو باز کردن در منو راهکارها بازارها توانمندی‌ها پروژه‌ها و محصولات شرکت راهکارها تولید توان توربین‌ها و تجهیزات دوار کمپرسورهای فرآیندی برج‌ها و سامانه خنک‌کن آب و محیط زیست خدمات دارایی (O&M) مهندسی و ساخت ذخیره‌سازی و انتقال بازارها نیروگاه‌ها نفت و گاز پالایشگاه‌ها پتروشیمی فولاد و معادن آب و فاضلاب انرژی‌های تجدیدپذیر توانمندی‌ها مهندسی و طراحی EPC و مدیریت پروژه ساخت و تولید خدمات میدانی تعمیرات و بازتوانی راهکارهای دیجیتال و بهینه سازی عملکرد پروژه‌ها و محصولات پروژه‌ها - محصولات کاتالوگ تابا اخبار و رویدادها شرکت درباره تابا رهبری و مدیریت HSE و کیفیت گواهینامه‌ها شرکت‌های همکار ف",
+          "source_family": "other_public",
+          "source_title": "تولید توان - مهندسی و خدمات تابا",
+          "source_url": "https://tabaservice.ir/solutions/power-generation/"
+        },
+        {
+          "claim": "The public page titled 'توربین‌ها و تجهیزات دوار - مهندسی و خدمات تابا' exposes product/catalog information, service or maintenance information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "توربین‌ها و تجهیزات دوار - مهندسی و خدمات تابا پرش به محتوا منو بستن منو باز کردن در منو راهکارها بازارها توانمندی‌ها پروژه‌ها و محصولات شرکت راهکارها تولید توان توربین‌ها و تجهیزات دوار کمپرسورهای فرآیندی برج‌ها و سامانه خنک‌کن آب و محیط زیست خدمات دارایی (O&M) مهندسی و ساخت ذخیره‌سازی و انتقال بازارها نیروگاه‌ها نفت و گاز پالایشگاه‌ها پتروشیمی فولاد و معادن آب و فاضلاب انرژی‌های تجدیدپذیر توانمندی‌ها مهندسی و طراحی EPC و مدیریت پروژه ساخت و تولید خدمات میدانی تعمیرات و بازتوانی راهکارهای دیجیتال و بهینه سازی عملکرد پروژه‌ها و محصولات پروژه‌ها - محصولات کاتالوگ تابا اخبار و رویدادها شرکت درباره تابا رهبری و مدیریت HSE و کیفیت گواهینامه‌ها شر",
+          "source_family": "other_public",
+          "source_title": "توربین‌ها و تجهیزات دوار - مهندسی و خدمات تابا",
+          "source_url": "https://tabaservice.ir/solutions/turbines-and-rotating-equipment/"
+        }
+      ],
+      "workflow_evidence_classification": "STRONG_HYPOTHESIS",
+      "workflow_family": "boq_specification_matching",
+      "workflow_id": "wf-89fb5e7cea2dde48",
+      "workflow_name": "BOQ/specification matching and technical submittal support",
+      "workflow_name_fa": "تطبیق BOQ و مشخصات فنی برای پیشنهاد پروژه"
+    }
   },
   "screenshots": [
     {
@@ -426,6 +778,76 @@
       "source_quality": "public_page",
       "source_title": "توربین‌ها و تجهیزات دوار - مهندسی و خدمات تابا",
       "source_url": "https://tabaservice.ir/solutions/turbines-and-rotating-equipment/"
+    },
+    {
+      "captured_at": "2026-09-02T06:18:26Z",
+      "company_id": "ir-teh-a21bdca3e98b92a6",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "ایفا صنعت تابا - مهندسی و خدمات تابا پرش به محتوا منو بستن منو باز کردن در منو راهکارها بازارها توانمندی‌ها پروژه‌ها و محصولات شرکت راهکارها تولید توان توربین‌ها و تجهیزات دوار کمپرسورهای فرآیندی برج‌ها و سامانه خنک‌کن آب و محیط زیست خدمات دارایی (O&M) مهندسی و ساخت ذخیره‌سازی و انتقال بازارها نیروگاه‌ها نفت و گاز پالایشگاه‌ها پتروشیمی فولاد و معادن آب و فاضلاب انرژی‌های تجدیدپذیر توانمندی‌ها مهندسی و طراحی EPC و مدیریت پروژه ساخت و تولید خدمات میدانی تعمیرات و بازتوانی راهکارهای دیجیتال و بهینه سازی عملکرد پروژه‌ها و محصولات پروژه‌ها - محصولات کاتالوگ تابا اخبار و رویدادها شرکت درباره تابا رهبری و مدیریت HSE و کیفیت گواهینامه‌ها شرکت‌های همکار فرصت‌های شغلی تماس با ما ارتباط با تابا 021-750",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-942a9d172a7b458b",
+      "source_quality": "public_page",
+      "source_title": "ایفا صنعت تابا - مهندسی و خدمات تابا",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://tabaservice.ir/"
+    },
+    {
+      "captured_at": "2026-09-02T06:37:48Z",
+      "company_id": "ir-teh-a21bdca3e98b92a6",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "ایفا صنعت تابا - مهندسی و خدمات تابا پرش به محتوا منو بستن منو باز کردن در منو راهکارها بازارها توانمندی‌ها پروژه‌ها و محصولات شرکت راهکارها تولید توان توربین‌ها و تجهیزات دوار کمپرسورهای فرآیندی برج‌ها و سامانه خنک‌کن آب و محیط زیست خدمات دارایی (O&M) مهندسی و ساخت ذخیره‌سازی و انتقال بازارها نیروگاه‌ها نفت و گاز پالایشگاه‌ها پتروشیمی فولاد و معادن آب و فاضلاب انرژی‌های تجدیدپذیر توانمندی‌ها مهندسی و طراحی EPC و مدیریت پروژه ساخت و تولید خدمات میدانی تعمیرات و بازتوانی راهکارهای دیجیتال و بهینه سازی عملکرد پروژه‌ها و محصولات پروژه‌ها - محصولات کاتالوگ تابا اخبار و رویدادها شرکت درباره تابا رهبری و مدیریت HSE و کیفیت گواهینامه‌ها شرکت‌های همکار فرصت‌های شغلی تماس با ما ارتباط با تابا 021-750",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-87eb5ca4859aa280",
+      "source_quality": "public_page",
+      "source_title": "ایفا صنعت تابا - مهندسی و خدمات تابا",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://tabaservice.ir"
+    },
+    {
+      "captured_at": "2026-09-02T06:37:53Z",
+      "company_id": "ir-teh-a21bdca3e98b92a6",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "تولید توان - مهندسی و خدمات تابا پرش به محتوا منو بستن منو باز کردن در منو راهکارها بازارها توانمندی‌ها پروژه‌ها و محصولات شرکت راهکارها تولید توان توربین‌ها و تجهیزات دوار کمپرسورهای فرآیندی برج‌ها و سامانه خنک‌کن آب و محیط زیست خدمات دارایی (O&M) مهندسی و ساخت ذخیره‌سازی و انتقال بازارها نیروگاه‌ها نفت و گاز پالایشگاه‌ها پتروشیمی فولاد و معادن آب و فاضلاب انرژی‌های تجدیدپذیر توانمندی‌ها مهندسی و طراحی EPC و مدیریت پروژه ساخت و تولید خدمات میدانی تعمیرات و بازتوانی راهکارهای دیجیتال و بهینه سازی عملکرد پروژه‌ها و محصولات پروژه‌ها - محصولات کاتالوگ تابا اخبار و رویدادها شرکت درباره تابا رهبری و مدیریت HSE و کیفیت گواهینامه‌ها شرکت‌های همکار فرصت‌های شغلی تماس با ما ارتباط با تابا 021-7504100",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-e8f74cacb14960f8",
+      "source_quality": "public_page",
+      "source_title": "تولید توان - مهندسی و خدمات تابا",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://tabaservice.ir/solutions/power-generation/"
+    },
+    {
+      "captured_at": "2026-09-02T06:37:53Z",
+      "company_id": "ir-teh-a21bdca3e98b92a6",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "توربین‌ها و تجهیزات دوار - مهندسی و خدمات تابا پرش به محتوا منو بستن منو باز کردن در منو راهکارها بازارها توانمندی‌ها پروژه‌ها و محصولات شرکت راهکارها تولید توان توربین‌ها و تجهیزات دوار کمپرسورهای فرآیندی برج‌ها و سامانه خنک‌کن آب و محیط زیست خدمات دارایی (O&M) مهندسی و ساخت ذخیره‌سازی و انتقال بازارها نیروگاه‌ها نفت و گاز پالایشگاه‌ها پتروشیمی فولاد و معادن آب و فاضلاب انرژی‌های تجدیدپذیر توانمندی‌ها مهندسی و طراحی EPC و مدیریت پروژه ساخت و تولید خدمات میدانی تعمیرات و بازتوانی راهکارهای دیجیتال و بهینه سازی عملکرد پروژه‌ها و محصولات پروژه‌ها - محصولات کاتالوگ تابا اخبار و رویدادها شرکت درباره تابا رهبری و مدیریت HSE و کیفیت گواهینامه‌ها شرکت‌های همکار فرصت‌های شغلی تماس با ما ارتباط با تا",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-717069bb2e23e8be",
+      "source_quality": "public_page",
+      "source_title": "توربین‌ها و تجهیزات دوار - مهندسی و خدمات تابا",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://tabaservice.ir/solutions/turbines-and-rotating-equipment/"
+    },
+    {
+      "captured_at": "2026-09-02T06:37:58Z",
+      "company_id": "ir-teh-a21bdca3e98b92a6",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "فرصت‌های شغلی فعال در شرکت مهندسی و خدمات ایفا صنعت تابا | IFA SANAT TABA engineering and service Co | جابینجا کارفرما هستید؟ انتشار رایگان آگهی استخدام در ۲۵ استان و ۲۶ دسته‌بندی شغلی ثبت آگهی استخدام Jobinja | جابینجا | استخدام، آگهی استخدام، کاریابی، استخدامی جدید، بازار کار، نیازمندیها، ساخت رزومه رایگان، کار و استخدام دولتی، اشتغال، جستجوگر حرفه ای استخدام و شغل خانه جستجوی مشاغل رزومه‌ساز ۵۰ شرکت برتر ثبت آگهی استخدام ورود کارجو ثبت‌نام کارجو ورود کارجو ثبت‌نام کارجو ۱ جابینجا چطور به استخدام شدن من کمک می‌کند؟ مشاهده مشاهده بیشتر شرکت مهندسی و خدمات ایفا صنعت تابا | IFA SANAT TABA engineering and service Co نفت و گاز ۵۱ تا ۲۰۰ نفر www.tabaservice.com فرصت‌های شغلی ۰ معرفی شرکت مهندسی ",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "job_portal",
+      "source_id": "src-5f37adc21d30bd83",
+      "source_quality": "public_page",
+      "source_title": "فرصت‌های شغلی فعال در شرکت مهندسی و خدمات ایفا صنعت تابا | IFA SANAT TABA engineering and service Co | جابینجا",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://jobinja.ir/companies/ifa-sanat-taba-engineering-and-service-co/jobs"
     }
   ]
 }

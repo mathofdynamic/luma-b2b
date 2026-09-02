@@ -23,14 +23,286 @@
       "error": "HTTPError: HTTP Error 403: Forbidden",
       "stage": "search_query",
       "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D8%B3%DB%8C%D8%A7%D9%84+%DA%A9%D9%86%D8%AA%D8%B1%D9%84%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "InvalidURL: URL can't contain control characters. '/share?url=avval.ir/profile/64328/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%B3%DB%8C%D8%A7%D9%84-%DA%A9%D9%86%D8%AA%D8%B1%D9%84&text=شرکت بازرگانی سیال کنترل' (found at least ' ')",
+      "stage": "official_page",
+      "url": "https://twitter.com/share?url=avval.ir/profile/64328/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%B3%DB%8C%D8%A7%D9%84-%DA%A9%D9%86%D8%AA%D8%B1%D9%84&text=شرکت بازرگانی سیال کنترل"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "official_page",
+      "url": "https://twitter.com/ketabeavvalir"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 500: ",
+      "stage": "official_page",
+      "url": "https://trustseal.enamad.ir/?id=194990&Code=3Y0m3d1djm9fuqjoC8mT"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "official_page",
+      "url": "https://api.whatsapp.com/send?text=avval.ir/profile/64328/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%B3%DB%8C%D8%A7%D9%84-%DA%A9%D9%86%D8%AA%D8%B1%D9%84"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 500: INKApi Error",
+      "stage": "search_query",
+      "url": "https://search.yahoo.com/search?p=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D8%B3%DB%8C%D8%A7%D9%84+%DA%A9%D9%86%D8%AA%D8%B1%D9%84%22+%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+%D9%81%D8%B1%D8%B5%D8%AA+%D8%B4%D8%BA%D9%84%DB%8C&vl=lang_fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 36-40: ordinal not in range(128)",
+      "stage": "external_page",
+      "url": "https://www.linkedin.com/posts/fluid-control-commercial_همایش-سالانه-شرکت-بازرگانی-سیال-کنترل-activity-7377954581135319040-WFwU"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 25-29: ordinal not in range(128)",
+      "stage": "external_page",
+      "url": "https://www.linkedin.com/posts/sayal-control_امروز-آخرین-روز-نمایشگاه-تاسیسات-است-به-activity-7248966939618791426-DSPb"
     }
   ],
-  "generated_at": "2026-09-01T15:27:10Z",
+  "generated_at": "2026-09-02T06:50:54Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
     "proxy": "http://127.0.0.1:1087",
     "visible_browser_launched": false
+  },
+  "sales_activation": {
+    "captured_page_paths": [
+      "companies/ir-teh-5541a647bfac567d/pages/sales-264db199760a350c.txt",
+      "companies/ir-teh-5541a647bfac567d/pages/sales-c7b862e3129e3116.txt",
+      "companies/ir-teh-5541a647bfac567d/pages/sales-318e1ac000732ab0.txt",
+      "companies/ir-teh-5541a647bfac567d/pages/sales-c31de8c4229989c3.txt"
+    ],
+    "contacts": {
+      "decision_maker_direct_candidates": [],
+      "decision_maker_search_candidates": [
+        {
+          "confidence": 0.35,
+          "direct": false,
+          "evidence": "https://flco-co.com › mr-monshipour امیر منشی پور - مدیر فروش و فروشگاه سیال کنترل آشنایی با آقای منشی پور، مدیر فروش و سرپرست فروشگاه شرکت بازرگانی سیال کنترل (شعبه آواجنرال). سیال کنترل تامین، واردات و تول",
+          "field": "primary_contact",
+          "name": "با آقای منشی پور",
+          "role": "مدیر فروش",
+          "source_family": "other_public",
+          "source_title": "flco-co.com https://flco-co.com › mr-monshipour امیر منشی پور - مدیر فروش و فروشگاه سیال کنترل",
+          "source_url": "https://flco-co.com/mr-monshipour/"
+        },
+        {
+          "confidence": 0.35,
+          "direct": false,
+          "evidence": "opkey.ir › CompanyInformation دایرکتوری صنعت نفت ، گاز، پتروشیمی شرکت بازرگانی سیال کنترل مدیرعامل :حمید رضا محجوریان اصفهانی تلفن:021-26411404 فکس:021-26411407 آدرس سایت:flco-co.com آدرس ایمیل:info@flco_co.com آدرس",
+          "field": "economic_buyer",
+          "name": "حمید رضا محجوریان اصفهانی",
+          "role": "مدیرعامل",
+          "source_family": "other_public",
+          "source_title": "mopkey.ir https://www.mopkey.ir › CompanyInformation دایرکتوری صنعت نفت ، گاز، پتروشیمی شرکت بازرگانی سیال کنترل",
+          "source_url": "https://www.mopkey.ir/CompanyInformation?cid=086561be-02db-46c5-b4da-9b1feb79243a"
+        }
+      ],
+      "economic_buyer_confidence": 0.0,
+      "economic_buyer_name": null,
+      "economic_buyer_role": "Managing Director / CEO",
+      "economic_buyer_source_url": null,
+      "primary_contact_confidence": 0.0,
+      "primary_contact_name": null,
+      "primary_contact_role": "Technical Office / Project Sales Director",
+      "primary_contact_source_url": null,
+      "public_corporate_emails": [
+        "info@flco-co.com"
+      ],
+      "public_corporate_phones": [
+        "02126411404",
+        "02126411405",
+        "02126411406"
+      ],
+      "public_linkedin_company": null,
+      "public_whatsapp": null,
+      "technical_gatekeeper_confidence": 0.0,
+      "technical_gatekeeper_name": null,
+      "technical_gatekeeper_role": "Project Controls or Engineering Manager",
+      "technical_gatekeeper_source_url": null
+    },
+    "no_outreach_sent": true,
+    "public_journey": {
+      "entry_points": [
+        "public product/service information or catalog",
+        "public project/client information"
+      ],
+      "evidence": [
+        {
+          "claim": "The public page titled 'تامین، تولید و واردات تجهیزات صنعت آب، نفت، گاز و پتروشیمی' exposes product/catalog information, projects or client information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "تخصصی شیرآلات اسلاری و پینچ ولو effebi AKO پیشگام تکاب اتصال دماوند کورتک پلی پارک نگین شیر Herbe گروه صنعتی آریا خدمات پروژه ها بلاگ تماس با ما اطلاعات تماس جذب نمایندگی ریتاپی | خرید آنلاین شبکه های اجتماعی : باشگاه مشتریان ۷۴۵۲۵ باشگاه مشتریان ۷۴۵۲۵ EN ما راهی را پیدا می‌کنیم اسکرول کنید بازرگانی سیال کنترل شرکت بازرگانی سیال کنترل به عنوان تامین کننده و وارد کننده شیرآلات ، اتصالات و تجهیزات صنعت پایپینگ به ویژه صنعت آب و فاضلاب و تجهیزات نفت، گاز و پتروشیمی ، با گسترش محصولات و خدمات خود از لحاظ کمی و کیفی، با تولیدکنندگان مطرح داخلی و خارجی همکاری و به پیشرفت پروژه‌های ملی و صنعتی کمک می‌کند. شرکت سیال کنترل با حضور فعال در بازارهای صنا",
+          "source_family": "other_public",
+          "source_title": "تامین، تولید و واردات تجهیزات صنعت آب، نفت، گاز و پتروشیمی",
+          "source_url": "https://flco-co.com/"
+        },
+        {
+          "claim": "The public page titled 'درباره ما - شرکت بازرگانی سیال کنترل' exposes product/catalog information, projects or client information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "تخصصی شیرآلات اسلاری و پینچ ولو effebi AKO پیشگام تکاب اتصال دماوند کورتک پلی پارک نگین شیر Herbe گروه صنعتی آریا خدمات پروژه ها بلاگ تماس با ما اطلاعات تماس جذب نمایندگی ریتاپی | خرید آنلاین باشگاه مشتریان ۷۴۵۲۵ باشگاه مشتریان ۷۴۵۲۵ EN درباره سیال کنترل بیشتر بدانید شرکت بازرگانی سیال کنترل ، فعال در زمینه تامین و تجهیز شیرآلات و اتصالات صنعت پایپینگ در صنایع نفت و گاز و پتروشیمی، آب و فاضلاب، ساختمان، معدن و فولاد کشور بوده و توانسته با گسترش محصولات و خدمات خود و بهبود کیفیت آن‌ها، با تولید کنندگان مطرح داخلی ( برند میراب ) و خارجی (برندهای Cepex ، Effebi ، Ako ) همکاری کند. هدف شرکت سیال کنترل، همواره کمک به پیشبرد پروژه‌های ملی و صنعتی و",
+          "source_family": "other_public",
+          "source_title": "درباره ما - شرکت بازرگانی سیال کنترل",
+          "source_url": "https://flco-co.com/about-us/"
+        },
+        {
+          "claim": "The public page titled 'اتصالات صنعتی - سیال کنترل' exposes product/catalog information, a contact or order entry point.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "دقت بررسی کنید. این شامل فشار، دما، نوع مایع یا گاز، مواد ساخت اتصالات و استانداردهای مورد نیاز می‌شود. سپس، با مطالعه مشخصات فنی و کاتالوگ‌های مربوط به برندها و تولیدکنندگان مختلف، محصولات را مقایسه کنید و با توجه به نیازهای خود، برندی را که بیشترین تطابق را با شرایط دارد، انتخاب کنید. اطمینان از استاندارد بودن و کیفیت محصولات، معتبریت و تجربه شرکت تولیدکننده و همچنین ارزیابی خدمات پس از فروش از جمله موارد مهم در انتخاب اتصال لوله صنعتی است. همچنین، در نظر داشته باشید که انتخاب اتصالات باعث تأثیر مستقیم بر کارایی، ایمنی و عملکرد کل سیستم خواهد شد. تعمیر و نگهداری اتصالات صنعتی چرا تعمیر و نگهداری اتصالات صنعتی اهمیت دارد و چگونه انجام می‌شود",
+          "source_family": "other_public",
+          "source_title": "اتصالات صنعتی - سیال کنترل",
+          "source_url": "https://flco-co.com/products/fittinigs/"
+        },
+        {
+          "claim": "The public page titled 'شیرآلات صنعتی - سیال کنترل' exposes product/catalog information, projects or client information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "تخصصی شیرآلات اسلاری و پینچ ولو effebi AKO پیشگام تکاب اتصال دماوند کورتک پلی پارک نگین شیر Herbe گروه صنعتی آریا خدمات پروژه ها بلاگ تماس با ما اطلاعات تماس جذب نمایندگی ریتاپی | خرید آنلاین باشگاه مشتریان ۷۴۵۲۵ باشگاه مشتریان ۷۴۵۲۵ EN شیرآلات صنعتی در قلب هر سیستم پایپینگ صنعتی، قطعه‌ای وجود دارد که وظیفه کنترل، هدایت و ایمنی جریان سیالات را بر عهده دارد؛ قطعه‌ای به نام شیرآلات صنعتی . از پالایشگاه‌های عظیم نفت و گاز گرفته تا موتورخانه ساختمان‌ها، خطوط انتقال آب، صنایع دریایی، نیروگاه‌ها و کارخانه‌های تولیدی، همه برای عملکرد صحیح خود به انواع شیرآلات صنعتی وابسته هستند. انتخاب صحیح شیرآلات صنعتی نه تنها بر عملکرد سیستم تأثیر مستقیم دارد، بل",
+          "source_family": "other_public",
+          "source_title": "شیرآلات صنعتی - سیال کنترل",
+          "source_url": "https://flco-co.com/products/valves/"
+        }
+      ],
+      "intake_channels": [
+        "website contact or inquiry surface",
+        "published corporate email",
+        "published corporate phone"
+      ],
+      "observable_steps": [
+        "Customer reaches شرکت بازرگانی سیال کنترل through public product/service information or catalog, public project/client information.",
+        "Customer uses website contact or inquiry surface, published corporate email, published corporate phone to ask for information or service.",
+        "technical/commercial team reviews a project request; the public record does not expose the internal handoffs or approval rules.",
+        "A discovery meeting should validate volume, data sources, ownership and the smallest safe pilot."
+      ],
+      "observable_steps_fa": [
+        "مشتری از طریق public product/service information or catalog، public project/client information به شرکت بازرگانی سیال کنترل می‌رسد.",
+        "مشتری از website contact or inquiry surface، published corporate email، published corporate phone برای دریافت اطلاعات یا خدمت استفاده می‌کند.",
+        "technical/commercial team reviews a project request؛ مراحل داخلی و قواعد تأیید از منابع عمومی قابل مشاهده نیست.",
+        "در جلسه کشف، حجم، منابع داده، مالک فرایند و کوچک‌ترین پایلوت امن اعتبارسنجی شود."
+      ]
+    },
+    "source_families_added": [
+      "other_public"
+    ],
+    "version": "2026.09.sales-activation-v1",
+    "workflow": {
+      "activation_evidence_classification": "EVIDENCE_SUPPORTED",
+      "company_id": "ir-teh-5541a647bfac567d",
+      "confidence": "High",
+      "confidence_score": 0.85,
+      "current_problem": "A repeated lookup, document or approval handoff is plausible; validate the actual volume, owner and baseline before proposing automation.",
+      "current_problem_fa": "تکرار جست‌وجو، ساخت سند یا تأیید محتمل است؛ حجم واقعی، مالک و خط مبنا پیش از پیشنهاد خودکارسازی اعتبارسنجی شود.",
+      "current_process_hypothesis": "Based on the public تطبیق BOQ و مشخصات فنی برای پیشنهاد پروژه surface, the first process to validate is the handoff from incoming information to a reviewed business output. Public sources do not establish the internal process or a current inefficiency.",
+      "current_process_hypothesis_fa": "با توجه به سطح عمومی تطبیق BOQ و مشخصات فنی برای پیشنهاد پروژه، نخستین فرایند قابل بررسی، تبدیل ورودی به خروجی کسب‌وکاریِ قابل بازبینی است؛ منابع عمومی فرایند داخلی یا وجود ناکارآمدی فعلی را اثبات نمی‌کنند.",
+      "department": "Technical Office / Project Sales Director",
+      "discovery_questions": [
+        "BOQ و مشخصات فنی معمولاً با چه قالبی وارد می‌شوند؟",
+        "تطبیق گزینه‌های مجاز و جایگزین توسط چه نقشی تأیید می‌شود؟",
+        "کاتالوگ، دیتاشیت و گواهی فنی مرجع در کجا نگهداری می‌شود؟",
+        "کدام بخش از سابمیتال باید نسخه‌بندی و قابل ردیابی باشد؟",
+        "یک پروژه نمونه برای مقایسه زمان و خطا کدام است؟"
+      ],
+      "implementation_complexity": "High",
+      "implementation_risks": [
+        "data quality and permissions require discovery",
+        "human approval remains required",
+        "pilot should use a bounded workflow and approved samples"
+      ],
+      "implementation_risks_fa": [
+        "کیفیت داده و مجوزها باید در کشف بررسی شود",
+        "تأیید انسانی حفظ می‌شود",
+        "پایلوت با گردش محدود و نمونه‌های تأییدشده شروع شود"
+      ],
+      "likely_business_owner": "Technical Office / Project Sales Director",
+      "measurable_KPIs": [
+        "lines matched per hour",
+        "submittal turnaround",
+        "revision errors",
+        "follow-up coverage"
+      ],
+      "measurable_KPIs_fa": [
+        "تعداد ردیف تطبیق‌یافته در ساعت",
+        "زمان آماده‌سازی سابمیتال",
+        "خطاهای اصلاحی",
+        "پوشش پیگیری پروژه"
+      ],
+      "primary_users": "Technical office, project sales, procurement and commercial management",
+      "primary_users_fa": "دفتر فنی، فروش پروژه، تأمین و مدیریت بازرگانی",
+      "proposed_luma_solution": "A document-grounded workspace that structures BOQ lines, retrieves approved technical evidence, and prepares a versioned submittal or quotation pack for review.",
+      "proposed_luma_solution_fa": "یک میزکار مبتنی بر اسناد که ردیف‌های BOQ را ساختاریافته می‌کند، مستندات فنی تأییدشده را بازیابی می‌کند و بسته نسخه‌بندی‌شده سابمیتال یا پیشنهاد قیمت را برای بازبینی آماده می‌کند.",
+      "required_data": [
+        "BOQs, specifications, drawings, product catalogs, alternatives, certificates and prior submittals"
+      ],
+      "required_data_fa": [
+        "BOQ، مشخصات و نقشه‌ها، کاتالوگ محصول، گزینه‌های جایگزین، گواهی‌ها و سابمیتال‌های قبلی"
+      ],
+      "required_integrations": [
+        "Document repository, approved CRM/ERP exports, quotation workflow and approval records"
+      ],
+      "required_integrations_fa": [
+        "مخزن اسناد، خروجی مجاز CRM/ERP، گردش پیشنهاد قیمت و سوابق تأیید"
+      ],
+      "source_urls": [
+        "https://flco-co.com/",
+        "https://flco-co.com/about-us/",
+        "https://flco-co.com/products/fittinigs/",
+        "https://flco-co.com/products/valves/"
+      ],
+      "supporting_evidence": [
+        {
+          "claim": "The public page titled 'تامین، تولید و واردات تجهیزات صنعت آب، نفت، گاز و پتروشیمی' exposes product/catalog information, projects or client information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "تخصصی شیرآلات اسلاری و پینچ ولو effebi AKO پیشگام تکاب اتصال دماوند کورتک پلی پارک نگین شیر Herbe گروه صنعتی آریا خدمات پروژه ها بلاگ تماس با ما اطلاعات تماس جذب نمایندگی ریتاپی | خرید آنلاین شبکه های اجتماعی : باشگاه مشتریان ۷۴۵۲۵ باشگاه مشتریان ۷۴۵۲۵ EN ما راهی را پیدا می‌کنیم اسکرول کنید بازرگانی سیال کنترل شرکت بازرگانی سیال کنترل به عنوان تامین کننده و وارد کننده شیرآلات ، اتصالات و تجهیزات صنعت پایپینگ به ویژه صنعت آب و فاضلاب و تجهیزات نفت، گاز و پتروشیمی ، با گسترش محصولات و خدمات خود از لحاظ کمی و کیفی، با تولیدکنندگان مطرح داخلی و خارجی همکاری و به پیشرفت پروژه‌های ملی و صنعتی کمک می‌کند. شرکت سیال کنترل با حضور فعال در بازارهای صنا",
+          "source_family": "other_public",
+          "source_title": "تامین، تولید و واردات تجهیزات صنعت آب، نفت، گاز و پتروشیمی",
+          "source_url": "https://flco-co.com/"
+        },
+        {
+          "claim": "The public page titled 'درباره ما - شرکت بازرگانی سیال کنترل' exposes product/catalog information, projects or client information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "تخصصی شیرآلات اسلاری و پینچ ولو effebi AKO پیشگام تکاب اتصال دماوند کورتک پلی پارک نگین شیر Herbe گروه صنعتی آریا خدمات پروژه ها بلاگ تماس با ما اطلاعات تماس جذب نمایندگی ریتاپی | خرید آنلاین باشگاه مشتریان ۷۴۵۲۵ باشگاه مشتریان ۷۴۵۲۵ EN درباره سیال کنترل بیشتر بدانید شرکت بازرگانی سیال کنترل ، فعال در زمینه تامین و تجهیز شیرآلات و اتصالات صنعت پایپینگ در صنایع نفت و گاز و پتروشیمی، آب و فاضلاب، ساختمان، معدن و فولاد کشور بوده و توانسته با گسترش محصولات و خدمات خود و بهبود کیفیت آن‌ها، با تولید کنندگان مطرح داخلی ( برند میراب ) و خارجی (برندهای Cepex ، Effebi ، Ako ) همکاری کند. هدف شرکت سیال کنترل، همواره کمک به پیشبرد پروژه‌های ملی و صنعتی و",
+          "source_family": "other_public",
+          "source_title": "درباره ما - شرکت بازرگانی سیال کنترل",
+          "source_url": "https://flco-co.com/about-us/"
+        },
+        {
+          "claim": "The public page titled 'اتصالات صنعتی - سیال کنترل' exposes product/catalog information, a contact or order entry point.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "دقت بررسی کنید. این شامل فشار، دما، نوع مایع یا گاز، مواد ساخت اتصالات و استانداردهای مورد نیاز می‌شود. سپس، با مطالعه مشخصات فنی و کاتالوگ‌های مربوط به برندها و تولیدکنندگان مختلف، محصولات را مقایسه کنید و با توجه به نیازهای خود، برندی را که بیشترین تطابق را با شرایط دارد، انتخاب کنید. اطمینان از استاندارد بودن و کیفیت محصولات، معتبریت و تجربه شرکت تولیدکننده و همچنین ارزیابی خدمات پس از فروش از جمله موارد مهم در انتخاب اتصال لوله صنعتی است. همچنین، در نظر داشته باشید که انتخاب اتصالات باعث تأثیر مستقیم بر کارایی، ایمنی و عملکرد کل سیستم خواهد شد. تعمیر و نگهداری اتصالات صنعتی چرا تعمیر و نگهداری اتصالات صنعتی اهمیت دارد و چگونه انجام می‌شود",
+          "source_family": "other_public",
+          "source_title": "اتصالات صنعتی - سیال کنترل",
+          "source_url": "https://flco-co.com/products/fittinigs/"
+        },
+        {
+          "claim": "The public page titled 'شیرآلات صنعتی - سیال کنترل' exposes product/catalog information, projects or client information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "تخصصی شیرآلات اسلاری و پینچ ولو effebi AKO پیشگام تکاب اتصال دماوند کورتک پلی پارک نگین شیر Herbe گروه صنعتی آریا خدمات پروژه ها بلاگ تماس با ما اطلاعات تماس جذب نمایندگی ریتاپی | خرید آنلاین باشگاه مشتریان ۷۴۵۲۵ باشگاه مشتریان ۷۴۵۲۵ EN شیرآلات صنعتی در قلب هر سیستم پایپینگ صنعتی، قطعه‌ای وجود دارد که وظیفه کنترل، هدایت و ایمنی جریان سیالات را بر عهده دارد؛ قطعه‌ای به نام شیرآلات صنعتی . از پالایشگاه‌های عظیم نفت و گاز گرفته تا موتورخانه ساختمان‌ها، خطوط انتقال آب، صنایع دریایی، نیروگاه‌ها و کارخانه‌های تولیدی، همه برای عملکرد صحیح خود به انواع شیرآلات صنعتی وابسته هستند. انتخاب صحیح شیرآلات صنعتی نه تنها بر عملکرد سیستم تأثیر مستقیم دارد، بل",
+          "source_family": "other_public",
+          "source_title": "شیرآلات صنعتی - سیال کنترل",
+          "source_url": "https://flco-co.com/products/valves/"
+        }
+      ],
+      "workflow_evidence_classification": "EVIDENCE_SUPPORTED",
+      "workflow_family": "boq_specification_matching",
+      "workflow_id": "wf-25b68cb46b449c7e",
+      "workflow_name": "BOQ/specification matching and technical submittal support",
+      "workflow_name_fa": "تطبیق BOQ و مشخصات فنی برای پیشنهاد پروژه"
+    }
   },
   "screenshots": [
     {
@@ -271,6 +543,62 @@
       "source_title": "DuckDuckGo",
       "source_type": "commercial_audit",
       "source_url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D8%B3%DB%8C%D8%A7%D9%84+%DA%A9%D9%86%D8%AA%D8%B1%D9%84%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "captured_at": "2026-09-02T06:16:20Z",
+      "company_id": "ir-teh-5541a647bfac567d",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "تامین، تولید و واردات تجهیزات صنعت آب، نفت، گاز و پتروشیمی خانه درباره ما محصولات شیرآلات صنعتی اتصالات صنعتی لوله ها عملگرها برندها میراب کیز ایران ارتعاشات صنعتی پترو فجر مرکزی cepex آریا کوپلینگ آوند؛ تولیدکننده تخصصی شیرآلات اسلاری و پینچ ولو effebi AKO پیشگام تکاب اتصال دماوند کورتک پلی پارک نگین شیر Herbe گروه صنعتی آریا خدمات پروژه ها بلاگ تماس با ما اطلاعات تماس جذب نمایندگی ریتاپی | خرید آنلاین شبکه های اجتماعی : باشگاه مشتریان ۷۴۵۲۵ باشگاه مشتریان ۷۴۵۲۵ EN ما راهی را پیدا می‌کنیم اسکرول کنید بازرگانی سیال کنترل شرکت بازرگانی سیال کنترل به عنوان تامین کننده و وارد کننده شیرآلات ، اتصالات و تجهیزات صنعت پایپینگ به ویژه صنعت آب و فاضلاب و تجهیزات نفت، گاز و پتروشیمی ، با گسترش محصولات",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-7330d98cb69b17ea",
+      "source_quality": "public_page",
+      "source_title": "تامین، تولید و واردات تجهیزات صنعت آب، نفت، گاز و پتروشیمی",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://flco-co.com/"
+    },
+    {
+      "captured_at": "2026-09-02T06:34:36Z",
+      "company_id": "ir-teh-5541a647bfac567d",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "درباره ما - شرکت بازرگانی سیال کنترل پرش به محتوا خانه درباره ما محصولات شیرآلات صنعتی اتصالات صنعتی لوله ها عملگرها برندها میراب کیز ایران ارتعاشات صنعتی پترو فجر مرکزی cepex آریا کوپلینگ آوند؛ تولیدکننده تخصصی شیرآلات اسلاری و پینچ ولو effebi AKO پیشگام تکاب اتصال دماوند کورتک پلی پارک نگین شیر Herbe گروه صنعتی آریا خدمات پروژه ها بلاگ تماس با ما اطلاعات تماس جذب نمایندگی ریتاپی | خرید آنلاین باشگاه مشتریان ۷۴۵۲۵ باشگاه مشتریان ۷۴۵۲۵ EN درباره سیال کنترل بیشتر بدانید شرکت بازرگانی سیال کنترل ، فعال در زمینه تامین و تجهیز شیرآلات و اتصالات صنعت پایپینگ در صنایع نفت و گاز و پتروشیمی، آب و فاضلاب، ساختمان، معدن و فولاد کشور بوده و توانسته با گسترش محصولات و خدمات خود و بهبود کیفیت آن‌ها، با ت",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-394383965b9e9021",
+      "source_quality": "public_page",
+      "source_title": "درباره ما - شرکت بازرگانی سیال کنترل",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://flco-co.com/about-us/"
+    },
+    {
+      "captured_at": "2026-09-02T06:34:36Z",
+      "company_id": "ir-teh-5541a647bfac567d",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "اتصالات صنعتی - سیال کنترل پرش به محتوا خانه درباره ما محصولات شیرآلات صنعتی اتصالات صنعتی لوله ها عملگرها برندها میراب کیز ایران ارتعاشات صنعتی پترو فجر مرکزی cepex آریا کوپلینگ آوند؛ تولیدکننده تخصصی شیرآلات اسلاری و پینچ ولو effebi AKO پیشگام تکاب اتصال دماوند کورتک پلی پارک نگین شیر Herbe گروه صنعتی آریا خدمات پروژه ها بلاگ تماس با ما اطلاعات تماس جذب نمایندگی ریتاپی | خرید آنلاین باشگاه مشتریان ۷۴۵۲۵ باشگاه مشتریان ۷۴۵۲۵ EN اتصالات صنعتی اتصالات صنعتی، قطعات مکانیکی هستند که برای اتصال دو یا چند قطعه از یک سیستم لوله‌کشی یا خطوط انتقال استفاده می‌شوند. اتصالات صنعتی انواع مختلفی دارند و از مواد مختلفی ساخته می‌شوند. زانویی‌ها، فلنج‌ها، کوپلینگ‌ها و انشعابات از انواع اتصالات هستند. تامین",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-6817fc95d182465a",
+      "source_quality": "public_page",
+      "source_title": "اتصالات صنعتی - سیال کنترل",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://flco-co.com/products/fittinigs/"
+    },
+    {
+      "captured_at": "2026-09-02T06:34:36Z",
+      "company_id": "ir-teh-5541a647bfac567d",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "شیرآلات صنعتی - سیال کنترل پرش به محتوا خانه درباره ما محصولات شیرآلات صنعتی اتصالات صنعتی لوله ها عملگرها برندها میراب کیز ایران ارتعاشات صنعتی پترو فجر مرکزی cepex آریا کوپلینگ آوند؛ تولیدکننده تخصصی شیرآلات اسلاری و پینچ ولو effebi AKO پیشگام تکاب اتصال دماوند کورتک پلی پارک نگین شیر Herbe گروه صنعتی آریا خدمات پروژه ها بلاگ تماس با ما اطلاعات تماس جذب نمایندگی ریتاپی | خرید آنلاین باشگاه مشتریان ۷۴۵۲۵ باشگاه مشتریان ۷۴۵۲۵ EN شیرآلات صنعتی در قلب هر سیستم پایپینگ صنعتی، قطعه‌ای وجود دارد که وظیفه کنترل، هدایت و ایمنی جریان سیالات را بر عهده دارد؛ قطعه‌ای به نام شیرآلات صنعتی . از پالایشگاه‌های عظیم نفت و گاز گرفته تا موتورخانه ساختمان‌ها، خطوط انتقال آب، صنایع دریایی، نیروگاه‌ها و کارخانه",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-50f4bc014bfe64c1",
+      "source_quality": "public_page",
+      "source_title": "شیرآلات صنعتی - سیال کنترل",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://flco-co.com/products/valves/"
     }
   ]
 }

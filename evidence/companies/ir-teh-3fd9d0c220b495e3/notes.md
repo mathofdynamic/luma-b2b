@@ -27,3 +27,19 @@ Page captures:
 Audit fetch notes:
 - SOURCE_ERROR: https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%DA%A9%DB%8C%D9%85%DB%8C%D8%A7%DA%AF%D8%B1%D8%A7%D9%86+%D8%A7%D9%85%D8%B1%D9%88%D8%B2%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa: HTTPError: HTTP Error 403: Forbidden
 - SOURCE_ERROR: https://html.duckduckgo.com/html/?q=%22https+kimyagaran.com%22+Tehran+Iran+company&kl=ir-fa: HTTPError: HTTP Error 403: Forbidden
+
+## Sales activation
+
+Activation version: 2026.09.sales-activation-v1
+
+Captured pages:
+- `companies/ir-teh-3fd9d0c220b495e3/pages/sales-61da1152454ae815.txt`
+- `companies/ir-teh-3fd9d0c220b495e3/pages/sales-b6aa399dcd4f9a3c.txt`
+- `companies/ir-teh-3fd9d0c220b495e3/pages/sales-dc99f8d42b0b9ac2.txt`
+- `companies/ir-teh-3fd9d0c220b495e3/pages/sales-c2c02231fea5770a.txt`
+- `companies/ir-teh-3fd9d0c220b495e3/pages/sales-2d156682155264aa.txt`
+- `companies/ir-teh-3fd9d0c220b495e3/pages/sales-884bc912ff22d400.txt`
+
+Source families added/confirmed: job_portal, other_public
+Primary workflow classification: STRONG_HYPOTHESIS
+No outreach was sent; no contact form, RFQ, email, WhatsApp or phone call was submitted.

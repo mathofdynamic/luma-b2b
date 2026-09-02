@@ -35,14 +35,235 @@
       "error": "HTTPError: HTTP Error 403: Forbidden",
       "stage": "search_query",
       "url": "https://html.duckduckgo.com/html/?q=%22%D8%A7%D8%B7%D9%84%D8%B3+%D9%81%D8%B1%D8%A7%D8%A8%D8%B1+%D8%AC%D9%87%D8%A7%D9%86%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "InvalidURL: URL can't contain control characters. '/share?url=avval.ir/profile/rssln/%D8%A7%D8%B7%D9%84%D8%B3-%D9%81%D8%B1%D8%A7%D8%A8%D8%B1-%D8%AC%D9%87%D8%A7%D9%86&text=اطلس فرابر جهان' (found at least ' ')",
+      "stage": "official_page",
+      "url": "https://twitter.com/share?url=avval.ir/profile/rssln/%D8%A7%D8%B7%D9%84%D8%B3-%D9%81%D8%B1%D8%A7%D8%A8%D8%B1-%D8%AC%D9%87%D8%A7%D9%86&text=اطلس فرابر جهان"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "official_page",
+      "url": "https://twitter.com/ketabeavvalir"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 500: ",
+      "stage": "official_page",
+      "url": "https://trustseal.enamad.ir/?id=194990&Code=3Y0m3d1djm9fuqjoC8mT"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "official_page",
+      "url": "https://api.whatsapp.com/send?text=avval.ir/profile/rssln/%D8%A7%D8%B7%D9%84%D8%B3-%D9%81%D8%B1%D8%A7%D8%A8%D8%B1-%D8%AC%D9%87%D8%A7%D9%86"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%A7%D8%B7%D9%84%D8%B3+%D9%81%D8%B1%D8%A7%D8%A8%D8%B1+%D8%AC%D9%87%D8%A7%D9%86%22+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%A7%D8%B7%D9%84%D8%B3+%D9%81%D8%B1%D8%A7%D8%A8%D8%B1+%D8%AC%D9%87%D8%A7%D9%86%22+%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+%D9%81%D8%B1%D8%B5%D8%AA+%D8%B4%D8%BA%D9%84%DB%8C&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%A7%D8%B7%D9%84%D8%B3+%D9%81%D8%B1%D8%A7%D8%A8%D8%B1+%D8%AC%D9%87%D8%A7%D9%86%22+%D9%86%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87+%D8%A7%D9%86%D8%AC%D9%85%D9%86+%D8%B9%D8%B6%D9%88&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%A7%D8%B7%D9%84%D8%B3+%D9%81%D8%B1%D8%A7%D8%A8%D8%B1+%D8%AC%D9%87%D8%A7%D9%86%22+%DA%A9%D8%A7%D8%AA%D8%A7%D9%84%D9%88%DA%AF+%D8%A7%D8%B3%D8%AA%D8%B9%D9%84%D8%A7%D9%85+%D9%82%DB%8C%D9%85%D8%AA+%D9%81%D8%B1%D9%88%D8%B4+%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%A7%D8%B7%D9%84%D8%B3+%D9%81%D8%B1%D8%A7%D8%A8%D8%B1+%D8%AC%D9%87%D8%A7%D9%86%22+%22api.whatsapp.com%22+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
     }
   ],
-  "generated_at": "2026-09-01T15:27:11Z",
+  "generated_at": "2026-09-02T06:51:27Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
     "proxy": "http://127.0.0.1:1087",
     "visible_browser_launched": false
+  },
+  "sales_activation": {
+    "captured_page_paths": [
+      "companies/ir-teh-7897e19cde408194/pages/sales-537fd5d0ea5b2fa0.txt",
+      "companies/ir-teh-7897e19cde408194/pages/sales-9f458a98bc5bb76b.txt",
+      "companies/ir-teh-7897e19cde408194/pages/sales-373b882af52f99f1.txt",
+      "companies/ir-teh-7897e19cde408194/pages/sales-3cc21e2b31ffa61f.txt"
+    ],
+    "contacts": {
+      "decision_maker_direct_candidates": [],
+      "decision_maker_search_candidates": [],
+      "economic_buyer_confidence": 0.0,
+      "economic_buyer_name": null,
+      "economic_buyer_role": "Managing Director / CEO",
+      "economic_buyer_source_url": null,
+      "primary_contact_confidence": 0.0,
+      "primary_contact_name": null,
+      "primary_contact_role": "Commercial / Sales Operations Director",
+      "primary_contact_source_url": null,
+      "public_corporate_emails": [
+        "info@atlasfarabarjahan.com"
+      ],
+      "public_corporate_phones": [
+        "02188018692",
+        "02188019175"
+      ],
+      "public_linkedin_company": null,
+      "public_whatsapp": null,
+      "technical_gatekeeper_confidence": 0.0,
+      "technical_gatekeeper_name": null,
+      "technical_gatekeeper_role": "Product or Technical Sales Manager",
+      "technical_gatekeeper_source_url": null
+    },
+    "no_outreach_sent": true,
+    "public_journey": {
+      "entry_points": [
+        "public project/client information"
+      ],
+      "evidence": [
+        {
+          "claim": "The public page titled 'تماس با ما | شرکت حمل و نقل اطلس فرابر جهان' exposes a contact or order entry point.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": ": ۸ صبح تا ۵ عصر پنجشنبه: ۸ صبح تا ۱ ظهر جمعه: تعطیل فرم تماس با ما نام کامل پست الکترونیک شماره تماس موضوع انتخاب کنید استعلام قیمت پیشنهاد همکاری انتقادات و پیشنهادات پشتیبانی سایر پیام شما ارسال پیام سوالات متداول پاسخ به پرتکرارترین سوالات شما ساعات کاری شرکت چه زمانی است؟ شرکت ما از شنبه تا چهارشنبه از ساعت ۸ صبح تا ۵ عصر و پنجشنبه‌ها از ۸ صبح تا ۱ ظهر آماده ارائه خدمات است. جمعه‌ها و روزهای تعطیل رسمی شرکت تعطیل می‌باشد. چگونه می‌توانم از وضعیت محموله خود مطلع شوم؟ شما می‌توانید با تماس با واحد پشتیبانی و یا ارسال ایمیل به info@atlasfarabarjahan.com از وضعیت محموله خود آگاه شوید. آیا امکان حمل بار به صورت فوری وجود دارد؟ بله، شرکت ما خد",
+          "source_family": "other_public",
+          "source_title": "تماس با ما | شرکت حمل و نقل اطلس فرابر جهان",
+          "source_url": "https://www.atlasfarabarjahan.com/contact.html"
+        },
+        {
+          "claim": "The public page titled 'خدمات | شرکت حمل و نقل اطلس فرابر جهان' exposes projects or client information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "خدمات | شرکت حمل و نقل اطلس فرابر جهان اطلس فرابر جهان صفحه اصلی خدمات مقالات شرکت گالری تصاویر درباره ما تماس با ما EN TR ورود خدمات تخصصی حمل و نقل با شبکه گسترده حمل و نقل در سراسر جهان و بهره‌گیری از مدرن‌ترین ناوگان دسته‌بندی خدمات انتخاب روش حمل بر اساس نیاز شما حمل جاده‌ای حمل ریلی حمل هوایی حمل دریایی حمل ویژه حمل و نقل جاده‌ای مناسب برای حمل بار به تمام نقاط دنیا با انواع وسایل نقلیه سنگین. این روش پرکاربردترین روش حمل است. پوشش تمام کشور های جهان تحویل بین 1 تا 5 هفته امکان حمل بار تا 25 تن رهگیری لحظه‌ای بار تماس با کارشناسان شرکت انواع وسایل نقلیه کامیونت (تا 5 تن) تریلی (تا 30 تن) کامیون یخچال‌دار حمل و نقل ریلی مناسب برای حمل با",
+          "source_family": "other_public",
+          "source_title": "خدمات | شرکت حمل و نقل اطلس فرابر جهان",
+          "source_url": "https://www.atlasfarabarjahan.com/services.html"
+        }
+      ],
+      "intake_channels": [
+        "website contact or inquiry surface",
+        "published corporate email",
+        "published corporate phone"
+      ],
+      "observable_steps": [
+        "Customer reaches اطلس فرابر جهان through public project/client information.",
+        "Customer uses website contact or inquiry surface, published corporate email, published corporate phone to ask for information or service.",
+        "sales team prepares a response or quotation; the public record does not expose the internal handoffs or approval rules.",
+        "A discovery meeting should validate volume, data sources, ownership and the smallest safe pilot."
+      ],
+      "observable_steps_fa": [
+        "مشتری از طریق public project/client information به اطلس فرابر جهان می‌رسد.",
+        "مشتری از website contact or inquiry surface، published corporate email، published corporate phone برای دریافت اطلاعات یا خدمت استفاده می‌کند.",
+        "sales team prepares a response or quotation؛ مراحل داخلی و قواعد تأیید از منابع عمومی قابل مشاهده نیست.",
+        "در جلسه کشف، حجم، منابع داده، مالک فرایند و کوچک‌ترین پایلوت امن اعتبارسنجی شود."
+      ]
+    },
+    "source_families_added": [
+      "other_public"
+    ],
+    "version": "2026.09.sales-activation-v1",
+    "workflow": {
+      "activation_evidence_classification": "EVIDENCE_SUPPORTED",
+      "company_id": "ir-teh-7897e19cde408194",
+      "confidence": "High",
+      "confidence_score": 0.85,
+      "current_problem": "A repeated lookup, document or approval handoff is plausible; validate the actual volume, owner and baseline before proposing automation.",
+      "current_problem_fa": "تکرار جست‌وجو، ساخت سند یا تأیید محتمل است؛ حجم واقعی، مالک و خط مبنا پیش از پیشنهاد خودکارسازی اعتبارسنجی شود.",
+      "current_process_hypothesis": "Based on the public دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت surface, the first process to validate is the handoff from incoming information to a reviewed business output. Public sources do not establish the internal process or a current inefficiency.",
+      "current_process_hypothesis_fa": "با توجه به سطح عمومی دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت، نخستین فرایند قابل بررسی، تبدیل ورودی به خروجی کسب‌وکاریِ قابل بازبینی است؛ منابع عمومی فرایند داخلی یا وجود ناکارآمدی فعلی را اثبات نمی‌کنند.",
+      "department": "Commercial Director / Sales Operations Manager",
+      "discovery_questions": [
+        "در ماه چند درخواست قیمت وارد می‌شود و از چه کانال‌هایی؟",
+        "امروز برای تطبیق مشخصات، قیمت و موجودی به کدام فایل یا سامانه رجوع می‌شود؟",
+        "کدام قواعد قیمت‌گذاری و حاشیه سود باید کاملاً قطعی و انسانی باقی بماند؟",
+        "برای شروع، پاسخ فنی، پیشنهاد محصول یا پیش‌فاکتور کدام خروجی ارزشمندتر است؟",
+        "یک نمونه استعلام واقعی برای اندازه‌گیری زمان و میزان اصلاحات کدام است؟"
+      ],
+      "implementation_complexity": "Medium",
+      "implementation_risks": [
+        "data quality and permissions require discovery",
+        "human approval remains required",
+        "pilot should use a bounded workflow and approved samples"
+      ],
+      "implementation_risks_fa": [
+        "کیفیت داده و مجوزها باید در کشف بررسی شود",
+        "تأیید انسانی حفظ می‌شود",
+        "پایلوت با گردش محدود و نمونه‌های تأییدشده شروع شود"
+      ],
+      "likely_business_owner": "Commercial Director / Sales Operations Manager",
+      "measurable_KPIs": [
+        "quote turnaround time",
+        "RFQs handled per salesperson",
+        "correction rate",
+        "follow-up completion"
+      ],
+      "measurable_KPIs_fa": [
+        "زمان پاسخ به استعلام",
+        "تعداد استعلام قابل پردازش برای هر کارشناس",
+        "نرخ اصلاح پیشنهاد",
+        "تکمیل پیگیری"
+      ],
+      "primary_users": "Sales operations, product specialists and commercial management",
+      "primary_users_fa": "فروش، بازرگانی و کارشناسان فنی محصول",
+      "proposed_luma_solution": "A controlled intake workspace that structures incoming requests, matches them against the approved product/specification master, and prepares an explainable draft response for human approval.",
+      "proposed_luma_solution_fa": "یک میزکار کنترل‌شده برای ساختاردهی درخواست‌های ورودی، تطبیق آن‌ها با مرجع تأییدشده محصولات و مشخصات، و آماده‌سازی پیش‌نویس پاسخ برای تأیید انسانی.",
+      "required_data": [
+        "RFQs, product/SKU master, specifications, price lists, stock snapshots, historical quotes and approval rules"
+      ],
+      "required_data_fa": [
+        "استعلام‌ها، مرجع محصول و SKU، مشخصات فنی، فهرست قیمت، تصویر موجودی، پیشنهادهای قبلی و قواعد تأیید"
+      ],
+      "required_integrations": [
+        "Approved email/form intake and exports or APIs from ERP, CRM or accounting systems if available"
+      ],
+      "required_integrations_fa": [
+        "ورودی ایمیل/فرم و در صورت وجود خروجی یا API سامانه‌های ERP، CRM یا حسابداری"
+      ],
+      "source_urls": [
+        "https://www.atlasfarabarjahan.com/contact.html",
+        "https://www.atlasfarabarjahan.com/services.html"
+      ],
+      "supporting_evidence": [
+        {
+          "claim": "The public page titled 'تماس با ما | شرکت حمل و نقل اطلس فرابر جهان' exposes a contact or order entry point.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": ": ۸ صبح تا ۵ عصر پنجشنبه: ۸ صبح تا ۱ ظهر جمعه: تعطیل فرم تماس با ما نام کامل پست الکترونیک شماره تماس موضوع انتخاب کنید استعلام قیمت پیشنهاد همکاری انتقادات و پیشنهادات پشتیبانی سایر پیام شما ارسال پیام سوالات متداول پاسخ به پرتکرارترین سوالات شما ساعات کاری شرکت چه زمانی است؟ شرکت ما از شنبه تا چهارشنبه از ساعت ۸ صبح تا ۵ عصر و پنجشنبه‌ها از ۸ صبح تا ۱ ظهر آماده ارائه خدمات است. جمعه‌ها و روزهای تعطیل رسمی شرکت تعطیل می‌باشد. چگونه می‌توانم از وضعیت محموله خود مطلع شوم؟ شما می‌توانید با تماس با واحد پشتیبانی و یا ارسال ایمیل به info@atlasfarabarjahan.com از وضعیت محموله خود آگاه شوید. آیا امکان حمل بار به صورت فوری وجود دارد؟ بله، شرکت ما خد",
+          "source_family": "other_public",
+          "source_title": "تماس با ما | شرکت حمل و نقل اطلس فرابر جهان",
+          "source_url": "https://www.atlasfarabarjahan.com/contact.html"
+        },
+        {
+          "claim": "The public page titled 'خدمات | شرکت حمل و نقل اطلس فرابر جهان' exposes projects or client information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "خدمات | شرکت حمل و نقل اطلس فرابر جهان اطلس فرابر جهان صفحه اصلی خدمات مقالات شرکت گالری تصاویر درباره ما تماس با ما EN TR ورود خدمات تخصصی حمل و نقل با شبکه گسترده حمل و نقل در سراسر جهان و بهره‌گیری از مدرن‌ترین ناوگان دسته‌بندی خدمات انتخاب روش حمل بر اساس نیاز شما حمل جاده‌ای حمل ریلی حمل هوایی حمل دریایی حمل ویژه حمل و نقل جاده‌ای مناسب برای حمل بار به تمام نقاط دنیا با انواع وسایل نقلیه سنگین. این روش پرکاربردترین روش حمل است. پوشش تمام کشور های جهان تحویل بین 1 تا 5 هفته امکان حمل بار تا 25 تن رهگیری لحظه‌ای بار تماس با کارشناسان شرکت انواع وسایل نقلیه کامیونت (تا 5 تن) تریلی (تا 30 تن) کامیون یخچال‌دار حمل و نقل ریلی مناسب برای حمل با",
+          "source_family": "other_public",
+          "source_title": "خدمات | شرکت حمل و نقل اطلس فرابر جهان",
+          "source_url": "https://www.atlasfarabarjahan.com/services.html"
+        }
+      ],
+      "workflow_evidence_classification": "EVIDENCE_SUPPORTED",
+      "workflow_family": "rfq_quotation",
+      "workflow_id": "wf-7d85abf117217af9",
+      "workflow_name": "RFQ intake, product matching and draft quotation",
+      "workflow_name_fa": "دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت"
+    }
   },
   "screenshots": [
     {
@@ -216,6 +437,62 @@
       "source_title": "تماس با ما | شرکت حمل و نقل اطلس فرابر جهان",
       "source_type": "commercial_audit",
       "source_url": "https://www.atlasfarabarjahan.com/contact.html"
+    },
+    {
+      "captured_at": "2026-09-02T06:17:29Z",
+      "company_id": "ir-teh-7897e19cde408194",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "شرکت حمل و نقل اطلس فرابر جهان | حمل بار زمینی، هوایی و ریلی به سراسر جهان اطلس فرابر جهان صفحه اصلی خدمات مقالات شرکت گالری تصاویر درباره ما تماس با ما EN TR ورود حمل و نقل مطمئن و سریع بار به تمام نقاط دنیا با بیش از 20 سال تجربه در زمینه حمل و نقل بار و کالا با بهترین کیفیت و مناسب‌ترین قیمت ثبت درخواست آنلاین حمل زمینی چرا ما را انتخاب می‌کنند؟ مزیت‌های رقابتی شرکت حمل و نقل اطلس فرابر جهان تحویل سریع حمل بار در کوتاه‌ترین زمان ممکن با برنامه‌ریزی دقیق قیمت مناسب بهترین قیمت‌ها با توجه به مسافت و نوع بار بیمه بار پوشش بیمه‌ای کامل برای تمامی محموله‌ها پشتیبانی 24/7 پشتیبانی آنلاین و تلفنی در تمام ساعات خدمات ما انواع خدمات حمل و نقل بار و کالا حمل جاده‌ای حمل بار با انواع کامیون و تریلی ",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-2276858803ddb585",
+      "source_quality": "public_page",
+      "source_title": "شرکت حمل و نقل اطلس فرابر جهان | حمل بار زمینی، هوایی و ریلی به سراسر جهان",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://www.atlasfarabarjahan.com/"
+    },
+    {
+      "captured_at": "2026-09-02T06:36:14Z",
+      "company_id": "ir-teh-7897e19cde408194",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "تماس با ما | شرکت حمل و نقل اطلس فرابر جهان اطلس فرابر جهان صفحه اصلی خدمات مقالات شرکت گالری تصاویر درباره ما تماس با ما EN TR ورود تماس با ما ما آماده پاسخگویی به سوالات و پیشنهادات شما هستیم راه‌های ارتباطی می‌توانید از طریق روش‌های زیر با ما در ارتباط باشید اطلاعات تماس آدرس دفتر مرکزی تهران، میدان فاطمی، خیابان فتحی شقاقی، به سمت بزرگراه شهید گمنام، پلاک ۸۵، طبقه ۲، واحد۴ تلفن‌های تماس 021-88018692 09125038824 پست الکترونیک info@atlasfarabarjahan.com ساعات کاری شنبه تا چهارشنبه: ۸ صبح تا ۵ عصر پنجشنبه: ۸ صبح تا ۱ ظهر جمعه: تعطیل فرم تماس با ما نام کامل پست الکترونیک شماره تماس موضوع انتخاب کنید استعلام قیمت پیشنهاد همکاری انتقادات و پیشنهادات پشتیبانی سایر پیام شما ارسال پیام سوالات متد",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-c443ce5d460894f7",
+      "source_quality": "public_page",
+      "source_title": "تماس با ما | شرکت حمل و نقل اطلس فرابر جهان",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://www.atlasfarabarjahan.com/contact.html"
+    },
+    {
+      "captured_at": "2026-09-02T06:36:14Z",
+      "company_id": "ir-teh-7897e19cde408194",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "درباره ما | شرکت حمل و نقل اطلس فرابر جهان اطلس فرابر جهان صفحه اصلی خدمات مقالات شرکت گالری تصاویر درباره ما تماس با ما EN TR ورود درباره شرکت ما شرکت حمل و نقل اطلس فرابر جهان با بیش از دو دهه تجربه در صنعت حمل و نقل تاریخچه شرکت شرکت حمل و نقل اطلس فرابر جهان در سال 1404 با هدف ارائه خدمات حمل و نقل بین‌المللی تأسیس شد. (اولین شرکت حمل و نقل ما , ماهان ترابر آریا) ما در ابتدا با یک دفتر کوچک و چند دستگاه کامیون شروع به کار کردیم و امروز به یکی از شرکت‌های پیشرو در صنعت حمل و نقل تبدیل شده‌ایم. طی این سال‌ها، ما با تکیه بر اصول حرفه‌ای و رعایت استانداردهای بین‌المللی، توانسته‌ایم اعتماد مشتریان زیادی را جلب کنیم. امروز، شبکه حمل و نقل ما بیش از 30 کشور در خاورمیانه و اروپا را پوشش می‌دهد. ",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-e7211dbe51cd5263",
+      "source_quality": "public_page",
+      "source_title": "درباره ما | شرکت حمل و نقل اطلس فرابر جهان",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://www.atlasfarabarjahan.com/about.html"
+    },
+    {
+      "captured_at": "2026-09-02T06:36:14Z",
+      "company_id": "ir-teh-7897e19cde408194",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "خدمات | شرکت حمل و نقل اطلس فرابر جهان اطلس فرابر جهان صفحه اصلی خدمات مقالات شرکت گالری تصاویر درباره ما تماس با ما EN TR ورود خدمات تخصصی حمل و نقل با شبکه گسترده حمل و نقل در سراسر جهان و بهره‌گیری از مدرن‌ترین ناوگان دسته‌بندی خدمات انتخاب روش حمل بر اساس نیاز شما حمل جاده‌ای حمل ریلی حمل هوایی حمل دریایی حمل ویژه حمل و نقل جاده‌ای مناسب برای حمل بار به تمام نقاط دنیا با انواع وسایل نقلیه سنگین. این روش پرکاربردترین روش حمل است. پوشش تمام کشور های جهان تحویل بین 1 تا 5 هفته امکان حمل بار تا 25 تن رهگیری لحظه‌ای بار تماس با کارشناسان شرکت انواع وسایل نقلیه کامیونت (تا 5 تن) تریلی (تا 30 تن) کامیون یخچال‌دار حمل و نقل ریلی مناسب برای حمل بارهای حجیم و مسافت‌های طولانی با امنیت و صرفه‌جویی ",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-b94b05555b2d8d1a",
+      "source_quality": "public_page",
+      "source_title": "خدمات | شرکت حمل و نقل اطلس فرابر جهان",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://www.atlasfarabarjahan.com/services.html"
     }
   ]
 }

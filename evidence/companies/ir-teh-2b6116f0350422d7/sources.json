@@ -41,14 +41,205 @@
       "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
       "stage": "search_query",
       "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+%DA%AF%D8%B3%D8%AA%D8%B1%D8%A7%D9%86%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "InvalidURL: URL can't contain control characters. '/share?url=avval.ir/profile/03d63/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A7%D9%86%D8%A8%D8%A7%D8%B1-%DA%AF%D8%B3%D8%AA%D8%B1%D8%A7%D9%86&text=شرکت انبار گستران' (found at least ' ')",
+      "stage": "official_page",
+      "url": "https://twitter.com/share?url=avval.ir/profile/03d63/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A7%D9%86%D8%A8%D8%A7%D8%B1-%DA%AF%D8%B3%D8%AA%D8%B1%D8%A7%D9%86&text=شرکت انبار گستران"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "official_page",
+      "url": "https://twitter.com/ketabeavvalir"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 500: ",
+      "stage": "official_page",
+      "url": "https://trustseal.enamad.ir/?id=194990&Code=3Y0m3d1djm9fuqjoC8mT"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "official_page",
+      "url": "https://api.whatsapp.com/send?text=avval.ir/profile/03d63/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A7%D9%86%D8%A8%D8%A7%D8%B1-%DA%AF%D8%B3%D8%AA%D8%B1%D8%A7%D9%86"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 500: INKApi Error",
+      "stage": "search_query",
+      "url": "https://search.yahoo.com/search?p=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+%DA%AF%D8%B3%D8%AA%D8%B1%D8%A7%D9%86%22+%D9%86%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87+%D8%A7%D9%86%D8%AC%D9%85%D9%86+%D8%B9%D8%B6%D9%88&vl=lang_fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "InvalidURL: URL can't contain control characters. '/jobs/keyword/مدیر انبار' (found at least ' ')",
+      "stage": "external_page",
+      "url": "https://jobvision.ir/jobs/keyword/مدیر انبار"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 12-18: ordinal not in range(128)",
+      "stage": "external_page",
+      "url": "https://www.e-estekhdam.com/search/استخدام-مدیر-انبار-در-تهران"
     }
   ],
-  "generated_at": "2026-09-01T15:27:10Z",
+  "generated_at": "2026-09-02T06:50:52Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
     "proxy": "http://127.0.0.1:1087",
     "visible_browser_launched": false
+  },
+  "sales_activation": {
+    "captured_page_paths": [
+      "companies/ir-teh-2b6116f0350422d7/pages/sales-b418b9874f6fb2de.txt",
+      "companies/ir-teh-2b6116f0350422d7/pages/sales-75ced1c09885bf0f.txt"
+    ],
+    "contacts": {
+      "decision_maker_direct_candidates": [],
+      "decision_maker_search_candidates": [],
+      "economic_buyer_confidence": 0.0,
+      "economic_buyer_name": null,
+      "economic_buyer_role": "Managing Director / CEO",
+      "economic_buyer_source_url": null,
+      "primary_contact_confidence": 0.0,
+      "primary_contact_name": null,
+      "primary_contact_role": "Technical Office / Project Sales Director",
+      "primary_contact_source_url": null,
+      "public_corporate_emails": [
+        "info@anbargostaran.com"
+      ],
+      "public_corporate_phones": [
+        "02166035692",
+        "02166036525"
+      ],
+      "public_linkedin_company": null,
+      "public_whatsapp": "http://WA.ME/989907565156",
+      "technical_gatekeeper_confidence": 0.0,
+      "technical_gatekeeper_name": null,
+      "technical_gatekeeper_role": "Project Controls or Engineering Manager",
+      "technical_gatekeeper_source_url": null
+    },
+    "no_outreach_sent": true,
+    "public_journey": {
+      "entry_points": [
+        "public product/service information or catalog",
+        "public project/client information",
+        "public service/maintenance information"
+      ],
+      "evidence": [
+        {
+          "claim": "The public page titled 'قفسه فلزی | قفسه انبار | قفسه بندی | سازه های فولادی انبارگستران' exposes product/catalog information, service or maintenance information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "قفسه فلزی | قفسه انبار | قفسه بندی | سازه های فولادی انبارگستران صفحه نخست محصولات قفسه فروشگاهی قفسه هایپرمارکتی قفسه مغازه رگال تجهیزات فروشگاه قفسه بندی صنعتی قفسه پانل راک قفسه پالت راک قفسه درایوین راک قفسه کانتیلور راک قفسه مشبک نیم طبقه پیش ساخته قفسه گالوانیزه ظروف نگهداری مواد و کالا قفسه اداری قفسه مشبک قفسه بایگانی ریلی گالری درباره ما وبلاگ تماس با ما گارانتی مقالات خرید قفسه آشنایی با پالت راک بهینه سازی راهرو قفسه راک سازه های فولادی انبارگستران سازه های فولادی انبارگستران قیمت قفسه صفحه نخست محصولات قفسه فروشگاهی قفسه هایپرمارکتی قفسه مغازه رگال تجهیزات فروشگاه قفسه بندی صنعتی قفسه پانل راک قفسه پالت راک قفسه درایوین راک قفسه ک",
+          "source_family": "other_public",
+          "source_title": "قفسه فلزی | قفسه انبار | قفسه بندی | سازه های فولادی انبارگستران",
+          "source_url": "https://anbargostaran.com/"
+        }
+      ],
+      "intake_channels": [
+        "published corporate email",
+        "published corporate phone",
+        "explicitly published WhatsApp business link"
+      ],
+      "observable_steps": [
+        "Customer reaches شرکت انبار گستران through public product/service information or catalog, public project/client information, public service/maintenance information.",
+        "Customer uses published corporate email, published corporate phone, explicitly published WhatsApp business link to ask for information or service.",
+        "technical/commercial team reviews a project request; the public record does not expose the internal handoffs or approval rules.",
+        "A discovery meeting should validate volume, data sources, ownership and the smallest safe pilot."
+      ],
+      "observable_steps_fa": [
+        "مشتری از طریق public product/service information or catalog، public project/client information، public service/maintenance information به شرکت انبار گستران می‌رسد.",
+        "مشتری از published corporate email، published corporate phone، explicitly published WhatsApp business link برای دریافت اطلاعات یا خدمت استفاده می‌کند.",
+        "technical/commercial team reviews a project request؛ مراحل داخلی و قواعد تأیید از منابع عمومی قابل مشاهده نیست.",
+        "در جلسه کشف، حجم، منابع داده، مالک فرایند و کوچک‌ترین پایلوت امن اعتبارسنجی شود."
+      ]
+    },
+    "source_families_added": [
+      "job_portal",
+      "other_public"
+    ],
+    "version": "2026.09.sales-activation-v1",
+    "workflow": {
+      "activation_evidence_classification": "STRONG_HYPOTHESIS",
+      "company_id": "ir-teh-2b6116f0350422d7",
+      "confidence": "Medium",
+      "confidence_score": 0.7,
+      "current_problem": "A repeated lookup, document or approval handoff is plausible; validate the actual volume, owner and baseline before proposing automation.",
+      "current_problem_fa": "تکرار جست‌وجو، ساخت سند یا تأیید محتمل است؛ حجم واقعی، مالک و خط مبنا پیش از پیشنهاد خودکارسازی اعتبارسنجی شود.",
+      "current_process_hypothesis": "Based on the public تطبیق BOQ و مشخصات فنی برای پیشنهاد پروژه surface, the first process to validate is the handoff from incoming information to a reviewed business output. Public sources do not establish the internal process or a current inefficiency.",
+      "current_process_hypothesis_fa": "با توجه به سطح عمومی تطبیق BOQ و مشخصات فنی برای پیشنهاد پروژه، نخستین فرایند قابل بررسی، تبدیل ورودی به خروجی کسب‌وکاریِ قابل بازبینی است؛ منابع عمومی فرایند داخلی یا وجود ناکارآمدی فعلی را اثبات نمی‌کنند.",
+      "department": "Technical Office / Project Sales Director",
+      "discovery_questions": [
+        "BOQ و مشخصات فنی معمولاً با چه قالبی وارد می‌شوند؟",
+        "تطبیق گزینه‌های مجاز و جایگزین توسط چه نقشی تأیید می‌شود؟",
+        "کاتالوگ، دیتاشیت و گواهی فنی مرجع در کجا نگهداری می‌شود؟",
+        "کدام بخش از سابمیتال باید نسخه‌بندی و قابل ردیابی باشد؟",
+        "یک پروژه نمونه برای مقایسه زمان و خطا کدام است؟"
+      ],
+      "implementation_complexity": "High",
+      "implementation_risks": [
+        "data quality and permissions require discovery",
+        "human approval remains required",
+        "pilot should use a bounded workflow and approved samples"
+      ],
+      "implementation_risks_fa": [
+        "کیفیت داده و مجوزها باید در کشف بررسی شود",
+        "تأیید انسانی حفظ می‌شود",
+        "پایلوت با گردش محدود و نمونه‌های تأییدشده شروع شود"
+      ],
+      "likely_business_owner": "Technical Office / Project Sales Director",
+      "measurable_KPIs": [
+        "lines matched per hour",
+        "submittal turnaround",
+        "revision errors",
+        "follow-up coverage"
+      ],
+      "measurable_KPIs_fa": [
+        "تعداد ردیف تطبیق‌یافته در ساعت",
+        "زمان آماده‌سازی سابمیتال",
+        "خطاهای اصلاحی",
+        "پوشش پیگیری پروژه"
+      ],
+      "primary_users": "Technical office, project sales, procurement and commercial management",
+      "primary_users_fa": "دفتر فنی، فروش پروژه، تأمین و مدیریت بازرگانی",
+      "proposed_luma_solution": "A document-grounded workspace that structures BOQ lines, retrieves approved technical evidence, and prepares a versioned submittal or quotation pack for review.",
+      "proposed_luma_solution_fa": "یک میزکار مبتنی بر اسناد که ردیف‌های BOQ را ساختاریافته می‌کند، مستندات فنی تأییدشده را بازیابی می‌کند و بسته نسخه‌بندی‌شده سابمیتال یا پیشنهاد قیمت را برای بازبینی آماده می‌کند.",
+      "required_data": [
+        "BOQs, specifications, drawings, product catalogs, alternatives, certificates and prior submittals"
+      ],
+      "required_data_fa": [
+        "BOQ، مشخصات و نقشه‌ها، کاتالوگ محصول، گزینه‌های جایگزین، گواهی‌ها و سابمیتال‌های قبلی"
+      ],
+      "required_integrations": [
+        "Document repository, approved CRM/ERP exports, quotation workflow and approval records"
+      ],
+      "required_integrations_fa": [
+        "مخزن اسناد، خروجی مجاز CRM/ERP، گردش پیشنهاد قیمت و سوابق تأیید"
+      ],
+      "source_urls": [
+        "https://anbargostaran.com/"
+      ],
+      "supporting_evidence": [
+        {
+          "claim": "The public page titled 'قفسه فلزی | قفسه انبار | قفسه بندی | سازه های فولادی انبارگستران' exposes product/catalog information, service or maintenance information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "قفسه فلزی | قفسه انبار | قفسه بندی | سازه های فولادی انبارگستران صفحه نخست محصولات قفسه فروشگاهی قفسه هایپرمارکتی قفسه مغازه رگال تجهیزات فروشگاه قفسه بندی صنعتی قفسه پانل راک قفسه پالت راک قفسه درایوین راک قفسه کانتیلور راک قفسه مشبک نیم طبقه پیش ساخته قفسه گالوانیزه ظروف نگهداری مواد و کالا قفسه اداری قفسه مشبک قفسه بایگانی ریلی گالری درباره ما وبلاگ تماس با ما گارانتی مقالات خرید قفسه آشنایی با پالت راک بهینه سازی راهرو قفسه راک سازه های فولادی انبارگستران سازه های فولادی انبارگستران قیمت قفسه صفحه نخست محصولات قفسه فروشگاهی قفسه هایپرمارکتی قفسه مغازه رگال تجهیزات فروشگاه قفسه بندی صنعتی قفسه پانل راک قفسه پالت راک قفسه درایوین راک قفسه ک",
+          "source_family": "other_public",
+          "source_title": "قفسه فلزی | قفسه انبار | قفسه بندی | سازه های فولادی انبارگستران",
+          "source_url": "https://anbargostaran.com/"
+        }
+      ],
+      "workflow_evidence_classification": "STRONG_HYPOTHESIS",
+      "workflow_family": "boq_specification_matching",
+      "workflow_id": "wf-bc0e361522fdf4c6",
+      "workflow_name": "BOQ/specification matching and technical submittal support",
+      "workflow_name_fa": "تطبیق BOQ و مشخصات فنی برای پیشنهاد پروژه"
+    }
   },
   "screenshots": [
     {
@@ -247,6 +438,34 @@
       "source_title": "قفسه فلزی | قفسه انبار | قفسه بندی | سازه های فولادی انبارگستران",
       "source_type": "commercial_audit",
       "source_url": "https://anbargostaran.com/"
+    },
+    {
+      "captured_at": "2026-09-02T06:15:30Z",
+      "company_id": "ir-teh-2b6116f0350422d7",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "قفسه فلزی | قفسه انبار | قفسه بندی | سازه های فولادی انبارگستران صفحه نخست محصولات قفسه فروشگاهی قفسه هایپرمارکتی قفسه مغازه رگال تجهیزات فروشگاه قفسه بندی صنعتی قفسه پانل راک قفسه پالت راک قفسه درایوین راک قفسه کانتیلور راک قفسه مشبک نیم طبقه پیش ساخته قفسه گالوانیزه ظروف نگهداری مواد و کالا قفسه اداری قفسه مشبک قفسه بایگانی ریلی گالری درباره ما وبلاگ تماس با ما گارانتی مقالات خرید قفسه آشنایی با پالت راک بهینه سازی راهرو قفسه راک سازه های فولادی انبارگستران سازه های فولادی انبارگستران قیمت قفسه صفحه نخست محصولات قفسه فروشگاهی قفسه هایپرمارکتی قفسه مغازه رگال تجهیزات فروشگاه قفسه بندی صنعتی قفسه پانل راک قفسه پالت راک قفسه درایوین راک قفسه کانتیلور راک قفسه مشبک نیم طبقه پیش ساخته قفسه گالو",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-d9cf7a1640249d06",
+      "source_quality": "public_page",
+      "source_title": "قفسه فلزی | قفسه انبار | قفسه بندی | سازه های فولادی انبارگستران",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://anbargostaran.com/"
+    },
+    {
+      "captured_at": "2026-09-02T06:34:15Z",
+      "company_id": "ir-teh-2b6116f0350422d7",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "استخدام مدیر انبار | فرصت های شغلی سرپرست انبارداری (شهریور 1405) فرصت‌های شغلی رزومه ساز امتیاز شرکت‌ها بخش کارفرمایان ورود / ثبت‌نام محصولات ایران‌تلنت کاردیکس اتوماسیون جذب ایران‌تلنت ورود/ثبت‌نام English مکان خارج از ایران تهران اصفهان البرز قزوین خوزستان آذربایجان شرقی مازندران خراسان رضوی مرکزی فارس گیلان گلستان آذربایجان غربی کرمانشاه کرمان بوشهر سمنان یزد کردستان زنجان هرمزگان قم همدان خراسان جنوبی اردبیل سیستان و بلوچستان خراسان شمالی چهارمحال و بختیاری کهگیلویه و بویراحمد لرستان ایلام تنظیم مجدد نمایش نتایج گروه شغلی آزمایشگاه ارتباطات / روابط عمومی امنیت سایبری و امنیت اطلاعات امور اداری و دفتری / منشی / مسئول دفتر / دستیار انبارداری ایمنی / محیط زیست بازاریابی / تبلیغات / تحقیقات",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "job_portal",
+      "source_id": "src-7b140bda490223e7",
+      "source_quality": "public_page",
+      "source_title": "استخدام مدیر انبار | فرصت های شغلی سرپرست انبارداری (شهریور 1405)",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://www.irantalent.com/jobs/warehouse-manager"
     }
   ]
 }

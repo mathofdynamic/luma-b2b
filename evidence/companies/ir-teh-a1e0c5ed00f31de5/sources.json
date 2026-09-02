@@ -35,14 +35,246 @@
       "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
       "stage": "search_query",
       "url": "https://html.duckduckgo.com/html/?q=%22%D8%A7%DB%8C%D8%B1%D8%A7%D9%86+%D8%A8%D8%A7%D8%A8%DA%A9%D8%AA%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "official_page",
+      "url": "http://wa.me/+989127373761"
     }
   ],
-  "generated_at": "2026-09-01T15:27:10Z",
+  "generated_at": "2026-09-02T06:50:53Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
     "proxy": "http://127.0.0.1:1087",
     "visible_browser_launched": false
+  },
+  "sales_activation": {
+    "captured_page_paths": [
+      "companies/ir-teh-a1e0c5ed00f31de5/pages/sales-0e13ad4c9a8f2112.txt",
+      "companies/ir-teh-a1e0c5ed00f31de5/pages/sales-f1a446d42da2835d.txt",
+      "companies/ir-teh-a1e0c5ed00f31de5/pages/sales-1ec1ba5d06df4193.txt",
+      "companies/ir-teh-a1e0c5ed00f31de5/pages/sales-f764e95289a6c7c0.txt"
+    ],
+    "contacts": {
+      "decision_maker_direct_candidates": [],
+      "decision_maker_search_candidates": [
+        {
+          "confidence": 0.35,
+          "direct": false,
+          "evidence": "iranbobcat.com https://iranbobcat.com › tag › مدیر-فروش-مینی بایگانی‌های مدیر فروش مینی لودر ایرانی - ایران بابکت خانه » مدیر فروش مینی لودر ایرانی ماشین آلات صنعتی 7اردیبهشت کارشناس فروش ب",
+          "field": "primary_contact",
+          "name": "مینی لودر ایرانی",
+          "role": "مدیر فروش",
+          "source_family": "other_public",
+          "source_title": "iranbobcat.com https://iranbobcat.com › tag › مدیر-فروش-مینی بایگانی‌های مدیر فروش مینی لودر ایرانی - ایران بابکت",
+          "source_url": "https://iranbobcat.com/tag/مدیر-فروش-مینی-لودر-ایرانی/"
+        },
+        {
+          "confidence": 0.35,
+          "direct": false,
+          "evidence": "at.com › tag › مدیر-فروش-مینی بایگانی‌های مدیر فروش مینی لودر ایرانی - ایران بابکت خانه » مدیر فروش مینی لودر ایرانی ماشین آلات صنعتی 7اردیبهشت کارشناس فروش بابکت Tel : 09121011804 آقای کمشکی",
+          "field": "primary_contact",
+          "name": "مینی لودر ایرانی ماشین",
+          "role": "مدیر فروش",
+          "source_family": "other_public",
+          "source_title": "iranbobcat.com https://iranbobcat.com › tag › مدیر-فروش-مینی بایگانی‌های مدیر فروش مینی لودر ایرانی - ایران بابکت",
+          "source_url": "https://iranbobcat.com/tag/مدیر-فروش-مینی-لودر-ایرانی/"
+        }
+      ],
+      "economic_buyer_confidence": 0.0,
+      "economic_buyer_name": null,
+      "economic_buyer_role": "Managing Director / CEO",
+      "economic_buyer_source_url": null,
+      "primary_contact_confidence": 0.0,
+      "primary_contact_name": null,
+      "primary_contact_role": "Commercial / Sales Operations Director",
+      "primary_contact_source_url": null,
+      "public_corporate_emails": [],
+      "public_corporate_phones": [
+        "02166192021"
+      ],
+      "public_linkedin_company": null,
+      "public_whatsapp": "https://wa.me/989127373761",
+      "technical_gatekeeper_confidence": 0.0,
+      "technical_gatekeeper_name": null,
+      "technical_gatekeeper_role": "Product or Technical Sales Manager",
+      "technical_gatekeeper_source_url": null
+    },
+    "no_outreach_sent": true,
+    "public_journey": {
+      "entry_points": [
+        "public product/service information or catalog",
+        "public service/maintenance information"
+      ],
+      "evidence": [
+        {
+          "claim": "The public page titled 'خرید و فروش انواع جارو بابکت ، مینی لودر - شرکت بابکت ایران' exposes product/catalog information, a contact or order entry point.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "مکانیکی مینی بیل مکانیکی بابکت مینی بیل مکانیکی سانی مینی بیل مکانیکی فوریوز مینی لودر بابکت دراج فوریوز بلاگ مشاوره و استعلام قیمت خرید و فروش انواع بابکت (Bobcat) مرجع فروش انواع بابکت ، مینی لودر های بابکت ایرانی و خارجی به صورت صفر و کارکرده در ایران مینی لودر بابکت جلوبند جارو بابکت اولین تولید کننده انواع جلوبند مینی لودر بابکت در کشور مینی لودر بابکت از جمله ماشین آلات سنگینی هستند که در بحث شهرسازی و راه سازی مورد استفاده قرار میگیرند. چند مورد از موارد استفاده ای این ماشین آلات عبارتند از نظافت معابر، برف روبی شهری و جاده ای و … شرکت بابکت ایران یکی از بزرگترین کارخانجات تولید انواع جلوبند مینی لودر بابکت در کشور است. این مجموعه همچن",
+          "source_family": "other_public",
+          "source_title": "خرید و فروش انواع جارو بابکت ، مینی لودر - شرکت بابکت ایران",
+          "source_url": "https://bobcat-iran.ir/"
+        },
+        {
+          "claim": "The public page titled 'بیل مکانیکی - شرکت بابکت ایران' exposes product/catalog information, a contact or order entry point.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "مکانیکی مینی بیل مکانیکی بابکت مینی بیل مکانیکی سانی مینی بیل مکانیکی فوریوز مینی لودر بابکت دراج فوریوز بلاگ مشاوره و استعلام قیمت Home - بیل مکانیکی دسته‌بندی‌ها بیل مکانیکی ایکس سی ام جی بیل مکانیکی بابکت بیل مکانیکی سانی بیل مکانیکی فوریوز بیل مکانیکی ولوو محبوب‌ترین پرفروش‌ترین جدیدترین ارزان‌ترین گران‌ترین در حال نمایش 13 نتیجه مرتب‌سازی بر اساس جدیدترین مرتب‌سازی بر اساس محبوبیت مرتب‌سازی بر اساس امتیاز مرتب‌سازی بر اساس جدیدترین مرتب‌سازی بر اساس ارزانترین مرتب‌سازی بر اساس گرانترین نمایش فیلترها بیل مکانیکی 15 تن فوریوز | مدل R155W _ ایران بابکت 19,250,000,000 تومان تعداد: بیل مکانیکی 15 تن فوریوز | مدل R155W _ ایران بابکت افزودن به ",
+          "source_family": "other_public",
+          "source_title": "بیل مکانیکی - شرکت بابکت ایران",
+          "source_url": "https://bobcat-iran.ir/product-category/excavator/"
+        },
+        {
+          "claim": "The public page titled 'بیل مکانیکی بابکت - شرکت بابکت ایران' exposes product/catalog information, a contact or order entry point.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "مکانیکی مینی بیل مکانیکی بابکت مینی بیل مکانیکی سانی مینی بیل مکانیکی فوریوز مینی لودر بابکت دراج فوریوز بلاگ مشاوره و استعلام قیمت Home - بیل مکانیکی بابکت محبوب‌ترین پرفروش‌ترین جدیدترین ارزان‌ترین گران‌ترین نمایش یک نتیجه مرتب‌سازی بر اساس محبوبیت مرتب‌سازی بر اساس امتیاز مرتب‌سازی بر اساس جدیدترین مرتب‌سازی بر اساس ارزانترین مرتب‌سازی بر اساس گرانترین نمایش فیلترها بیل مکانیکی بابکت E145 ناموجود / تماس بگیرید مشاهده محصول جستجو برای: آخرین دیدگاه‌ها حبیب جانبهان در تعمیرات مینی لودر | سرویس تخصصی، عیب‌یابی و نگهداری بابکت فوریوز 1050 | بررسی کامل مینی لودر ForUse UZ1050 + مشخصات و خرید - شرکت بابکت ایران در موتور Kubota فوریوز UZ1050 | بر",
+          "source_family": "other_public",
+          "source_title": "بیل مکانیکی بابکت - شرکت بابکت ایران",
+          "source_url": "https://bobcat-iran.ir/product-category/excavator/bobcat-excavator/"
+        },
+        {
+          "claim": "The public page titled 'بیل مکانیکی سانی - شرکت بابکت ایران' exposes a contact or order entry point, service or maintenance information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "مکانیکی مینی بیل مکانیکی بابکت مینی بیل مکانیکی سانی مینی بیل مکانیکی فوریوز مینی لودر بابکت دراج فوریوز بلاگ مشاوره و استعلام قیمت Home - بیل مکانیکی سانی محبوب‌ترین پرفروش‌ترین جدیدترین ارزان‌ترین گران‌ترین در حال نمایش 2 نتیجه مرتب‌سازی بر اساس جدیدترین مرتب‌سازی بر اساس محبوبیت مرتب‌سازی بر اساس امتیاز مرتب‌سازی بر اساس جدیدترین مرتب‌سازی بر اساس ارزانترین مرتب‌سازی بر اساس گرانترین نمایش فیلترها بیل مکانیکی 15 تن فوریوز | مدل R155W _ ایران بابکت 19,250,000,000 تومان تعداد: بیل مکانیکی 15 تن فوریوز | مدل R155W _ ایران بابکت افزودن به سبد خرید مینی بیل سانی مدل sy35u ساخت چین 8,670,000,000 تومان تعداد: مینی بیل سانی مدل sy35u ساخت چین افزو",
+          "source_family": "other_public",
+          "source_title": "بیل مکانیکی سانی - شرکت بابکت ایران",
+          "source_url": "https://bobcat-iran.ir/product-category/excavator/sunny-excavator/"
+        }
+      ],
+      "intake_channels": [
+        "website contact or inquiry surface",
+        "published corporate phone",
+        "explicitly published WhatsApp business link"
+      ],
+      "observable_steps": [
+        "Customer reaches ایران بابکت through public product/service information or catalog, public service/maintenance information.",
+        "Customer uses website contact or inquiry surface, published corporate phone, explicitly published WhatsApp business link to ask for information or service.",
+        "sales team prepares a response or quotation; the public record does not expose the internal handoffs or approval rules.",
+        "A discovery meeting should validate volume, data sources, ownership and the smallest safe pilot."
+      ],
+      "observable_steps_fa": [
+        "مشتری از طریق public product/service information or catalog، public service/maintenance information به ایران بابکت می‌رسد.",
+        "مشتری از website contact or inquiry surface، published corporate phone، explicitly published WhatsApp business link برای دریافت اطلاعات یا خدمت استفاده می‌کند.",
+        "sales team prepares a response or quotation؛ مراحل داخلی و قواعد تأیید از منابع عمومی قابل مشاهده نیست.",
+        "در جلسه کشف، حجم، منابع داده، مالک فرایند و کوچک‌ترین پایلوت امن اعتبارسنجی شود."
+      ]
+    },
+    "source_families_added": [
+      "other_public"
+    ],
+    "version": "2026.09.sales-activation-v1",
+    "workflow": {
+      "activation_evidence_classification": "EVIDENCE_SUPPORTED",
+      "company_id": "ir-teh-a1e0c5ed00f31de5",
+      "confidence": "High",
+      "confidence_score": 0.85,
+      "current_problem": "A repeated lookup, document or approval handoff is plausible; validate the actual volume, owner and baseline before proposing automation.",
+      "current_problem_fa": "تکرار جست‌وجو، ساخت سند یا تأیید محتمل است؛ حجم واقعی، مالک و خط مبنا پیش از پیشنهاد خودکارسازی اعتبارسنجی شود.",
+      "current_process_hypothesis": "Based on the public دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت surface, the first process to validate is the handoff from incoming information to a reviewed business output. Public sources do not establish the internal process or a current inefficiency.",
+      "current_process_hypothesis_fa": "با توجه به سطح عمومی دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت، نخستین فرایند قابل بررسی، تبدیل ورودی به خروجی کسب‌وکاریِ قابل بازبینی است؛ منابع عمومی فرایند داخلی یا وجود ناکارآمدی فعلی را اثبات نمی‌کنند.",
+      "department": "Commercial Director / Sales Operations Manager",
+      "discovery_questions": [
+        "در ماه چند درخواست قیمت وارد می‌شود و از چه کانال‌هایی؟",
+        "امروز برای تطبیق مشخصات، قیمت و موجودی به کدام فایل یا سامانه رجوع می‌شود؟",
+        "کدام قواعد قیمت‌گذاری و حاشیه سود باید کاملاً قطعی و انسانی باقی بماند؟",
+        "برای شروع، پاسخ فنی، پیشنهاد محصول یا پیش‌فاکتور کدام خروجی ارزشمندتر است؟",
+        "یک نمونه استعلام واقعی برای اندازه‌گیری زمان و میزان اصلاحات کدام است؟"
+      ],
+      "implementation_complexity": "Medium",
+      "implementation_risks": [
+        "data quality and permissions require discovery",
+        "human approval remains required",
+        "pilot should use a bounded workflow and approved samples"
+      ],
+      "implementation_risks_fa": [
+        "کیفیت داده و مجوزها باید در کشف بررسی شود",
+        "تأیید انسانی حفظ می‌شود",
+        "پایلوت با گردش محدود و نمونه‌های تأییدشده شروع شود"
+      ],
+      "likely_business_owner": "Commercial Director / Sales Operations Manager",
+      "measurable_KPIs": [
+        "quote turnaround time",
+        "RFQs handled per salesperson",
+        "correction rate",
+        "follow-up completion"
+      ],
+      "measurable_KPIs_fa": [
+        "زمان پاسخ به استعلام",
+        "تعداد استعلام قابل پردازش برای هر کارشناس",
+        "نرخ اصلاح پیشنهاد",
+        "تکمیل پیگیری"
+      ],
+      "primary_users": "Sales operations, product specialists and commercial management",
+      "primary_users_fa": "فروش، بازرگانی و کارشناسان فنی محصول",
+      "proposed_luma_solution": "A controlled intake workspace that structures incoming requests, matches them against the approved product/specification master, and prepares an explainable draft response for human approval.",
+      "proposed_luma_solution_fa": "یک میزکار کنترل‌شده برای ساختاردهی درخواست‌های ورودی، تطبیق آن‌ها با مرجع تأییدشده محصولات و مشخصات، و آماده‌سازی پیش‌نویس پاسخ برای تأیید انسانی.",
+      "required_data": [
+        "RFQs, product/SKU master, specifications, price lists, stock snapshots, historical quotes and approval rules"
+      ],
+      "required_data_fa": [
+        "استعلام‌ها، مرجع محصول و SKU، مشخصات فنی، فهرست قیمت، تصویر موجودی، پیشنهادهای قبلی و قواعد تأیید"
+      ],
+      "required_integrations": [
+        "Approved email/form intake and exports or APIs from ERP, CRM or accounting systems if available"
+      ],
+      "required_integrations_fa": [
+        "ورودی ایمیل/فرم و در صورت وجود خروجی یا API سامانه‌های ERP، CRM یا حسابداری"
+      ],
+      "source_urls": [
+        "https://bobcat-iran.ir/",
+        "https://bobcat-iran.ir/product-category/excavator/",
+        "https://bobcat-iran.ir/product-category/excavator/bobcat-excavator/",
+        "https://bobcat-iran.ir/product-category/excavator/sunny-excavator/"
+      ],
+      "supporting_evidence": [
+        {
+          "claim": "The public page titled 'خرید و فروش انواع جارو بابکت ، مینی لودر - شرکت بابکت ایران' exposes product/catalog information, a contact or order entry point.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "مکانیکی مینی بیل مکانیکی بابکت مینی بیل مکانیکی سانی مینی بیل مکانیکی فوریوز مینی لودر بابکت دراج فوریوز بلاگ مشاوره و استعلام قیمت خرید و فروش انواع بابکت (Bobcat) مرجع فروش انواع بابکت ، مینی لودر های بابکت ایرانی و خارجی به صورت صفر و کارکرده در ایران مینی لودر بابکت جلوبند جارو بابکت اولین تولید کننده انواع جلوبند مینی لودر بابکت در کشور مینی لودر بابکت از جمله ماشین آلات سنگینی هستند که در بحث شهرسازی و راه سازی مورد استفاده قرار میگیرند. چند مورد از موارد استفاده ای این ماشین آلات عبارتند از نظافت معابر، برف روبی شهری و جاده ای و … شرکت بابکت ایران یکی از بزرگترین کارخانجات تولید انواع جلوبند مینی لودر بابکت در کشور است. این مجموعه همچن",
+          "source_family": "other_public",
+          "source_title": "خرید و فروش انواع جارو بابکت ، مینی لودر - شرکت بابکت ایران",
+          "source_url": "https://bobcat-iran.ir/"
+        },
+        {
+          "claim": "The public page titled 'بیل مکانیکی - شرکت بابکت ایران' exposes product/catalog information, a contact or order entry point.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "مکانیکی مینی بیل مکانیکی بابکت مینی بیل مکانیکی سانی مینی بیل مکانیکی فوریوز مینی لودر بابکت دراج فوریوز بلاگ مشاوره و استعلام قیمت Home - بیل مکانیکی دسته‌بندی‌ها بیل مکانیکی ایکس سی ام جی بیل مکانیکی بابکت بیل مکانیکی سانی بیل مکانیکی فوریوز بیل مکانیکی ولوو محبوب‌ترین پرفروش‌ترین جدیدترین ارزان‌ترین گران‌ترین در حال نمایش 13 نتیجه مرتب‌سازی بر اساس جدیدترین مرتب‌سازی بر اساس محبوبیت مرتب‌سازی بر اساس امتیاز مرتب‌سازی بر اساس جدیدترین مرتب‌سازی بر اساس ارزانترین مرتب‌سازی بر اساس گرانترین نمایش فیلترها بیل مکانیکی 15 تن فوریوز | مدل R155W _ ایران بابکت 19,250,000,000 تومان تعداد: بیل مکانیکی 15 تن فوریوز | مدل R155W _ ایران بابکت افزودن به ",
+          "source_family": "other_public",
+          "source_title": "بیل مکانیکی - شرکت بابکت ایران",
+          "source_url": "https://bobcat-iran.ir/product-category/excavator/"
+        },
+        {
+          "claim": "The public page titled 'بیل مکانیکی بابکت - شرکت بابکت ایران' exposes product/catalog information, a contact or order entry point.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "مکانیکی مینی بیل مکانیکی بابکت مینی بیل مکانیکی سانی مینی بیل مکانیکی فوریوز مینی لودر بابکت دراج فوریوز بلاگ مشاوره و استعلام قیمت Home - بیل مکانیکی بابکت محبوب‌ترین پرفروش‌ترین جدیدترین ارزان‌ترین گران‌ترین نمایش یک نتیجه مرتب‌سازی بر اساس محبوبیت مرتب‌سازی بر اساس امتیاز مرتب‌سازی بر اساس جدیدترین مرتب‌سازی بر اساس ارزانترین مرتب‌سازی بر اساس گرانترین نمایش فیلترها بیل مکانیکی بابکت E145 ناموجود / تماس بگیرید مشاهده محصول جستجو برای: آخرین دیدگاه‌ها حبیب جانبهان در تعمیرات مینی لودر | سرویس تخصصی، عیب‌یابی و نگهداری بابکت فوریوز 1050 | بررسی کامل مینی لودر ForUse UZ1050 + مشخصات و خرید - شرکت بابکت ایران در موتور Kubota فوریوز UZ1050 | بر",
+          "source_family": "other_public",
+          "source_title": "بیل مکانیکی بابکت - شرکت بابکت ایران",
+          "source_url": "https://bobcat-iran.ir/product-category/excavator/bobcat-excavator/"
+        },
+        {
+          "claim": "The public page titled 'بیل مکانیکی سانی - شرکت بابکت ایران' exposes a contact or order entry point, service or maintenance information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "مکانیکی مینی بیل مکانیکی بابکت مینی بیل مکانیکی سانی مینی بیل مکانیکی فوریوز مینی لودر بابکت دراج فوریوز بلاگ مشاوره و استعلام قیمت Home - بیل مکانیکی سانی محبوب‌ترین پرفروش‌ترین جدیدترین ارزان‌ترین گران‌ترین در حال نمایش 2 نتیجه مرتب‌سازی بر اساس جدیدترین مرتب‌سازی بر اساس محبوبیت مرتب‌سازی بر اساس امتیاز مرتب‌سازی بر اساس جدیدترین مرتب‌سازی بر اساس ارزانترین مرتب‌سازی بر اساس گرانترین نمایش فیلترها بیل مکانیکی 15 تن فوریوز | مدل R155W _ ایران بابکت 19,250,000,000 تومان تعداد: بیل مکانیکی 15 تن فوریوز | مدل R155W _ ایران بابکت افزودن به سبد خرید مینی بیل سانی مدل sy35u ساخت چین 8,670,000,000 تومان تعداد: مینی بیل سانی مدل sy35u ساخت چین افزو",
+          "source_family": "other_public",
+          "source_title": "بیل مکانیکی سانی - شرکت بابکت ایران",
+          "source_url": "https://bobcat-iran.ir/product-category/excavator/sunny-excavator/"
+        }
+      ],
+      "workflow_evidence_classification": "EVIDENCE_SUPPORTED",
+      "workflow_family": "rfq_quotation",
+      "workflow_id": "wf-6033502fdc334369",
+      "workflow_name": "RFQ intake, product matching and draft quotation",
+      "workflow_name_fa": "دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت"
+    }
   },
   "screenshots": [
     {
@@ -231,6 +463,118 @@
       "source_title": "بیل مکانیکی - شرکت بابکت ایران",
       "source_type": "commercial_audit",
       "source_url": "https://bobcat-iran.ir/product-category/excavator/"
+    },
+    {
+      "captured_at": "2026-09-02T06:15:50Z",
+      "company_id": "ir-teh-a1e0c5ed00f31de5",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "پرشین بابکت | پرشین بابکت | پرشین بابکت | نمایندگی رسمی فروش جلوبندهای ایران بابکت مینی لودر و مینی بیل دسته‌بندی قطعات یدکی بابکت لوازم جانبی بابکت ماشین آلات راهسازی بیل و مینی بیل مکانیکی مینی بیل سانی مینی بیل مکانیکی فوریوز مینی لودر ایرانی مینی لودر فوریوز (ForUse) مینی لودر دراج (Doraj) لودر لودر سانی (Sany) لودر ولوو (Volvo) مینی لودر دست دوم لاستیک بابکت برند لاستیک لاستیک برند آرمور (ARMOUR) طرح گل لاستیک طرح گل باقلوایی طرح گل چکشی سایز لاستیک 16.5*12 بدون دسته بندی جلوبند جارو صنعتی جارو مینی لودر بابکت لوازم جانبی جارو صنعتی جارو تراکتوری جارو لیفتراک جارو کامیون جارو بکهولودر شاخک لیفتراک برف روب مته چاله کن پیکور (چکش هیدرولیکی) باکت خاکبرداری بیل بکهو کمپکتور ورود | ثبت‌نام خ",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-e08caec0036f3c1f",
+      "source_quality": "public_page",
+      "source_title": "پرشین بابکت | پرشین بابکت",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://persianbobcat.ir/"
+    },
+    {
+      "captured_at": "2026-09-02T06:15:51Z",
+      "company_id": "ir-teh-a1e0c5ed00f31de5",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "جارو بابکت | خرید و قیمت سوییپر S-150 و S-190 ایران بابکت خانه محصولات کاتالوگ ها ویدئوها وبلاگ ایمنی و آموزش تماس با ما 09127373761 ettelagostarofficial@gmail.com | جارو بابکت | جارو صنعتی مینی لودر ، جارو تراکتوری ، جارو سوییپر صنعتی بابکت و تراکتور ورود | ثبت‌نام خانه محصولات دستگاه بازیافت آسفالت غلتک آسفالت مینی لودر تارا گستر TARA Gostar دراج (doraj) فوریوز (Foruse) بیل مکانیکی مینی بیل مکانیکی مینی بیل مکانیکی سانی (SANY) مینی بیل مکانیکی فوریوز (ForUse) جلوبند جلوبند بابکت برف روب پیکور انواع جارو و سوییپر جارو تراکتور جارو بابکت جارو لیفتراک جلوبند بیل بکهو جلوبند چاله کن چنگک شاخک لیفتراک شاخک لیفتراک بابکت شاخک لیفتراک تراکتوری گریدر کمپکتور قطعات قطعات مینی لودر بابکت قطعات جلوبن",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-553a3e4869bcd98d",
+      "source_quality": "public_page",
+      "source_title": "جارو بابکت | خرید و قیمت سوییپر S-150 و S-190 ایران بابکت",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://jarobobcat.com/"
+    },
+    {
+      "captured_at": "2026-09-02T06:15:53Z",
+      "company_id": "ir-teh-a1e0c5ed00f31de5",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "ایران مینی بیل | فروش و قیمت خرید مینی بیل، بیل مکانیکی و بکهو لودر ایران مینی بیل مرجع تخصصی فروش مینی بیل مکانیکی انتخاب شما افتخار ماست، افتخار به انتخاب شایسته شما! info@iransany.ir 021-66192021 0912-1011804 info@iransany.ir 021-66192021 0912-1011804 محصولات بیل مکانیکی مینی بیل مکانیکی لودر اتچمنت مینی بیل مکانیکی آموزش کار با بیل و مینی بیل فیلم مینی بیل مکانیکی اخبار و مقاله‌ها ارتباط با ما Home Shop Small Excavator Loader News and Articles Contact us منو تضمین قیمت Price guarantee پشتیبانی عالی Excellent support 24/7 گواهی اصالت کالا Certificate of authenticity تحویل سریع Fast Delivery ضمانت بازگشت وجه Money back guarantee محصولات ایران مینی بیل نمایش همه » مینی بیل مکانیکی سانی (SAN",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-cff520d154fc3962",
+      "source_quality": "public_page",
+      "source_title": "ایران مینی بیل | فروش و قیمت خرید مینی بیل، بیل مکانیکی و بکهو لودر",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://iransany.ir/"
+    },
+    {
+      "captured_at": "2026-09-02T06:15:54Z",
+      "company_id": "ir-teh-a1e0c5ed00f31de5",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "بابکت | مینی لودر | اسکید لودر | دراج | هیوندا | ایران باب کت (bobcat) 09123002274 iranbobcatofficial@gmail.com | ایران بابکت | جلوبند مینی لودر بابکت قطعات و لوازم یدکی بابکت دسته‌بندی مینی لودر (Skid Steer) هیوندای (Hyundai) دراج (Doraj) بابکت (Bobcat) فوریوز (Foruse) سانوارد (Sunward) کیس (Case) نیو هلند (New Holland) مینی لودر سنوپارس (Snowpars) دلتا راه ماشین چانگلین (CHANGLIN) لوازم یدکی بابکت (Bobcat Spare Parts) فیلتر ها قطعات موتور قطعات هیدرولیک لوازم جانبی جلوبند ها برف روب چاله کن ویبراتور کمپکتور بیل بکهو شاخک لیفتراک بابکت چنگک قطعات برقی بابکت جلوبند جارو بابکت (Bobcat Sweeper) جارو مینی لودر ایران بابکت جارو تراکتوری ایران بابکت ساحل روب مینی لودر ایران بابکت جارو اصلی جاروی ",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-0a3310a58efb64a2",
+      "source_quality": "public_page",
+      "source_title": "بابکت | مینی لودر | اسکید لودر | دراج | هیوندا | ایران باب کت (bobcat)",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://iranbobcat.ir/"
+    },
+    {
+      "captured_at": "2026-09-02T06:34:21Z",
+      "company_id": "ir-teh-a1e0c5ed00f31de5",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "خرید و فروش انواع جارو بابکت ، مینی لودر - شرکت بابکت ایران صفحه نخست فروشگاه بلاگ 09127373761 ettelagostarofficial@gmail.com [iranbobcat_consult] شرکت بابکت ایران | [iranbobcat_consult] صفحه نخست فروشگاه بیل مکانیکی بیل مکانیکی بابکت بیل مکانیکی سانی بیل مکانیکی فوریوز جلوبند جارو بابکت جارو تراکتوری بابکت ایران جارو مینی لودربابکت ایران قطعات و لوازم جانبی بابکت برس و فرچه پلاستیکی برس و فرچه سیمی لاستیک و تایر بابکت لاستیک شنی زنجیری بابکت لاستیک مینی لودر ایرانی لاستیک مینی لودر ترکیه لاستیک مینی لودر چینی لاستیک مینی لودر کره ای لوازم یدکی بابکت جلوبند ها فیلتر ها قطعات برقی بابکت قطعات موتور قطعات هیدرولیک لوازم جانبی مینی بیل مکانیکی مینی بیل مکانیکی بابکت مینی بیل مکانیکی سانی مینی ب",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-9830a0f562d3e587",
+      "source_quality": "public_page",
+      "source_title": "خرید و فروش انواع جارو بابکت ، مینی لودر - شرکت بابکت ایران",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://bobcat-iran.ir/"
+    },
+    {
+      "captured_at": "2026-09-02T06:34:21Z",
+      "company_id": "ir-teh-a1e0c5ed00f31de5",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "بیل مکانیکی - شرکت بابکت ایران صفحه نخست فروشگاه بلاگ 09127373761 ettelagostarofficial@gmail.com [iranbobcat_consult] شرکت بابکت ایران | [iranbobcat_consult] صفحه نخست فروشگاه بیل مکانیکی بیل مکانیکی بابکت بیل مکانیکی سانی بیل مکانیکی فوریوز جلوبند جارو بابکت جارو تراکتوری بابکت ایران جارو مینی لودربابکت ایران قطعات و لوازم جانبی بابکت برس و فرچه پلاستیکی برس و فرچه سیمی لاستیک و تایر بابکت لاستیک شنی زنجیری بابکت لاستیک مینی لودر ایرانی لاستیک مینی لودر ترکیه لاستیک مینی لودر چینی لاستیک مینی لودر کره ای لوازم یدکی بابکت جلوبند ها فیلتر ها قطعات برقی بابکت قطعات موتور قطعات هیدرولیک لوازم جانبی مینی بیل مکانیکی مینی بیل مکانیکی بابکت مینی بیل مکانیکی سانی مینی بیل مکانیکی فوریوز مینی لودر ب",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-25de0ac290475413",
+      "source_quality": "public_page",
+      "source_title": "بیل مکانیکی - شرکت بابکت ایران",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://bobcat-iran.ir/product-category/excavator/"
+    },
+    {
+      "captured_at": "2026-09-02T06:34:21Z",
+      "company_id": "ir-teh-a1e0c5ed00f31de5",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "بیل مکانیکی بابکت - شرکت بابکت ایران صفحه نخست فروشگاه بلاگ 09127373761 ettelagostarofficial@gmail.com [iranbobcat_consult] شرکت بابکت ایران | [iranbobcat_consult] صفحه نخست فروشگاه بیل مکانیکی بیل مکانیکی بابکت بیل مکانیکی سانی بیل مکانیکی فوریوز جلوبند جارو بابکت جارو تراکتوری بابکت ایران جارو مینی لودربابکت ایران قطعات و لوازم جانبی بابکت برس و فرچه پلاستیکی برس و فرچه سیمی لاستیک و تایر بابکت لاستیک شنی زنجیری بابکت لاستیک مینی لودر ایرانی لاستیک مینی لودر ترکیه لاستیک مینی لودر چینی لاستیک مینی لودر کره ای لوازم یدکی بابکت جلوبند ها فیلتر ها قطعات برقی بابکت قطعات موتور قطعات هیدرولیک لوازم جانبی مینی بیل مکانیکی مینی بیل مکانیکی بابکت مینی بیل مکانیکی سانی مینی بیل مکانیکی فوریوز مینی ",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-627bd5d74fa6c3b7",
+      "source_quality": "public_page",
+      "source_title": "بیل مکانیکی بابکت - شرکت بابکت ایران",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://bobcat-iran.ir/product-category/excavator/bobcat-excavator/"
+    },
+    {
+      "captured_at": "2026-09-02T06:34:21Z",
+      "company_id": "ir-teh-a1e0c5ed00f31de5",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "بیل مکانیکی سانی - شرکت بابکت ایران صفحه نخست فروشگاه بلاگ 09127373761 ettelagostarofficial@gmail.com [iranbobcat_consult] شرکت بابکت ایران | [iranbobcat_consult] صفحه نخست فروشگاه بیل مکانیکی بیل مکانیکی بابکت بیل مکانیکی سانی بیل مکانیکی فوریوز جلوبند جارو بابکت جارو تراکتوری بابکت ایران جارو مینی لودربابکت ایران قطعات و لوازم جانبی بابکت برس و فرچه پلاستیکی برس و فرچه سیمی لاستیک و تایر بابکت لاستیک شنی زنجیری بابکت لاستیک مینی لودر ایرانی لاستیک مینی لودر ترکیه لاستیک مینی لودر چینی لاستیک مینی لودر کره ای لوازم یدکی بابکت جلوبند ها فیلتر ها قطعات برقی بابکت قطعات موتور قطعات هیدرولیک لوازم جانبی مینی بیل مکانیکی مینی بیل مکانیکی بابکت مینی بیل مکانیکی سانی مینی بیل مکانیکی فوریوز مینی ل",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-94f177eddaf0c7cd",
+      "source_quality": "public_page",
+      "source_title": "بیل مکانیکی سانی - شرکت بابکت ایران",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://bobcat-iran.ir/product-category/excavator/sunny-excavator/"
     }
   ]
 }

@@ -1,70 +1,85 @@
 # شرکت بازرگانی سیال کنترل
 
+Dossier rank: 28 | First-contact score: 57/100 | Wave: WAVE 3
+This is an internal sales preparation document. No outreach has been sent.
+
 ## Snapshot
 
-- Corrected classification: `building_materials_mep` / `distributor`.
-- Public description: شرکت بازرگانی سیال کنترل، فعال در زمینه تامین و تجهیز صنایع نفت، گاز و پتروشیمی و شیرآلات و اتصالات صنعت پایپینگ کشور در صنعت آب و فاضلاب بوده و توانسته با گسترش محصولات
+- What the company publicly presents: شرکت بازرگانی سیال کنترل، فعال در زمینه تامین و تجهیز صنایع نفت، گاز و پتروشیمی و شیرآلات و اتصالات صنعت پایپینگ کشور در صنعت آب و فاضلاب بوده و توانسته با گسترش محصولات
+- Corrected classification: `building_materials_mep` / `distributor`; B2B signal: `['B2B_candidate']`
 - Location: تهران، منطقه 3، محله زرگنده، خیابان دستگردی (ظفر)، پلاک 197، واحد 11
-- Revised score: 83; confidence-adjusted: 77.5; tier: A
-- Commercial evidence strength: 72/100; score confidence: 89/100; independent source families: 2
+- Public website: [https://flco-co.com/](https://flco-co.com/)
+- Commercial evidence strength: 72
+- Independent source families counted: 2 — book_e_avval, company_website:flco-co.com
 
 ## Why it is commercially interesting
 
-- OBSERVED — Public page shows public product/catalog surface. Snippet: تامین، تولید و واردات تجهیزات صنعت آب، نفت، گاز و پتروشیمی خانه درباره ما محصولات شیرآلات صنعتی اتصالات صنعتی لوله ها عملگرها برندها میراب کیز ایران ارتعاشات صنعتی پترو فجر مرکزی cepex آریا کوپلینگ آوند؛ تولیدکننده تخصصی شیرآلات اسلاری و پینچ ولو effebi AKO پیشگام تکاب اتصال دماوند کورتک پلی پارک نگین شیر Herbe گروه صنعتی آریا خدمات پروژه ها بلاگ تماس با ما اطلاعات تماس جذب نمایندگی ریتاپی | خرید آنلاین شبکه های اجتم ([تامین، تولید و واردات تجهیزات صنعت آب، نفت، گاز و پتروشیمی](https://flco-co.com/))
-- OBSERVED — Public page shows branches, representatives or dealer network. Snippet: ت اسلاری و پینچ ولو effebi AKO پیشگام تکاب اتصال دماوند کورتک پلی پارک نگین شیر Herbe گروه صنعتی آریا خدمات پروژه ها بلاگ تماس با ما اطلاعات تماس جذب نمایندگی ریتاپی | خرید آنلاین شبکه های اجتماعی : باشگاه مشتریان ۷۴۵۲۵ باشگاه مشتریان ۷۴۵۲۵ EN ما راهی را پیدا می‌کنیم اسکرول کنید بازرگانی سیال کنترل شرکت بازرگانی سیال کنترل به عنوان تامین کننده و وارد کننده شیرآلات ، اتصالات و تجهیزات صنعت پایپینگ به ویژه صنعت آب و فا ([تامین، تولید و واردات تجهیزات صنعت آب، نفت، گاز و پتروشیمی](https://flco-co.com/))
-- OBSERVED — Public page shows public projects, clients or partners. Snippet: آریا کوپلینگ آوند؛ تولیدکننده تخصصی شیرآلات اسلاری و پینچ ولو effebi AKO پیشگام تکاب اتصال دماوند کورتک پلی پارک نگین شیر Herbe گروه صنعتی آریا خدمات پروژه ها بلاگ تماس با ما اطلاعات تماس جذب نمایندگی ریتاپی | خرید آنلاین شبکه های اجتماعی : باشگاه مشتریان ۷۴۵۲۵ باشگاه مشتریان ۷۴۵۲۵ EN ما راهی را پیدا می‌کنیم اسکرول کنید بازرگانی سیال کنترل شرکت بازرگانی سیال کنترل به عنوان تامین کننده و وارد کننده شیرآلات ، اتصالات و ([تامین، تولید و واردات تجهیزات صنعت آب، نفت، گاز و پتروشیمی](https://flco-co.com/))
-- OBSERVED — Public page shows certification, license or standards evidence. Snippet: ه عنوان تأمین‌کننده و واردکننده انواع شیرآلات صنعتی، اتصالات صنعتی، لوله‌ها و عملگرها با افتخار در خدمت شماست. ما جدیدترین محصولات را با کیفیت بالا و استانداردهای لازم تضمینی ارائه می‌دهیم. برای مشاهده و خرید محصولات ما، به صفحه محصولات مراجعه کنید و یا روی یکی از محصولات رو به رو کلیک نمایید. شیر آلات صنعتی اتصالات صنعتی لوله ها عملگرها آخرین اخبار و مقالات 27 مرداد لرزه گیر لاستیکی ارتعاشات صنعتی ایران 24 مرداد شیر ([تامین، تولید و واردات تجهیزات صنعت آب، نفت، گاز و پتروشیمی](https://flco-co.com/))
-- OBSERVED — Public page shows public quotation or RFQ language. Snippet: درباره ما - شرکت بازرگانی سیال کنترل پرش به محتوا خانه درباره ما محصولات شیرآلات صنعتی اتصالات صنعتی لوله ها عملگرها برندها میراب کیز ایران ارتعاشات صنعتی پترو فجر مرکزی cepex آریا کوپلینگ آوند؛ تولیدکننده تخصصی شیرآلات اسلاری و پینچ ولو effebi AKO پیشگام تکاب اتصال دماوند کورتک پلی پارک نگین شیر Herbe گروه صنعتی آریا خدمات پروژه ها بلاگ تماس با ما اطلاعات تماس جذب نمایندگی ریتاپی | خرید آنلاین باشگاه مشتریان ۷۴۵۲۵ ب ([درباره ما - شرکت بازرگانی سیال کنترل](https://flco-co.com/about-us/))
-- OBSERVED — Public page shows public product/catalog surface. Snippet: درباره ما - شرکت بازرگانی سیال کنترل پرش به محتوا خانه درباره ما محصولات شیرآلات صنعتی اتصالات صنعتی لوله ها عملگرها برندها میراب کیز ایران ارتعاشات صنعتی پترو فجر مرکزی cepex آریا کوپلینگ آوند؛ تولیدکننده تخصصی شیرآلات اسلاری و پینچ ولو effebi AKO پیشگام تکاب اتصال دماوند کورتک پلی پارک نگین شیر Herbe گروه صنعتی آریا خدمات پروژه ها بلاگ تماس با ما اطلاعات تماس جذب نمایندگی ریتاپی | خرید آنلاین باشگاه مشتریان ۷۴۵۲۵ ب ([درباره ما - شرکت بازرگانی سیال کنترل](https://flco-co.com/about-us/))
-- The public operating surface suggests meaningful activity around distributor; scale and buying power remain bounded by the evidence above.
+The public record supports a conversation around **تطبیق BOQ و مشخصات فنی برای پیشنهاد پروژه**. The attraction is the possibility of a bounded process improvement around دفتر فنی، فروش پروژه، تأمین و مدیریت بازرگانی, while leaving the company's core systems and final decisions under human control.
+This is a sales hypothesis, not a claim that the company currently has a known inefficiency.
 
 ## Evidence
 
-- OBSERVED — Public page shows public product/catalog surface. Snippet: تامین، تولید و واردات تجهیزات صنعت آب، نفت، گاز و پتروشیمی خانه درباره ما محصولات شیرآلات صنعتی اتصالات صنعتی لوله ها عملگرها برندها میراب کیز ایران ارتعاشات صنعتی پترو فجر مرکزی cepex آریا کوپلینگ آوند؛ تولیدکننده تخصصی شیرآلات اسلاری و پینچ ولو effebi AKO پیشگام تکاب اتصال دماوند کورتک پلی پارک نگین شیر Herbe گروه صنعتی آریا خدمات پروژه ها بلاگ تماس با ما اطلاعات تماس جذب نمایندگی ریتاپی | خرید آنلاین شبکه های اجتم ([تامین، تولید و واردات تجهیزات صنعت آب، نفت، گاز و پتروشیمی](https://flco-co.com/))
-- OBSERVED — Public page shows branches, representatives or dealer network. Snippet: ت اسلاری و پینچ ولو effebi AKO پیشگام تکاب اتصال دماوند کورتک پلی پارک نگین شیر Herbe گروه صنعتی آریا خدمات پروژه ها بلاگ تماس با ما اطلاعات تماس جذب نمایندگی ریتاپی | خرید آنلاین شبکه های اجتماعی : باشگاه مشتریان ۷۴۵۲۵ باشگاه مشتریان ۷۴۵۲۵ EN ما راهی را پیدا می‌کنیم اسکرول کنید بازرگانی سیال کنترل شرکت بازرگانی سیال کنترل به عنوان تامین کننده و وارد کننده شیرآلات ، اتصالات و تجهیزات صنعت پایپینگ به ویژه صنعت آب و فا ([تامین، تولید و واردات تجهیزات صنعت آب، نفت، گاز و پتروشیمی](https://flco-co.com/))
-- OBSERVED — Public page shows public projects, clients or partners. Snippet: آریا کوپلینگ آوند؛ تولیدکننده تخصصی شیرآلات اسلاری و پینچ ولو effebi AKO پیشگام تکاب اتصال دماوند کورتک پلی پارک نگین شیر Herbe گروه صنعتی آریا خدمات پروژه ها بلاگ تماس با ما اطلاعات تماس جذب نمایندگی ریتاپی | خرید آنلاین شبکه های اجتماعی : باشگاه مشتریان ۷۴۵۲۵ باشگاه مشتریان ۷۴۵۲۵ EN ما راهی را پیدا می‌کنیم اسکرول کنید بازرگانی سیال کنترل شرکت بازرگانی سیال کنترل به عنوان تامین کننده و وارد کننده شیرآلات ، اتصالات و ([تامین، تولید و واردات تجهیزات صنعت آب، نفت، گاز و پتروشیمی](https://flco-co.com/))
-- OBSERVED — Public page shows certification, license or standards evidence. Snippet: ه عنوان تأمین‌کننده و واردکننده انواع شیرآلات صنعتی، اتصالات صنعتی، لوله‌ها و عملگرها با افتخار در خدمت شماست. ما جدیدترین محصولات را با کیفیت بالا و استانداردهای لازم تضمینی ارائه می‌دهیم. برای مشاهده و خرید محصولات ما، به صفحه محصولات مراجعه کنید و یا روی یکی از محصولات رو به رو کلیک نمایید. شیر آلات صنعتی اتصالات صنعتی لوله ها عملگرها آخرین اخبار و مقالات 27 مرداد لرزه گیر لاستیکی ارتعاشات صنعتی ایران 24 مرداد شیر ([تامین، تولید و واردات تجهیزات صنعت آب، نفت، گاز و پتروشیمی](https://flco-co.com/))
-- OBSERVED — Public page shows public quotation or RFQ language. Snippet: درباره ما - شرکت بازرگانی سیال کنترل پرش به محتوا خانه درباره ما محصولات شیرآلات صنعتی اتصالات صنعتی لوله ها عملگرها برندها میراب کیز ایران ارتعاشات صنعتی پترو فجر مرکزی cepex آریا کوپلینگ آوند؛ تولیدکننده تخصصی شیرآلات اسلاری و پینچ ولو effebi AKO پیشگام تکاب اتصال دماوند کورتک پلی پارک نگین شیر Herbe گروه صنعتی آریا خدمات پروژه ها بلاگ تماس با ما اطلاعات تماس جذب نمایندگی ریتاپی | خرید آنلاین باشگاه مشتریان ۷۴۵۲۵ ب ([درباره ما - شرکت بازرگانی سیال کنترل](https://flco-co.com/about-us/))
-- OBSERVED — Public page shows public product/catalog surface. Snippet: درباره ما - شرکت بازرگانی سیال کنترل پرش به محتوا خانه درباره ما محصولات شیرآلات صنعتی اتصالات صنعتی لوله ها عملگرها برندها میراب کیز ایران ارتعاشات صنعتی پترو فجر مرکزی cepex آریا کوپلینگ آوند؛ تولیدکننده تخصصی شیرآلات اسلاری و پینچ ولو effebi AKO پیشگام تکاب اتصال دماوند کورتک پلی پارک نگین شیر Herbe گروه صنعتی آریا خدمات پروژه ها بلاگ تماس با ما اطلاعات تماس جذب نمایندگی ریتاپی | خرید آنلاین باشگاه مشتریان ۷۴۵۲۵ ب ([درباره ما - شرکت بازرگانی سیال کنترل](https://flco-co.com/about-us/))
+- The public page titled 'تامین، تولید و واردات تجهیزات صنعت آب، نفت، گاز و پتروشیمی' exposes product/catalog information, projects or client information. — [تامین، تولید و واردات تجهیزات صنعت آب، نفت، گاز و پتروشیمی](https://flco-co.com/)
+- The public page titled 'درباره ما - شرکت بازرگانی سیال کنترل' exposes product/catalog information, projects or client information. — [درباره ما - شرکت بازرگانی سیال کنترل](https://flco-co.com/about-us/)
+- The public page titled 'اتصالات صنعتی - سیال کنترل' exposes product/catalog information, a contact or order entry point. — [اتصالات صنعتی - سیال کنترل](https://flco-co.com/products/fittinigs/)
+- The public page titled 'شیرآلات صنعتی - سیال کنترل' exposes product/catalog information, projects or client information. — [شیرآلات صنعتی - سیال کنترل](https://flco-co.com/products/valves/)
 
 ## Likely operational bottleneck
 
-STRONG_INFERENCE — EVIDENCE_SUPPORTED — Public evidence shows public product/catalog surface, public projects, clients or partners, certification, license or standards evidence; the internal handoff and volume require discovery.
-The public record does not establish that the company currently handles this process manually or inefficiently.
+**Inference to validate:** incoming information may need repeated lookup, structuring or approval before the business team can produce the final output described by **تطبیق BOQ و مشخصات فنی برای پیشنهاد پروژه**. Public pages establish the customer-facing surface, not the internal handoff, volume or baseline.
 
 ## Recommended LUMA solution
 
-A document-grounded matcher that structures BOQ lines, retrieves technical evidence and prepares a versioned submittal or quotation pack for approval.
+**تطبیق BOQ و مشخصات فنی برای پیشنهاد پروژه** — یک میزکار مبتنی بر اسناد که ردیف‌های BOQ را ساختاریافته می‌کند، مستندات فنی تأییدشده را بازیابی می‌کند و بسته نسخه‌بندی‌شده سابمیتال یا پیشنهاد قیمت را برای بازبینی آماده می‌کند.
 
 ## Why this solution could matter financially
 
-No ROI percentage is invented. Validate the KPI categories: lines matched per hour; submittal turnaround; revision errors; follow-up coverage.
+Measure the baseline and pilot change in terms of:
+- تعداد ردیف تطبیق‌یافته در ساعت
+- زمان آماده‌سازی سابمیتال
+- خطاهای اصلاحی
+- پوشش پیگیری پروژه
 
-## What we do NOT know
+## What we do not know
 
-- Monthly volume, current handoffs, budget, decision authority, system ownership, data quality and implementation constraints are UNKNOWN.
-- Internal technical capability: `KNOWN_MODERATE_INTERNAL_TECH` — Known moderate business-systems capability; custom delivery ownership remains to be validated.
-- Digital maturity: `KNOWN_HIGH_DIGITAL_MATURITY` — Known high digital surface; outsourcing fit is reduced and internal ownership must be validated.
+- Monthly volume, current handoffs, approval rules and baseline time are not public.
+- The authoritative data owner and integration surface are not public.
+- Budget authority, buying process and timing are not public.
+- Internal software/data capability is not sufficiently established publicly; missing evidence is not treated as evidence of absence.
 
 ## Questions to ask
 
 1. BOQ و مشخصات فنی معمولاً با چه قالبی وارد می‌شوند؟
 2. تطبیق گزینه‌های مجاز و جایگزین توسط چه نقشی تأیید می‌شود؟
-3. کاتالوگ و گواهی فنی مرجع در کجا نگهداری می‌شود؟
+3. کاتالوگ، دیتاشیت و گواهی فنی مرجع در کجا نگهداری می‌شود؟
 4. کدام بخش از سابمیتال باید نسخه‌بندی و قابل ردیابی باشد؟
-5. یک پروژه نمونه برای اندازه‌گیری زمان و خطا کدام است؟
+5. یک پروژه نمونه برای مقایسه زمان و خطا کدام است؟
+6. چه کسی مالک این فرایند و تأیید خروجی نهایی است؟
+7. یک نمونه واقعی و پاک‌سازی‌شده برای مقایسه خط مبنا و پایلوت کدام است؟
+8. اگر پایلوت موفق باشد، گسترش آن به کدام واحد یا قالب بیشترین ارزش را دارد؟
 
 ## Decision maker
 
-- Role: Commercial Director / Sales Operations Manager (role status: `ROLE_HYPOTHESIS`).
-- Publicly verified name: UNKNOWN.
-- Source: [public source](https://flco-co.com/); confidence: 0.35.
+- Primary business owner: Technical Office / Project Sales Director; public name: Not publicly verified.
+- Economic buyer: Managing Director / CEO; public name: Not publicly verified.
+- Technical gatekeeper: Project Controls or Engineering Manager; public name: Not publicly verified.
 
 ## Contact channels
-
 - Website: [https://flco-co.com/](https://flco-co.com/)
-- Public corporate phone: 02126411404, 02126411405, 02126411406
-- Public corporate email: info@flco-co.com
+- Public phone: 02126411404, 02126411405, 02126411406
+- Corporate email: info@flco-co.com
+- Company LinkedIn: اطلاعات عمومی تأییدشده‌ای یافت نشد
+- Public WhatsApp: Not explicitly published
+
+## Pilot and demo
+
+- Pilot: پایلوت تطبیق ردیف‌های BOQ با مستندات فنی — شرکت بازرگانی سیال کنترل
+- Scope: یک مسیر محدود و قابل کنترل برای تطبیق BOQ و مشخصات فنی برای پیشنهاد پروژه با یک قالب ورودی و یک گروه کاربر؛ هسته ERP یا تصمیم نهایی جایگزین نمی‌شود.
+- Users: دفتر فنی، فروش پروژه، تأمین و مدیریت بازرگانی
+- Data: BOQ، مشخصات و نقشه‌ها، کاتالوگ محصول، گزینه‌های جایگزین، گواهی‌ها و سابمیتال‌های قبلی
+- Human approval: تأیید محصول/مقدار/قیمت، تأیید نقص یا استثنا، و انتشار خروجی نهایی نزد کارشناس یا مدیر مربوط باقی می‌ماند.
+- Duration: حدود ۳ تا ۶ هفته کاری پس از تأیید دسترسی، نمونه داده و دامنه پایلوت؛ مدت دقیق در جلسه کشف تعیین می‌شود.
+- Demo: یک BOQ کوچک وارد می‌شود؛ ردیف‌ها استخراج، محصولات یا گزینه‌های کاندید با لینک مستندات نمایش، و بسته پیشنهادی برای بازبینی انسانی آماده می‌شود.
 
 ## Screenshots
 
@@ -72,13 +87,4 @@ No ROI percentage is invented. Validate the KPI categories: lines matched per ho
 
 ## Sales recommendation
 
-**GO** — READY FOR OUTREACH; the recommendation follows the evidence gate and does not imply verified budget or authority.
-
-## Source links
-
-- [https://avval.ir/directory/%D8%B4%D8%B1%DA%A9%D8%AA%20%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86](https://avval.ir/directory/%D8%B4%D8%B1%DA%A9%D8%AA%20%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86)
-- [https://avval.ir/profile/64328/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%B3%DB%8C%D8%A7%D9%84-%DA%A9%D9%86%D8%AA%D8%B1%D9%84](https://avval.ir/profile/64328/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%B3%DB%8C%D8%A7%D9%84-%DA%A9%D9%86%D8%AA%D8%B1%D9%84)
-- [https://flco-co.com/](https://flco-co.com/)
-- [https://flco-co.com/about-us/](https://flco-co.com/about-us/)
-- [https://flco-co.com/products/fittinigs/](https://flco-co.com/products/fittinigs/)
-- [https://flco-co.com/products/valves/](https://flco-co.com/products/valves/)
+**DISCOVERY FIRST** — use the internal brief and outreach draft only after human review. Proposal: `sales/client/ir-teh-5541a647bfac567d.md`; outreach draft: `sales/outreach/ir-teh-5541a647bfac567d.md`.

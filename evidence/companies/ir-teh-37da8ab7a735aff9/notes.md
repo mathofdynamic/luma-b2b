@@ -28,3 +28,18 @@ Audit fetch notes:
 - SOURCE_TIMEOUT: https://html.duckduckgo.com/html/?q=%22%DA%AF%D8%B1%D9%88%D9%87+%D8%AA%D9%88%D9%84%DB%8C%D8%AF%DB%8C+%D8%B3%D9%BE%DB%8C%D8%AF%D8%A7%D8%B1+%DA%A9%D8%A7%D8%B1%D8%AA%D9%86%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa: URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>
 - SOURCE_ERROR: https://html.duckduckgo.com/html/?q=%22%DA%AF%D8%B1%D9%88%D9%87+%D8%AA%D9%88%D9%84%DB%8C%D8%AF%DB%8C+%D8%B3%D9%BE%DB%8C%D8%AF%D8%A7%D8%B1+%DA%A9%D8%A7%D8%B1%D8%AA%D9%86%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa: HTTPError: HTTP Error 403: Forbidden
 - SOURCE_ERROR: https://html.duckduckgo.com/html/?q=%22%DA%AF%D8%B1%D9%88%D9%87+%D8%AA%D9%88%D9%84%DB%8C%D8%AF%DB%8C+%D8%B3%D9%BE%DB%8C%D8%AF%D8%A7%D8%B1+%DA%A9%D8%A7%D8%B1%D8%AA%D9%86%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa: HTTPError: HTTP Error 403: Forbidden
+
+## Sales activation
+
+Activation version: 2026.09.sales-activation-v1
+
+Captured pages:
+- `companies/ir-teh-37da8ab7a735aff9/pages/sales-2fff313c81325cc9.txt`
+- `companies/ir-teh-37da8ab7a735aff9/pages/sales-83c37946e971a4e4.txt`
+- `companies/ir-teh-37da8ab7a735aff9/pages/sales-03c5cbe7c3f5be55.txt`
+- `companies/ir-teh-37da8ab7a735aff9/pages/sales-ccb8aa4e69bb6fd5.txt`
+- `companies/ir-teh-37da8ab7a735aff9/pages/sales-86d80430c8c57c62.txt`
+
+Source families added/confirmed: job_portal, other_public
+Primary workflow classification: EVIDENCE_SUPPORTED
+No outreach was sent; no contact form, RFQ, email, WhatsApp or phone call was submitted.

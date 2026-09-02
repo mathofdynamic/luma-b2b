@@ -1,70 +1,86 @@
 # بازرگانی اسپوتا
 
+Dossier rank: 2 | First-contact score: 72/100 | Wave: WAVE 1
+This is an internal sales preparation document. No outreach has been sent.
+
 ## Snapshot
 
-- Corrected classification: `industrial_distributors_importers` / `importer`.
-- Public description: بازرگانی اسپوتا تأمین کننده مواد شیمیایی و محصولات تصفیه آب و فاضلاب بازرگانی اسپوتا مجموعه ای فعال در زمینه تأمین، واردات و عرضه مواد شیمیایی، مواد اولیه صنعتی و محصول
+- What the company publicly presents: بازرگانی اسپوتا تأمین کننده مواد شیمیایی و محصولات تصفیه آب و فاضلاب بازرگانی اسپوتا مجموعه ای فعال در زمینه تأمین، واردات و عرضه مواد شیمیایی، مواد اولیه صنعتی و محصول
+- Corrected classification: `industrial_distributors_importers` / `importer`; B2B signal: `['B2B_candidate']`
 - Location: تهران، منطقه 12، محله آبشار، میدان مادر (محسنی)، خیابان شاه نظری، کوچه دوم، پلاک 22
-- Revised score: 87; confidence-adjusted: 72.9; tier: A
-- Commercial evidence strength: 72/100; score confidence: 73/100; independent source families: 2
+- Public website: [https://spttrade.com/](https://spttrade.com/)
+- Commercial evidence strength: 72
+- Independent source families counted: 3 — book_e_avval, company_website:spttrade.com, job_portal
 
 ## Why it is commercially interesting
 
-- OBSERVED — Public page shows public product/catalog surface. Snippet: س مواد اولیه شیمی ساختمان رزین پودری RDP هیدروکسی پروپیل متیل سلولز HPMC متیل هیدروکسی اتیل سلولز MHEC جستجو 021-26415084‌‌ 0912-9533282 دسته‌بندی‌ها محصولات برندها پادکست‌ها ثبت سفارش مقالات تماس با ما درباره ما جستجو بازرگانی اسپوتا دسته بندی محصولات اسپوتا مواد تصفیه آب تجهیزات تصفیه آب مواد شیمیایی فرآورده‌ نفتی پلیمر مهندسی مواد جاذب رطوبت مواد اولیه رنگ و رزین کود شیمیایی مواد پلیمری گروه مواد تصفیه آب رزین تبا ([بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی](https://spttrade.com/))
-- OBSERVED — Public page shows public order or contact intake. Snippet: رزین پودری RDP هیدروکسی پروپیل متیل سلولز HPMC متیل هیدروکسی اتیل سلولز MHEC جستجو 021-26415084‌‌ 0912-9533282 دسته‌بندی‌ها محصولات برندها پادکست‌ها ثبت سفارش مقالات تماس با ما درباره ما جستجو بازرگانی اسپوتا دسته بندی محصولات اسپوتا مواد تصفیه آب تجهیزات تصفیه آب مواد شیمیایی فرآورده‌ نفتی پلیمر مهندسی مواد جاذب رطوبت مواد اولیه رنگ و رزین کود شیمیایی مواد پلیمری گروه مواد تصفیه آب رزین تبادل یونی ضد کف آنتی اسکالان ([بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی](https://spttrade.com/))
-- OBSERVED — Public page shows after-sales, repair or service operation. Snippet: بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی Skip to navigation Skip to main content همه دسته بندی ها مواد تصفیه آب کربن فعال کربن اکتیو جاکوبی 1000 کربن اکتیو جاکوبی 2000 کربن اکتیو جاکوبی 6000 ضد کف | آنتی فوم ضد کف سیلیکونی ضد کف غیر سیلیکونی آنتی اسکالانت آنتی اسکالانت فلوکن 260 آنتی اسکالانت فلوکن 190 آنتی اسکالانت آویستا آنتی اسکالانت جنسیس رزین تبادل یونی رزین سختی گیر رزین آنیونی رزی ([بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی](https://spttrade.com/))
-- OBSERVED — Public page shows certification, license or standards evidence. Snippet: (محلول 1٪) تقریبا 5.1 نقطه ذوب 170.9 درجه سانتی گراد (339.6 درجه فارنهایت) تراکم 1.435 گرم بر سانتی متر مکعب در 20 درجه سانتی گراد فشار بخار در شرایط استاندارد ناچیز است نقطه اشتعال غیر قابل اشتعال بو بی بو مقایسه مشاهده سریع افزودن به علاقه مندی اسید دیسکلر امتیاز 0 از 5 (0) موجود در انبار ا ([بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی](https://spttrade.com/))
-- OBSERVED — Public page shows operational hiring signal. Snippet: بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی Skip to navigation Skip to main content همه دسته بندی ها مواد تصفیه آب کربن فعال کربن اکتیو جاکوبی 1000 کربن اکتیو جاکوبی 2000 کربن اکتیو جاکوبی 6000 ضد کف | آنتی فوم ضد کف سیلیکونی ضد کف غیر سیلیکونی آنتی اسکالانت آنتی اسکالانت فلوکن 260 آنتی اسکالانت فلوکن 190 آنتی اسکالانت آویستا آنتی اسکالانت جنسیس رزین تبادل یونی رزین سختی گیر رزین آنیونی رزی ([بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی](https://spttrade.com/))
-- OBSERVED — Public page shows expansion, export, founding or current activity signal. Snippet: بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی Skip to navigation Skip to main content همه دسته بندی ها مواد تصفیه آب کربن فعال کربن اکتیو جاکوبی 1000 کربن اکتیو جاکوبی 2000 کربن اکتیو جاکوبی 6000 ضد کف | آنتی فوم ضد کف سیلیکونی ضد کف غیر سیلیکونی آنتی اسکالانت آنتی اسکالانت فلوکن 260 آنتی اسکالانت فلوکن 190 آنتی اسکالانت آویستا آنتی اسکالانت جنسیس رزین تبادل یونی رزین سختی گیر رزین آنیونی رزی ([بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی](https://spttrade.com/))
-- The public operating surface suggests meaningful activity around importer; scale and buying power remain bounded by the evidence above.
+The public record supports a conversation around **دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت**. The attraction is the possibility of a bounded process improvement around فروش، بازرگانی و کارشناسان فنی محصول, while leaving the company's core systems and final decisions under human control.
+This is a sales hypothesis, not a claim that the company currently has a known inefficiency.
 
 ## Evidence
 
-- OBSERVED — Public page shows public product/catalog surface. Snippet: س مواد اولیه شیمی ساختمان رزین پودری RDP هیدروکسی پروپیل متیل سلولز HPMC متیل هیدروکسی اتیل سلولز MHEC جستجو 021-26415084‌‌ 0912-9533282 دسته‌بندی‌ها محصولات برندها پادکست‌ها ثبت سفارش مقالات تماس با ما درباره ما جستجو بازرگانی اسپوتا دسته بندی محصولات اسپوتا مواد تصفیه آب تجهیزات تصفیه آب مواد شیمیایی فرآورده‌ نفتی پلیمر مهندسی مواد جاذب رطوبت مواد اولیه رنگ و رزین کود شیمیایی مواد پلیمری گروه مواد تصفیه آب رزین تبا ([بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی](https://spttrade.com/))
-- OBSERVED — Public page shows public order or contact intake. Snippet: رزین پودری RDP هیدروکسی پروپیل متیل سلولز HPMC متیل هیدروکسی اتیل سلولز MHEC جستجو 021-26415084‌‌ 0912-9533282 دسته‌بندی‌ها محصولات برندها پادکست‌ها ثبت سفارش مقالات تماس با ما درباره ما جستجو بازرگانی اسپوتا دسته بندی محصولات اسپوتا مواد تصفیه آب تجهیزات تصفیه آب مواد شیمیایی فرآورده‌ نفتی پلیمر مهندسی مواد جاذب رطوبت مواد اولیه رنگ و رزین کود شیمیایی مواد پلیمری گروه مواد تصفیه آب رزین تبادل یونی ضد کف آنتی اسکالان ([بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی](https://spttrade.com/))
-- OBSERVED — Public page shows after-sales, repair or service operation. Snippet: بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی Skip to navigation Skip to main content همه دسته بندی ها مواد تصفیه آب کربن فعال کربن اکتیو جاکوبی 1000 کربن اکتیو جاکوبی 2000 کربن اکتیو جاکوبی 6000 ضد کف | آنتی فوم ضد کف سیلیکونی ضد کف غیر سیلیکونی آنتی اسکالانت آنتی اسکالانت فلوکن 260 آنتی اسکالانت فلوکن 190 آنتی اسکالانت آویستا آنتی اسکالانت جنسیس رزین تبادل یونی رزین سختی گیر رزین آنیونی رزی ([بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی](https://spttrade.com/))
-- OBSERVED — Public page shows certification, license or standards evidence. Snippet: (محلول 1٪) تقریبا 5.1 نقطه ذوب 170.9 درجه سانتی گراد (339.6 درجه فارنهایت) تراکم 1.435 گرم بر سانتی متر مکعب در 20 درجه سانتی گراد فشار بخار در شرایط استاندارد ناچیز است نقطه اشتعال غیر قابل اشتعال بو بی بو مقایسه مشاهده سریع افزودن به علاقه مندی اسید دیسکلر امتیاز 0 از 5 (0) موجود در انبار ا ([بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی](https://spttrade.com/))
-- OBSERVED — Public page shows operational hiring signal. Snippet: بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی Skip to navigation Skip to main content همه دسته بندی ها مواد تصفیه آب کربن فعال کربن اکتیو جاکوبی 1000 کربن اکتیو جاکوبی 2000 کربن اکتیو جاکوبی 6000 ضد کف | آنتی فوم ضد کف سیلیکونی ضد کف غیر سیلیکونی آنتی اسکالانت آنتی اسکالانت فلوکن 260 آنتی اسکالانت فلوکن 190 آنتی اسکالانت آویستا آنتی اسکالانت جنسیس رزین تبادل یونی رزین سختی گیر رزین آنیونی رزی ([بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی](https://spttrade.com/))
-- OBSERVED — Public page shows expansion, export, founding or current activity signal. Snippet: بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی Skip to navigation Skip to main content همه دسته بندی ها مواد تصفیه آب کربن فعال کربن اکتیو جاکوبی 1000 کربن اکتیو جاکوبی 2000 کربن اکتیو جاکوبی 6000 ضد کف | آنتی فوم ضد کف سیلیکونی ضد کف غیر سیلیکونی آنتی اسکالانت آنتی اسکالانت فلوکن 260 آنتی اسکالانت فلوکن 190 آنتی اسکالانت آویستا آنتی اسکالانت جنسیس رزین تبادل یونی رزین سختی گیر رزین آنیونی رزی ([بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی](https://spttrade.com/))
+- The public page titled 'بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی' exposes product/catalog information, a contact or order entry point. — [بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی](https://spttrade.com/)
+- The public page titled 'مواد تصفیه آب | قیمت فروش و خرید [2024] - بازرگانی اسپوتا' exposes product/catalog information, a contact or order entry point. — [مواد تصفیه آب | قیمت فروش و خرید [2024] - بازرگانی اسپوتا](https://spttrade.com/product-category/water-treatment-materials/)
+- The public page titled 'کربن اکتیو جاکوبی 1000 آکواسرب AquaSorb - بازرگانی اسپوتا' exposes product/catalog information, a contact or order entry point. — [کربن اکتیو جاکوبی 1000 آکواسرب AquaSorb - بازرگانی اسپوتا](https://spttrade.com/product/jacobi-aquasorb-1000/)
+- A public employment or employer page associates بازرگانی اسپوتا with hiring/activity information. — [استخدام در بازرگانی اسپوتا : مشاهده آخرین فرصت‌های شغلی | ایران‌تلنت](https://www.irantalent.com/company/spt-trade/7d24c403-0f8a-4878-a753-f9b4def7ab5b/job-positions)
+- A public employment or employer page associates بازرگانی اسپوتا with hiring/activity information. — [درباره شرکت بازرگانی اسپوتا | ایران‌تلنت](https://www.irantalent.com/company/spt-trade/7d24c403-0f8a-4878-a753-f9b4def7ab5b/overview)
 
 ## Likely operational bottleneck
 
-STRONG_INFERENCE — EVIDENCE_SUPPORTED — Public evidence shows public product/catalog surface, public order or contact intake, after-sales, repair or service operation; the internal handoff and volume require discovery.
-The public record does not establish that the company currently handles this process manually or inefficiently.
+**Inference to validate:** incoming information may need repeated lookup, structuring or approval before the business team can produce the final output described by **دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت**. Public pages establish the customer-facing surface, not the internal handoff, volume or baseline.
 
 ## Recommended LUMA solution
 
-A Persian/English RFQ intake and catalog/SKU matcher that prepares an explainable draft quotation for human approval.
+**دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت** — یک میزکار کنترل‌شده برای ساختاردهی درخواست‌های ورودی، تطبیق آن‌ها با مرجع تأییدشده محصولات و مشخصات، و آماده‌سازی پیش‌نویس پاسخ برای تأیید انسانی.
 
 ## Why this solution could matter financially
 
-No ROI percentage is invented. Validate the KPI categories: quote turnaround time; RFQs handled per salesperson; correction rate; follow-up completion.
+Measure the baseline and pilot change in terms of:
+- زمان پاسخ به استعلام
+- تعداد استعلام قابل پردازش برای هر کارشناس
+- نرخ اصلاح پیشنهاد
+- تکمیل پیگیری
 
-## What we do NOT know
+## What we do not know
 
-- Monthly volume, current handoffs, budget, decision authority, system ownership, data quality and implementation constraints are UNKNOWN.
-- Internal technical capability: `UNKNOWN_INTERNAL_TECH` — UNKNOWN — lack of public evidence is not treated as known low internal capability.
-- Digital maturity: `KNOWN_MODERATE_DIGITAL_MATURITY` — Known moderate/fragmented public digital surface; validate internal handoffs and system ownership.
+- Monthly volume, current handoffs, approval rules and baseline time are not public.
+- The authoritative data owner and integration surface are not public.
+- Budget authority, buying process and timing are not public.
+- Internal software/data capability is not sufficiently established publicly; missing evidence is not treated as evidence of absence.
 
 ## Questions to ask
 
 1. در ماه چند درخواست قیمت وارد می‌شود و از چه کانال‌هایی؟
-2. امروز فروشنده برای تطبیق مشخصات، قیمت و موجودی به چه منابعی رجوع می‌کند؟
+2. امروز برای تطبیق مشخصات، قیمت و موجودی به کدام فایل یا سامانه رجوع می‌شود؟
 3. کدام قواعد قیمت‌گذاری و حاشیه سود باید کاملاً قطعی و انسانی باقی بماند؟
-4. خروجی مطلوب پیش‌فاکتور است یا فقط پیشنهاد محصول و پاسخ فنی؟
-5. داده مرجع محصول و قیمت در کدام سامانه یا فایل نگهداری می‌شود؟
+4. برای شروع، پاسخ فنی، پیشنهاد محصول یا پیش‌فاکتور کدام خروجی ارزشمندتر است؟
+5. یک نمونه استعلام واقعی برای اندازه‌گیری زمان و میزان اصلاحات کدام است؟
+6. چه کسی مالک این فرایند و تأیید خروجی نهایی است؟
+7. یک نمونه واقعی و پاک‌سازی‌شده برای مقایسه خط مبنا و پایلوت کدام است؟
+8. اگر پایلوت موفق باشد، گسترش آن به کدام واحد یا قالب بیشترین ارزش را دارد؟
 
 ## Decision maker
 
-- Role: Commercial Director / Sales Operations Manager (role status: `ROLE_HYPOTHESIS`).
-- Publicly verified name: UNKNOWN.
-- Source: [public source](https://spttrade.com/); confidence: 0.35.
+- Primary business owner: Commercial / Sales Operations Director; public name: Not publicly verified.
+- Economic buyer: Managing Director / CEO; public name: Not publicly verified.
+- Technical gatekeeper: Product or Technical Sales Manager; public name: Not publicly verified.
 
 ## Contact channels
-
 - Website: [https://spttrade.com/](https://spttrade.com/)
-- Public corporate phone: 02126415084
-- Public corporate email: info@spttrade.com
+- Public phone: 02126415084
+- Corporate email: info@spttrade.com
+- Company LinkedIn: اطلاعات عمومی تأییدشده‌ای یافت نشد
+- Public WhatsApp: [https://wa.me/+989129533282](https://wa.me/+989129533282)
+
+## Pilot and demo
+
+- Pilot: پایلوت پاسخ‌گویی ساختاریافته به استعلام‌ها — بازرگانی اسپوتا
+- Scope: یک مسیر محدود و قابل کنترل برای دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت با یک قالب ورودی و یک گروه کاربر؛ هسته ERP یا تصمیم نهایی جایگزین نمی‌شود.
+- Users: فروش، بازرگانی و کارشناسان فنی محصول
+- Data: استعلام‌ها، مرجع محصول و SKU، مشخصات فنی، فهرست قیمت، تصویر موجودی، پیشنهادهای قبلی و قواعد تأیید
+- Human approval: تأیید محصول/مقدار/قیمت، تأیید نقص یا استثنا، و انتشار خروجی نهایی نزد کارشناس یا مدیر مربوط باقی می‌ماند.
+- Duration: حدود ۳ تا ۶ هفته کاری پس از تأیید دسترسی، نمونه داده و دامنه پایلوت؛ مدت دقیق در جلسه کشف تعیین می‌شود.
+- Demo: یک استعلام نمونه با چند مشخصه وارد می‌شود؛ سیستم محصولات/گزینه‌های منطبق را با منبع نشان می‌دهد، پیش‌نویس پاسخ می‌سازد و کارشناس آن را تأیید یا اصلاح می‌کند.
 
 ## Screenshots
 
@@ -72,13 +88,4 @@ No ROI percentage is invented. Validate the KPI categories: quote turnaround tim
 
 ## Sales recommendation
 
-**GO** — READY FOR OUTREACH; the recommendation follows the evidence gate and does not imply verified budget or authority.
-
-## Source links
-
-- [https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%B4%DB%8C%D9%85%DB%8C%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86](https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%D9%85%D9%88%D8%A7%D8%AF%20%D8%B4%DB%8C%D9%85%DB%8C%D8%A7%DB%8C%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86)
-- [https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%DA%A9%D8%A7%D9%84%D8%A7/%D8%AA%D9%87%D8%B1%D8%A7%D9%86](https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%DA%A9%D8%A7%D9%84%D8%A7/%D8%AA%D9%87%D8%B1%D8%A7%D9%86)
-- [https://avval.ir/profile/smbtd/%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%A7%D8%B3%D9%BE%D9%88%D8%AA%D8%A7](https://avval.ir/profile/smbtd/%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%A7%D8%B3%D9%BE%D9%88%D8%AA%D8%A7)
-- [https://spttrade.com/](https://spttrade.com/)
-- [https://spttrade.com/product-category/water-treatment-materials/](https://spttrade.com/product-category/water-treatment-materials/)
-- [https://spttrade.com/product/jacobi-aquasorb-1000/](https://spttrade.com/product/jacobi-aquasorb-1000/)
+**GO** — use the internal brief and outreach draft only after human review. Proposal: `sales/client/ir-teh-4b1dd8c047fc2163.md`; outreach draft: `sales/outreach/ir-teh-4b1dd8c047fc2163.md`.

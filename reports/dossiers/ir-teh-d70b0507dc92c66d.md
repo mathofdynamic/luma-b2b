@@ -1,70 +1,85 @@
 # شرکت آسفالت توس
 
+Dossier rank: 24 | First-contact score: 62/100 | Wave: WAVE 3
+This is an internal sales preparation document. No outreach has been sent.
+
 ## Snapshot
 
-- Corrected classification: `epc_engineering_contractors` / `EPC_contractor`.
-- Public description: شرکت آسفالت طوس شامل یک شرکت اصلی و چند شرکت زیر مجموعه است که به صورت منسجم در طراحی، اجرا، تامین کالا، راه اندازی و بهره برداری ازکارخانجات صنعتی، صنایع نفت و گاز و پتر
+- What the company publicly presents: شرکت آسفالت طوس شامل یک شرکت اصلی و چند شرکت زیر مجموعه است که به صورت منسجم در طراحی، اجرا، تامین کالا، راه اندازی و بهره برداری ازکارخانجات صنعتی، صنایع نفت و گاز و پتر
+- Corrected classification: `epc_engineering_contractors` / `EPC_contractor`; B2B signal: `['B2B_candidate']`
 - Location: تهران، منطقه 6، محله والفجر، بزرگراه همت، خیابان شیراز جنوبی، خیابان آقا علی خانی، خیابان گلستان، بن بست 12 متری سوم، پلاک 2
-- Revised score: 83; confidence-adjusted: 69.6; tier: A
-- Commercial evidence strength: 72/100; score confidence: 73/100; independent source families: 2
+- Public website: اطلاعات عمومی تأییدشده‌ای یافت نشد
+- Commercial evidence strength: 72
+- Independent source families counted: 3 — book_e_avval, company_website:asfalt-tous.com, job_portal
 
 ## Why it is commercially interesting
 
-- OBSERVED — Public page shows public projects, clients or partners. Snippet: شرکت آسفالت طوس درباره‌ ما معرفی شرکت ساختار سازمان HSE پروژه‌ها پروژه‌ها بر روی نقشه پروژه‌های صنعت‌ و‌ معدن پروژه‌های نفت‌ و‌ گاز سایر پروژه‌ها رویدادها تماس با ما راه‌های ارتباط با ما ارسال رزومه‌ شغلی مناقصات و مزایدات EN فا قریب به نیم‌قرن فعالیت مستمر شرکت آسفالت طوس (از سال ۱۳۵۴) گواهی است بر توانایی و ظرفیت‌های عظیم این شرکت پیمانکاری در اجرای طرح‌های EPC در پروژه‌های عمرانی، صنعتی و معدنی، و پروژه‌های نفت، گ ([شرکت آسفالت طوس](https://asfalt-tous.com/))
-- OBSERVED — Public page shows expansion, export, founding or current activity signal. Snippet: شرکت آسفالت طوس درباره‌ ما معرفی شرکت ساختار سازمان HSE پروژه‌ها پروژه‌ها بر روی نقشه پروژه‌های صنعت‌ و‌ معدن پروژه‌های نفت‌ و‌ گاز سایر پروژه‌ها رویدادها تماس با ما راه‌های ارتباط با ما ارسال رزومه‌ شغلی مناقصات و مزایدات EN فا قریب به نیم‌قرن فعالیت مستمر شرکت آسفالت طوس (از سال ۱۳۵۴) گواهی است بر توانایی و ظرفیت‌های عظیم این شرکت پیمانکاری در اجرای طرح‌های EPC در پروژه‌های عمرانی، صنعتی و معدنی، و پروژه‌های نفت، گ ([شرکت آسفالت طوس](https://asfalt-tous.com/))
-- OBSERVED — Public page shows public product/catalog surface. Snippet: ی عمرانی، صنعتی و معدنی و پروژه‌های نفت، گاز و پتروشیمی که با کمک نیروی انسانی متخصص و تکیه‌ بر دانش فنی روز به انجام می‌رسد. ​​در‌باره ما ... دانلود کاتالوگ معرفی شرکت رتبه زمینه فعالیت 1 صنعت و معدن 1 نفت و گاز 1 ساختمان و ابنیه 1 کاوش های زمینی 1 آب رتبه‌بندی ارزش های ما ارائه خدمات با بهترین کیفیت ممکن و در کوتاه‌ترین زمان برآورده‌سازی نیازها و انتظارات کارفرمایان و سایر ذینفعان اولویت قراردادن سلامت و ایمنی کارک ([درباره ما](https://asfalt-tous.com/about/))
-- OBSERVED — Public page shows factory, warehouse or production facility. Snippet: ت، ایمنی و کیفیت زندگی کارکنان با استفاده از روش‌ها و امکانات نوین ماموریت ما اجرای باکیفیت، پایدار و سریع پروژه‌های صنایع فولاد، نفت، گاز، پتروشیمی، کارخانه‌هاي صنعتی و بهره‌برداری از معادن در راستای توسعه کشور با رعایت ملاحظات HSE، از طریق نیروی انسانی توانمند و با کمک سیستم‌ها و ماشین آلات پیشرفته برخی از شرکت‌های همکار ما تماس با ما آدرس:تهران، بزرگراه همت، خيابان شيرازی جنوبی، خيابان آقاعلیخانی، خيابان داوری ارد ([درباره ما](https://asfalt-tous.com/about/))
-- OBSERVED — Public page shows public projects, clients or partners. Snippet: درباره ما درباره‌ ما معرفی شرکت ساختار سازمان HSE پروژه‌ها پروژه‌ها بر روی نقشه پروژه‌های صنعت‌ و‌ معدن پروژه‌های نفت‌ و‌ گاز سایر پروژه‌ها رویدادها تماس با ما راه‌های ارتباط با ما ارسال رزومه‌ شغلی مناقصات و مزایدات EN فا شرکت آسفالت طوس شامل یک شرکت اصلی و چند شرکت زیرمجموعه است که به‌ صورت منسجم در زمینه‌های طراحی، اجرا، تأمین کالا، راه‌اندازی و بهره‌برداری از کارخانجات صنعتی، صنایع نفت و گاز و پتروشیمی، حفاری و آ ([درباره ما](https://asfalt-tous.com/about/))
-- OBSERVED — Public page shows tender, contract or procurement language. Snippet: مینی 1 آب رتبه‌بندی ارزش های ما ارائه خدمات با بهترین کیفیت ممکن و در کوتاه‌ترین زمان برآورده‌سازی نیازها و انتظارات کارفرمایان و سایر ذینفعان اولویت قراردادن سلامت و ایمنی کارکنان توجه به مسئولیت‌های اجتماعی سازمان و حفاظت از محیط زیست حفظ کرامت انسانی کارکنان و خانواده‌هایشان و کمک به توسعه توانایی‌های آنها استقبال از پیشنهادهای مبتکرانه و ایجاد فرصت برای بروز خلاقیت تولید، ذخیره‌سازی و بهره‌برداری از دانش سازمانی  ([درباره ما](https://asfalt-tous.com/about/))
-- The public operating surface suggests meaningful activity around EPC_contractor; scale and buying power remain bounded by the evidence above.
+The public record supports a conversation around **تطبیق BOQ و مشخصات فنی برای پیشنهاد پروژه**. The attraction is the possibility of a bounded process improvement around دفتر فنی، فروش پروژه، تأمین و مدیریت بازرگانی, while leaving the company's core systems and final decisions under human control.
+This is a sales hypothesis, not a claim that the company currently has a known inefficiency.
 
 ## Evidence
 
-- OBSERVED — Public page shows public projects, clients or partners. Snippet: شرکت آسفالت طوس درباره‌ ما معرفی شرکت ساختار سازمان HSE پروژه‌ها پروژه‌ها بر روی نقشه پروژه‌های صنعت‌ و‌ معدن پروژه‌های نفت‌ و‌ گاز سایر پروژه‌ها رویدادها تماس با ما راه‌های ارتباط با ما ارسال رزومه‌ شغلی مناقصات و مزایدات EN فا قریب به نیم‌قرن فعالیت مستمر شرکت آسفالت طوس (از سال ۱۳۵۴) گواهی است بر توانایی و ظرفیت‌های عظیم این شرکت پیمانکاری در اجرای طرح‌های EPC در پروژه‌های عمرانی، صنعتی و معدنی، و پروژه‌های نفت، گ ([شرکت آسفالت طوس](https://asfalt-tous.com/))
-- OBSERVED — Public page shows expansion, export, founding or current activity signal. Snippet: شرکت آسفالت طوس درباره‌ ما معرفی شرکت ساختار سازمان HSE پروژه‌ها پروژه‌ها بر روی نقشه پروژه‌های صنعت‌ و‌ معدن پروژه‌های نفت‌ و‌ گاز سایر پروژه‌ها رویدادها تماس با ما راه‌های ارتباط با ما ارسال رزومه‌ شغلی مناقصات و مزایدات EN فا قریب به نیم‌قرن فعالیت مستمر شرکت آسفالت طوس (از سال ۱۳۵۴) گواهی است بر توانایی و ظرفیت‌های عظیم این شرکت پیمانکاری در اجرای طرح‌های EPC در پروژه‌های عمرانی، صنعتی و معدنی، و پروژه‌های نفت، گ ([شرکت آسفالت طوس](https://asfalt-tous.com/))
-- OBSERVED — Public page shows public product/catalog surface. Snippet: ی عمرانی، صنعتی و معدنی و پروژه‌های نفت، گاز و پتروشیمی که با کمک نیروی انسانی متخصص و تکیه‌ بر دانش فنی روز به انجام می‌رسد. ​​در‌باره ما ... دانلود کاتالوگ معرفی شرکت رتبه زمینه فعالیت 1 صنعت و معدن 1 نفت و گاز 1 ساختمان و ابنیه 1 کاوش های زمینی 1 آب رتبه‌بندی ارزش های ما ارائه خدمات با بهترین کیفیت ممکن و در کوتاه‌ترین زمان برآورده‌سازی نیازها و انتظارات کارفرمایان و سایر ذینفعان اولویت قراردادن سلامت و ایمنی کارک ([درباره ما](https://asfalt-tous.com/about/))
-- OBSERVED — Public page shows factory, warehouse or production facility. Snippet: ت، ایمنی و کیفیت زندگی کارکنان با استفاده از روش‌ها و امکانات نوین ماموریت ما اجرای باکیفیت، پایدار و سریع پروژه‌های صنایع فولاد، نفت، گاز، پتروشیمی، کارخانه‌هاي صنعتی و بهره‌برداری از معادن در راستای توسعه کشور با رعایت ملاحظات HSE، از طریق نیروی انسانی توانمند و با کمک سیستم‌ها و ماشین آلات پیشرفته برخی از شرکت‌های همکار ما تماس با ما آدرس:تهران، بزرگراه همت، خيابان شيرازی جنوبی، خيابان آقاعلیخانی، خيابان داوری ارد ([درباره ما](https://asfalt-tous.com/about/))
-- OBSERVED — Public page shows public projects, clients or partners. Snippet: درباره ما درباره‌ ما معرفی شرکت ساختار سازمان HSE پروژه‌ها پروژه‌ها بر روی نقشه پروژه‌های صنعت‌ و‌ معدن پروژه‌های نفت‌ و‌ گاز سایر پروژه‌ها رویدادها تماس با ما راه‌های ارتباط با ما ارسال رزومه‌ شغلی مناقصات و مزایدات EN فا شرکت آسفالت طوس شامل یک شرکت اصلی و چند شرکت زیرمجموعه است که به‌ صورت منسجم در زمینه‌های طراحی، اجرا، تأمین کالا، راه‌اندازی و بهره‌برداری از کارخانجات صنعتی، صنایع نفت و گاز و پتروشیمی، حفاری و آ ([درباره ما](https://asfalt-tous.com/about/))
-- OBSERVED — Public page shows tender, contract or procurement language. Snippet: مینی 1 آب رتبه‌بندی ارزش های ما ارائه خدمات با بهترین کیفیت ممکن و در کوتاه‌ترین زمان برآورده‌سازی نیازها و انتظارات کارفرمایان و سایر ذینفعان اولویت قراردادن سلامت و ایمنی کارکنان توجه به مسئولیت‌های اجتماعی سازمان و حفاظت از محیط زیست حفظ کرامت انسانی کارکنان و خانواده‌هایشان و کمک به توسعه توانایی‌های آنها استقبال از پیشنهادهای مبتکرانه و ایجاد فرصت برای بروز خلاقیت تولید، ذخیره‌سازی و بهره‌برداری از دانش سازمانی  ([درباره ما](https://asfalt-tous.com/about/))
+- The public page titled 'شرکت آسفالت طوس' exposes projects or client information. — [شرکت آسفالت طوس](https://asfalt-tous.com/)
+- The public page titled 'پروژه ها بر روی نقشه | شرکت آسفالت طوس' exposes projects or client information. — [پروژه ها بر روی نقشه | شرکت آسفالت طوس](https://asfalt-tous.com/MAP/)
+- The public page titled 'درباره ما' exposes product/catalog information, projects or client information. — [درباره ما](https://asfalt-tous.com/about/)
+- A public employment or employer page associates شرکت آسفالت توس with hiring/activity information. — [درباره شرکت آسفالت طوس | ایران‌تلنت](https://www.irantalent.com/company/asfalt-tous/7b4ef82d-2d5b-4571-b3b1-b8f1a49c5d00/overview)
 
 ## Likely operational bottleneck
 
-STRONG_INFERENCE — EVIDENCE_SUPPORTED — Public evidence shows public projects, clients or partners, public product/catalog surface, factory, warehouse or production facility; the internal handoff and volume require discovery.
-The public record does not establish that the company currently handles this process manually or inefficiently.
+**Inference to validate:** incoming information may need repeated lookup, structuring or approval before the business team can produce the final output described by **تطبیق BOQ و مشخصات فنی برای پیشنهاد پروژه**. Public pages establish the customer-facing surface, not the internal handoff, volume or baseline.
 
 ## Recommended LUMA solution
 
-A document-grounded matcher that structures BOQ lines, retrieves technical evidence and prepares a versioned submittal or quotation pack for approval.
+**تطبیق BOQ و مشخصات فنی برای پیشنهاد پروژه** — یک میزکار مبتنی بر اسناد که ردیف‌های BOQ را ساختاریافته می‌کند، مستندات فنی تأییدشده را بازیابی می‌کند و بسته نسخه‌بندی‌شده سابمیتال یا پیشنهاد قیمت را برای بازبینی آماده می‌کند.
 
 ## Why this solution could matter financially
 
-No ROI percentage is invented. Validate the KPI categories: lines matched per hour; submittal turnaround; revision errors; follow-up coverage.
+Measure the baseline and pilot change in terms of:
+- تعداد ردیف تطبیق‌یافته در ساعت
+- زمان آماده‌سازی سابمیتال
+- خطاهای اصلاحی
+- پوشش پیگیری پروژه
 
-## What we do NOT know
+## What we do not know
 
-- Monthly volume, current handoffs, budget, decision authority, system ownership, data quality and implementation constraints are UNKNOWN.
-- Internal technical capability: `UNKNOWN_INTERNAL_TECH` — UNKNOWN — lack of public evidence is not treated as known low internal capability.
-- Digital maturity: `KNOWN_MODERATE_DIGITAL_MATURITY` — Known moderate/fragmented public digital surface; validate internal handoffs and system ownership.
+- Monthly volume, current handoffs, approval rules and baseline time are not public.
+- The authoritative data owner and integration surface are not public.
+- Budget authority, buying process and timing are not public.
+- Internal software/data capability is not sufficiently established publicly; missing evidence is not treated as evidence of absence.
 
 ## Questions to ask
 
 1. BOQ و مشخصات فنی معمولاً با چه قالبی وارد می‌شوند؟
 2. تطبیق گزینه‌های مجاز و جایگزین توسط چه نقشی تأیید می‌شود؟
-3. کاتالوگ و گواهی فنی مرجع در کجا نگهداری می‌شود؟
+3. کاتالوگ، دیتاشیت و گواهی فنی مرجع در کجا نگهداری می‌شود؟
 4. کدام بخش از سابمیتال باید نسخه‌بندی و قابل ردیابی باشد؟
-5. یک پروژه نمونه برای اندازه‌گیری زمان و خطا کدام است؟
+5. یک پروژه نمونه برای مقایسه زمان و خطا کدام است؟
+6. چه کسی مالک این فرایند و تأیید خروجی نهایی است؟
+7. یک نمونه واقعی و پاک‌سازی‌شده برای مقایسه خط مبنا و پایلوت کدام است؟
+8. اگر پایلوت موفق باشد، گسترش آن به کدام واحد یا قالب بیشترین ارزش را دارد؟
 
 ## Decision maker
 
-- Role: Contracts / Tender / Project Controls Director (role status: `ROLE_HYPOTHESIS`).
-- Publicly verified name: UNKNOWN.
-- Source: [public source](https://asfalt-tous.com/); confidence: 0.35.
+- Primary business owner: Technical Office / Project Sales Director; public name: Not publicly verified.
+- Economic buyer: Managing Director / CEO; public name: Not publicly verified.
+- Technical gatekeeper: Project Controls or Engineering Manager; public name: Not publicly verified.
 
 ## Contact channels
+- Website: اطلاعات عمومی تأییدشده‌ای یافت نشد
+- Public phone: 02143621000
+- Corporate email: info@asfalt-tous.com
+- Company LinkedIn: اطلاعات عمومی تأییدشده‌ای یافت نشد
+- Public WhatsApp: Not explicitly published
 
-- Website: UNKNOWN
-- Public corporate phone: 02143621000
-- Public corporate email: asfalttous@neda.net, info@asfalt-tous.com
+## Pilot and demo
+
+- Pilot: پایلوت تطبیق ردیف‌های BOQ با مستندات فنی — شرکت آسفالت توس
+- Scope: یک مسیر محدود و قابل کنترل برای تطبیق BOQ و مشخصات فنی برای پیشنهاد پروژه با یک قالب ورودی و یک گروه کاربر؛ هسته ERP یا تصمیم نهایی جایگزین نمی‌شود.
+- Users: دفتر فنی، فروش پروژه، تأمین و مدیریت بازرگانی
+- Data: BOQ، مشخصات و نقشه‌ها، کاتالوگ محصول، گزینه‌های جایگزین، گواهی‌ها و سابمیتال‌های قبلی
+- Human approval: تأیید محصول/مقدار/قیمت، تأیید نقص یا استثنا، و انتشار خروجی نهایی نزد کارشناس یا مدیر مربوط باقی می‌ماند.
+- Duration: حدود ۳ تا ۶ هفته کاری پس از تأیید دسترسی، نمونه داده و دامنه پایلوت؛ مدت دقیق در جلسه کشف تعیین می‌شود.
+- Demo: یک BOQ کوچک وارد می‌شود؛ ردیف‌ها استخراج، محصولات یا گزینه‌های کاندید با لینک مستندات نمایش، و بسته پیشنهادی برای بازبینی انسانی آماده می‌شود.
 
 ## Screenshots
 
@@ -72,12 +87,4 @@ No ROI percentage is invented. Validate the KPI categories: lines matched per ho
 
 ## Sales recommendation
 
-**GO** — READY FOR OUTREACH; the recommendation follows the evidence gate and does not imply verified budget or authority.
-
-## Source links
-
-- [https://avval.ir/directory/%D9%BE%DB%8C%D9%85%D8%A7%D9%86%DA%A9%D8%A7%D8%B1%20%D9%86%D9%81%D8%AA%20%D9%88%20%DA%AF%D8%A7%D8%B2%20%D9%88%20%D9%BE%D8%AA%D8%B1%D9%88%D8%B4%DB%8C%D9%85%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86](https://avval.ir/directory/%D9%BE%DB%8C%D9%85%D8%A7%D9%86%DA%A9%D8%A7%D8%B1%20%D9%86%D9%81%D8%AA%20%D9%88%20%DA%AF%D8%A7%D8%B2%20%D9%88%20%D9%BE%D8%AA%D8%B1%D9%88%D8%B4%DB%8C%D9%85%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86)
-- [https://asfalt-tous.com/](https://asfalt-tous.com/)
-- [https://avval.ir/profile/70f70/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A2%D8%B3%D9%81%D8%A7%D9%84%D8%AA-%D8%AA%D9%88%D8%B3](https://avval.ir/profile/70f70/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A2%D8%B3%D9%81%D8%A7%D9%84%D8%AA-%D8%AA%D9%88%D8%B3)
-- [https://asfalt-tous.com/about/](https://asfalt-tous.com/about/)
-- [https://asfalt-tous.com/MAP/](https://asfalt-tous.com/MAP/)
+**DISCOVERY FIRST** — use the internal brief and outreach draft only after human review. Proposal: `sales/client/ir-teh-d70b0507dc92c66d.md`; outreach draft: `sales/outreach/ir-teh-d70b0507dc92c66d.md`.

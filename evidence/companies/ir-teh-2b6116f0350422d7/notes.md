@@ -27,3 +27,15 @@ Audit fetch notes:
 - SOURCE_ERROR: https://anbargostaran.com/قفسه-بندی/: UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
 - SOURCE_ERROR: https://anbargostaran.com/تماس-با-ما/: UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
 - SOURCE_ERROR: https://anbargostaran.com/درباره-ما/: UnicodeEncodeError: 'ascii' codec can't encode characters in position 5-10: ordinal not in range(128)
+
+## Sales activation
+
+Activation version: 2026.09.sales-activation-v1
+
+Captured pages:
+- `companies/ir-teh-2b6116f0350422d7/pages/sales-b418b9874f6fb2de.txt`
+- `companies/ir-teh-2b6116f0350422d7/pages/sales-75ced1c09885bf0f.txt`
+
+Source families added/confirmed: job_portal, other_public
+Primary workflow classification: STRONG_HYPOTHESIS
+No outreach was sent; no contact form, RFQ, email, WhatsApp or phone call was submitted.

@@ -29,3 +29,20 @@ Page captures:
 Audit fetch notes:
 - SOURCE_TIMEOUT: https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%B5%D8%A8%D8%A7%D8%AD%DB%8C%22+%28%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+OR+%D8%A7%D9%86%D8%A8%D8%A7%D8%B1+OR+%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C+OR+%D9%BE%D8%B1%D9%88%DA%98%D9%87+OR+%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%29&kl=ir-fa: URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>
 - SOURCE_TIMEOUT: https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%B5%D8%A8%D8%A7%D8%AD%DB%8C%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa: URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>
+
+## Sales activation
+
+Activation version: 2026.09.sales-activation-v1
+
+Captured pages:
+- `companies/ir-teh-2587928f98e4f816/pages/sales-4a083a22b89f0c7a.txt`
+- `companies/ir-teh-2587928f98e4f816/pages/sales-014c8c62e5b0c19f.txt`
+- `companies/ir-teh-2587928f98e4f816/pages/sales-9c0c51220b81f501.txt`
+- `companies/ir-teh-2587928f98e4f816/pages/sales-c351cc22ab1a92f2.txt`
+- `companies/ir-teh-2587928f98e4f816/pages/sales-1aba192f063d4856.txt`
+- `companies/ir-teh-2587928f98e4f816/pages/sales-7610f51736a5ef29.txt`
+- `companies/ir-teh-2587928f98e4f816/pages/sales-93366968095d0e13.txt`
+
+Source families added/confirmed: job_portal, linkedin_public, other_public
+Primary workflow classification: STRONG_HYPOTHESIS
+No outreach was sent; no contact form, RFQ, email, WhatsApp or phone call was submitted.

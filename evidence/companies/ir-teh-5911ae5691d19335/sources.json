@@ -23,14 +23,314 @@
       "error": "HTTPError: HTTP Error 403: Forbidden",
       "stage": "search_query",
       "url": "https://html.duckduckgo.com/html/?q=%22https+iluxbox.com%22+Tehran+Iran+company&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "InvalidURL: URL can't contain control characters. '/share?url=avval.ir/profile/00fd5/%D9%84%D9%88%DA%A9%D8%B3-%D8%A8%D8%A7%DA%A9%D8%B3&text=لوکس باکس' (found at least ' ')",
+      "stage": "official_page",
+      "url": "https://twitter.com/share?url=avval.ir/profile/00fd5/%D9%84%D9%88%DA%A9%D8%B3-%D8%A8%D8%A7%DA%A9%D8%B3&text=لوکس باکس"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "official_page",
+      "url": "https://twitter.com/ketabeavvalir"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 500: ",
+      "stage": "official_page",
+      "url": "https://trustseal.enamad.ir/?id=194990&Code=3Y0m3d1djm9fuqjoC8mT"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "official_page",
+      "url": "https://api.whatsapp.com/send?text=avval.ir/profile/00fd5/%D9%84%D9%88%DA%A9%D8%B3-%D8%A8%D8%A7%DA%A9%D8%B3"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D9%84%D9%88%DA%A9%D8%B3+%D8%A8%D8%A7%DA%A9%D8%B3%22+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D9%84%D9%88%DA%A9%D8%B3+%D8%A8%D8%A7%DA%A9%D8%B3%22+%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+%D9%81%D8%B1%D8%B5%D8%AA+%D8%B4%D8%BA%D9%84%DB%8C&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D9%84%D9%88%DA%A9%D8%B3+%D8%A8%D8%A7%DA%A9%D8%B3%22+%D9%86%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87+%D8%A7%D9%86%D8%AC%D9%85%D9%86+%D8%B9%D8%B6%D9%88&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D9%84%D9%88%DA%A9%D8%B3+%D8%A8%D8%A7%DA%A9%D8%B3%22+%D8%B3%D9%81%D8%A7%D8%B1%D8%B4+%DA%86%D8%A7%D9%BE+%DA%A9%D8%A7%D8%B1%D8%AA%D9%86+%D8%A8%D8%B3%D8%AA%D9%87+%D8%A8%D9%86%D8%AF%DB%8C+%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D9%84%D9%88%DA%A9%D8%B3+%D8%A8%D8%A7%DA%A9%D8%B3%22+%22api.whatsapp.com%22+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 12-18: ordinal not in range(128)",
+      "stage": "external_page",
+      "url": "https://www.e-estekhdam.com/kcp029-استخدام-بازاریاب-و-ویزیتور-در-لوکس-با"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 23-26: ordinal not in range(128)",
+      "stage": "external_page",
+      "url": "https://www.linkedin.com/posts/iluxbox-com-لوکس-باکس-195a28135_activity-6503279736788127744-NM3C"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 12-18: ordinal not in range(128)",
+      "stage": "external_page",
+      "url": "https://www.e-estekhdam.com/kohh8j-استخدام-کارشناس-تولید-محتوا-با-حقوق-ت"
     }
   ],
-  "generated_at": "2026-09-01T15:27:10Z",
+  "generated_at": "2026-09-02T06:50:55Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
     "proxy": "http://127.0.0.1:1087",
     "visible_browser_launched": false
+  },
+  "sales_activation": {
+    "captured_page_paths": [
+      "companies/ir-teh-5911ae5691d19335/pages/sales-0416b7f83ddf6d3c.txt",
+      "companies/ir-teh-5911ae5691d19335/pages/sales-5cb980768b5082be.txt",
+      "companies/ir-teh-5911ae5691d19335/pages/sales-b3f255fba6315d09.txt",
+      "companies/ir-teh-5911ae5691d19335/pages/sales-6c2ac9134c54f84d.txt",
+      "companies/ir-teh-5911ae5691d19335/pages/sales-3297d5ab6e532cfe.txt"
+    ],
+    "contacts": {
+      "decision_maker_direct_candidates": [],
+      "decision_maker_search_candidates": [
+        {
+          "confidence": 0.35,
+          "direct": false,
+          "evidence": "iluxbox-com-لوکس iLuxBox com لوکس باکس posted on LinkedIn iLuxBox com لوکس باکس Principal CEO at Lux Box 7y جعبه های چوبی (www.luxboxes.ir) 692 followers 17 Posts 2 Articles",
+          "field": "economic_buyer",
+          "name": "at Lux Box",
+          "role": "ceo",
+          "source_family": "linkedin_public",
+          "source_title": "LinkedIn https://www.linkedin.com › posts › iluxbox-com-لوکس iLuxBox com لوکس باکس posted on LinkedIn",
+          "source_url": "https://www.linkedin.com/posts/iluxbox-com-لوکس-باکس-195a28135_activity-6503279736788127744-NM3C"
+        },
+        {
+          "confidence": 0.35,
+          "direct": false,
+          "evidence": ".linkedin.com › posts › iluxbox-com-لوکس iLuxBox com لوکس باکس posted on LinkedIn iLuxBox com لوکس باکس Principal CEO at Lux Box 7y جعبه های چوبی (www.luxboxes.ir) 692 followers 17 Posts 2 Articles",
+          "field": "economic_buyer",
+          "name": "com لوکس باکس Principal",
+          "role": "ceo",
+          "source_family": "linkedin_public",
+          "source_title": "LinkedIn https://www.linkedin.com › posts › iluxbox-com-لوکس iLuxBox com لوکس باکس posted on LinkedIn",
+          "source_url": "https://www.linkedin.com/posts/iluxbox-com-لوکس-باکس-195a28135_activity-6503279736788127744-NM3C"
+        }
+      ],
+      "economic_buyer_confidence": 0.0,
+      "economic_buyer_name": null,
+      "economic_buyer_role": "Managing Director / CEO",
+      "economic_buyer_source_url": null,
+      "primary_contact_confidence": 0.0,
+      "primary_contact_name": null,
+      "primary_contact_role": "Estimating / Production Director",
+      "primary_contact_source_url": null,
+      "public_corporate_emails": [
+        "info@iluxbox.com"
+      ],
+      "public_corporate_phones": [
+        "02144051339"
+      ],
+      "public_linkedin_company": null,
+      "public_whatsapp": null,
+      "technical_gatekeeper_confidence": 0.0,
+      "technical_gatekeeper_name": null,
+      "technical_gatekeeper_role": "Prepress or Production Planning Manager",
+      "technical_gatekeeper_source_url": null
+    },
+    "no_outreach_sent": true,
+    "public_journey": {
+      "entry_points": [
+        "public product/service information or catalog"
+      ],
+      "evidence": [
+        {
+          "claim": "The public page titled 'فروشگاه ظروف چوبی پذیرایی و جعبه های چوبی، مقوایی (هاردباکس) کادو، هدیه' exposes product/catalog information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "فروشگاه ظروف چوبی پذیرایی و جعبه های چوبی، مقوایی (هاردباکس) کادو، هدیه جستجوی دسته‌بندی همه دسته ها قیمت جعبه ساعت و جواهرات جعبه های شیشه ای قیمت خرید سفارش سینی چوبی سرو و پذیرایی جعبه قاشق و چنگال قیمت جعبه کادویی مقوایی چوبی سفارش عمده تک قیمت سفارش خرید جعبه دمنوش و پذیرایی قیمت سفارش خرید جعبه آجیل و خشکبار خرید قیمت سفارش ظروف چوبی و اکسسوری خرید قیمت سفارش جعبه وارمردار پذیرایی محصولات لوکس باکس متفرقه هارد باکس تولید سفارش عمده قیمت خرید جعبه هاردباکس آماده هدیه تبلیغاتی سازمانی قوطی مقوایی استوانه تولید سفارش عمده قیمت خرید انواع قوطی مقوایی آماده سفارش و قیمت خرید تولید جعبه عطر ادکلن پرفیوم سفارشی قیمت،خرید،سفارش تک و عمده جعبه چ",
+          "source_family": "other_public",
+          "source_title": "فروشگاه ظروف چوبی پذیرایی و جعبه های چوبی، مقوایی (هاردباکس) کادو، هدیه",
+          "source_url": "https://iluxbox.com/"
+        },
+        {
+          "claim": "The public page titled 'لوکس باکس - قیمت سفارش خرید جعبه دمنوش و پذیرایی' exposes product/catalog information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "لوکس باکس - قیمت سفارش خرید جعبه دمنوش و پذیرایی جستجوی دسته‌بندی همه دسته ها قیمت جعبه ساعت و جواهرات جعبه های شیشه ای قیمت خرید سفارش سینی چوبی سرو و پذیرایی جعبه قاشق و چنگال قیمت جعبه کادویی مقوایی چوبی سفارش عمده تک قیمت سفارش خرید جعبه دمنوش و پذیرایی قیمت سفارش خرید جعبه آجیل و خشکبار خرید قیمت سفارش ظروف چوبی و اکسسوری خرید قیمت سفارش جعبه وارمردار پذیرایی محصولات لوکس باکس متفرقه هارد باکس تولید سفارش عمده قیمت خرید جعبه هاردباکس آماده هدیه تبلیغاتی سازمانی قوطی مقوایی استوانه تولید سفارش عمده قیمت خرید انواع قوطی مقوایی آماده سفارش و قیمت خرید تولید جعبه عطر ادکلن پرفیوم سفارشی قیمت،خرید،سفارش تک و عمده جعبه چوبی لیزر کات سفارش قیمت",
+          "source_family": "other_public",
+          "source_title": "لوکس باکس - قیمت سفارش خرید جعبه دمنوش و پذیرایی",
+          "source_url": "https://iluxbox.com/products/category/Herbal-and-tea-box"
+        },
+        {
+          "claim": "The public page titled 'لوکس باکس - قیمت جعبه کادویی مقوایی چوبی سفارش عمده تک' exposes product/catalog information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "لوکس باکس - قیمت جعبه کادویی مقوایی چوبی سفارش عمده تک جستجوی دسته‌بندی همه دسته ها قیمت جعبه ساعت و جواهرات جعبه های شیشه ای قیمت خرید سفارش سینی چوبی سرو و پذیرایی جعبه قاشق و چنگال قیمت جعبه کادویی مقوایی چوبی سفارش عمده تک قیمت سفارش خرید جعبه دمنوش و پذیرایی قیمت سفارش خرید جعبه آجیل و خشکبار خرید قیمت سفارش ظروف چوبی و اکسسوری خرید قیمت سفارش جعبه وارمردار پذیرایی محصولات لوکس باکس متفرقه هارد باکس تولید سفارش عمده قیمت خرید جعبه هاردباکس آماده هدیه تبلیغاتی سازمانی قوطی مقوایی استوانه تولید سفارش عمده قیمت خرید انواع قوطی مقوایی آماده سفارش و قیمت خرید تولید جعبه عطر ادکلن پرفیوم سفارشی قیمت،خرید،سفارش تک و عمده جعبه چوبی لیزر کات سفار",
+          "source_family": "other_public",
+          "source_title": "لوکس باکس - قیمت جعبه کادویی مقوایی چوبی سفارش عمده تک",
+          "source_url": "https://iluxbox.com/products/category/Wooden-gift-box"
+        },
+        {
+          "claim": "The public page titled 'لوکس باکس - قیمت سفارش خرید جعبه آجیل و خشکبار' exposes product/catalog information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "لوکس باکس - قیمت سفارش خرید جعبه آجیل و خشکبار جستجوی دسته‌بندی همه دسته ها قیمت جعبه ساعت و جواهرات جعبه های شیشه ای قیمت خرید سفارش سینی چوبی سرو و پذیرایی جعبه قاشق و چنگال قیمت جعبه کادویی مقوایی چوبی سفارش عمده تک قیمت سفارش خرید جعبه دمنوش و پذیرایی قیمت سفارش خرید جعبه آجیل و خشکبار خرید قیمت سفارش ظروف چوبی و اکسسوری خرید قیمت سفارش جعبه وارمردار پذیرایی محصولات لوکس باکس متفرقه هارد باکس تولید سفارش عمده قیمت خرید جعبه هاردباکس آماده هدیه تبلیغاتی سازمانی قوطی مقوایی استوانه تولید سفارش عمده قیمت خرید انواع قوطی مقوایی آماده سفارش و قیمت خرید تولید جعبه عطر ادکلن پرفیوم سفارشی قیمت،خرید،سفارش تک و عمده جعبه چوبی لیزر کات سفارش قیمت خ",
+          "source_family": "other_public",
+          "source_title": "لوکس باکس - قیمت سفارش خرید جعبه آجیل و خشکبار",
+          "source_url": "https://iluxbox.com/products/category/nuts-box"
+        }
+      ],
+      "intake_channels": [
+        "published corporate email",
+        "published corporate phone"
+      ],
+      "observable_steps": [
+        "Customer reaches لوکس باکس through public product/service information or catalog.",
+        "Customer uses published corporate email, published corporate phone to ask for information or service.",
+        "estimating/production team reviews the job brief; the public record does not expose the internal handoffs or approval rules.",
+        "A discovery meeting should validate volume, data sources, ownership and the smallest safe pilot."
+      ],
+      "observable_steps_fa": [
+        "مشتری از طریق public product/service information or catalog به لوکس باکس می‌رسد.",
+        "مشتری از published corporate email، published corporate phone برای دریافت اطلاعات یا خدمت استفاده می‌کند.",
+        "estimating/production team reviews the job brief؛ مراحل داخلی و قواعد تأیید از منابع عمومی قابل مشاهده نیست.",
+        "در جلسه کشف، حجم، منابع داده، مالک فرایند و کوچک‌ترین پایلوت امن اعتبارسنجی شود."
+      ]
+    },
+    "source_families_added": [
+      "job_portal",
+      "other_public"
+    ],
+    "version": "2026.09.sales-activation-v1",
+    "workflow": {
+      "activation_evidence_classification": "STRONG_HYPOTHESIS",
+      "company_id": "ir-teh-5911ae5691d19335",
+      "confidence": "Medium",
+      "confidence_score": 0.7,
+      "current_problem": "A repeated lookup, document or approval handoff is plausible; validate the actual volume, owner and baseline before proposing automation.",
+      "current_problem_fa": "تکرار جست‌وجو، ساخت سند یا تأیید محتمل است؛ حجم واقعی، مالک و خط مبنا پیش از پیشنهاد خودکارسازی اعتبارسنجی شود.",
+      "current_process_hypothesis": "Based on the public استخراج بریف سفارش و پشتیبانی برآورد surface, the first process to validate is the handoff from incoming information to a reviewed business output. Public sources do not establish the internal process or a current inefficiency.",
+      "current_process_hypothesis_fa": "با توجه به سطح عمومی استخراج بریف سفارش و پشتیبانی برآورد، نخستین فرایند قابل بررسی، تبدیل ورودی به خروجی کسب‌وکاریِ قابل بازبینی است؛ منابع عمومی فرایند داخلی یا وجود ناکارآمدی فعلی را اثبات نمی‌کنند.",
+      "department": "Estimating or Production Director",
+      "discovery_questions": [
+        "چه ورودی‌هایی در بریف مشتری بیشتر ناقص یا اصلاح‌شونده هستند؟",
+        "قواعد هزینه و ظرفیت چگونه تعیین می‌شوند و کدام بخش قطعی است؟",
+        "نسخه نهایی فایل و مشخصات چگونه به تولید تحویل می‌شود؟",
+        "چه تعداد استعلام یا سفارش سفارشی در ماه بررسی می‌شود؟",
+        "یک نمونه واقعی برای مقایسه زمان برآورد و اصلاحات چیست؟"
+      ],
+      "implementation_complexity": "Medium",
+      "implementation_risks": [
+        "data quality and permissions require discovery",
+        "human approval remains required",
+        "pilot should use a bounded workflow and approved samples"
+      ],
+      "implementation_risks_fa": [
+        "کیفیت داده و مجوزها باید در کشف بررسی شود",
+        "تأیید انسانی حفظ می‌شود",
+        "پایلوت با گردش محدود و نمونه‌های تأییدشده شروع شود"
+      ],
+      "likely_business_owner": "Estimating or Production Director",
+      "measurable_KPIs": [
+        "estimate turnaround",
+        "revision cycles",
+        "estimator throughput",
+        "jobs delayed by missing specifications"
+      ],
+      "measurable_KPIs_fa": [
+        "زمان برآورد",
+        "تعداد دور اصلاح",
+        "خروجی کارشناس برآورد",
+        "سفارش‌های متوقف به‌دلیل نقص مشخصات"
+      ],
+      "primary_users": "Sales, estimating, prepress and production planning",
+      "primary_users_fa": "فروش، برآورد، پیش‌ازچاپ و برنامه‌ریزی تولید",
+      "proposed_luma_solution": "A structured job-brief extractor and similar-job retrieval tool that supports explainable estimating and tracks artwork/specification approvals.",
+      "proposed_luma_solution_fa": "یک ابزار استخراج بریف و بازیابی سفارش‌های مشابه که برآورد قابل توضیح را پشتیبانی می‌کند و تأیید فایل و مشخصات را قابل پیگیری می‌سازد.",
+      "required_data": [
+        "Customer briefs, artwork/specifications, prior jobs, material/machine rules and capacity"
+      ],
+      "required_data_fa": [
+        "بریف مشتری، فایل و مشخصات، سفارش‌های قبلی، قواعد مواد/ماشین و ظرفیت"
+      ],
+      "required_integrations": [
+        "File intake, estimating spreadsheets, production planning and approval records"
+      ],
+      "required_integrations_fa": [
+        "دریافت فایل، فایل‌های برآورد، برنامه‌ریزی تولید و سوابق تأیید"
+      ],
+      "source_urls": [
+        "https://iluxbox.com/",
+        "https://iluxbox.com/products/category/Herbal-and-tea-box",
+        "https://iluxbox.com/products/category/Wooden-gift-box",
+        "https://iluxbox.com/products/category/nuts-box"
+      ],
+      "supporting_evidence": [
+        {
+          "claim": "The public page titled 'فروشگاه ظروف چوبی پذیرایی و جعبه های چوبی، مقوایی (هاردباکس) کادو، هدیه' exposes product/catalog information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "فروشگاه ظروف چوبی پذیرایی و جعبه های چوبی، مقوایی (هاردباکس) کادو، هدیه جستجوی دسته‌بندی همه دسته ها قیمت جعبه ساعت و جواهرات جعبه های شیشه ای قیمت خرید سفارش سینی چوبی سرو و پذیرایی جعبه قاشق و چنگال قیمت جعبه کادویی مقوایی چوبی سفارش عمده تک قیمت سفارش خرید جعبه دمنوش و پذیرایی قیمت سفارش خرید جعبه آجیل و خشکبار خرید قیمت سفارش ظروف چوبی و اکسسوری خرید قیمت سفارش جعبه وارمردار پذیرایی محصولات لوکس باکس متفرقه هارد باکس تولید سفارش عمده قیمت خرید جعبه هاردباکس آماده هدیه تبلیغاتی سازمانی قوطی مقوایی استوانه تولید سفارش عمده قیمت خرید انواع قوطی مقوایی آماده سفارش و قیمت خرید تولید جعبه عطر ادکلن پرفیوم سفارشی قیمت،خرید،سفارش تک و عمده جعبه چ",
+          "source_family": "other_public",
+          "source_title": "فروشگاه ظروف چوبی پذیرایی و جعبه های چوبی، مقوایی (هاردباکس) کادو، هدیه",
+          "source_url": "https://iluxbox.com/"
+        },
+        {
+          "claim": "The public page titled 'لوکس باکس - قیمت سفارش خرید جعبه دمنوش و پذیرایی' exposes product/catalog information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "لوکس باکس - قیمت سفارش خرید جعبه دمنوش و پذیرایی جستجوی دسته‌بندی همه دسته ها قیمت جعبه ساعت و جواهرات جعبه های شیشه ای قیمت خرید سفارش سینی چوبی سرو و پذیرایی جعبه قاشق و چنگال قیمت جعبه کادویی مقوایی چوبی سفارش عمده تک قیمت سفارش خرید جعبه دمنوش و پذیرایی قیمت سفارش خرید جعبه آجیل و خشکبار خرید قیمت سفارش ظروف چوبی و اکسسوری خرید قیمت سفارش جعبه وارمردار پذیرایی محصولات لوکس باکس متفرقه هارد باکس تولید سفارش عمده قیمت خرید جعبه هاردباکس آماده هدیه تبلیغاتی سازمانی قوطی مقوایی استوانه تولید سفارش عمده قیمت خرید انواع قوطی مقوایی آماده سفارش و قیمت خرید تولید جعبه عطر ادکلن پرفیوم سفارشی قیمت،خرید،سفارش تک و عمده جعبه چوبی لیزر کات سفارش قیمت",
+          "source_family": "other_public",
+          "source_title": "لوکس باکس - قیمت سفارش خرید جعبه دمنوش و پذیرایی",
+          "source_url": "https://iluxbox.com/products/category/Herbal-and-tea-box"
+        },
+        {
+          "claim": "The public page titled 'لوکس باکس - قیمت جعبه کادویی مقوایی چوبی سفارش عمده تک' exposes product/catalog information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "لوکس باکس - قیمت جعبه کادویی مقوایی چوبی سفارش عمده تک جستجوی دسته‌بندی همه دسته ها قیمت جعبه ساعت و جواهرات جعبه های شیشه ای قیمت خرید سفارش سینی چوبی سرو و پذیرایی جعبه قاشق و چنگال قیمت جعبه کادویی مقوایی چوبی سفارش عمده تک قیمت سفارش خرید جعبه دمنوش و پذیرایی قیمت سفارش خرید جعبه آجیل و خشکبار خرید قیمت سفارش ظروف چوبی و اکسسوری خرید قیمت سفارش جعبه وارمردار پذیرایی محصولات لوکس باکس متفرقه هارد باکس تولید سفارش عمده قیمت خرید جعبه هاردباکس آماده هدیه تبلیغاتی سازمانی قوطی مقوایی استوانه تولید سفارش عمده قیمت خرید انواع قوطی مقوایی آماده سفارش و قیمت خرید تولید جعبه عطر ادکلن پرفیوم سفارشی قیمت،خرید،سفارش تک و عمده جعبه چوبی لیزر کات سفار",
+          "source_family": "other_public",
+          "source_title": "لوکس باکس - قیمت جعبه کادویی مقوایی چوبی سفارش عمده تک",
+          "source_url": "https://iluxbox.com/products/category/Wooden-gift-box"
+        },
+        {
+          "claim": "The public page titled 'لوکس باکس - قیمت سفارش خرید جعبه آجیل و خشکبار' exposes product/catalog information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "لوکس باکس - قیمت سفارش خرید جعبه آجیل و خشکبار جستجوی دسته‌بندی همه دسته ها قیمت جعبه ساعت و جواهرات جعبه های شیشه ای قیمت خرید سفارش سینی چوبی سرو و پذیرایی جعبه قاشق و چنگال قیمت جعبه کادویی مقوایی چوبی سفارش عمده تک قیمت سفارش خرید جعبه دمنوش و پذیرایی قیمت سفارش خرید جعبه آجیل و خشکبار خرید قیمت سفارش ظروف چوبی و اکسسوری خرید قیمت سفارش جعبه وارمردار پذیرایی محصولات لوکس باکس متفرقه هارد باکس تولید سفارش عمده قیمت خرید جعبه هاردباکس آماده هدیه تبلیغاتی سازمانی قوطی مقوایی استوانه تولید سفارش عمده قیمت خرید انواع قوطی مقوایی آماده سفارش و قیمت خرید تولید جعبه عطر ادکلن پرفیوم سفارشی قیمت،خرید،سفارش تک و عمده جعبه چوبی لیزر کات سفارش قیمت خ",
+          "source_family": "other_public",
+          "source_title": "لوکس باکس - قیمت سفارش خرید جعبه آجیل و خشکبار",
+          "source_url": "https://iluxbox.com/products/category/nuts-box"
+        }
+      ],
+      "workflow_evidence_classification": "STRONG_HYPOTHESIS",
+      "workflow_family": "job_brief_estimate",
+      "workflow_id": "wf-3e01604d16ec934b",
+      "workflow_name": "Job-brief extraction and estimating support",
+      "workflow_name_fa": "استخراج بریف سفارش و پشتیبانی برآورد"
+    }
   },
   "screenshots": [
     {
@@ -223,6 +523,76 @@
       "source_title": "DuckDuckGo",
       "source_type": "commercial_audit",
       "source_url": "https://html.duckduckgo.com/html/?q=%22%D9%84%D9%88%DA%A9%D8%B3+%D8%A8%D8%A7%DA%A9%D8%B3%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "captured_at": "2026-09-02T06:17:03Z",
+      "company_id": "ir-teh-5911ae5691d19335",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "فروشگاه ظروف چوبی پذیرایی و جعبه های چوبی، مقوایی (هاردباکس) کادو، هدیه جستجوی دسته‌بندی همه دسته ها قیمت جعبه ساعت و جواهرات جعبه های شیشه ای قیمت خرید سفارش سینی چوبی سرو و پذیرایی جعبه قاشق و چنگال قیمت جعبه کادویی مقوایی چوبی سفارش عمده تک قیمت سفارش خرید جعبه دمنوش و پذیرایی قیمت سفارش خرید جعبه آجیل و خشکبار خرید قیمت سفارش ظروف چوبی و اکسسوری خرید قیمت سفارش جعبه وارمردار پذیرایی محصولات لوکس باکس متفرقه هارد باکس تولید سفارش عمده قیمت خرید جعبه هاردباکس آماده هدیه تبلیغاتی سازمانی قوطی مقوایی استوانه تولید سفارش عمده قیمت خرید انواع قوطی مقوایی آماده سفارش و قیمت خرید تولید جعبه عطر ادکلن پرفیوم سفارشی قیمت،خرید،سفارش تک و عمده جعبه چوبی لیزر کات سفارش قیمت خرید جعبه مقوایی ورود / ثب",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-f64afeced355a98e",
+      "source_quality": "public_page",
+      "source_title": "فروشگاه ظروف چوبی پذیرایی و جعبه های چوبی، مقوایی (هاردباکس) کادو، هدیه",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://iluxbox.com/"
+    },
+    {
+      "captured_at": "2026-09-02T06:35:22Z",
+      "company_id": "ir-teh-5911ae5691d19335",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "لوکس باکس - قیمت سفارش خرید جعبه دمنوش و پذیرایی جستجوی دسته‌بندی همه دسته ها قیمت جعبه ساعت و جواهرات جعبه های شیشه ای قیمت خرید سفارش سینی چوبی سرو و پذیرایی جعبه قاشق و چنگال قیمت جعبه کادویی مقوایی چوبی سفارش عمده تک قیمت سفارش خرید جعبه دمنوش و پذیرایی قیمت سفارش خرید جعبه آجیل و خشکبار خرید قیمت سفارش ظروف چوبی و اکسسوری خرید قیمت سفارش جعبه وارمردار پذیرایی محصولات لوکس باکس متفرقه هارد باکس تولید سفارش عمده قیمت خرید جعبه هاردباکس آماده هدیه تبلیغاتی سازمانی قوطی مقوایی استوانه تولید سفارش عمده قیمت خرید انواع قوطی مقوایی آماده سفارش و قیمت خرید تولید جعبه عطر ادکلن پرفیوم سفارشی قیمت،خرید،سفارش تک و عمده جعبه چوبی لیزر کات سفارش قیمت خرید جعبه مقوایی ورود / ثبت نام جعبه کادویی مقوای",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-5a4de0f4afd030f8",
+      "source_quality": "public_page",
+      "source_title": "لوکس باکس - قیمت سفارش خرید جعبه دمنوش و پذیرایی",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://iluxbox.com/products/category/Herbal-and-tea-box"
+    },
+    {
+      "captured_at": "2026-09-02T06:35:22Z",
+      "company_id": "ir-teh-5911ae5691d19335",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "لوکس باکس - قیمت جعبه کادویی مقوایی چوبی سفارش عمده تک جستجوی دسته‌بندی همه دسته ها قیمت جعبه ساعت و جواهرات جعبه های شیشه ای قیمت خرید سفارش سینی چوبی سرو و پذیرایی جعبه قاشق و چنگال قیمت جعبه کادویی مقوایی چوبی سفارش عمده تک قیمت سفارش خرید جعبه دمنوش و پذیرایی قیمت سفارش خرید جعبه آجیل و خشکبار خرید قیمت سفارش ظروف چوبی و اکسسوری خرید قیمت سفارش جعبه وارمردار پذیرایی محصولات لوکس باکس متفرقه هارد باکس تولید سفارش عمده قیمت خرید جعبه هاردباکس آماده هدیه تبلیغاتی سازمانی قوطی مقوایی استوانه تولید سفارش عمده قیمت خرید انواع قوطی مقوایی آماده سفارش و قیمت خرید تولید جعبه عطر ادکلن پرفیوم سفارشی قیمت،خرید،سفارش تک و عمده جعبه چوبی لیزر کات سفارش قیمت خرید جعبه مقوایی ورود / ثبت نام جعبه کادویی",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-1be7e84b537f5013",
+      "source_quality": "public_page",
+      "source_title": "لوکس باکس - قیمت جعبه کادویی مقوایی چوبی سفارش عمده تک",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://iluxbox.com/products/category/Wooden-gift-box"
+    },
+    {
+      "captured_at": "2026-09-02T06:35:22Z",
+      "company_id": "ir-teh-5911ae5691d19335",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "لوکس باکس - قیمت سفارش خرید جعبه آجیل و خشکبار جستجوی دسته‌بندی همه دسته ها قیمت جعبه ساعت و جواهرات جعبه های شیشه ای قیمت خرید سفارش سینی چوبی سرو و پذیرایی جعبه قاشق و چنگال قیمت جعبه کادویی مقوایی چوبی سفارش عمده تک قیمت سفارش خرید جعبه دمنوش و پذیرایی قیمت سفارش خرید جعبه آجیل و خشکبار خرید قیمت سفارش ظروف چوبی و اکسسوری خرید قیمت سفارش جعبه وارمردار پذیرایی محصولات لوکس باکس متفرقه هارد باکس تولید سفارش عمده قیمت خرید جعبه هاردباکس آماده هدیه تبلیغاتی سازمانی قوطی مقوایی استوانه تولید سفارش عمده قیمت خرید انواع قوطی مقوایی آماده سفارش و قیمت خرید تولید جعبه عطر ادکلن پرفیوم سفارشی قیمت،خرید،سفارش تک و عمده جعبه چوبی لیزر کات سفارش قیمت خرید جعبه مقوایی ورود / ثبت نام جعبه کادویی مقوایی ",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-58dccefadd1d61aa",
+      "source_quality": "public_page",
+      "source_title": "لوکس باکس - قیمت سفارش خرید جعبه آجیل و خشکبار",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://iluxbox.com/products/category/nuts-box"
+    },
+    {
+      "captured_at": "2026-09-02T06:35:29Z",
+      "company_id": "ir-teh-5911ae5691d19335",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "استخدام در لوکس باکس دیزاین : مشاهده آخرین فرصت‌های شغلی | ایران‌تلنت فرصت‌های شغلی رزومه ساز امتیاز شرکت‌ها بخش کارفرمایان ورود / ثبت‌نام محصولات ایران‌تلنت کاردیکس اتوماسیون جذب ایران‌تلنت ورود/ثبت‌نام English لوکس باکس دیزاین 0 درباره شرکت (0) فرصت‌های شغلی (0) نظرات فرصت‌های شغلی لوکس باکس دیزاین منقضی شده ادمین اینستاگرام (کارآموز) لوکس باکس دیزاین تهران بیش از یک ماه آگهی‌های استخدام و همکاری برای متخصصان ایرانی کارجویان فرصت‌های شغلی رزومه ساز امتیاز شرکت‌ها محصولات ایران‌تلنت آزمون‌ها داشبورد حقوق و دستمزد کاردیکس گزارش‌ها تست MBTI کارفرمایان درج آگهی شغلی جستجوی رزومه ایران‌تلنت صفحه اصلی درباره ایران تلنت ارتباط با ما سوالات متداول بلاگ English © 2026 IranTalent.com همه حقوق محفوظ ",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "job_portal",
+      "source_id": "src-55a2f65145f402a5",
+      "source_quality": "public_page",
+      "source_title": "استخدام در لوکس باکس دیزاین : مشاهده آخرین فرصت‌های شغلی | ایران‌تلنت",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://www.irantalent.com/company/lux-box-design/920cb324-fdab-4fec-925f-ae5563bb1b64/job-positions"
     }
   ]
 }

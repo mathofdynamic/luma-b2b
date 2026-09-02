@@ -1,70 +1,85 @@
 # آپادانا ترابر
 
+Dossier rank: 27 | First-contact score: 59/100 | Wave: WAVE 3
+This is an internal sales preparation document. No outreach has been sent.
+
 ## Snapshot
 
-- Corrected classification: `logistics_freight_customs` / `freight_forwarder`.
-- Public description: ماموریتآپادانااین است که اولین و مطمئن ترین انتخاب مشتریان برای استفاده از خدمات حمل و نقل باشد. ما به صورت منحصر به فرد، آماده ارائه بسته های جامع از خدمات تهیه و توزیع
+- What the company publicly presents: ماموریتآپادانااین است که اولین و مطمئن ترین انتخاب مشتریان برای استفاده از خدمات حمل و نقل باشد. ما به صورت منحصر به فرد، آماده ارائه بسته های جامع از خدمات تهیه و توزیع
+- Corrected classification: `logistics_freight_customs` / `freight_forwarder`; B2B signal: `['B2B_candidate']`
 - Location: تهران، منطقه 7، محله عباس آباد، خیابان مطهری (تخت طاووس)، خیابان میرعماد، خیابان دهم، پلاک 1، ساختمان عقاب، طبقه سوم، واحد 9 و 10
-- Revised score: 83; confidence-adjusted: 77.5; tier: A
-- Commercial evidence strength: 72/100; score confidence: 89/100; independent source families: 2
+- Public website: [https://apadanafreight.biz/](https://apadanafreight.biz/)
+- Commercial evidence strength: 72
+- Independent source families counted: 3 — book_e_avval, company_website:apadanafreight.biz, job_portal
 
 ## Why it is commercially interesting
 
-- OBSERVED — Public page shows public quotation or RFQ language. Snippet: موله ها انبارداری و توزیع حمل محموله های پروژه حمل مایعات فله ایزو تانک فلکسی تانک خدمات مشاوره استعلام نرخ های حمل و نقل بلاگ ارتباط با ما درباره ما استعلام قیمت آپادانا ترابر خدمات ما حمل و نقل هوایی حمل و نقل ریلی حمل و نقل زمینی خدمات ترانزیت کارگزاری گمرک راه حل های مربوط به زنجیره تامین کالا مدیریت لجستیک سراسری خدمات آثار هنری : سرویس اختصاصی و تیم حمل و نقل متعهد لجستیک نمایشگاهی مدیریت محموله ها انبارداری و  ([صفحه اصلی ۱ - شرکت بین المللی آپادانا ترابر](https://apadanafreight.biz/))
-- OBSERVED — Public page shows public product/catalog surface. Snippet: نید راهکارهای حمل و نقل جهانی و زنجیره تامین حرفه ای و ممتاز آپادانا ترابر شرکت ها به دنبال راهی برای کوتاه شدن چرخه تولید خود هستند تا مطمئن شوند که محصولاتشان با روشی مطمئن و به موقع به بازار می رسد. برای رسیدن به این هدف، آنها به افراد باتجربه ای نیازمندند که زیرساخت های جهانی و خدماتی به روز و منحصر به فرد دارند که توسط متخصصین حرفه ای و اساتید فناوری اطلاعات اداره می شوند. اولین و مهم ترین ماموریت آپادانا ، فراه ([صفحه اصلی ۱ - شرکت بین المللی آپادانا ترابر](https://apadanafreight.biz/))
-- OBSERVED — Public page shows branches, representatives or dealer network. Snippet: خودتان باشید . شعب آپادانا ترابر حرفه ای در ارائه خدمات ما در شرکت حمل و نقل آپادانا ترابر بهترین راهکار با کمترین هزینه برای شما پیاده سازی می کنیم. شعبه تهران شعبه بندر عباس شعبه بندر انزلی شعبه بندر امیر آباد شعبه اصفهان شعبه بازرگان شعبه بندر امام شعبه چابهار بیایید با هم تجارت کنیم شرکت آپادانا ترابر از سال 1374 در بازار ایران فعالیت داشته و از آن زمان همواره یکی از شرکت های پیشرو و در حال ارایه انواع راه حلهای  ([صفحه اصلی ۱ - شرکت بین المللی آپادانا ترابر](https://apadanafreight.biz/))
-- OBSERVED — Public page shows public projects, clients or partners. Snippet: است. نمایندگی در سراسر دنیا در همه جای جهان کنار شماییم امنیت در انتقال با انجام بهترین بیمه ها سرعت در نقل و انتقال سریعترین روش ها برای ارسال انجام پروژه های بین المللی با خیال راحت انتقال دهید آپادانا ترابر بهترین شرکت حمل و نقل در کشور از سال 1374 بهینه‌سازی زنجیره تأمین شما با راهکارهای قابل اعتماد، افزایش بهره‌وری و تضمین تحویل به موقع. فرآیند کاری ما روند کاری شرکت حمل و نقل آپادانا ترابر چگونه است ما همیشه به ([صفحه اصلی ۱ - شرکت بین المللی آپادانا ترابر](https://apadanafreight.biz/))
-- OBSERVED — Public page shows expansion, export, founding or current activity signal. Snippet: صفحه اصلی ۱ - شرکت بین المللی آپادانا ترابر تلفن: 88755983 021 تهران ، خیابان مطهری ، خیابان میرعماد ، خیابان دهم طبقه سوم ، واحد 9 و 10 آپادانا ترابر خدمات ما حمل و نقل هوایی حمل و نقل ریلی حمل و نقل زمینی خدمات ترانزیت کارگزاری گمرک راه حل های مربوط به زنجیره تامین کالا مدیریت لجستیک سراسری خدمات آثار هنری : سرویس اختصاصی و تیم حمل و نقل متعهد لجستیک نمایشگاهی مدیریت محموله ها انبارداری و توزیع حمل محموله های پروژه ([صفحه اصلی ۱ - شرکت بین المللی آپادانا ترابر](https://apadanafreight.biz/))
-- OBSERVED — Public page shows public order or contact intake. Snippet: قایسه هزینه‌ ها و شرایط قراردادی ارائه شده توسط شرکت‌ ها اطمینان از امکانات امنیتی و تأمین امنیت در فرآیند ترانزیت مراحل ترانزیت و اقدامات مورد نیاز: ثبت سفارش و مدارک لازم در این مرحله، سفارش برای انتقال وسایل نقلیه و کالا ها ثبت می‌شود و مدارک لازم برای ترانزیت جمع‌آوری می‌شوند. بسته‌بندی و نگهداری وسایل نقلیه و کالا ها باید در این مرحله مناسب بسته‌بندی شده و در شرایط مناسب نگهداری شوند تا در طول مسیر ترانزیت آسیب  ([خدمات ترانزیت - شرکت بین المللی آپادانا ترابر](https://apadanafreight.biz/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%aa%d8%b1%d8%a7%d9%86%d8%b2%db%8c%d8%aa/))
-- The public operating surface suggests meaningful activity around freight_forwarder; scale and buying power remain bounded by the evidence above.
+The public record supports a conversation around **دریافت اسناد حمل و پیگیری نقص پرونده**. The attraction is the possibility of a bounded process improvement around عملیات، ترخیص/کنترل اسناد و خدمات مشتری, while leaving the company's core systems and final decisions under human control.
+This is a sales hypothesis, not a claim that the company currently has a known inefficiency.
 
 ## Evidence
 
-- OBSERVED — Public page shows public quotation or RFQ language. Snippet: موله ها انبارداری و توزیع حمل محموله های پروژه حمل مایعات فله ایزو تانک فلکسی تانک خدمات مشاوره استعلام نرخ های حمل و نقل بلاگ ارتباط با ما درباره ما استعلام قیمت آپادانا ترابر خدمات ما حمل و نقل هوایی حمل و نقل ریلی حمل و نقل زمینی خدمات ترانزیت کارگزاری گمرک راه حل های مربوط به زنجیره تامین کالا مدیریت لجستیک سراسری خدمات آثار هنری : سرویس اختصاصی و تیم حمل و نقل متعهد لجستیک نمایشگاهی مدیریت محموله ها انبارداری و  ([صفحه اصلی ۱ - شرکت بین المللی آپادانا ترابر](https://apadanafreight.biz/))
-- OBSERVED — Public page shows public product/catalog surface. Snippet: نید راهکارهای حمل و نقل جهانی و زنجیره تامین حرفه ای و ممتاز آپادانا ترابر شرکت ها به دنبال راهی برای کوتاه شدن چرخه تولید خود هستند تا مطمئن شوند که محصولاتشان با روشی مطمئن و به موقع به بازار می رسد. برای رسیدن به این هدف، آنها به افراد باتجربه ای نیازمندند که زیرساخت های جهانی و خدماتی به روز و منحصر به فرد دارند که توسط متخصصین حرفه ای و اساتید فناوری اطلاعات اداره می شوند. اولین و مهم ترین ماموریت آپادانا ، فراه ([صفحه اصلی ۱ - شرکت بین المللی آپادانا ترابر](https://apadanafreight.biz/))
-- OBSERVED — Public page shows branches, representatives or dealer network. Snippet: خودتان باشید . شعب آپادانا ترابر حرفه ای در ارائه خدمات ما در شرکت حمل و نقل آپادانا ترابر بهترین راهکار با کمترین هزینه برای شما پیاده سازی می کنیم. شعبه تهران شعبه بندر عباس شعبه بندر انزلی شعبه بندر امیر آباد شعبه اصفهان شعبه بازرگان شعبه بندر امام شعبه چابهار بیایید با هم تجارت کنیم شرکت آپادانا ترابر از سال 1374 در بازار ایران فعالیت داشته و از آن زمان همواره یکی از شرکت های پیشرو و در حال ارایه انواع راه حلهای  ([صفحه اصلی ۱ - شرکت بین المللی آپادانا ترابر](https://apadanafreight.biz/))
-- OBSERVED — Public page shows public projects, clients or partners. Snippet: است. نمایندگی در سراسر دنیا در همه جای جهان کنار شماییم امنیت در انتقال با انجام بهترین بیمه ها سرعت در نقل و انتقال سریعترین روش ها برای ارسال انجام پروژه های بین المللی با خیال راحت انتقال دهید آپادانا ترابر بهترین شرکت حمل و نقل در کشور از سال 1374 بهینه‌سازی زنجیره تأمین شما با راهکارهای قابل اعتماد، افزایش بهره‌وری و تضمین تحویل به موقع. فرآیند کاری ما روند کاری شرکت حمل و نقل آپادانا ترابر چگونه است ما همیشه به ([صفحه اصلی ۱ - شرکت بین المللی آپادانا ترابر](https://apadanafreight.biz/))
-- OBSERVED — Public page shows expansion, export, founding or current activity signal. Snippet: صفحه اصلی ۱ - شرکت بین المللی آپادانا ترابر تلفن: 88755983 021 تهران ، خیابان مطهری ، خیابان میرعماد ، خیابان دهم طبقه سوم ، واحد 9 و 10 آپادانا ترابر خدمات ما حمل و نقل هوایی حمل و نقل ریلی حمل و نقل زمینی خدمات ترانزیت کارگزاری گمرک راه حل های مربوط به زنجیره تامین کالا مدیریت لجستیک سراسری خدمات آثار هنری : سرویس اختصاصی و تیم حمل و نقل متعهد لجستیک نمایشگاهی مدیریت محموله ها انبارداری و توزیع حمل محموله های پروژه ([صفحه اصلی ۱ - شرکت بین المللی آپادانا ترابر](https://apadanafreight.biz/))
-- OBSERVED — Public page shows public order or contact intake. Snippet: قایسه هزینه‌ ها و شرایط قراردادی ارائه شده توسط شرکت‌ ها اطمینان از امکانات امنیتی و تأمین امنیت در فرآیند ترانزیت مراحل ترانزیت و اقدامات مورد نیاز: ثبت سفارش و مدارک لازم در این مرحله، سفارش برای انتقال وسایل نقلیه و کالا ها ثبت می‌شود و مدارک لازم برای ترانزیت جمع‌آوری می‌شوند. بسته‌بندی و نگهداری وسایل نقلیه و کالا ها باید در این مرحله مناسب بسته‌بندی شده و در شرایط مناسب نگهداری شوند تا در طول مسیر ترانزیت آسیب  ([خدمات ترانزیت - شرکت بین المللی آپادانا ترابر](https://apadanafreight.biz/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%aa%d8%b1%d8%a7%d9%86%d8%b2%db%8c%d8%aa/))
+- The public page titled 'صفحه اصلی ۱ - شرکت بین المللی آپادانا ترابر' exposes product/catalog information, a contact or order entry point. — [صفحه اصلی ۱ - شرکت بین المللی آپادانا ترابر](https://apadanafreight.biz/)
+- The public page titled 'حمل محموله های پروژه - شرکت بین المللی آپادانا ترابر' exposes product/catalog information, projects or client information. — [حمل محموله های پروژه - شرکت بین المللی آپادانا ترابر](https://apadanafreight.biz/%d8%ad%d9%85%d9%84-%d9%85%d8%ad%d9%85%d9%88%d9%84%d9%87-%d9%87%d8%a7%db%8c-%d9%be%d8%b1%d9%88%da%98%d9%87/)
+- The public page titled 'خدمات ترانزیت - شرکت بین المللی آپادانا ترابر' exposes a contact or order entry point, tender/contract language. — [خدمات ترانزیت - شرکت بین المللی آپادانا ترابر](https://apadanafreight.biz/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%aa%d8%b1%d8%a7%d9%86%d8%b2%db%8c%d8%aa/)
+- A public employment or employer page associates آپادانا ترابر with hiring/activity information. — [درباره شرکت آپادانا ترابر | ایران‌تلنت](https://www.irantalent.com/company/apadana-tarabar/2cc5be00-eb74-4255-83e6-6ce2ab4f3a73/overview)
 
 ## Likely operational bottleneck
 
-STRONG_INFERENCE — EVIDENCE_SUPPORTED — Public evidence shows public quotation or RFQ language, public product/catalog surface, public projects, clients or partners; the internal handoff and volume require discovery.
-The public record does not establish that the company currently handles this process manually or inefficiently.
+**Inference to validate:** incoming information may need repeated lookup, structuring or approval before the business team can produce the final output described by **دریافت اسناد حمل و پیگیری نقص پرونده**. Public pages establish the customer-facing surface, not the internal handoff, volume or baseline.
 
 ## Recommended LUMA solution
 
-A document intake layer that extracts shipment and customs fields, checks missing items and routes exceptions to the responsible operator for approval.
+**دریافت اسناد حمل و پیگیری نقص پرونده** — یک لایه دریافت اسناد که اطلاعات پرونده حمل را ساختاریافته می‌کند، چک‌لیست کامل‌بودن را بررسی می‌کند و موارد ناقص را برای تأیید به مسئول مربوط ارجاع می‌دهد.
 
 ## Why this solution could matter financially
 
-No ROI percentage is invented. Validate the KPI categories: document completeness; exception closure time; manual re-keying; shipment-status response time.
+Measure the baseline and pilot change in terms of:
+- کامل‌بودن پرونده
+- زمان بستن نقص
+- ورود دوباره اطلاعات
+- زمان پاسخ‌گویی وضعیت محموله
 
-## What we do NOT know
+## What we do not know
 
-- Monthly volume, current handoffs, budget, decision authority, system ownership, data quality and implementation constraints are UNKNOWN.
-- Internal technical capability: `KNOWN_MODERATE_INTERNAL_TECH` — Known moderate business-systems capability; custom delivery ownership remains to be validated.
-- Digital maturity: `KNOWN_HIGH_DIGITAL_MATURITY` — Known high digital surface; outsourcing fit is reduced and internal ownership must be validated.
+- Monthly volume, current handoffs, approval rules and baseline time are not public.
+- The authoritative data owner and integration surface are not public.
+- Budget authority, buying process and timing are not public.
+- Internal software/data capability is not sufficiently established publicly; missing evidence is not treated as evidence of absence.
 
 ## Questions to ask
 
 1. کدام اسناد حمل و ترخیص بیشترین حجم ورود و کنترل را دارند؟
-2. چطور نقص مدارک یا تأخیر هر پرونده به مسئول آن ارجاع می‌شود؟
-3. کدام داده‌ها در ایمیل، اکسل یا سامانه‌های مختلف تکراراً وارد می‌شوند؟
+2. نقص هر پرونده چگونه به مسئول آن ارجاع و تا بسته‌شدن پیگیری می‌شود؟
+3. کدام داده‌ها بین ایمیل، اکسل و سامانه‌های مختلف دوباره وارد می‌شوند؟
 4. چه نقاطی نیازمند تأیید کارشناس گمرک یا مدیر عملیات هستند؟
-5. برای شروع پایلوت، کدام مسیر یا نوع محموله کم‌ریسک‌تر است؟
+5. برای شروع، کدام نوع محموله یا مسیر کم‌ریسک‌تر است؟
+6. چه کسی مالک این فرایند و تأیید خروجی نهایی است؟
+7. یک نمونه واقعی و پاک‌سازی‌شده برای مقایسه خط مبنا و پایلوت کدام است؟
+8. اگر پایلوت موفق باشد، گسترش آن به کدام واحد یا قالب بیشترین ارزش را دارد؟
 
 ## Decision maker
 
-- Role: Operations Director (role status: `ROLE_HYPOTHESIS`).
-- Publicly verified name: UNKNOWN.
-- Source: [public source](https://apadanafreight.biz/); confidence: 0.35.
+- Primary business owner: Operations Director / Customs Manager; public name: Not publicly verified.
+- Economic buyer: Managing Director / CEO; public name: Not publicly verified.
+- Technical gatekeeper: Compliance or Operations Systems Lead; public name: Not publicly verified.
 
 ## Contact channels
-
 - Website: [https://apadanafreight.biz/](https://apadanafreight.biz/)
-- Public corporate phone: 02188755983
-- Public corporate email: info@apadanafreight.biz, info@apadanafreight.com
+- Public phone: 02188755983
+- Corporate email: info@apadanafreight.biz, info@apadanafreight.com
+- Company LinkedIn: اطلاعات عمومی تأییدشده‌ای یافت نشد
+- Public WhatsApp: Not explicitly published
+
+## Pilot and demo
+
+- Pilot: پایلوت کنترل کامل‌بودن پرونده‌های حمل — آپادانا ترابر
+- Scope: یک مسیر محدود و قابل کنترل برای دریافت اسناد حمل و پیگیری نقص پرونده با یک قالب ورودی و یک گروه کاربر؛ هسته ERP یا تصمیم نهایی جایگزین نمی‌شود.
+- Users: عملیات، ترخیص/کنترل اسناد و خدمات مشتری
+- Data: بارنامه، فاکتور، پکینگ‌لیست، اسناد گمرکی، نقاط پیشرفت و دستورهای مشتری
+- Human approval: تأیید محصول/مقدار/قیمت، تأیید نقص یا استثنا، و انتشار خروجی نهایی نزد کارشناس یا مدیر مربوط باقی می‌ماند.
+- Duration: حدود ۳ تا ۶ هفته کاری پس از تأیید دسترسی، نمونه داده و دامنه پایلوت؛ مدت دقیق در جلسه کشف تعیین می‌شود.
+- Demo: دو سند نمونه بارگذاری می‌شود؛ فیلدهای اصلی استخراج، موارد جاافتاده مشخص، و یک چک‌لیست قابل پیگیری برای کارشناس عملیات ساخته می‌شود.
 
 ## Screenshots
 
@@ -72,14 +87,4 @@ No ROI percentage is invented. Validate the KPI categories: document completenes
 
 ## Sales recommendation
 
-**GO** — READY FOR OUTREACH; the recommendation follows the evidence gate and does not imply verified budget or authority.
-
-## Source links
-
-- [https://avval.ir/directory/%D8%AD%D9%85%D9%84%20%D9%88%20%D9%86%D9%82%D9%84%20%D8%A8%DB%8C%D9%86%20%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86](https://avval.ir/directory/%D8%AD%D9%85%D9%84%20%D9%88%20%D9%86%D9%82%D9%84%20%D8%A8%DB%8C%D9%86%20%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86)
-- [https://avval.ir/directory/%D8%AD%D9%85%D9%84%20%D9%88%20%D9%86%D9%82%D9%84%20%D8%A8%D8%A7%D8%B1/%D8%AA%D9%87%D8%B1%D8%A7%D9%86](https://avval.ir/directory/%D8%AD%D9%85%D9%84%20%D9%88%20%D9%86%D9%82%D9%84%20%D8%A8%D8%A7%D8%B1/%D8%AA%D9%87%D8%B1%D8%A7%D9%86)
-- [https://avval.ir/profile/8fae6/%D8%A2%D9%BE%D8%A7%D8%AF%D8%A7%D9%86%D8%A7-%D8%AA%D8%B1%D8%A7%D8%A8%D8%B1](https://avval.ir/profile/8fae6/%D8%A2%D9%BE%D8%A7%D8%AF%D8%A7%D9%86%D8%A7-%D8%AA%D8%B1%D8%A7%D8%A8%D8%B1)
-- [https://apadanafreight.biz/](https://apadanafreight.biz/)
-- [https://apadanafreight.biz/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%aa%d8%b1%d8%a7%d9%86%d8%b2%db%8c%d8%aa/](https://apadanafreight.biz/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%aa%d8%b1%d8%a7%d9%86%d8%b2%db%8c%d8%aa/)
-- [https://apadanafreight.biz/%d8%ad%d9%85%d9%84-%d9%85%d8%ad%d9%85%d9%88%d9%84%d9%87-%d9%87%d8%a7%db%8c-%d9%be%d8%b1%d9%88%da%98%d9%87/](https://apadanafreight.biz/%d8%ad%d9%85%d9%84-%d9%85%d8%ad%d9%85%d9%88%d9%84%d9%87-%d9%87%d8%a7%db%8c-%d9%be%d8%b1%d9%88%da%98%d9%87/)
-- [https://apadanafreight.biz/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%a2%d8%ab%d8%a7%d8%b1-%d9%87%d9%86%d8%b1%db%8c-%d8%b3%d8%b1%d9%88%db%8c%d8%b3-%d8%a7%d8%ae%d8%aa%d8%b5%d8%a7%d8%b5%db%8c/](https://apadanafreight.biz/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%a2%d8%ab%d8%a7%d8%b1-%d9%87%d9%86%d8%b1%db%8c-%d8%b3%d8%b1%d9%88%db%8c%d8%b3-%d8%a7%d8%ae%d8%aa%d8%b5%d8%a7%d8%b5%db%8c/)
+**DISCOVERY FIRST** — use the internal brief and outreach draft only after human review. Proposal: `sales/client/ir-teh-3551adf08a41cd22.md`; outreach draft: `sales/outreach/ir-teh-3551adf08a41cd22.md`.

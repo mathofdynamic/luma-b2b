@@ -26,3 +26,18 @@ Page captures:
 
 Audit fetch notes:
 - SOURCE_ERROR: https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%B3%D8%A7%D8%B1%D9%86%DA%AF+%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA+%D8%A8%DB%8C%D9%86+%D8%A7%D9%84%D9%85%D9%84%D9%84%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa: HTTPError: HTTP Error 403: Forbidden
+
+## Sales activation
+
+Activation version: 2026.09.sales-activation-v1
+
+Captured pages:
+- `companies/ir-teh-b12fca8dcac7066d/pages/sales-42ba88cd915fd7f6.txt`
+- `companies/ir-teh-b12fca8dcac7066d/pages/sales-b449c73d0ff4bb1e.txt`
+- `companies/ir-teh-b12fca8dcac7066d/pages/sales-0c7960a330b680dc.txt`
+- `companies/ir-teh-b12fca8dcac7066d/pages/sales-ac1c81428bee5340.txt`
+- `companies/ir-teh-b12fca8dcac7066d/pages/sales-18d93f0caacc6c62.txt`
+
+Source families added/confirmed: job_portal, other_public
+Primary workflow classification: STRONG_HYPOTHESIS
+No outreach was sent; no contact form, RFQ, email, WhatsApp or phone call was submitted.

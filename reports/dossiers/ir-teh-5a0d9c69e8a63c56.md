@@ -1,70 +1,85 @@
 # گروه صنعتی فرازین صنعت
 
+Dossier rank: 5 | First-contact score: 70/100 | Wave: WAVE 1
+This is an internal sales preparation document. No outreach has been sent.
+
 ## Snapshot
 
-- Corrected classification: `industrial_distributors_importers` / `distributor`.
-- Public description: گروه صنعتی فرازین صنعت در خدمت شماست. نمایندگی رسمی SEW در ایران فروش انواع درایو sew و لوازم صنعتی
+- What the company publicly presents: گروه صنعتی فرازین صنعت در خدمت شماست. نمایندگی رسمی SEW در ایران فروش انواع درایو sew و لوازم صنعتی
+- Corrected classification: `industrial_distributors_importers` / `distributor`; B2B signal: `['B2B_candidate']`
 - Location: تهران، منطقه 19، محله شریعتی جنوبی، خیابان سعدی جنوبی جنب بانک کارآفرین و آینده، مجتمع تجاری اداری سعدی، طبقه منفی 1، پلاک 07/1
-- Revised score: 89; confidence-adjusted: 74.6; tier: A
-- Commercial evidence strength: 72/100; score confidence: 73/100; independent source families: 2
+- Public website: اطلاعات عمومی تأییدشده‌ای یافت نشد
+- Commercial evidence strength: 72
+- Independent source families counted: 2 — book_e_avval, company_website:farazinsanat.ir
 
 ## Why it is commercially interesting
 
-- OBSERVED — Public page shows public product/catalog surface. Snippet: MRV الکتروموتور الکتروموتور چینی الکتروموتور موتوژن MOTOGEN اینورتر SEW پمپ تجهیزات اتوماسیون برند ها مجله تماس با ما X اسلاید قبلی اسلاید بعدی آخرین محصولات فروشگاه نویز فیلیتر اینورتر FUSS EMV 3F480-035.230L اطلاعات بیشتر نویز فیلیتر اینورتر زیمنس SIEMENS B84131 M1 G135 اطلاعات بیشتر کنترلر ژنراتور برنینی BERNINI BE22 GENSET CONTROL اطلاعات بیشتر اینورتر درایو فرکانسی هیلکترو Hilectro Hi300-4045AD5N اطلاعات بیشتر ا ([فرازین صنعت - فروشنده انواع الکتروموتور و گیربکس](https://farazinsanat.ir/))
-- OBSERVED — Public page shows expansion, export, founding or current activity signal. Snippet: فرازین صنعت - فروشنده انواع الکتروموتور و گیربکس پرش به محتوا درباره ما فروشگاه به کمک احتیاج دارید؟ با ما تماس بگیرید: 02136057761 و یا info@farazinsanat.ir فرازین صنعت گیربکس صنعتی گیربکس SEW گیربکس چینی گیربکس حلزونی گیربکس کتابی NMRV الکتروموتور الکتروموتور چینی الکتروموتور موتوژن MOTOGEN اینورتر SEW پمپ تجهیزات اتوماسیون برند ها مجله تماس با ما X اسلاید قبلی اسلاید بعدی آخرین محصولات فروشگاه نویز فیلیتر اینورتر  ([فرازین صنعت - فروشنده انواع الکتروموتور و گیربکس](https://farazinsanat.ir/))
-- OBSERVED — Public page shows public product/catalog surface. Snippet: 14 خدمات ما تامین انواع الکتروموتور ایرانی،چینی،اروپایی تامین انواع گیربکس ایرانی،چینی،اروپایی ایتالیا تامین انواع گیربکس sew_eurodrive پر فروش ترین محصولات گیربکس sew الکتروموتور ABB الکتروموتور چینی الکتروموتور موتوژن اینورتر SEW دسترسی سریع درباره ما تماس با ما مجله طراحی و پیاده سازی توسط شرکت ویرا ([درباره ما - فروشگاه آنلاین فرازین صنعت](https://farazinsanat.ir/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/))
-- OBSERVED — Public page shows factory, warehouse or production facility. Snippet: ای SEW _ EURODRIVE مدل کرانویل ،آویز با توجه به نیاز صنایع؛ در تامین بهترین تجهیزات از معتبرترین برندهای بین الملی یاری گر صنعتگران در حوضه های مختلف کارخانه های پتروشیمی، فولاد، کاشی، سیمان است. ما در گروه فنی فرازین صنعت مفتخریم در راستای نیل در این هدف ضمن همکاری با تولید کنندگان مطرح این تجهیزات در داخل و خارج از کشور و انجام پروژه های مشترک با آنها و حرکت به سمت بومی سازی برخی تجهیزات مانند الکتروموتور ،گیربکسSE ([درباره ما - فروشگاه آنلاین فرازین صنعت](https://farazinsanat.ir/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/))
-- OBSERVED — Public page shows public projects, clients or partners. Snippet: ی، سیمان است. ما در گروه فنی فرازین صنعت مفتخریم در راستای نیل در این هدف ضمن همکاری با تولید کنندگان مطرح این تجهیزات در داخل و خارج از کشور و انجام پروژه های مشترک با آنها و حرکت به سمت بومی سازی برخی تجهیزات مانند الکتروموتور ،گیربکسSEW گام های ارزشمندی را در جهت تامین تجهیزات صنایع مختلف برداشته و عیار واقعی خود را نمایان کنیم. فروشگاه فرازین صنعت با بیش از 10 سال سابقه درخشان در زمینه فروش انواع الکتروموتور و ال ([درباره ما - فروشگاه آنلاین فرازین صنعت](https://farazinsanat.ir/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/))
-- OBSERVED — Public page shows expansion, export, founding or current activity signal. Snippet: درباره ما - فروشگاه آنلاین فرازین صنعت پرش به محتوا درباره ما فروشگاه به کمک احتیاج دارید؟ با ما تماس بگیرید: 02136057761 و یا info@farazinsanat.ir فرازین صنعت گیربکس صنعتی گیربکس SEW گیربکس چینی گیربکس حلزونی گیربکس کتابی NMRV الکتروموتور الکتروموتور چینی الکتروموتور موتوژن MOTOGEN اینورتر SEW پمپ تجهیزات اتوماسیون برند ها مجله تماس با ما X درباره فرازین صنعت گروه فنی فرازین صنعت بیش از دو دهه فعالیت در حوزه فروش و  ([درباره ما - فروشگاه آنلاین فرازین صنعت](https://farazinsanat.ir/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/))
-- The public operating surface suggests meaningful activity around distributor; scale and buying power remain bounded by the evidence above.
+The public record supports a conversation around **دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت**. The attraction is the possibility of a bounded process improvement around فروش، بازرگانی و کارشناسان فنی محصول, while leaving the company's core systems and final decisions under human control.
+This is a sales hypothesis, not a claim that the company currently has a known inefficiency.
 
 ## Evidence
 
-- OBSERVED — Public page shows public product/catalog surface. Snippet: MRV الکتروموتور الکتروموتور چینی الکتروموتور موتوژن MOTOGEN اینورتر SEW پمپ تجهیزات اتوماسیون برند ها مجله تماس با ما X اسلاید قبلی اسلاید بعدی آخرین محصولات فروشگاه نویز فیلیتر اینورتر FUSS EMV 3F480-035.230L اطلاعات بیشتر نویز فیلیتر اینورتر زیمنس SIEMENS B84131 M1 G135 اطلاعات بیشتر کنترلر ژنراتور برنینی BERNINI BE22 GENSET CONTROL اطلاعات بیشتر اینورتر درایو فرکانسی هیلکترو Hilectro Hi300-4045AD5N اطلاعات بیشتر ا ([فرازین صنعت - فروشنده انواع الکتروموتور و گیربکس](https://farazinsanat.ir/))
-- OBSERVED — Public page shows expansion, export, founding or current activity signal. Snippet: فرازین صنعت - فروشنده انواع الکتروموتور و گیربکس پرش به محتوا درباره ما فروشگاه به کمک احتیاج دارید؟ با ما تماس بگیرید: 02136057761 و یا info@farazinsanat.ir فرازین صنعت گیربکس صنعتی گیربکس SEW گیربکس چینی گیربکس حلزونی گیربکس کتابی NMRV الکتروموتور الکتروموتور چینی الکتروموتور موتوژن MOTOGEN اینورتر SEW پمپ تجهیزات اتوماسیون برند ها مجله تماس با ما X اسلاید قبلی اسلاید بعدی آخرین محصولات فروشگاه نویز فیلیتر اینورتر  ([فرازین صنعت - فروشنده انواع الکتروموتور و گیربکس](https://farazinsanat.ir/))
-- OBSERVED — Public page shows public product/catalog surface. Snippet: 14 خدمات ما تامین انواع الکتروموتور ایرانی،چینی،اروپایی تامین انواع گیربکس ایرانی،چینی،اروپایی ایتالیا تامین انواع گیربکس sew_eurodrive پر فروش ترین محصولات گیربکس sew الکتروموتور ABB الکتروموتور چینی الکتروموتور موتوژن اینورتر SEW دسترسی سریع درباره ما تماس با ما مجله طراحی و پیاده سازی توسط شرکت ویرا ([درباره ما - فروشگاه آنلاین فرازین صنعت](https://farazinsanat.ir/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/))
-- OBSERVED — Public page shows factory, warehouse or production facility. Snippet: ای SEW _ EURODRIVE مدل کرانویل ،آویز با توجه به نیاز صنایع؛ در تامین بهترین تجهیزات از معتبرترین برندهای بین الملی یاری گر صنعتگران در حوضه های مختلف کارخانه های پتروشیمی، فولاد، کاشی، سیمان است. ما در گروه فنی فرازین صنعت مفتخریم در راستای نیل در این هدف ضمن همکاری با تولید کنندگان مطرح این تجهیزات در داخل و خارج از کشور و انجام پروژه های مشترک با آنها و حرکت به سمت بومی سازی برخی تجهیزات مانند الکتروموتور ،گیربکسSE ([درباره ما - فروشگاه آنلاین فرازین صنعت](https://farazinsanat.ir/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/))
-- OBSERVED — Public page shows public projects, clients or partners. Snippet: ی، سیمان است. ما در گروه فنی فرازین صنعت مفتخریم در راستای نیل در این هدف ضمن همکاری با تولید کنندگان مطرح این تجهیزات در داخل و خارج از کشور و انجام پروژه های مشترک با آنها و حرکت به سمت بومی سازی برخی تجهیزات مانند الکتروموتور ،گیربکسSEW گام های ارزشمندی را در جهت تامین تجهیزات صنایع مختلف برداشته و عیار واقعی خود را نمایان کنیم. فروشگاه فرازین صنعت با بیش از 10 سال سابقه درخشان در زمینه فروش انواع الکتروموتور و ال ([درباره ما - فروشگاه آنلاین فرازین صنعت](https://farazinsanat.ir/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/))
-- OBSERVED — Public page shows expansion, export, founding or current activity signal. Snippet: درباره ما - فروشگاه آنلاین فرازین صنعت پرش به محتوا درباره ما فروشگاه به کمک احتیاج دارید؟ با ما تماس بگیرید: 02136057761 و یا info@farazinsanat.ir فرازین صنعت گیربکس صنعتی گیربکس SEW گیربکس چینی گیربکس حلزونی گیربکس کتابی NMRV الکتروموتور الکتروموتور چینی الکتروموتور موتوژن MOTOGEN اینورتر SEW پمپ تجهیزات اتوماسیون برند ها مجله تماس با ما X درباره فرازین صنعت گروه فنی فرازین صنعت بیش از دو دهه فعالیت در حوزه فروش و  ([درباره ما - فروشگاه آنلاین فرازین صنعت](https://farazinsanat.ir/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/))
+- The public page titled 'فرازین صنعت - فروشنده انواع الکتروموتور و گیربکس' exposes product/catalog information. — [فرازین صنعت - فروشنده انواع الکتروموتور و گیربکس](https://farazinsanat.ir/)
+- The public page titled 'درباره ما - فروشگاه آنلاین فرازین صنعت' exposes product/catalog information, projects or client information. — [درباره ما - فروشگاه آنلاین فرازین صنعت](https://farazinsanat.ir/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/)
+- The public page titled 'گیربکس صنعتی - خرید با بهترین قیمت 1403 | ضمانت اصل ✅' exposes product/catalog information. — [گیربکس صنعتی - خرید با بهترین قیمت 1403 | ضمانت اصل ✅](https://farazinsanat.ir/product-category/%da%af%db%8c%d8%b1%d8%a8%da%a9%d8%b3-%d8%b5%d9%86%d8%b9%d8%aa%db%8c/)
+- The public page titled 'گیربکس SEW (آلمان) - استعلام قیمت الکتروگیربکس{1403 ✅} + کاتالوگ' exposes product/catalog information, a contact or order entry point. — [گیربکس SEW (آلمان) - استعلام قیمت الکتروگیربکس{1403 ✅} + کاتالوگ](https://farazinsanat.ir/product-category/%da%af%db%8c%d8%b1%d8%a8%da%a9%d8%b3-%d8%b5%d9%86%d8%b9%d8%aa%db%8c/%da%af%db%8c%d8%b1%d8%a8%da%a9%d8%b3-sew/)
 
 ## Likely operational bottleneck
 
-STRONG_INFERENCE — EVIDENCE_SUPPORTED — Public evidence shows public product/catalog surface, public product/catalog surface, factory, warehouse or production facility; the internal handoff and volume require discovery.
-The public record does not establish that the company currently handles this process manually or inefficiently.
+**Inference to validate:** incoming information may need repeated lookup, structuring or approval before the business team can produce the final output described by **دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت**. Public pages establish the customer-facing surface, not the internal handoff, volume or baseline.
 
 ## Recommended LUMA solution
 
-A Persian/English RFQ intake and catalog/SKU matcher that prepares an explainable draft quotation for human approval.
+**دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت** — یک میزکار کنترل‌شده برای ساختاردهی درخواست‌های ورودی، تطبیق آن‌ها با مرجع تأییدشده محصولات و مشخصات، و آماده‌سازی پیش‌نویس پاسخ برای تأیید انسانی.
 
 ## Why this solution could matter financially
 
-No ROI percentage is invented. Validate the KPI categories: quote turnaround time; RFQs handled per salesperson; correction rate; follow-up completion.
+Measure the baseline and pilot change in terms of:
+- زمان پاسخ به استعلام
+- تعداد استعلام قابل پردازش برای هر کارشناس
+- نرخ اصلاح پیشنهاد
+- تکمیل پیگیری
 
-## What we do NOT know
+## What we do not know
 
-- Monthly volume, current handoffs, budget, decision authority, system ownership, data quality and implementation constraints are UNKNOWN.
-- Internal technical capability: `UNKNOWN_INTERNAL_TECH` — UNKNOWN — lack of public evidence is not treated as known low internal capability.
-- Digital maturity: `KNOWN_MODERATE_DIGITAL_MATURITY` — Known moderate/fragmented public digital surface; validate internal handoffs and system ownership.
+- Monthly volume, current handoffs, approval rules and baseline time are not public.
+- The authoritative data owner and integration surface are not public.
+- Budget authority, buying process and timing are not public.
+- Internal software/data capability is not sufficiently established publicly; missing evidence is not treated as evidence of absence.
 
 ## Questions to ask
 
 1. در ماه چند درخواست قیمت وارد می‌شود و از چه کانال‌هایی؟
-2. امروز فروشنده برای تطبیق مشخصات، قیمت و موجودی به چه منابعی رجوع می‌کند؟
+2. امروز برای تطبیق مشخصات، قیمت و موجودی به کدام فایل یا سامانه رجوع می‌شود؟
 3. کدام قواعد قیمت‌گذاری و حاشیه سود باید کاملاً قطعی و انسانی باقی بماند؟
-4. خروجی مطلوب پیش‌فاکتور است یا فقط پیشنهاد محصول و پاسخ فنی؟
-5. داده مرجع محصول و قیمت در کدام سامانه یا فایل نگهداری می‌شود؟
+4. برای شروع، پاسخ فنی، پیشنهاد محصول یا پیش‌فاکتور کدام خروجی ارزشمندتر است؟
+5. یک نمونه استعلام واقعی برای اندازه‌گیری زمان و میزان اصلاحات کدام است؟
+6. چه کسی مالک این فرایند و تأیید خروجی نهایی است؟
+7. یک نمونه واقعی و پاک‌سازی‌شده برای مقایسه خط مبنا و پایلوت کدام است؟
+8. اگر پایلوت موفق باشد، گسترش آن به کدام واحد یا قالب بیشترین ارزش را دارد؟
 
 ## Decision maker
 
-- Role: Plant Manager / Operations Director (role status: `ROLE_HYPOTHESIS`).
-- Publicly verified name: UNKNOWN.
-- Source: [public source](https://farazinsanat.ir/); confidence: 0.35.
+- Primary business owner: Commercial / Sales Operations Director; public name: Not publicly verified.
+- Economic buyer: Managing Director / CEO; public name: Not publicly verified.
+- Technical gatekeeper: Product or Technical Sales Manager; public name: Not publicly verified.
 
 ## Contact channels
+- Website: اطلاعات عمومی تأییدشده‌ای یافت نشد
+- Public phone: 02136057761, 02136057961
+- Corporate email: info@farazinsanat.ir
+- Company LinkedIn: اطلاعات عمومی تأییدشده‌ای یافت نشد
+- Public WhatsApp: [https://wa.me/+989377545393](https://wa.me/+989377545393)
 
-- Website: UNKNOWN
-- Public corporate phone: 02136057761, 02136057961
-- Public corporate email: info@farazinsanat.ir
+## Pilot and demo
+
+- Pilot: پایلوت پاسخ‌گویی ساختاریافته به استعلام‌ها — گروه صنعتی فرازین صنعت
+- Scope: یک مسیر محدود و قابل کنترل برای دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت با یک قالب ورودی و یک گروه کاربر؛ هسته ERP یا تصمیم نهایی جایگزین نمی‌شود.
+- Users: فروش، بازرگانی و کارشناسان فنی محصول
+- Data: استعلام‌ها، مرجع محصول و SKU، مشخصات فنی، فهرست قیمت، تصویر موجودی، پیشنهادهای قبلی و قواعد تأیید
+- Human approval: تأیید محصول/مقدار/قیمت، تأیید نقص یا استثنا، و انتشار خروجی نهایی نزد کارشناس یا مدیر مربوط باقی می‌ماند.
+- Duration: حدود ۳ تا ۶ هفته کاری پس از تأیید دسترسی، نمونه داده و دامنه پایلوت؛ مدت دقیق در جلسه کشف تعیین می‌شود.
+- Demo: یک استعلام نمونه با چند مشخصه وارد می‌شود؛ سیستم محصولات/گزینه‌های منطبق را با منبع نشان می‌دهد، پیش‌نویس پاسخ می‌سازد و کارشناس آن را تأیید یا اصلاح می‌کند.
 
 ## Screenshots
 
@@ -72,13 +87,4 @@ No ROI percentage is invented. Validate the KPI categories: quote turnaround tim
 
 ## Sales recommendation
 
-**GO** — READY FOR OUTREACH; the recommendation follows the evidence gate and does not imply verified budget or authority.
-
-## Source links
-
-- [https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D8%A2%D9%84%D8%A7%D8%AA%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D9%88%20%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86](https://avval.ir/directory/%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D8%A2%D9%84%D8%A7%D8%AA%20%D8%B5%D9%86%D8%B9%D8%AA%DB%8C%20%D9%88%20%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C/%D8%AA%D9%87%D8%B1%D8%A7%D9%86)
-- [https://avval.ir/profile/a1908/%DA%AF%D8%B1%D9%88%D9%87-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C-%D9%81%D8%B1%D8%A7%D8%B2%DB%8C%D9%86-%D8%B5%D9%86%D8%B9%D8%AA](https://avval.ir/profile/a1908/%DA%AF%D8%B1%D9%88%D9%87-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C-%D9%81%D8%B1%D8%A7%D8%B2%DB%8C%D9%86-%D8%B5%D9%86%D8%B9%D8%AA)
-- [https://farazinsanat.ir/](https://farazinsanat.ir/)
-- [https://farazinsanat.ir/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/](https://farazinsanat.ir/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/)
-- [https://farazinsanat.ir/product-category/%da%af%db%8c%d8%b1%d8%a8%da%a9%d8%b3-%d8%b5%d9%86%d8%b9%d8%aa%db%8c/](https://farazinsanat.ir/product-category/%da%af%db%8c%d8%b1%d8%a8%da%a9%d8%b3-%d8%b5%d9%86%d8%b9%d8%aa%db%8c/)
-- [https://farazinsanat.ir/product-category/%da%af%db%8c%d8%b1%d8%a8%da%a9%d8%b3-%d8%b5%d9%86%d8%b9%d8%aa%db%8c/%da%af%db%8c%d8%b1%d8%a8%da%a9%d8%b3-sew/](https://farazinsanat.ir/product-category/%da%af%db%8c%d8%b1%d8%a8%da%a9%d8%b3-%d8%b5%d9%86%d8%b9%d8%aa%db%8c/%da%af%db%8c%d8%b1%d8%a8%da%a9%d8%b3-sew/)
+**GO** — use the internal brief and outreach draft only after human review. Proposal: `sales/client/ir-teh-5a0d9c69e8a63c56.md`; outreach draft: `sales/outreach/ir-teh-5a0d9c69e8a63c56.md`.

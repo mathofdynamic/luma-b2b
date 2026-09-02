@@ -27,3 +27,18 @@ Page captures:
 Audit fetch notes:
 - SOURCE_ERROR: https://html.duckduckgo.com/html/?q=%22%D9%84%D9%88%DA%A9%D8%B3+%D8%A8%D8%A7%DA%A9%D8%B3%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa: HTTPError: HTTP Error 403: Forbidden
 - SOURCE_ERROR: https://html.duckduckgo.com/html/?q=%22https+iluxbox.com%22+Tehran+Iran+company&kl=ir-fa: HTTPError: HTTP Error 403: Forbidden
+
+## Sales activation
+
+Activation version: 2026.09.sales-activation-v1
+
+Captured pages:
+- `companies/ir-teh-5911ae5691d19335/pages/sales-0416b7f83ddf6d3c.txt`
+- `companies/ir-teh-5911ae5691d19335/pages/sales-5cb980768b5082be.txt`
+- `companies/ir-teh-5911ae5691d19335/pages/sales-b3f255fba6315d09.txt`
+- `companies/ir-teh-5911ae5691d19335/pages/sales-6c2ac9134c54f84d.txt`
+- `companies/ir-teh-5911ae5691d19335/pages/sales-3297d5ab6e532cfe.txt`
+
+Source families added/confirmed: job_portal, other_public
+Primary workflow classification: STRONG_HYPOTHESIS
+No outreach was sent; no contact form, RFQ, email, WhatsApp or phone call was submitted.

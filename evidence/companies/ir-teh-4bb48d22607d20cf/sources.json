@@ -23,14 +23,240 @@
       "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
       "stage": "search_query",
       "url": "https://html.duckduckgo.com/html/?q=%22%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87+%D9%81%D9%88%D9%84%D8%A7%D8%AF+%D9%BE%D8%A7%DB%8C%D8%AA%D8%AE%D8%AA%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "InvalidURL: URL can't contain control characters. '/share?url=avval.ir/profile/4cd1d/%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87-%D9%81%D9%88%D9%84%D8%A7%D8%AF-%D9%BE%D8%A7%DB%8C%D8%AA%D8%AE%D8%AA&text=فروشگاه فولاد پایتخت' (found at least ' ')",
+      "stage": "official_page",
+      "url": "https://twitter.com/share?url=avval.ir/profile/4cd1d/%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87-%D9%81%D9%88%D9%84%D8%A7%D8%AF-%D9%BE%D8%A7%DB%8C%D8%AA%D8%AE%D8%AA&text=فروشگاه فولاد پایتخت"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "official_page",
+      "url": "https://twitter.com/ketabeavvalir"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 500: ",
+      "stage": "official_page",
+      "url": "https://trustseal.enamad.ir/?id=194990&Code=3Y0m3d1djm9fuqjoC8mT"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "official_page",
+      "url": "https://api.whatsapp.com/send?text=avval.ir/profile/4cd1d/%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87-%D9%81%D9%88%D9%84%D8%A7%D8%AF-%D9%BE%D8%A7%DB%8C%D8%AA%D8%AE%D8%AA"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 21-27: ordinal not in range(128)",
+      "stage": "external_page",
+      "url": "https://jobvision.ir/companies/54504/استخدام-شرکت-فولاد-پایتخت-ایرانیان"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 21-27: ordinal not in range(128)",
+      "stage": "external_page",
+      "url": "https://jobvision.ir/companies/57578/استخدام-کارخانه-فولاد-ثامن-پایتخت"
     }
   ],
-  "generated_at": "2026-09-01T15:27:09Z",
+  "generated_at": "2026-09-02T06:50:51Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
     "proxy": "http://127.0.0.1:1087",
     "visible_browser_launched": false
+  },
+  "sales_activation": {
+    "captured_page_paths": [
+      "companies/ir-teh-4bb48d22607d20cf/pages/sales-9b011a3022bf47b2.txt",
+      "companies/ir-teh-4bb48d22607d20cf/pages/sales-cfc9190c7fbabbfb.txt",
+      "companies/ir-teh-4bb48d22607d20cf/pages/sales-5d4c70c5c8aeffc7.txt",
+      "companies/ir-teh-4bb48d22607d20cf/pages/sales-6362f0fedcbb1c44.txt"
+    ],
+    "contacts": {
+      "decision_maker_direct_candidates": [],
+      "decision_maker_search_candidates": [],
+      "economic_buyer_confidence": 0.0,
+      "economic_buyer_name": null,
+      "economic_buyer_role": "Managing Director / CEO",
+      "economic_buyer_source_url": null,
+      "primary_contact_confidence": 0.0,
+      "primary_contact_name": null,
+      "primary_contact_role": "Technical Office / Project Sales Director",
+      "primary_contact_source_url": null,
+      "public_corporate_emails": [
+        "info@fooladpaytakht.com"
+      ],
+      "public_corporate_phones": [
+        "02166671944",
+        "02166672439",
+        "02166674477"
+      ],
+      "public_linkedin_company": null,
+      "public_whatsapp": "https://wa.me/+989122890467",
+      "technical_gatekeeper_confidence": 0.0,
+      "technical_gatekeeper_name": null,
+      "technical_gatekeeper_role": "Project Controls or Engineering Manager",
+      "technical_gatekeeper_source_url": null
+    },
+    "no_outreach_sent": true,
+    "public_journey": {
+      "entry_points": [
+        "public product/service information or catalog",
+        "public project/client information"
+      ],
+      "evidence": [
+        {
+          "claim": "The public page titled 'فولاد پایتخت | تماس با ما' exposes product/catalog information, a contact or order entry point.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "اد های خوش تراش اتومات (0718/1) و انواع فولادهای آلیاژی از قبیل CK45 و 45 s 20 و ترانسمیسیون و انواع میلگردهای کششی ... محصولات خرید میلگرد اتومات خرید فولاد خوش تراش خرید فولاد اتومات تماس با ما تهران - بازارآهن - شادآباد - بلوک خرداد شمالی - پلاک 93 66672130 66672140 66674008 66674477 66672439 09123336499 09122890467 تمامی حقوق متعلق به شرکت آرمان تامین فولاد پایتخت می باشد",
+          "source_family": "other_public",
+          "source_title": "فولاد پایتخت | تماس با ما",
+          "source_url": "https://fooladpaytakht.com/contact-us/"
+        },
+        {
+          "claim": "The public page titled 'فولاد خوش تراش - فولاد اتومات | شرکت فولاد پایتخت' exposes product/catalog information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "سلنیوم، تلوریم، فسفر و گوگرد حضور دارند. قابلیت ماشین کاری عالی ، مهمترین خصوصیت فولاد خوش تراش است. قیمت میلگرد و دیگر محصولات فولادی به عناصر حاضر در ترکیب شیمیایی آنها نیز وابسته است. اغلب در هنگام ساخت فولاد از حضور عناصری مانند گوگرد و فسفر در ترکیب شیمیایی آن اجتناب می شود. تا جایی که اغلب فولادها در ترکیب شیمیایی خود دارای حداقل ممکن (۰/۰۴۵) از عناصر گوگرد و فسفر هستند. زیرا حضور این عناصر در ترکیب فولادها منجر به تاثیرات سوء در خواص مکانیکی ، چقرمگی و همگنی آنان خواهد شد. اما امروزه می دانیم حضور عناصر گوگرد (تا ۰/۴ درصد) و فسفر (تا 5/11 درصد) و همچنین حضور عنصر منگنز و عنصر سرب در مقادیری در بازه ۰/۱۵- ۰/۳۵ درصد در ترکیب فولادهای کم ",
+          "source_family": "other_public",
+          "source_title": "فولاد خوش تراش - فولاد اتومات | شرکت فولاد پایتخت",
+          "source_url": "https://fooladpaytakht.com/"
+        },
+        {
+          "claim": "The public page titled 'فولاد پایتخت | درباره ما' exposes product/catalog information, projects or client information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "شوند. همانطور که میدانید، میلگرد اتومات یکی از محصولات کلیدی فولاد پایتخت است که به دلیل کیفیت بی ‌نظیر و دوام بالا، در پروژه‌ های ساختمانی و صنعتی مورد استفاده قرار می ‌گیرد. همچنین فولاد اتومات و فولاد خوش تراش از دیگر محصولات پر فروش ما هستند که به دلیل ویژگی ‌های منحصر به فردشان، در صنایع مختلف از جمله خودروسازی، ساخت ابزارآلات دقیق و تجهیزات صنعتی به کار می‌ روند. این محصولات با توجه به نیاز مشتریان و با استفاده از فنّاوری‌ های پیشرفته تولید و عرضه می ‌شوند. خدمات فولاد پایتخت نیز شامل مشاوره‌ های تخصصی، تأمین به موقع و تضمین کیفیت محصولات است که رضایت مشتریان را به دنبال دارد. ما در فولاد پایتخت همواره به دنبال ارتقای سطح خدمات و محصولا",
+          "source_family": "other_public",
+          "source_title": "فولاد پایتخت | درباره ما",
+          "source_url": "https://fooladpaytakht.com/about-us/"
+        }
+      ],
+      "intake_channels": [
+        "website contact or inquiry surface",
+        "published corporate email",
+        "published corporate phone",
+        "explicitly published WhatsApp business link"
+      ],
+      "observable_steps": [
+        "Customer reaches فروشگاه فولاد پایتخت through public product/service information or catalog, public project/client information.",
+        "Customer uses website contact or inquiry surface, published corporate email, published corporate phone, explicitly published WhatsApp business link to ask for information or service.",
+        "technical/commercial team reviews a project request; the public record does not expose the internal handoffs or approval rules.",
+        "A discovery meeting should validate volume, data sources, ownership and the smallest safe pilot."
+      ],
+      "observable_steps_fa": [
+        "مشتری از طریق public product/service information or catalog، public project/client information به فروشگاه فولاد پایتخت می‌رسد.",
+        "مشتری از website contact or inquiry surface، published corporate email، published corporate phone، explicitly published WhatsApp business link برای دریافت اطلاعات یا خدمت استفاده می‌کند.",
+        "technical/commercial team reviews a project request؛ مراحل داخلی و قواعد تأیید از منابع عمومی قابل مشاهده نیست.",
+        "در جلسه کشف، حجم، منابع داده، مالک فرایند و کوچک‌ترین پایلوت امن اعتبارسنجی شود."
+      ]
+    },
+    "source_families_added": [
+      "job_portal",
+      "other_public"
+    ],
+    "version": "2026.09.sales-activation-v1",
+    "workflow": {
+      "activation_evidence_classification": "EVIDENCE_SUPPORTED",
+      "company_id": "ir-teh-4bb48d22607d20cf",
+      "confidence": "High",
+      "confidence_score": 0.85,
+      "current_problem": "A repeated lookup, document or approval handoff is plausible; validate the actual volume, owner and baseline before proposing automation.",
+      "current_problem_fa": "تکرار جست‌وجو، ساخت سند یا تأیید محتمل است؛ حجم واقعی، مالک و خط مبنا پیش از پیشنهاد خودکارسازی اعتبارسنجی شود.",
+      "current_process_hypothesis": "Based on the public تطبیق BOQ و مشخصات فنی برای پیشنهاد پروژه surface, the first process to validate is the handoff from incoming information to a reviewed business output. Public sources do not establish the internal process or a current inefficiency.",
+      "current_process_hypothesis_fa": "با توجه به سطح عمومی تطبیق BOQ و مشخصات فنی برای پیشنهاد پروژه، نخستین فرایند قابل بررسی، تبدیل ورودی به خروجی کسب‌وکاریِ قابل بازبینی است؛ منابع عمومی فرایند داخلی یا وجود ناکارآمدی فعلی را اثبات نمی‌کنند.",
+      "department": "Technical Office / Project Sales Director",
+      "discovery_questions": [
+        "BOQ و مشخصات فنی معمولاً با چه قالبی وارد می‌شوند؟",
+        "تطبیق گزینه‌های مجاز و جایگزین توسط چه نقشی تأیید می‌شود؟",
+        "کاتالوگ، دیتاشیت و گواهی فنی مرجع در کجا نگهداری می‌شود؟",
+        "کدام بخش از سابمیتال باید نسخه‌بندی و قابل ردیابی باشد؟",
+        "یک پروژه نمونه برای مقایسه زمان و خطا کدام است؟"
+      ],
+      "implementation_complexity": "High",
+      "implementation_risks": [
+        "data quality and permissions require discovery",
+        "human approval remains required",
+        "pilot should use a bounded workflow and approved samples"
+      ],
+      "implementation_risks_fa": [
+        "کیفیت داده و مجوزها باید در کشف بررسی شود",
+        "تأیید انسانی حفظ می‌شود",
+        "پایلوت با گردش محدود و نمونه‌های تأییدشده شروع شود"
+      ],
+      "likely_business_owner": "Technical Office / Project Sales Director",
+      "measurable_KPIs": [
+        "lines matched per hour",
+        "submittal turnaround",
+        "revision errors",
+        "follow-up coverage"
+      ],
+      "measurable_KPIs_fa": [
+        "تعداد ردیف تطبیق‌یافته در ساعت",
+        "زمان آماده‌سازی سابمیتال",
+        "خطاهای اصلاحی",
+        "پوشش پیگیری پروژه"
+      ],
+      "primary_users": "Technical office, project sales, procurement and commercial management",
+      "primary_users_fa": "دفتر فنی، فروش پروژه، تأمین و مدیریت بازرگانی",
+      "proposed_luma_solution": "A document-grounded workspace that structures BOQ lines, retrieves approved technical evidence, and prepares a versioned submittal or quotation pack for review.",
+      "proposed_luma_solution_fa": "یک میزکار مبتنی بر اسناد که ردیف‌های BOQ را ساختاریافته می‌کند، مستندات فنی تأییدشده را بازیابی می‌کند و بسته نسخه‌بندی‌شده سابمیتال یا پیشنهاد قیمت را برای بازبینی آماده می‌کند.",
+      "required_data": [
+        "BOQs, specifications, drawings, product catalogs, alternatives, certificates and prior submittals"
+      ],
+      "required_data_fa": [
+        "BOQ، مشخصات و نقشه‌ها، کاتالوگ محصول، گزینه‌های جایگزین، گواهی‌ها و سابمیتال‌های قبلی"
+      ],
+      "required_integrations": [
+        "Document repository, approved CRM/ERP exports, quotation workflow and approval records"
+      ],
+      "required_integrations_fa": [
+        "مخزن اسناد، خروجی مجاز CRM/ERP، گردش پیشنهاد قیمت و سوابق تأیید"
+      ],
+      "source_urls": [
+        "https://fooladpaytakht.com/contact-us/",
+        "https://fooladpaytakht.com/",
+        "https://fooladpaytakht.com/about-us/"
+      ],
+      "supporting_evidence": [
+        {
+          "claim": "The public page titled 'فولاد پایتخت | تماس با ما' exposes product/catalog information, a contact or order entry point.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "اد های خوش تراش اتومات (0718/1) و انواع فولادهای آلیاژی از قبیل CK45 و 45 s 20 و ترانسمیسیون و انواع میلگردهای کششی ... محصولات خرید میلگرد اتومات خرید فولاد خوش تراش خرید فولاد اتومات تماس با ما تهران - بازارآهن - شادآباد - بلوک خرداد شمالی - پلاک 93 66672130 66672140 66674008 66674477 66672439 09123336499 09122890467 تمامی حقوق متعلق به شرکت آرمان تامین فولاد پایتخت می باشد",
+          "source_family": "other_public",
+          "source_title": "فولاد پایتخت | تماس با ما",
+          "source_url": "https://fooladpaytakht.com/contact-us/"
+        },
+        {
+          "claim": "The public page titled 'فولاد خوش تراش - فولاد اتومات | شرکت فولاد پایتخت' exposes product/catalog information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "سلنیوم، تلوریم، فسفر و گوگرد حضور دارند. قابلیت ماشین کاری عالی ، مهمترین خصوصیت فولاد خوش تراش است. قیمت میلگرد و دیگر محصولات فولادی به عناصر حاضر در ترکیب شیمیایی آنها نیز وابسته است. اغلب در هنگام ساخت فولاد از حضور عناصری مانند گوگرد و فسفر در ترکیب شیمیایی آن اجتناب می شود. تا جایی که اغلب فولادها در ترکیب شیمیایی خود دارای حداقل ممکن (۰/۰۴۵) از عناصر گوگرد و فسفر هستند. زیرا حضور این عناصر در ترکیب فولادها منجر به تاثیرات سوء در خواص مکانیکی ، چقرمگی و همگنی آنان خواهد شد. اما امروزه می دانیم حضور عناصر گوگرد (تا ۰/۴ درصد) و فسفر (تا 5/11 درصد) و همچنین حضور عنصر منگنز و عنصر سرب در مقادیری در بازه ۰/۱۵- ۰/۳۵ درصد در ترکیب فولادهای کم ",
+          "source_family": "other_public",
+          "source_title": "فولاد خوش تراش - فولاد اتومات | شرکت فولاد پایتخت",
+          "source_url": "https://fooladpaytakht.com/"
+        },
+        {
+          "claim": "The public page titled 'فولاد پایتخت | درباره ما' exposes product/catalog information, projects or client information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "شوند. همانطور که میدانید، میلگرد اتومات یکی از محصولات کلیدی فولاد پایتخت است که به دلیل کیفیت بی ‌نظیر و دوام بالا، در پروژه‌ های ساختمانی و صنعتی مورد استفاده قرار می ‌گیرد. همچنین فولاد اتومات و فولاد خوش تراش از دیگر محصولات پر فروش ما هستند که به دلیل ویژگی ‌های منحصر به فردشان، در صنایع مختلف از جمله خودروسازی، ساخت ابزارآلات دقیق و تجهیزات صنعتی به کار می‌ روند. این محصولات با توجه به نیاز مشتریان و با استفاده از فنّاوری‌ های پیشرفته تولید و عرضه می ‌شوند. خدمات فولاد پایتخت نیز شامل مشاوره‌ های تخصصی، تأمین به موقع و تضمین کیفیت محصولات است که رضایت مشتریان را به دنبال دارد. ما در فولاد پایتخت همواره به دنبال ارتقای سطح خدمات و محصولا",
+          "source_family": "other_public",
+          "source_title": "فولاد پایتخت | درباره ما",
+          "source_url": "https://fooladpaytakht.com/about-us/"
+        }
+      ],
+      "workflow_evidence_classification": "EVIDENCE_SUPPORTED",
+      "workflow_family": "boq_specification_matching",
+      "workflow_id": "wf-d393da94f8078668",
+      "workflow_name": "BOQ/specification matching and technical submittal support",
+      "workflow_name_fa": "تطبیق BOQ و مشخصات فنی برای پیشنهاد پروژه"
+    }
   },
   "screenshots": [
     {
@@ -230,6 +456,62 @@
       "source_title": "فولاد پایتخت | درباره ما",
       "source_type": "commercial_audit",
       "source_url": "https://fooladpaytakht.com/about-us/"
+    },
+    {
+      "captured_at": "2026-09-02T06:15:13Z",
+      "company_id": "ir-teh-4bb48d22607d20cf",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "فولاد خوش تراش - فولاد اتومات | شرکت فولاد پایتخت فولاد پایتخت برترین شرکت سازه های فولادی 02166674477 02166674008 info@fooladpaytakht.com خانه خدمات فولاد خوش تراش میلگرد اتومات فولاد اتومات مقالات تماس با ما درباره ما فولاد خوش تراش تخصص ماست فولاد پایتخت فعالیت خود را از سال 1375 به طور رسمی آغاز نموده است. این شرکت در زمینه واردات و توزیع فولاد خوش تراش (اتومات) شروع به کار کرد. و در حال حاضر با بیش از 25 سال سابقه در تامین انواع فولاد های آلیاژی مشغول به فعالیت می باشد. تماس با شرکت 66672439-021 درباره فولاد خوش تراش (فولاد پایتخت) فولاد خوش تراش (فولاد اتومات یا ماشین کاری آزاد) آن دسته از فولاد هایی هستند که در هنگام ماشین کاری تراشه های کوچکی ایجاد می کنند. این فولادها در دسته فولاد ",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-eb171c9972849e9e",
+      "source_quality": "public_page",
+      "source_title": "فولاد خوش تراش - فولاد اتومات | شرکت فولاد پایتخت",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://fooladpaytakht.com/"
+    },
+    {
+      "captured_at": "2026-09-02T06:33:57Z",
+      "company_id": "ir-teh-4bb48d22607d20cf",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "فولاد پایتخت | تماس با ما فولاد پایتخت برترین شرکت سازه های فولادی 02166674477 02166674008 info@fooladpaytakht.com خانه خدمات فولاد خوش تراش میلگرد اتومات فولاد اتومات مقالات تماس با ما درباره ما راه های تماس با شرکت گروه فولاد پایتخت، به عنوان یکی از واردکنندگان و توزیع‌کنندگان معتبر میلگرد اتومات (فولاد خوش تراش)، همواره در تلاش است تا پاسخگوی نیازهای تولیدکنندگان و صنعتگران باشد. اگر به دنبال مشاوره خرید، استعلام قیمت روز فولاد، یا دریافت اطلاعات فنی در مورد گریدهای مختلف فولاد خوش تراش هستید، تیم کارشناسان ما آماده ارائه خدمات به شما عزیزان هستند. تهران - بازارآهن - شادآباد - بلوک خرداد شمالی - پلاک 93 09123336499 09122890467 fooladpaytakht.com درباره ما مجموعه فولاد پایتخت فعالیت خود را",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-a50971ea4f283bca",
+      "source_quality": "public_page",
+      "source_title": "فولاد پایتخت | تماس با ما",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://fooladpaytakht.com/contact-us/"
+    },
+    {
+      "captured_at": "2026-09-02T06:33:57Z",
+      "company_id": "ir-teh-4bb48d22607d20cf",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "فولاد پایتخت | درباره ما فولاد پایتخت برترین شرکت سازه های فولادی 02166674477 02166674008 info@fooladpaytakht.com خانه خدمات فولاد خوش تراش میلگرد اتومات فولاد اتومات مقالات تماس با ما درباره ما درباره شرکت فولاد پایتخت فولاد پایتخت فعالیت خود را از سال 1375 به طور رسمی آغاز نموده است. این شرکت در زمینه واردات و توزیع فولاد های خوش تراش (اتومات) شروع به کار کرد. و در حال حاضر با بیش از 25 سال سابقه در تامین انواع فولاد های آلیاژی مشغول به فعالیت می باشد. شرکت فولاد پایتخت ، به عنوان یکی از پیشروان صنعت فولاد در ایران، با تکیه بر دانش فنی و تجربه‌ ی چندین ساله، توانسته است به برندی معتبر در زمینه تولید و توزیع انواع محصولات فولادی تبدیل شود. محصولات فولاد پایتخت با کیفیت بالا و استاندارد های ",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-e55ab8190c3b3973",
+      "source_quality": "public_page",
+      "source_title": "فولاد پایتخت | درباره ما",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://fooladpaytakht.com/about-us/"
+    },
+    {
+      "captured_at": "2026-09-02T06:34:02Z",
+      "company_id": "ir-teh-4bb48d22607d20cf",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "فرصت‌های شغلی فعال در فولاد ثامن پایتخت | Samen Steel Paytakht | جابینجا کارفرما هستید؟ انتشار رایگان آگهی استخدام در ۲۵ استان و ۲۶ دسته‌بندی شغلی ثبت آگهی استخدام Jobinja | جابینجا | استخدام، آگهی استخدام، کاریابی، استخدامی جدید، بازار کار، نیازمندیها، ساخت رزومه رایگان، کار و استخدام دولتی، اشتغال، جستجوگر حرفه ای استخدام و شغل خانه جستجوی مشاغل رزومه‌ساز ۵۰ شرکت برتر ثبت آگهی استخدام ورود کارجو ثبت‌نام کارجو ورود کارجو ثبت‌نام کارجو ۱ جابینجا چطور به استخدام شدن من کمک می‌کند؟ مشاهده مشاهده بیشتر فولاد ثامن پایتخت | Samen Steel Paytakht تولید و صنایع ۵۱ تا ۲۰۰ نفر www.samensteelco.com فرصت‌های شغلی ۰ معرفی فولاد ثامن پایتخت شرکت فولاد ثامن از سال 1395 فعالیت خود را با کادری متخصص و مجرب ک",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "job_portal",
+      "source_id": "src-5403448f38a7a238",
+      "source_quality": "public_page",
+      "source_title": "فرصت‌های شغلی فعال در فولاد ثامن پایتخت | Samen Steel Paytakht | جابینجا",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://jobinja.ir/companies/foolad-samen-1/jobs"
     }
   ]
 }

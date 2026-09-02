@@ -29,14 +29,290 @@
       "error": "HTTPError: HTTP Error 403: Forbidden",
       "stage": "search_query",
       "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D9%85%DB%8C%D9%84%D8%A7%D8%AF%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "InvalidURL: URL can't contain control characters. '/share?url=avval.ir/profile/wnqtp/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D9%85%DB%8C%D9%84%D8%A7%D8%AF&text=شرکت بازرگانی میلاد' (found at least ' ')",
+      "stage": "official_page",
+      "url": "https://twitter.com/share?url=avval.ir/profile/wnqtp/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D9%85%DB%8C%D9%84%D8%A7%D8%AF&text=شرکت بازرگانی میلاد"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "InvalidURL: URL can't contain control characters. '/share?url=avval.ir/profile/9ea91/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D9%85%DB%8C%D9%84%D8%A7%D8%AF&text=شرکت بازرگانی میلاد' (found at least ' ')",
+      "stage": "official_page",
+      "url": "https://twitter.com/share?url=avval.ir/profile/9ea91/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D9%85%DB%8C%D9%84%D8%A7%D8%AF&text=شرکت بازرگانی میلاد"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "official_page",
+      "url": "https://twitter.com/ketabeavvalir"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 500: ",
+      "stage": "official_page",
+      "url": "https://trustseal.enamad.ir/?id=194990&Code=3Y0m3d1djm9fuqjoC8mT"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "official_page",
+      "url": "https://api.whatsapp.com/send?text=avval.ir/profile/wnqtp/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D9%85%DB%8C%D9%84%D8%A7%D8%AF"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D9%85%DB%8C%D9%84%D8%A7%D8%AF%22+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D9%85%DB%8C%D9%84%D8%A7%D8%AF%22+%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+%D9%81%D8%B1%D8%B5%D8%AA+%D8%B4%D8%BA%D9%84%DB%8C&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D9%85%DB%8C%D9%84%D8%A7%D8%AF%22+%D9%86%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87+%D8%A7%D9%86%D8%AC%D9%85%D9%86+%D8%B9%D8%B6%D9%88&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D9%85%DB%8C%D9%84%D8%A7%D8%AF%22+%DA%A9%D8%A7%D8%AA%D8%A7%D9%84%D9%88%DA%AF+%D8%A7%D8%B3%D8%AA%D8%B9%D9%84%D8%A7%D9%85+%D9%82%DB%8C%D9%85%D8%AA+%D9%81%D8%B1%D9%88%D8%B4+%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D9%85%DB%8C%D9%84%D8%A7%D8%AF%22+%22api.whatsapp.com%22+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
     }
   ],
-  "generated_at": "2026-09-01T15:27:12Z",
+  "generated_at": "2026-09-02T06:51:42Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
     "proxy": "http://127.0.0.1:1087",
     "visible_browser_launched": false
+  },
+  "sales_activation": {
+    "captured_page_paths": [
+      "companies/ir-teh-d284bae5deddc82f/pages/sales-a1f69fdebe724e17.txt",
+      "companies/ir-teh-d284bae5deddc82f/pages/sales-9f7a9bf14ba446ca.txt",
+      "companies/ir-teh-d284bae5deddc82f/pages/sales-65754129fd429f36.txt",
+      "companies/ir-teh-d284bae5deddc82f/pages/sales-2523a5f18c1617d9.txt"
+    ],
+    "contacts": {
+      "decision_maker_direct_candidates": [],
+      "decision_maker_search_candidates": [],
+      "economic_buyer_confidence": 0.0,
+      "economic_buyer_name": null,
+      "economic_buyer_role": "Managing Director / CEO",
+      "economic_buyer_source_url": null,
+      "primary_contact_confidence": 0.0,
+      "primary_contact_name": null,
+      "primary_contact_role": "Commercial / Sales Operations Director",
+      "primary_contact_source_url": null,
+      "public_corporate_emails": [
+        "info@trading-milad.com",
+        "sales@miladtrading.com"
+      ],
+      "public_corporate_phones": [
+        "02122096430",
+        "02122343047",
+        "02122343079",
+        "02122343086",
+        "02122343095",
+        "02122344712",
+        "02144554455",
+        "02188731146",
+        "02188731147",
+        "02188731148"
+      ],
+      "public_linkedin_company": null,
+      "public_whatsapp": null,
+      "technical_gatekeeper_confidence": 0.0,
+      "technical_gatekeeper_name": null,
+      "technical_gatekeeper_role": "Product or Technical Sales Manager",
+      "technical_gatekeeper_source_url": null
+    },
+    "no_outreach_sent": true,
+    "public_journey": {
+      "entry_points": [
+        "public product/service information or catalog",
+        "public project/client information",
+        "public service/maintenance information"
+      ],
+      "evidence": [
+        {
+          "claim": "The public page titled 'شرکت بازرگانی میلاد | تولید کننده انواع محصولات صنایع سیمان' exposes product/catalog information, a contact or order entry point.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "ود ادامه میدهد درباره ما بیشتر بخوانید محصولات مهمترین محصولات ما اطلاعات بیشتر لنس و سر نازل اسپری آب کولینگ تاور برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر نازل مازوت مشعل برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر سنسور ویبره(ارتعاش) برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر صفحه برش استیل بر ماف برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر صفحه برش استیل بر مولیتال برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر نازل و دیسک‌های استیل صنعتی برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر نازل مشعل کلساینر برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر نازل نسوز شوک بلاستر 0 برای استعلام قیمت و خرید ",
+          "source_family": "other_public",
+          "source_title": "شرکت بازرگانی میلاد | تولید کننده انواع محصولات صنایع سیمان",
+          "source_url": "https://trading-milad.com/"
+        },
+        {
+          "claim": "The public page titled 'درباره ما - شرکت بازرگانی میلاد' exposes product/catalog information, service or maintenance information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "۱۶ شماره تماس ۰۲۱-۲۲۳۴۳۰۴۷ آدرس شرکت سعادت آباد سرو غربی، خیابان صدف، پلاک۱۵ واحد ۱۱ درخواست مشاوره شرکت بازرگانی میلاد محصولات وبلاگ چند رسانه ای گالری تصاویر گالری ویدیوها درباره ما ارتباط با ما شرکت بازرگانی میلاد محصولات وبلاگ چند رسانه ای گالری تصاویر گالری ویدیوها درباره ما ارتباط با ما بیش از 10 سال ما به شرکت ها کمک می کنیم تا به اهداف مالی و برندسازی خود برسند. مکس بیز یک آژانس مشاوره ارزش محور است. گالری ارتباط با ما 02144554455 ایران ، تهران بزرگ maxbizz@mail.com Twitter Facebook-f Pinterest-p Instagram درباره ما درباره شرکت بازرگانی میلاد شرکت بازرگانی میلاد .تامین کننده و تولید کننده انواع محصولات صنایع سیمان از دپارتمان سنگ شکن ",
+          "source_family": "other_public",
+          "source_title": "درباره ما - شرکت بازرگانی میلاد",
+          "source_url": "https://trading-milad.com/about-us/"
+        },
+        {
+          "claim": "The public page titled 'ارتباط با ما - شرکت بازرگانی میلاد' exposes product/catalog information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "۱۶ شماره تماس ۰۲۱-۲۲۳۴۳۰۴۷ آدرس شرکت سعادت آباد سرو غربی، خیابان صدف، پلاک۱۵ واحد ۱۱ درخواست مشاوره شرکت بازرگانی میلاد محصولات وبلاگ چند رسانه ای گالری تصاویر گالری ویدیوها درباره ما ارتباط با ما شرکت بازرگانی میلاد محصولات وبلاگ چند رسانه ای گالری تصاویر گالری ویدیوها درباره ما ارتباط با ما بیش از 10 سال ما به شرکت ها کمک می کنیم تا به اهداف مالی و برندسازی خود برسند. مکس بیز یک آژانس مشاوره ارزش محور است. گالری ارتباط با ما 02144554455 ایران ، تهران بزرگ maxbizz@mail.com Twitter Facebook-f Pinterest-p Instagram ارتباط با ما اطلاعات تماس تماس با ما شرکت بازرگانی میلاد همواره پاسخگوی شما عزیزان می باشد، از طریق راه های زیر و یا ارسال فرم تما",
+          "source_family": "other_public",
+          "source_title": "ارتباط با ما - شرکت بازرگانی میلاد",
+          "source_url": "https://trading-milad.com/contact-us/"
+        },
+        {
+          "claim": "The public page titled 'محصولات - شرکت بازرگانی میلاد' exposes product/catalog information, a contact or order entry point.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "ازی بر اساس هزینه: کم به زیاد مرتب سازی بر اساس هزینه: زیاد به کم اطلاعات بیشتر لنس و سر نازل اسپری آب کولینگ تاور برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر نازل مازوت مشعل برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر سنسور ویبره(ارتعاش) برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر صفحه برش استیل بر ماف برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر صفحه برش استیل بر مولیتال برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر نازل و دیسک‌های استیل صنعتی برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر نازل مشعل کلساینر برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر نازل نسوز شوک بلاستر 0 برای استعلام قیمت و خرید ",
+          "source_family": "other_public",
+          "source_title": "محصولات - شرکت بازرگانی میلاد",
+          "source_url": "https://trading-milad.com/shop/"
+        }
+      ],
+      "intake_channels": [
+        "website contact or inquiry surface",
+        "published corporate email",
+        "published corporate phone"
+      ],
+      "observable_steps": [
+        "Customer reaches شرکت بازرگانی میلاد through public product/service information or catalog, public project/client information, public service/maintenance information.",
+        "Customer uses website contact or inquiry surface, published corporate email, published corporate phone to ask for information or service.",
+        "sales team prepares a response or quotation; the public record does not expose the internal handoffs or approval rules.",
+        "A discovery meeting should validate volume, data sources, ownership and the smallest safe pilot."
+      ],
+      "observable_steps_fa": [
+        "مشتری از طریق public product/service information or catalog، public project/client information، public service/maintenance information به شرکت بازرگانی میلاد می‌رسد.",
+        "مشتری از website contact or inquiry surface، published corporate email، published corporate phone برای دریافت اطلاعات یا خدمت استفاده می‌کند.",
+        "sales team prepares a response or quotation؛ مراحل داخلی و قواعد تأیید از منابع عمومی قابل مشاهده نیست.",
+        "در جلسه کشف، حجم، منابع داده، مالک فرایند و کوچک‌ترین پایلوت امن اعتبارسنجی شود."
+      ]
+    },
+    "source_families_added": [
+      "other_public"
+    ],
+    "version": "2026.09.sales-activation-v1",
+    "workflow": {
+      "activation_evidence_classification": "EVIDENCE_SUPPORTED",
+      "company_id": "ir-teh-d284bae5deddc82f",
+      "confidence": "High",
+      "confidence_score": 0.85,
+      "current_problem": "A repeated lookup, document or approval handoff is plausible; validate the actual volume, owner and baseline before proposing automation.",
+      "current_problem_fa": "تکرار جست‌وجو، ساخت سند یا تأیید محتمل است؛ حجم واقعی، مالک و خط مبنا پیش از پیشنهاد خودکارسازی اعتبارسنجی شود.",
+      "current_process_hypothesis": "Based on the public دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت surface, the first process to validate is the handoff from incoming information to a reviewed business output. Public sources do not establish the internal process or a current inefficiency.",
+      "current_process_hypothesis_fa": "با توجه به سطح عمومی دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت، نخستین فرایند قابل بررسی، تبدیل ورودی به خروجی کسب‌وکاریِ قابل بازبینی است؛ منابع عمومی فرایند داخلی یا وجود ناکارآمدی فعلی را اثبات نمی‌کنند.",
+      "department": "Commercial Director / Sales Operations Manager",
+      "discovery_questions": [
+        "در ماه چند درخواست قیمت وارد می‌شود و از چه کانال‌هایی؟",
+        "امروز برای تطبیق مشخصات، قیمت و موجودی به کدام فایل یا سامانه رجوع می‌شود؟",
+        "کدام قواعد قیمت‌گذاری و حاشیه سود باید کاملاً قطعی و انسانی باقی بماند؟",
+        "برای شروع، پاسخ فنی، پیشنهاد محصول یا پیش‌فاکتور کدام خروجی ارزشمندتر است؟",
+        "یک نمونه استعلام واقعی برای اندازه‌گیری زمان و میزان اصلاحات کدام است؟"
+      ],
+      "implementation_complexity": "Medium",
+      "implementation_risks": [
+        "data quality and permissions require discovery",
+        "human approval remains required",
+        "pilot should use a bounded workflow and approved samples"
+      ],
+      "implementation_risks_fa": [
+        "کیفیت داده و مجوزها باید در کشف بررسی شود",
+        "تأیید انسانی حفظ می‌شود",
+        "پایلوت با گردش محدود و نمونه‌های تأییدشده شروع شود"
+      ],
+      "likely_business_owner": "Commercial Director / Sales Operations Manager",
+      "measurable_KPIs": [
+        "quote turnaround time",
+        "RFQs handled per salesperson",
+        "correction rate",
+        "follow-up completion"
+      ],
+      "measurable_KPIs_fa": [
+        "زمان پاسخ به استعلام",
+        "تعداد استعلام قابل پردازش برای هر کارشناس",
+        "نرخ اصلاح پیشنهاد",
+        "تکمیل پیگیری"
+      ],
+      "primary_users": "Sales operations, product specialists and commercial management",
+      "primary_users_fa": "فروش، بازرگانی و کارشناسان فنی محصول",
+      "proposed_luma_solution": "A controlled intake workspace that structures incoming requests, matches them against the approved product/specification master, and prepares an explainable draft response for human approval.",
+      "proposed_luma_solution_fa": "یک میزکار کنترل‌شده برای ساختاردهی درخواست‌های ورودی، تطبیق آن‌ها با مرجع تأییدشده محصولات و مشخصات، و آماده‌سازی پیش‌نویس پاسخ برای تأیید انسانی.",
+      "required_data": [
+        "RFQs, product/SKU master, specifications, price lists, stock snapshots, historical quotes and approval rules"
+      ],
+      "required_data_fa": [
+        "استعلام‌ها، مرجع محصول و SKU، مشخصات فنی، فهرست قیمت، تصویر موجودی، پیشنهادهای قبلی و قواعد تأیید"
+      ],
+      "required_integrations": [
+        "Approved email/form intake and exports or APIs from ERP, CRM or accounting systems if available"
+      ],
+      "required_integrations_fa": [
+        "ورودی ایمیل/فرم و در صورت وجود خروجی یا API سامانه‌های ERP، CRM یا حسابداری"
+      ],
+      "source_urls": [
+        "https://trading-milad.com/",
+        "https://trading-milad.com/about-us/",
+        "https://trading-milad.com/contact-us/",
+        "https://trading-milad.com/shop/"
+      ],
+      "supporting_evidence": [
+        {
+          "claim": "The public page titled 'شرکت بازرگانی میلاد | تولید کننده انواع محصولات صنایع سیمان' exposes product/catalog information, a contact or order entry point.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "ود ادامه میدهد درباره ما بیشتر بخوانید محصولات مهمترین محصولات ما اطلاعات بیشتر لنس و سر نازل اسپری آب کولینگ تاور برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر نازل مازوت مشعل برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر سنسور ویبره(ارتعاش) برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر صفحه برش استیل بر ماف برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر صفحه برش استیل بر مولیتال برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر نازل و دیسک‌های استیل صنعتی برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر نازل مشعل کلساینر برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر نازل نسوز شوک بلاستر 0 برای استعلام قیمت و خرید ",
+          "source_family": "other_public",
+          "source_title": "شرکت بازرگانی میلاد | تولید کننده انواع محصولات صنایع سیمان",
+          "source_url": "https://trading-milad.com/"
+        },
+        {
+          "claim": "The public page titled 'درباره ما - شرکت بازرگانی میلاد' exposes product/catalog information, service or maintenance information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "۱۶ شماره تماس ۰۲۱-۲۲۳۴۳۰۴۷ آدرس شرکت سعادت آباد سرو غربی، خیابان صدف، پلاک۱۵ واحد ۱۱ درخواست مشاوره شرکت بازرگانی میلاد محصولات وبلاگ چند رسانه ای گالری تصاویر گالری ویدیوها درباره ما ارتباط با ما شرکت بازرگانی میلاد محصولات وبلاگ چند رسانه ای گالری تصاویر گالری ویدیوها درباره ما ارتباط با ما بیش از 10 سال ما به شرکت ها کمک می کنیم تا به اهداف مالی و برندسازی خود برسند. مکس بیز یک آژانس مشاوره ارزش محور است. گالری ارتباط با ما 02144554455 ایران ، تهران بزرگ maxbizz@mail.com Twitter Facebook-f Pinterest-p Instagram درباره ما درباره شرکت بازرگانی میلاد شرکت بازرگانی میلاد .تامین کننده و تولید کننده انواع محصولات صنایع سیمان از دپارتمان سنگ شکن ",
+          "source_family": "other_public",
+          "source_title": "درباره ما - شرکت بازرگانی میلاد",
+          "source_url": "https://trading-milad.com/about-us/"
+        },
+        {
+          "claim": "The public page titled 'ارتباط با ما - شرکت بازرگانی میلاد' exposes product/catalog information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "۱۶ شماره تماس ۰۲۱-۲۲۳۴۳۰۴۷ آدرس شرکت سعادت آباد سرو غربی، خیابان صدف، پلاک۱۵ واحد ۱۱ درخواست مشاوره شرکت بازرگانی میلاد محصولات وبلاگ چند رسانه ای گالری تصاویر گالری ویدیوها درباره ما ارتباط با ما شرکت بازرگانی میلاد محصولات وبلاگ چند رسانه ای گالری تصاویر گالری ویدیوها درباره ما ارتباط با ما بیش از 10 سال ما به شرکت ها کمک می کنیم تا به اهداف مالی و برندسازی خود برسند. مکس بیز یک آژانس مشاوره ارزش محور است. گالری ارتباط با ما 02144554455 ایران ، تهران بزرگ maxbizz@mail.com Twitter Facebook-f Pinterest-p Instagram ارتباط با ما اطلاعات تماس تماس با ما شرکت بازرگانی میلاد همواره پاسخگوی شما عزیزان می باشد، از طریق راه های زیر و یا ارسال فرم تما",
+          "source_family": "other_public",
+          "source_title": "ارتباط با ما - شرکت بازرگانی میلاد",
+          "source_url": "https://trading-milad.com/contact-us/"
+        },
+        {
+          "claim": "The public page titled 'محصولات - شرکت بازرگانی میلاد' exposes product/catalog information, a contact or order entry point.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "ازی بر اساس هزینه: کم به زیاد مرتب سازی بر اساس هزینه: زیاد به کم اطلاعات بیشتر لنس و سر نازل اسپری آب کولینگ تاور برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر نازل مازوت مشعل برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر سنسور ویبره(ارتعاش) برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر صفحه برش استیل بر ماف برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر صفحه برش استیل بر مولیتال برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر نازل و دیسک‌های استیل صنعتی برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر نازل مشعل کلساینر برای استعلام قیمت و خرید تماس بگیرید اطلاعات بیشتر نازل نسوز شوک بلاستر 0 برای استعلام قیمت و خرید ",
+          "source_family": "other_public",
+          "source_title": "محصولات - شرکت بازرگانی میلاد",
+          "source_url": "https://trading-milad.com/shop/"
+        }
+      ],
+      "workflow_evidence_classification": "EVIDENCE_SUPPORTED",
+      "workflow_family": "rfq_quotation",
+      "workflow_id": "wf-1e5260f3f7ca4767",
+      "workflow_name": "RFQ intake, product matching and draft quotation",
+      "workflow_name_fa": "دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت"
+    }
   },
   "screenshots": [
     {
@@ -185,6 +461,62 @@
       "source_title": "درباره ما - شرکت بازرگانی میلاد",
       "source_type": "commercial_audit",
       "source_url": "https://trading-milad.com/about-us/"
+    },
+    {
+      "captured_at": "2026-09-02T06:38:25Z",
+      "company_id": "ir-teh-d284bae5deddc82f",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "شرکت بازرگانی میلاد | تولید کننده انواع محصولات صنایع سیمان ساعت کاری شنبه تا پنجشنبه ، ساعت ۸-۱۶ شماره تماس ۰۲۱-۲۲۳۴۳۰۴۷ آدرس شرکت سعادت آباد سرو غربی، خیابان صدف، پلاک۱۵ واحد ۱۱ درخواست مشاوره شرکت بازرگانی میلاد محصولات وبلاگ چند رسانه ای گالری تصاویر گالری ویدیوها درباره ما ارتباط با ما شرکت بازرگانی میلاد محصولات وبلاگ چند رسانه ای گالری تصاویر گالری ویدیوها درباره ما ارتباط با ما بیش از 10 سال ما به شرکت ها کمک می کنیم تا به اهداف مالی و برندسازی خود برسند. مکس بیز یک آژانس مشاوره ارزش محور است. گالری ارتباط با ما 02144554455 ایران ، تهران بزرگ maxbizz@mail.com Twitter Facebook-f Pinterest-p Instagram بازرگانی میلاد ما یک شرکت بازرگانی در زمینه تهیه و تامین ،ساخت و تولید قطعات صنایع سی",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-497c8cb35074d586",
+      "source_quality": "public_page",
+      "source_title": "شرکت بازرگانی میلاد | تولید کننده انواع محصولات صنایع سیمان",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://trading-milad.com/"
+    },
+    {
+      "captured_at": "2026-09-02T06:38:25Z",
+      "company_id": "ir-teh-d284bae5deddc82f",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "درباره ما - شرکت بازرگانی میلاد ساعت کاری شنبه تا پنجشنبه ، ساعت ۸-۱۶ شماره تماس ۰۲۱-۲۲۳۴۳۰۴۷ آدرس شرکت سعادت آباد سرو غربی، خیابان صدف، پلاک۱۵ واحد ۱۱ درخواست مشاوره شرکت بازرگانی میلاد محصولات وبلاگ چند رسانه ای گالری تصاویر گالری ویدیوها درباره ما ارتباط با ما شرکت بازرگانی میلاد محصولات وبلاگ چند رسانه ای گالری تصاویر گالری ویدیوها درباره ما ارتباط با ما بیش از 10 سال ما به شرکت ها کمک می کنیم تا به اهداف مالی و برندسازی خود برسند. مکس بیز یک آژانس مشاوره ارزش محور است. گالری ارتباط با ما 02144554455 ایران ، تهران بزرگ maxbizz@mail.com Twitter Facebook-f Pinterest-p Instagram درباره ما درباره شرکت بازرگانی میلاد شرکت بازرگانی میلاد .تامین کننده و تولید کننده انواع محصولات صنایع سیمان از ",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-de38f24ed8c1fd35",
+      "source_quality": "public_page",
+      "source_title": "درباره ما - شرکت بازرگانی میلاد",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://trading-milad.com/about-us/"
+    },
+    {
+      "captured_at": "2026-09-02T06:38:25Z",
+      "company_id": "ir-teh-d284bae5deddc82f",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "ارتباط با ما - شرکت بازرگانی میلاد ساعت کاری شنبه تا پنجشنبه ، ساعت ۸-۱۶ شماره تماس ۰۲۱-۲۲۳۴۳۰۴۷ آدرس شرکت سعادت آباد سرو غربی، خیابان صدف، پلاک۱۵ واحد ۱۱ درخواست مشاوره شرکت بازرگانی میلاد محصولات وبلاگ چند رسانه ای گالری تصاویر گالری ویدیوها درباره ما ارتباط با ما شرکت بازرگانی میلاد محصولات وبلاگ چند رسانه ای گالری تصاویر گالری ویدیوها درباره ما ارتباط با ما بیش از 10 سال ما به شرکت ها کمک می کنیم تا به اهداف مالی و برندسازی خود برسند. مکس بیز یک آژانس مشاوره ارزش محور است. گالری ارتباط با ما 02144554455 ایران ، تهران بزرگ maxbizz@mail.com Twitter Facebook-f Pinterest-p Instagram ارتباط با ما اطلاعات تماس تماس با ما شرکت بازرگانی میلاد همواره پاسخگوی شما عزیزان می باشد، از طریق راه های زی",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-e86b70d78eda29ae",
+      "source_quality": "public_page",
+      "source_title": "ارتباط با ما - شرکت بازرگانی میلاد",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://trading-milad.com/contact-us/"
+    },
+    {
+      "captured_at": "2026-09-02T06:38:25Z",
+      "company_id": "ir-teh-d284bae5deddc82f",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "محصولات - شرکت بازرگانی میلاد ساعت کاری شنبه تا پنجشنبه ، ساعت ۸-۱۶ شماره تماس ۰۲۱-۲۲۳۴۳۰۴۷ آدرس شرکت سعادت آباد سرو غربی، خیابان صدف، پلاک۱۵ واحد ۱۱ درخواست مشاوره شرکت بازرگانی میلاد محصولات وبلاگ چند رسانه ای گالری تصاویر گالری ویدیوها درباره ما ارتباط با ما شرکت بازرگانی میلاد محصولات وبلاگ چند رسانه ای گالری تصاویر گالری ویدیوها درباره ما ارتباط با ما بیش از 10 سال ما به شرکت ها کمک می کنیم تا به اهداف مالی و برندسازی خود برسند. مکس بیز یک آژانس مشاوره ارزش محور است. گالری ارتباط با ما 02144554455 ایران ، تهران بزرگ maxbizz@mail.com Twitter Facebook-f Pinterest-p Instagram محصولات نمایش 1–9 از 16 نتیجه Sorted by latest مرتب سازی بر اساس محبوبیت مرتب سازی بر اساس میانگین رتبه مرتب سازی ب",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-9ab9f58c3e4a5174",
+      "source_quality": "public_page",
+      "source_title": "محصولات - شرکت بازرگانی میلاد",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://trading-milad.com/shop/"
     }
   ]
 }

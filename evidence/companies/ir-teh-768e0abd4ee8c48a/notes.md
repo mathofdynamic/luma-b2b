@@ -29,3 +29,17 @@ Audit fetch notes:
 - SOURCE_ERROR: https://html.duckduckgo.com/html/?q=%22%D8%AA%D8%A7%D9%85%DB%8C%D9%86+%D9%81%D9%88%D9%84%D8%A7%D8%AF+%D8%B4%D8%A7%D9%87%D8%A7%D9%86%22+%D8%AA%D9%87%D8%B1%D8%A7%D9%86+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa: HTTPError: HTTP Error 403: Forbidden
 - SOURCE_ERROR: https://html.duckduckgo.com/html/?q=%22https+fooladshahan.com%22+Tehran+Iran+company&kl=ir-fa: HTTPError: HTTP Error 403: Forbidden
 - SOURCE_TIMEOUT: https://html.duckduckgo.com/html/?q=%22%D8%AA%D8%A7%D9%85%DB%8C%D9%86+%D9%81%D9%88%D9%84%D8%A7%D8%AF+%D8%B4%D8%A7%D9%87%D8%A7%D9%86%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa: URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>
+
+## Sales activation
+
+Activation version: 2026.09.sales-activation-v1
+
+Captured pages:
+- `companies/ir-teh-768e0abd4ee8c48a/pages/sales-f03c1687571385e7.txt`
+- `companies/ir-teh-768e0abd4ee8c48a/pages/sales-a5980e4529d0db2c.txt`
+- `companies/ir-teh-768e0abd4ee8c48a/pages/sales-4385f75a4ea39abe.txt`
+- `companies/ir-teh-768e0abd4ee8c48a/pages/sales-cfd46761bde54a39.txt`
+
+Source families added/confirmed: other_public
+Primary workflow classification: STRONG_HYPOTHESIS
+No outreach was sent; no contact form, RFQ, email, WhatsApp or phone call was submitted.

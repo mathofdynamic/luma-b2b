@@ -22,7 +22,7 @@ Run `python3 -m src.utilities.qa --input data/normalized/companies.jsonl` after 
 ## Final QA
 
 Status: **PASSED**
-Generated: 2026-09-02T05:26:31Z
+Generated: 2026-09-02T07:02:19Z
 
 | Check | Result |
 |---|---:|
@@ -36,7 +36,7 @@ Generated: 2026-09-02T05:26:31Z
 
 ### Warnings
 
-- Public-source capture errors retained in company packages: 555
+- Public-source capture errors retained in company packages: 859
 
 ### Critical issues
 

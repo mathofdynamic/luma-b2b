@@ -23,14 +23,294 @@
       "error": "HTTPError: HTTP Error 403: Forbidden",
       "stage": "search_query",
       "url": "https://html.duckduckgo.com/html/?q=%22https+kimyagaran.com%22+Tehran+Iran+company&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "InvalidURL: URL can't contain control characters. '/share?url=avval.ir/profile/6c554/%D8%B4%D8%B1%DA%A9%D8%AA-%DA%A9%DB%8C%D9%85%DB%8C%D8%A7%DA%AF%D8%B1%D8%A7%D9%86-%D8%A7%D9%85%D8%B1%D9%88%D8%B2&text=شرکت کیمیاگران امروز' (found at least ' ')",
+      "stage": "official_page",
+      "url": "https://twitter.com/share?url=avval.ir/profile/6c554/%D8%B4%D8%B1%DA%A9%D8%AA-%DA%A9%DB%8C%D9%85%DB%8C%D8%A7%DA%AF%D8%B1%D8%A7%D9%86-%D8%A7%D9%85%D8%B1%D9%88%D8%B2&text=شرکت کیمیاگران امروز"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "official_page",
+      "url": "https://twitter.com/ketabeavvalir"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 500: ",
+      "stage": "official_page",
+      "url": "https://trustseal.enamad.ir/?id=194990&Code=3Y0m3d1djm9fuqjoC8mT"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "official_page",
+      "url": "https://api.whatsapp.com/send?text=avval.ir/profile/6c554/%D8%B4%D8%B1%DA%A9%D8%AA-%DA%A9%DB%8C%D9%85%DB%8C%D8%A7%DA%AF%D8%B1%D8%A7%D9%86-%D8%A7%D9%85%D8%B1%D9%88%D8%B2"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%DA%A9%DB%8C%D9%85%DB%8C%D8%A7%DA%AF%D8%B1%D8%A7%D9%86+%D8%A7%D9%85%D8%B1%D9%88%D8%B2%22+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%DA%A9%DB%8C%D9%85%DB%8C%D8%A7%DA%AF%D8%B1%D8%A7%D9%86+%D8%A7%D9%85%D8%B1%D9%88%D8%B2%22+%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+%D9%81%D8%B1%D8%B5%D8%AA+%D8%B4%D8%BA%D9%84%DB%8C&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%DA%A9%DB%8C%D9%85%DB%8C%D8%A7%DA%AF%D8%B1%D8%A7%D9%86+%D8%A7%D9%85%D8%B1%D9%88%D8%B2%22+%D9%86%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87+%D8%A7%D9%86%D8%AC%D9%85%D9%86+%D8%B9%D8%B6%D9%88&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%DA%A9%DB%8C%D9%85%DB%8C%D8%A7%DA%AF%D8%B1%D8%A7%D9%86+%D8%A7%D9%85%D8%B1%D9%88%D8%B2%22+%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87+%D8%AA%D9%88%D9%84%DB%8C%D8%AF+%DA%A9%D9%86%D8%AA%D8%B1%D9%84+%DA%A9%DB%8C%D9%81%DB%8C%D8%AA+%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%DA%A9%DB%8C%D9%85%DB%8C%D8%A7%DA%AF%D8%B1%D8%A7%D9%86+%D8%A7%D9%85%D8%B1%D9%88%D8%B2%22+%22api.whatsapp.com%22+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.calendar.iranfair.com'. (_ssl.c:1028)>",
+      "stage": "external_page",
+      "url": "https://www.calendar.iranfair.com/fa/companies/profile/16614/"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 10-16: ordinal not in range(128)",
+      "stage": "external_page",
+      "url": "https://jobvision.ir/blog/استخدام-در-صنایع-شیمیایی-کیمیاگران-ام/"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 21-27: ordinal not in range(128)",
+      "stage": "external_page",
+      "url": "https://jobvision.ir/companies/12794/استخدام-صنایع-شیمیایی-کیمیاگران-امروز"
     }
   ],
-  "generated_at": "2026-09-01T15:27:10Z",
+  "generated_at": "2026-09-02T06:50:55Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
     "proxy": "http://127.0.0.1:1087",
     "visible_browser_launched": false
+  },
+  "sales_activation": {
+    "captured_page_paths": [
+      "companies/ir-teh-3fd9d0c220b495e3/pages/sales-61da1152454ae815.txt",
+      "companies/ir-teh-3fd9d0c220b495e3/pages/sales-b6aa399dcd4f9a3c.txt",
+      "companies/ir-teh-3fd9d0c220b495e3/pages/sales-dc99f8d42b0b9ac2.txt",
+      "companies/ir-teh-3fd9d0c220b495e3/pages/sales-c2c02231fea5770a.txt",
+      "companies/ir-teh-3fd9d0c220b495e3/pages/sales-2d156682155264aa.txt",
+      "companies/ir-teh-3fd9d0c220b495e3/pages/sales-884bc912ff22d400.txt"
+    ],
+    "contacts": {
+      "decision_maker_direct_candidates": [],
+      "decision_maker_search_candidates": [],
+      "economic_buyer_confidence": 0.0,
+      "economic_buyer_name": null,
+      "economic_buyer_role": "Managing Director / CEO",
+      "economic_buyer_source_url": null,
+      "primary_contact_confidence": 0.0,
+      "primary_contact_name": null,
+      "primary_contact_role": "Plant Manager / Operations Director",
+      "primary_contact_source_url": null,
+      "public_corporate_emails": [
+        "info@kimyagaran.com"
+      ],
+      "public_corporate_phones": [
+        "02141769000",
+        "02188757317"
+      ],
+      "public_linkedin_company": null,
+      "public_whatsapp": "https://wa.me/989125700700?text=Kimyagaran_Website",
+      "technical_gatekeeper_confidence": 0.0,
+      "technical_gatekeeper_name": null,
+      "technical_gatekeeper_role": "QA/QC or Production Systems Lead",
+      "technical_gatekeeper_source_url": null
+    },
+    "no_outreach_sent": true,
+    "public_journey": {
+      "entry_points": [
+        "public product/service information or catalog"
+      ],
+      "evidence": [
+        {
+          "claim": "The public page titled 'صفحه اصلی * - کیمیاگران' exposes product/catalog information, factory/production information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "یایی محصولات رسانه سرمایه انسانی مالی و بورس مقالات اخبار تماس با ما درباره ما محصولات کیمیاگران امروز کیمیاگران امروز، تولیدکننده‌ی مواد اولیه شیمیایی و دارویی مشاهده محصولات اخبار مشاهده همه 4 مرداد 1405 6:42 ب.ظ اخبار , امور سهام گزارش تصویری مجمع عمومی عادی سالیانه شکام ۱۴۰۵ 27 تیر 1405 5:43 ب.ظ اخبار گزارش تصویری حضور در سی وسومین نمایشگاه ایران بیوتی 21 تیر 1405 12:09 ق.ظ اخبار دعوت به بازدید از سی و سومین نمایشگاه ایران بیوتی فرمول تعدیل خودکار قیمت دارو 6 تیر 1405 اخبار ثمره همدلی یک خانواده؛ کیمیاگران امروز سه ستاره شد 25 خرداد 1405 اخبار برگزاری آیین گرامی‌داشت سی‌سالگی شرکت صنایع شیمیایی کیمیاگران امروز 26 آذر 1404 اخبار دعوت به با",
+          "source_family": "other_public",
+          "source_title": "صفحه اصلی * - کیمیاگران",
+          "source_url": "https://kimyagaran.com/"
+        },
+        {
+          "claim": "The public page titled 'کاتالوگ محصولات | معرفی محصولات - کیمیاگران' exposes product/catalog information, factory/production information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "شرکت تاریخچه شرکت همکاری با ما همکاری با دانشگاه‌ها دفتر مرکزی: تهران، خیابان سهروردی شمالی، خیابان هویزه غربی پلاک ۱۳۳ کارخانه: اراک، جاده ملایر، خروجی ازنا، ناحیه صنعتی شهید بابایی، خیابان یاس سوم دفتر مرکزی : ۴۱۷۶۹۰۰۰ – ۸۸۷۴۶۵۶۵ (۰۲۱) کارخانه: ۸_۳۸۲۳۲۰۵۴ (۰۸۶) ۸۸۷۴۶۵۶۴ (۰۲۱) [email protected] Copyright @2024 Kimyagaran Emrooz, All rights reserved.",
+          "source_family": "other_public",
+          "source_title": "کاتالوگ محصولات | معرفی محصولات - کیمیاگران",
+          "source_url": "https://kimyagaran.com/%da%a9%d8%a7%d8%aa%d8%a7%d9%84%d9%88%da%af-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-%d9%85%d8%b9%d8%b1%d9%81%db%8c-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/"
+        },
+        {
+          "claim": "The public page titled 'کاربرد محصولات - کیمیاگران' exposes product/catalog information, factory/production information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "(KEPEG)، مونوپروپیلن گلایکول (KEMPG)، پلی سوربات 20،پلی سوربات 60، پلی سوربات 80 صنایع آرایشی بهداشتی آشنایی با محصولات تولید شده توسط شرکت کیمیاگران امروز که در صنایع آرایشی بهداشتی کاربرد دارند. صنایع شوینده در این بخش به معرفی انواع محصولات شیمیایی که در صنایع شوینده به کار برده می شوند، خواهیم پرداخت. رنگ و رزین کاربردهای محصولات شرکت کیمیاگران امروز در صنایع رنگ و رزین مواد مرطوب کننده، ضد یخ، مواد پخش کننده و حلال ها صنایع نساجی در این بخش به معرفی محصولات تولید شده در شرکت صنایع شیمیایی کیمیاگران امروز که در صنایع نساجی کاربرد دارند می پردازیم. برای اطلاع از جزئیات صنایع غذایی در این بخش به معرفی محصولات تولید شده در شرکت صنایع شیمیایی",
+          "source_family": "other_public",
+          "source_title": "کاربرد محصولات - کیمیاگران",
+          "source_url": "https://kimyagaran.com/%da%a9%d8%a7%d8%b1%d8%a8%d8%b1%d8%af-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/"
+        },
+        {
+          "claim": "The public page titled 'محصولات فرموله شده - کیمیاگران' exposes product/catalog information, factory/production information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "شرکت تاریخچه شرکت همکاری با ما همکاری با دانشگاه‌ها دفتر مرکزی: تهران، خیابان سهروردی شمالی، خیابان هویزه غربی پلاک ۱۳۳ کارخانه: اراک، جاده ملایر، خروجی ازنا، ناحیه صنعتی شهید بابایی، خیابان یاس سوم دفتر مرکزی : ۴۱۷۶۹۰۰۰ – ۸۸۷۴۶۵۶۵ (۰۲۱) کارخانه: ۸_۳۸۲۳۲۰۵۴ (۰۸۶) ۸۸۷۴۶۵۶۴ (۰۲۱) [email protected] Copyright @2024 Kimyagaran Emrooz, All rights reserved.",
+          "source_family": "other_public",
+          "source_title": "محصولات فرموله شده - کیمیاگران",
+          "source_url": "https://kimyagaran.com/category/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-%d9%81%d8%b1%d9%85%d9%88%d9%84%d9%87-%d8%b4%d8%af%d9%87/"
+        }
+      ],
+      "intake_channels": [
+        "published corporate email",
+        "published corporate phone",
+        "explicitly published WhatsApp business link"
+      ],
+      "observable_steps": [
+        "Customer reaches شرکت کیمیاگران امروز through public product/service information or catalog.",
+        "Customer uses published corporate email, published corporate phone, explicitly published WhatsApp business link to ask for information or service.",
+        "plant/quality team reviews operational records; the public record does not expose the internal handoffs or approval rules.",
+        "A discovery meeting should validate volume, data sources, ownership and the smallest safe pilot."
+      ],
+      "observable_steps_fa": [
+        "مشتری از طریق public product/service information or catalog به شرکت کیمیاگران امروز می‌رسد.",
+        "مشتری از published corporate email، published corporate phone، explicitly published WhatsApp business link برای دریافت اطلاعات یا خدمت استفاده می‌کند.",
+        "plant/quality team reviews operational records؛ مراحل داخلی و قواعد تأیید از منابع عمومی قابل مشاهده نیست.",
+        "در جلسه کشف، حجم، منابع داده، مالک فرایند و کوچک‌ترین پایلوت امن اعتبارسنجی شود."
+      ]
+    },
+    "source_families_added": [
+      "job_portal",
+      "other_public"
+    ],
+    "version": "2026.09.sales-activation-v1",
+    "workflow": {
+      "activation_evidence_classification": "STRONG_HYPOTHESIS",
+      "company_id": "ir-teh-3fd9d0c220b495e3",
+      "confidence": "Medium",
+      "confidence_score": 0.7,
+      "current_problem": "A repeated lookup, document or approval handoff is plausible; validate the actual volume, owner and baseline before proposing automation.",
+      "current_problem_fa": "تکرار جست‌وجو، ساخت سند یا تأیید محتمل است؛ حجم واقعی، مالک و خط مبنا پیش از پیشنهاد خودکارسازی اعتبارسنجی شود.",
+      "current_process_hypothesis": "Based on the public گزارش تولید، کیفیت و توقفات surface, the first process to validate is the handoff from incoming information to a reviewed business output. Public sources do not establish the internal process or a current inefficiency.",
+      "current_process_hypothesis_fa": "با توجه به سطح عمومی گزارش تولید، کیفیت و توقفات، نخستین فرایند قابل بررسی، تبدیل ورودی به خروجی کسب‌وکاریِ قابل بازبینی است؛ منابع عمومی فرایند داخلی یا وجود ناکارآمدی فعلی را اثبات نمی‌کنند.",
+      "department": "Plant Manager / Operations Director",
+      "discovery_questions": [
+        "گزارش‌های شیفت، کیفیت و توقف امروز در چه قالبی ثبت می‌شوند؟",
+        "کدام استثنا باید همان روز به مدیر تولید یا QA برسد؟",
+        "مرجع نسخه معتبر SOP و دستورالعمل نگهداری کجاست؟",
+        "چه خروجی‌ای برای جلسه روزانه یا هفتگی مدیریت لازم است؟",
+        "یک خط یا محصول کم‌ریسک برای شروع پایلوت کدام است؟"
+      ],
+      "implementation_complexity": "High",
+      "implementation_risks": [
+        "data quality and permissions require discovery",
+        "human approval remains required",
+        "pilot should use a bounded workflow and approved samples"
+      ],
+      "implementation_risks_fa": [
+        "کیفیت داده و مجوزها باید در کشف بررسی شود",
+        "تأیید انسانی حفظ می‌شود",
+        "پایلوت با گردش محدود و نمونه‌های تأییدشده شروع شود"
+      ],
+      "likely_business_owner": "Plant Manager / Operations Director",
+      "measurable_KPIs": [
+        "report completion time",
+        "exception response time",
+        "downtime categorization",
+        "quality-record completeness"
+      ],
+      "measurable_KPIs_fa": [
+        "زمان تکمیل گزارش",
+        "زمان پاسخ به استثنا",
+        "دقت دسته‌بندی توقف",
+        "کامل‌بودن سوابق کیفیت"
+      ],
+      "primary_users": "Plant management, production planning, QA/QC and maintenance teams",
+      "primary_users_fa": "مدیریت کارخانه، برنامه‌ریزی تولید، QA/QC و نگهداری",
+      "proposed_luma_solution": "A controlled reporting layer that normalizes shift, quality and downtime records, surfaces exceptions and links approved SOP or maintenance evidence for review.",
+      "proposed_luma_solution_fa": "یک لایه گزارش‌دهی کنترل‌شده که گزارش شیفت، کیفیت و توقف را استاندارد می‌کند، استثناها را نشان می‌دهد و مستندات تأییدشده SOP یا نگهداری را برای بازبینی پیوند می‌دهد.",
+      "required_data": [
+        "Shift reports, production orders, QC records, downtime logs, SOPs and approved ERP exports"
+      ],
+      "required_data_fa": [
+        "گزارش شیفت، سفارش تولید، سوابق QC، لاگ توقف، SOP و خروجی مجاز ERP"
+      ],
+      "required_integrations": [
+        "Existing files, ERP/MES exports and management reporting; no core-system replacement in the pilot"
+      ],
+      "required_integrations_fa": [
+        "فایل‌های موجود، خروجی ERP/MES و گزارش مدیریت؛ در پایلوت هسته سامانه جایگزین نمی‌شود"
+      ],
+      "source_urls": [
+        "https://kimyagaran.com/",
+        "https://kimyagaran.com/%da%a9%d8%a7%d8%aa%d8%a7%d9%84%d9%88%da%af-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-%d9%85%d8%b9%d8%b1%d9%81%db%8c-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/",
+        "https://kimyagaran.com/%da%a9%d8%a7%d8%b1%d8%a8%d8%b1%d8%af-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/",
+        "https://kimyagaran.com/category/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-%d9%81%d8%b1%d9%85%d9%88%d9%84%d9%87-%d8%b4%d8%af%d9%87/"
+      ],
+      "supporting_evidence": [
+        {
+          "claim": "The public page titled 'صفحه اصلی * - کیمیاگران' exposes product/catalog information, factory/production information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "یایی محصولات رسانه سرمایه انسانی مالی و بورس مقالات اخبار تماس با ما درباره ما محصولات کیمیاگران امروز کیمیاگران امروز، تولیدکننده‌ی مواد اولیه شیمیایی و دارویی مشاهده محصولات اخبار مشاهده همه 4 مرداد 1405 6:42 ب.ظ اخبار , امور سهام گزارش تصویری مجمع عمومی عادی سالیانه شکام ۱۴۰۵ 27 تیر 1405 5:43 ب.ظ اخبار گزارش تصویری حضور در سی وسومین نمایشگاه ایران بیوتی 21 تیر 1405 12:09 ق.ظ اخبار دعوت به بازدید از سی و سومین نمایشگاه ایران بیوتی فرمول تعدیل خودکار قیمت دارو 6 تیر 1405 اخبار ثمره همدلی یک خانواده؛ کیمیاگران امروز سه ستاره شد 25 خرداد 1405 اخبار برگزاری آیین گرامی‌داشت سی‌سالگی شرکت صنایع شیمیایی کیمیاگران امروز 26 آذر 1404 اخبار دعوت به با",
+          "source_family": "other_public",
+          "source_title": "صفحه اصلی * - کیمیاگران",
+          "source_url": "https://kimyagaran.com/"
+        },
+        {
+          "claim": "The public page titled 'کاتالوگ محصولات | معرفی محصولات - کیمیاگران' exposes product/catalog information, factory/production information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "شرکت تاریخچه شرکت همکاری با ما همکاری با دانشگاه‌ها دفتر مرکزی: تهران، خیابان سهروردی شمالی، خیابان هویزه غربی پلاک ۱۳۳ کارخانه: اراک، جاده ملایر، خروجی ازنا، ناحیه صنعتی شهید بابایی، خیابان یاس سوم دفتر مرکزی : ۴۱۷۶۹۰۰۰ – ۸۸۷۴۶۵۶۵ (۰۲۱) کارخانه: ۸_۳۸۲۳۲۰۵۴ (۰۸۶) ۸۸۷۴۶۵۶۴ (۰۲۱) [email protected] Copyright @2024 Kimyagaran Emrooz, All rights reserved.",
+          "source_family": "other_public",
+          "source_title": "کاتالوگ محصولات | معرفی محصولات - کیمیاگران",
+          "source_url": "https://kimyagaran.com/%da%a9%d8%a7%d8%aa%d8%a7%d9%84%d9%88%da%af-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-%d9%85%d8%b9%d8%b1%d9%81%db%8c-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/"
+        },
+        {
+          "claim": "The public page titled 'کاربرد محصولات - کیمیاگران' exposes product/catalog information, factory/production information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "(KEPEG)، مونوپروپیلن گلایکول (KEMPG)، پلی سوربات 20،پلی سوربات 60، پلی سوربات 80 صنایع آرایشی بهداشتی آشنایی با محصولات تولید شده توسط شرکت کیمیاگران امروز که در صنایع آرایشی بهداشتی کاربرد دارند. صنایع شوینده در این بخش به معرفی انواع محصولات شیمیایی که در صنایع شوینده به کار برده می شوند، خواهیم پرداخت. رنگ و رزین کاربردهای محصولات شرکت کیمیاگران امروز در صنایع رنگ و رزین مواد مرطوب کننده، ضد یخ، مواد پخش کننده و حلال ها صنایع نساجی در این بخش به معرفی محصولات تولید شده در شرکت صنایع شیمیایی کیمیاگران امروز که در صنایع نساجی کاربرد دارند می پردازیم. برای اطلاع از جزئیات صنایع غذایی در این بخش به معرفی محصولات تولید شده در شرکت صنایع شیمیایی",
+          "source_family": "other_public",
+          "source_title": "کاربرد محصولات - کیمیاگران",
+          "source_url": "https://kimyagaran.com/%da%a9%d8%a7%d8%b1%d8%a8%d8%b1%d8%af-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/"
+        },
+        {
+          "claim": "The public page titled 'محصولات فرموله شده - کیمیاگران' exposes product/catalog information, factory/production information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "شرکت تاریخچه شرکت همکاری با ما همکاری با دانشگاه‌ها دفتر مرکزی: تهران، خیابان سهروردی شمالی، خیابان هویزه غربی پلاک ۱۳۳ کارخانه: اراک، جاده ملایر، خروجی ازنا، ناحیه صنعتی شهید بابایی، خیابان یاس سوم دفتر مرکزی : ۴۱۷۶۹۰۰۰ – ۸۸۷۴۶۵۶۵ (۰۲۱) کارخانه: ۸_۳۸۲۳۲۰۵۴ (۰۸۶) ۸۸۷۴۶۵۶۴ (۰۲۱) [email protected] Copyright @2024 Kimyagaran Emrooz, All rights reserved.",
+          "source_family": "other_public",
+          "source_title": "محصولات فرموله شده - کیمیاگران",
+          "source_url": "https://kimyagaran.com/category/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-%d9%81%d8%b1%d9%85%d9%88%d9%84%d9%87-%d8%b4%d8%af%d9%87/"
+        }
+      ],
+      "workflow_evidence_classification": "STRONG_HYPOTHESIS",
+      "workflow_family": "production_quality_reporting",
+      "workflow_id": "wf-8e686b3f1e004140",
+      "workflow_name": "Production, quality and downtime reporting",
+      "workflow_name_fa": "گزارش تولید، کیفیت و توقفات"
+    }
   },
   "screenshots": [
     {
@@ -259,6 +539,90 @@
       "source_title": "DuckDuckGo",
       "source_type": "commercial_audit",
       "source_url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%DA%A9%DB%8C%D9%85%DB%8C%D8%A7%DA%AF%D8%B1%D8%A7%D9%86+%D8%A7%D9%85%D8%B1%D9%88%D8%B2%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "captured_at": "2026-09-02T06:16:55Z",
+      "company_id": "ir-teh-3fd9d0c220b495e3",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "صفحه اصلی * - کیمیاگران صفحه اصلی محصولات کاربرد محصولات دسته بندی شیمیایی اتوکسیلات ها آمین های چرب اتوکسیله استر های اتوکسیله استرهای غیر اتوکسیله اسید های چرب اتوکسیله الکل های اتوکسیله روغن کرچک اتوکسیله روغن کرچک هیدروژنه اتوکسیله سوربیتان استر های اتوکسیله گلیسرین های اتوکسیله لانولین های اتوکسیله نونیل فنول های اتوکسیله اتیلن گلایکول ها پروپیلن گلایکول ها گرید صنعتی گرید دارویی پلی اتیلن گلیکول ها گرید صنعتی گرید دارویی گلایکول اترها محصولات فرموله شده مواد موثره دارویی کاتالوگ محصولات کیمیاگران امروز درباره ما تاریخچه رسانه هویت بصری تیم راهبری سرمایه انسانی تماس با ما تماس با ما همکاری با ما شکایات مشتریان اخبار گواهینامه ها تحقیق و توسعه مقالات تحقیق و توسعه همکاری با دانشگاه شکام ",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-4c62f1471b2abf48",
+      "source_quality": "public_page",
+      "source_title": "صفحه اصلی * - کیمیاگران",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://kimyagaran.com/"
+    },
+    {
+      "captured_at": "2026-09-02T06:35:14Z",
+      "company_id": "ir-teh-3fd9d0c220b495e3",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "کاتالوگ محصولات | معرفی محصولات - کیمیاگران صفحه اصلی محصولات کاربرد محصولات دسته بندی شیمیایی اتوکسیلات ها آمین های چرب اتوکسیله استر های اتوکسیله استرهای غیر اتوکسیله اسید های چرب اتوکسیله الکل های اتوکسیله روغن کرچک اتوکسیله روغن کرچک هیدروژنه اتوکسیله سوربیتان استر های اتوکسیله گلیسرین های اتوکسیله لانولین های اتوکسیله نونیل فنول های اتوکسیله اتیلن گلایکول ها پروپیلن گلایکول ها گرید صنعتی گرید دارویی پلی اتیلن گلیکول ها گرید صنعتی گرید دارویی گلایکول اترها محصولات فرموله شده مواد موثره دارویی کاتالوگ محصولات کیمیاگران امروز درباره ما تاریخچه رسانه هویت بصری تیم راهبری سرمایه انسانی تماس با ما تماس با ما همکاری با ما شکایات مشتریان اخبار گواهینامه ها تحقیق و توسعه مقالات تحقیق و توسعه همک",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-83cad1983eae0a45",
+      "source_quality": "public_page",
+      "source_title": "کاتالوگ محصولات | معرفی محصولات - کیمیاگران",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://kimyagaran.com/%da%a9%d8%a7%d8%aa%d8%a7%d9%84%d9%88%da%af-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-%d9%85%d8%b9%d8%b1%d9%81%db%8c-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/"
+    },
+    {
+      "captured_at": "2026-09-02T06:35:14Z",
+      "company_id": "ir-teh-3fd9d0c220b495e3",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "کاربرد محصولات - کیمیاگران صفحه اصلی محصولات کاربرد محصولات دسته بندی شیمیایی اتوکسیلات ها آمین های چرب اتوکسیله استر های اتوکسیله استرهای غیر اتوکسیله اسید های چرب اتوکسیله الکل های اتوکسیله روغن کرچک اتوکسیله روغن کرچک هیدروژنه اتوکسیله سوربیتان استر های اتوکسیله گلیسرین های اتوکسیله لانولین های اتوکسیله نونیل فنول های اتوکسیله اتیلن گلایکول ها پروپیلن گلایکول ها گرید صنعتی گرید دارویی پلی اتیلن گلیکول ها گرید صنعتی گرید دارویی گلایکول اترها محصولات فرموله شده مواد موثره دارویی کاتالوگ محصولات کیمیاگران امروز درباره ما تاریخچه رسانه هویت بصری تیم راهبری سرمایه انسانی تماس با ما تماس با ما همکاری با ما شکایات مشتریان اخبار گواهینامه ها تحقیق و توسعه مقالات تحقیق و توسعه همکاری با دانشگاه شک",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-af09c1defada0551",
+      "source_quality": "public_page",
+      "source_title": "کاربرد محصولات - کیمیاگران",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://kimyagaran.com/%da%a9%d8%a7%d8%b1%d8%a8%d8%b1%d8%af-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/"
+    },
+    {
+      "captured_at": "2026-09-02T06:35:14Z",
+      "company_id": "ir-teh-3fd9d0c220b495e3",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "محصولات فرموله شده - کیمیاگران صفحه اصلی محصولات کاربرد محصولات دسته بندی شیمیایی اتوکسیلات ها آمین های چرب اتوکسیله استر های اتوکسیله استرهای غیر اتوکسیله اسید های چرب اتوکسیله الکل های اتوکسیله روغن کرچک اتوکسیله روغن کرچک هیدروژنه اتوکسیله سوربیتان استر های اتوکسیله گلیسرین های اتوکسیله لانولین های اتوکسیله نونیل فنول های اتوکسیله اتیلن گلایکول ها پروپیلن گلایکول ها گرید صنعتی گرید دارویی پلی اتیلن گلیکول ها گرید صنعتی گرید دارویی گلایکول اترها محصولات فرموله شده مواد موثره دارویی کاتالوگ محصولات کیمیاگران امروز درباره ما تاریخچه رسانه هویت بصری تیم راهبری سرمایه انسانی تماس با ما تماس با ما همکاری با ما شکایات مشتریان اخبار گواهینامه ها تحقیق و توسعه مقالات تحقیق و توسعه همکاری با دانشگا",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-426b73ef8bd860bd",
+      "source_quality": "public_page",
+      "source_title": "محصولات فرموله شده - کیمیاگران",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://kimyagaran.com/category/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-%d9%81%d8%b1%d9%85%d9%88%d9%84%d9%87-%d8%b4%d8%af%d9%87/"
+    },
+    {
+      "captured_at": "2026-09-02T06:35:21Z",
+      "company_id": "ir-teh-3fd9d0c220b495e3",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "استخدام در شرکت شیمیایی کیمیاگران امروز : مشاهده آخرین فرصت‌های شغلی | ایران‌تلنت فرصت‌های شغلی رزومه ساز امتیاز شرکت‌ها بخش کارفرمایان ورود / ثبت‌نام محصولات ایران‌تلنت کاردیکس اتوماسیون جذب ایران‌تلنت ورود/ثبت‌نام English شرکت شیمیایی کیمیاگران امروز 1 درباره شرکت (0) فرصت‌های شغلی (11) نظرات فرصت‌های شغلی شرکت شیمیایی کیمیاگران امروز منقضی شده کارشناس برنامه‌ریزی تولید شرکت شیمیایی کیمیاگران امروز تهران بیش از یک ماه منقضی شده کارشناس حسابداری صنعتی شرکت شیمیایی کیمیاگران امروز تهران بیش از یک ماه منقضی شده کارشناس ارتباطات و روابط عمومی شرکت شیمیایی کیمیاگران امروز تهران بیش از یک ماه منقضی شده کارشناس فناوری اطلاعات شرکت شیمیایی کیمیاگران امروز تهران بیش از یک ماه منقضی شده مدیر تأمین م",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "job_portal",
+      "source_id": "src-a7495d3b362c6b9e",
+      "source_quality": "public_page",
+      "source_title": "استخدام در شرکت شیمیایی کیمیاگران امروز : مشاهده آخرین فرصت‌های شغلی | ایران‌تلنت",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://www.irantalent.com/company/kimyagaran-emrooz/aef9d22b-006a-4ca4-b495-84da5cb54137/job-positions"
+    },
+    {
+      "captured_at": "2026-09-02T06:35:21Z",
+      "company_id": "ir-teh-3fd9d0c220b495e3",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "درباره شرکت شرکت شیمیایی کیمیاگران امروز | ایران‌تلنت فرصت‌های شغلی رزومه ساز امتیاز شرکت‌ها بخش کارفرمایان ورود / ثبت‌نام محصولات ایران‌تلنت کاردیکس اتوماسیون جذب ایران‌تلنت ورود/ثبت‌نام English شرکت شیمیایی کیمیاگران امروز 1 درباره شرکت (0) فرصت‌های شغلی (11) نظرات درباره شرکت شرکت شیمیایی کیمیاگران امروز وبسایت: https://kimyagaran.com/ مدیر عامل: حمیدرضا علیپور سال تأسیس: 1993 صنعت: تولید و فرآیند تعداد کارمندان: 100-499کارمند موقعیت: تهران, تهران آدرس: تهران-سهروردی موقعیت شرکت شیمیایی کیمیاگران امروز بر روی نقشه مشخص نشده‌است. تصاویر و ویدیوهای شرکت درباره شرکت: شرکت صنایع شیمیایی کیمیاگران امروز به عنوان شرکتی پیشرو در تولید محصولات اتوکسیله و پروپوکسیله در منطقه خاورمیانه، فعالیت خود ",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "job_portal",
+      "source_id": "src-1b82ddb77b7d7a24",
+      "source_quality": "public_page",
+      "source_title": "درباره شرکت شرکت شیمیایی کیمیاگران امروز | ایران‌تلنت",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://www.irantalent.com/company/kimyagaran-emrooz/aef9d22b-006a-4ca4-b495-84da5cb54137/overview"
     }
   ]
 }

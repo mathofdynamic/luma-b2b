@@ -29,14 +29,297 @@
       "error": "HTTPError: HTTP Error 403: Forbidden",
       "stage": "search_query",
       "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%AA%DB%8C%D9%85%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "InvalidURL: URL can't contain control characters. '/share?url=avval.ir/profile/f4475/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%AA%DB%8C%D9%85&text=شرکت تیم' (found at least ' ')",
+      "stage": "official_page",
+      "url": "https://twitter.com/share?url=avval.ir/profile/f4475/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%AA%DB%8C%D9%85&text=شرکت تیم"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "official_page",
+      "url": "https://twitter.com/ketabeavvalir"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 500: ",
+      "stage": "official_page",
+      "url": "https://trustseal.enamad.ir/?id=194990&Code=3Y0m3d1djm9fuqjoC8mT"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "official_page",
+      "url": "https://api.whatsapp.com/send?text=avval.ir/profile/f4475/%D8%B4%D8%B1%DA%A9%D8%AA-%D8%AA%DB%8C%D9%85"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%AA%DB%8C%D9%85%22+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%AA%DB%8C%D9%85%22+%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+%D9%81%D8%B1%D8%B5%D8%AA+%D8%B4%D8%BA%D9%84%DB%8C&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%AA%DB%8C%D9%85%22+%D9%86%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87+%D8%A7%D9%86%D8%AC%D9%85%D9%86+%D8%B9%D8%B6%D9%88&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%AA%DB%8C%D9%85%22+%D8%AA%D8%B9%D9%85%DB%8C%D8%B1%D8%A7%D8%AA+%D9%86%DA%AF%D9%87%D8%AF%D8%A7%D8%B1%DB%8C+%D8%AE%D8%AF%D9%85%D8%A7%D8%AA+%D9%BE%D8%B1%D9%88%DA%98%D9%87+%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "stage": "search_query",
+      "url": "https://html.duckduckgo.com/html/?q=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%AA%DB%8C%D9%85%22+%22api.whatsapp.com%22+%D8%B4%D8%B1%DA%A9%D8%AA&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 500: INKApi Error",
+      "stage": "search_query",
+      "url": "https://search.yahoo.com/search?p=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%AA%DB%8C%D9%85%22+%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+%D9%81%D8%B1%D8%B5%D8%AA+%D8%B4%D8%BA%D9%84%DB%8C&vl=lang_fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 500: INKApi Error",
+      "stage": "search_query",
+      "url": "https://search.yahoo.com/search?p=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%AA%DB%8C%D9%85%22+%D8%AA%D8%B9%D9%85%DB%8C%D8%B1%D8%A7%D8%AA+%D9%86%DA%AF%D9%87%D8%AF%D8%A7%D8%B1%DB%8C+%D8%AE%D8%AF%D9%85%D8%A7%D8%AA+%D9%BE%D8%B1%D9%88%DA%98%D9%87+%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85&vl=lang_fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 500: INKApi Error",
+      "stage": "search_query",
+      "url": "https://search.yahoo.com/search?p=%22%D8%B4%D8%B1%DA%A9%D8%AA+%D8%AA%DB%8C%D9%85%22+%22teampipeline.com%22+%D8%B4%D8%B1%DA%A9%D8%AA&vl=lang_fa"
     }
   ],
-  "generated_at": "2026-09-01T15:27:12Z",
+  "generated_at": "2026-09-02T06:51:43Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
     "proxy": "http://127.0.0.1:1087",
     "visible_browser_launched": false
+  },
+  "sales_activation": {
+    "captured_page_paths": [
+      "companies/ir-teh-565c0d935d3681f6/pages/sales-ad3233c91fc98410.txt",
+      "companies/ir-teh-565c0d935d3681f6/pages/sales-7c7a121fd67ae536.txt",
+      "companies/ir-teh-565c0d935d3681f6/pages/sales-f14d9e69e4adbe72.txt",
+      "companies/ir-teh-565c0d935d3681f6/pages/sales-952e8402c357133f.txt"
+    ],
+    "contacts": {
+      "decision_maker_direct_candidates": [],
+      "decision_maker_search_candidates": [],
+      "economic_buyer_confidence": 0.0,
+      "economic_buyer_name": null,
+      "economic_buyer_role": "Managing Director / CEO",
+      "economic_buyer_source_url": null,
+      "primary_contact_confidence": 0.0,
+      "primary_contact_name": null,
+      "primary_contact_role": "Service Director / Maintenance Manager",
+      "primary_contact_source_url": null,
+      "public_corporate_emails": [
+        "dm@teampipeline.com",
+        "dm@teampipeline.ir",
+        "info@teampipeline.com",
+        "info@teampipeline.ir",
+        "pm@teampipeline.com",
+        "pm@teampipeline.ir"
+      ],
+      "public_corporate_phones": [
+        "02188531500",
+        "02188531501"
+      ],
+      "public_linkedin_company": null,
+      "public_whatsapp": null,
+      "technical_gatekeeper_confidence": 0.0,
+      "technical_gatekeeper_name": null,
+      "technical_gatekeeper_role": "Engineering or Service Systems Lead",
+      "technical_gatekeeper_source_url": null
+    },
+    "no_outreach_sent": true,
+    "public_journey": {
+      "entry_points": [
+        "public product/service information or catalog",
+        "public project/client information",
+        "public service/maintenance information"
+      ],
+      "evidence": [
+        {
+          "claim": "The public page titled 'تماس با ما | تیم تعمیرات و نگهداری خطوط لوله خاورمیانه' exposes product/catalog information, service or maintenance information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "تماس با ما | تیم تعمیرات و نگهداری خطوط لوله خاورمیانه پرش به محتوا فارسی العربية English فارسی العربية English Search فعالیت های اجرائی تجهیزات تجهیزات پیگرانی باند لاک لانچر و رسیور پیگ پیگ سیگنالر ردیاب پیگ تجهیزات رفع نشت کامپاند ( مواد رفع نشت ) غلاف رفع نشت ( Clamps ) تجهیزات ایمنی و ابزار تزریق تجهیزات هات تپ ماشین هات تپ ولو هات تپ فیتینگ هات تپ استاپر هات تپ خدمات پیگرانی رفع نشت و نشت یابی هات تپ انجماد سیال خطوط لوله تعویض پوشش خط لوله تعمير Cold Box و LNG Tank سرهم بندی اتصالات ( Bolt Tightening ) شستشوی شیمیایی تعمیر مبدل حرارتی برش سرد خطوط ( Cold Cutting‌ ) منابع کاتالوگ محصولات مطالعات میدانی مقالات ویدئو ها اخبار آموزش ها شرک",
+          "source_family": "other_public",
+          "source_title": "تماس با ما | تیم تعمیرات و نگهداری خطوط لوله خاورمیانه",
+          "source_url": "https://teampipeline.com/%d8%aa%d9%85%d8%a7%d8%b3-%d8%a8%d8%a7-%d9%85%d8%a7/"
+        },
+        {
+          "claim": "The public page titled 'شرکت تیم تعمیرات و نگهداری خطوط لوله خاورمیانه | پیگ رانی، رفع نشت، هات تپ، پایپ فیریزینگ، تعویض پوشش' exposes product/catalog information, service or maintenance information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "شرکت تیم تعمیرات و نگهداری خطوط لوله خاورمیانه | پیگ رانی، رفع نشت، هات تپ، پایپ فیریزینگ، تعویض پوشش پرش به محتوا فارسی العربية English فارسی العربية English Search فعالیت های اجرائی تجهیزات تجهیزات پیگرانی باند لاک لانچر و رسیور پیگ پیگ سیگنالر ردیاب پیگ تجهیزات رفع نشت کامپاند ( مواد رفع نشت ) غلاف رفع نشت ( Clamps ) تجهیزات ایمنی و ابزار تزریق تجهیزات هات تپ ماشین هات تپ ولو هات تپ فیتینگ هات تپ استاپر هات تپ خدمات پیگرانی رفع نشت و نشت یابی هات تپ انجماد سیال خطوط لوله تعویض پوشش خط لوله تعمير Cold Box و LNG Tank سرهم بندی اتصالات ( Bolt Tightening ) شستشوی شیمیایی تعمیر مبدل حرارتی برش سرد خطوط ( Cold Cutting‌ ) منابع کاتالوگ محصولات مط",
+          "source_family": "other_public",
+          "source_title": "شرکت تیم تعمیرات و نگهداری خطوط لوله خاورمیانه | پیگ رانی، رفع نشت، هات تپ، پایپ فیریزینگ، تعویض پوشش",
+          "source_url": "https://teampipeline.com/"
+        },
+        {
+          "claim": "The public page titled 'خدمات تخصصی | تیم تعمیرات و نگهداری خطوط لوله خاورمیانه' exposes product/catalog information, service or maintenance information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "خدمات تخصصی | تیم تعمیرات و نگهداری خطوط لوله خاورمیانه پرش به محتوا فارسی العربية English فارسی العربية English Search فعالیت های اجرائی تجهیزات تجهیزات پیگرانی باند لاک لانچر و رسیور پیگ پیگ سیگنالر ردیاب پیگ تجهیزات رفع نشت کامپاند ( مواد رفع نشت ) غلاف رفع نشت ( Clamps ) تجهیزات ایمنی و ابزار تزریق تجهیزات هات تپ ماشین هات تپ ولو هات تپ فیتینگ هات تپ استاپر هات تپ خدمات پیگرانی رفع نشت و نشت یابی هات تپ انجماد سیال خطوط لوله تعویض پوشش خط لوله تعمير Cold Box و LNG Tank سرهم بندی اتصالات ( Bolt Tightening ) شستشوی شیمیایی تعمیر مبدل حرارتی برش سرد خطوط ( Cold Cutting‌ ) منابع کاتالوگ محصولات مطالعات میدانی مقالات ویدئو ها اخبار آموزش ها شر",
+          "source_family": "other_public",
+          "source_title": "خدمات تخصصی | تیم تعمیرات و نگهداری خطوط لوله خاورمیانه",
+          "source_url": "https://teampipeline.com/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%aa%d8%ae%d8%b5%d8%b5%db%8c/"
+        },
+        {
+          "claim": "The public page titled 'درباره ما | تیم تعمیرات و نگهداری خطوط لوله خاورمیانه' exposes product/catalog information, service or maintenance information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "درباره ما | تیم تعمیرات و نگهداری خطوط لوله خاورمیانه پرش به محتوا فارسی العربية English فارسی العربية English Search فعالیت های اجرائی تجهیزات تجهیزات پیگرانی باند لاک لانچر و رسیور پیگ پیگ سیگنالر ردیاب پیگ تجهیزات رفع نشت کامپاند ( مواد رفع نشت ) غلاف رفع نشت ( Clamps ) تجهیزات ایمنی و ابزار تزریق تجهیزات هات تپ ماشین هات تپ ولو هات تپ فیتینگ هات تپ استاپر هات تپ خدمات پیگرانی رفع نشت و نشت یابی هات تپ انجماد سیال خطوط لوله تعویض پوشش خط لوله تعمير Cold Box و LNG Tank سرهم بندی اتصالات ( Bolt Tightening ) شستشوی شیمیایی تعمیر مبدل حرارتی برش سرد خطوط ( Cold Cutting‌ ) منابع کاتالوگ محصولات مطالعات میدانی مقالات ویدئو ها اخبار آموزش ها شرکت",
+          "source_family": "other_public",
+          "source_title": "درباره ما | تیم تعمیرات و نگهداری خطوط لوله خاورمیانه",
+          "source_url": "https://teampipeline.com/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/"
+        }
+      ],
+      "intake_channels": [
+        "published corporate email",
+        "published corporate phone"
+      ],
+      "observable_steps": [
+        "Customer reaches شرکت تیم through public product/service information or catalog, public project/client information, public service/maintenance information.",
+        "Customer uses published corporate email, published corporate phone to ask for information or service.",
+        "service team reviews and assigns the request; the public record does not expose the internal handoffs or approval rules.",
+        "A discovery meeting should validate volume, data sources, ownership and the smallest safe pilot."
+      ],
+      "observable_steps_fa": [
+        "مشتری از طریق public product/service information or catalog، public project/client information، public service/maintenance information به شرکت تیم می‌رسد.",
+        "مشتری از published corporate email، published corporate phone برای دریافت اطلاعات یا خدمت استفاده می‌کند.",
+        "service team reviews and assigns the request؛ مراحل داخلی و قواعد تأیید از منابع عمومی قابل مشاهده نیست.",
+        "در جلسه کشف، حجم، منابع داده، مالک فرایند و کوچک‌ترین پایلوت امن اعتبارسنجی شود."
+      ]
+    },
+    "source_families_added": [
+      "other_public"
+    ],
+    "version": "2026.09.sales-activation-v1",
+    "workflow": {
+      "activation_evidence_classification": "STRONG_HYPOTHESIS",
+      "company_id": "ir-teh-565c0d935d3681f6",
+      "confidence": "Medium",
+      "confidence_score": 0.7,
+      "current_problem": "A repeated lookup, document or approval handoff is plausible; validate the actual volume, owner and baseline before proposing automation.",
+      "current_problem_fa": "تکرار جست‌وجو، ساخت سند یا تأیید محتمل است؛ حجم واقعی، مالک و خط مبنا پیش از پیشنهاد خودکارسازی اعتبارسنجی شود.",
+      "current_process_hypothesis": "Based on the public ثبت درخواست سرویس و بازیابی دانش نگهداری surface, the first process to validate is the handoff from incoming information to a reviewed business output. Public sources do not establish the internal process or a current inefficiency.",
+      "current_process_hypothesis_fa": "با توجه به سطح عمومی ثبت درخواست سرویس و بازیابی دانش نگهداری، نخستین فرایند قابل بررسی، تبدیل ورودی به خروجی کسب‌وکاریِ قابل بازبینی است؛ منابع عمومی فرایند داخلی یا وجود ناکارآمدی فعلی را اثبات نمی‌کنند.",
+      "department": "Service Director / Maintenance Manager",
+      "discovery_questions": [
+        "درخواست خدمت چگونه ثبت، اولویت‌بندی و به تکنسین ارجاع می‌شود؟",
+        "سوابق تجهیز، شماره سریال و تعمیرات قبلی در چه منبعی است؟",
+        "تکنسین برای یافتن راهنمای معتبر یا قطعه مناسب چه مسیری دارد؟",
+        "کدام گزارش‌های سرویس نیازمند تأیید مدیر یا مشتری هستند؟",
+        "مهم‌ترین شاخص سرویس برای مدیریت چیست؟"
+      ],
+      "implementation_complexity": "High",
+      "implementation_risks": [
+        "data quality and permissions require discovery",
+        "human approval remains required",
+        "pilot should use a bounded workflow and approved samples"
+      ],
+      "implementation_risks_fa": [
+        "کیفیت داده و مجوزها باید در کشف بررسی شود",
+        "تأیید انسانی حفظ می‌شود",
+        "پایلوت با گردش محدود و نمونه‌های تأییدشده شروع شود"
+      ],
+      "likely_business_owner": "Service Director / Maintenance Manager",
+      "measurable_KPIs": [
+        "first-response time",
+        "repeat visits",
+        "report completion time",
+        "parts lookup time"
+      ],
+      "measurable_KPIs_fa": [
+        "زمان پاسخ اول",
+        "تعداد مراجعه تکراری",
+        "زمان تکمیل گزارش",
+        "زمان یافتن قطعه/راهنما"
+      ],
+      "primary_users": "Service director, field technicians, maintenance and customer-support teams",
+      "primary_users_fa": "مدیریت خدمات، تکنسین‌های میدانی، نگهداری و پشتیبانی مشتری",
+      "proposed_luma_solution": "A controlled service workspace that structures requests, retrieves approved maintenance knowledge and prepares a human-reviewed service report.",
+      "proposed_luma_solution_fa": "یک میزکار کنترل‌شده خدمات که درخواست‌ها را ساختاریافته می‌کند، دانش نگهداری تأییدشده را بازیابی می‌کند و گزارش سرویس را برای بازبینی انسانی آماده می‌کند.",
+      "required_data": [
+        "Service requests, equipment/serial records, manuals, prior interventions, parts and service reports"
+      ],
+      "required_data_fa": [
+        "درخواست خدمت، سوابق تجهیز/سریال، دفترچه‌ها، سوابق تعمیر، قطعات و گزارش‌های سرویس"
+      ],
+      "required_integrations": [
+        "CRM/ERP exports, service forms, shared documents and approved email or message intake"
+      ],
+      "required_integrations_fa": [
+        "خروجی CRM/ERP، فرم خدمات، اسناد مشترک و ورودی مجاز ایمیل یا پیام‌رسان"
+      ],
+      "source_urls": [
+        "https://teampipeline.com/%d8%aa%d9%85%d8%a7%d8%b3-%d8%a8%d8%a7-%d9%85%d8%a7/",
+        "https://teampipeline.com/",
+        "https://teampipeline.com/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%aa%d8%ae%d8%b5%d8%b5%db%8c/",
+        "https://teampipeline.com/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/"
+      ],
+      "supporting_evidence": [
+        {
+          "claim": "The public page titled 'تماس با ما | تیم تعمیرات و نگهداری خطوط لوله خاورمیانه' exposes product/catalog information, service or maintenance information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "تماس با ما | تیم تعمیرات و نگهداری خطوط لوله خاورمیانه پرش به محتوا فارسی العربية English فارسی العربية English Search فعالیت های اجرائی تجهیزات تجهیزات پیگرانی باند لاک لانچر و رسیور پیگ پیگ سیگنالر ردیاب پیگ تجهیزات رفع نشت کامپاند ( مواد رفع نشت ) غلاف رفع نشت ( Clamps ) تجهیزات ایمنی و ابزار تزریق تجهیزات هات تپ ماشین هات تپ ولو هات تپ فیتینگ هات تپ استاپر هات تپ خدمات پیگرانی رفع نشت و نشت یابی هات تپ انجماد سیال خطوط لوله تعویض پوشش خط لوله تعمير Cold Box و LNG Tank سرهم بندی اتصالات ( Bolt Tightening ) شستشوی شیمیایی تعمیر مبدل حرارتی برش سرد خطوط ( Cold Cutting‌ ) منابع کاتالوگ محصولات مطالعات میدانی مقالات ویدئو ها اخبار آموزش ها شرک",
+          "source_family": "other_public",
+          "source_title": "تماس با ما | تیم تعمیرات و نگهداری خطوط لوله خاورمیانه",
+          "source_url": "https://teampipeline.com/%d8%aa%d9%85%d8%a7%d8%b3-%d8%a8%d8%a7-%d9%85%d8%a7/"
+        },
+        {
+          "claim": "The public page titled 'شرکت تیم تعمیرات و نگهداری خطوط لوله خاورمیانه | پیگ رانی، رفع نشت، هات تپ، پایپ فیریزینگ، تعویض پوشش' exposes product/catalog information, service or maintenance information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "شرکت تیم تعمیرات و نگهداری خطوط لوله خاورمیانه | پیگ رانی، رفع نشت، هات تپ، پایپ فیریزینگ، تعویض پوشش پرش به محتوا فارسی العربية English فارسی العربية English Search فعالیت های اجرائی تجهیزات تجهیزات پیگرانی باند لاک لانچر و رسیور پیگ پیگ سیگنالر ردیاب پیگ تجهیزات رفع نشت کامپاند ( مواد رفع نشت ) غلاف رفع نشت ( Clamps ) تجهیزات ایمنی و ابزار تزریق تجهیزات هات تپ ماشین هات تپ ولو هات تپ فیتینگ هات تپ استاپر هات تپ خدمات پیگرانی رفع نشت و نشت یابی هات تپ انجماد سیال خطوط لوله تعویض پوشش خط لوله تعمير Cold Box و LNG Tank سرهم بندی اتصالات ( Bolt Tightening ) شستشوی شیمیایی تعمیر مبدل حرارتی برش سرد خطوط ( Cold Cutting‌ ) منابع کاتالوگ محصولات مط",
+          "source_family": "other_public",
+          "source_title": "شرکت تیم تعمیرات و نگهداری خطوط لوله خاورمیانه | پیگ رانی، رفع نشت، هات تپ، پایپ فیریزینگ، تعویض پوشش",
+          "source_url": "https://teampipeline.com/"
+        },
+        {
+          "claim": "The public page titled 'خدمات تخصصی | تیم تعمیرات و نگهداری خطوط لوله خاورمیانه' exposes product/catalog information, service or maintenance information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "خدمات تخصصی | تیم تعمیرات و نگهداری خطوط لوله خاورمیانه پرش به محتوا فارسی العربية English فارسی العربية English Search فعالیت های اجرائی تجهیزات تجهیزات پیگرانی باند لاک لانچر و رسیور پیگ پیگ سیگنالر ردیاب پیگ تجهیزات رفع نشت کامپاند ( مواد رفع نشت ) غلاف رفع نشت ( Clamps ) تجهیزات ایمنی و ابزار تزریق تجهیزات هات تپ ماشین هات تپ ولو هات تپ فیتینگ هات تپ استاپر هات تپ خدمات پیگرانی رفع نشت و نشت یابی هات تپ انجماد سیال خطوط لوله تعویض پوشش خط لوله تعمير Cold Box و LNG Tank سرهم بندی اتصالات ( Bolt Tightening ) شستشوی شیمیایی تعمیر مبدل حرارتی برش سرد خطوط ( Cold Cutting‌ ) منابع کاتالوگ محصولات مطالعات میدانی مقالات ویدئو ها اخبار آموزش ها شر",
+          "source_family": "other_public",
+          "source_title": "خدمات تخصصی | تیم تعمیرات و نگهداری خطوط لوله خاورمیانه",
+          "source_url": "https://teampipeline.com/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%aa%d8%ae%d8%b5%d8%b5%db%8c/"
+        },
+        {
+          "claim": "The public page titled 'درباره ما | تیم تعمیرات و نگهداری خطوط لوله خاورمیانه' exposes product/catalog information, service or maintenance information.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "درباره ما | تیم تعمیرات و نگهداری خطوط لوله خاورمیانه پرش به محتوا فارسی العربية English فارسی العربية English Search فعالیت های اجرائی تجهیزات تجهیزات پیگرانی باند لاک لانچر و رسیور پیگ پیگ سیگنالر ردیاب پیگ تجهیزات رفع نشت کامپاند ( مواد رفع نشت ) غلاف رفع نشت ( Clamps ) تجهیزات ایمنی و ابزار تزریق تجهیزات هات تپ ماشین هات تپ ولو هات تپ فیتینگ هات تپ استاپر هات تپ خدمات پیگرانی رفع نشت و نشت یابی هات تپ انجماد سیال خطوط لوله تعویض پوشش خط لوله تعمير Cold Box و LNG Tank سرهم بندی اتصالات ( Bolt Tightening ) شستشوی شیمیایی تعمیر مبدل حرارتی برش سرد خطوط ( Cold Cutting‌ ) منابع کاتالوگ محصولات مطالعات میدانی مقالات ویدئو ها اخبار آموزش ها شرکت",
+          "source_family": "other_public",
+          "source_title": "درباره ما | تیم تعمیرات و نگهداری خطوط لوله خاورمیانه",
+          "source_url": "https://teampipeline.com/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/"
+        }
+      ],
+      "workflow_evidence_classification": "STRONG_HYPOTHESIS",
+      "workflow_family": "service_ticket_maintenance",
+      "workflow_id": "wf-b39a6e88273e5f53",
+      "workflow_name": "Service-ticket intake and maintenance knowledge",
+      "workflow_name_fa": "ثبت درخواست سرویس و بازیابی دانش نگهداری"
+    }
   },
   "screenshots": [
     {
@@ -153,6 +436,62 @@
       "source_title": "خدمات تخصصی | تیم تعمیرات و نگهداری خطوط لوله خاورمیانه",
       "source_type": "commercial_audit",
       "source_url": "https://teampipeline.com/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%aa%d8%ae%d8%b5%d8%b5%db%8c/"
+    },
+    {
+      "captured_at": "2026-09-02T06:19:10Z",
+      "company_id": "ir-teh-565c0d935d3681f6",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "شرکت تیم تعمیرات و نگهداری خطوط لوله خاورمیانه | پیگ رانی، رفع نشت، هات تپ، پایپ فیریزینگ، تعویض پوشش پرش به محتوا فارسی العربية English فارسی العربية English Search فعالیت های اجرائی تجهیزات تجهیزات پیگرانی باند لاک لانچر و رسیور پیگ پیگ سیگنالر ردیاب پیگ تجهیزات رفع نشت کامپاند ( مواد رفع نشت ) غلاف رفع نشت ( Clamps ) تجهیزات ایمنی و ابزار تزریق تجهیزات هات تپ ماشین هات تپ ولو هات تپ فیتینگ هات تپ استاپر هات تپ خدمات پیگرانی رفع نشت و نشت یابی هات تپ انجماد سیال خطوط لوله تعویض پوشش خط لوله تعمير Cold Box و LNG Tank سرهم بندی اتصالات ( Bolt Tightening ) شستشوی شیمیایی تعمیر مبدل حرارتی برش سرد خطوط ( Cold Cutting‌ ) منابع کاتالوگ محصولات مطالعات میدانی مقالات ویدئو ها اخبار آموزش ها شرکت ت",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-0312ed9d5fb7889e",
+      "source_quality": "public_page",
+      "source_title": "شرکت تیم تعمیرات و نگهداری خطوط لوله خاورمیانه | پیگ رانی، رفع نشت، هات تپ، پایپ فیریزینگ، تعویض پوشش",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://teampipeline.com/"
+    },
+    {
+      "captured_at": "2026-09-02T06:38:31Z",
+      "company_id": "ir-teh-565c0d935d3681f6",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "تماس با ما | تیم تعمیرات و نگهداری خطوط لوله خاورمیانه پرش به محتوا فارسی العربية English فارسی العربية English Search فعالیت های اجرائی تجهیزات تجهیزات پیگرانی باند لاک لانچر و رسیور پیگ پیگ سیگنالر ردیاب پیگ تجهیزات رفع نشت کامپاند ( مواد رفع نشت ) غلاف رفع نشت ( Clamps ) تجهیزات ایمنی و ابزار تزریق تجهیزات هات تپ ماشین هات تپ ولو هات تپ فیتینگ هات تپ استاپر هات تپ خدمات پیگرانی رفع نشت و نشت یابی هات تپ انجماد سیال خطوط لوله تعویض پوشش خط لوله تعمير Cold Box و LNG Tank سرهم بندی اتصالات ( Bolt Tightening ) شستشوی شیمیایی تعمیر مبدل حرارتی برش سرد خطوط ( Cold Cutting‌ ) منابع کاتالوگ محصولات مطالعات میدانی مقالات ویدئو ها اخبار آموزش ها شرکت تیم درباره ما تاریخچه پروژه ها استاندارد های ایم",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-59aad217036b453a",
+      "source_quality": "public_page",
+      "source_title": "تماس با ما | تیم تعمیرات و نگهداری خطوط لوله خاورمیانه",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://teampipeline.com/%d8%aa%d9%85%d8%a7%d8%b3-%d8%a8%d8%a7-%d9%85%d8%a7/"
+    },
+    {
+      "captured_at": "2026-09-02T06:38:32Z",
+      "company_id": "ir-teh-565c0d935d3681f6",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "خدمات تخصصی | تیم تعمیرات و نگهداری خطوط لوله خاورمیانه پرش به محتوا فارسی العربية English فارسی العربية English Search فعالیت های اجرائی تجهیزات تجهیزات پیگرانی باند لاک لانچر و رسیور پیگ پیگ سیگنالر ردیاب پیگ تجهیزات رفع نشت کامپاند ( مواد رفع نشت ) غلاف رفع نشت ( Clamps ) تجهیزات ایمنی و ابزار تزریق تجهیزات هات تپ ماشین هات تپ ولو هات تپ فیتینگ هات تپ استاپر هات تپ خدمات پیگرانی رفع نشت و نشت یابی هات تپ انجماد سیال خطوط لوله تعویض پوشش خط لوله تعمير Cold Box و LNG Tank سرهم بندی اتصالات ( Bolt Tightening ) شستشوی شیمیایی تعمیر مبدل حرارتی برش سرد خطوط ( Cold Cutting‌ ) منابع کاتالوگ محصولات مطالعات میدانی مقالات ویدئو ها اخبار آموزش ها شرکت تیم درباره ما تاریخچه پروژه ها استاندارد های ای",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-5f8521a7d91ae3ee",
+      "source_quality": "public_page",
+      "source_title": "خدمات تخصصی | تیم تعمیرات و نگهداری خطوط لوله خاورمیانه",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://teampipeline.com/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%aa%d8%ae%d8%b5%d8%b5%db%8c/"
+    },
+    {
+      "captured_at": "2026-09-02T06:38:32Z",
+      "company_id": "ir-teh-565c0d935d3681f6",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "درباره ما | تیم تعمیرات و نگهداری خطوط لوله خاورمیانه پرش به محتوا فارسی العربية English فارسی العربية English Search فعالیت های اجرائی تجهیزات تجهیزات پیگرانی باند لاک لانچر و رسیور پیگ پیگ سیگنالر ردیاب پیگ تجهیزات رفع نشت کامپاند ( مواد رفع نشت ) غلاف رفع نشت ( Clamps ) تجهیزات ایمنی و ابزار تزریق تجهیزات هات تپ ماشین هات تپ ولو هات تپ فیتینگ هات تپ استاپر هات تپ خدمات پیگرانی رفع نشت و نشت یابی هات تپ انجماد سیال خطوط لوله تعویض پوشش خط لوله تعمير Cold Box و LNG Tank سرهم بندی اتصالات ( Bolt Tightening ) شستشوی شیمیایی تعمیر مبدل حرارتی برش سرد خطوط ( Cold Cutting‌ ) منابع کاتالوگ محصولات مطالعات میدانی مقالات ویدئو ها اخبار آموزش ها شرکت تیم درباره ما تاریخچه پروژه ها استاندارد های ایمن",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-fc07f8ab81bb8ac3",
+      "source_quality": "public_page",
+      "source_title": "درباره ما | تیم تعمیرات و نگهداری خطوط لوله خاورمیانه",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://teampipeline.com/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/"
     }
   ]
 }

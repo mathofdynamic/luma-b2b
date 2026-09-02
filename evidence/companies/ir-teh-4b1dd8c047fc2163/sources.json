@@ -23,14 +23,238 @@
       "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
       "stage": "search_query",
       "url": "https://html.duckduckgo.com/html/?q=%22%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D8%A7%D8%B3%D9%BE%D9%88%D8%AA%D8%A7%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "official_page",
+      "url": "https://wa.me/+989129533282"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "InvalidURL: URL can't contain control characters. '/share?url=avval.ir/profile/smbtd/%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%A7%D8%B3%D9%BE%D9%88%D8%AA%D8%A7&text=بازرگانی اسپوتا' (found at least ' ')",
+      "stage": "official_page",
+      "url": "https://twitter.com/share?url=avval.ir/profile/smbtd/%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%A7%D8%B3%D9%BE%D9%88%D8%AA%D8%A7&text=بازرگانی اسپوتا"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "official_page",
+      "url": "https://twitter.com/ketabeavvalir"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 500: ",
+      "stage": "official_page",
+      "url": "https://trustseal.enamad.ir/?id=194990&Code=3Y0m3d1djm9fuqjoC8mT"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 500: INKApi Error",
+      "stage": "search_query",
+      "url": "https://search.yahoo.com/search?p=%22%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C+%D8%A7%D8%B3%D9%BE%D9%88%D8%AA%D8%A7%22+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA&vl=lang_fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "UnicodeEncodeError: 'ascii' codec can't encode characters in position 18-25: ordinal not in range(128)",
+      "stage": "external_page",
+      "url": "https://www.e-estekhdam.com/company/vwjd-بازرگانی-اسپوتا-نوین-چوب/jobs"
     }
   ],
-  "generated_at": "2026-09-01T15:27:09Z",
+  "generated_at": "2026-09-02T06:50:51Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
     "proxy": "http://127.0.0.1:1087",
     "visible_browser_launched": false
+  },
+  "sales_activation": {
+    "captured_page_paths": [
+      "companies/ir-teh-4b1dd8c047fc2163/pages/sales-ff5c93f6882ebfcd.txt",
+      "companies/ir-teh-4b1dd8c047fc2163/pages/sales-1cdb67f53d2e3206.txt",
+      "companies/ir-teh-4b1dd8c047fc2163/pages/sales-a1542c15a7d60368.txt",
+      "companies/ir-teh-4b1dd8c047fc2163/pages/sales-fd8c358a859d180d.txt",
+      "companies/ir-teh-4b1dd8c047fc2163/pages/sales-86fb50c3aac57341.txt"
+    ],
+    "contacts": {
+      "decision_maker_direct_candidates": [],
+      "decision_maker_search_candidates": [],
+      "economic_buyer_confidence": 0.0,
+      "economic_buyer_name": null,
+      "economic_buyer_role": "Managing Director / CEO",
+      "economic_buyer_source_url": null,
+      "primary_contact_confidence": 0.0,
+      "primary_contact_name": null,
+      "primary_contact_role": "Commercial / Sales Operations Director",
+      "primary_contact_source_url": null,
+      "public_corporate_emails": [
+        "info@spttrade.com"
+      ],
+      "public_corporate_phones": [
+        "02126415084"
+      ],
+      "public_linkedin_company": null,
+      "public_whatsapp": "https://wa.me/+989129533282",
+      "technical_gatekeeper_confidence": 0.0,
+      "technical_gatekeeper_name": null,
+      "technical_gatekeeper_role": "Product or Technical Sales Manager",
+      "technical_gatekeeper_source_url": null
+    },
+    "no_outreach_sent": true,
+    "public_journey": {
+      "entry_points": [
+        "public product/service information or catalog"
+      ],
+      "evidence": [
+        {
+          "claim": "The public page titled 'بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی' exposes product/catalog information, a contact or order entry point.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "پودری RDP هیدروکسی پروپیل متیل سلولز HPMC متیل هیدروکسی اتیل سلولز MHEC جستجو 021-26415084‌‌ 0912-9533282 دسته‌بندی‌ها محصولات برندها پادکست‌ها ثبت سفارش مقالات تماس با ما درباره ما جستجو بازرگانی اسپوتا دسته بندی محصولات اسپوتا مواد تصفیه آب تجهیزات تصفیه آب مواد شیمیایی فرآورده‌ نفتی پلیمر مهندسی مواد جاذب رطوبت مواد اولیه رنگ و رزین کود شیمیایی مواد پلیمری گروه مواد تصفیه آب رزین تبادل یونی ضد کف آنتی اسکالانت کربن فعال رزین سختی گیر رزین میکس بد پودر کلر گروه تجهیزات تصفیه آب تجهیزات تصفیه آب فیلتر ممبران پمپ تزریق مواد شیمیایی دستگاه تصفیه آب نیمه صنعتی فیلتر ممبران صنعتی فیلتر ممبران نیمه صنعتی فیلتر ممبران خانگی دستگاه دیونایزر شیر بای",
+          "source_family": "other_public",
+          "source_title": "بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی",
+          "source_url": "https://spttrade.com/"
+        },
+        {
+          "claim": "The public page titled 'مواد تصفیه آب | قیمت فروش و خرید [2024] - بازرگانی اسپوتا' exposes product/catalog information, a contact or order entry point.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "ینده‌ها و ناخالصی‌ها از آب دارند و از ایمن بودن آن برای مصرف آشامیدنی، مصارف صنعتی یا تخلیه محیطی اطمینان حاصل می‌کنند. استعلام قیمت مواد تصفیه آب | مشاوره فروش و خرید مواد تصفیه آب بازرگانی اسپوتا: 021-26415084 | 09129533282 این مواد شیمیایی به طور موثر انواع مختلف منابع آب مانند رودخانه‌ها، دریاچه‌ها، چاه‌ها و حتی آب دریا را تصفیه می‌کنند. مواد شیمیایی تصفیه آب برای هدف قرار دادن اهداف خاص در آب، مانند گندزدایی، ته نشینی، انعقاد، لخته سازی، کنترل خوردگی، تنظیم PH و حذف طعم و بو طراحی شده‌اند. مواد اولیه تصفیه آب با تعامل با ناخالصی‌ها، تغییر ترکیب شیمیایی یا اتصال فیزیکی به آنها عمل می‌کنند. در نهایت منجر به تشکیل ذرات بزرگتر یا تجزیه مواد ",
+          "source_family": "other_public",
+          "source_title": "مواد تصفیه آب | قیمت فروش و خرید [2024] - بازرگانی اسپوتا",
+          "source_url": "https://spttrade.com/product-category/water-treatment-materials/"
+        },
+        {
+          "claim": "The public page titled 'کربن اکتیو جاکوبی 1000 آکواسرب AquaSorb - بازرگانی اسپوتا' exposes product/catalog information, a contact or order entry point.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "رای ارتقای کیفیت و ایمنی آب می‌باشد. برای مشاهده دیگر محصولات، قیمت هر کدام و خرید کربن فعال به این صفحه مراجعه نمایید. استعلام قیمت و خرید کربن اکتیو جاکوبی 1000 021-26415084 | 09129533282 مشخصات فنی کربن اکتیو جاکوبی 1000 Iodin Number عدد یدی Min 850 mg/gr Hardness سختی Min 95% Ash محتوای خاکستر کل Max 15% Density چگالی ظاهری g/l 510 Methylene Blue متیلن بلو Min 200 mg/gr Wettability قدرت جذب آب Min 95% Total pore volume حجم کل منافذ 0.88 cm³/g Area مساحت سطح m²/g 900 PH ۸ الی ۱۱ فاکتورهای موثر بر کیفیت کربن اکتیو جاکوبی 1000 سوئد فاکتورهای موثر بر کیفیت کربن اکتیو جاکوبی سوئد توضیحات میزان آن در کربن اکتیو جاکوبی ۱۰۰۰ عدد یدی Iodin number ",
+          "source_family": "other_public",
+          "source_title": "کربن اکتیو جاکوبی 1000 آکواسرب AquaSorb - بازرگانی اسپوتا",
+          "source_url": "https://spttrade.com/product/jacobi-aquasorb-1000/"
+        }
+      ],
+      "intake_channels": [
+        "website contact or inquiry surface",
+        "published corporate email",
+        "published corporate phone",
+        "explicitly published WhatsApp business link"
+      ],
+      "observable_steps": [
+        "Customer reaches بازرگانی اسپوتا through public product/service information or catalog.",
+        "Customer uses website contact or inquiry surface, published corporate email, published corporate phone, explicitly published WhatsApp business link to ask for information or service.",
+        "sales team prepares a response or quotation; the public record does not expose the internal handoffs or approval rules.",
+        "A discovery meeting should validate volume, data sources, ownership and the smallest safe pilot."
+      ],
+      "observable_steps_fa": [
+        "مشتری از طریق public product/service information or catalog به بازرگانی اسپوتا می‌رسد.",
+        "مشتری از website contact or inquiry surface، published corporate email، published corporate phone، explicitly published WhatsApp business link برای دریافت اطلاعات یا خدمت استفاده می‌کند.",
+        "sales team prepares a response or quotation؛ مراحل داخلی و قواعد تأیید از منابع عمومی قابل مشاهده نیست.",
+        "در جلسه کشف، حجم، منابع داده، مالک فرایند و کوچک‌ترین پایلوت امن اعتبارسنجی شود."
+      ]
+    },
+    "source_families_added": [
+      "job_portal",
+      "other_public"
+    ],
+    "version": "2026.09.sales-activation-v1",
+    "workflow": {
+      "activation_evidence_classification": "EVIDENCE_SUPPORTED",
+      "company_id": "ir-teh-4b1dd8c047fc2163",
+      "confidence": "High",
+      "confidence_score": 0.85,
+      "current_problem": "A repeated lookup, document or approval handoff is plausible; validate the actual volume, owner and baseline before proposing automation.",
+      "current_problem_fa": "تکرار جست‌وجو، ساخت سند یا تأیید محتمل است؛ حجم واقعی، مالک و خط مبنا پیش از پیشنهاد خودکارسازی اعتبارسنجی شود.",
+      "current_process_hypothesis": "Based on the public دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت surface, the first process to validate is the handoff from incoming information to a reviewed business output. Public sources do not establish the internal process or a current inefficiency.",
+      "current_process_hypothesis_fa": "با توجه به سطح عمومی دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت، نخستین فرایند قابل بررسی، تبدیل ورودی به خروجی کسب‌وکاریِ قابل بازبینی است؛ منابع عمومی فرایند داخلی یا وجود ناکارآمدی فعلی را اثبات نمی‌کنند.",
+      "department": "Commercial Director / Sales Operations Manager",
+      "discovery_questions": [
+        "در ماه چند درخواست قیمت وارد می‌شود و از چه کانال‌هایی؟",
+        "امروز برای تطبیق مشخصات، قیمت و موجودی به کدام فایل یا سامانه رجوع می‌شود؟",
+        "کدام قواعد قیمت‌گذاری و حاشیه سود باید کاملاً قطعی و انسانی باقی بماند؟",
+        "برای شروع، پاسخ فنی، پیشنهاد محصول یا پیش‌فاکتور کدام خروجی ارزشمندتر است؟",
+        "یک نمونه استعلام واقعی برای اندازه‌گیری زمان و میزان اصلاحات کدام است؟"
+      ],
+      "implementation_complexity": "Medium",
+      "implementation_risks": [
+        "data quality and permissions require discovery",
+        "human approval remains required",
+        "pilot should use a bounded workflow and approved samples"
+      ],
+      "implementation_risks_fa": [
+        "کیفیت داده و مجوزها باید در کشف بررسی شود",
+        "تأیید انسانی حفظ می‌شود",
+        "پایلوت با گردش محدود و نمونه‌های تأییدشده شروع شود"
+      ],
+      "likely_business_owner": "Commercial Director / Sales Operations Manager",
+      "measurable_KPIs": [
+        "quote turnaround time",
+        "RFQs handled per salesperson",
+        "correction rate",
+        "follow-up completion"
+      ],
+      "measurable_KPIs_fa": [
+        "زمان پاسخ به استعلام",
+        "تعداد استعلام قابل پردازش برای هر کارشناس",
+        "نرخ اصلاح پیشنهاد",
+        "تکمیل پیگیری"
+      ],
+      "primary_users": "Sales operations, product specialists and commercial management",
+      "primary_users_fa": "فروش، بازرگانی و کارشناسان فنی محصول",
+      "proposed_luma_solution": "A controlled intake workspace that structures incoming requests, matches them against the approved product/specification master, and prepares an explainable draft response for human approval.",
+      "proposed_luma_solution_fa": "یک میزکار کنترل‌شده برای ساختاردهی درخواست‌های ورودی، تطبیق آن‌ها با مرجع تأییدشده محصولات و مشخصات، و آماده‌سازی پیش‌نویس پاسخ برای تأیید انسانی.",
+      "required_data": [
+        "RFQs, product/SKU master, specifications, price lists, stock snapshots, historical quotes and approval rules"
+      ],
+      "required_data_fa": [
+        "استعلام‌ها، مرجع محصول و SKU، مشخصات فنی، فهرست قیمت، تصویر موجودی، پیشنهادهای قبلی و قواعد تأیید"
+      ],
+      "required_integrations": [
+        "Approved email/form intake and exports or APIs from ERP, CRM or accounting systems if available"
+      ],
+      "required_integrations_fa": [
+        "ورودی ایمیل/فرم و در صورت وجود خروجی یا API سامانه‌های ERP، CRM یا حسابداری"
+      ],
+      "source_urls": [
+        "https://spttrade.com/",
+        "https://spttrade.com/product-category/water-treatment-materials/",
+        "https://spttrade.com/product/jacobi-aquasorb-1000/"
+      ],
+      "supporting_evidence": [
+        {
+          "claim": "The public page titled 'بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی' exposes product/catalog information, a contact or order entry point.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "پودری RDP هیدروکسی پروپیل متیل سلولز HPMC متیل هیدروکسی اتیل سلولز MHEC جستجو 021-26415084‌‌ 0912-9533282 دسته‌بندی‌ها محصولات برندها پادکست‌ها ثبت سفارش مقالات تماس با ما درباره ما جستجو بازرگانی اسپوتا دسته بندی محصولات اسپوتا مواد تصفیه آب تجهیزات تصفیه آب مواد شیمیایی فرآورده‌ نفتی پلیمر مهندسی مواد جاذب رطوبت مواد اولیه رنگ و رزین کود شیمیایی مواد پلیمری گروه مواد تصفیه آب رزین تبادل یونی ضد کف آنتی اسکالانت کربن فعال رزین سختی گیر رزین میکس بد پودر کلر گروه تجهیزات تصفیه آب تجهیزات تصفیه آب فیلتر ممبران پمپ تزریق مواد شیمیایی دستگاه تصفیه آب نیمه صنعتی فیلتر ممبران صنعتی فیلتر ممبران نیمه صنعتی فیلتر ممبران خانگی دستگاه دیونایزر شیر بای",
+          "source_family": "other_public",
+          "source_title": "بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی",
+          "source_url": "https://spttrade.com/"
+        },
+        {
+          "claim": "The public page titled 'مواد تصفیه آب | قیمت فروش و خرید [2024] - بازرگانی اسپوتا' exposes product/catalog information, a contact or order entry point.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "ینده‌ها و ناخالصی‌ها از آب دارند و از ایمن بودن آن برای مصرف آشامیدنی، مصارف صنعتی یا تخلیه محیطی اطمینان حاصل می‌کنند. استعلام قیمت مواد تصفیه آب | مشاوره فروش و خرید مواد تصفیه آب بازرگانی اسپوتا: 021-26415084 | 09129533282 این مواد شیمیایی به طور موثر انواع مختلف منابع آب مانند رودخانه‌ها، دریاچه‌ها، چاه‌ها و حتی آب دریا را تصفیه می‌کنند. مواد شیمیایی تصفیه آب برای هدف قرار دادن اهداف خاص در آب، مانند گندزدایی، ته نشینی، انعقاد، لخته سازی، کنترل خوردگی، تنظیم PH و حذف طعم و بو طراحی شده‌اند. مواد اولیه تصفیه آب با تعامل با ناخالصی‌ها، تغییر ترکیب شیمیایی یا اتصال فیزیکی به آنها عمل می‌کنند. در نهایت منجر به تشکیل ذرات بزرگتر یا تجزیه مواد ",
+          "source_family": "other_public",
+          "source_title": "مواد تصفیه آب | قیمت فروش و خرید [2024] - بازرگانی اسپوتا",
+          "source_url": "https://spttrade.com/product-category/water-treatment-materials/"
+        },
+        {
+          "claim": "The public page titled 'کربن اکتیو جاکوبی 1000 آکواسرب AquaSorb - بازرگانی اسپوتا' exposes product/catalog information, a contact or order entry point.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "رای ارتقای کیفیت و ایمنی آب می‌باشد. برای مشاهده دیگر محصولات، قیمت هر کدام و خرید کربن فعال به این صفحه مراجعه نمایید. استعلام قیمت و خرید کربن اکتیو جاکوبی 1000 021-26415084 | 09129533282 مشخصات فنی کربن اکتیو جاکوبی 1000 Iodin Number عدد یدی Min 850 mg/gr Hardness سختی Min 95% Ash محتوای خاکستر کل Max 15% Density چگالی ظاهری g/l 510 Methylene Blue متیلن بلو Min 200 mg/gr Wettability قدرت جذب آب Min 95% Total pore volume حجم کل منافذ 0.88 cm³/g Area مساحت سطح m²/g 900 PH ۸ الی ۱۱ فاکتورهای موثر بر کیفیت کربن اکتیو جاکوبی 1000 سوئد فاکتورهای موثر بر کیفیت کربن اکتیو جاکوبی سوئد توضیحات میزان آن در کربن اکتیو جاکوبی ۱۰۰۰ عدد یدی Iodin number ",
+          "source_family": "other_public",
+          "source_title": "کربن اکتیو جاکوبی 1000 آکواسرب AquaSorb - بازرگانی اسپوتا",
+          "source_url": "https://spttrade.com/product/jacobi-aquasorb-1000/"
+        }
+      ],
+      "workflow_evidence_classification": "EVIDENCE_SUPPORTED",
+      "workflow_family": "rfq_quotation",
+      "workflow_id": "wf-5191cdb05055bdb9",
+      "workflow_name": "RFQ intake, product matching and draft quotation",
+      "workflow_name_fa": "دریافت استعلام، تطبیق محصول و پیش‌نویس پیشنهاد قیمت"
+    }
   },
   "screenshots": [
     {
@@ -304,6 +528,90 @@
       "source_title": "خرید کربن فعال | قیمت کربن اکتیو [شهریور 1405]",
       "source_type": "commercial_audit",
       "source_url": "https://spttrade.com/product-category/activated-carbon/"
+    },
+    {
+      "captured_at": "2026-09-02T06:15:05Z",
+      "company_id": "ir-teh-4b1dd8c047fc2163",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "Rubika نصب روبیکا بازرگانی اسپوتا 4 مشترک مشاهده صفحه روبینو بازرگانی اسپوتا",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-ae9153a759789e97",
+      "source_quality": "public_page",
+      "source_title": "Rubika",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://rubika.ir/spttrade/"
+    },
+    {
+      "captured_at": "2026-09-02T06:33:50Z",
+      "company_id": "ir-teh-4b1dd8c047fc2163",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی Skip to navigation Skip to main content همه دسته بندی ها مواد تصفیه آب کربن فعال کربن اکتیو جاکوبی 1000 کربن اکتیو جاکوبی 2000 کربن اکتیو جاکوبی 6000 ضد کف | آنتی فوم ضد کف سیلیکونی ضد کف غیر سیلیکونی آنتی اسکالانت آنتی اسکالانت فلوکن 260 آنتی اسکالانت فلوکن 190 آنتی اسکالانت آویستا آنتی اسکالانت جنسیس رزین تبادل یونی رزین سختی گیر رزین آنیونی رزین میکس بد کلر کلر هندی آکوافیت کلر پارس تبریز کلر کلران سمنان کلر نیروکلر اصفهان سایر مواد تصفیه آب اکسیژنه نمک سختی گیر خاک دیاتومه پلی الکترولیت آنتراسیت سیلیس تجهیزات تصفیه آب فیلتر ممبران فیلتر ممبران صنعتی فیلتر ممبران نیمه صنعتی فیلتر ممبران خانگی فیلتر ممبران آمریکایی فیلت",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-6b6f8c35f8f62f8d",
+      "source_quality": "public_page",
+      "source_title": "بازرگانی اسپوتا | مواد شیمیایی، مواد تصفیه آب و فاضلاب و تجهیزات صنعتی",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://spttrade.com/"
+    },
+    {
+      "captured_at": "2026-09-02T06:33:50Z",
+      "company_id": "ir-teh-4b1dd8c047fc2163",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "مواد تصفیه آب | قیمت فروش و خرید [2024] - بازرگانی اسپوتا Skip to navigation Skip to main content همه دسته بندی ها مواد تصفیه آب کربن فعال کربن اکتیو جاکوبی 1000 کربن اکتیو جاکوبی 2000 کربن اکتیو جاکوبی 6000 ضد کف | آنتی فوم ضد کف سیلیکونی ضد کف غیر سیلیکونی آنتی اسکالانت آنتی اسکالانت فلوکن 260 آنتی اسکالانت فلوکن 190 آنتی اسکالانت آویستا آنتی اسکالانت جنسیس رزین تبادل یونی رزین سختی گیر رزین آنیونی رزین میکس بد کلر کلر هندی آکوافیت کلر پارس تبریز کلر کلران سمنان کلر نیروکلر اصفهان سایر مواد تصفیه آب اکسیژنه نمک سختی گیر خاک دیاتومه پلی الکترولیت آنتراسیت سیلیس تجهیزات تصفیه آب فیلتر ممبران فیلتر ممبران صنعتی فیلتر ممبران نیمه صنعتی فیلتر ممبران خانگی فیلتر ممبران آمریکایی فیلتر ممبران ال ج",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-cc5d6ad48d0f0994",
+      "source_quality": "public_page",
+      "source_title": "مواد تصفیه آب | قیمت فروش و خرید [2024] - بازرگانی اسپوتا",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://spttrade.com/product-category/water-treatment-materials/"
+    },
+    {
+      "captured_at": "2026-09-02T06:33:50Z",
+      "company_id": "ir-teh-4b1dd8c047fc2163",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "کربن اکتیو جاکوبی 1000 آکواسرب AquaSorb - بازرگانی اسپوتا Skip to navigation Skip to main content همه دسته بندی ها مواد تصفیه آب کربن فعال کربن اکتیو جاکوبی 1000 کربن اکتیو جاکوبی 2000 کربن اکتیو جاکوبی 6000 ضد کف | آنتی فوم ضد کف سیلیکونی ضد کف غیر سیلیکونی آنتی اسکالانت آنتی اسکالانت فلوکن 260 آنتی اسکالانت فلوکن 190 آنتی اسکالانت آویستا آنتی اسکالانت جنسیس رزین تبادل یونی رزین سختی گیر رزین آنیونی رزین میکس بد کلر کلر هندی آکوافیت کلر پارس تبریز کلر کلران سمنان کلر نیروکلر اصفهان سایر مواد تصفیه آب اکسیژنه نمک سختی گیر خاک دیاتومه پلی الکترولیت آنتراسیت سیلیس تجهیزات تصفیه آب فیلتر ممبران فیلتر ممبران صنعتی فیلتر ممبران نیمه صنعتی فیلتر ممبران خانگی فیلتر ممبران آمریکایی فیلتر ممبران ال ج",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-a6f61dbfa529f9a8",
+      "source_quality": "public_page",
+      "source_title": "کربن اکتیو جاکوبی 1000 آکواسرب AquaSorb - بازرگانی اسپوتا",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://spttrade.com/product/jacobi-aquasorb-1000/"
+    },
+    {
+      "captured_at": "2026-09-02T06:33:56Z",
+      "company_id": "ir-teh-4b1dd8c047fc2163",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "استخدام در بازرگانی اسپوتا : مشاهده آخرین فرصت‌های شغلی | ایران‌تلنت فرصت‌های شغلی رزومه ساز امتیاز شرکت‌ها بخش کارفرمایان ورود / ثبت‌نام محصولات ایران‌تلنت کاردیکس اتوماسیون جذب ایران‌تلنت ورود/ثبت‌نام English بازرگانی اسپوتا 0 درباره شرکت (0) فرصت‌های شغلی (0) نظرات بازرگانی اسپوتا فرصت شغلی ثبت نکرده است. در صورت تمایل می‌توانید از فرصت‌های شغلی و آخرین اطلاع‌رسانی‌های این شرکت مطلع شوید. می‌خواهم مطلع شوم آگهی‌های استخدام و همکاری برای متخصصان ایرانی کارجویان فرصت‌های شغلی رزومه ساز امتیاز شرکت‌ها محصولات ایران‌تلنت آزمون‌ها داشبورد حقوق و دستمزد کاردیکس گزارش‌ها تست MBTI کارفرمایان درج آگهی شغلی جستجوی رزومه ایران‌تلنت صفحه اصلی درباره ایران تلنت ارتباط با ما سوالات متداول بلاگ English ",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "job_portal",
+      "source_id": "src-446f954fddd995ea",
+      "source_quality": "public_page",
+      "source_title": "استخدام در بازرگانی اسپوتا : مشاهده آخرین فرصت‌های شغلی | ایران‌تلنت",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://www.irantalent.com/company/spt-trade/7d24c403-0f8a-4878-a753-f9b4def7ab5b/job-positions"
+    },
+    {
+      "captured_at": "2026-09-02T06:33:57Z",
+      "company_id": "ir-teh-4b1dd8c047fc2163",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "درباره شرکت بازرگانی اسپوتا | ایران‌تلنت فرصت‌های شغلی رزومه ساز امتیاز شرکت‌ها بخش کارفرمایان ورود / ثبت‌نام محصولات ایران‌تلنت کاردیکس اتوماسیون جذب ایران‌تلنت ورود/ثبت‌نام English بازرگانی اسپوتا 0 درباره شرکت (0) فرصت‌های شغلی (0) نظرات درباره شرکت بازرگانی اسپوتا تعداد کارمندان: 1-9کارمند موقعیت بازرگانی اسپوتا بر روی نقشه مشخص نشده‌است. آگهی‌های استخدام و همکاری برای متخصصان ایرانی کارجویان فرصت‌های شغلی رزومه ساز امتیاز شرکت‌ها محصولات ایران‌تلنت آزمون‌ها داشبورد حقوق و دستمزد کاردیکس گزارش‌ها تست MBTI کارفرمایان درج آگهی شغلی جستجوی رزومه ایران‌تلنت صفحه اصلی درباره ایران تلنت ارتباط با ما سوالات متداول بلاگ English © 2026 IranTalent.com همه حقوق محفوظ است. شرایط و قوانین شرایط و قوا",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "job_portal",
+      "source_id": "src-2c139d2a0bd312af",
+      "source_quality": "public_page",
+      "source_title": "درباره شرکت بازرگانی اسپوتا | ایران‌تلنت",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://www.irantalent.com/company/spt-trade/7d24c403-0f8a-4878-a753-f9b4def7ab5b/overview"
     }
   ]
 }

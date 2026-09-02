@@ -23,14 +23,250 @@
       "error": "URLError: <urlopen error _ssl.c:1011: The handshake operation timed out>",
       "stage": "search_query",
       "url": "https://html.duckduckgo.com/html/?q=%22%D8%AA%D9%88%D9%84%DB%8C%D8%AF+%D8%A7%D9%86%D9%88%D8%A7%D8%B9+%D8%AC%D8%B9%D8%A8%D9%87+%D9%88+%DA%A9%D8%A7%D8%B1%D8%AA%D9%86+%D8%A8%D9%87%D8%AA%D8%A7%D9%BE%DA%A9%22+%28%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+OR+%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D9%81%D8%B1%D9%88%D8%B4+OR+%D9%85%D8%AF%DB%8C%D8%B1+%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%29&kl=ir-fa"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "InvalidURL: URL can't contain control characters. '/share?url=avval.ir/profile/nabge/%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%AC%D8%B9%D8%A8%D9%87-%D9%88-%DA%A9%D8%A7%D8%B1%D8%AA%D9%86-%D8%A8%D9%87%D8%AA%D8%A7%D9%BE%DA%A9&text=تولید انواع جعبه و کارتن بهتاپک' (found at least ' ')",
+      "stage": "official_page",
+      "url": "https://twitter.com/share?url=avval.ir/profile/nabge/%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%AC%D8%B9%D8%A8%D9%87-%D9%88-%DA%A9%D8%A7%D8%B1%D8%AA%D9%86-%D8%A8%D9%87%D8%AA%D8%A7%D9%BE%DA%A9&text=تولید انواع جعبه و کارتن بهتاپک"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "official_page",
+      "url": "https://twitter.com/ketabeavvalir"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 500: ",
+      "stage": "official_page",
+      "url": "https://trustseal.enamad.ir/?id=194990&Code=3Y0m3d1djm9fuqjoC8mT"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)>",
+      "stage": "official_page",
+      "url": "https://api.whatsapp.com/send?text=avval.ir/profile/nabge/%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%AC%D8%B9%D8%A8%D9%87-%D9%88-%DA%A9%D8%A7%D8%B1%D8%AA%D9%86-%D8%A8%D9%87%D8%AA%D8%A7%D9%BE%DA%A9"
+    },
+    {
+      "classification": "SOURCE_ERROR",
+      "error": "HTTPError: HTTP Error 500: INKApi Error",
+      "stage": "search_query",
+      "url": "https://search.yahoo.com/search?p=%22%D8%AA%D9%88%D9%84%DB%8C%D8%AF+%D8%A7%D9%86%D9%88%D8%A7%D8%B9+%D8%AC%D8%B9%D8%A8%D9%87+%D9%88+%DA%A9%D8%A7%D8%B1%D8%AA%D9%86+%D8%A8%D9%87%D8%AA%D8%A7%D9%BE%DA%A9%22+%D8%B3%D9%81%D8%A7%D8%B1%D8%B4+%DA%86%D8%A7%D9%BE+%DA%A9%D8%A7%D8%B1%D8%AA%D9%86+%D8%A8%D8%B3%D8%AA%D9%87+%D8%A8%D9%86%D8%AF%DB%8C+%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87&vl=lang_fa"
     }
   ],
-  "generated_at": "2026-09-01T15:27:10Z",
+  "generated_at": "2026-09-02T06:50:52Z",
   "headless_policy": {
     "headless": true,
     "isolated_context": true,
     "proxy": "http://127.0.0.1:1087",
     "visible_browser_launched": false
+  },
+  "sales_activation": {
+    "captured_page_paths": [
+      "companies/ir-teh-38800362b3107611/pages/sales-8536fb8c5c8859b8.txt",
+      "companies/ir-teh-38800362b3107611/pages/sales-f898f184845d879c.txt",
+      "companies/ir-teh-38800362b3107611/pages/sales-5d54c9ba4df96896.txt",
+      "companies/ir-teh-38800362b3107611/pages/sales-9a8ceab65c164d99.txt"
+    ],
+    "contacts": {
+      "decision_maker_direct_candidates": [],
+      "decision_maker_search_candidates": [],
+      "economic_buyer_confidence": 0.0,
+      "economic_buyer_name": null,
+      "economic_buyer_role": "Managing Director / CEO",
+      "economic_buyer_source_url": null,
+      "primary_contact_confidence": 0.0,
+      "primary_contact_name": null,
+      "primary_contact_role": "Estimating / Production Director",
+      "primary_contact_source_url": null,
+      "public_corporate_emails": [
+        "info@behtapack.com"
+      ],
+      "public_corporate_phones": [
+        "02144302745"
+      ],
+      "public_linkedin_company": null,
+      "public_whatsapp": "https://wa.me/989124843263",
+      "technical_gatekeeper_confidence": 0.0,
+      "technical_gatekeeper_name": null,
+      "technical_gatekeeper_role": "Prepress or Production Planning Manager",
+      "technical_gatekeeper_source_url": null
+    },
+    "no_outreach_sent": true,
+    "public_journey": {
+      "entry_points": [
+        "public product/service information or catalog",
+        "public project/client information"
+      ],
+      "evidence": [
+        {
+          "claim": "The public page titled 'تماس با ما - شرکت بهتا گستر صنعت' exposes product/catalog information, a contact or order entry point.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "نایع گوناگون جهت تامین بسته بندی محصولات خود، فعالیت خود را در زمینه مشاوره و طراحی بسته بندی، تولید و چاپ انواع جعبه و کارتن محصولات صنایع مختلف شروع کرده است. بهتاپک با همکاری تیم مجرب و متخصص، استفاده از ماشین آلات به روز و پیشرفته سعی در تامین و تولید انواع بسته بندی مناسب با محصولات مشتریان خود دارد. جهت مشاوره رایگان و کسب اطلاعات بیشتر تماس بگیرید. info@behtapack.com 021-44302745 09124843263 سلام به بهتا گستر صنعت خوش آمدید👋 چگونه میتونم بهتون کمک کنم؟ باز کردن چت",
+          "source_family": "other_public",
+          "source_title": "تماس با ما - شرکت بهتا گستر صنعت",
+          "source_url": "https://behtapack.com/contact/"
+        },
+        {
+          "claim": "The public page titled 'خانه اصلی - شرکت بهتا گستر صنعت' exposes product/catalog information, a contact or order entry point.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "نجام آماده سازی های اولیه و تامین ملزومات چاپ تولید و کنترل کیفیت بکارگیری از تکنیک های چاپ فلکسو ، افست و برش و دایکات کارتن با استفاده از مدرنترین ماشین آلات و به یاری نیروی انسانی متخصص و در ادامه کنترل پارامترهای کیفی تولیدات داخل خط در حین فرآیند تولید و محصول نهایی بسته بندی و لجستیک بسته بندی نهایی با توجه به الزامات مشتری و واحد مهندسی به دو صورت تسمه کشی و پالت. آماده سازی و تحویل درب کارخانه مشتری با همکاری معتبرترین شرکت های حمل و نقل کشور صدای مشتریان کارشناسان پشتیبانی، نماینده شما در بهتاپک می باشند. رسیدگی به پیشنهادات و خواسته های مشتریان و همچنین برگزاری نظرسنجی های دوره ای جهت حفظ رضایت مشتریان، رفع نیازها و مشکلات آنان چاپ ",
+          "source_family": "other_public",
+          "source_title": "خانه اصلی - شرکت بهتا گستر صنعت",
+          "source_url": "https://behtapack.com/"
+        },
+        {
+          "claim": "The public page titled 'About - شرکت بهتا گستر صنعت' exposes product/catalog information, a contact or order entry point.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "ین تکنولوژی‌ها و متدهای روز دنیا پیش برد. بنابراین به روز کردن دستگاه‌ها و ماشین‌آلات مربوط به هر بخش از تولیدات جعبه و کارتن از اصول اصلی این شرکت تولیدی است. گفتنی است قابلیت ارسال سفارشات به سراسر ایران در مجموعه بهتاپک فراهم است. تولید و فروش انواع محصولات جعبه و کارتن مشاوره و طراحی محصول تیم متخصص طراحی با درک و شناخت نیاز مشتریان خود، طرح مناسب و خلاقانه محصول را تهیه و برای مراحل بعدی تولید آماده می کند. چاپ و تولید جعبه و کارتن بخش چاپ و تولید جعبه و کارتن بهتاپک طرح تهیه شده را برای مرحله بعدی آماده می کنند. طراحی و آماده سازی زینک چاپ و قالب برش جعبه و کارتن موردنظر، در این مرحله انجام شده و مرحله تولید جعبه و کارتن آغاز می شود. مح",
+          "source_family": "other_public",
+          "source_title": "About - شرکت بهتا گستر صنعت",
+          "source_url": "https://behtapack.com/about/"
+        },
+        {
+          "claim": "The public page titled 'محصولات - شرکت بهتا گستر صنعت' exposes product/catalog information, a contact or order entry point.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "نایع گوناگون جهت تامین بسته بندی محصولات خود، فعالیت خود را در زمینه مشاوره و طراحی بسته بندی، تولید و چاپ انواع جعبه و کارتن محصولات صنایع مختلف شروع کرده است. بهتاپک با همکاری تیم مجرب و متخصص، استفاده از ماشین آلات به روز و پیشرفته سعی در تامین و تولید انواع بسته بندی مناسب با محصولات مشتریان خود دارد. جهت مشاوره رایگان و کسب اطلاعات بیشتر تماس بگیرید. info@behtapack.com 021-44302745 09124843263 سلام به بهتا گستر صنعت خوش آمدید👋 چگونه میتونم بهتون کمک کنم؟ باز کردن چت",
+          "source_family": "other_public",
+          "source_title": "محصولات - شرکت بهتا گستر صنعت",
+          "source_url": "https://behtapack.com/portfolio/"
+        }
+      ],
+      "intake_channels": [
+        "website contact or inquiry surface",
+        "published corporate email",
+        "published corporate phone",
+        "explicitly published WhatsApp business link"
+      ],
+      "observable_steps": [
+        "Customer reaches تولید انواع جعبه و کارتن بهتاپک through public product/service information or catalog, public project/client information.",
+        "Customer uses website contact or inquiry surface, published corporate email, published corporate phone, explicitly published WhatsApp business link to ask for information or service.",
+        "estimating/production team reviews the job brief; the public record does not expose the internal handoffs or approval rules.",
+        "A discovery meeting should validate volume, data sources, ownership and the smallest safe pilot."
+      ],
+      "observable_steps_fa": [
+        "مشتری از طریق public product/service information or catalog، public project/client information به تولید انواع جعبه و کارتن بهتاپک می‌رسد.",
+        "مشتری از website contact or inquiry surface، published corporate email، published corporate phone، explicitly published WhatsApp business link برای دریافت اطلاعات یا خدمت استفاده می‌کند.",
+        "estimating/production team reviews the job brief؛ مراحل داخلی و قواعد تأیید از منابع عمومی قابل مشاهده نیست.",
+        "در جلسه کشف، حجم، منابع داده، مالک فرایند و کوچک‌ترین پایلوت امن اعتبارسنجی شود."
+      ]
+    },
+    "source_families_added": [
+      "other_public"
+    ],
+    "version": "2026.09.sales-activation-v1",
+    "workflow": {
+      "activation_evidence_classification": "EVIDENCE_SUPPORTED",
+      "company_id": "ir-teh-38800362b3107611",
+      "confidence": "High",
+      "confidence_score": 0.85,
+      "current_problem": "A repeated lookup, document or approval handoff is plausible; validate the actual volume, owner and baseline before proposing automation.",
+      "current_problem_fa": "تکرار جست‌وجو، ساخت سند یا تأیید محتمل است؛ حجم واقعی، مالک و خط مبنا پیش از پیشنهاد خودکارسازی اعتبارسنجی شود.",
+      "current_process_hypothesis": "Based on the public استخراج بریف سفارش و پشتیبانی برآورد surface, the first process to validate is the handoff from incoming information to a reviewed business output. Public sources do not establish the internal process or a current inefficiency.",
+      "current_process_hypothesis_fa": "با توجه به سطح عمومی استخراج بریف سفارش و پشتیبانی برآورد، نخستین فرایند قابل بررسی، تبدیل ورودی به خروجی کسب‌وکاریِ قابل بازبینی است؛ منابع عمومی فرایند داخلی یا وجود ناکارآمدی فعلی را اثبات نمی‌کنند.",
+      "department": "Estimating or Production Director",
+      "discovery_questions": [
+        "چه ورودی‌هایی در بریف مشتری بیشتر ناقص یا اصلاح‌شونده هستند؟",
+        "قواعد هزینه و ظرفیت چگونه تعیین می‌شوند و کدام بخش قطعی است؟",
+        "نسخه نهایی فایل و مشخصات چگونه به تولید تحویل می‌شود؟",
+        "چه تعداد استعلام یا سفارش سفارشی در ماه بررسی می‌شود؟",
+        "یک نمونه واقعی برای مقایسه زمان برآورد و اصلاحات چیست؟"
+      ],
+      "implementation_complexity": "Medium",
+      "implementation_risks": [
+        "data quality and permissions require discovery",
+        "human approval remains required",
+        "pilot should use a bounded workflow and approved samples"
+      ],
+      "implementation_risks_fa": [
+        "کیفیت داده و مجوزها باید در کشف بررسی شود",
+        "تأیید انسانی حفظ می‌شود",
+        "پایلوت با گردش محدود و نمونه‌های تأییدشده شروع شود"
+      ],
+      "likely_business_owner": "Estimating or Production Director",
+      "measurable_KPIs": [
+        "estimate turnaround",
+        "revision cycles",
+        "estimator throughput",
+        "jobs delayed by missing specifications"
+      ],
+      "measurable_KPIs_fa": [
+        "زمان برآورد",
+        "تعداد دور اصلاح",
+        "خروجی کارشناس برآورد",
+        "سفارش‌های متوقف به‌دلیل نقص مشخصات"
+      ],
+      "primary_users": "Sales, estimating, prepress and production planning",
+      "primary_users_fa": "فروش، برآورد، پیش‌ازچاپ و برنامه‌ریزی تولید",
+      "proposed_luma_solution": "A structured job-brief extractor and similar-job retrieval tool that supports explainable estimating and tracks artwork/specification approvals.",
+      "proposed_luma_solution_fa": "یک ابزار استخراج بریف و بازیابی سفارش‌های مشابه که برآورد قابل توضیح را پشتیبانی می‌کند و تأیید فایل و مشخصات را قابل پیگیری می‌سازد.",
+      "required_data": [
+        "Customer briefs, artwork/specifications, prior jobs, material/machine rules and capacity"
+      ],
+      "required_data_fa": [
+        "بریف مشتری، فایل و مشخصات، سفارش‌های قبلی، قواعد مواد/ماشین و ظرفیت"
+      ],
+      "required_integrations": [
+        "File intake, estimating spreadsheets, production planning and approval records"
+      ],
+      "required_integrations_fa": [
+        "دریافت فایل، فایل‌های برآورد، برنامه‌ریزی تولید و سوابق تأیید"
+      ],
+      "source_urls": [
+        "https://behtapack.com/contact/",
+        "https://behtapack.com/",
+        "https://behtapack.com/about/",
+        "https://behtapack.com/portfolio/"
+      ],
+      "supporting_evidence": [
+        {
+          "claim": "The public page titled 'تماس با ما - شرکت بهتا گستر صنعت' exposes product/catalog information, a contact or order entry point.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "نایع گوناگون جهت تامین بسته بندی محصولات خود، فعالیت خود را در زمینه مشاوره و طراحی بسته بندی، تولید و چاپ انواع جعبه و کارتن محصولات صنایع مختلف شروع کرده است. بهتاپک با همکاری تیم مجرب و متخصص، استفاده از ماشین آلات به روز و پیشرفته سعی در تامین و تولید انواع بسته بندی مناسب با محصولات مشتریان خود دارد. جهت مشاوره رایگان و کسب اطلاعات بیشتر تماس بگیرید. info@behtapack.com 021-44302745 09124843263 سلام به بهتا گستر صنعت خوش آمدید👋 چگونه میتونم بهتون کمک کنم؟ باز کردن چت",
+          "source_family": "other_public",
+          "source_title": "تماس با ما - شرکت بهتا گستر صنعت",
+          "source_url": "https://behtapack.com/contact/"
+        },
+        {
+          "claim": "The public page titled 'خانه اصلی - شرکت بهتا گستر صنعت' exposes product/catalog information, a contact or order entry point.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "نجام آماده سازی های اولیه و تامین ملزومات چاپ تولید و کنترل کیفیت بکارگیری از تکنیک های چاپ فلکسو ، افست و برش و دایکات کارتن با استفاده از مدرنترین ماشین آلات و به یاری نیروی انسانی متخصص و در ادامه کنترل پارامترهای کیفی تولیدات داخل خط در حین فرآیند تولید و محصول نهایی بسته بندی و لجستیک بسته بندی نهایی با توجه به الزامات مشتری و واحد مهندسی به دو صورت تسمه کشی و پالت. آماده سازی و تحویل درب کارخانه مشتری با همکاری معتبرترین شرکت های حمل و نقل کشور صدای مشتریان کارشناسان پشتیبانی، نماینده شما در بهتاپک می باشند. رسیدگی به پیشنهادات و خواسته های مشتریان و همچنین برگزاری نظرسنجی های دوره ای جهت حفظ رضایت مشتریان، رفع نیازها و مشکلات آنان چاپ ",
+          "source_family": "other_public",
+          "source_title": "خانه اصلی - شرکت بهتا گستر صنعت",
+          "source_url": "https://behtapack.com/"
+        },
+        {
+          "claim": "The public page titled 'About - شرکت بهتا گستر صنعت' exposes product/catalog information, a contact or order entry point.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "ین تکنولوژی‌ها و متدهای روز دنیا پیش برد. بنابراین به روز کردن دستگاه‌ها و ماشین‌آلات مربوط به هر بخش از تولیدات جعبه و کارتن از اصول اصلی این شرکت تولیدی است. گفتنی است قابلیت ارسال سفارشات به سراسر ایران در مجموعه بهتاپک فراهم است. تولید و فروش انواع محصولات جعبه و کارتن مشاوره و طراحی محصول تیم متخصص طراحی با درک و شناخت نیاز مشتریان خود، طرح مناسب و خلاقانه محصول را تهیه و برای مراحل بعدی تولید آماده می کند. چاپ و تولید جعبه و کارتن بخش چاپ و تولید جعبه و کارتن بهتاپک طرح تهیه شده را برای مرحله بعدی آماده می کنند. طراحی و آماده سازی زینک چاپ و قالب برش جعبه و کارتن موردنظر، در این مرحله انجام شده و مرحله تولید جعبه و کارتن آغاز می شود. مح",
+          "source_family": "other_public",
+          "source_title": "About - شرکت بهتا گستر صنعت",
+          "source_url": "https://behtapack.com/about/"
+        },
+        {
+          "claim": "The public page titled 'محصولات - شرکت بهتا گستر صنعت' exposes product/catalog information, a contact or order entry point.",
+          "confidence": 0.8,
+          "evidence_type": "OBSERVED",
+          "quote_or_snippet": "نایع گوناگون جهت تامین بسته بندی محصولات خود، فعالیت خود را در زمینه مشاوره و طراحی بسته بندی، تولید و چاپ انواع جعبه و کارتن محصولات صنایع مختلف شروع کرده است. بهتاپک با همکاری تیم مجرب و متخصص، استفاده از ماشین آلات به روز و پیشرفته سعی در تامین و تولید انواع بسته بندی مناسب با محصولات مشتریان خود دارد. جهت مشاوره رایگان و کسب اطلاعات بیشتر تماس بگیرید. info@behtapack.com 021-44302745 09124843263 سلام به بهتا گستر صنعت خوش آمدید👋 چگونه میتونم بهتون کمک کنم؟ باز کردن چت",
+          "source_family": "other_public",
+          "source_title": "محصولات - شرکت بهتا گستر صنعت",
+          "source_url": "https://behtapack.com/portfolio/"
+        }
+      ],
+      "workflow_evidence_classification": "EVIDENCE_SUPPORTED",
+      "workflow_family": "job_brief_estimate",
+      "workflow_id": "wf-de225666e6c91523",
+      "workflow_name": "Job-brief extraction and estimating support",
+      "workflow_name_fa": "استخراج بریف سفارش و پشتیبانی برآورد"
+    }
   },
   "screenshots": [
     {
@@ -280,6 +516,62 @@
       "source_title": "About - شرکت بهتا گستر صنعت",
       "source_type": "commercial_audit",
       "source_url": "https://behtapack.com/about/"
+    },
+    {
+      "captured_at": "2026-09-02T06:15:23Z",
+      "company_id": "ir-teh-38800362b3107611",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "خانه اصلی - شرکت بهتا گستر صنعت پرش به محتوا شرکت بهتا گستر صنعت 021-44302745 09124843263 استعلام قیمت فهرست صفحه اصلی خدمات مقالات ثبت نام تامین کنندگان همکاری با ما درباره ما تماس با ما English فهرست صفحه اصلی خدمات مقالات ثبت نام تامین کنندگان همکاری با ما درباره ما تماس با ما English خدمات بهتاپک مشاوره تخصصی بسته بندی ارائه مشاوره و پیشنهاد راه حل های بسته بندی با تکیه بر دانش نیروی کار متخصص و همچنین نوآوری در طراحی به منظور بهینه سازی فرآیند تولید، افزایش بهره وری و ایجاد مزیت رقابتی برای مشتریان مهندسی و طراحی بسته بندی طراحی بهترین ساختار بسته بندی با توجه به نوع محصول و زنجیره فروش آن و بهینه سازی ساختار بر پایه استانداردهای موجود. ساخت نمونه اولیه با بهره گیری از به روزترین نرم اف",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-8b49eb1fafabd665",
+      "source_quality": "public_page",
+      "source_title": "خانه اصلی - شرکت بهتا گستر صنعت",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://behtapack.com/"
+    },
+    {
+      "captured_at": "2026-09-02T06:34:03Z",
+      "company_id": "ir-teh-38800362b3107611",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "تماس با ما - شرکت بهتا گستر صنعت پرش به محتوا شرکت بهتا گستر صنعت 021-44302745 09124843263 استعلام قیمت فهرست صفحه اصلی خدمات مقالات ثبت نام تامین کنندگان همکاری با ما درباره ما تماس با ما English فهرست صفحه اصلی خدمات مقالات ثبت نام تامین کنندگان همکاری با ما درباره ما تماس با ما English تماس با ما ۰۲۱-۴۴۳۰۲۷۴۵ ۰۹۱۲۴۸۴۳۲۶۳ شنبه تا پنجشنبه : از ۸ تا ۲۰ در خدمتیم تهران کیلومتر ۱۸ جاده فتح، مجتمع سازه گستر info@behtapack.com از طریق ایمیل هم پاسخگوییم سوالات رایج آیا اکنون میتوانیم خرید انجام دهیم؟ چرا باید با تیم شما همکاری کنیم؟ تفاوت شما با دیگر رقیبان چیست؟ پاسخگویی شما به چه شکل است؟ استراتژی طراحی پک ها به چه صورت است؟ کیفیت ارائه خدمات چقدر است؟ مدت زمان آماده سازی سفارشات چقدر است؟ با ",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-495833baf5ce540b",
+      "source_quality": "public_page",
+      "source_title": "تماس با ما - شرکت بهتا گستر صنعت",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://behtapack.com/contact/"
+    },
+    {
+      "captured_at": "2026-09-02T06:34:03Z",
+      "company_id": "ir-teh-38800362b3107611",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "About - شرکت بهتا گستر صنعت پرش به محتوا شرکت بهتا گستر صنعت 021-44302745 09124843263 استعلام قیمت فهرست صفحه اصلی خدمات مقالات ثبت نام تامین کنندگان همکاری با ما درباره ما تماس با ما English فهرست صفحه اصلی خدمات مقالات ثبت نام تامین کنندگان همکاری با ما درباره ما تماس با ما English درباره ما ماموریت بهتاپک شرکت بهتا گستر صنعت با شماره ثبت ۶۵۰۵۶۰ با نشان بهتاپک فعالیت خود را آغاز نموده و با تکیه بر تجربه مدیریتی و عملیاتی نیروهای متخصص صنعت چاپ و بسته بندی پیش می‌رود و ماموریت اصلی خود را عرضه تولیدات باکیفیت به مشتریان و جلب رضایت آنان قرار داده است. مجموعه بهتاپک طی سال‌های فعالیت خود تلاش کرده تا خدماتش را بر اساس آخرین تکنولوژی‌ها و متدهای روز دنیا پیش برد. بنابراین به روز کردن دستگاه‌ه",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-96ddb72269c48a03",
+      "source_quality": "public_page",
+      "source_title": "About - شرکت بهتا گستر صنعت",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://behtapack.com/about/"
+    },
+    {
+      "captured_at": "2026-09-02T06:34:03Z",
+      "company_id": "ir-teh-38800362b3107611",
+      "discovery_reason": "Targeted sales activation enrichment of an existing READY FOR OUTREACH company",
+      "evidence_class": "OBSERVED",
+      "evidence_snippet": "محصولات - شرکت بهتا گستر صنعت پرش به محتوا شرکت بهتا گستر صنعت 021-44302745 09124843263 استعلام قیمت فهرست صفحه اصلی خدمات مقالات ثبت نام تامین کنندگان همکاری با ما درباره ما تماس با ما English فهرست صفحه اصلی خدمات مقالات ثبت نام تامین کنندگان همکاری با ما درباره ما تماس با ما English خدمات بهتاپک چه خدماتی از ما دریافت خواهید کرد طراحی و پیشنهاد بهترین ساختار ساخت نمونه اولیه مشاوره انتخاب بهترین ترکیب ورق مشاوره پیش از چاپ (طراحی) تولید و کنترل کیفیت لجستیک و ارسال شرکت صنایع چاپ و بسته بندی بهتا گستر صنعت با شماره ثبت 650560 و نشان بهتا پک با درک نیاز مشتریان در صنایع گوناگون جهت تامین بسته بندی محصولات خود، فعالیت خود را در زمینه مشاوره و طراحی بسته بندی، تولید و چاپ انواع جعبه و کارتن ",
+      "sales_activation_round": "2026.09.sales-activation-v1",
+      "source_family": "other_public",
+      "source_id": "src-4518d38b800f280a",
+      "source_quality": "public_page",
+      "source_title": "محصولات - شرکت بهتا گستر صنعت",
+      "source_type": "sales_activation_public_page",
+      "source_url": "https://behtapack.com/portfolio/"
     }
   ]
 }
